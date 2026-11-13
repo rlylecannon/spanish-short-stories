@@ -5,12 +5,16 @@
 *Stories first. Fluency follows.*
 
 ## Try it or build it
+**Live site:** https://rlylecannon.github.io/spanish-short-stories/
+
 The built site is in [`free-spanish-stories/`](free-spanish-stories/): one `index.html` plus the free PDFs in `resources/`. Open it from any web server (opening the file directly works for reading, but the microphone features need HTTPS).
 
 ```bash
 python3 tools/build_site.py free-spanish-stories      # rebuild index.html from the sources
 cd free-spanish-stories && python3 -m http.server 8000
 ```
+
+Publishing: every push to `main` deploys `free-spanish-stories/` to GitHub Pages through [`.github/workflows/pages.yml`](.github/workflows/pages.yml). The page is not rebuilt on GitHub, so run the build command above and commit the new `index.html` before pushing.
 
 A map of the code, the data files, how the page is assembled, how to test, and the known open issues is in [`docs/CODE-GUIDE.md`](docs/CODE-GUIDE.md). Optional AI features (open role-play, detailed writing feedback) need a small backend; see [`docs/AI-BACKEND.md`](docs/AI-BACKEND.md).
 

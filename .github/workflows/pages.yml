@@ -1,0 +1,43 @@
+# Publish the built site (free-spanish-stories/) to GitHub Pages.
+# Runs on every push to main, and can be started by hand from the Actions tab ("Run workflow").
+# One-time setup: repository Settings -> Pages -> Build and deployment -> Source: "GitHub Actions".
+# The site is served as-is: index.html is already built by tools/build_site.py and committed,
+# so rebuild it locally (python3 tools/build_site.py free-spanish-stories) before pushing changes.
+name: Deploy site to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Only one deployment at a time; a newer push cancels a queued (not running) one.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v4
+
+      - name: Set up Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload the built site
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: free-spanish-stories
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
