@@ -52,6 +52,9 @@ footer a{display:inline-block;padding:10px 8px}
    It used to overlay the bottom of the picture (hiding the characters) at 9.6 to 11.5 px. */
 /* .illus is a centred flex box with a fixed 4:3 ratio; switch the inline one to a plain block so the caption stacks under the picture. */
 .illus.inline{display:block;aspect-ratio:auto}
+/* On desktop the picture sits beside the audio player in a stretching flex row (.rowC), which pinned the picture box
+   to the player's height and cut the caption off on every story; let the picture box size to its own content. */
+.rowC .illus.inline{align-self:flex-start}
 .illus.inline .cc{position:static!important;background:var(--soft);backdrop-filter:none;color:var(--ink);font-size:.78rem;line-height:1.35;align-items:flex-start;border-top:1px solid var(--line)!important}
 .illus.inline .cc-h{font-size:.75rem}
 
