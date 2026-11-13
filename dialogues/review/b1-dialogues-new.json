@@ -1,0 +1,892 @@
+{
+ "b1-01": {
+  "steps": [
+   {
+    "say": "Buenas tardes, señora. Soy Pilar, la dueña del hostal. Gustavo dice que usted le ha traído la cartera. ¿Cómo la encontró?",
+    "en": "Good afternoon, madam. I'm Pilar, the owner of the hostel. Gustavo says you've brought him his wallet. How did you find it?",
+    "r": [
+     [
+      "Paseaba por el Retiro, como todos los días, y la vi debajo de un banco.",
+      "I was walking in the Retiro, like every day, and I saw it under a bench.",
+      1
+     ],
+     [
+      "Caminaba por el parque cuando vi algo verde en el suelo.",
+      "I was walking through the park when I saw something green on the ground.",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "¡Qué suerte! ¿Y cómo supo que tenía que venir aquí?",
+    "en": "How lucky! And how did you know you had to come here?",
+    "r": [
+     [
+      "Dentro había un carnet chileno y un papel con la dirección del hostal.",
+      "Inside there was a Chilean ID card and a piece of paper with the hostel's address.",
+      2
+     ],
+     [
+      "Había un papel doblado con su dirección, pero no había ningún teléfono.",
+      "There was a folded piece of paper with your address, but there was no phone number.",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "¿Y por qué no la llevó a la comisaría?",
+    "en": "And why didn't you take it to the police station?",
+    "r": [
+     [
+      "La comisaría estaba lejos y me dolía la rodilla.",
+      "The police station was far away and my knee hurt.",
+      3
+     ],
+     [
+      "Vi la foto del chico y pensé que estaría muy preocupado.",
+      "I saw the boy's photo and thought he would be very worried.",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "Ha sido un detalle precioso. Ustedes dos han hablado un rato. ¿Qué le contó Gustavo de su familia?",
+    "en": "It was a lovely thing to do. You two have been talking for a while. What did Gustavo tell you about his family?",
+    "r": [
+     [
+      "Me dijo que su abuela había nacido en Madrid y se había marchado a Chile.",
+      "He told me his grandmother had been born in Madrid and had left for Chile.",
+      4
+     ],
+     [
+      "Me explicó que había viajado hasta aquí para conocer la ciudad de su abuela.",
+      "He explained that he had travelled here to get to know his grandmother's city.",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "Qué bonito. Él quiere ver el barrio donde vivía su abuela. ¿Y usted? ¿Cómo era el lugar donde creció?",
+    "en": "How lovely. He wants to see the neighbourhood where his grandmother lived. And you? What was the place where you grew up like?",
+    "r": [
+     [
+      "Era un pueblo pequeño donde todos se conocían.",
+      "It was a small town where everybody knew each other.",
+      5
+     ],
+     [
+      "Era un barrio ruidoso, con un mercado que me encantaba.",
+      "It was a noisy neighbourhood, with a market that I loved.",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "Me lo imagino. Bueno, Gustavo la espera en la puerta para invitarla a un chocolate con churros. ¡Que lo pasen muy bien!",
+    "en": "I can imagine. Well, Gustavo is waiting for you at the door to treat you to hot chocolate and churros. Have a lovely time!",
+    "end": true
+   }
+  ]
+ },
+ "b1-02": {
+  "steps": [
+   {
+    "say": "¡Buenas! Pasá, pasá. Hoy hay cola por lo del concurso. ¿Qué vas a pedir?",
+    "en": "Hi! Come in, come in. There's a queue today because of the contest. What are you going to order?",
+    "r": [
+     [
+      "Voy a probar el chivito que ganó el concurso.",
+      "I'm going to try the chivito that won the contest.",
+      1
+     ],
+     [
+      "Un chivito, por favor. Hoy probaré el campeón.",
+      "A chivito, please. Today I'll try the champion.",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "¡Buena elección! ¿Lo querés completo, con jamón, muzzarella, panceta y huevo frito? Si lo pedís completo, vas a necesitar las dos manos.",
+    "en": "Good choice! Do you want it with everything: ham, mozzarella, bacon and a fried egg? If you order it with everything, you'll need both hands.",
+    "r": [
+     [
+      "Si viene con huevo frito, lo quiero completo.",
+      "If it comes with a fried egg, I want it with everything.",
+      2
+     ],
+     [
+      "Sí, completo. Si sobra algo, me lo llevo a casa.",
+      "Yes, with everything. If there's any left over, I'll take it home.",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "¿Sabías que el sábado se cortó la luz y se apagaron todas las planchas? Pero yo tenía la parrillita de mi abuela. ¿Por qué creés que la llevé?",
+    "en": "Did you know the power went out on Saturday and all the griddles went off? But I had my grandmother's little grill. Why do you think I took it?",
+    "r": [
+     [
+      "Porque tu abuela te había dicho que iba a llover.",
+      "Because your grandmother had told you it was going to rain.",
+      3
+     ],
+     [
+      "Porque esa mañana la habías metido en el auto de tu primo, por si acaso.",
+      "Because that morning you had put it in your cousin's car, just in case.",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "¡Exacto! Y el año que viene hay otro concurso. ¿Vas a venir a verlo?",
+    "en": "Exactly! And there's another contest next year. Are you going to come and see it?",
+    "r": [
+     [
+      "Sí, volveré y traeré a mis amigos.",
+      "Yes, I'll come back and bring my friends.",
+      4
+     ],
+     [
+      "Si estoy en Montevideo, vendré seguro.",
+      "If I'm in Montevideo, I'll definitely come.",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "¡Me encanta! Y vos, ¿cocinás? ¿Qué vas a preparar este fin de semana?",
+    "en": "Love it! And you, do you cook? What are you going to make this weekend?",
+    "r": [
+     [
+      "El sábado haré una tortilla de papas para mis amigos.",
+      "On Saturday I'll make a potato omelette for my friends.",
+      5
+     ],
+     [
+      "No cocino mucho, pero el domingo me pondré el delantal y probaré algo nuevo.",
+      "I don't cook much, but on Sunday I'll put on an apron and try something new.",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "¡Así me gusta! Acá tenés tu chivito, con el pan bien tostado, porque si el pan está frío, el chivito está triste. ¡Buen provecho!",
+    "en": "That's what I like to hear! Here's your chivito, with the bread nicely toasted, because if the bread is cold, the chivito is sad. Enjoy your meal!",
+    "end": true
+   }
+  ]
+ },
+ "b1-03": {
+  "steps": [
+   {
+    "say": "Buenos días, Iván. ¿Qué pasó? Te veo muy preocupado.",
+    "en": "Good morning, Iván. What happened? You look very worried.",
+    "r": [
+     [
+      "Se rompió el horno de mi abuela, justo antes del Día de Muertos.",
+      "My grandmother's oven broke, right before the Day of the Dead.",
+      1
+     ],
+     [
+      "La pared del horno se agrietó y salió mucho humo.",
+      "The wall of the oven cracked and a lot of smoke came out.",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "¡Ay, no! ¿Y qué dijo el técnico?",
+    "en": "Oh no! And what did the technician say?",
+    "r": [
+     [
+      "Le dijo a mi abuela: «Si yo fuera usted, compraría un horno eléctrico».",
+      "He told my grandmother: 'If I were you, I'd buy an electric oven.'",
+      2
+     ],
+     [
+      "Dijo que la reparación costaría mucho dinero y tardaría tres semanas.",
+      "He said the repair would cost a lot of money and would take three weeks.",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "Pobre doña Remedios, con tantos encargos. ¿Y yo cómo los puedo ayudar?",
+    "en": "Poor doña Remedios, with so many orders. And how can I help you?",
+    "r": [
+     [
+      "Si nos prestara su cocina unas horas, podríamos hornear el pan.",
+      "If you lent us your kitchen for a few hours, we could bake the bread.",
+      3
+     ],
+     [
+      "Si cada vecino nos ayudara un poco, entregaríamos todos los pedidos a tiempo.",
+      "If every neighbour helped us a little, we would deliver all the orders on time.",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "Con gusto, pero yo nunca había hecho pan. Solo sé cortar carne. ¿Qué haría yo en la cocina?",
+    "en": "Gladly, but I had never made bread. I only know how to cut meat. What would I do in the kitchen?",
+    "r": [
+     [
+      "Usted encendería el horno y nosotros amasaríamos.",
+      "You would light the oven and we would knead the dough.",
+      4
+     ],
+     [
+      "No se preocupe. Mi abuela le enseñaría todo.",
+      "Don't worry. My grandmother would teach you everything.",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "Ándale, pues. Oye, y tú, si tuvieras un negocio en tu barrio, ¿qué venderías?",
+    "en": "All right, then. Hey, and you, if you had a business in your neighbourhood, what would you sell?",
+    "r": [
+     [
+      "Si tuviera un negocio, vendería café y libros.",
+      "If I had a business, I'd sell coffee and books.",
+      5
+     ],
+     [
+      "Abriría una panadería, pero no me levantaría a las tres.",
+      "I'd open a bakery, but I wouldn't get up at three.",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "¡Ja! Buena idea. Ahorita les aviso a las hermanas Santiago y a la señora Graciela. Dile a tu abuela que mi cocina está lista. ¡Entre todos vamos a sacar ese pan!",
+    "en": "Ha! Good idea. I'll let the Santiago sisters and señora Graciela know right now. Tell your grandmother my kitchen is ready. Together we'll get that bread out!",
+    "end": true
+   }
+  ]
+ },
+ "b1-04": {
+  "steps": [
+   {
+    "say": "¡Marcos, qué bueno que me llamaste! Hacía meses que no cenábamos juntos. ¿Qué te pasó esta semana?",
+    "en": "Marcos, I'm so glad you called me! We hadn't had dinner together for months. What happened to you this week?",
+    "r": [
+     [
+      "Conocí a un paciente que cambió mis noches en el hospital.",
+      "I met a patient who changed my nights at the hospital.",
+      1
+     ],
+     [
+      "Hacía mi ronda cuando vi una luz encendida en la habitación 12.",
+      "I was doing my rounds when I saw a light on in room 12.",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "¿Un paciente? ¿Y por qué estaba en el hospital?",
+    "en": "A patient? And why was he in hospital?",
+    "r": [
+     [
+      "Se había caído en la calle y se había lastimado la cadera.",
+      "He had fallen in the street and had hurt his hip.",
+      2
+     ],
+     [
+      "Los médicos habían dicho que tenía que quedarse una semana en observación.",
+      "The doctors had said he had to stay a week for observation.",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "¿Y qué quería a las dos de la mañana?",
+    "en": "And what did he want at two in the morning?",
+    "r": [
+     [
+      "Me dijo: «Si pudiera abrir esa ventana, le enseñaría algo muy bonito».",
+      "He told me: 'If I could open that window, I'd show you something very beautiful.'",
+      3
+     ],
+     [
+      "Quería abrir la ventana para mostrarme lo que se veía en el cielo.",
+      "He wanted to open the window to show me what you could see in the sky.",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "¡Pero las ventanas tienen que estar cerradas! ¿La abriste?",
+    "en": "But the windows have to stay closed! Did you open it?",
+    "r": [
+     [
+      "Sí, solo un poco. Me mostró Antares, una estrella que es roja.",
+      "Yes, just a little. He showed me Antares, a star that is red.",
+      4
+     ],
+     [
+      "Sí. Me habló del observatorio donde había trabajado cuarenta años.",
+      "Yes. He told me about the observatory where he had worked for forty years.",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "Qué lindo, hermano. Yo nunca había mirado las estrellas así. ¿Y tú? Si tuvieras una noche libre, ¿adónde irías a mirar el cielo?",
+    "en": "How lovely, brother. I had never looked at the stars like that. And you? If you had a free night, where would you go to look at the sky?",
+    "r": [
+     [
+      "Si tuviera una noche libre, iría al campo, donde no hay luces.",
+      "If I had a free night, I'd go to the countryside, where there are no lights.",
+      5
+     ],
+     [
+      "Iría a la playa con mis amigos y miraría el cielo toda la noche.",
+      "I'd go to the beach with my friends and look at the sky all night.",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "Me encanta. Oye, ¿y si cenamos juntos todas las semanas? Así me enseñas a usar ese telescopio nuevo.",
+    "en": "I love it. Hey, what if we have dinner together every week? That way you can teach me how to use that new telescope.",
+    "end": true
+   }
+  ]
+ },
+ "b1-05": {
+  "steps": [
+   {
+    "say": "¡Leticia, mija! Ya volvieron de Montañita. Cuéntame, ¿cómo fueron los primeros días?",
+    "en": "Leticia, sweetheart! You're back from Montañita. Tell me, what were the first days like?",
+    "r": [
+     [
+      "Fueron incómodos. Casi no habíamos hablado en tres años.",
+      "They were awkward. We had hardly spoken in three years.",
+      1
+     ],
+     [
+      "Difíciles. Pedaleábamos uno detrás del otro y solo hablábamos de la ruta.",
+      "Hard. We rode one behind the other and only talked about the route.",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "Me lo imaginaba. ¿Y qué pasó cerca de Puerto López?",
+    "en": "I thought so. And what happened near Puerto López?",
+    "r": [
+     [
+      "Se me pinchó la rueda y vi que había dejado el repuesto en el hotel.",
+      "I got a flat tyre and saw that I had left the spare in the hotel.",
+      2
+     ],
+     [
+      "Se pinchó mi rueda, pero Nicolás había traído dos repuestos.",
+      "My tyre went flat, but Nicolás had brought two spares.",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "¡Ese es mi sobrino! ¿Y el pescador, don Walter? ¿Qué les contó?",
+    "en": "That's my nephew! And the fisherman, don Walter? What did he tell you?",
+    "r": [
+     [
+      "Nos contó que había perdido a su hermano en una tormenta.",
+      "He told us he had lost his brother in a storm.",
+      3
+     ],
+     [
+      "Dijo que si pudiera hablar con su hermano, le diría cosas sencillas.",
+      "He said that if he could talk to his brother, he'd tell him simple things.",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "Y ustedes dos, ¿hablaron por fin de la casa?",
+    "en": "And you two, did you finally talk about the house?",
+    "r": [
+     [
+      "Sí. Yo debí haberlo llamado antes, y él debió hablar conmigo antes de firmar.",
+      "Yes. I should have called him earlier, and he should have talked to me before signing.",
+      4
+     ],
+     [
+      "Sí, los dos pedimos perdón. Deberíamos haber hablado hace mucho tiempo.",
+      "Yes, we both apologised. We should have talked a long time ago.",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "¡Qué alegría! ¿Y tú? ¿Hay alguien a quien deberías llamar pronto?",
+    "en": "How wonderful! And you? Is there someone you should call soon?",
+    "r": [
+     [
+      "Sí, debería llamar a una amiga con quien no hablo desde hace meses.",
+      "Yes, I should call a friend I haven't spoken to for months.",
+      5
+     ],
+     [
+      "Creo que debería visitar más a mis abuelos.",
+      "I think I should visit my grandparents more.",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "Entonces no esperes tres años, como ustedes. Y Nicolás ya me contó que quieren hacer otro viaje el año que viene. ¡Esta vez voy con ustedes!",
+    "en": "Then don't wait three years, like you two did. And Nicolás already told me you want to do another trip next year. This time I'm coming with you!",
+    "end": true
+   }
+  ]
+ },
+ "b1-06": {
+  "steps": [
+   {
+    "say": "¡Hola, prima! Me mandaste una foto muy misteriosa. ¿Quiénes son esos dos?",
+    "en": "Hi, cousin! You sent me a very mysterious photo. Who are those two?",
+    "r": [
+     [
+      "Es la abuela con Octavio, su primer amor. Alguien había escondido la foto en un libro de recetas.",
+      "It's Grandma with Octavio, her first love. Someone had hidden the photo in a recipe book.",
+      1
+     ],
+     [
+      "Son la abuela Lupe y un músico que se llamaba Octavio, en 1962.",
+      "It's Grandma Lupe and a musician called Octavio, in 1962.",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "¡Qué romántico! ¿Y qué te contó la abuela?",
+    "en": "How romantic! And what did Grandma tell you?",
+    "r": [
+     [
+      "Me dijo que Octavio se iba a trabajar a Estados Unidos para ahorrar.",
+      "She told me Octavio was going to work in the United States to save money.",
+      2
+     ],
+     [
+      "Me contó que él le prometió que le escribiría cada semana.",
+      "She told me he promised her he would write to her every week.",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "¿Y le escribió?",
+    "en": "And did he write to her?",
+    "r": [
+     [
+      "Ella dijo que nunca había recibido ninguna carta.",
+      "She said she had never received a single letter.",
+      3
+     ],
+     [
+      "No sé. La abuela pensó que él la había olvidado.",
+      "I don't know. Grandma thought he had forgotten her.",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "Qué triste. Lo voy a buscar en internet. ¿Qué quieres que haga si lo encuentro?",
+    "en": "How sad. I'll look for him online. What do you want me to do if I find him?",
+    "r": [
+     [
+      "Quiero que le escribas a su familia, pero no le digas nada a la abuela todavía.",
+      "I want you to write to his family, but don't tell Grandma anything yet.",
+      4
+     ],
+     [
+      "Espero que lo encuentres. Es importante que la abuela no se haga ilusiones.",
+      "I hope you find him. It's important that Grandma doesn't get her hopes up.",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "Va, prima. Oye, ¿y tú tienes fotos viejas de tu familia con alguna historia?",
+    "en": "OK, cousin. Hey, and do you have old family photos with a story behind them?",
+    "r": [
+     [
+      "Sí, tengo una foto de mis abuelos el día de su boda.",
+      "Yes, I have a photo of my grandparents on their wedding day.",
+      5
+     ],
+     [
+      "No muchas, pero mi mamá guarda cartas de cuando era joven.",
+      "Not many, but my mom keeps letters from when she was young.",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "¡Qué bonito! Bueno, te llamo en cuanto sepa algo. Ojalá esta historia tenga un final feliz.",
+    "en": "How lovely! Well, I'll call you as soon as I know something. I hope this story has a happy ending.",
+    "end": true
+   }
+  ]
+ },
+ "b1-07": {
+  "steps": [
+   {
+    "say": "¿Aló? ¿Teresa? Habla la mamá de Camilo. ¿Cómo les fue con los inversionistas? Camilo no me contesta.",
+    "en": "Hello? Teresa? This is Camilo's mom. How did it go with the investors? Camilo isn't answering.",
+    "r": [
+     [
+      "Pues... fue una reunión muy especial, señora.",
+      "Well... it was a very special meeting, ma'am.",
+      1
+     ],
+     [
+      "Al final, bien. Pero pasó algo muy raro.",
+      "In the end, fine. But something very strange happened.",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "¿Raro? ¿Qué pasó?",
+    "en": "Strange? What happened?",
+    "r": [
+     [
+      "Los zapatos empezaron a hablar con su voz y le dijeron a Camilo que se tomara el jugo.",
+      "The shoes started talking in your voice and told Camilo to drink his juice.",
+      2
+     ],
+     [
+      "Los zapatos le pidieron que se pusiera la bufanda, ¡delante de todos!",
+      "The shoes asked him to put on his scarf, in front of everyone!",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "¡Ay, Dios mío! ¡Mis notas de voz! ¿Y qué hizo Camilo?",
+    "en": "Oh my goodness! My voice notes! And what did Camilo do?",
+    "r": [
+     [
+      "Yo le dije que se los quitara, pero los cordones estaban enredados.",
+      "I told him to take them off, but the laces were tangled.",
+      3
+     ],
+     [
+      "Intentó apagarlos y al final salió de la sala en medias.",
+      "He tried to switch them off and in the end he left the room in his socks.",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "¡Qué vergüenza! ¿Y los inversionistas qué dijeron?",
+    "en": "How embarrassing! And what did the investors say?",
+    "r": [
+     [
+      "Doña Beatriz se rio y dijo que su nieto obedecería a unos zapatos así.",
+      "Doña Beatriz laughed and said her grandson would obey shoes like that.",
+      4
+     ],
+     [
+      "Les encantó. Quieren que los zapatos usen la voz de la familia.",
+      "They loved it. They want the shoes to use the family's voice.",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "¿En serio? ¡Qué alegría! Y a usted, mija, ¿qué quiere que le digan sus zapatos?",
+    "en": "Really? How wonderful! And you, dear, what do you want your shoes to tell you?",
+    "r": [
+     [
+      "Quiero que me digan que no llegue tarde.",
+      "I want them to tell me not to be late.",
+      5
+     ],
+     [
+      "Quiero que me recuerden que tome agua.",
+      "I want them to remind me to drink water.",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "¡Ja! Yo le grabo esos mensajes gratis. Dígale a Camilo que me llame, y que se tome el jugo, ¿oyó?",
+    "en": "Ha! I'll record those messages for you for free. Tell Camilo to call me, and to drink his juice, all right?",
+    "end": true
+   }
+  ]
+ },
+ "b1-08": {
+  "steps": [
+   {
+    "say": "¡Ustedes me engañaron! Me dijeron que había un examen sorpresa. ¿Desde cuándo preparaban esta fiesta?",
+    "en": "You tricked me! You told me there was a surprise test. How long had you been preparing this party?",
+    "r": [
+     [
+      "Desde octubre, profesor. La directora nos había pedido silencio.",
+      "Since October, sir. The principal had asked us to keep quiet.",
+      1
+     ],
+     [
+      "Desde hacía un mes. Habíamos llamado a muchos exalumnos.",
+      "For a month. We had called lots of former students.",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "Y encontraron a Carmen Ríos... ¿Qué les contó de mí?",
+    "en": "And you found Carmen Ríos... What did she tell you about me?",
+    "r": [
+     [
+      "Nos dijo que usted le había dado clases gratis después del colegio.",
+      "She told us you had given her free lessons after school.",
+      2
+     ],
+     [
+      "Nos contó que quería dejar el colegio, pero que usted la ayudó.",
+      "She told us she wanted to leave school, but that you helped her.",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "Era muy buena alumna. ¿Y ahora qué quieren que haga? ¿Que me quede en casa leyendo?",
+    "en": "She was a very good student. And now what do you want me to do? Stay at home reading?",
+    "r": [
+     [
+      "No, profesor. Queremos que acepte la propuesta de Carmen.",
+      "No, sir. We want you to accept Carmen's offer.",
+      3
+     ],
+     [
+      "Ojalá vaya los sábados al centro comunitario del cerro.",
+      "We hope you'll go to the community centre on the hill on Saturdays.",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "Lo voy a pensar. Ahora denme ustedes un consejo a mí: ¿qué hago con tanto tiempo libre?",
+    "en": "I'll think about it. Now you give me some advice: what do I do with so much free time?",
+    "r": [
+     [
+      "Lea los libros que tiene pendientes y descanse un poco.",
+      "Read the books you've been meaning to read and rest a little.",
+      4
+     ],
+     [
+      "Venga a visitarnos y no se olvide de su tiza.",
+      "Come and visit us and don't forget your chalk.",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "Buenos consejos. Y tú, ¿qué profesor te ayudó más en la vida? ¿Qué te enseñó?",
+    "en": "Good advice. And you, which teacher helped you most in life? What did they teach you?",
+    "r": [
+     [
+      "Una profesora de inglés. Me enseñó que equivocarse es normal.",
+      "An English teacher. She taught me that making mistakes is normal.",
+      5
+     ],
+     [
+      "Mi profesor de música. Me enseñó a practicar sin miedo.",
+      "My music teacher. He taught me to practise without fear.",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "Entonces devuélvele el favor a otra persona. Así funciona un mundo que vale la pena. Y ojalá nos veamos un sábado en el cerro.",
+    "en": "Then pass the favour on to someone else. That's how a world worth living in works. And I hope we see each other one Saturday on the hill.",
+    "end": true
+   }
+  ]
+ },
+ "b1-09": {
+  "steps": [
+   {
+    "say": "¡Soledad! Venga, baje con cuidado por las escaleras y no use el ascensor. ¿Está bien?",
+    "en": "Soledad! Come on, come down the stairs carefully and don't use the lift. Are you OK?",
+    "r": [
+     [
+      "Sí, pero perdí media hora de trabajo porque no había guardado el archivo.",
+      "Yes, but I lost half an hour of work because I hadn't saved the file.",
+      1
+     ],
+     [
+      "Sí, doña Rosa. Tengo la linterna del celular.",
+      "Yes, doña Rosa. I've got my phone's flashlight.",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "Ay, qué pena. La compañía eléctrica dice que el apagón puede durar toda la noche. ¿Y su examen?",
+    "en": "Oh, what a shame. The power company says the blackout could last all night. And your exam?",
+    "r": [
+     [
+      "Cuando vuelva la luz, voy a estudiar hasta tarde.",
+      "When the power comes back, I'll study until late.",
+      2
+     ],
+     [
+      "Ahora no puedo hacer nada. Estudiaré cuando vuelva la luz.",
+      "I can't do anything now. I'll study when the power comes back.",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "Mire a Gonzalo, el pobre está llorando. Le da miedo la oscuridad. ¿Qué hacemos?",
+    "en": "Look at Gonzalo, the poor thing is crying. He's scared of the dark. What do we do?",
+    "r": [
+     [
+      "Quiero que todos hagamos sombras de animales con la linterna.",
+      "I want us all to make animal shadows with the flashlight.",
+      3
+     ],
+     [
+      "Tengo una idea. Quiero que Gonzalo juegue con nosotros.",
+      "I have an idea. I want Gonzalo to play with us.",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "¡Qué buena idea! Y mire, ahí viene el señor Gutiérrez con una olla y un hornillo. Dice que va a cocinar para todos. ¿Qué les decimos a los vecinos?",
+    "en": "What a good idea! And look, here comes señor Gutiérrez with a pot and a little stove. He says he's going to cook for everyone. What do we tell the neighbours?",
+    "r": [
+     [
+      "¡Que alguien traiga platos y tortillas!",
+      "Somebody bring plates and tortillas!",
+      4
+     ],
+     [
+      "Ayúdenlo con la olla, por favor. ¡Hay comida para todos!",
+      "Help him with the pot, please. There's food for everyone!",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "Qué noche, ¿verdad? Y usted, ¿conoce a sus vecinos? ¿Qué quiere que cambie en su edificio o en su barrio?",
+    "en": "What a night, right? And you, do you know your neighbours? What do you want to change in your building or neighbourhood?",
+    "r": [
+     [
+      "Conozco a pocos. Quiero que nos saludemos más.",
+      "I know only a few. I want us to greet each other more.",
+      5
+     ],
+     [
+      "Sí, a algunos. Ojalá hagamos una cena como esta.",
+      "Yes, some of them. I hope we have a dinner like this one.",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "Ojalá, mi amor. Cuando vuelva la luz, voy a poner un papel en el ascensor para una cena cada mes. ¡Que nadie vuelva a ser un extraño en Los Almendros!",
+    "en": "Let's hope so, dear. When the power comes back, I'll put a note in the lift for a monthly dinner. May nobody be a stranger at Los Almendros again!",
+    "end": true
+   }
+  ]
+ },
+ "b1-10": {
+  "steps": [
+   {
+    "say": "¡Bienvenida a Antigua, Itzel! Soy Bayron, tu guía. ¿Es tu primera vez aquí?",
+    "en": "Welcome to Antigua, Itzel! I'm Bayron, your guide. Is it your first time here?",
+    "r": [
+     [
+      "Sí. Nunca había venido, pero mi abuela nació aquí.",
+      "Yes. I had never come before, but my grandmother was born here.",
+      1
+     ],
+     [
+      "Sí. Mi abuela me había contado muchas historias de esta ciudad.",
+      "Yes. My grandmother had told me lots of stories about this city.",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "¡Qué bueno! ¿Y qué te pidió tu abuela?",
+    "en": "Great! And what did your grandmother ask you to do?",
+    "r": [
+     [
+      "Me dijo: «Si encuentras la casa, mándame una foto de la puerta».",
+      "She told me: 'If you find the house, send me a photo of the door.'",
+      2
+     ],
+     [
+      "Me pidió que buscara «la mano que toca».",
+      "She asked me to look for 'the hand that knocks'.",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "Mira, desde esta terraza se ven los tres volcanes. El de Fuego está echando humo. ¿Qué vas a hacer si esta noche ves la lava?",
+    "en": "Look, from this terrace you can see the three volcanoes. Fuego is giving off smoke. What will you do if you see the lava tonight?",
+    "r": [
+     [
+      "Si la veo, le mandaré un video a mi abuela.",
+      "If I see it, I'll send my grandmother a video.",
+      3
+     ],
+     [
+      "Si veo la lava, la grabo con el celular.",
+      "If I see the lava, I'll film it on my phone.",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "Ya encontramos la puerta con la mano de bronce. Doña Clemencia quiere que hagas la alfombra del quetzal el Viernes Santo. ¿Qué le dices?",
+    "en": "We've found the door with the bronze hand. Doña Clemencia wants you to make the quetzal carpet on Good Friday. What do you say to her?",
+    "r": [
+     [
+      "Espero que me enseñe, porque nunca hice una alfombra.",
+      "I hope she teaches me, because I've never made a carpet.",
+      4
+     ],
+     [
+      "Que sí, y que no me voy hasta que la terminemos juntas.",
+      "That I will, and that I'm not leaving until we finish it together.",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "¡Qué chilero! ¿Y tú? ¿Hay algún lugar de tu familia que quieres conocer algún día?",
+    "en": "How cool! And you? Is there a place connected to your family that you want to see someday?",
+    "r": [
+     [
+      "Sí, el pueblo de mis abuelos. Si ahorro, iré el año que viene.",
+      "Yes, my grandparents' village. If I save up, I'll go next year.",
+      5
+     ],
+     [
+      "Espero que mis padres me lleven a la ciudad donde nacieron.",
+      "I hope my parents take me to the city where they were born.",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "Ojalá. Bueno, el viernes nos levantamos a las cuatro. Y si vuelves el año que viene con tu abuela, avísame y les enseño la ciudad.",
+    "en": "I hope so. Well, on Friday we get up at four. And if you come back next year with your grandmother, let me know and I'll show you both the city.",
+    "end": true
+   }
+  ]
+ }
+}

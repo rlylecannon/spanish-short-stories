@@ -1,0 +1,1439 @@
+[
+ {
+  "id": "a1-02",
+  "field": "vocab",
+  "index": 8,
+  "old": [
+   "el niño",
+   "boy"
+  ],
+  "new": [
+   "el niño",
+   "boy, child"
+  ],
+  "reason": "Apply gloss fix from grammar-quiz/review/a1-vocab-fixes.json (never applied to the story file)"
+ },
+ {
+  "id": "a1-03",
+  "field": "vocab",
+  "index": 1,
+  "old": [
+   "la profesora",
+   "teacher"
+  ],
+  "new": [
+   "la profesora",
+   "teacher (female)"
+  ],
+  "reason": "Apply gloss fix from grammar-quiz/review/a1-vocab-fixes.json (never applied to the story file)"
+ },
+ {
+  "id": "a1-03",
+  "field": "vocab",
+  "index": 9,
+  "old": [
+   "la amiga",
+   "friend"
+  ],
+  "new": [
+   "la amiga",
+   "friend (female)"
+  ],
+  "reason": "Apply gloss fix from grammar-quiz/review/a1-vocab-fixes.json (never applied to the story file)"
+ },
+ {
+  "id": "a1-03",
+  "field": "vocab",
+  "index": 14,
+  "old": [
+   "el hambre",
+   "hunger"
+  ],
+  "new": [
+   "el hambre",
+   "hunger (feminine noun: mucha hambre)"
+  ],
+  "reason": "Apply gloss fix from grammar-quiz/review/a1-vocab-fixes.json (never applied to the story file)"
+ },
+ {
+  "id": "a1-06",
+  "field": "vocab",
+  "index": 7,
+  "old": [
+   "la librería",
+   "bookstore"
+  ],
+  "new": [
+   "la librería",
+   "bookstore (not 'library' = la biblioteca)"
+  ],
+  "reason": "Apply gloss fix from grammar-quiz/review/a1-vocab-fixes.json (never applied to the story file)"
+ },
+ {
+  "id": "a1-07",
+  "field": "vocab",
+  "index": 5,
+  "old": [
+   "el chocolate",
+   "hot chocolate"
+  ],
+  "new": [
+   "el chocolate",
+   "chocolate (chocolate caliente = hot chocolate)"
+  ],
+  "reason": "Apply gloss fix from grammar-quiz/review/a1-vocab-fixes.json (never applied to the story file)"
+ },
+ {
+  "id": "a1-07",
+  "field": "vocab",
+  "index": 8,
+  "old": [
+   "la portada",
+   "cover"
+  ],
+  "new": [
+   "la portada",
+   "(book) cover"
+  ],
+  "reason": "Apply gloss fix from grammar-quiz/review/a1-vocab-fixes.json (never applied to the story file)"
+ },
+ {
+  "id": "a1-08",
+  "field": "vocab",
+  "index": 10,
+  "old": [
+   "el vecino",
+   "neighbor"
+  ],
+  "new": [
+   "la vecina",
+   "neighbor (female)"
+  ],
+  "reason": "Apply gloss fix from grammar-quiz/review/a1-vocab-fixes.json (never applied to the story file)"
+ },
+ {
+  "id": "a1-08",
+  "field": "vocab",
+  "index": 4,
+  "old": [
+   "el peso",
+   "peso"
+  ],
+  "new": [
+   "el peso",
+   "peso (Mexican currency)"
+  ],
+  "reason": "Apply gloss fix from grammar-quiz/review/a1-vocab-fixes.json (never applied to the story file)"
+ },
+ {
+  "id": "a1-09",
+  "field": "vocab",
+  "index": 1,
+  "old": [
+   "sonar",
+   "to ring"
+  ],
+  "new": [
+   "sonar",
+   "to ring; to sound"
+  ],
+  "reason": "Apply gloss fix from grammar-quiz/review/a1-vocab-fixes.json (never applied to the story file)"
+ },
+ {
+  "id": "a1-09",
+  "field": "vocab",
+  "index": 6,
+  "old": [
+   "la tortilla",
+   "omelet"
+  ],
+  "new": [
+   "la tortilla",
+   "Spanish omelet (egg and potato)"
+  ],
+  "reason": "Apply gloss fix from grammar-quiz/review/a1-vocab-fixes.json (never applied to the story file)"
+ },
+ {
+  "id": "a1-10",
+  "field": "vocab",
+  "index": 4,
+  "old": [
+   "el pescado",
+   "fish"
+  ],
+  "new": [
+   "el pescado",
+   "fish (as food)"
+  ],
+  "reason": "Apply gloss fix from grammar-quiz/review/a1-vocab-fixes.json (never applied to the story file)"
+ },
+ {
+  "id": "a1-10",
+  "field": "vocab",
+  "index": 6,
+  "old": [
+   "el billete",
+   "ticket"
+  ],
+  "new": [
+   "el billete",
+   "ticket (Latin America: el boleto)"
+  ],
+  "reason": "Apply gloss fix from grammar-quiz/review/a1-vocab-fixes.json (never applied to the story file)"
+ },
+ {
+  "id": "a1-10",
+  "field": "vocab",
+  "index": 13,
+  "old": [
+   "preparar",
+   "to prepare"
+  ],
+  "new": [
+   "preparar",
+   "to prepare; to pack (a bag)"
+  ],
+  "reason": "Apply gloss fix from grammar-quiz/review/a1-vocab-fixes.json (never applied to the story file)"
+ },
+ {
+  "id": "a1-01",
+  "field": "teaser",
+  "old": "Everyone is hungry on a busy morning, but where is Tomás?",
+  "new": "It is a noisy morning and Tomás is missing. Where is he?",
+  "reason": "Old teaser (\"Everyone is hungry\") is not in the text; nobody says they are hungry."
+ },
+ {
+  "id": "a1-01",
+  "field": "lines",
+  "index": 1,
+  "old": [
+   "En la casa de Lucía hay mucho ruido.",
+   "There is a lot of noise in Lucía's house."
+  ],
+  "new": [
+   "En la casa de Lucía hay mucho <b>ruido</b>.",
+   "There is a lot of noise in Lucía's house."
+  ],
+  "reason": "Bold \"ruido\": new, non-transparent word, added to vocab."
+ },
+ {
+  "id": "a1-01",
+  "field": "lines",
+  "index": 4,
+  "old": [
+   "<b>Papá</b> está en la sala.",
+   "Dad is in the living room."
+  ],
+  "new": [
+   "<b>Papá</b> está en la <b>sala</b>.",
+   "Dad is in the living room."
+  ],
+  "reason": "Bold glossed vocab word (markup only; plain text unchanged)"
+ },
+ {
+  "id": "a1-01",
+  "field": "lines",
+  "index": 6,
+  "old": [
+   "Lucía busca en el baño.",
+   "Lucía looks in the bathroom."
+  ],
+  "new": [
+   "Lucía busca en el <b>baño</b>. No está.",
+   "Lucía looks in the bathroom. He isn't there."
+  ],
+  "reason": "\"Pero hay un olor...\" (line 7) had nothing to contrast with; \"No está\" closes the search and adds a 5th natural estar-for-location token. \"baño\" was in vocab but not bolded."
+ },
+ {
+  "id": "a1-01",
+  "field": "lines",
+  "index": 9,
+  "old": [
+   "Tiene el desayuno en la <b>mesa</b>.",
+   "He has breakfast on the table."
+  ],
+  "new": [
+   "Tiene el <b>desayuno</b> en la <b>mesa</b>.",
+   "He has breakfast ready on the table."
+  ],
+  "reason": "English \"He has breakfast on the table\" reads as \"he is eating\"; the Spanish means he has it laid out. Bold \"desayuno\" (vocab item, never bolded)."
+ },
+ {
+  "id": "a1-01",
+  "field": "lines",
+  "index": 10,
+  "old": [
+   "— ¡Hoy yo preparo el desayuno! —dice.",
+   "\"Today I make breakfast!\" he says."
+  ],
+  "new": [
+   "— ¡Hoy yo preparo el desayuno! —dice.",
+   "\"Today I'm making breakfast!\" he says."
+  ],
+  "reason": "Present tense for an action in progress = English present continuous."
+ },
+ {
+  "id": "a1-01",
+  "field": "lines",
+  "index": 12,
+  "old": [
+   "Mamá sonríe.",
+   "Mom smiles."
+  ],
+  "new": [
+   "Mamá <b>sonríe</b>.",
+   "Mom smiles."
+  ],
+  "reason": "Bold glossed vocab word (markup only; plain text unchanged)"
+ },
+ {
+  "id": "a1-01",
+  "field": "vocab",
+  "index": 14,
+  "old": null,
+  "new": [
+   "el ruido",
+   "noise"
+  ],
+  "reason": "Unglossed, non-cognate word in line 1."
+ },
+ {
+  "id": "a1-01",
+  "field": "vocab",
+  "index": 15,
+  "old": null,
+  "new": [
+   "la sala",
+   "living room"
+  ],
+  "reason": "Used in line 4 (and a1-04) but never glossed at first use."
+ },
+ {
+  "id": "a1-01",
+  "field": "vocab",
+  "index": 16,
+  "old": null,
+  "new": [
+   "buscar",
+   "to look for"
+  ],
+  "reason": "Key verb of the plot (line 6); recurs in a1-10."
+ },
+ {
+  "id": "a1-01",
+  "field": "vocab",
+  "index": 17,
+  "old": null,
+  "new": [
+   "sonreír",
+   "to smile (sonríe)"
+  ],
+  "reason": "High-frequency; recurs in a1-02, a1-08, a1-09. Irregular form sonríe worth glossing."
+ },
+ {
+  "id": "a1-01",
+  "field": "quiz",
+  "index": 1,
+  "old": {
+   "q": "¿Cómo está mamá?",
+   "options": [
+    "Contenta y fuerte",
+    "Cansada",
+    "Enferma",
+    "Triste"
+   ],
+   "answer": 1
+  },
+  "new": {
+   "q": "¿Cómo está mamá?",
+   "options": [
+    "Contenta",
+    "Cansada",
+    "Enferma",
+    "Triste"
+   ],
+   "answer": 1
+  },
+  "reason": "\"Contenta y fuerte\" was an odd two-part distractor that stood out; now four parallel one-word states."
+ },
+ {
+  "id": "a1-01",
+  "field": "prompt",
+  "old": "What do you have for breakfast? Write 2-3 simple sentences in Spanish (for example: Desayuno pan y café).",
+  "new": "Describe your kitchen in the morning. Write 2-3 sentences in Spanish with hay and está (for example: Son las siete. Hay café y pan en la mesa. Mi papá está en la cocina.).",
+  "reason": "Old prompt (\"What do you have for breakfast? Desayuno pan...\") did not elicit the target grammar (hay, estar, telling time)."
+ },
+ {
+  "id": "a1-01",
+  "field": "concepts.grammar",
+  "old": "Present tense of estar for location and states (está en la cocina, está cansada); hay; basic greetings.",
+  "new": "Telling time (Son las siete de la mañana); hay for what exists (hay mucho ruido, hay café); estar for location and states (está en la cocina, está cansada, no está); present tense and tener.",
+  "reason": "Added telling time and tener (both taught in grammar/a1.json); \"basic greetings\" was a single token."
+ },
+ {
+  "id": "a1-02",
+  "field": "lines",
+  "index": 2,
+  "old": [
+   "Vende <b>fruta</b>: manzanas, naranjas y plátanos.",
+   "She sells fruit: apples, oranges and bananas."
+  ],
+  "new": [
+   "<b>Vende</b> <b>fruta</b>: manzanas, naranjas y <b>plátanos</b>.",
+   "She sells fruit: apples, oranges and bananas."
+  ],
+  "reason": "Bold \"vende\" (vender in vocab) and \"plátanos\" (added to vocab)."
+ },
+ {
+  "id": "a1-02",
+  "field": "lines",
+  "index": 4,
+  "old": [
+   "— ¿Cuánto es la <b>naranja</b>? —pregunta una señora.",
+   "\"How much is the orange?\" asks a lady."
+  ],
+  "new": [
+   "— ¿Cuánto es el kilo de <b>naranjas</b>? —pregunta una señora.",
+   "\"How much is a kilo of oranges?\" asks a lady."
+  ],
+  "reason": "Question asked for one orange but the answer gave a price per kilo. Now question and answer match, and it still models ser for prices (¿Cuánto es...?)."
+ },
+ {
+  "id": "a1-02",
+  "field": "lines",
+  "index": 5,
+  "old": [
+   "— Son tres soles el kilo, señora.",
+   "\"It is three soles a kilo, ma'am.\""
+  ],
+  "new": [
+   "— Son tres soles, señora.",
+   "\"Three soles, ma'am.\""
+  ],
+  "reason": "Matches the new question (kilo moved to line 4); \"Son tres soles\" is the clean model for the grammar point. Story word count unchanged."
+ },
+ {
+  "id": "a1-02",
+  "field": "lines",
+  "index": 6,
+  "old": [
+   "Mateo ve a un niño pequeño.",
+   "Mateo sees a small boy."
+  ],
+  "new": [
+   "Mateo ve a un <b>niño</b> pequeño.",
+   "Mateo sees a small boy."
+  ],
+  "reason": "Bold glossed vocab word (markup only; plain text unchanged)"
+ },
+ {
+  "id": "a1-02",
+  "field": "lines",
+  "index": 7,
+  "old": [
+   "El niño mira las <b>uvas</b> rojas.",
+   "The boy looks at the red grapes."
+  ],
+  "new": [
+   "El niño <b>mira</b> las <b>uvas</b> rojas.",
+   "The boy looks at the red grapes."
+  ],
+  "reason": "Bold glossed vocab word (markup only; plain text unchanged)"
+ },
+ {
+  "id": "a1-02",
+  "field": "lines",
+  "index": 9,
+  "old": [
+   "— Sí, pero no tengo <b>dinero</b> —dice el niño.",
+   "\"Yes, but I have no money,\" says the boy."
+  ],
+  "new": [
+   "— Sí, me gustan mucho, pero no tengo <b>dinero</b>.",
+   "\"Yes, I really like them, but I don't have any money.\""
+  ],
+  "reason": "Gustar was the target but appeared once; the answer now recycles it (te gustan -> me gustan). \"dice el niño\" dropped to stay within the A1 word budget; the speaker is clear."
+ },
+ {
+  "id": "a1-02",
+  "field": "lines",
+  "index": 11,
+  "old": [
+   "Doña Elena sonríe y <b>da</b> las uvas al niño.",
+   "Doña Elena smiles and gives the grapes to the boy."
+  ],
+  "new": [
+   "Doña Elena sonríe y le <b>da</b> las uvas.",
+   "Doña Elena smiles and gives him the grapes."
+  ],
+  "reason": "\"da las uvas al niño\" without \"le\" sounds bookish; natives say \"le da\". The quiz key already uses \"le da\"."
+ },
+ {
+  "id": "a1-02",
+  "field": "lines",
+  "index": 14,
+  "old": [
+   "Mañana vuelve con su mamá.",
+   "Tomorrow he comes back with his mom."
+  ],
+  "new": [
+   "Mañana vuelve con su mamá.",
+   "Tomorrow he is coming back with his mom."
+  ],
+  "reason": "Present for a planned future = English \"is coming back\"."
+ },
+ {
+  "id": "a1-02",
+  "field": "vocab",
+  "index": 14,
+  "old": null,
+  "new": [
+   "el plátano",
+   "banana"
+  ],
+  "reason": "Unglossed fruit in line 2."
+ },
+ {
+  "id": "a1-02",
+  "field": "vocab",
+  "index": 15,
+  "old": null,
+  "new": [
+   "el sol",
+   "sun; sol (Peruvian currency)"
+  ],
+  "reason": "\"hay sol\" and \"tres soles\" use the same word in two senses; learners need this."
+ },
+ {
+  "id": "a1-02",
+  "field": "vocab",
+  "index": 16,
+  "old": null,
+  "new": [
+   "gustar",
+   "to like (me gusta / me gustan)"
+  ],
+  "reason": "Target structure of the story had no vocab entry."
+ },
+ {
+  "id": "a1-02",
+  "field": "prompt",
+  "old": "What fruit do you like? Write 2-3 sentences in Spanish (for example: Me gustan las manzanas).",
+  "new": "What fruit do you like, and what fruit don't you like? Write 2-3 sentences in Spanish. Use gusta for one thing and gustan for more than one (for example: Me gusta la naranja. Me gustan las uvas. No me gustan los plátanos.).",
+  "reason": "Old model only showed \"me gustan\"; the new one contrasts gusta/gustan and the negative."
+ },
+ {
+  "id": "a1-02",
+  "field": "concepts.grammar",
+  "old": "Present tense of tener, ser and gustar (¿Te gustan las uvas?); simple questions with cuánto.",
+  "new": "ser for days and prices (Es sábado; ¿Cuánto es? Son tres soles); gustar (¿Te gustan las uvas? Me gustan mucho); tener (no tengo dinero); personal a (ve a un niño, mira a su abuela).",
+  "reason": "Personal a is taught in grammar/a1.json but was missing; examples updated to the edited lines."
+ },
+ {
+  "id": "a1-03",
+  "field": "lines",
+  "index": 1,
+  "old": [
+   "Hay una niña <b>nueva</b> en la <b>clase</b>.",
+   "There is a new girl in the class."
+  ],
+  "new": [
+   "Hay una <b>niña</b> <b>nueva</b> en la <b>clase</b>.",
+   "There is a new girl in the class."
+  ],
+  "reason": "Bold \"niña\" (in vocab, never bolded)."
+ },
+ {
+  "id": "a1-03",
+  "field": "lines",
+  "index": 3,
+  "old": [
+   "Tiene el <b>pelo</b> largo y negro.",
+   "She has long black hair."
+  ],
+  "new": [
+   "Tiene el <b>pelo</b> <b>largo</b> y negro.",
+   "She has long black hair."
+  ],
+  "reason": "Bold glossed vocab word (markup only; plain text unchanged)"
+ },
+ {
+  "id": "a1-03",
+  "field": "lines",
+  "index": 6,
+  "old": [
+   "Ana levanta la mano.",
+   "Ana raises her hand."
+  ],
+  "new": [
+   "Ana levanta la <b>mano</b>.",
+   "Ana raises her hand."
+  ],
+  "reason": "Bold glossed vocab word (markup only; plain text unchanged)"
+ },
+ {
+  "id": "a1-03",
+  "field": "lines",
+  "index": 10,
+  "old": [
+   "A las doce, las niñas <b>comen</b> juntas.",
+   "At twelve, the girls eat together."
+  ],
+  "new": [
+   "A las doce, las niñas <b>comen</b> <b>juntas</b>.",
+   "At twelve, the girls eat together."
+  ],
+  "reason": "Bold glossed vocab word (markup only; plain text unchanged)"
+ },
+ {
+  "id": "a1-03",
+  "field": "lines",
+  "index": 15,
+  "old": [
+   "Ahora Camila tiene una <b>amiga</b>.",
+   "Now Camila has a friend."
+  ],
+  "new": [
+   "Ahora Camila tiene una <b>amiga</b> y está contenta.",
+   "Now Camila has a friend, and she is happy."
+  ],
+  "reason": "Closes the emotional arc (nerviosa -> contenta) and gives a second estar + feeling token for the ser/estar contrast."
+ },
+ {
+  "id": "a1-03",
+  "field": "vocab",
+  "index": 15,
+  "old": null,
+  "new": [
+   "largo",
+   "long (not \"large\" = grande)"
+  ],
+  "reason": "Classic false friend for English speakers; unglossed."
+ },
+ {
+  "id": "a1-03",
+  "field": "vocab",
+  "index": 16,
+  "old": null,
+  "new": [
+   "juntos / juntas",
+   "together"
+  ],
+  "reason": "Unglossed in line 10."
+ },
+ {
+  "id": "a1-03",
+  "field": "prompt",
+  "old": "Describe a friend or classmate in Spanish. Write 2-3 sentences (for example: Mi amiga se llama... Tiene el pelo...).",
+  "new": "Describe a friend or classmate in Spanish. Write 3-4 sentences with ser, estar and tener (for example: Mi amiga se llama Ana. Es de México. Tiene el pelo largo. Hoy está contenta.).",
+  "reason": "Now elicits the story's ser vs. estar contrast as well as tener."
+ },
+ {
+  "id": "a1-03",
+  "field": "concepts.skills",
+  "old": "Introducing yourself and telling time with 'son las / a las'.",
+  "new": "Understanding a description of a person; telling time with \"son las / a las\".",
+  "reason": "\"Introducing yourself\" does not happen in the story (the teacher introduces Camila)."
+ },
+ {
+  "id": "a1-04",
+  "field": "lines",
+  "index": 0,
+  "old": [
+   "Hoy <b>llueve</b> mucho en la ciudad.",
+   "Today it rains a lot in the city."
+  ],
+  "new": [
+   "Hoy <b>llueve</b> mucho en la <b>ciudad</b>.",
+   "It's raining hard in the city today."
+  ],
+  "reason": "\"Today it rains a lot\" is unnatural English for an ongoing event. Bold \"ciudad\" (in vocab)."
+ },
+ {
+  "id": "a1-04",
+  "field": "lines",
+  "index": 6,
+  "old": [
+   "Julia va a la <b>tienda</b> de su tío.",
+   "Julia goes to her uncle's shop."
+  ],
+  "new": [
+   "Julia va a la <b>tienda</b> de su <b>tío</b>.",
+   "Julia goes to her uncle's shop."
+  ],
+  "reason": "Bold \"tío\" (in vocab, never bolded)."
+ },
+ {
+  "id": "a1-04",
+  "field": "lines",
+  "index": 12,
+  "old": [
+   "¡Allí está el paraguas rojo!",
+   "The red umbrella is right there!"
+  ],
+  "new": [
+   "¡Allí está el paraguas rojo!",
+   "There's the red umbrella!"
+  ],
+  "reason": "More natural English for \"¡Allí está...!\"."
+ },
+ {
+  "id": "a1-04",
+  "field": "lines",
+  "index": 14,
+  "old": [
+   "Su amiga Sara no tiene paraguas.",
+   "Her friend Sara has no umbrella."
+  ],
+  "new": [
+   "Su amiga Sara no tiene paraguas y no puede ir a casa.",
+   "Her friend Sara has no umbrella and can't go home."
+  ],
+  "reason": "poder + infinitive was taught but appeared once; this adds a second token plus ir a + place and another negative, and motivates the gift in line 15."
+ },
+ {
+  "id": "a1-04",
+  "field": "lines",
+  "index": 15,
+  "old": [
+   "Julia da el paraguas azul a Sara.",
+   "Julia gives the blue umbrella to Sara."
+  ],
+  "new": [
+   "Julia le da el paraguas azul a Sara.",
+   "Julia gives the blue umbrella to Sara."
+  ],
+  "reason": "Natural Spanish doubles the indirect object: \"le da ... a Sara\"."
+ },
+ {
+  "id": "a1-04",
+  "field": "vocab",
+  "index": 14,
+  "old": null,
+  "new": [
+   "tomar",
+   "to take"
+  ],
+  "reason": "Unglossed in line 8."
+ },
+ {
+  "id": "a1-04",
+  "field": "quiz",
+  "index": 4,
+  "old": {
+   "q": "¿Qué hace Julia con el paraguas azul?",
+   "options": [
+    "Lo da a Sara",
+    "Lo vende",
+    "Lo deja en casa",
+    "Lo da a su papá"
+   ],
+   "answer": 0
+  },
+  "new": {
+   "q": "¿Quién tiene el paraguas azul al final?",
+   "options": [
+    "Sara",
+    "Julia",
+    "El tío",
+    "Papá"
+   ],
+   "answer": 0
+  },
+  "reason": "Keyed answer \"Lo da a Sara\" was ungrammatical (needs \"Se lo da\"); the new question avoids clitics and requires following the whole plot."
+ },
+ {
+  "id": "a1-04",
+  "field": "prompt",
+  "old": "What do you do when it rains? Write 2-3 sentences in Spanish (for example: Cuando llueve, quiero estar en casa porque...).",
+  "new": "What do you do when it rains? Write 2-3 sentences in Spanish with quiero and puedo / no puedo (for example: Cuando llueve, quiero estar en casa. No puedo ir al parque porque no tengo paraguas.).",
+  "reason": "Now explicitly elicits querer/poder + infinitive and porque."
+ },
+ {
+  "id": "a1-05",
+  "field": "lines",
+  "index": 2,
+  "old": [
+   "— Necesitamos huevos, leche y <b>azúcar</b> —dice Sofía.",
+   "\"We need eggs, milk and sugar,\" says Sofía."
+  ],
+  "new": [
+   "— <b>Necesitamos</b> huevos, leche y <b>azúcar</b> —dice Sofía.",
+   "\"We need eggs, milk and sugar,\" says Sofía."
+  ],
+  "reason": "Bold \"necesitamos\" (necesitar added to vocab; it is a taught topic)."
+ },
+ {
+  "id": "a1-05",
+  "field": "lines",
+  "index": 8,
+  "old": [
+   "— No puedo <b>comprar</b> los huevos —dice triste.",
+   "\"I can't buy the eggs,\" he says sadly."
+  ],
+  "new": [
+   "— Quiero <b>comprar</b> los huevos, pero no puedo —dice triste.",
+   "\"I want to buy the eggs, but I can't,\" he says sadly."
+  ],
+  "reason": "querer appeared once; this gives querer + infinitive and no puedo in one natural, emotional line."
+ },
+ {
+  "id": "a1-05",
+  "field": "vocab",
+  "index": 14,
+  "old": null,
+  "new": [
+   "necesitar",
+   "to need"
+  ],
+  "reason": "Taught grammar topic (necesitar) had no gloss."
+ },
+ {
+  "id": "a1-05",
+  "field": "vocab",
+  "index": 15,
+  "old": null,
+  "new": [
+   "triste",
+   "sad"
+  ],
+  "reason": "Unglossed; recurs in a1-08 and a1-09."
+ },
+ {
+  "id": "a1-05",
+  "field": "vocab",
+  "index": 16,
+  "old": null,
+  "new": [
+   "¡Toma!",
+   "Here, take it!"
+  ],
+  "reason": "Common chunk in line 10 that learners will not decode from \"tomar\"."
+ },
+ {
+  "id": "a1-05",
+  "field": "prompt",
+  "old": "What do you do on your birthday? Write 2-3 sentences in Spanish (for example: En mi cumpleaños quiero comer pastel porque...).",
+  "new": "What do you want to do on your birthday? Write 2-3 sentences in Spanish with quiero, necesito or puedo (for example: En mi cumpleaños quiero hacer un pastel. Necesito huevos y azúcar.).",
+  "reason": "\"What do you do\" did not match the model \"quiero\"; now elicits all three target verbs."
+ },
+ {
+  "id": "a1-06",
+  "field": "lines",
+  "index": 4,
+  "old": [
+   "Por eso voy en <b>autobús</b>.",
+   "That is why I go by bus."
+  ],
+  "new": [
+   "Por eso tomo el <b>autobús</b> de las siete.",
+   "That is why I take the seven o'clock bus."
+  ],
+  "reason": "The title \"El autobús de las siete\" was never explained in the text; recycles \"tomo\" (yo form, a taught topic)."
+ },
+ {
+  "id": "a1-06",
+  "field": "lines",
+  "index": 6,
+  "old": [
+   "Hoy el autobús llega tarde porque hay mucho <b>tráfico</b>.",
+   "Today the bus arrives late because there is a lot of traffic."
+  ],
+  "new": [
+   "Hoy el autobús llega tarde porque hay mucho <b>tráfico</b>.",
+   "Today the bus is late because there is a lot of traffic."
+  ],
+  "reason": "\"arrives late\" is stiff; \"llegar tarde\" = to be late."
+ },
+ {
+  "id": "a1-06",
+  "field": "lines",
+  "index": 8,
+  "old": [
+   "Se llama Don Julio y lleva un <b>libro</b> grande.",
+   "His name is Don Julio and he is carrying a big book."
+  ],
+  "new": [
+   "Se llama don Julio y <b>lleva</b> un <b>libro</b> grande.",
+   "His name is Don Julio and he is carrying a big book."
+  ],
+  "reason": "\"don\" is lowercase mid-sentence (as in a1-05 \"don Luis\"); bold \"lleva\" (llevar added to vocab)."
+ },
+ {
+  "id": "a1-06",
+  "field": "lines",
+  "index": 15,
+  "old": [
+   "Mañana yo llevo café para Don Julio.",
+   "Tomorrow I am bringing coffee for Don Julio."
+  ],
+  "new": [
+   "Mañana le llevo un café a don Julio.",
+   "Tomorrow I'm bringing Don Julio a coffee."
+  ],
+  "reason": "\"Mañana yo llevo café para Don Julio\" is stiff (emphatic yo, no article, capital Don); this is how a native says it."
+ },
+ {
+  "id": "a1-06",
+  "field": "vocab",
+  "index": 15,
+  "old": null,
+  "new": [
+   "levantarse",
+   "to get up (me levanto)"
+  ],
+  "reason": "Bolded target reflexive verb had no vocab entry."
+ },
+ {
+  "id": "a1-06",
+  "field": "vocab",
+  "index": 16,
+  "old": null,
+  "new": [
+   "ducharse",
+   "to take a shower (me ducho)"
+  ],
+  "reason": "Bolded target reflexive verb had no vocab entry."
+ },
+ {
+  "id": "a1-06",
+  "field": "vocab",
+  "index": 17,
+  "old": null,
+  "new": [
+   "sentarse",
+   "to sit down (se sienta)"
+  ],
+  "reason": "Bolded target reflexive verb had no vocab entry."
+ },
+ {
+  "id": "a1-06",
+  "field": "vocab",
+  "index": 18,
+  "old": null,
+  "new": [
+   "llevar",
+   "to carry; to bring"
+  ],
+  "reason": "Used twice (lines 8, 15) with two senses; unglossed."
+ },
+ {
+  "id": "a1-06",
+  "field": "quiz",
+  "index": 0,
+  "old": {
+   "q": "¿Por qué Lucía va en autobús?",
+   "options": [
+    "Su trabajo está lejos",
+    "No tiene dinero",
+    "Le gusta el tráfico",
+    "Su casa está en el centro"
+   ],
+   "answer": 0
+  },
+  "new": {
+   "q": "¿A qué hora se levanta Lucía?",
+   "options": [
+    "A las seis",
+    "A las siete",
+    "A las cinco",
+    "A las ocho"
+   ],
+   "answer": 0
+  },
+  "reason": "Two questions tested reasons (lejos, tráfico); none tested the reflexive routine or times. \"A las siete\" (from the title) is a strong distractor."
+ },
+ {
+  "id": "a1-06",
+  "field": "quiz",
+  "index": 4,
+  "old": {
+   "q": "¿Qué va a llevar Lucía mañana?",
+   "options": [
+    "Pan para su esposa",
+    "Café para Don Julio",
+    "Un libro grande",
+    "Leche para el autobús"
+   ],
+   "answer": 1
+  },
+  "new": {
+   "q": "¿Qué va a llevar Lucía mañana?",
+   "options": [
+    "Pan para su esposa",
+    "Un café para don Julio",
+    "Un libro grande",
+    "Leche para el autobús"
+   ],
+   "answer": 1
+  },
+  "reason": "Option text updated to match edited line 15."
+ },
+ {
+  "id": "a1-06",
+  "field": "prompt",
+  "old": "Describe your own morning routine in Spanish. What time do you get up, and how do you go to work or school? Write 4-5 simple sentences.",
+  "new": "Describe your own morning routine in Spanish. What time do you get up, and how do you go to work or school? Write 4-5 simple sentences (for example: Me levanto a las siete. Me ducho y tomo un café. Voy a la escuela en autobús.).",
+  "reason": "Added a model with the target reflexive verbs."
+ },
+ {
+  "id": "a1-07",
+  "field": "teaser",
+  "old": "With no free tables and a soaking wet coat, Ana discovers something surprising about a stranger.",
+  "new": "Ana is soaking wet in a small café, and a stranger asks to share her table. Then she sees his book.",
+  "reason": "Old teaser (\"no free tables\", \"wet coat\") contradicts line 3 (there is a free table); no coat is mentioned."
+ },
+ {
+  "id": "a1-07",
+  "field": "lines",
+  "index": 2,
+  "old": [
+   "No tiene <b>paraguas</b> y su ropa está <b>mojada</b>.",
+   "She has no umbrella and her clothes are wet."
+  ],
+  "new": [
+   "No tiene <b>paraguas</b> y su <b>ropa</b> está <b>mojada</b>.",
+   "She has no umbrella and her clothes are wet."
+  ],
+  "reason": "Bold \"ropa\" (added to vocab)."
+ },
+ {
+  "id": "a1-07",
+  "field": "lines",
+  "index": 3,
+  "old": [
+   "Hay una mesa libre cerca de la <b>ventana</b>.",
+   "There is a free table near the window."
+  ],
+  "new": [
+   "Hay una mesa <b>libre</b> cerca de la <b>ventana</b>.",
+   "There is a free table near the window."
+  ],
+  "reason": "Bold \"libre\" (false friend, added to vocab)."
+ },
+ {
+  "id": "a1-07",
+  "field": "lines",
+  "index": 13,
+  "old": [
+   "Afuera la lluvia es fuerte, pero ellos están <b>contentos</b>.",
+   "Outside the rain is heavy, but they are happy."
+  ],
+  "new": [
+   "Afuera llueve mucho, pero ellos están <b>contentos</b>.",
+   "Outside it's raining hard, but they are happy."
+  ],
+  "reason": "\"la lluvia es fuerte\" is stiff; \"llueve mucho\" is the natural phrase and recycles line 0."
+ },
+ {
+  "id": "a1-07",
+  "field": "vocab",
+  "index": 14,
+  "old": null,
+  "new": [
+   "libre",
+   "free (available; \"free of charge\" = gratis)"
+  ],
+  "reason": "False friend; key to lines 3 and 7."
+ },
+ {
+  "id": "a1-07",
+  "field": "vocab",
+  "index": 15,
+  "old": null,
+  "new": [
+   "la ropa",
+   "clothes (singular in Spanish: la ropa está mojada)"
+  ],
+  "reason": "Unglossed; the grammar topic notes the singular agreement."
+ },
+ {
+  "id": "a1-07",
+  "field": "vocab",
+  "index": 16,
+  "old": null,
+  "new": [
+   "la historia",
+   "story (also history)"
+  ],
+  "reason": "Unglossed in line 12."
+ },
+ {
+  "id": "a1-07",
+  "field": "prompt",
+  "old": "What do you like to do on a rainy day? Where do you go, and who is with you? Answer in Spanish with 4-5 simple sentences.",
+  "new": "What do you like to do on a rainy day? Where are you, and who is with you? Write 4-5 simple sentences in Spanish with estoy / está and hay (for example: Cuando llueve, estoy en casa. Hay chocolate caliente. Mi hermano está conmigo.).",
+  "reason": "Added target-grammar instruction and a model."
+ },
+ {
+  "id": "a1-07",
+  "field": "concepts.grammar",
+  "old": "estar + location and state (está mojada, están contentos); reflexive se sienta, se llama; porque and pero.",
+  "new": "estar + location and state (está en un café, está mojada, están contentos); hay; reflexive se sienta, se llama; present of vivir and leer; pero and también.",
+  "reason": "\"porque\" does not occur in this story; added the taught present-tense topic."
+ },
+ {
+  "id": "a1-08",
+  "field": "lines",
+  "index": 1,
+  "old": [
+   "Su vecina, la señora Elena, tiene un <b>jardín</b>.",
+   "His neighbor, Mrs. Elena, has a garden."
+  ],
+  "new": [
+   "Su <b>vecina</b>, la señora Elena, tiene un <b>jardín</b>.",
+   "His neighbor, Mrs. Elena, has a garden."
+  ],
+  "reason": "Bold \"vecina\" (vocab item)."
+ },
+ {
+  "id": "a1-08",
+  "field": "lines",
+  "index": 9,
+  "old": [
+   "—Quiero flores para mi mamá, pero no tengo <b>dinero</b>.",
+   "\"I want flowers for my mom, but I have no money.\""
+  ],
+  "new": [
+   "—Quiero flores para mi mamá, pero no tengo mucho <b>dinero</b>.",
+   "\"I want flowers for my mom, but I don't have much money.\""
+  ],
+  "reason": "Nico has twenty pesos (line 6), so \"no tengo dinero\" contradicted the text."
+ },
+ {
+  "id": "a1-08",
+  "field": "lines",
+  "index": 10,
+  "old": [
+   "—Mis flores son más bonitas que las del mercado —dice ella.",
+   "\"My flowers are prettier than the ones at the market,\" she says."
+  ],
+  "new": [
+   "—Mis flores son más <b>bonitas</b> que las del mercado —dice ella.",
+   "\"My flowers are prettier than the ones at the market,\" she says."
+  ],
+  "reason": "Bold \"bonitas\" (added to vocab)."
+ },
+ {
+  "id": "a1-08",
+  "field": "lines",
+  "index": 14,
+  "old": [
+   "La señora Elena corta diez <b>rosas</b> para él.",
+   "Mrs. Elena cuts ten roses for him."
+  ],
+  "new": [
+   "La señora Elena <b>corta</b> diez <b>rosas</b> para él.",
+   "Mrs. Elena cuts ten roses for him."
+  ],
+  "reason": "Bold \"corta\" (added to vocab)."
+ },
+ {
+  "id": "a1-08",
+  "field": "lines",
+  "index": 15,
+  "old": [
+   "—De nada. Tienes que venir otra vez mañana —sonríe ella.",
+   "\"You're welcome. You have to come again tomorrow,\" she smiles."
+  ],
+  "new": [
+   "—Y tienes que venir otra vez mañana —dice ella.",
+   "\"And you have to come again tomorrow,\" she says."
+  ],
+  "reason": "\"De nada\" answered a \"gracias\" nobody said; \"sonríe ella\" as a speech tag is not a model to give A1 learners."
+ },
+ {
+  "id": "a1-08",
+  "field": "lines",
+  "index": 17,
+  "old": [
+   "La mamá de Nico recibe las flores y llora de alegría.",
+   "Nico's mom receives the flowers and cries with joy."
+  ],
+  "new": [
+   "La mamá de Nico recibe las flores y llora de <b>alegría</b>.",
+   "Nico's mom receives the flowers and cries with joy."
+  ],
+  "reason": "Bold \"alegría\" (added to vocab)."
+ },
+ {
+  "id": "a1-08",
+  "field": "vocab",
+  "index": 14,
+  "old": null,
+  "new": [
+   "bonito",
+   "pretty"
+  ],
+  "reason": "Unglossed; needed for the más ... que comparison in line 10."
+ },
+ {
+  "id": "a1-08",
+  "field": "vocab",
+  "index": 15,
+  "old": null,
+  "new": [
+   "cortar",
+   "to cut"
+  ],
+  "reason": "Unglossed in line 14."
+ },
+ {
+  "id": "a1-08",
+  "field": "vocab",
+  "index": 16,
+  "old": null,
+  "new": [
+   "conmigo",
+   "with me"
+  ],
+  "reason": "Unglossed, irregular form in line 11."
+ },
+ {
+  "id": "a1-08",
+  "field": "vocab",
+  "index": 17,
+  "old": null,
+  "new": [
+   "la alegría",
+   "joy"
+  ],
+  "reason": "Unglossed in line 17."
+ },
+ {
+  "id": "a1-08",
+  "field": "quiz",
+  "index": 4,
+  "old": {
+   "q": "¿Por qué Elena quiere que Nico venga otra vez?",
+   "options": [
+    "Tiene mucho dinero",
+    "Necesita más rosas",
+    "Le gusta tener un amigo en el jardín",
+    "Nico es su hijo"
+   ],
+   "answer": 2
+  },
+  "new": {
+   "q": "¿Qué le gusta a la señora Elena?",
+   "options": [
+    "Tener mucho dinero",
+    "Vender rosas",
+    "Tener un amigo en el jardín",
+    "Ir al mercado"
+   ],
+   "answer": 2
+  },
+  "reason": "Old question used the subjunctive (\"quiere que Nico venga\"), well above A1."
+ },
+ {
+  "id": "a1-08",
+  "field": "prompt",
+  "old": "Do you have a garden, or do you know a place with many plants? Describe it in Spanish and say what you have to do to take care of it (use tengo que...).",
+  "new": "Do you have a garden, or do you know a place with many plants? Describe it in Spanish in 3-4 sentences and say what you have to do to take care of it (for example: En mi casa hay un jardín. Es más grande que mi cocina. Tengo que regar las plantas los sábados.).",
+  "reason": "Added a model with tener que and más ... que."
+ },
+ {
+  "id": "a1-09",
+  "field": "lines",
+  "index": 1,
+  "old": [
+   "Marta mira la pantalla y sonríe.",
+   "Marta looks at the screen and smiles."
+  ],
+  "new": [
+   "Marta mira la <b>pantalla</b> y sonríe.",
+   "Marta looks at the screen and smiles."
+  ],
+  "reason": "Bold \"pantalla\" (added to vocab)."
+ },
+ {
+  "id": "a1-09",
+  "field": "lines",
+  "index": 10,
+  "old": [
+   "—Voy a <b>cocinar</b> una <b>tortilla</b> y ver una película.",
+   "\"I'm going to cook a tortilla and watch a movie.\""
+  ],
+  "new": [
+   "—Voy a <b>cocinar</b> una <b>tortilla</b> y ver una <b>película</b>.",
+   "\"I'm going to cook a tortilla and watch a movie.\""
+  ],
+  "reason": "Bold \"película\" (added to vocab)."
+ },
+ {
+  "id": "a1-09",
+  "field": "lines",
+  "index": 11,
+  "old": [
+   "—Suena aburrido —dice Javier con una risa.",
+   "\"That sounds boring,\" says Javier with a laugh."
+  ],
+  "new": [
+   "—Suena <b>aburrido</b> —dice Javier con una sonrisa.",
+   "\"That sounds boring,\" says Javier with a smile."
+  ],
+  "reason": "\"con una risa\" is a calque of \"with a laugh\"; \"con una sonrisa\" is natural and hints at his secret."
+ },
+ {
+  "id": "a1-09",
+  "field": "lines",
+  "index": 17,
+  "old": [
+   "—Sí, pero ahora estoy en Sevilla, delante de tu <b>edificio</b>.",
+   "\"Yes, but right now I'm in Seville, in front of your building.\""
+  ],
+  "new": [
+   "—Sí, pero ahora estoy en Sevilla, <b>delante de</b> tu <b>edificio</b>.",
+   "\"Yes, but right now I'm in Seville, in front of your building.\""
+  ],
+  "reason": "Bold \"delante de\" (key to the twist, added to vocab)."
+ },
+ {
+  "id": "a1-09",
+  "field": "lines",
+  "index": 21,
+  "old": [
+   "Ella ríe y baja a abrir la puerta.",
+   "She laughs and goes down to open the door."
+  ],
+  "new": [
+   "Ella se ríe y baja a abrir la puerta.",
+   "She laughs and goes down to open the door."
+  ],
+  "reason": "\"ríe\" alone is literary; everyday Spanish is \"se ríe\" (as in a1-10 line 14)."
+ },
+ {
+  "id": "a1-09",
+  "field": "vocab",
+  "index": 14,
+  "old": null,
+  "new": [
+   "la pantalla",
+   "screen"
+  ],
+  "reason": "Unglossed in line 1."
+ },
+ {
+  "id": "a1-09",
+  "field": "vocab",
+  "index": 15,
+  "old": null,
+  "new": [
+   "la película",
+   "movie"
+  ],
+  "reason": "Unglossed in line 10."
+ },
+ {
+  "id": "a1-09",
+  "field": "vocab",
+  "index": 16,
+  "old": null,
+  "new": [
+   "aburrido",
+   "boring"
+  ],
+  "reason": "Unglossed in line 11."
+ },
+ {
+  "id": "a1-09",
+  "field": "vocab",
+  "index": 17,
+  "old": null,
+  "new": [
+   "delante de",
+   "in front of"
+  ],
+  "reason": "Unglossed; the twist depends on it."
+ },
+ {
+  "id": "a1-09",
+  "field": "prompt",
+  "old": "Imagine you call a friend. Write a short dialogue in Spanish: ask what your friend is going to do on Saturday and answer with ir a + infinitive.",
+  "new": "Imagine you call a friend. Write a short dialogue in Spanish: ask what your friend is going to do on Saturday and answer with ir a + infinitive (for example: —¿Qué vas a hacer el sábado? —Voy a ver una película. ¿Y tú?).",
+  "reason": "Added a model dialogue."
+ },
+ {
+  "id": "a1-10",
+  "field": "lines",
+  "index": 12,
+  "old": [
+   "Raúl busca los <b>billetes</b>, pero no los encuentra.",
+   "Raúl looks for the tickets, but he cannot find them."
+  ],
+  "new": [
+   "Raúl busca los <b>billetes</b>, pero no los <b>encuentra</b>.",
+   "Raúl looks for the tickets, but he cannot find them."
+  ],
+  "reason": "Bold \"encuentra\" (stem-changing, added to vocab)."
+ },
+ {
+  "id": "a1-10",
+  "field": "lines",
+  "index": 16,
+  "old": [
+   "El sábado, los tres llegan a la <b>estación</b> temprano.",
+   "On Saturday, the three of them arrive at the station early."
+  ],
+  "new": [
+   "El sábado, los tres llegan a la <b>estación</b> <b>temprano</b>.",
+   "On Saturday, the three of them arrive at the station early."
+  ],
+  "reason": "Bold \"temprano\" (added to vocab)."
+ },
+ {
+  "id": "a1-10",
+  "field": "lines",
+  "index": 19,
+  "old": [
+   "—Es más grande que en mis recuerdos —dice.",
+   "\"It is bigger than in my memories,\" he says."
+  ],
+  "new": [
+   "—Es más grande que en mis <b>recuerdos</b> —dice.",
+   "\"It's bigger than I remember,\" he says."
+  ],
+  "reason": "\"bigger than in my memories\" is unnatural English; bold \"recuerdos\" (abstract noun, added to vocab)."
+ },
+ {
+  "id": "a1-10",
+  "field": "vocab",
+  "index": 14,
+  "old": null,
+  "new": [
+   "encontrar",
+   "to find (encuentra)"
+  ],
+  "reason": "Unglossed stem-changing verb."
+ },
+ {
+  "id": "a1-10",
+  "field": "vocab",
+  "index": 15,
+  "old": null,
+  "new": [
+   "temprano",
+   "early"
+  ],
+  "reason": "Unglossed."
+ },
+ {
+  "id": "a1-10",
+  "field": "vocab",
+  "index": 16,
+  "old": null,
+  "new": [
+   "el recuerdo",
+   "memory"
+  ],
+  "reason": "Unglossed abstract noun in the climax line."
+ },
+ {
+  "id": "a1-10",
+  "field": "prompt",
+  "old": "Where are you going to go on your next weekend trip, and who is going with you? Write 4-6 sentences in Spanish using voy a... and vamos a...",
+  "new": "Where are you going to go on your next weekend trip, and who is going with you? Write 4-6 sentences in Spanish using voy a... and vamos a... (for example: El sábado voy a ir a la playa con mi hermana. Vamos a comer pescado.).",
+  "reason": "Added a model."
+ }
+]

@@ -1,0 +1,550 @@
+{
+ "a2-01": {
+  "items": [
+   {
+    "t": "obj",
+    "n": "bus",
+    "x": 320,
+    "y": 250,
+    "s": 1.1
+   },
+   {
+    "t": "person",
+    "x": 55,
+    "y": 250,
+    "skin": "c",
+    "hair": "ponytail",
+    "hc": "k",
+    "outfit": "dress",
+    "pose": "wave"
+   },
+   {
+    "t": "obj",
+    "n": "suitcase",
+    "x": 100,
+    "y": 250,
+    "s": 0.8
+   },
+   {
+    "t": "person",
+    "x": 165,
+    "y": 250,
+    "skin": "a",
+    "hair": "curly",
+    "hc": "b",
+    "outfit": "stripe",
+    "pose": "hold"
+   },
+   {
+    "t": "obj",
+    "n": "guitar",
+    "x": 215,
+    "y": 250,
+    "s": 0.7
+   }
+  ],
+  "vb": [
+   0,
+   0,
+   400,
+   300
+  ],
+  "country": "Spain",
+  "ink": [
+   "#6b1424",
+   "#f2b705"
+  ]
+ },
+ "a2-02": {
+  "items": [
+   {
+    "t": "person",
+    "x": 110,
+    "y": 250,
+    "s": 0.7,
+    "skin": "d",
+    "hair": "braids",
+    "hc": "k",
+    "outfit": "dress",
+    "pose": "cheer"
+   },
+   {
+    "t": "obj",
+    "n": "dog",
+    "x": 185,
+    "y": 250,
+    "s": 0.7
+   },
+   {
+    "t": "svg",
+    "x": 206,
+    "y": 222,
+    "s": 1,
+    "svg": "<path d='M0,0 L-11,-7 L-11,7Z M0,0 L11,-7 L11,7Z' fill='#E06D53'/><path d='M-3,-3 H3 V3 H-3Z' fill='#E06D53'/>"
+   },
+   {
+    "t": "svg",
+    "x": 300,
+    "y": 250,
+    "s": 1.4,
+    "svg": "<rect x='-30' y='-104' width='60' height='104' rx='4' fill='#2F4A3A'/><rect x='-20' y='-92' width='40' height='30' rx='3' fill='#24382c'/><circle cx='18' cy='-52' r='4' fill='#E8A23B'/>"
+   },
+   {
+    "t": "obj",
+    "n": "key",
+    "x": 303,
+    "y": 197,
+    "s": 0.55
+   }
+  ],
+  "vb": [
+   54,
+   63.8,
+   315,
+   236.3
+  ],
+  "country": "Mexico",
+  "ink": [
+   "#0e4a30",
+   "#d9382c"
+  ],
+  "inks": [
+   "#1f2a44",
+   "#e8765c",
+   "#d9382c",
+   "#3a6ea5",
+   "#3f8a55",
+   "#c9963a"
+  ]
+ },
+ "a2-03": {
+  "items": [
+   {
+    "t": "obj",
+    "n": "pot",
+    "x": 305,
+    "y": 250,
+    "s": 1.5
+   },
+   {
+    "t": "person",
+    "x": 90,
+    "y": 250,
+    "skin": "b",
+    "hair": "short",
+    "hc": "k",
+    "outfit": "apron",
+    "pose": "point",
+    "acc": [
+     "chef"
+    ]
+   },
+   {
+    "t": "person",
+    "x": 175,
+    "y": 250,
+    "s": 0.95,
+    "skin": "e",
+    "hair": "bun",
+    "hc": "g",
+    "outfit": "coat",
+    "pose": "hold",
+    "acc": [
+     "glasses"
+    ]
+   }
+  ],
+  "vb": [
+   31,
+   23.3,
+   369,
+   276.8
+  ],
+  "country": "Peru",
+  "ink": [
+   "#4a1018",
+   "#d62a2a"
+  ]
+ },
+ "a2-04": {
+  "items": [
+   {
+    "t": "obj",
+    "n": "ball",
+    "x": 290,
+    "y": 250,
+    "s": 0.8
+   },
+   {
+    "t": "person",
+    "x": 110,
+    "y": 250,
+    "s": 0.8,
+    "skin": "c",
+    "hair": "short",
+    "hc": "k",
+    "outfit": "stripe",
+    "pose": "cheer"
+   },
+   {
+    "t": "person",
+    "x": 200,
+    "y": 250,
+    "s": 0.92,
+    "skin": "c",
+    "hair": "ponytail",
+    "hc": "k",
+    "outfit": "tee",
+    "pose": "point"
+   }
+  ],
+  "vb": [
+   50,
+   80.3,
+   293,
+   219.8
+  ],
+  "country": "Colombia",
+  "ink": [
+   "#12295c",
+   "#f7c600"
+  ]
+ },
+ "a2-05": {
+  "items": [
+   {
+    "t": "svg",
+    "x": 325,
+    "y": 250,
+    "s": 1.4,
+    "svg": "<rect x='-30' y='-104' width='60' height='104' rx='4' fill='#2c4468'/><rect x='-20' y='-92' width='40' height='30' rx='3' fill='#1f3350'/><circle cx='18' cy='-52' r='4' fill='#E8A23B'/>"
+   },
+   {
+    "t": "person",
+    "x": 255,
+    "y": 250,
+    "s": 0.8,
+    "skin": "a",
+    "hair": "short",
+    "hc": "y",
+    "outfit": "tee",
+    "flip": true,
+    "acc": [
+     "backpack"
+    ],
+    "packc": "#D9382C"
+   },
+   {
+    "t": "person",
+    "x": 85,
+    "y": 250,
+    "skin": "b",
+    "hair": "bob",
+    "hc": "r",
+    "outfit": "coat",
+    "pose": "hold"
+   },
+   {
+    "t": "obj",
+    "n": "umbrella",
+    "x": 150,
+    "y": 250,
+    "s": 0.9
+   },
+   {
+    "t": "obj",
+    "n": "rain",
+    "x": 190,
+    "y": 90,
+    "s": 1.6
+   }
+  ],
+  "vb": [
+   30.3,
+   19,
+   365.3,
+   274
+  ],
+  "country": "Chile",
+  "ink": [
+   "#12295c",
+   "#d8352a"
+  ],
+  "inks": [
+   "#1f2a44",
+   "#e8765c",
+   "#d9382c",
+   "#3a6ea5",
+   "#3f8a55",
+   "#c9963a"
+  ]
+ },
+ "a2-06": {
+  "items": [
+   {
+    "t": "obj",
+    "n": "table",
+    "x": 205,
+    "y": 250,
+    "s": 1.1
+   },
+   {
+    "t": "obj",
+    "n": "lamp",
+    "x": 205,
+    "y": 197,
+    "s": 0.9
+   },
+   {
+    "t": "person",
+    "x": 95,
+    "y": 250,
+    "skin": "f",
+    "hair": "afro",
+    "hc": "k",
+    "outfit": "dress",
+    "pose": "point"
+   },
+   {
+    "t": "obj",
+    "n": "boxes",
+    "x": 320,
+    "y": 250,
+    "s": 1.1
+   }
+  ],
+  "vb": [
+   34,
+   25.5,
+   366,
+   274.5
+  ],
+  "country": "Chile",
+  "ink": [
+   "#12295c",
+   "#d8352a"
+  ]
+ },
+ "a2-07": {
+  "items": [
+   {
+    "t": "person",
+    "x": 130,
+    "y": 250,
+    "skin": "b",
+    "hair": "curly",
+    "hc": "k",
+    "outfit": "vest",
+    "pose": "hold"
+   },
+   {
+    "t": "obj",
+    "n": "guitar",
+    "x": 175,
+    "y": 250,
+    "s": 0.9
+   },
+   {
+    "t": "person",
+    "x": 280,
+    "y": 250,
+    "s": 0.7,
+    "skin": "e",
+    "hair": "braids",
+    "hc": "k",
+    "outfit": "dress",
+    "pose": "cheer"
+   },
+   {
+    "t": "svg",
+    "x": 55,
+    "y": 250,
+    "s": 1,
+    "svg": "<path d=\"M-30,-16 Q-28,0 0,0 Q28,0 30,-16Z\" fill=\"#2b2b2b\"/><ellipse cx=\"0\" cy=\"-16\" rx=\"36\" ry=\"6\" fill=\"#3a3a3a\"/><ellipse cx=\"-12\" cy=\"-19\" rx=\"5.5\" ry=\"4\" fill=\"#C98512\" stroke=\"#2b2b2b\" stroke-width=\"1\"/><ellipse cx=\"0\" cy=\"-21\" rx=\"5.5\" ry=\"4\" fill=\"#C98512\" stroke=\"#2b2b2b\" stroke-width=\"1\"/><ellipse cx=\"11\" cy=\"-18\" rx=\"5.5\" ry=\"4\" fill=\"#C98512\" stroke=\"#2b2b2b\" stroke-width=\"1\"/><ellipse cx=\"-4\" cy=\"-15\" rx=\"5.5\" ry=\"4\" fill=\"#C98512\" stroke=\"#2b2b2b\" stroke-width=\"1\"/><ellipse cx=\"6\" cy=\"-14\" rx=\"5.5\" ry=\"4\" fill=\"#C98512\" stroke=\"#2b2b2b\" stroke-width=\"1\"/><ellipse cx=\"42\" cy=\"-2\" rx=\"5\" ry=\"2.6\" fill=\"#C98512\" stroke=\"#2b2b2b\" stroke-width=\"1\"/><ellipse cx=\"52\" cy=\"-3\" rx=\"5\" ry=\"2.6\" fill=\"#C98512\" stroke=\"#2b2b2b\" stroke-width=\"1\"/>"
+   }
+  ],
+  "vb": [
+   0,
+   42,
+   344,
+   258
+  ],
+  "country": "Argentina",
+  "ink": [
+   "#16487e",
+   "#74acdf"
+  ]
+ },
+ "a2-08": {
+  "items": [
+   {
+    "t": "obj",
+    "n": "mountain",
+    "x": 268,
+    "y": 250,
+    "s": 1.3
+   },
+   {
+    "t": "svg",
+    "x": 345,
+    "y": 250,
+    "s": 1,
+    "svg": "<path d='M-3,0 L-2,-150 H2 L3,0Z' fill='#5E3B26'/><path d='M0,-150 Q-30,-172 -56,-146 Q-28,-158 0,-150Z M0,-150 Q30,-172 56,-146 Q28,-158 0,-150Z M0,-150 Q-14,-182 -38,-184 Q-16,-170 0,-150Z M0,-150 Q14,-182 38,-184 Q16,-170 0,-150Z' fill='#3f5f3d'/>"
+   },
+   {
+    "t": "svg",
+    "x": 310,
+    "y": 250,
+    "s": 1,
+    "svg": "<path d=\"M-150,-30 q24.0,-20 60.0,-14.0 q36.0,-20 76.0,-7.0 q40.0,-10.0 64.0,21.0 Z\" fill=\"#F3F0EA\"/><path d=\"M-60,-52 q22.8,-22 57.0,-15.399999999999999 q34.199999999999996,-22 72.2,-7.699999999999999 q38.0,-11.0 60.800000000000004,23.1 Z\" fill=\"#F3F0EA\"/><path d=\"M-170,-80 q20.4,-16 51.0,-11.2 q30.599999999999998,-16 64.6,-5.6 q34.0,-8.0 54.4,16.8 Z\" fill=\"#F3F0EA\"/><path d=\"M-140,-36 H20 M-50,-58 H110 M-160,-84 H-20 M-120,-46 H-30 M-20,-70 H60\" fill=\"none\" stroke=\"#A9B6C0\" stroke-width=\"3\" stroke-linecap=\"round\"/>"
+   },
+   {
+    "t": "person",
+    "x": 90,
+    "y": 250,
+    "skin": "d",
+    "hair": "long",
+    "hc": "k",
+    "outfit": "coat",
+    "pose": "point",
+    "acc": [
+     "backpack"
+    ]
+   },
+   {
+    "t": "person",
+    "x": 180,
+    "y": 250,
+    "skin": "a",
+    "hair": "cap",
+    "hc": "b",
+    "outfit": "tee",
+    "pose": "think",
+    "acc": [
+     "backpack"
+    ],
+    "s": 0.95
+   }
+  ],
+  "vb": [
+   5,
+   3.8,
+   395,
+   296.3
+  ],
+  "country": "Colombia",
+  "ink": [
+   "#12295c",
+   "#f7c600"
+  ]
+ },
+ "a2-09": {
+  "items": [
+   {
+    "t": "person",
+    "x": 150,
+    "y": 250,
+    "skin": "c",
+    "hair": "long",
+    "hc": "k",
+    "outfit": "tee",
+    "pose": "hold",
+    "shirt": "#F7F2EA"
+   },
+   {
+    "t": "svg",
+    "x": 160,
+    "y": 166,
+    "s": 1,
+    "svg": "<path d='M-9,-3 Q-11,-13 0,-12 Q12,-15 10,-2 Q9,8 -1,6 Q-11,6 -9,-3Z' fill='#C99A62'/>"
+   },
+   {
+    "t": "obj",
+    "n": "cup",
+    "x": 138,
+    "y": 203,
+    "s": 0.5
+   },
+   {
+    "t": "person",
+    "x": 290,
+    "y": 250,
+    "s": 0.9,
+    "skin": "a",
+    "hair": "bun",
+    "hc": "g",
+    "outfit": "coat",
+    "pose": "stand",
+    "acc": [
+     "cane",
+     "glasses"
+    ],
+    "flip": true
+   }
+  ],
+  "vb": [
+   75.3,
+   73,
+   293.3,
+   220
+  ],
+  "country": "Mexico",
+  "ink": [
+   "#0e4a30",
+   "#d9382c"
+  ]
+ },
+ "a2-10": {
+  "items": [
+   {
+    "t": "person",
+    "x": 90,
+    "y": 250,
+    "skin": "b",
+    "hair": "long",
+    "hc": "b",
+    "outfit": "stripe",
+    "pose": "point"
+   },
+   {
+    "t": "person",
+    "x": 345,
+    "y": 250,
+    "skin": "e",
+    "hair": "bald",
+    "hc": "g",
+    "outfit": "vest",
+    "pose": "wheel",
+    "acc": [
+     "mustache"
+    ],
+    "flip": true
+   },
+   {
+    "t": "svg",
+    "x": 190,
+    "y": 250,
+    "s": 1.35,
+    "svg": "<rect x='-30' y='-34' width='9' height='34' rx='3' fill='#8a1c1c'/><rect x='-14' y='-34' width='9' height='34' rx='3' fill='#8a1c1c'/><rect x='10' y='-34' width='9' height='34' rx='3' fill='#8a1c1c'/><rect x='24' y='-34' width='9' height='34' rx='3' fill='#8a1c1c'/><path d='M-40,-38 Q-42,-74 -10,-74 H24 Q40,-74 40,-38 Z' fill='#8a1c1c'/><path d='M-38,-40 Q-52,-50 -48,-68' fill='none' stroke='#8a1c1c' stroke-width='4'/><path d='M30,-62 Q30,-84 46,-86 Q62,-84 62,-64 Q60,-50 46,-48 Q32,-50 30,-62Z' fill='#8a1c1c'/><path d='M34,-80 Q22,-96 30,-104 Q34,-92 42,-84Z M56,-82 Q68,-96 62,-104 Q56,-92 50,-84Z' fill='#C08020'/><path d='M-24,-70 V-42 M-6,-72 V-40 M12,-72 V-40' fill='none' stroke='#C08020' stroke-width='4'/><circle cx='50' cy='-70' r='3.5' fill='#C08020'/>"
+   },
+   {
+    "t": "obj",
+    "n": "star",
+    "x": 190,
+    "y": 112,
+    "s": 0.4
+   }
+  ],
+  "vb": [
+   26,
+   19.5,
+   374,
+   280.5
+  ],
+  "country": "Spain",
+  "ink": [
+   "#6b1424",
+   "#f2b705"
+  ]
+ }
+}

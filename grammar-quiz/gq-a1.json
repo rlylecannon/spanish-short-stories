@@ -1,0 +1,1022 @@
+{
+ "a1-01": [
+  {
+   "topic": "Telling time: Son las…",
+   "q": "How do you say 'It is four o'clock' in Spanish?",
+   "options": [
+    "Es las cuatro.",
+    "Son las cuatro.",
+    "Son la cuatro.",
+    "Está las cuatro."
+   ],
+   "answer": 1,
+   "why": "Four is plural, so use 'Son las cuatro'. Only one o'clock is singular: 'Es la una'. Time never uses estar."
+  },
+  {
+   "topic": "Hay: there is / there are",
+   "q": "Fill in the blank: Son las cuatro. ¡No ___ flan!",
+   "options": [
+    "está",
+    "hay",
+    "es",
+    "tiene"
+   ],
+   "answer": 1,
+   "why": "'No hay' means 'there is no'. It says the flan does not exist there any more. 'Está' tells where a known thing is, and 'es' describes."
+  },
+  {
+   "topic": "Estar for location and feelings",
+   "q": "Which question asks where the flan is?",
+   "options": [
+    "¿Dónde es el flan?",
+    "¿Dónde está el flan?",
+    "¿Dónde hay el flan?",
+    "¿Dónde tiene el flan?"
+   ],
+   "answer": 1,
+   "why": "To ask where a specific thing is, use estar: ¿Dónde está el flan? 'Hay' does not go with 'el', and 'es' is not for location."
+  },
+  {
+   "topic": "Estar for location and feelings",
+   "q": "Fill in the blank: Chispa, la perra, ___ en el piso.",
+   "options": [
+    "es",
+    "hay",
+    "está",
+    "tiene"
+   ],
+   "answer": 2,
+   "why": "Where a specific person or animal is uses estar: Chispa está en el piso. 'Hay' introduces something new, and 'es' describes what something is like."
+  },
+  {
+   "topic": "Telling time: Son las…",
+   "q": "Complete: —¿Qué hora es? —___ la una de la tarde.",
+   "options": [
+    "Son",
+    "Hay",
+    "Está",
+    "Es"
+   ],
+   "answer": 3,
+   "why": "One o'clock is singular: 'Es la una'. From two to twelve, use 'Son las…'.",
+   "x": true
+  },
+  {
+   "topic": "Hay: there is / there are",
+   "q": "Which sentence is correct?",
+   "options": [
+    "Hay una cuchara en la mesa.",
+    "Hay la cuchara en la mesa.",
+    "Está una cuchara en la mesa.",
+    "Una cuchara hay en la mesa."
+   ],
+   "answer": 0,
+   "why": "'Hay' introduces something new and goes with un/una, a number or no article, usually first: Hay una cuchara. For a known thing, say 'La cuchara está en la mesa'.",
+   "x": true
+  },
+  {
+   "topic": "Estar for location and feelings",
+   "q": "Put the words in order: sala / abuelo / está / el / en / la",
+   "options": [
+    "El abuelo en la sala está.",
+    "El abuelo está en la sala.",
+    "Está el abuelo la en sala.",
+    "En el abuelo la sala está."
+   ],
+   "answer": 1,
+   "why": "The usual order is subject + estar + en + place: El abuelo está en la sala (Grandpa is in the living room).",
+   "x": true
+  },
+  {
+   "topic": "Estar for location and feelings",
+   "q": "How do you say 'Xóchitl is happy' (right now)?",
+   "options": [
+    "Xóchitl es contenta.",
+    "Xóchitl tiene contenta.",
+    "Xóchitl hay contenta.",
+    "Xóchitl está contenta."
+   ],
+   "answer": 3,
+   "why": "Feelings right now use estar: está contenta. Ser is not used for how someone feels at the moment.",
+   "x": true
+  }
+ ],
+ "a1-02": [
+  {
+   "topic": "Ser for days, prices, descriptions",
+   "q": "Fill in the blank: A las doce, ¡___ cien bifes!",
+   "options": [
+    "es",
+    "son",
+    "están",
+    "somos"
+   ],
+   "answer": 1,
+   "why": "Totals and prices use ser, and the verb agrees with the amount: cien bifes is plural, so 'son'. English says 'that's a hundred', but Spanish does not say 'es cien bifes'."
+  },
+  {
+   "topic": "Gustar: liking things",
+   "q": "Don Horacio doesn't like mistakes (plural). Which sentence is correct?",
+   "options": [
+    "No le gusta los errores.",
+    "No le gustan los errores.",
+    "No gusta los errores.",
+    "Él no gustan los errores."
+   ],
+   "answer": 1,
+   "why": "With gustar, the thing liked is the subject. 'Los errores' is plural, so the verb is 'gustan'; 'le' (to him) goes before the verb."
+  },
+  {
+   "topic": "Personal a before people",
+   "q": "Which sentence needs the personal 'a' in the blank?",
+   "options": [
+    "Don Horacio mira ___ Delfina.",
+    "Delfina mira ___ la comanda.",
+    "Delfina pone ___ nueve bifes en la parrilla.",
+    "Don Horacio prueba ___ un bife."
+   ],
+   "answer": 0,
+   "why": "Personal 'a' goes before a specific person who receives the action: mira a Delfina. La comanda and los bifes are things, so they take no 'a'."
+  },
+  {
+   "topic": "Ser for days, prices, descriptions",
+   "q": "Fill in the blank: ___ viernes en Buenos Aires.",
+   "options": [
+    "Es",
+    "Está",
+    "Hay",
+    "Son"
+   ],
+   "answer": 0,
+   "why": "Days of the week use ser: Es viernes (It's Friday). 'Está' is for location or feelings, and 'son' is plural."
+  },
+  {
+   "topic": "Ser for days, prices, descriptions",
+   "q": "How do you say 'Delfina is a cook'?",
+   "options": [
+    "Delfina es cocinera.",
+    "Delfina hay cocinera.",
+    "Delfina está cocinera.",
+    "Delfina tiene cocinera."
+   ],
+   "answer": 0,
+   "why": "Jobs use ser, and Spanish usually drops 'un/una' before a job: Delfina es cocinera.",
+   "x": true
+  },
+  {
+   "topic": "Gustar: liking things",
+   "q": "Complete: Me ___ tu bife, pero no me ___ las ensaladas.",
+   "options": [
+    "gustan / gusta",
+    "gusto / gustan",
+    "gusta / gusta",
+    "gusta / gustan"
+   ],
+   "answer": 3,
+   "why": "The verb agrees with the thing liked: tu bife (one) → gusta; las ensaladas (plural) → gustan. 'Gusto' would mean 'I please'.",
+   "x": true
+  },
+  {
+   "topic": "Personal a before people",
+   "q": "How do you say 'The waiter sees the boss'?",
+   "options": [
+    "El mozo ve el jefe.",
+    "El mozo ve a el jefe.",
+    "El mozo ve al jefe.",
+    "El mozo ve a jefe."
+   ],
+   "answer": 2,
+   "why": "The boss is a specific person, so he takes personal 'a', and a + el always joins to 'al': ve al jefe.",
+   "x": true
+  },
+  {
+   "topic": "Gustar: liking things",
+   "q": "The new customers love steaks. Complete: ¡Nos ___ mucho los bifes!",
+   "options": [
+    "gusta",
+    "gustamos",
+    "gusto",
+    "gustan"
+   ],
+   "answer": 3,
+   "why": "With gustar the verb agrees with the thing liked. 'Los bifes' is plural, so 'gustan'; 'nos' shows who likes them (us).",
+   "x": true
+  }
+ ],
+ "a1-03": [
+  {
+   "topic": "Ser vs. estar",
+   "q": "Which sentence is correct for 'She is from Chile and she is nervous today'?",
+   "options": [
+    "Está de Chile y está nerviosa.",
+    "Es de Chile y está nerviosa.",
+    "Es de Chile y es nerviosa.",
+    "Está de Chile y es nerviosa."
+   ],
+   "answer": 1,
+   "why": "Origin uses ser (es de Chile). A feeling right now uses estar (está nerviosa). 'Es nerviosa' would mean she is a nervous person by nature."
+  },
+  {
+   "topic": "Gustar to say what you like",
+   "q": "Alicia answers about soccer. Which answer means 'I like to draw'?",
+   "options": [
+    "Me gusto dibujar.",
+    "Me gusta dibujar.",
+    "Yo gusta dibujo.",
+    "Me gustan dibujar."
+   ],
+   "answer": 1,
+   "why": "'Me gusta' + infinitive = I like to… / I like …ing. With an action the verb is always singular 'gusta'."
+  },
+  {
+   "topic": "Tener: possession and hunger",
+   "q": "Complete: —¿Tienes hambre? —Sí, ___ mucha hambre.",
+   "options": [
+    "estoy",
+    "soy",
+    "tengo",
+    "hay"
+   ],
+   "answer": 2,
+   "why": "Hunger uses tener: tengo hambre (literally 'I have hunger'). 'Hambre' is a noun, so 'very hungry' is 'mucha hambre'."
+  },
+  {
+   "topic": "Ser vs. estar",
+   "q": "At the end of the story: Ahora Alicia tiene una amiga y ___ contenta.",
+   "options": [
+    "está",
+    "es",
+    "hay",
+    "tiene"
+   ],
+   "answer": 0,
+   "why": "Being happy now is a feeling, so it uses estar: está contenta. Ser is for origin and identity: es de Chile, es Alicia."
+  },
+  {
+   "topic": "Ser vs. estar",
+   "q": "Which sentence needs 'está' (estar) instead of 'es' (ser)?",
+   "options": [
+    "La profesora ___ de México.",
+    "Alicia ___ muy nerviosa hoy.",
+    "Alicia ___ de Chile.",
+    "Ella ___ Alicia."
+   ],
+   "answer": 1,
+   "why": "A feeling today uses estar: está nerviosa. Origin (de Chile, de México) and identity (es Alicia) use ser.",
+   "x": true
+  },
+  {
+   "topic": "Gustar to say what you like",
+   "q": "Alicia says: 'Me gusta dibujar.' Cristina likes it too. What does she say?",
+   "options": [
+    "¡Me también!",
+    "¡Yo gusta también!",
+    "¡A mí también!",
+    "¡Yo también gusto!"
+   ],
+   "answer": 2,
+   "why": "To agree with a gustar sentence, say '¡A mí también!' (literally 'to me too'), because the liker is 'a mí', not 'yo'.",
+   "x": true
+  },
+  {
+   "topic": "Tener: possession and hunger",
+   "q": "How do you ask 'Are you hungry?'",
+   "options": [
+    "¿Estás hambre?",
+    "¿Eres hambre?",
+    "¿Tienes hambre?",
+    "¿Tienes hambriento?"
+   ],
+   "answer": 2,
+   "why": "Spanish says 'to have hunger': ¿Tienes hambre? English 'are you…?' tempts learners to use estar or ser here.",
+   "x": true
+  },
+  {
+   "topic": "Tener: possession and hunger",
+   "q": "Complete: Alicia ___ el pelo largo y negro.",
+   "options": [
+    "es",
+    "está",
+    "hay",
+    "tiene"
+   ],
+   "answer": 3,
+   "why": "Spanish describes hair with tener: tiene el pelo largo (literally 'she has the hair long').",
+   "x": true
+  }
+ ],
+ "a1-04": [
+  {
+   "topic": "Colors: agreement and position",
+   "q": "Tinto's paws are white. Complete: Tinto tiene las patas ___.",
+   "options": [
+    "blanco",
+    "blanca",
+    "blancos",
+    "blancas"
+   ],
+   "answer": 3,
+   "why": "Las patas is feminine plural, so the color is feminine plural too: blancas. The color goes after the noun."
+  },
+  {
+   "topic": "Querer and poder + infinitive",
+   "q": "Which sentence means 'I want to find my cake'?",
+   "options": [
+    "Quiero a encontrar mi torta.",
+    "Quiero encuentro mi torta.",
+    "Quero encontrar mi torta.",
+    "Quiero encontrar mi torta."
+   ],
+   "answer": 3,
+   "why": "Querer is followed directly by the infinitive (encontrar), with no 'a'. The 'I' form has the stem change e → ie: quiero."
+  },
+  {
+   "topic": "Negatives with no",
+   "q": "How do you say 'It isn't in the kitchen'?",
+   "options": [
+    "No es en la cocina.",
+    "Está no en la cocina.",
+    "No está en la cocina.",
+    "No hay en la cocina."
+   ],
+   "answer": 2,
+   "why": "'No' goes right before the verb, and location of a specific thing uses estar: no está en la cocina."
+  },
+  {
+   "topic": "Negatives with no",
+   "q": "Edwin says the delivery man is not the boy. Complete: — ___ él, porque es alto.",
+   "options": [
+    "Es no",
+    "No hay",
+    "No está",
+    "No es"
+   ],
+   "answer": 3,
+   "why": "'No' goes right before the verb. Saying who someone is uses ser: No es él (It isn't him)."
+  },
+  {
+   "topic": "Colors: agreement and position",
+   "q": "Marleny has two green jackets. Complete: Marleny tiene dos chaquetas ___.",
+   "options": [
+    "verde",
+    "verdos",
+    "verdas",
+    "verdes"
+   ],
+   "answer": 3,
+   "why": "Colors ending in -e have no masculine or feminine form; they only add -s for the plural: verdes. 'Verdas' and 'verdos' do not exist.",
+   "x": true
+  },
+  {
+   "topic": "Querer and poder + infinitive",
+   "q": "Edwin and Marleny want to go to the park together. Complete: ___ ir al parque. (We can…)",
+   "options": [
+    "Puedemos",
+    "Pueden",
+    "Podemos",
+    "Poder"
+   ],
+   "answer": 2,
+   "why": "Poder changes o → ue in puedo, puedes, puede, pueden, but NOT in the 'we' form: podemos.",
+   "x": true
+  },
+  {
+   "topic": "Negatives with no",
+   "q": "Make this sentence negative: 'Son zapatos.'",
+   "options": [
+    "No son zapatos.",
+    "Son no zapatos.",
+    "Son zapatos no.",
+    "No zapatos son."
+   ],
+   "answer": 0,
+   "why": "'No' goes directly before the verb: No son zapatos. There is no helper verb like 'don't'.",
+   "x": true
+  },
+  {
+   "topic": "Colors: agreement and position",
+   "q": "Which phrase means 'a white cake'?",
+   "options": [
+    "una blanca torta",
+    "una torta blanco",
+    "una torta blanca",
+    "un torta blanca"
+   ],
+   "answer": 2,
+   "why": "In Spanish the color usually goes after the noun and agrees with it: la torta is feminine singular, so 'una torta blanca'.",
+   "x": true
+  }
+ ],
+ "a1-05": [
+  {
+   "topic": "Querer, necesitar, poder + infinitive",
+   "q": "Which sentence is correct for 'We can wait'?",
+   "options": [
+    "Podemos esperamos.",
+    "Podemos esperar.",
+    "Puedemos esperar.",
+    "Podemos a esperar."
+   ],
+   "answer": 1,
+   "why": "Poder changes its stem to 'pued-' only in some forms (puedo, puedes, puede); nosotros is 'podemos'. The second verb stays in the infinitive, with no 'a'."
+  },
+  {
+   "topic": "Ir: voy a + place",
+   "q": "What does '— Voy a la caja —dice Nerea' mean?",
+   "options": [
+    "\"I have the till,\" says Nerea.",
+    "\"She's going to the till,\" says Nerea.",
+    "\"I'm going to the till,\" says Nerea.",
+    "\"I'm at the till,\" says Nerea."
+   ],
+   "answer": 2,
+   "why": "'Voy' is the 'I' form of ir (to go), and 'a' means 'to' before a place. 'I'm at the till' would be 'Estoy en la caja'."
+  },
+  {
+   "topic": "Numbers and prices: ¿Cuánto es?",
+   "q": "Nerea wants to know the price at the till. What does she ask?",
+   "options": [
+    "¿Cuánto es?",
+    "¿Cuándo es?",
+    "¿Qué hora es?",
+    "¿Dónde es?"
+   ],
+   "answer": 0,
+   "why": "'¿Cuánto es?' means 'How much is it?'. 'Cuándo' means 'when', so '¿Cuándo es?' asks about time, not price."
+  },
+  {
+   "topic": "Numbers and prices: ¿Cuánto es?",
+   "q": "Fill in the blank: Un chocolate con churros ___ cinco euros.",
+   "options": [
+    "costa",
+    "cuestan",
+    "cuesta",
+    "cuesto"
+   ],
+   "answer": 2,
+   "why": "Costar changes o → ue: cuesta. One chocolate is singular, so 'cuesta'; two or more things take 'cuestan'."
+  },
+  {
+   "topic": "Querer, necesitar, poder + infinitive",
+   "q": "Complete: Yo ___ pedir dos chocolates con churros.",
+   "options": [
+    "quero",
+    "quieres",
+    "querer",
+    "quiero"
+   ],
+   "answer": 3,
+   "why": "Querer changes e→ie in the stressed forms: yo quiero, tú quieres. 'Quero' does not exist in Spanish.",
+   "x": true
+  },
+  {
+   "topic": "Ir: voy a + place",
+   "q": "Complete: El abuelo y yo ___ a la chocolatería.",
+   "options": [
+    "vais",
+    "voy",
+    "van",
+    "vamos"
+   ],
+   "answer": 3,
+   "why": "'El abuelo y yo' = we (nosotros), so ir becomes 'vamos'. 'Voy' is only for 'yo'.",
+   "x": true
+  },
+  {
+   "topic": "Numbers and prices: ¿Cuánto es?",
+   "q": "Answer the price question for two chocolates: — ___ diez euros.",
+   "options": [
+    "Es",
+    "Son",
+    "Están",
+    "Hay"
+   ],
+   "answer": 1,
+   "why": "A total of two or more uses 'son': Son diez euros. Only one is singular: Es un euro.",
+   "x": true
+  },
+  {
+   "topic": "Numbers and prices: ¿Cuánto es?",
+   "q": "'¡Cuarenta años aquí!' How many years is cuarenta?",
+   "options": [
+    "14",
+    "40",
+    "4",
+    "400"
+   ],
+   "answer": 1,
+   "why": "Cuatro = 4, catorce = 14, cuarenta = 40, cuatrocientos = 400. The tens end in -enta: treinta, cuarenta, cincuenta.",
+   "x": true
+  }
+ ],
+ "a1-06": [
+  {
+   "topic": "Reflexive verbs",
+   "q": "Which sentence means 'Uncle Wilfredo doesn't sit with his brother'?",
+   "options": [
+    "El tío Wilfredo no sienta se con su hermano.",
+    "El tío Wilfredo se no sienta con su hermano.",
+    "El tío Wilfredo no me sienta con su hermano.",
+    "El tío Wilfredo no se sienta con su hermano."
+   ],
+   "answer": 3,
+   "why": "'No' comes first, then the pronoun, then the verb: no se sienta. With he/she the pronoun is 'se', not 'me'."
+  },
+  {
+   "topic": "Present tense: yo form",
+   "q": "Fill in the blank: Yo ___ las mesas de la boda.",
+   "options": [
+    "prepara",
+    "preparar",
+    "preparas",
+    "preparo"
+   ],
+   "answer": 3,
+   "why": "With 'yo', regular verbs end in -o: preparo. 'Prepara' is he/she, 'preparas' is you, and 'preparar' is the infinitive."
+  },
+  {
+   "topic": "Possessives: mi, su",
+   "q": "Complete: El tío Wilfredo no se sienta con ___ hermano Héctor. (his brother)",
+   "options": [
+    "tu",
+    "mi",
+    "sus",
+    "su"
+   ],
+   "answer": 3,
+   "why": "'Su' means his (also her or their). 'Hermano' is singular, so su, not sus. 'Mi' is my and 'tu' is your."
+  },
+  {
+   "topic": "Reflexive verbs",
+   "q": "Complete: Kiara y Joel ___ el sábado.",
+   "options": [
+    "se casa",
+    "me caso",
+    "casan se",
+    "se casan"
+   ],
+   "answer": 3,
+   "why": "Two people = they, so the verb ends in -an and the pronoun is 'se': se casan. The pronoun goes before the verb."
+  },
+  {
+   "topic": "Present tense: yo form",
+   "q": "How do you say 'I'm hungry'?",
+   "options": [
+    "Teno hambre.",
+    "Tengo hambre.",
+    "Tiene hambre.",
+    "Soy hambre."
+   ],
+   "answer": 1,
+   "why": "Spanish says 'I have hunger': tengo hambre. Tener is irregular in the yo form (tengo); 'tiene' is he/she, and ser is not used here.",
+   "x": true
+  },
+  {
+   "topic": "Possessives: mi, su",
+   "q": "What does 'Mi prima Kiara se casa el sábado' mean?",
+   "options": [
+    "My cousin Kiara is getting married on Saturday.",
+    "His cousin Kiara is getting married on Saturday.",
+    "Your cousin Kiara is getting married on Saturday.",
+    "Her cousin Kiara gets married every Saturday."
+   ],
+   "answer": 0,
+   "why": "'Mi' = my. 'His/her' would be 'su', and 'your' would be 'tu'.",
+   "x": true
+  },
+  {
+   "topic": "Possessives: mi, su",
+   "q": "Yadira talks about her two cousins. Complete: ___ primos se sientan juntos. (My cousins)",
+   "options": [
+    "Mis",
+    "Mi",
+    "Su",
+    "Sus"
+   ],
+   "answer": 0,
+   "why": "Possessives agree with the thing owned: 'primos' is plural, so mi becomes mis. 'Su/sus' would mean his, her or their.",
+   "x": true
+  },
+  {
+   "topic": "Reflexive verbs",
+   "q": "Complete: ¡Qué problema! ___ a las cinco para pensar. (I get up)",
+   "options": [
+    "Se levanta",
+    "Me levanto",
+    "Levanto",
+    "Me levanta"
+   ],
+   "answer": 1,
+   "why": "Levantarse is reflexive. With 'I' the pronoun is 'me' and the verb ends in -o: me levanto. 'Se levanta' is he/she; 'levanto' alone means 'I lift'.",
+   "x": true
+  }
+ ],
+ "a1-07": [
+  {
+   "topic": "Hay: there is / there are",
+   "q": "Which sentence means 'There are a lot of clouds'?",
+   "options": [
+    "Hay muchas nubes.",
+    "Están muchas nubes.",
+    "Hay mucha nubes.",
+    "Son muchas nubes."
+   ],
+   "answer": 0,
+   "why": "'Hay' introduces things that exist and never changes for plural. 'Mucha nubes' is wrong because 'muchas' must agree with 'nubes'."
+  },
+  {
+   "topic": "Reflexive: se sienta, se llama",
+   "q": "What does 'A las doce, Pelusa se levanta' mean?",
+   "options": [
+    "At twelve, Pelusa sits down.",
+    "At twelve, Pelusa gets up.",
+    "At twelve, Pelusa lifts Marina.",
+    "At twelve, Pelusa is called."
+   ],
+   "answer": 1,
+   "why": "'Levantarse' is reflexive: she lifts herself up, so she gets up. 'Se sienta' is 'sits down'; 'levantar' without 'se' means to lift something."
+  },
+  {
+   "topic": "Muy and mucho",
+   "q": "Complete: Marina está ___ triste. (very sad)",
+   "options": [
+    "mucha",
+    "mucho",
+    "muy",
+    "muchas"
+   ],
+   "answer": 2,
+   "why": "Before an adjective (triste) use 'muy', which never changes. 'Mucho/mucha' go before nouns."
+  },
+  {
+   "topic": "Muy and mucho",
+   "q": "Complete: ___ mañanas hay nubes.",
+   "options": [
+    "Muchas",
+    "Muy",
+    "Mucho",
+    "Muchos"
+   ],
+   "answer": 0,
+   "why": "Before a noun use mucho, and it agrees with the noun: 'mañanas' is feminine plural, so muchas."
+  },
+  {
+   "topic": "Hay: there is / there are",
+   "q": "Complete: Delante ___ la ciudad, entre montañas verdes.",
+   "options": [
+    "hay",
+    "tiene",
+    "es",
+    "está"
+   ],
+   "answer": 3,
+   "why": "'La ciudad' is a specific, known place, so use estar for its location. 'Hay' only introduces something new: hay una ciudad.",
+   "x": true
+  },
+  {
+   "topic": "Reflexive: se sienta, se llama",
+   "q": "Killa introduces herself. Complete: Hola, ___ Killa.",
+   "options": [
+    "me llamo",
+    "se llama",
+    "llamo",
+    "me llama"
+   ],
+   "answer": 0,
+   "why": "Llamarse is reflexive: me llamo (my name is). 'Se llama' is for he/she; 'llamo' alone means 'I call'.",
+   "x": true
+  },
+  {
+   "topic": "Muy and mucho",
+   "q": "What does Killa mean with '¡Es muy vieja!'?",
+   "options": [
+    "It's too old!",
+    "It's a lot of old!",
+    "It's very old!",
+    "It's an old woman!"
+   ],
+   "answer": 2,
+   "why": "'Muy' + adjective = very + adjective: muy vieja = very old. 'Vieja' agrees with 'la ciudad'.",
+   "x": true
+  },
+  {
+   "topic": "Hay: there is / there are",
+   "q": "How does the story say 'The sun is out!' (literally 'There is sun')?",
+   "options": [
+    "¡Es sol!",
+    "¡Está sol!",
+    "¡Hay sol!",
+    "¡Tiene sol!"
+   ],
+   "answer": 2,
+   "why": "'Hay sol' (there is sun) is the normal way to say it's sunny. 'Hay' never changes.",
+   "x": true
+  }
+ ],
+ "a1-08": [
+  {
+   "topic": "Tener que + infinitive",
+   "q": "Which sentence means 'We have to go!'?",
+   "options": [
+    "¡Tenemos que ir!",
+    "¡Tenemos que vamos!",
+    "¡Tenemos ir!",
+    "¡Tenemos de ir!"
+   ],
+   "answer": 0,
+   "why": "'Tener que' + infinitive = have to. Keep 'que' and use the infinitive (ir), not a conjugated verb."
+  },
+  {
+   "topic": "Comparing with más … que",
+   "q": "Complete: El tesoro es más dulce ___ el oro.",
+   "options": [
+    "de",
+    "más",
+    "como",
+    "que"
+   ],
+   "answer": 3,
+   "why": "Comparisons use 'más + adjective + que'. 'De' and 'como' are typical English-speaker mistakes here."
+  },
+  {
+   "topic": "Tener: age and having",
+   "q": "Julián is nine. How do you say it in Spanish?",
+   "options": [
+    "Julián es nueve años.",
+    "Julián está nueve años.",
+    "Julián tiene nueve años.",
+    "Julián hay nueve años."
+   ],
+   "answer": 2,
+   "why": "Spanish uses tener for age: Julián tiene nueve años, literally 'has nine years'."
+  },
+  {
+   "topic": "¿Por qué? and porque",
+   "q": "Complete: —¿___ es tan grande el castillo? —___ los piratas quieren oro.",
+   "options": [
+    "Porque / Por qué",
+    "Por qué / Porque",
+    "Por qué / Por qué",
+    "Porque / Porque"
+   ],
+   "answer": 1,
+   "why": "'¿Por qué?' (two words, accent) asks why; 'porque' (one word) answers because."
+  },
+  {
+   "topic": "Tener que + infinitive",
+   "q": "Complete: Mañana Lina y Julián ___ buscar otro libro.",
+   "options": [
+    "tienen de",
+    "tiene que",
+    "tienen",
+    "tienen que"
+   ],
+   "answer": 3,
+   "why": "The subject is plural (Lina y Julián), so tener becomes 'tienen', and you still need 'que' before the infinitive.",
+   "x": true
+  },
+  {
+   "topic": "Comparing with más … que",
+   "q": "How do you say 'This treasure is better than gold'?",
+   "options": [
+    "Este tesoro es más bueno de el oro.",
+    "Este tesoro es mejor que el oro.",
+    "Este tesoro es más mejor que el oro.",
+    "Este tesoro es mejor como el oro."
+   ],
+   "answer": 1,
+   "why": "'Better' is the special form 'mejor' (not 'más mejor'), followed by 'que'.",
+   "x": true
+  },
+  {
+   "topic": "Tener: age and having",
+   "q": "Which sentence uses 'tener' to say what someone owns?",
+   "options": [
+    "Lina tiene once años.",
+    "¿Cuántos años tienes?",
+    "Mi hermano tiene la librería.",
+    "Tenemos que ir."
+   ],
+   "answer": 2,
+   "why": "'Tiene la librería' means he has/owns the bookshop. The age sentences use tener for age, and 'tenemos que' means 'have to'.",
+   "x": true
+  },
+  {
+   "topic": "¿Por qué? and porque",
+   "q": "Lina asks '¿Por qué?'. Which answer is written correctly?",
+   "options": [
+    "Por qué mi hermano tiene la librería.",
+    "Porqué mi hermano tiene la librería.",
+    "Porque mi hermano tiene la librería.",
+    "¿Por qué mi hermano tiene la librería?"
+   ],
+   "answer": 2,
+   "why": "The answer 'because' is one word with no accent: porque. 'Por qué' asks 'why?', and 'porqué' is a noun meaning 'the reason'.",
+   "x": true
+  }
+ ],
+ "a1-09": [
+  {
+   "topic": "Ir a + infinitive: the near future",
+   "q": "Which sentence means 'What are you going to do on Saturday?'",
+   "options": [
+    "¿Qué vas a hacer el sábado?",
+    "¿Qué vas hacer el sábado?",
+    "¿Qué haces a el sábado?",
+    "¿Qué vas a haces el sábado?"
+   ],
+   "answer": 0,
+   "why": "Ir + a + infinitive: vas a hacer. Don't drop 'a', and don't conjugate the second verb."
+  },
+  {
+   "topic": "Question words",
+   "q": "Marta answers: 'Estoy bien, pero un poco triste.' What did Javier ask?",
+   "options": [
+    "¿Qué vas a hacer?",
+    "¿Qué tal estás?",
+    "¿Dónde estás?",
+    "¿Quién eres?"
+   ],
+   "answer": 1,
+   "why": "'¿Qué tal estás?' (How are you?) asks how someone is, so 'Estoy bien' answers it. ¿Dónde? asks where; ¿Quién? asks who."
+  },
+  {
+   "topic": "Demonstratives: este, esta, estas",
+   "q": "Complete: —¡Sorpresa! ___ flores son para ti. (These flowers)",
+   "options": [
+    "Estas",
+    "Este",
+    "Esta",
+    "Estos"
+   ],
+   "answer": 0,
+   "why": "'Flores' is feminine plural, so 'these' is estas. Este/esta are singular; estos is for masculine nouns."
+  },
+  {
+   "topic": "Demonstratives: este, esta, estas",
+   "q": "Which sentence means 'This weekend I have no plans'?",
+   "options": [
+    "Estos fin de semana no tengo planes.",
+    "Esta fin de semana no tengo planes.",
+    "Este fin de semana no tengo planes.",
+    "Esto fin de semana no tengo planes."
+   ],
+   "answer": 2,
+   "why": "'Fin de semana' is masculine singular (el fin de semana), so 'this' is este."
+  },
+  {
+   "topic": "Ir a + infinitive: the near future",
+   "q": "Complete: Mañana nosotros ___ cocinar una tortilla.",
+   "options": [
+    "vamos a",
+    "vamos",
+    "vamos de",
+    "van a"
+   ],
+   "answer": 0,
+   "why": "Near future = ir + a + infinitive; with nosotros: vamos a cocinar.",
+   "x": true
+  },
+  {
+   "topic": "Question words",
+   "q": "Complete: —¿___ vive tu familia? —Mi familia vive lejos.",
+   "options": [
+    "Quién",
+    "Qué",
+    "Dónde",
+    "Cuándo"
+   ],
+   "answer": 2,
+   "why": "The answer 'lejos' (far away) gives a place, so the question word is ¿Dónde? (where), with an accent.",
+   "x": true
+  },
+  {
+   "topic": "Demonstratives: este, esta, estas",
+   "q": "What does 'Este sábado no va a estar sola' mean?",
+   "options": [
+    "This Saturday she is not going to be alone.",
+    "Every Saturday she is alone.",
+    "Last Saturday she was not alone.",
+    "This Saturday she is alone."
+   ],
+   "answer": 0,
+   "why": "'Este sábado' = this Saturday, and 'no va a estar' = is not going to be.",
+   "x": true
+  },
+  {
+   "topic": "Ir a + infinitive: the near future",
+   "q": "Javier talks about his plan. Complete: ___ a pasar el fin de semana aquí.",
+   "options": [
+    "Voy",
+    "Va",
+    "Vas",
+    "Ir"
+   ],
+   "answer": 0,
+   "why": "For 'I am going to', use voy + a + infinitive: voy a pasar. 'Va' is he/she and 'vas' is you.",
+   "x": true
+  }
+ ],
+ "a1-10": [
+  {
+   "topic": "Days and times of day",
+   "q": "Complete: ___ viernes ___ noche, los hermanos preparan las mochilas.",
+   "options": [
+    "En el / por la",
+    "El / de la",
+    "Los / a la",
+    "El / por la"
+   ],
+   "answer": 3,
+   "why": "No word for 'on' before days: el viernes. Without a clock time, use 'por la noche'; 'de la noche' only follows a clock time (a las diez de la noche)."
+  },
+  {
+   "topic": "Possessives: mi, tu, su",
+   "q": "Complete: Elena se ríe y abre ___ bolsa. (her bag)",
+   "options": [
+    "su",
+    "sus",
+    "mi",
+    "tu"
+   ],
+   "answer": 0,
+   "why": "Su means 'her' (and also 'his' or 'their'). Bolsa is singular, so su, not sus. Mi is 'my' and tu is 'your'."
+  },
+  {
+   "topic": "Stem-changing verbs: quiere, encuentra",
+   "q": "Complete: Raúl busca los billetes, pero no los ___. (find)",
+   "options": [
+    "encuentran",
+    "encontra",
+    "encuentra",
+    "encontrar"
+   ],
+   "answer": 2,
+   "why": "Encontrar changes o → ue in the stressed stem: encuentra (he finds). 'Encontra' is not a form, 'encuentran' is they, and 'encontrar' is the infinitive."
+  },
+  {
+   "topic": "Stem-changing verbs: quiere, encuentra",
+   "q": "Elena asks Grandpa: '¿___ ir con nosotros?' (Do you want)",
+   "options": [
+    "Quiero",
+    "Queres",
+    "Quiere",
+    "Quieres"
+   ],
+   "answer": 3,
+   "why": "Querer changes e → ie: quieres (you want). 'Quiere' is he/she and 'quiero' is I."
+  },
+  {
+   "topic": "Days and times of day",
+   "q": "How do you say 'The train leaves at eight in the morning'?",
+   "options": [
+    "El tren sale en las ocho de la mañana.",
+    "El tren sale a las ocho de la mañana.",
+    "El tren sale las ocho de la mañana.",
+    "El tren sale a la ocho de la mañana."
+   ],
+   "answer": 1,
+   "why": "Clock time = 'a las + number', and after a clock time use 'de la mañana'.",
+   "x": true
+  },
+  {
+   "topic": "Possessives: mi, tu, su",
+   "q": "Grandpa says: «Es más grande que en ___ recuerdos.» (my memories)",
+   "options": [
+    "mi",
+    "mis",
+    "sus",
+    "mío"
+   ],
+   "answer": 1,
+   "why": "Recuerdos is plural, so mi becomes mis: possessives agree with the thing owned (many memories), not with the owner (one grandpa). Sus would mean his/their, and mío does not go before a noun.",
+   "x": true
+  },
+  {
+   "topic": "Stem-changing verbs: quiere, encuentra",
+   "q": "How do you say 'I want to see the sea'?",
+   "options": [
+    "Quiero ver el mar.",
+    "Quero ver el mar.",
+    "Quiere ver el mar.",
+    "Quieres ver el mar."
+   ],
+   "answer": 0,
+   "why": "With yo, querer becomes quiero (e → ie, ending -o). 'Quiere' is he/she, as in the story: el abuelo quiere ver el mar.",
+   "x": true
+  },
+  {
+   "topic": "Stem-changing verbs: quiere, encuentra",
+   "q": "Complete: Nosotros ___ ir a la playa. (want)",
+   "options": [
+    "quieren",
+    "quieremos",
+    "queremos",
+    "quiere"
+   ],
+   "answer": 2,
+   "why": "With nosotros the stem does not change: queremos. 'Quieren' is they and 'quiere' is he/she.",
+   "x": true
+  }
+ ]
+}

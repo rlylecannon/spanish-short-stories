@@ -1,0 +1,2374 @@
+[
+  {
+    "id": "a2-01",
+    "level": "A2",
+    "title": "El tren de las nueve",
+    "titleEn": "The Nine O'Clock Train",
+    "teaser": "Ana runs late to catch a train to her sister's wedding, but a stranger with a guitar offers her another way.",
+    "emoji": "🚆",
+    "lines": [
+      [
+        "El sábado pasado, Ana <b>llegó</b> tarde a la <b>estación</b> de Madrid.",
+        "Last Saturday, Ana arrived late at the Madrid station."
+      ],
+      [
+        "Ese día era la <b>boda</b> de su hermana en Valencia.",
+        "That day was her sister's wedding in Valencia."
+      ],
+      [
+        "Primero, Ana <b>corrió</b> por la estación con su maleta.",
+        "First, Ana ran through the station with her suitcase."
+      ],
+      [
+        "Luego miró el <b>andén</b> número cuatro.",
+        "Then she looked at platform number four."
+      ],
+      [
+        "El tren ya no estaba allí.",
+        "The train was no longer there."
+      ],
+      [
+        "—¡No! ¡Mi tren! —gritó.",
+        "\"No! My train!\" she shouted."
+      ],
+      [
+        "Ana se sentó en un banco y <b>lloró</b> un poco.",
+        "Ana sat on a bench and cried a little."
+      ],
+      [
+        "Un joven con una guitarra se sentó a su lado.",
+        "A young man with a guitar sat down next to her."
+      ],
+      [
+        "—¿Qué pasó? —preguntó él.",
+        "\"What happened?\" he asked."
+      ],
+      [
+        "—Perdí el tren de las nueve —dijo Ana—. Mi hermana se casa a las cinco.",
+        "\"I missed the nine o'clock train,\" said Ana. \"My sister gets married at five.\""
+      ],
+      [
+        "—Tranquila. Me llamo Pablo y también voy a Valencia.",
+        "\"Calm down. My name is Pablo and I'm going to Valencia too.\""
+      ],
+      [
+        "—Ayer compré dos <b>billetes</b> de autobús, pero mi amigo no puede venir.",
+        "\"Yesterday I bought two bus tickets, but my friend can't come.\""
+      ],
+      [
+        "—¿De verdad? —preguntó Ana—. ¿Cuánto cuesta?",
+        "\"Really?\" asked Ana. \"How much is it?\""
+      ],
+      [
+        "—Nada. ¡Es un regalo! Vamos.",
+        "\"Nothing. It's a gift! Let's go.\""
+      ],
+      [
+        "Los dos <b>corrieron</b> a la calle y <b>subieron</b> al autobús.",
+        "The two of them ran to the street and got on the bus."
+      ],
+      [
+        "Durante el viaje, Pablo tocó la guitarra y Ana sonrió.",
+        "During the trip, Pablo played the guitar and Ana smiled."
+      ],
+      [
+        "Después, el autobús paró en un pueblo.",
+        "Afterwards, the bus stopped in a small town."
+      ],
+      [
+        "Ana miró su teléfono y vio un mensaje de su madre.",
+        "Ana looked at her phone and saw a message from her mother."
+      ],
+      [
+        "«El tren tiene una <b>avería</b>. Está parado en el campo».",
+        "\"The train has a breakdown. It is stopped in the countryside.\""
+      ],
+      [
+        "—¡Qué suerte! —dijo Ana—. Perdí el tren, pero voy a llegar primero.",
+        "\"What luck!\" said Ana. \"I missed the train, but I'm going to arrive first.\""
+      ],
+      [
+        "A las tres, el autobús llegó a Valencia.",
+        "At three o'clock, the bus arrived in Valencia."
+      ],
+      [
+        "En la iglesia, su hermana Marta abrazó a Ana.",
+        "At the church, her sister Marta hugged Ana."
+      ],
+      [
+        "—¡Pablo! —dijo Marta—. ¡Eres el primo de Javier, mi novio!",
+        "\"Pablo!\" said Marta. \"You're the cousin of Javier, my groom!\""
+      ],
+      [
+        "—Sí —rió Pablo—. Hoy toco la guitarra en la boda.",
+        "\"Yes,\" laughed Pablo. \"Today I'm playing the guitar at the wedding.\""
+      ],
+      [
+        "Ana miró a Pablo y sonrió. Perdió el tren, pero encontró un buen amigo.",
+        "Ana looked at Pablo and smiled. She missed the train, but she found a good friend."
+      ]
+    ],
+    "vocab": [
+      [
+        "la estación",
+        "station"
+      ],
+      [
+        "la boda",
+        "wedding"
+      ],
+      [
+        "correr",
+        "to run"
+      ],
+      [
+        "el andén",
+        "platform"
+      ],
+      [
+        "el tren",
+        "train"
+      ],
+      [
+        "llorar",
+        "to cry"
+      ],
+      [
+        "el billete",
+        "ticket"
+      ],
+      [
+        "el autobús",
+        "bus"
+      ],
+      [
+        "subir",
+        "to get on, to go up"
+      ],
+      [
+        "el viaje",
+        "trip"
+      ],
+      [
+        "la avería",
+        "breakdown"
+      ],
+      [
+        "llegar",
+        "to arrive"
+      ],
+      [
+        "la maleta",
+        "suitcase"
+      ],
+      [
+        "la guitarra",
+        "guitar"
+      ],
+      [
+        "el pueblo",
+        "small town"
+      ],
+      [
+        "el primo",
+        "cousin"
+      ]
+    ],
+    "quiz": [
+      {
+        "q": "¿Por qué Ana llora en la estación?",
+        "options": [
+          "Perdió el tren",
+          "Perdió su maleta",
+          "Perdió su teléfono",
+          "Perdió a su hermana"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "¿Adónde van Ana y Pablo?",
+        "options": [
+          "A Madrid",
+          "A Sevilla",
+          "A Valencia",
+          "A Barcelona"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "¿Cómo viajan Ana y Pablo?",
+        "options": [
+          "En tren",
+          "En autobús",
+          "En coche",
+          "En avión"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "¿Qué pasó con el tren de Ana?",
+        "options": [
+          "Llegó muy rápido",
+          "Fue a otra ciudad",
+          "Salió a las cinco",
+          "Tuvo una avería"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "¿Qué descubrimos al final de la historia?",
+        "options": [
+          "Pablo no conoce a nadie en la boda",
+          "Ana no quiere hablar con Pablo",
+          "Pablo es de la familia del novio",
+          "Marta está enfadada con Ana"
+        ],
+        "answer": 2
+      }
+    ],
+    "prompt": "Tell about a time you were late for something important. Where were you going, what happened first, and how did the day end? Write 4-6 sentences in Spanish in the past tense, using primero, luego and después. Starter: «El año pasado llegué tarde a… Primero, perdí… Luego…»",
+    "concepts": {
+      "grammar": "Regular and irregular preterite (llegó, corrió, perdió, vio, dijo); sequence words primero, luego, después; ir a + infinitive for near future (voy a llegar) vs ir a + place (voy a Valencia); reflexive verbs (se sentó, se casa, me llamo).",
+      "vocabulary": "Travel and transport: estación, andén, billete, autobús, avería, maleta.",
+      "skills": "Following a short narrative in order; reading dialogue; inferring a hidden connection between characters."
+    }
+  },
+  {
+    "id": "a2-02",
+    "level": "A2",
+    "title": "La caja azul",
+    "titleEn": "The Blue Box",
+    "teaser": "On her birthday in Guadalajara, Sofía gets a mysterious box and a trail of clues to follow.",
+    "emoji": "🎁",
+    "lines": [
+      [
+        "Ayer fue el cumpleaños de Sofía en Guadalajara.",
+        "Yesterday was Sofía's birthday in Guadalajara."
+      ],
+      [
+        "Por la mañana, su abuelo Rafael llegó con una <b>caja</b> azul.",
+        "In the morning, her grandfather Rafael came with a blue box."
+      ],
+      [
+        "—Feliz cumpleaños, Sofía —dijo—. Este es tu <b>regalo</b>.",
+        "\"Happy birthday, Sofía,\" he said. \"This is your gift.\""
+      ],
+      [
+        "Sofía abrió la caja y vio un papel y una <b>llave</b>.",
+        "Sofía opened the box and saw a piece of paper and a key."
+      ],
+      [
+        "El papel decía: «Primero, ve al <b>mercado</b> y busca a doña Lupe».",
+        "The paper said: \"First, go to the market and look for Doña Lupe.\""
+      ],
+      [
+        "—¿Qué es esto, abuelo? —preguntó ella.",
+        "\"What is this, Grandpa?\" she asked."
+      ],
+      [
+        "—Es una <b>sorpresa</b> —contestó él con una sonrisa—. ¡Ve!",
+        "\"It's a surprise,\" he answered with a smile. \"Go!\""
+      ],
+      [
+        "Sofía salió de casa y <b>caminó</b> hasta el mercado.",
+        "Sofía left the house and walked to the market."
+      ],
+      [
+        "doña Lupe le dio una bolsa de mangos y otro papel.",
+        "Doña Lupe gave her a bag of mangoes and another note."
+      ],
+      [
+        "«Luego, lleva los mangos a la <b>panadería</b> de la plaza».",
+        "\"Then take the mangoes to the bakery on the square.\""
+      ],
+      [
+        "En la panadería, el <b>panadero</b> tomó los mangos y le dio un pan dulce.",
+        "At the bakery, the baker took the mangoes and gave her a sweet bread."
+      ],
+      [
+        "Dentro del pan, Sofía encontró un papelito: «Calle Hidalgo, número 12».",
+        "Inside the bread, Sofía found a little note: \"Hidalgo Street, number 12.\""
+      ],
+      [
+        "Después, <b>corrió</b> por la calle Hidalgo con la llave en la mano.",
+        "After that, she ran along Hidalgo Street with the key in her hand."
+      ],
+      [
+        "En el número doce, vio una puerta verde.",
+        "At number twelve, she saw a green door."
+      ],
+      [
+        "Sofía abrió la puerta con la llave y oyó un ruido pequeño.",
+        "Sofía opened the door with the key and heard a small noise."
+      ],
+      [
+        "—¿Hay alguien aquí? —preguntó.",
+        "\"Is anyone here?\" she asked."
+      ],
+      [
+        "Entonces, un perro pequeño salió y <b>saltó</b> a sus brazos.",
+        "Then a small dog came out and jumped into her arms."
+      ],
+      [
+        "—¡Es un <b>cachorro</b>! —gritó Sofía—. ¡Y tiene una cinta roja!",
+        "\"It's a puppy!\" shouted Sofía. \"And it has a red ribbon!\""
+      ],
+      [
+        "Sofía <b>lloró</b> de alegría.",
+        "Sofía cried with joy."
+      ],
+      [
+        "Después, toda su familia salió de la casa.",
+        "Then her whole family came out of the house."
+      ],
+      [
+        "—¡Sorpresa! —gritaron todos—. ¡Feliz cumpleaños!",
+        "\"Surprise!\" they all shouted. \"Happy birthday!\""
+      ],
+      [
+        "—La mamá del cachorro es la perra de doña Lupe —explicó el abuelo—. Ella te lo regala.",
+        "\"The puppy's mother is Doña Lupe's dog,\" explained her grandfather. \"She is giving him to you.\""
+      ],
+      [
+        "Sofía <b>abrazó</b> a su abuelo muy fuerte.",
+        "Sofía hugged her grandfather very tightly."
+      ],
+      [
+        "—Es el mejor regalo del mundo —dijo—. ¿Cómo se llama?",
+        "\"It's the best gift in the world,\" she said. \"What is his name?\""
+      ],
+      [
+        "—Tú decides —contestó el abuelo.",
+        "\"You decide,\" answered her grandfather."
+      ],
+      [
+        "Sofía pensó un momento y sonrió.",
+        "Sofía thought for a moment and smiled."
+      ],
+      [
+        "—Se llama Mango —dijo.",
+        "\"His name is Mango,\" she said."
+      ]
+    ],
+    "vocab": [
+      [
+        "la caja",
+        "box"
+      ],
+      [
+        "el regalo",
+        "gift"
+      ],
+      [
+        "la llave",
+        "key"
+      ],
+      [
+        "el mercado",
+        "market"
+      ],
+      [
+        "la sorpresa",
+        "surprise"
+      ],
+      [
+        "caminar",
+        "to walk"
+      ],
+      [
+        "la panadería",
+        "bakery"
+      ],
+      [
+        "el panadero",
+        "baker"
+      ],
+      [
+        "correr",
+        "to run"
+      ],
+      [
+        "saltar",
+        "to jump"
+      ],
+      [
+        "el cachorro",
+        "puppy"
+      ],
+      [
+        "llorar",
+        "to cry"
+      ],
+      [
+        "abrazar",
+        "to hug"
+      ],
+      [
+        "la puerta",
+        "door"
+      ],
+      [
+        "el abuelo",
+        "grandfather"
+      ],
+      [
+        "encontrar",
+        "to find"
+      ]
+    ],
+    "quiz": [
+      {
+        "q": "¿Qué hay dentro de la caja azul?",
+        "options": [
+          "Un perro",
+          "Un papel y una llave",
+          "Unos mangos",
+          "Una cinta roja"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "¿Adónde va Sofía primero?",
+        "options": [
+          "A la panadería",
+          "A la calle Hidalgo",
+          "Al mercado",
+          "A la plaza"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "¿Qué encuentra Sofía dentro del pan dulce?",
+        "options": [
+          "Una llave",
+          "Un perro",
+          "Una caja",
+          "Una dirección"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "¿Qué regalo recibe Sofía?",
+        "options": [
+          "Un cachorro",
+          "Unos mangos",
+          "Un pan dulce",
+          "Una casa"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "¿Qué podemos pensar sobre Doña Lupe y el abuelo?",
+        "options": [
+          "No se conocen",
+          "Son amigos y preparan la sorpresa juntos",
+          "Están enfadados",
+          "Son hermanos de Sofía"
+        ],
+        "answer": 1
+      }
+    ],
+    "prompt": "Describe a surprising gift you gave or received. What was it, who gave it to you, and how did you feel? Write 4-6 sentences in Spanish in the past tense. Starter: «Para mi cumpleaños, mi tía me dio… Primero abrí… Luego…»",
+    "concepts": {
+      "grammar": "Preterite of regular -ar/-er/-ir verbs (abrió, caminó, corrió) and irregular ser (fue), ver (vio), dar (dio), decir (dijo), oír (oyó); tú commands in the clues (ve, busca, lleva); object pronouns (le dio, te lo regala); time words ayer, por la mañana.",
+      "vocabulary": "Gifts and a town: caja, regalo, llave, mercado, panadería, cachorro.",
+      "skills": "Following a chain of clues; sequencing events with primero, luego, después, entonces; inferring who planned the surprise."
+    }
+  },
+  {
+    "id": "a2-03",
+    "level": "A2",
+    "title": "El secreto de la abuela",
+    "titleEn": "Grandma's Secret",
+    "teaser": "Mateo tries to cook his grandmother's famous dish for his mother's birthday, but something is missing.",
+    "emoji": "🍲",
+    "lines": [
+      [
+        "El domingo pasado fue el cumpleaños de la madre de Mateo.",
+        "Last Sunday was Mateo's mother's birthday."
+      ],
+      [
+        "Mateo <b>decidió</b> preparar el famoso lomo saltado de su abuela Carmen.",
+        "Mateo decided to make his grandmother Carmen's famous lomo saltado."
+      ],
+      [
+        "Primero, buscó la <b>receta</b> en un cuaderno viejo.",
+        "First, he looked for the recipe in an old notebook."
+      ],
+      [
+        "Luego fue al <b>supermercado</b> y compró carne, cebolla, tomates y papas.",
+        "Then he went to the supermarket and bought meat, onion, tomatoes and potatoes."
+      ],
+      [
+        "En casa, Mateo <b>cortó</b> la carne y la cebolla.",
+        "At home, Mateo cut the meat and the onion."
+      ],
+      [
+        "Después, puso aceite en la sartén y <b>cocinó</b> la carne.",
+        "After that, he put oil in the pan and cooked the meat."
+      ],
+      [
+        "Mateo probó el plato y dijo: —Está <b>rico</b>, pero no es igual.",
+        "Mateo tasted the dish and said, \"It's tasty, but it's not the same.\""
+      ],
+      [
+        "—Falta algo —pensó—. ¡Necesito ayuda!",
+        "\"Something is missing,\" he thought. \"I need help!\""
+      ],
+      [
+        "Mateo llamó a su abuela por teléfono.",
+        "Mateo called his grandmother on the phone."
+      ],
+      [
+        "—Abuela, hice tu receta, pero el sabor no es igual.",
+        "\"Grandma, I made your recipe, but the taste isn't the same.\""
+      ],
+      [
+        "—¿Qué <b>ingrediente</b> falta, hijo? —preguntó ella.",
+        "\"What ingredient is missing, dear?\" she asked."
+      ],
+      [
+        "—No sé. Tu cuaderno no dice nada más.",
+        "\"I don't know. Your notebook doesn't say anything else.\""
+      ],
+      [
+        "—Lo siento, pero no puedo decirlo por teléfono —contestó ella.",
+        "\"I'm sorry, but I can't say it over the phone,\" she answered."
+      ],
+      [
+        "—¿Por qué no? —preguntó Mateo.",
+        "\"Why not?\" asked Mateo."
+      ],
+      [
+        "—Porque estoy en la puerta de tu casa —rió la abuela.",
+        "\"Because I'm at the door of your house,\" laughed his grandmother."
+      ],
+      [
+        "Mateo abrió la puerta. Carmen tenía una bolsa y una gran sonrisa.",
+        "Mateo opened the door. Carmen had a bag and a big smile."
+      ],
+      [
+        "—¡Abuela! ¿Cómo llegaste?",
+        "\"Grandma! How did you get here?\""
+      ],
+      [
+        "—Tomé el autobús de las seis de la mañana —dijo ella—. Es el cumpleaños de tu mamá.",
+        "\"I took the six o'clock bus this morning,\" she said. \"It's your mom's birthday.\""
+      ],
+      [
+        "Los dos <b>entraron</b> en la cocina.",
+        "The two of them went into the kitchen."
+      ],
+      [
+        "La abuela <b>probó</b> la carne y miró a su nieto.",
+        "Grandma tasted the meat and looked at her grandson."
+      ],
+      [
+        "—Muy bien, Mateo —dijo—. Solo falta un secreto.",
+        "\"Very good, Mateo,\" she said. \"Only one secret is missing.\""
+      ],
+      [
+        "Mateo salió un minuto a buscar los vasos.",
+        "Mateo went out for a minute to get the glasses."
+      ],
+      [
+        "Cuando volvió, la abuela <b>cerró</b> un frasco pequeño.",
+        "When he came back, Grandma closed a small jar."
+      ],
+      [
+        "Mateo probó otra vez. —¡Ahora sí es igual! —gritó.",
+        "Mateo tasted it again. \"Now it's the same!\" he shouted."
+      ],
+      [
+        "—¿Cuál fue el secreto? ¿Por qué no está en el cuaderno?",
+        "\"What was the secret? Why isn't it in the notebook?\""
+      ],
+      [
+        "—Porque así mis nietos siempre me visitan —contestó la abuela con una sonrisa.",
+        "\"Because that way my grandchildren always visit me,\" Grandma answered with a smile."
+      ],
+      [
+        "Esa noche, toda la familia cenó junta alrededor de la <b>mesa</b>.",
+        "That night, the whole family had dinner together around the table."
+      ],
+      [
+        "La madre de Mateo probó el plato y <b>lloró</b> de alegría.",
+        "Mateo's mother tasted the dish and cried with joy."
+      ]
+    ],
+    "vocab": [
+      [
+        "decidir",
+        "to decide"
+      ],
+      [
+        "la receta",
+        "recipe"
+      ],
+      [
+        "el supermercado",
+        "supermarket"
+      ],
+      [
+        "cortar",
+        "to cut"
+      ],
+      [
+        "cocinar",
+        "to cook"
+      ],
+      [
+        "rico",
+        "tasty"
+      ],
+      [
+        "el ingrediente",
+        "ingredient"
+      ],
+      [
+        "el secreto",
+        "secret"
+      ],
+      [
+        "probar",
+        "to taste, to try"
+      ],
+      [
+        "la cocina",
+        "kitchen"
+      ],
+      [
+        "el cuaderno",
+        "notebook"
+      ],
+      [
+        "la sartén",
+        "frying pan"
+      ],
+      [
+        "la mesa",
+        "table"
+      ],
+      [
+        "el sabor",
+        "flavor"
+      ],
+      [
+        "el nieto",
+        "grandson"
+      ],
+      [
+        "llorar",
+        "to cry"
+      ]
+    ],
+    "quiz": [
+      {
+        "q": "¿Por qué cocina Mateo?",
+        "options": [
+          "Es el cumpleaños de su madre",
+          "Es el cumpleaños de su abuela",
+          "Tiene mucha hambre",
+          "Es Navidad"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "¿Qué problema tiene la comida de Mateo?",
+        "options": [
+          "Está fría",
+          "No tiene carne",
+          "Tiene el sabor diferente",
+          "Está quemada"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "¿Cómo llega la abuela a casa de Mateo?",
+        "options": [
+          "En taxi",
+          "En coche",
+          "A pie",
+          "En autobús"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "¿Qué hizo la abuela cuando Mateo salió a buscar los vasos?",
+        "options": [
+          "Llamó a la madre de Mateo",
+          "Cerró un frasco pequeño",
+          "Escribió el secreto en el cuaderno",
+          "Cortó más cebolla"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "¿Por qué la abuela no escribe el secreto en el cuaderno?",
+        "options": [
+          "Se le olvidó escribirlo",
+          "Es un ingrediente muy caro",
+          "Mateo no sabe leer su letra",
+          "Así sus nietos siempre la visitan"
+        ],
+        "answer": 3
+      }
+    ],
+    "prompt": "Write about a time you cooked something for someone. What did you make, what did you buy, what did you do first, and how did it taste? Write 4-6 sentences in Spanish in the past tense. Starter: «El domingo pasado preparé… para… Primero compré… Luego corté…»",
+    "concepts": {
+      "grammar": "Preterite of regular verbs (cortó, cocinó, probó, tomé, entraron) and irregular ones (fue, puso, hice, dijo); ser vs estar (está rico / no es igual / estoy en la puerta); falta + noun; sequence words primero, luego, después, cuando.",
+      "vocabulary": "Cooking and family: receta, ingrediente, sartén, cocina, abuela, nieto.",
+      "skills": "Following step-by-step actions; understanding a surprise ending; using context to guess meaning."
+    }
+  },
+  {
+    "id": "a2-04",
+    "level": "A2",
+    "title": "El penalti",
+    "titleEn": "The Penalty Kick",
+    "teaser": "In the neighborhood final, Tomás must stop a penalty from a very special opponent.",
+    "emoji": "⚽",
+    "lines": [
+      [
+        "Cuando Tomás era pequeño, vivía en un barrio pequeño de Medellín.",
+        "When Tomás was little, he lived in a small neighborhood in Medellín."
+      ],
+      [
+        "Todos los días jugaba al <b>fútbol</b> en la calle con su hermana Camila.",
+        "Every day he played soccer in the street with his sister Camila."
+      ],
+      [
+        "Tomás era bajo, pero tenía las manos muy rápidas. Por eso, siempre era el <b>portero</b>.",
+        "Tomás was short, but he had very quick hands. So he was always the goalkeeper."
+      ],
+      [
+        "Camila era alta y fuerte. Siempre <b>tiraba</b> el balón a la izquierda.",
+        "Camila was tall and strong. She always kicked the ball to the left."
+      ],
+      [
+        "Ahora los dos tienen doce años y juegan en equipos diferentes.",
+        "Now they are both twelve years old and play on different teams."
+      ],
+      [
+        "El sábado pasado, sus equipos jugaron la <b>final</b> del campeonato del barrio.",
+        "Last Saturday, their teams played the final of the neighborhood championship."
+      ],
+      [
+        "Hacía mucho sol y el <b>estadio</b> estaba lleno de gente.",
+        "It was very sunny and the stadium was full of people."
+      ],
+      [
+        "Los padres y los abuelos estaban gritando y cantando.",
+        "The parents and grandparents were shouting and singing."
+      ],
+      [
+        "En el primer tiempo, nadie marcó un <b>gol</b>.",
+        "In the first half, nobody scored a goal."
+      ],
+      [
+        "Después, en el segundo tiempo, el equipo de Tomás marcó uno.",
+        "Then, in the second half, Tomás's team scored one."
+      ],
+      [
+        "Faltaban dos minutos cuando el <b>árbitro</b> pitó un <b>penalti</b>.",
+        "Two minutes were left when the referee blew his whistle for a penalty."
+      ],
+      [
+        "Camila puso el balón en el punto blanco.",
+        "Camila put the ball on the white spot."
+      ],
+      [
+        "Tomás estaba muy nervioso, pero recordó algo.",
+        "Tomás was very nervous, but he remembered something."
+      ],
+      [
+        "«Cuando éramos pequeños, ella siempre tiraba a la izquierda», pensó.",
+        "\"When we were little, she always kicked to the left,\" he thought."
+      ],
+      [
+        "Camila corrió y <b>pateó</b> el balón con fuerza.",
+        "Camila ran and kicked the ball hard."
+      ],
+      [
+        "Tomás saltó a la izquierda... ¡y paró el balón!",
+        "Tomás jumped to the left... and stopped the ball!"
+      ],
+      [
+        "El público gritó. Sus compañeros corrieron hacia él.",
+        "The crowd shouted. His teammates ran toward him."
+      ],
+      [
+        "Poco después, el árbitro pitó el final. Ganó el equipo de Tomás, uno a cero.",
+        "A little later, the referee blew the final whistle. Tomás's team won, one to nothing."
+      ],
+      [
+        "Camila caminó hacia su hermano. Estaba un poco triste, pero sonreía.",
+        "Camila walked toward her brother. She was a little sad, but she was smiling."
+      ],
+      [
+        "—¿Cómo lo supiste? —preguntó.",
+        "\"How did you know?\" she asked."
+      ],
+      [
+        "—Eres mi hermana —contestó Tomás—. Conozco todos tus secretos.",
+        "\"You're my sister,\" answered Tomás. \"I know all your secrets.\""
+      ],
+      [
+        "Camila rió y dijo: —Esta vez quise tirar a la derecha, pero mi pie decidió otra cosa.",
+        "Camila laughed and said, \"This time I wanted to kick to the right, but my foot decided something else.\""
+      ],
+      [
+        "—Mañana jugamos en la calle como antes —dijo Tomás—. Y vas a ver mis manos.",
+        "\"Tomorrow we'll play in the street like before,\" said Tomás. \"And you'll see my hands.\""
+      ],
+      [
+        "Los dos <b>rieron</b> y caminaron a casa. Su abuela los estaba esperando con un chocolate caliente.",
+        "They both laughed and walked home. Their grandmother was waiting for them with hot chocolate."
+      ]
+    ],
+    "vocab": [
+      [
+        "el fútbol",
+        "soccer"
+      ],
+      [
+        "el portero",
+        "goalkeeper"
+      ],
+      [
+        "tirar",
+        "to kick, to throw"
+      ],
+      [
+        "el balón",
+        "ball"
+      ],
+      [
+        "el equipo",
+        "team"
+      ],
+      [
+        "la final",
+        "final"
+      ],
+      [
+        "el estadio",
+        "stadium"
+      ],
+      [
+        "el gol",
+        "goal"
+      ],
+      [
+        "el árbitro",
+        "referee"
+      ],
+      [
+        "el penalti",
+        "penalty kick"
+      ],
+      [
+        "patear",
+        "to kick"
+      ],
+      [
+        "parar",
+        "to stop"
+      ],
+      [
+        "ganar",
+        "to win"
+      ],
+      [
+        "el público",
+        "crowd"
+      ],
+      [
+        "el compañero",
+        "teammate"
+      ],
+      [
+        "reír",
+        "to laugh"
+      ]
+    ],
+    "quiz": [
+      {
+        "q": "¿Cómo era Camila cuando era niña?",
+        "options": [
+          "Baja y lenta",
+          "Alta y fuerte",
+          "Triste y callada",
+          "Pequeña y rápida"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "¿Qué hacía Tomás cuando jugaba en la calle?",
+        "options": [
+          "Era el árbitro",
+          "Era el portero",
+          "Marcaba todos los goles",
+          "Miraba a su hermana"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "¿Cuándo pitó el árbitro el penalti?",
+        "options": [
+          "Al principio del partido",
+          "En el primer tiempo",
+          "Cuando faltaban dos minutos",
+          "Después del final"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "¿Cuál fue el resultado de la final?",
+        "options": [
+          "Ganó Camila, dos a uno",
+          "Empataron, cero a cero",
+          "Ganó Camila, uno a cero",
+          "Ganó el equipo de Tomás, uno a cero"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "¿Cómo supo Tomás adónde iba a tirar Camila?",
+        "options": [
+          "La conoce muy bien",
+          "El árbitro se lo dijo",
+          "Vio un video",
+          "Camila se lo dijo"
+        ],
+        "answer": 0
+      }
+    ],
+    "prompt": "Describe a game or sport you played when you were little. Where did you play, who played with you, and what happened in one special match? Write 4-6 sentences in Spanish: use the imperfect for what you usually did and the preterite for what happened once. Starter: «Cuando era pequeño/a, siempre jugaba… Un día…»",
+    "concepts": {
+      "grammar": "Imperfect for description and habit (era, tenía, vivía, siempre tiraba, hacía sol) contrasted with preterite for events (marcó, pitó, paró); estar + gerund (estaban gritando, estaba esperando).",
+      "vocabulary": "Soccer: portero, balón, gol, árbitro, penalti, estadio, equipo.",
+      "skills": "Distinguishing background from events; reading a past habit as a clue; inferring a character's motive."
+    }
+  },
+  {
+    "id": "a2-05",
+    "level": "A2",
+    "title": "Número equivocado",
+    "titleEn": "Wrong Number",
+    "teaser": "A text message from a stranger on a rainy evening leads Valentina somewhere she does not expect.",
+    "emoji": "📱",
+    "lines": [
+      [
+        "Era una tarde fría de invierno en Santiago de Chile.",
+        "It was a cold winter afternoon in Santiago, Chile."
+      ],
+      [
+        "Valentina estaba en su sala, tomando té y mirando una serie.",
+        "Valentina was in her living room, drinking tea and watching a series."
+      ],
+      [
+        "Llovía mucho y el viento golpeaba las ventanas.",
+        "It was raining a lot and the wind was hitting the windows."
+      ],
+      [
+        "De repente, su teléfono sonó. Era un <b>mensaje</b> de un número desconocido.",
+        "Suddenly, her phone rang. It was a message from an unknown number."
+      ],
+      [
+        "«Mamá, ya llegué a casa, pero no tengo las llaves. Hace frío y estoy mojado. ¿Dónde estás?»",
+        "\"Mom, I'm home, but I don't have my keys. It's cold and I'm wet. Where are you?\""
+      ],
+      [
+        "Valentina leyó el mensaje dos veces.",
+        "Valentina read the message twice."
+      ],
+      [
+        "—Pobre chico —pensó.",
+        "\"Poor boy,\" she thought."
+      ],
+      [
+        "Respondió: «Hola. Creo que es un número <b>equivocado</b>. No soy tu mamá».",
+        "She replied: \"Hello. I think it's a wrong number. I'm not your mom.\""
+      ],
+      [
+        "Un minuto después, llegó otro mensaje.",
+        "A minute later, another message came."
+      ],
+      [
+        "«¡Perdón! Mi mamá <b>cambió</b> de número ayer y creo que lo anoté mal. Ahora estoy solo en la calle y mi teléfono casi no tiene <b>batería</b>».",
+        "\"Sorry! My mom changed her number yesterday and I think I wrote it down wrong. Now I'm alone in the street and my phone is almost out of battery.\""
+      ],
+      [
+        "Valentina escribió: «¿En qué calle estás?».",
+        "Valentina wrote: \"Which street are you on?\""
+      ],
+      [
+        "«En la calle Los Almendros, número 9. Estoy delante de una puerta azul».",
+        "\"On Los Almendros Street, number 9. I'm in front of a blue door.\""
+      ],
+      [
+        "Valentina se levantó y miró por la ventana.",
+        "Valentina got up and looked out of the window."
+      ],
+      [
+        "Ella vivía en el número 7, y en la calle había un chico con una mochila roja.",
+        "She lived at number 7, and in the street there was a boy with a red backpack."
+      ],
+      [
+        "¡Era su nuevo <b>vecino</b>!",
+        "He was her new neighbor!"
+      ],
+      [
+        "Primero, preparó otra taza de té. Luego se puso el abrigo y tomó un <b>paraguas</b>.",
+        "First, she made another cup of tea. Then she put on her coat and took an umbrella."
+      ],
+      [
+        "Salió de casa y caminó hasta la puerta azul.",
+        "She left the house and walked to the blue door."
+      ],
+      [
+        "—Hola —dijo sonriendo—. Soy el número equivocado.",
+        "\"Hello,\" she said, smiling. \"I'm the wrong number.\""
+      ],
+      [
+        "El chico <b>rió</b>. Se llamaba Nicolás y tenía trece años.",
+        "The boy laughed. His name was Nicolás and he was thirteen years old."
+      ],
+      [
+        "—¡Eres mi vecina! —dijo—. Gracias por venir.",
+        "\"You're my neighbor!\" he said. \"Thank you for coming.\""
+      ],
+      [
+        "Los dos se sentaron bajo el techo del porche y tomaron el té.",
+        "The two of them sat under the porch roof and drank the tea."
+      ],
+      [
+        "Veinte minutos después, un coche llegó a la calle.",
+        "Twenty minutes later, a car arrived on the street."
+      ],
+      [
+        "La mamá de Nicolás bajó corriendo con las llaves en la mano.",
+        "Nicolás's mother hurried out of the car with the keys in her hand."
+      ],
+      [
+        "—¡Hijo, perdón! Estaba trabajando y mi teléfono nuevo no tenía batería.",
+        "\"Son, sorry! I was working and my new phone had no battery.\""
+      ],
+      [
+        "—No te preocupes, mamá —contestó él—. Una vecina muy simpática me <b>ayudó</b>.",
+        "\"Don't worry, Mom,\" he answered. \"A very nice neighbor helped me.\""
+      ],
+      [
+        "La madre miró a Valentina y sonrió. —Muchas gracias. ¿Quieres cenar con nosotros?",
+        "His mother looked at Valentina and smiled. \"Thank you so much. Would you like to have dinner with us?\""
+      ],
+      [
+        "—Con mucho gusto —dijo Valentina—. Y ahora tengo el número correcto de mi vecino.",
+        "\"With pleasure,\" said Valentina. \"And now I have my neighbor's correct number.\""
+      ]
+    ],
+    "vocab": [
+      [
+        "el mensaje",
+        "message"
+      ],
+      [
+        "equivocado",
+        "wrong, mistaken"
+      ],
+      [
+        "cambiar",
+        "to change"
+      ],
+      [
+        "la batería",
+        "battery"
+      ],
+      [
+        "el vecino",
+        "neighbor"
+      ],
+      [
+        "el paraguas",
+        "umbrella"
+      ],
+      [
+        "la llave",
+        "key"
+      ],
+      [
+        "el té",
+        "tea"
+      ],
+      [
+        "la ventana",
+        "window"
+      ],
+      [
+        "la calle",
+        "street"
+      ],
+      [
+        "el abrigo",
+        "coat"
+      ],
+      [
+        "la mochila",
+        "backpack"
+      ],
+      [
+        "sonreír",
+        "to smile"
+      ],
+      [
+        "ayudar",
+        "to help"
+      ],
+      [
+        "la sala",
+        "living room"
+      ],
+      [
+        "llover",
+        "to rain"
+      ]
+    ],
+    "quiz": [
+      {
+        "q": "¿Qué estaba haciendo Valentina cuando sonó el teléfono?",
+        "options": [
+          "Cocinando",
+          "Tomando té y mirando una serie",
+          "Durmiendo",
+          "Trabajando"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "¿Por qué Nicolás escribió a Valentina?",
+        "options": [
+          "Era su amigo",
+          "Quería una receta",
+          "Se equivocó de número",
+          "Necesitaba un paraguas"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "¿Dónde estaba Nicolás cuando escribió?",
+        "options": [
+          "Delante de su puerta, sin llaves",
+          "En un autobús",
+          "En la casa de Valentina",
+          "En la escuela"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "¿Qué llevó Valentina cuando salió de casa?",
+        "options": [
+          "Una mochila y un libro",
+          "Un paraguas y té",
+          "Las llaves de Nicolás",
+          "Un teléfono nuevo"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "¿Qué descubrió Valentina cuando miró por la ventana?",
+        "options": [
+          "Que Nicolás vivía lejos",
+          "Que su mamá estaba en la calle",
+          "Que el mensaje era una broma",
+          "Que Nicolás era su vecino"
+        ],
+        "answer": 3
+      }
+    ],
+    "prompt": "Imagine you receive a text from a wrong number. Write the message and your answer, then tell in 4-6 sentences in Spanish what happened next. Use the imperfect for the scene and the preterite for the events. Starter: «Eran las nueve de la noche y yo estaba en casa. De repente, llegó un mensaje…»",
+    "concepts": {
+      "grammar": "Imperfect for scene-setting (era, estaba, llovía, vivía, había) with preterite for events (sonó, leyó, respondió, salió); estar + gerund (tomando, mirando, trabajando).",
+      "vocabulary": "Phones and the neighborhood: mensaje, batería, vecino, calle, paraguas, abrigo.",
+      "skills": "Reading text messages inside a story; separating background from action; predicting an outcome from clues."
+    }
+  },
+  {
+    "id": "a2-06",
+    "level": "A2",
+    "title": "La lámpara de la abuela",
+    "titleEn": "Grandmother's Lamp",
+    "teaser": "Camila's moving day in Santiago is hard work, but one last box holds a surprise.",
+    "emoji": "🏠",
+    "lines": [
+      [
+        "Camila <b>se mudó</b> a un <b>apartamento</b> nuevo en Santiago el sábado por la mañana.",
+        "Camila moved into a new apartment in Santiago on Saturday morning."
+      ],
+      [
+        "Su hermano Tomás llegó temprano con una <b>camioneta</b> blanca.",
+        "Her brother Tomás arrived early with a white van."
+      ],
+      [
+        "—Hay muchísimas <b>cajas</b> —dijo Tomás—. ¿Qué llevas en ellas?",
+        "\"There are so many boxes,\" said Tomás. \"What do you have in them?\""
+      ],
+      [
+        "—Libros, platos y ropa —respondió ella—. Toda mi vida está en esta camioneta.",
+        "\"Books, plates and clothes,\" she answered. \"My whole life is in this van.\""
+      ],
+      [
+        "El edificio era viejo, pero a Camila le gustaba mucho. Tenía un <b>balcón</b> pequeño y ventanas enormes.",
+        "The building was old, but Camila liked it a lot. It had a small balcony and huge windows."
+      ],
+      [
+        "El problema era que el <b>ascensor</b> no funcionaba, y el apartamento estaba en el quinto piso.",
+        "The problem was that the elevator did not work, and the apartment was on the fifth floor."
+      ],
+      [
+        "—¡Qué mala suerte! —dijo Tomás—. Vamos a subir todo por la <b>escalera</b>.",
+        "\"What bad luck!\" said Tomás. \"We are going to carry everything up the stairs.\""
+      ],
+      [
+        "Subieron las cajas durante dos horas. Tomás estaba más cansado que Camila, pero no se quejaba.",
+        "They carried the boxes up for two hours. Tomás was more tired than Camila, but he did not complain."
+      ],
+      [
+        "En el tercer piso, un señor mayor abrió su puerta y los miró con una sonrisa.",
+        "On the third floor, an older man opened his door and looked at them with a smile."
+      ],
+      [
+        "—Hola, soy don Rafael, tu <b>vecino</b>. Si necesitas ayuda, dímelo.",
+        "\"Hello, I'm don Rafael, your neighbor. If you need help, tell me.\""
+      ],
+      [
+        "—Gracias, don Rafael —contestó Camila—. Ya casi terminamos.",
+        "\"Thank you, don Rafael,\" Camila replied. \"We're almost done.\""
+      ],
+      [
+        "Por la tarde, ella se sentó en el suelo y abrió la última caja.",
+        "In the afternoon, she sat down on the floor and opened the last box."
+      ],
+      [
+        "Dentro no había libros ni platos. Había una <b>lámpara</b> vieja y una <b>carta</b>.",
+        "Inside there were no books or plates. There was an old lamp and a letter."
+      ],
+      [
+        "Camila reconoció la letra de su abuela. La carta decía: «Para tu primera casa. Esta lámpara va a darte luz y alegría».",
+        "Camila recognized her grandmother's handwriting. The letter said: \"For your first home. This lamp is going to give you light and joy.\""
+      ],
+      [
+        "Camila se puso a <b>llorar</b> un poco, y Tomás la <b>abrazó</b>.",
+        "Camila started to cry a little, and Tomás hugged her."
+      ],
+      [
+        "—Mamá la guardó para ti —le explicó él—. Quería darte una <b>sorpresa</b>.",
+        "\"Mom kept it for you,\" he explained. \"She wanted to give you a surprise.\""
+      ],
+      [
+        "Camila puso la lámpara sobre la mesa, pero no se encendió. No tenía <b>bombilla</b>.",
+        "Camila put the lamp on the table, but it did not turn on. It had no light bulb."
+      ],
+      [
+        "—Voy a comprar una ahora mismo —dijo Tomás, y salió corriendo.",
+        "\"I'm going to buy one right now,\" said Tomás, and he ran out."
+      ],
+      [
+        "Mientras tanto, don Rafael pasó por la puerta abierta.",
+        "Meanwhile, don Rafael walked past the open door."
+      ],
+      [
+        "—Tengo una bombilla de sobra —dijo—. Es para ti. Pruébala.",
+        "\"I have a spare bulb,\" he said. \"It's for you. Try it.\""
+      ],
+      [
+        "Camila la puso y la lámpara se encendió. La luz era cálida y bonita.",
+        "Camila put it in and the lamp turned on. The light was warm and pretty."
+      ],
+      [
+        "Tomás volvió diez minutos después, con otra bombilla en la mano. Se rió al ver la lámpara encendida.",
+        "Tomás came back ten minutes later with another bulb in his hand. He laughed when he saw the lamp already lit."
+      ],
+      [
+        "Esa noche los tres comieron pizza en el suelo. Camila miró el balcón y sonrió.",
+        "That night the three of them ate pizza on the floor. Camila looked at the balcony and smiled."
+      ],
+      [
+        "—Ya tengo un <b>hogar</b> —pensó.",
+        "\"Now I have a home,\" she thought."
+      ]
+    ],
+    "vocab": [
+      [
+        "el apartamento",
+        "apartment (in Chile: el departamento)"
+      ],
+      [
+        "la camioneta",
+        "van"
+      ],
+      [
+        "la caja",
+        "box"
+      ],
+      [
+        "el balcón",
+        "balcony"
+      ],
+      [
+        "el ascensor",
+        "elevator"
+      ],
+      [
+        "la escalera",
+        "stairs"
+      ],
+      [
+        "el vecino",
+        "neighbor"
+      ],
+      [
+        "la lámpara",
+        "lamp"
+      ],
+      [
+        "la carta",
+        "letter"
+      ],
+      [
+        "la bombilla",
+        "light bulb (in Chile: la ampolleta)"
+      ],
+      [
+        "la sorpresa",
+        "surprise"
+      ],
+      [
+        "el hogar",
+        "home"
+      ],
+      [
+        "mudarse",
+        "to move (house)"
+      ],
+      [
+        "quejarse",
+        "to complain"
+      ],
+      [
+        "abrazar",
+        "to hug"
+      ],
+      [
+        "llorar",
+        "to cry"
+      ]
+    ],
+    "quiz": [
+      {
+        "q": "¿Por qué subieron las cajas por la escalera?",
+        "options": [
+          "Porque el edificio no tenía puertas",
+          "Porque el ascensor no funcionaba",
+          "Porque a Tomás le gustaba el ejercicio",
+          "Porque las cajas eran muy pequeñas"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "¿En qué piso vive Camila?",
+        "options": [
+          "En el tercero",
+          "En el cuarto",
+          "En el quinto",
+          "En el primero"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "¿Qué había en la última caja?",
+        "options": [
+          "Libros y platos",
+          "Ropa nueva",
+          "Una pizza",
+          "Una lámpara y una carta"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "¿Quién ayudó a Camila con la bombilla?",
+        "options": [
+          "Don Rafael",
+          "Tomás",
+          "Su abuela",
+          "Su madre"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "¿Cómo se sintió Camila al final del día?",
+        "options": [
+          "Estaba enojada con su hermano",
+          "Quería volver a su casa vieja",
+          "Estaba contenta en su nuevo hogar",
+          "Tenía miedo de los vecinos"
+        ],
+        "answer": 2
+      }
+    ],
+    "prompt": "Describe in Spanish a time you moved house or stayed in a new place. What did you take with you, who helped you, and was there a problem? Write 4-6 sentences in the past tense. Starter: «Hace dos años me mudé a… Mi amigo… me ayudó. El problema era que…»",
+    "concepts": {
+      "grammar": "Preterite for actions (se mudó, abrió, salió) with imperfect for description (era, tenía, estaba); object pronouns (le, la, me, te); comparison más ... que; near future ir a + infinitive; tú commands (dímelo, pruébala); reflexive past (se sentó, se puso a llorar).",
+      "vocabulary": "Moving house and apartment words: caja, ascensor, escalera, balcón, vecino, bombilla.",
+      "skills": "Following a short story with dialogue, noticing how a small kindness solves a problem, and retelling events in order."
+    }
+  },
+  {
+    "id": "a2-07",
+    "level": "A2",
+    "title": "El músico de San Telmo",
+    "titleEn": "The Musician of San Telmo",
+    "teaser": "A street guitarist in Buenos Aires has a bad day, and a quiet little listener changes his luck.",
+    "emoji": "🎸",
+    "lines": [
+      [
+        "Todas las tardes, Mateo tocaba la <b>guitarra</b> en una <b>plaza</b> de San Telmo, en Buenos Aires.",
+        "Every afternoon, Mateo played the guitar in a square in San Telmo, in Buenos Aires."
+      ],
+      [
+        "Era joven, y su música alegraba a todos los que pasaban.",
+        "He was young, and his music cheered up everyone who walked by."
+      ],
+      [
+        "Ponía su <b>sombrero</b> en el suelo, y la gente dejaba algunas <b>monedas</b>.",
+        "He put his hat on the ground, and people left a few coins."
+      ],
+      [
+        "Una niña de unos siete años llegaba siempre a las cinco. Se sentaba cerca de él y escuchaba con mucha atención.",
+        "A girl of about seven always arrived at five. She sat near him and listened very carefully."
+      ],
+      [
+        "Se llamaba Julieta. Nunca hablaba, pero siempre <b>bailaba</b> un poquito.",
+        "Her name was Julieta. She never spoke, but she always danced a little."
+      ],
+      [
+        "Un jueves, Mateo empezó una <b>canción</b> y de repente se rompió una <b>cuerda</b>.",
+        "One Thursday, Mateo started a song and suddenly a string broke."
+      ],
+      [
+        "—¡Qué lástima! —dijo—. Hoy no puedo seguir. Necesito una cuerda nueva, pero no tengo dinero.",
+        "\"What a shame!\" he said. \"I can't go on today. I need a new string, but I have no money.\""
+      ],
+      [
+        "Julieta lo miró con tristeza. Entonces salió corriendo y desapareció entre la gente.",
+        "Julieta looked at him sadly. Then she ran off and disappeared into the crowd."
+      ],
+      [
+        "Mateo recogió sus cosas y se sintió muy cansado. Pensó: «Mañana voy a buscar trabajo en un café».",
+        "Mateo picked up his things and felt very tired. He thought, \"Tomorrow I'm going to look for a job in a café.\""
+      ],
+      [
+        "Pero diez minutos después, la niña volvió con un señor de pelo blanco.",
+        "But ten minutes later, the girl came back with a white-haired man."
+      ],
+      [
+        "—Hola, soy Ernesto, el <b>abuelo</b> de Julieta —dijo el señor—. Tengo una <b>tienda</b> de música aquí cerca.",
+        "\"Hello, I'm Ernesto, Julieta's grandfather,\" said the man. \"I have a music shop close by.\""
+      ],
+      [
+        "—Ella me contó que tocas muy bien. ¿Me enseñas tu guitarra?",
+        "\"She told me you play very well. Will you show me your guitar?\""
+      ],
+      [
+        "Mateo se la mostró. Ernesto la miró con cuidado y sonrió.",
+        "Mateo showed it to him. Ernesto looked at it carefully and smiled."
+      ],
+      [
+        "—Es muy bonita, pero es más vieja que yo —dijo—. <b>Ven</b> conmigo a la tienda.",
+        "\"It's very pretty, but it's older than I am,\" he said. \"Come with me to the shop.\""
+      ],
+      [
+        "En la tienda había instrumentos de todos los tamaños: violines, <b>tambores</b> y un enorme piano.",
+        "In the shop there were instruments of every size: violins, drums and an enormous piano."
+      ],
+      [
+        "Ernesto le cambió la cuerda en cinco minutos. —Toma —le dijo—. Es un <b>regalo</b>.",
+        "Ernesto changed the string in five minutes. \"Here,\" he said. \"It's a gift.\""
+      ],
+      [
+        "—No puedo aceptarlo —contestó Mateo—. Quiero pagártelo.",
+        "\"I can't accept it,\" Mateo answered. \"I want to pay you for it.\""
+      ],
+      [
+        "—Entonces vamos a hacer un <b>trato</b>. El sábado hay una fiesta en mi tienda. Toca para nosotros.",
+        "\"Then let's make a deal. On Saturday there's a party in my shop. Play for us.\""
+      ],
+      [
+        "Mateo aceptó, feliz. El sábado llegó con su guitarra y su mejor camisa.",
+        "Mateo accepted, happy. On Saturday he arrived with his guitar and his best shirt."
+      ],
+      [
+        "La tienda estaba llena de gente. Mateo tocó durante una hora, y todos <b>aplaudieron</b>.",
+        "The shop was full of people. Mateo played for an hour, and everyone applauded."
+      ],
+      [
+        "Al final, Julieta se acercó y habló por primera vez.",
+        "At the end, Julieta came over and spoke for the first time."
+      ],
+      [
+        "—Me gusta tu música —dijo con voz suave—. Es más bonita que la radio.",
+        "\"I like your music,\" she said in a soft voice. \"It's prettier than the radio.\""
+      ],
+      [
+        "Mateo se rió. Ernesto le ofreció trabajo: dar <b>clases</b> de guitarra a los niños los martes.",
+        "Mateo laughed. Ernesto offered him a job: giving guitar lessons to children on Tuesdays."
+      ],
+      [
+        "Ahora Mateo toca en la plaza por las tardes, y Julieta es su mejor alumna.",
+        "Now Mateo plays in the square in the afternoons, and Julieta is his best student."
+      ]
+    ],
+    "vocab": [
+      [
+        "la guitarra",
+        "guitar"
+      ],
+      [
+        "la plaza",
+        "square"
+      ],
+      [
+        "el sombrero",
+        "hat"
+      ],
+      [
+        "la moneda",
+        "coin"
+      ],
+      [
+        "la canción",
+        "song"
+      ],
+      [
+        "la cuerda",
+        "string"
+      ],
+      [
+        "el abuelo",
+        "grandfather"
+      ],
+      [
+        "la tienda",
+        "shop"
+      ],
+      [
+        "el tambor",
+        "drum"
+      ],
+      [
+        "el regalo",
+        "gift"
+      ],
+      [
+        "el trato",
+        "deal"
+      ],
+      [
+        "la clase",
+        "lesson"
+      ],
+      [
+        "tocar",
+        "to play (an instrument)"
+      ],
+      [
+        "bailar",
+        "to dance"
+      ],
+      [
+        "escuchar",
+        "to listen"
+      ],
+      [
+        "aplaudir",
+        "to applaud"
+      ],
+      [
+        "ven (vos: vení)",
+        "come! (in Buenos Aires people say vení; also tocá, tomá)"
+      ]
+    ],
+    "quiz": [
+      {
+        "q": "¿Qué pasó un jueves mientras Mateo tocaba?",
+        "options": [
+          "Perdió su sombrero",
+          "Se rompió una cuerda",
+          "Empezó a llover",
+          "Llegó la policía"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "¿Quién es Ernesto?",
+        "options": [
+          "Un cliente del café",
+          "Un músico famoso",
+          "El maestro de Mateo",
+          "El abuelo de Julieta"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "¿Qué le pidió Ernesto a Mateo a cambio de la cuerda?",
+        "options": [
+          "Dinero",
+          "Tocar en una fiesta en su tienda",
+          "Vender su guitarra",
+          "Limpiar la tienda"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "¿Por qué Julieta salió corriendo el jueves?",
+        "options": [
+          "Tenía miedo de Mateo",
+          "Su madre la llamó",
+          "Fue a buscar ayuda para él",
+          "Tenía que volver a casa"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "¿Qué cambió en la vida de Mateo al final?",
+        "options": [
+          "Ahora tiene trabajo como profesor",
+          "Ahora vive en otro país",
+          "Ya no toca en la plaza",
+          "Ahora tiene una tienda"
+        ],
+        "answer": 0
+      }
+    ],
+    "prompt": "Write in Spanish about a musician, street performer or artist you have seen. Where were they, what did they usually do, and what happened that day? Write 4-6 sentences. Starter: «Un día, en la plaza de mi ciudad, había un músico que tocaba… De repente…»",
+    "concepts": {
+      "grammar": "Imperfect for habits (tocaba, llegaba, se sentaba) contrasted with preterite for one-time events (se rompió, salió, aceptó); indirect object pronouns (le dijo, me contó, le cambió); double pronouns (se la mostró, pagártelo); comparisons (más vieja que, más bonita que); ir a + infinitive; tú commands (ven, toca, toma). Buenos Aires note: locals use vos (vení, tocá, tomá); this story uses tú forms, and the vocab list glosses the vos form.",
+      "vocabulary": "Music and shop words: guitarra, cuerda, tambor, plaza, moneda, clase.",
+      "skills": "Contrasting repeated routine with a single surprising event, and following a conversation between three characters."
+    }
+  },
+  {
+    "id": "a2-08",
+    "level": "A2",
+    "title": "La niebla en el valle",
+    "titleEn": "Fog in the Valley",
+    "teaser": "Two cousins hiking in the Colombian mountains lose their guide in the fog and have to think fast.",
+    "emoji": "⛰️",
+    "lines": [
+      [
+        "Valeria y su primo Andrés llegaron a Salento, un pueblo de las <b>montañas</b> de Colombia, el viernes por la noche.",
+        "Valeria and her cousin Andrés arrived in Salento, a town in the mountains of Colombia, on Friday night."
+      ],
+      [
+        "Querían caminar por el Valle de Cocora, donde crecen las palmas más altas del mundo.",
+        "They wanted to hike through the Cocora Valley, where the tallest palm trees in the world grow."
+      ],
+      [
+        "—Mañana vamos a levantarnos a las seis —dijo Valeria—. Quiero ver salir el sol.",
+        "\"Tomorrow we're going to get up at six,\" said Valeria. \"I want to watch the sun rise.\""
+      ],
+      [
+        "—Eso es muy temprano —contestó Andrés—. Prefiero dormir.",
+        "\"That's very early,\" Andrés answered. \"I'd rather sleep.\""
+      ],
+      [
+        "Pero a las seis y media ya estaban en el <b>sendero</b> con sus <b>mochilas</b>.",
+        "But at six thirty they were already on the trail with their backpacks."
+      ],
+      [
+        "Su <b>guía</b> se llamaba Jairo. Era un hombre fuerte, con botas viejas y una sonrisa tranquila.",
+        "Their guide was called Jairo. He was a strong man, with old boots and a calm smile."
+      ],
+      [
+        "—Si hay niebla, camina despacio y sigue el <b>río</b> —le explicó a Andrés—. Lo importante es no correr.",
+        "\"If there is fog, walk slowly and follow the river,\" he explained to Andrés. \"The important thing is not to run.\""
+      ],
+      [
+        "Durante la mañana, el <b>paisaje</b> fue precioso. Había montañas verdes, flores amarillas y palmas altísimas.",
+        "During the morning, the scenery was beautiful. There were green mountains, yellow flowers and very tall palms."
+      ],
+      [
+        "Valeria sacó muchas fotos. Andrés, en cambio, pensaba más en el <b>almuerzo</b>.",
+        "Valeria took lots of photos. Andrés, on the other hand, was thinking more about lunch."
+      ],
+      [
+        "Al mediodía, el cielo se puso gris y una <b>niebla</b> blanca cubrió el camino.",
+        "At noon, the sky turned gray and a white fog covered the path."
+      ],
+      [
+        "Jairo caminaba delante, pero Andrés se paró a atarse las <b>botas</b>. Valeria se quedó con él.",
+        "Jairo was walking ahead, but Andrés stopped to tie his boots. Valeria stayed with him."
+      ],
+      [
+        "Cuando levantaron la cabeza, no vieron a nadie.",
+        "When they looked up, they saw no one."
+      ],
+      [
+        "—¿Jairo? —<b>gritó</b> Andrés—. ¡Jairo!",
+        "\"Jairo?\" Andrés shouted. \"Jairo!\""
+      ],
+      [
+        "Nadie respondió. Solo se oía el viento.",
+        "Nobody answered. Only the wind could be heard."
+      ],
+      [
+        "Andrés se puso nervioso. —¿Qué hacemos? Estamos <b>perdidos</b>.",
+        "Andrés got nervous. \"What do we do? We're lost.\""
+      ],
+      [
+        "—Tranquilo —dijo Valeria—. Recuerda lo que dijo Jairo. Escucha, ¿oyes el agua?",
+        "\"Calm down,\" said Valeria. \"Remember what Jairo said. Listen, can you hear the water?\""
+      ],
+      [
+        "Los dos escucharon. A la derecha se oía un río.",
+        "They both listened. To the right, a river could be heard."
+      ],
+      [
+        "Caminaron despacio junto al agua. Valeria iba delante porque Andrés estaba tan asustado que no podía pensar.",
+        "They walked slowly beside the water. Valeria went first because Andrés was so scared that he could not think."
+      ],
+      [
+        "Media hora después, vieron una casa pequeña con humo en la <b>chimenea</b>. Una señora salía con una olla.",
+        "Half an hour later, they saw a small house with smoke coming from the chimney. A woman was coming out with a pot."
+      ],
+      [
+        "—¡Hola! Ustedes son los turistas —dijo ella—. Jairo los está buscando. Ya lo llamé por teléfono.",
+        "\"Hello! You're the tourists,\" she said. \"Jairo is looking for you. I already called him.\""
+      ],
+      [
+        "La señora les dio <b>chocolate</b> caliente con queso. —Es una costumbre de aquí. Pruébalo —le dijo a Andrés.",
+        "The woman gave them hot chocolate with cheese. \"It's a local custom. Try it,\" she said to Andrés."
+      ],
+      [
+        "Andrés lo probó y puso una cara rara. Después sonrió. —¡Está delicioso! Es mejor que el chocolate de mi casa.",
+        "Andrés tasted it and made a strange face. Then he smiled. \"It's delicious! It's better than the chocolate at my house.\""
+      ],
+      [
+        "Jairo llegó corriendo, con la cara roja. —¡Gracias a Dios! Los busqué durante una hora.",
+        "Jairo arrived running, his face red. \"Thank goodness! I searched for you for an hour.\""
+      ],
+      [
+        "—Fue culpa mía —dijo Andrés—. Me paré sin avisar.",
+        "\"It was my fault,\" said Andrés. \"I stopped without telling anyone.\""
+      ],
+      [
+        "—No importa —respondió Jairo—. Valeria usó la cabeza. Eres una buena exploradora.",
+        "\"It doesn't matter,\" Jairo replied. \"Valeria used her head. You're a good explorer.\""
+      ],
+      [
+        "Valeria se rió. Miró las montañas y pensó que la niebla no es tan peligrosa cuando uno está tranquilo.",
+        "Valeria laughed. She looked at the mountains and thought that fog is not so dangerous when you stay calm."
+      ]
+    ],
+    "vocab": [
+      [
+        "la montaña",
+        "mountain"
+      ],
+      [
+        "el sendero",
+        "trail"
+      ],
+      [
+        "la mochila",
+        "backpack"
+      ],
+      [
+        "el guía",
+        "guide"
+      ],
+      [
+        "el río",
+        "river"
+      ],
+      [
+        "el paisaje",
+        "scenery"
+      ],
+      [
+        "el almuerzo",
+        "lunch"
+      ],
+      [
+        "la niebla",
+        "fog"
+      ],
+      [
+        "la bota",
+        "boot"
+      ],
+      [
+        "la chimenea",
+        "chimney"
+      ],
+      [
+        "el chocolate",
+        "hot chocolate"
+      ],
+      [
+        "gritar",
+        "to shout"
+      ],
+      [
+        "perdido/a",
+        "lost"
+      ],
+      [
+        "caminar",
+        "to walk"
+      ],
+      [
+        "recordar",
+        "to remember"
+      ],
+      [
+        "el viento",
+        "wind"
+      ]
+    ],
+    "quiz": [
+      {
+        "q": "¿Por qué querían levantarse temprano?",
+        "options": [
+          "Porque Jairo quería salir temprano",
+          "Porque Valeria quería ver salir el sol",
+          "Porque Andrés tenía hambre",
+          "Porque el valle cerraba a las siete"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "¿Qué hizo Andrés cuando empezó la niebla?",
+        "options": [
+          "Corrió detrás de Jairo",
+          "Sacó muchas fotos",
+          "Se paró a atarse las botas",
+          "Se sentó a comer"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "¿Cómo encontraron la casa?",
+        "options": [
+          "Siguieron el río",
+          "Llamaron a Jairo",
+          "Vieron un mapa",
+          "Siguieron a un animal"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "¿Qué bebieron en la casa?",
+        "options": [
+          "Café con leche",
+          "Jugo de fruta",
+          "Té frío",
+          "Chocolate caliente con queso"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "¿Qué se puede decir de Valeria?",
+        "options": [
+          "Ella mantuvo la calma y recordó el consejo del guía",
+          "Ella no escuchó al guía",
+          "Ella tuvo más miedo que Andrés",
+          "Ella quería volver al hotel"
+        ],
+        "answer": 0
+      }
+    ],
+    "prompt": "Write in Spanish about a trip or walk in nature (real or imagined). Where were you, what was the weather like, what did you see, and did anything go wrong? Write 5-7 sentences. Starter: «El verano pasado fui a… Hacía sol y había… Pero de repente…»",
+    "concepts": {
+      "grammar": "Preterite for the sequence of events (llegaron, gritó, vieron, cubrió) with imperfect for background (había montañas, caminaba, estaba asustado, se oía); comparatives and superlatives (las más altas del mundo, mejor que, tan asustado que); tú commands (camina, sigue, recuerda, escucha, pruébalo); reflexive verbs (levantarnos, se paró, se puso nervioso, se quedó, se rió).",
+      "vocabulary": "Hiking and nature words: sendero, mochila, niebla, río, montaña, bota.",
+      "skills": "Following a problem-and-solution plot, tracking who says what in dialogue, and inferring a character's feelings from actions."
+    }
+  },
+  {
+    "id": "a2-09",
+    "level": "A2",
+    "title": "Un café, una camisa y una entrevista",
+    "titleEn": "A Coffee, a Shirt and an Interview",
+    "teaser": "Everything goes wrong for Daniela on the morning of the most important interview of her life.",
+    "emoji": "💼",
+    "lines": [
+      [
+        "Daniela se despertó a las ocho y media, porque su <b>alarma</b> no sonó.",
+        "Daniela woke up at eight thirty because her alarm did not ring."
+      ],
+      [
+        "¡Su <b>entrevista</b> de trabajo era a las diez, en el centro de Ciudad de México!",
+        "Her job interview was at ten, in downtown Mexico City!"
+      ],
+      [
+        "Se vistió rápidamente, tomó su <b>currículum</b> y salió corriendo de casa.",
+        "She got dressed quickly, grabbed her résumé and ran out of the house."
+      ],
+      [
+        "Mientras esperaba el metro, repasaba sus respuestas en voz baja.",
+        "While she waited for the subway, she went over her answers under her breath."
+      ],
+      [
+        "De repente, un señor con mucha prisa <b>chocó</b> con ella y le tiró su café en la <b>camisa</b> blanca.",
+        "Suddenly, a man in a big hurry bumped into her and spilled his coffee on her white shirt."
+      ],
+      [
+        "—Perdona, no te vi —dijo el señor, y siguió corriendo.",
+        "\"Sorry, I didn't see you,\" said the man, and he kept running."
+      ],
+      [
+        "—No pasa nada —mintió Daniela, aunque quería llorar.",
+        "\"It's nothing,\" Daniela lied, although she wanted to cry."
+      ],
+      [
+        "Llegó al edificio a las diez menos diez. Su camisa tenía una enorme <b>mancha</b> marrón.",
+        "She reached the building at ten to ten. Her shirt had a huge brown stain."
+      ],
+      [
+        "En el baño trató de limpiarla, pero la mancha se hizo más grande. Respiró hondo y pensó: «Voy a ser honesta».",
+        "In the bathroom she tried to clean it, but the stain got bigger. She took a deep breath and thought, \"I'm going to be honest.\""
+      ],
+      [
+        "En la <b>recepción</b>, una señora mayor esperaba sentada. Parecía confundida.",
+        "At the reception desk, an older woman was waiting, seated. She seemed confused."
+      ],
+      [
+        "—Hija, ¿sabes dónde está la oficina de diseño? —preguntó—. Llevo veinte minutos buscándola.",
+        "\"Dear, do you know where the design office is?\" she asked. \"I've been looking for it for twenty minutes.\""
+      ],
+      [
+        "—Está en el tercer piso —dijo Daniela—. Yo también voy allí. La acompaño.",
+        "\"It's on the third floor,\" said Daniela. \"I'm going there too. I'll go with you.\""
+      ],
+      [
+        "Subieron juntas despacio, porque la señora caminaba con dificultad. Por eso Daniela llegó tarde, a las diez y cinco.",
+        "They went up together slowly, because the woman walked with difficulty. That's why Daniela arrived late, at five past ten."
+      ],
+      [
+        "La <b>jefa</b> de personal, la señora Ortega, la esperaba con los brazos cruzados.",
+        "The head of personnel, Mrs. Ortega, was waiting for her with her arms crossed."
+      ],
+      [
+        "—Llega tarde —dijo—, y tiene la camisa manchada. ¿Qué ha pasado?",
+        "\"You're late,\" she said, \"and your shirt is stained. What has happened?\""
+      ],
+      [
+        "—Lo siento —contestó Daniela—. Mi alarma no sonó, un señor me tiró un café encima y después ayudé a una señora. Nunca he llegado tarde a una entrevista.",
+        "\"I'm sorry,\" Daniela answered. \"My alarm didn't ring, a man spilled coffee on me, and then I helped a lady. I have never been late to an interview.\""
+      ],
+      [
+        "En ese momento, la señora mayor entró en la sala y se sentó junto a la jefa.",
+        "At that moment, the older woman came into the room and sat down next to the boss."
+      ],
+      [
+        "—Buenos días otra vez —dijo con una sonrisa—. Soy Elena, la fundadora de la <b>empresa</b>.",
+        "\"Good morning again,\" she said with a smile. \"I'm Elena, the founder of the company.\""
+      ],
+      [
+        "Daniela abrió la boca, pero no pudo hablar.",
+        "Daniela opened her mouth, but she could not speak."
+      ],
+      [
+        "—Hoy quería ver cómo tratan los candidatos a una desconocida —explicó doña Elena—. Tú me ayudaste sin saber quién era.",
+        "\"Today I wanted to see how candidates treat a stranger,\" explained doña Elena. \"You helped me without knowing who I was.\""
+      ],
+      [
+        "Después, la entrevista fue muy bien. Daniela habló de sus proyectos y de su pasión por el <b>diseño</b>, y no se puso nerviosa.",
+        "After that, the interview went very well. Daniela talked about her projects and her passion for design, and she did not get nervous."
+      ],
+      [
+        "—¿Ha trabajado antes con clientes? —preguntó la señora Ortega.",
+        "\"Have you worked with clients before?\" asked Mrs. Ortega."
+      ],
+      [
+        "—Sí, he trabajado con tres tiendas pequeñas —respondió Daniela—. Aprendí mucho de ellas.",
+        "\"Yes, I have worked with three small shops,\" Daniela replied. \"I learned a lot from them.\""
+      ],
+      [
+        "Dos horas después, sonó su teléfono.",
+        "Two hours later, her phone rang."
+      ],
+      [
+        "—Daniela, tenemos una buena <b>noticia</b> —dijo la señora Ortega—. El <b>puesto</b> es suyo.",
+        "\"Daniela, we have good news,\" said Mrs. Ortega. \"The position is yours.\""
+      ],
+      [
+        "Esa noche, Daniela compró una camisa nueva y un café. Esta vez lo tomó con mucho cuidado.",
+        "That night, Daniela bought a new shirt and a coffee. This time she drank it very carefully."
+      ]
+    ],
+    "vocab": [
+      [
+        "la entrevista",
+        "interview"
+      ],
+      [
+        "el currículum",
+        "résumé"
+      ],
+      [
+        "la alarma",
+        "alarm"
+      ],
+      [
+        "la camisa",
+        "shirt"
+      ],
+      [
+        "la mancha",
+        "stain"
+      ],
+      [
+        "la recepción",
+        "reception desk"
+      ],
+      [
+        "la jefa",
+        "boss"
+      ],
+      [
+        "la empresa",
+        "company"
+      ],
+      [
+        "el diseño",
+        "design"
+      ],
+      [
+        "la noticia",
+        "news"
+      ],
+      [
+        "el puesto",
+        "position"
+      ],
+      [
+        "despertarse",
+        "to wake up"
+      ],
+      [
+        "vestirse",
+        "to get dressed"
+      ],
+      [
+        "chocar",
+        "to bump into"
+      ],
+      [
+        "ayudar",
+        "to help"
+      ],
+      [
+        "mentir",
+        "to lie"
+      ]
+    ],
+    "quiz": [
+      {
+        "q": "¿Por qué se despertó tarde Daniela?",
+        "options": [
+          "Porque estaba enferma",
+          "Porque su alarma no sonó",
+          "Porque su madre no la llamó",
+          "Porque trabajó toda la noche"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "¿Qué le pasó a la camisa de Daniela?",
+        "options": [
+          "Un hombre le tiró un café encima",
+          "Se la dejó en casa",
+          "La rompió en el metro",
+          "La lavó mal"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "¿Por qué llegó tarde a la entrevista?",
+        "options": [
+          "El metro no funcionó",
+          "Se perdió en el edificio",
+          "Acompañó a una señora mayor",
+          "Fue a comprar otra camisa"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "¿Quién era en realidad la señora mayor?",
+        "options": [
+          "Una clienta",
+          "La madre de la señora Ortega",
+          "Una candidata",
+          "La fundadora de la empresa"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "¿Por qué consiguió Daniela el puesto, probablemente?",
+        "options": [
+          "Fue amable y honesta, y la entrevista salió bien",
+          "Llegó muy temprano",
+          "Su camisa era perfecta",
+          "Conocía a doña Elena"
+        ],
+        "answer": 0
+      }
+    ],
+    "prompt": "Imagine your own interview day, or a day when everything went wrong. Write in Spanish what happened and how you solved it, in 5-7 sentences. Include one sentence with 'Nunca he…' or 'He…'. Starter: «Mi alarma no sonó y me desperté tarde. Mientras esperaba el autobús…»",
+    "concepts": {
+      "grammar": "Preterite and imperfect together in a longer narrative; present perfect (he llegado, ha pasado, ha trabajado, he trabajado); llevar + time + gerund (llevo veinte minutos buscándola); connectors porque, aunque (with indicative), mientras, por eso; indirect object pronouns (le tiró, me tiró, me ayudaste); reflexive past (se despertó, se vistió, se sentó, se puso nerviosa); usted vs tú (Ortega uses usted, Elena uses tú).",
+      "vocabulary": "Work and interview words: entrevista, currículum, empresa, puesto, jefa, noticia.",
+      "skills": "Following a plot with a surprise twist, making an inference about why a decision was made, and noticing who uses formal usted (the interviewer) and who uses tú (the founder, the man in the metro)."
+    }
+  },
+  {
+    "id": "a2-10",
+    "level": "A2",
+    "title": "La noche de los faroles",
+    "titleEn": "The Night of the Lanterns",
+    "teaser": "A rainstorm threatens the biggest lantern in a Spanish village, and the whole town has one night to save it.",
+    "emoji": "🏮",
+    "lines": [
+      [
+        "Cada agosto, Inés viajaba al <b>pueblo</b> de su abuelo, Valdeluna, en el norte de España.",
+        "Every August, Inés traveled to her grandfather's village, Valdeluna, in northern Spain."
+      ],
+      [
+        "Ese año tenía una misión especial.",
+        "That year she had a special mission."
+      ],
+      [
+        "El sábado era la Noche de los Faroles, la <b>fiesta</b> más importante del pueblo.",
+        "Saturday was the Night of the Lanterns, the most important festival in the village."
+      ],
+      [
+        "Todos los vecinos hacían <b>faroles</b> de papel y los llevaban por las calles al <b>anochecer</b>.",
+        "All the neighbors made paper lanterns and carried them through the streets at dusk."
+      ],
+      [
+        "—Inés, tú estudias arte —le dijo el <b>alcalde</b>—. ¿Puedes hacer el farol grande de la plaza?",
+        "\"Inés, you study art,\" the mayor said to her. \"Can you make the big lantern for the square?\""
+      ],
+      [
+        "—¡Claro! —contestó ella, emocionada—. Voy a hacer un <b>toro</b> gigante.",
+        "\"Of course!\" she answered, excited. \"I'm going to make a giant bull.\""
+      ],
+      [
+        "Su primo Pablo la ayudó. Durante cuatro días trabajaron en el <b>granero</b> con papel, <b>pegamento</b> y mucha paciencia.",
+        "Her cousin Pablo helped her. For four days they worked in the barn with paper, glue and a lot of patience."
+      ],
+      [
+        "El toro medía casi tres metros. Era rojo y dorado, tenía unos ojos enormes y por dentro llevaba veinte luces.",
+        "The bull was almost three meters tall. It was red and gold, it had huge eyes, and inside it carried twenty lights."
+      ],
+      [
+        "—Es el farol más grande de la historia del pueblo —dijo Pablo, orgulloso.",
+        "\"It's the biggest lantern in the history of the village,\" said Pablo, proud."
+      ],
+      [
+        "El viernes por la noche empezó a llover. La <b>lluvia</b> cayó con fuerza durante horas, y el viento abrió la puerta del granero.",
+        "On Friday night it began to rain. The rain fell hard for hours, and the wind blew open the barn door."
+      ],
+      [
+        "Por la mañana, Inés entró y se quedó helada. El agua mojó el papel y una <b>pata</b> del toro estaba en el suelo.",
+        "In the morning, Inés went in and froze. The water soaked the paper and one of the bull's legs was on the floor."
+      ],
+      [
+        "—No puede ser —susurró—. Todo mi trabajo...",
+        "\"It can't be,\" she whispered. \"All my work...\""
+      ],
+      [
+        "Pablo la abrazó. —No llores. Tenemos todo el día para arreglarlo.",
+        "Pablo hugged her. \"Don't cry. We have all day to fix it.\""
+      ],
+      [
+        "—Pero necesitamos papel nuevo, y no hay tiempo —dijo Inés—. La fiesta empieza a las ocho.",
+        "\"But we need new paper, and there's no time,\" said Inés. \"The festival starts at eight.\""
+      ],
+      [
+        "Pablo salió a la calle y se lo contó a los vecinos. En media hora, el granero se llenó de gente.",
+        "Pablo went out into the street and told the neighbors. Within half an hour, the barn was full of people."
+      ],
+      [
+        "La panadera trajo papel y pegamento. El <b>carpintero</b> <b>reparó</b> la pata. Los niños <b>pintaron</b> el papel nuevo.",
+        "The baker brought paper and glue. The carpenter repaired the leg. The children painted the new paper."
+      ],
+      [
+        "Su abuelo preparó café para todos mientras la abuela cantaba una canción vieja.",
+        "Her grandfather made coffee for everyone while her grandmother sang an old song."
+      ],
+      [
+        "—Nunca he visto trabajar tan rápido a este pueblo —bromeó el alcalde.",
+        "\"I have never seen this village work so fast,\" the mayor joked."
+      ],
+      [
+        "A las siete y media, el toro estaba terminado. Era más bonito que antes, porque tenía el trabajo de cien personas.",
+        "At seven thirty, the bull was finished. It was prettier than before, because it held the work of a hundred people."
+      ],
+      [
+        "Al anochecer, cientos de luces salieron por las calles. Inés caminaba al lado del toro mientras la música sonaba.",
+        "At dusk, hundreds of lights came out into the streets. Inés walked beside the bull while the music played."
+      ],
+      [
+        "Los niños cantaban, los músicos tocaban y las luces se reflejaban en las caras de todos.",
+        "The children sang, the musicians played, and the lights were reflected in everyone's faces."
+      ],
+      [
+        "Su abuelo se acercó y le tomó la mano.",
+        "Her grandfather came over and took her hand."
+      ],
+      [
+        "—Hoy no hiciste solo un farol, Inés —le dijo—. Hiciste una familia más grande.",
+        "\"Today you didn't make just a lantern, Inés,\" he told her. \"You made a bigger family.\""
+      ],
+      [
+        "Ella sonrió con lágrimas en los ojos. Aunque llovió la noche anterior, esa fue la mejor noche de su vida.",
+        "She smiled with tears in her eyes. Although it rained the night before, that was the best night of her life."
+      ],
+      [
+        "Y esta vez no lloró de tristeza.",
+        "And this time she did not cry from sadness."
+      ],
+      [
+        "Había aprendido que un pueblo unido puede hacer cosas increíbles.",
+        "She had learned that a united village can do incredible things."
+      ]
+    ],
+    "vocab": [
+      [
+        "el pueblo",
+        "village"
+      ],
+      [
+        "la fiesta",
+        "festival"
+      ],
+      [
+        "el farol",
+        "lantern"
+      ],
+      [
+        "el alcalde",
+        "mayor"
+      ],
+      [
+        "el toro",
+        "bull"
+      ],
+      [
+        "el granero",
+        "barn"
+      ],
+      [
+        "el pegamento",
+        "glue"
+      ],
+      [
+        "la lluvia",
+        "rain"
+      ],
+      [
+        "la pata",
+        "leg (of an animal)"
+      ],
+      [
+        "el carpintero",
+        "carpenter"
+      ],
+      [
+        "la panadera",
+        "baker"
+      ],
+      [
+        "la paciencia",
+        "patience"
+      ],
+      [
+        "mojar",
+        "to soak"
+      ],
+      [
+        "reparar",
+        "to repair"
+      ],
+      [
+        "pintar",
+        "to paint"
+      ],
+      [
+        "el anochecer",
+        "dusk"
+      ]
+    ],
+    "quiz": [
+      {
+        "q": "¿Qué farol hizo Inés para la plaza?",
+        "options": [
+          "Una estrella",
+          "Una luna",
+          "Un toro gigante",
+          "Un barco"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "¿Qué pasó el viernes por la noche?",
+        "options": [
+          "La lluvia y el viento dañaron el toro",
+          "Pablo se fue del pueblo",
+          "Se terminó el pegamento",
+          "Se canceló la fiesta"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "¿Quién reparó la pata del toro?",
+        "options": [
+          "El alcalde",
+          "Pablo",
+          "El carpintero",
+          "Su abuelo"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "¿Por qué el toro era más bonito que antes?",
+        "options": [
+          "Porque era más grande",
+          "Porque tenía más luces",
+          "Porque era de otro color",
+          "Porque mucha gente trabajó en él"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "¿Qué quiso decir el abuelo con «Hiciste una familia más grande»?",
+        "options": [
+          "Que el pueblo se unió gracias a ella",
+          "Que Inés tuvo más primos",
+          "Que su casa era más grande",
+          "Que el toro era enorme"
+        ],
+        "answer": 0
+      }
+    ],
+    "prompt": "Write in Spanish about a festival or celebration you went to. Where was it, what did people usually do, and what happened that day? Write 5-7 sentences, using the imperfect for what people did and the preterite for what happened. Starter: «Cada año, en mi ciudad, la gente… El año pasado…»",
+    "concepts": {
+      "grammar": "Preterite and imperfect woven together in a longer story (empezó, cayó, trabajaron / viajaba, hacían, cantaba); present perfect (he visto) and past perfect (había aprendido); connectors mientras, porque, aunque (with indicative); object pronouns (le dijo, la ayudó, se lo contó); comparisons (más bonito que, el más grande); near future ir a; tú command (no llores); time and purpose phrases (por la mañana, para todos, para arreglarlo).",
+      "vocabulary": "Village and festival words: pueblo, fiesta, farol, alcalde, granero, lluvia, carpintero.",
+      "skills": "Following a longer plot with a problem and a community solution, and interpreting a character's closing words."
+    }
+  }
+]

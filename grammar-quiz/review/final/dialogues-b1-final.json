@@ -1,0 +1,892 @@
+{
+ "b1-01": {
+  "steps": [
+   {
+    "say": "¡Hola! Me llamo Sofía. Acabo de leer la historia de la cartera verde. ¿Tú la leíste también?",
+    "en": "Hi! My name is Sofía. I just read the story of the green wallet. Did you read it too?",
+    "r": [
+     [
+      "Sí, la leí. Me gustó mucho la historia de Inés.",
+      "Yes, I read it. I really liked Inés's story.",
+      1
+     ],
+     [
+      "Todavía no, pero cuéntame qué pasó.",
+      "Not yet, but tell me what happened.",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "Inés encontró una cartera debajo de un banco del Retiro. Dentro había un carnet y la dirección de un hostal. ¿Qué habrías hecho tú?",
+    "en": "Inés found a wallet under a bench in the Retiro. Inside were an ID card and a hostel address. What would you have done?",
+    "r": [
+     [
+      "Habría ido a la comisaría, porque es lo más seguro.",
+      "I would have gone to the police station, because it's the safest thing.",
+      2
+     ],
+     [
+      "Yo también habría buscado al dueño, aunque estuviera lejos.",
+      "I would also have looked for the owner, even if it was far.",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "Es verdad, pero a Inés le dolía la rodilla y la comisaría estaba lejos. Sin embargo, ella dudó muy poco. ¿Por qué crees que lo hizo?",
+    "en": "True, but Inés's knee hurt and the police station was far. Even so, she hesitated very little. Why do you think she did it?",
+    "r": [
+     [
+      "Creo que lo hizo porque se sentía sola y quería ayudar.",
+      "I think she did it because she felt lonely and wanted to help.",
+      4
+     ],
+     [
+      "Porque sabía lo que se siente al perder algo importante.",
+      "Because she knew what it feels like to lose something important.",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "¡Qué bien! Yo pienso que fue muy generosa. Tomás casi lloraba en el hostal cuando ella llegó. ¿Cómo crees que se sintió él?",
+    "en": "How nice! I think she was very generous. Tomás was almost crying at the hostel when she arrived. How do you think he felt?",
+    "r": [
+     [
+      "Se sintió muy aliviado y feliz al ver su foto.",
+      "He felt very relieved and happy to see his photo.",
+      4
+     ],
+     [
+      "Seguramente quería darle una recompensa, aunque no hacía falta.",
+      "He surely wanted to give her a reward, but she didn't need it.",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "Seguro que sí. Ahora una pregunta personal: ¿alguna vez perdiste algo importante, como una cartera o un teléfono?",
+    "en": "Surely. Now a personal question: have you ever lost something important, like a wallet or a phone?",
+    "r": [
+     [
+      "Sí, una vez perdí mi teléfono en el metro y me puse muy nervioso.",
+      "Yes, once I lost my phone on the metro and I got very nervous.",
+      5
+     ],
+     [
+      "No, nunca, pero tengo miedo de perder mis cosas.",
+      "No, never, but I'm afraid of losing my things.",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "Te entiendo. Gracias por charlar conmigo. Ojalá siempre encontremos a alguien como Inés. ¡Hasta pronto!",
+    "en": "I understand. Thanks for chatting with me. I hope we always find someone like Inés. See you soon!",
+    "end": true
+   }
+  ]
+ },
+ "b1-02": {
+  "steps": [
+   {
+    "say": "¡Hola! Soy Tomás. Estuve leyendo la historia de Ana y Ben, los jueves de mate en Montevideo. ¿Qué te pareció?",
+    "en": "Hi! I'm Tomás. I was reading the story of Ana and Ben, the Thursdays of mate in Montevideo. What did you think?",
+    "r": [
+     [
+      "Me pareció muy bonita. Me gusta la idea del intercambio de idiomas.",
+      "I thought it was very nice. I like the idea of a language exchange.",
+      1
+     ],
+     [
+      "Fue divertida, sobre todo cuando Ben preguntó si el mate era una sopa.",
+      "It was funny, especially when Ben asked if mate was a soup.",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "¡Sí! Al principio los dos estaban muy nerviosos. A Ana se le trababa la lengua y a Ben le daba vergüenza hablar. ¿A ti te pasa lo mismo?",
+    "en": "Yes! At first they were both very nervous. Ana got tongue-tied and Ben was embarrassed to speak. Does that happen to you?",
+    "r": [
+     [
+      "Sí, me da vergüenza hablar porque cometo muchos errores.",
+      "Yes, I'm embarrassed to speak because I make a lot of mistakes.",
+      2
+     ],
+     [
+      "No mucho. Prefiero equivocarme y aprender que quedarme callado.",
+      "Not much. I prefer to make mistakes and learn than stay quiet.",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "Te entiendo. Yo creo que equivocarse es normal. Un día Ana estaba preocupada por una presentación en inglés. ¿Qué le habrías dicho tú?",
+    "en": "I understand. I think making mistakes is normal. One day Ana was worried about a presentation in English. What would you have told her?",
+    "r": [
+     [
+      "Le habría dicho que ensayara mucho con un amigo.",
+      "I would have told her to rehearse a lot with a friend.",
+      3
+     ],
+     [
+      "Le habría dicho que respirara hondo y confiara en ella misma.",
+      "I would have told her to breathe deeply and trust herself.",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "Buena idea. Ben ensayó con ella durante tres semanas, con diapositivas y cronómetro. ¿Crees que fue un buen amigo?",
+    "en": "Good idea. Ben rehearsed with her for three weeks, with slides and a stopwatch. Do you think he was a good friend?",
+    "r": [
+     [
+      "Sí, porque la ayudó y además fue a la presentación.",
+      "Yes, because he helped her and even went to the presentation.",
+      4
+     ],
+     [
+      "Sí, pero ella también lo ayudó a cambio con la pronunciación.",
+      "Yes, but she also helped him in return with pronunciation.",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "Exacto, fue un intercambio justo. Y al final los clientes aplaudieron. Para ti, ¿cuál es la mejor forma de practicar un idioma?",
+    "en": "Exactly, it was a fair exchange. And in the end the clients applauded. For you, what is the best way to practice a language?",
+    "r": [
+     [
+      "Hablar con personas de verdad, aunque sea poco tiempo cada semana.",
+      "Talking with real people, even if only a little time each week.",
+      5
+     ],
+     [
+      "Prefiero ver series y leer, porque así aprendo vocabulario nuevo.",
+      "I prefer watching series and reading, because that way I learn new vocabulary.",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "Estoy de acuerdo. ¡Gracias por la charla! Quizás un día tomamos mate juntos. ¡Hasta luego!",
+    "en": "I agree. Thanks for the chat! Maybe one day we'll drink mate together. See you later!",
+    "end": true
+   }
+  ]
+ },
+ "b1-03": {
+  "steps": [
+   {
+    "say": "¡Hola! Me llamo Sofía. Hoy leí la historia de doña Remedios y su panadería en Oaxaca. ¿La conoces?",
+    "en": "Hi! My name is Sofía. Today I read the story of doña Remedios and her bakery in Oaxaca. Do you know it?",
+    "r": [
+     [
+      "Sí, la leí. Es muy triste cuando se rompe el horno.",
+      "Yes, I read it. It's very sad when the oven breaks.",
+      1
+     ],
+     [
+      "No la conozco. ¿Qué le pasó a la panadería?",
+      "I don't know it. What happened to the bakery?",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "La pared del horno se agrietó cinco días antes del Día de Muertos, y ya tenían cientos de encargos de pan de muerto. ¿Qué habrías hecho tú?",
+    "en": "The oven's back wall cracked five days before the Day of the Dead, and they already had hundreds of orders for pan de muerto. What would you have done?",
+    "r": [
+     [
+      "Habría comprado un horno eléctrico, aunque fuera caro.",
+      "I would have bought an electric oven, even if it was expensive.",
+      2
+     ],
+     [
+      "Habría pedido ayuda a los vecinos, como hizo Iván.",
+      "I would have asked the neighbors for help, like Iván did.",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "Remedios dijo que un horno eléctrico no hace el mismo pan, y además no podía pagarlo. ¿Tú crees que ella tenía razón?",
+    "en": "Remedios said an electric oven doesn't make the same bread, and she couldn't afford it anyway. Do you think she was right?",
+    "r": [
+     [
+      "Sí, porque el pan de leña tiene un sabor especial.",
+      "Yes, because wood-fired bread has a special flavor.",
+      3
+     ],
+     [
+      "No sé. Quizás tenía que cambiar para sobrevivir.",
+      "I don't know. Maybe she had to change in order to survive.",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "Iván tocó puertas y todo el barrio le prestó sus hornos. ¿Te parece una buena idea? ¿Por qué?",
+    "en": "Iván knocked on doors and the whole neighborhood lent him their ovens. Do you think it's a good idea? Why?",
+    "r": [
+     [
+      "Me parece genial, porque juntos todo es más fácil.",
+      "I think it's great, because together everything is easier.",
+      4
+     ],
+     [
+      "Es una buena idea, pero requiere mucha confianza entre vecinos.",
+      "It's a good idea, but it takes a lot of trust between neighbors.",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "Sí, al final Remedios se sintió más acompañada que nunca, y los vecinos le trajeron dinero y herramientas para arreglar el horno. Y tú, ¿conoces bien a tus vecinos?",
+    "en": "Yes, in the end Remedios felt more accompanied than ever, and the neighbors brought her money and tools to fix the oven. And you, do you know your neighbors well?",
+    "r": [
+     [
+      "Sí, nos ayudamos mucho cuando alguien necesita algo.",
+      "Yes, we help each other a lot when someone needs something.",
+      5
+     ],
+     [
+      "No mucho. Solo los saludo en la escalera.",
+      "Not really. I only say hello on the stairs.",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "Qué interesante. Gracias por conversar conmigo. ¡Que tengas un día lleno de buen pan!",
+    "en": "How interesting. Thanks for talking with me. Have a day full of good bread!",
+    "end": true
+   }
+  ]
+ },
+ "b1-04": {
+  "steps": [
+   {
+    "say": "¡Hola! Soy Tomás. Estoy pensando en la historia de Marcos, el enfermero, y don Aurelio. ¿La leíste?",
+    "en": "Hi! I'm Tomás. I'm thinking about the story of Marcos, the nurse, and don Aurelio. Did you read it?",
+    "r": [
+     [
+      "Sí, y me emocionó mucho el final.",
+      "Yes, and the ending moved me a lot.",
+      1
+     ],
+     [
+      "Sí, pero no entendí por qué Marcos abrió la ventana.",
+      "Yes, but I didn't understand why Marcos opened the window.",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "Marcos trabajaba en el turno de noche y don Aurelio no quería dormir. Quería enseñarle una estrella desde la ventana. ¿Tú habrías abierto la ventana?",
+    "en": "Marcos worked the night shift and don Aurelio didn't want to sleep. He wanted to show him a star from the window. Would you have opened the window?",
+    "r": [
+     [
+      "Sí, la habría abierto porque no hacía daño a nadie.",
+      "Yes, I would have opened it because it harmed no one.",
+      2
+     ],
+     [
+      "No, porque el reglamento dice que las ventanas deben estar cerradas.",
+      "No, because the rules say windows must stay closed.",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "Es una decisión difícil. Marcos dudó, pero al final miró hacia el cielo. Según tú, ¿qué cambió en él esa noche?",
+    "en": "It's a hard decision. Marcos hesitated, but in the end he looked at the sky. In your opinion, what changed in him that night?",
+    "r": [
+     [
+      "Se dio cuenta de que su trabajo también podía ser bonito.",
+      "He realized that his job could also be beautiful.",
+      3
+     ],
+     [
+      "Dejó de sentirse solo, porque encontró un amigo.",
+      "He stopped feeling lonely, because he found a friend.",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "Sí, el turno de noche pasó de ser un castigo a ser un regalo. Don Aurelio contó que la luz de las estrellas salió hace miles de años. ¿Te gusta la astronomía?",
+    "en": "Yes, the night shift went from being a punishment to being a gift. Don Aurelio said starlight left thousands of years ago. Do you like astronomy?",
+    "r": [
+     [
+      "Sí, me encanta mirar las estrellas cuando salgo de la ciudad.",
+      "Yes, I love looking at the stars when I leave the city.",
+      4
+     ],
+     [
+      "No mucho, pero la idea de esa luz antigua me parece preciosa.",
+      "Not much, but the idea of that ancient light seems beautiful to me.",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "A mí también. Al final don Aurelio le dio un mapa del cielo. ¿Qué regalo le darías tú a alguien que te cambió la vida?",
+    "en": "Me too. In the end don Aurelio gave him a map of the sky. What gift would you give someone who changed your life?",
+    "r": [
+     [
+      "Le escribiría una carta, porque es algo personal.",
+      "I would write him a letter, because it's something personal.",
+      5
+     ],
+     [
+      "Le daría un libro que me haya gustado mucho.",
+      "I would give him a book that I liked a lot.",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "Qué bonito. Gracias por conversar conmigo. Esta noche voy a mirar hacia arriba. ¡Buenas noches!",
+    "en": "How lovely. Thanks for talking with me. Tonight I'm going to look up. Good night!",
+    "end": true
+   }
+  ]
+ },
+ "b1-05": {
+  "steps": [
+   {
+    "say": "¡Hola! Me llamo Tomás. Leí la historia de Valeria y Nicolás en bicicleta por la costa de Ecuador. ¿Qué piensas de ella?",
+    "en": "Hi! My name is Tomás. I read the story of Valeria and Nicolás on bikes along the Ecuadorian coast. What do you think of it?",
+    "r": [
+     [
+      "Me gustó mucho. Los hermanos se reconcilian al final.",
+      "I liked it a lot. The siblings reconcile in the end.",
+      1
+     ],
+     [
+      "Me pareció triste que estuvieran enojados tres años por una casa.",
+      "I thought it was sad that they were angry for three years over a house.",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "Sí, ninguno quiso dar el primer paso. Tuvieron que hacer el viaje juntos por la condición de su tía. ¿Tú habrías aceptado el viaje?",
+    "en": "Yes, neither wanted to take the first step. They had to make the trip together because of their aunt's condition. Would you have accepted the trip?",
+    "r": [
+     [
+      "Sí, habría aceptado porque me gusta viajar en bicicleta.",
+      "Yes, I would have accepted because I like traveling by bike.",
+      2
+     ],
+     [
+      "No sé. Con tanto rencor, habría sido muy incómodo.",
+      "I don't know. With so much resentment, it would have been very uncomfortable.",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "Es verdad. El tercer día se pinchó la rueda de Valeria y Nicolás llevaba un repuesto extra para ella. ¿Qué te parece ese detalle?",
+    "en": "True. On the third day Valeria's tire went flat and Nicolás had an extra spare for her. What do you think of that detail?",
+    "r": [
+     [
+      "Me parece un gesto de cariño, aunque casi no hablaba.",
+      "I think it's a gesture of affection, even though he hardly spoke.",
+      3
+     ],
+     [
+      "Fue práctico, pero también muestra que él pensaba en ella.",
+      "It was practical, but it also shows he was thinking of her.",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "Exacto. Luego don Walter, el pescador, habló de su hermano. Después Nicolás pidió perdón. ¿Crees que hablar a tiempo es importante?",
+    "en": "Exactly. Then don Walter, the fisherman, talked about his brother. Afterward Nicolás apologized. Do you think speaking up in time is important?",
+    "r": [
+     [
+      "Sí, porque el silencio puede separar a las familias por años.",
+      "Yes, because silence can separate families for years.",
+      4
+     ],
+     [
+      "Sí, pero a veces cuesta atreverse a dar el primer paso.",
+      "Yes, but sometimes it's hard to dare to take the first step.",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "Totalmente. Una pregunta personal: ¿tienes hermanos? ¿Te llevas bien con ellos?",
+    "en": "Totally. A personal question: do you have siblings? Do you get along with them?",
+    "r": [
+     [
+      "Sí, tengo un hermano y nos llevamos muy bien.",
+      "Yes, I have a brother and we get along very well.",
+      5
+     ],
+     [
+      "No tengo hermanos, pero me gustaría tener uno.",
+      "I don't have siblings, but I'd like to have one.",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "Qué bien. Gracias por la charla. Ojalá algún día hagamos una ruta así. ¡Hasta pronto!",
+    "en": "Nice. Thanks for the chat. I hope one day we do a ride like that. See you soon!",
+    "end": true
+   }
+  ]
+ },
+ "b1-06": {
+  "steps": [
+   {
+    "say": "¡Hola! Soy Sofía. Estoy leyendo la historia de Marisol y la foto del desván. ¿La conoces?",
+    "en": "Hi! I'm Sofía. I'm reading the story of Marisol and the photo in the attic. Do you know it?",
+    "r": [
+     [
+      "Sí, es la de la foto de Tomás y la guitarra.",
+      "Yes, it's the one with the photo of Tomás and the guitar.",
+      1
+     ],
+     [
+      "No, cuéntamela, por favor. Me da curiosidad.",
+      "No, tell it to me, please. I'm curious.",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "Marisol ayudaba a vaciar la casa de su abuela y encontró una foto de 1962. Atrás decía: Para Lupe, siempre. ¿Qué habrías hecho tú?",
+    "en": "Marisol was helping empty her grandmother's house and found a photo from 1962. On the back it said: For Lupe, always. What would you have done?",
+    "r": [
+     [
+      "Habría llamado a mi abuela esa misma noche, como Marisol.",
+      "I would have called my grandmother that same night, like Marisol.",
+      2
+     ],
+     [
+      "Habría guardado la foto en secreto, porque era privada.",
+      "I would have kept the photo secret, because it was private.",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "Lupe contó que Tomás fue su primer amor, pero nunca volvió. ¿Qué opinas del orgullo de Lupe? Dejó de preguntar por él.",
+    "en": "Lupe said Tomás was her first love, but he never came back. What do you think of Lupe's pride? She stopped asking about him.",
+    "r": [
+     [
+      "Es normal. Ella estaba triste y pensó que la había olvidado.",
+      "It's normal. She was sad and thought he had forgotten her.",
+      3
+     ],
+     [
+      "Creo que fue un error, porque nunca supo la verdad.",
+      "I think it was a mistake, because she never knew the truth.",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "Marisol sintió un nudo en la garganta y le pidió ayuda a su prima Ximena para buscarlo. ¿Tú habrías hecho lo mismo?",
+    "en": "Marisol felt a lump in her throat and asked her cousin Ximena for help finding him. Would you have done the same?",
+    "r": [
+     [
+      "Sí, porque quiero que mi abuela sea feliz.",
+      "Yes, because I want my grandmother to be happy.",
+      4
+     ],
+     [
+      "No sé. Quizás es mejor no cambiar el pasado.",
+      "I don't know. Maybe it's better not to change the past.",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "Marisol no le dijo nada a Lupe todavía para que no se hiciera ilusiones. ¿Tienes alguna foto antigua con una historia especial?",
+    "en": "Marisol hasn't told Lupe yet so she won't get her hopes up. Do you have an old photo with a special story?",
+    "r": [
+     [
+      "Sí, tengo una foto de mis abuelos cuando eran jóvenes.",
+      "Yes, I have a photo of my grandparents when they were young.",
+      5
+     ],
+     [
+      "No, pero me gustaría buscar fotos en la casa de mi familia.",
+      "No, but I'd like to look for photos in my family's house.",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "Qué lindo. Gracias por conversar conmigo. Ojalá la historia de Lupe tenga un buen final. ¡Hasta luego!",
+    "en": "How lovely. Thanks for talking with me. I hope Lupe's story has a happy ending. See you later!",
+    "end": true
+   }
+  ]
+ },
+ "b1-07": {
+  "steps": [
+   {
+    "say": "¡Hola! Me llamo Tomás. Me reí mucho con la historia de los zapatos que hablaban. ¿La leíste?",
+    "en": "Hi! My name is Tomás. I laughed a lot at the story of the shoes that talked. Did you read it?",
+    "r": [
+     [
+      "Sí, fue muy divertida. Pobre Camilo, qué vergüenza.",
+      "Yes, it was very funny. Poor Camilo, how embarrassing.",
+      1
+     ],
+     [
+      "No, ¿de qué trata? Los zapatos hablan, ¿verdad?",
+      "No, what is it about? The shoes talk, right?",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "Camilo y Daniela querían mostrar sus zapatos inteligentes a unos inversionistas en Bogotá. Pero algo salió mal. ¿Qué habrías hecho tú en su lugar?",
+    "en": "Camilo and Daniela wanted to show their smart shoes to investors in Bogotá. But something went wrong. What would you have done in their place?",
+    "r": [
+     [
+      "Habría hecho una prueba antes de la reunión.",
+      "I would have done a test before the meeting.",
+      2
+     ],
+     [
+      "Habría intentado reírme y seguir con la presentación.",
+      "I would have tried to laugh and keep going with the presentation.",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "Los zapatos reprodujeron las notas de voz de la mamá de Camilo: ¡Ponte la bufanda! ¡Llama a tu abuela! ¿Cómo crees que se sintió él?",
+    "en": "The shoes played the voice notes from Camilo's mom: Put on your scarf! Call your grandmother! How do you think he felt?",
+    "r": [
+     [
+      "Se sintió muy avergonzado, con la cara roja.",
+      "He felt very embarrassed, with a red face.",
+      3
+     ],
+     [
+      "Seguramente estaba nervioso, pero también era un poco gracioso.",
+      "He was surely nervous, but it was also a bit funny.",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "Al final doña Beatriz se rio y dijo que su nieto obedecería a esos zapatos. ¿Crees que la idea es buena?",
+    "en": "In the end doña Beatriz laughed and said her grandson would obey those shoes. Do you think the idea is good?",
+    "r": [
+     [
+      "Sí, porque los recordatorios de un ser querido funcionan mejor.",
+      "Yes, because reminders from a loved one work better.",
+      4
+     ],
+     [
+      "No mucho. Prefiero usar el teléfono para ir por la ciudad.",
+      "Not really. I prefer using my phone to get around the city.",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "Jaja, tiene sentido. Y tú, ¿alguna vez pasaste una vergüenza en una reunión o en clase?",
+    "en": "Haha, makes sense. And you, did you ever have an embarrassing moment in a meeting or in class?",
+    "r": [
+     [
+      "Sí, una vez me equivoqué de nombre delante de todos.",
+      "Yes, once I got someone's name wrong in front of everyone.",
+      5
+     ],
+     [
+      "No me acuerdo, pero seguro me pasará algún día.",
+      "I don't remember, but it will surely happen to me some day.",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "Seguro que sí, a todos nos pasa. Gracias por charlar conmigo. ¡Hasta la próxima!",
+    "en": "Surely, it happens to everyone. Thanks for chatting with me. Until next time!",
+    "end": true
+   }
+  ]
+ },
+ "b1-08": {
+  "steps": [
+   {
+    "say": "¡Hola! Soy Tomás. Terminé de leer la historia de don Aurelio y su última tiza en Valparaíso. ¿La conoces?",
+    "en": "Hi! I'm Tomás. I just finished reading the story of don Aurelio and his last piece of chalk in Valparaíso. Do you know it?",
+    "r": [
+     [
+      "Sí, la leí. Me parece una historia muy emotiva.",
+      "Yes, I read it. I think it's a very moving story.",
+      1
+     ],
+     [
+      "No, pero me interesa. ¿Quién es don Aurelio?",
+      "No, but I'm interested. Who is don Aurelio?",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "Es un profesor de matemáticas que daba su último día de clase después de treinta y ocho años. Quería una despedida sencilla. ¿Tú habrías querido una fiesta?",
+    "en": "He's a math teacher on his last day after thirty-eight years. He wanted a simple farewell. Would you have wanted a party?",
+    "r": [
+     [
+      "Sí, me habría gustado una fiesta con mis amigos.",
+      "Yes, I would have liked a party with my friends.",
+      2
+     ],
+     [
+      "No, yo también prefiero algo tranquilo, sin discursos.",
+      "No, I also prefer something quiet, without speeches.",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "Pero sus alumnos le prepararon una sorpresa: globos y antiguos alumnos que contaron sus historias. ¿Por qué crees que lo quisieron tanto?",
+    "en": "But his students prepared a surprise: balloons and former students who told their stories. Why do you think they loved him so much?",
+    "r": [
+     [
+      "Porque les enseñó a no tener miedo de equivocarse.",
+      "Because he taught them not to be afraid of making mistakes.",
+      3
+     ],
+     [
+      "Porque ayudaba gratis a los alumnos que lo necesitaban.",
+      "Because he helped students who needed it for free.",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "Sí, decía que un error es un paso hacia la respuesta. ¿Estás de acuerdo con esa idea?",
+    "en": "Yes, he said that a mistake is a step toward the answer. Do you agree with that idea?",
+    "r": [
+     [
+      "Sí, porque aprendo más cuando me equivoco.",
+      "Yes, because I learn more when I make mistakes.",
+      4
+     ],
+     [
+      "En parte. A veces los errores tienen consecuencias graves.",
+      "Partly. Sometimes mistakes have serious consequences.",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "Buen punto. Al final Carmen le propuso dar clases los sábados en el cerro. ¿Qué profesor o profesora te cambió la vida a ti?",
+    "en": "Good point. In the end Carmen asked him to teach on Saturdays in the hills. Which teacher changed your life?",
+    "r": [
+     [
+      "Mi profesora de inglés, porque creyó en mí cuando yo dudaba.",
+      "My English teacher, because she believed in me when I doubted.",
+      5
+     ],
+     [
+      "Ninguno en especial, pero aprendí mucho de mis amigos.",
+      "None in particular, but I learned a lot from my friends.",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "Qué bonito. Gracias por conversar conmigo. Ojalá todos tengamos un maestro así. ¡Hasta pronto!",
+    "en": "How nice. Thanks for talking with me. I hope we all have a teacher like that. See you soon!",
+    "end": true
+   }
+  ]
+ },
+ "b1-09": {
+  "steps": [
+   {
+    "say": "¡Hola! Me llamo Sofía. Acabo de leer la historia de la noche sin luz en San José. ¿La leíste tú?",
+    "en": "Hi! My name is Sofía. I just read the story of the night without light in San José. Did you read it?",
+    "r": [
+     [
+      "Sí, me gustó cómo los vecinos se conocieron.",
+      "Yes, I liked how the neighbors got to know each other.",
+      1
+     ],
+     [
+      "No, pero cuéntame. ¿Qué pasó con el apagón?",
+      "No, but tell me. What happened with the blackout?",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "Una tormenta apagó todas las luces del edificio Los Almendros. Los vecinos, que casi no se hablaban, se reunieron en el vestíbulo. ¿Tú qué habrías hecho?",
+    "en": "A storm knocked out all the lights in the Los Almendros building. The neighbors, who barely spoke, gathered in the lobby. What would you have done?",
+    "r": [
+     [
+      "Habría bajado al vestíbulo con una vela para estar con la gente.",
+      "I would have gone down to the lobby with a candle to be with people.",
+      2
+     ],
+     [
+      "Me habría quedado en mi apartamento esperando la luz.",
+      "I would have stayed in my apartment waiting for the light.",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "Valeria ayudó al pequeño Mateo con sombras de animales. Después el señor Gutiérrez, el gruñón, llegó con una olla. ¿Te sorprendió?",
+    "en": "Valeria helped little Mateo with animal shadows. Then Mr. Gutiérrez, the grump, arrived with a pot. Did it surprise you?",
+    "r": [
+     [
+      "Sí, porque parecía antipático, pero tenía buen corazón.",
+      "Yes, because he seemed unfriendly, but he had a good heart.",
+      3
+     ],
+     [
+      "No mucho. Creo que estaba solo y quería compañía.",
+      "Not much. I think he was lonely and wanted company.",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "Sí, su esposa había fallecido y cocinaba demasiado para una sola persona. Doña Inés pidió que no volvieran a ser extraños. ¿Crees que lo lograron?",
+    "en": "Yes, his wife had passed away and he cooked too much for one person. Doña Inés asked them to never be strangers again. Do you think they managed it?",
+    "r": [
+     [
+      "Creo que sí, porque compartieron comida y risas.",
+      "I think so, because they shared food and laughter.",
+      4
+     ],
+     [
+      "Quizás no. Con el tiempo, la gente vuelve a su rutina.",
+      "Maybe not. With time, people go back to their routine.",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "Es posible. Y tú, ¿has vivido un apagón o una tormenta fuerte alguna vez?",
+    "en": "It's possible. And you, have you ever lived through a blackout or a strong storm?",
+    "r": [
+     [
+      "Sí, una vez estuvimos tres horas sin luz y jugamos a las cartas.",
+      "Yes, once we were three hours without power and we played cards.",
+      5
+     ],
+     [
+      "No, pero me gustaría vivirlo con buenos vecinos.",
+      "No, but I'd like to experience it with good neighbors.",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "Qué bien. Gracias por conversar conmigo. Ojalá conozcamos mejor a nuestros vecinos. ¡Hasta pronto!",
+    "en": "Nice. Thanks for talking with me. I hope we get to know our neighbors better. See you soon!",
+    "end": true
+   }
+  ]
+ },
+ "b1-10": {
+  "steps": [
+   {
+    "say": "¡Hola! Soy Tomás. Estoy leyendo la historia de Joaquín y Marta, los amigos por carta. ¿La conoces?",
+    "en": "Hi! I'm Tomás. I'm reading the story of Joaquín and Marta, the pen pals. Do you know it?",
+    "r": [
+     [
+      "Sí, la leí. Es muy bonita y un poco sorprendente.",
+      "Yes, I read it. It's very nice and a bit surprising.",
+      1
+     ],
+     [
+      "No, pero me gusta la idea de escribir cartas a mano.",
+      "No, but I like the idea of writing letters by hand.",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "Durante doce años se escribieron cartas de verdad, entre Montevideo y Granada. Preferían el papel al correo electrónico. ¿Tú qué prefieres?",
+    "en": "For twelve years they wrote real letters between Montevideo and Granada. They preferred paper to email. Which do you prefer?",
+    "r": [
+     [
+      "Prefiero el correo electrónico porque es rápido y práctico.",
+      "I prefer email because it's fast and practical.",
+      2
+     ],
+     [
+      "Prefiero las cartas, porque esperar le da más valor.",
+      "I prefer letters, because waiting gives more value.",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "Un día Marta llegó al taller de Joaquín sin avisar. Él estaba triste por su cumpleaños. ¿Cómo crees que se sintió al verla?",
+    "en": "One day Marta arrived at Joaquín's shop without warning. He was sad about his birthday. How do you think he felt on seeing her?",
+    "r": [
+     [
+      "Se sintió muy feliz, pero también muy nervioso.",
+      "He felt very happy, but also very nervous.",
+      3
+     ],
+     [
+      "Seguramente se quedó sin palabras por la sorpresa.",
+      "He was surely left speechless from the surprise.",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "Marta temía que no tuvieran nada que decirse cara a cara. ¿Tú habrías viajado sin avisar, como ella?",
+    "en": "Marta feared they would have nothing to say to each other face to face. Would you have traveled without warning, like her?",
+    "r": [
+     [
+      "Sí, porque una sorpresa así es muy especial.",
+      "Yes, because a surprise like that is very special.",
+      4
+     ],
+     [
+      "No, habría avisado antes, porque él podía no estar en casa.",
+      "No, I would have told him first, because he might not be home.",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "Es verdad, fue arriesgado. Pero salió bien. ¿Tienes algún amigo que viva lejos y quieras visitar?",
+    "en": "True, it was risky. But it turned out well. Do you have a friend who lives far away that you'd like to visit?",
+    "r": [
+     [
+      "Sí, tengo una amiga en otro país y la extraño.",
+      "Yes, I have a friend in another country and I miss her.",
+      5
+     ],
+     [
+      "No, pero me gustaría conocer a alguien por intercambio.",
+      "No, but I'd like to meet someone through an exchange.",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "Qué bonito. Gracias por charlar conmigo. Ojalá pronto te llegue una carta. ¡Hasta luego!",
+    "en": "How lovely. Thanks for chatting with me. I hope a letter comes to you soon. See you later!",
+    "end": true
+   }
+  ]
+ }
+}

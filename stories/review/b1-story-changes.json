@@ -1,0 +1,1305 @@
+[
+ {
+  "id": "b1-02",
+  "field": "lines.es",
+  "index": 2,
+  "old": "La primera tarde fue un desastre. Los dos estaban tan nerviosos que pasaron diez minutos hablando del tiempo, y Ben le preguntó si el mate era una sopa. Ana se rió tanto que casi derramó el termo.",
+  "new": "La primera tarde fue un desastre. Los dos estaban tan nerviosos que pasaron diez minutos hablando del tiempo, y Ben le preguntó si el mate era una sopa. Ana se rio tanto que casi derramó el termo.",
+  "reason": "Orthography: rio (preterite of reír) is monosyllabic and has had no written accent since the 2010 Ortografía."
+ },
+ {
+  "id": "b1-02",
+  "field": "lines.es",
+  "index": 13,
+  "old": "—Y yo te enseñaré el té con leche —le dijo Ben, riéndose—. Aunque te advierto que no es tan bueno como el mate. Al final, el idioma fue sólo el principio de su amistad.",
+  "new": "—Y yo te enseñaré el té con leche —le dijo Ben, riéndose—. Aunque te advierto que no es tan bueno como el mate. Al final, el idioma fue solo el principio de su amistad.",
+  "reason": "Orthography: the RAE (2010) no longer accents the adverb solo, and the level mixed sólo (b1-02/04/05) with solo (b1-08/09/10). Normalised to solo."
+ },
+ {
+  "id": "b1-04",
+  "field": "lines.es",
+  "index": 5,
+  "old": "Marcos dudó. Según el reglamento, las ventanas debían permanecer cerradas, pero esa noche el cielo estaba limpio y la habitación olía a desinfectante. Miró el <b>pasillo</b> vacío, se acercó a la ventana y la abrió sólo unos centímetros.",
+  "new": "Marcos dudó. Según el reglamento, las ventanas debían permanecer cerradas, pero esa noche el cielo estaba limpio y la habitación olía a desinfectante. Miró el <b>pasillo</b> vacío, se acercó a la ventana y la abrió solo unos centímetros.",
+  "reason": "Orthography: the RAE (2010) no longer accents the adverb solo, and the level mixed sólo (b1-02/04/05) with solo (b1-08/09/10). Normalised to solo."
+ },
+ {
+  "id": "b1-04",
+  "field": "lines.es",
+  "index": 12,
+  "old": "—No sé qué decir —murmuró Marcos—. Yo sólo hice mi trabajo.",
+  "new": "—No sé qué decir —murmuró Marcos—. Yo solo hice mi trabajo.",
+  "reason": "Orthography: the RAE (2010) no longer accents the adverb solo, and the level mixed sólo (b1-02/04/05) with solo (b1-08/09/10). Normalised to solo."
+ },
+ {
+  "id": "b1-05",
+  "field": "lines.es",
+  "index": 9,
+  "old": "—Si pudiera hablar con él una hora más —dijo don Walter mirando el mar—, no le hablaría de nada importante. Sólo le diría que me alegro de haber crecido a su lado. Lo demás es una pérdida de tiempo.",
+  "new": "—Si pudiera hablar con él una hora más —dijo don Walter mirando el mar—, no le hablaría de nada importante. Solo le diría que me alegro de haber crecido a su lado. Lo demás es una pérdida de tiempo.",
+  "reason": "Orthography: the RAE (2010) no longer accents the adverb solo, and the level mixed sólo (b1-02/04/05) with solo (b1-08/09/10). Normalised to solo."
+ },
+ {
+  "id": "b1-06",
+  "field": "lines.es",
+  "index": 15,
+  "old": "Lupe se rió entre lágrimas. —Dile que <b>por fin</b> puede <b>afinar</b> la guitarra —contestó—. Y tú, mija, no vendas la casa todavía. Aquí quedan demasiados secretos por descubrir.",
+  "new": "Lupe se rio entre lágrimas. —Dile que <b>por fin</b> puede <b>afinar</b> la guitarra —contestó—. Y tú, mija, no vendas la casa todavía. Aquí quedan demasiados secretos por descubrir.",
+  "reason": "Orthography: rio (preterite of reír) is monosyllabic and has had no written accent since the 2010 Ortografía."
+ },
+ {
+  "id": "b1-07",
+  "field": "lines.es",
+  "index": 11,
+  "old": "Entonces doña Beatriz dejó la pluma sobre la mesa y, para sorpresa de todos, se rió hasta que le salieron lágrimas. —Mi nieto nunca me contesta el teléfono —dijo—, pero apuesto a que obedecería a unos zapatos con la voz de su mamá.",
+  "new": "Entonces doña Beatriz dejó la pluma sobre la mesa y, para sorpresa de todos, se rio hasta que le salieron lágrimas. —Mi nieto nunca me contesta el teléfono —dijo—, pero apuesto a que obedecería a unos zapatos con la voz de su mamá.",
+  "reason": "Orthography: rio (preterite of reír) is monosyllabic and has had no written accent since the 2010 Ortografía."
+ },
+ {
+  "id": "b1-10",
+  "field": "lines.es",
+  "index": 11,
+  "old": "Cerraron el taller temprano y caminaron por la rambla, junto a un río tan ancho que parecía el mar. Marta le enseñó una foto <b>desgastada</b> que llevaba en la cartera: Joaquín a los doce años, con un uniforme demasiado grande. Él se rió y dijo que ella nunca le había contado lo alta que era. «En las cartas no se mide a nadie», respondió ella.",
+  "new": "Cerraron el taller temprano y caminaron por la rambla, junto a un río tan ancho que parecía el mar. Marta le enseñó una foto <b>desgastada</b> que llevaba en la cartera: Joaquín a los doce años, con un uniforme demasiado grande. Él se rio y dijo que ella nunca le había contado lo alta que era. «En las cartas no se mide a nadie», respondió ella.",
+  "reason": "Orthography: rio (preterite of reír) is monosyllabic and has had no written accent since the 2010 Ortografía."
+ },
+ {
+  "id": "b1-01",
+  "field": "lines.en",
+  "index": 0,
+  "old": "It was a cold November morning in Madrid. Inés, a retired teacher, was walking through Retiro Park, as she did every day since she had started living alone. She loved the silence of the trees and the smell of wet earth.",
+  "new": "It was a cold November morning in Madrid. Inés, a retired teacher, was walking through Retiro Park, as she had done every day since she started living alone. She loved the silence of the trees and the smell of wet earth.",
+  "reason": "English tense: \"every day since…\" needs the past perfect."
+ },
+ {
+  "id": "b1-01",
+  "field": "lines.es",
+  "index": 2,
+  "old": "Se sentó y la abrió con cuidado. Dentro había treinta euros, una fotografía antigua de una mujer joven y un <b>carnet</b> chileno a nombre de Tomás Aguirre. No había ningún teléfono, pero encontró un papel doblado con la <b>dirección</b> de un hostal de Lavapiés.",
+  "new": "Se sentó y la abrió con cuidado. Dentro había treinta euros, una fotografía antigua de una mujer joven y un <b>carnet</b> chileno a nombre de Tomás Aguirre. No había ningún teléfono, pero encontró un papel doblado con la <b>dirección</b> de un <b>hostal</b> de Lavapiés.",
+  "reason": "\"el hostal\" is in the vocab list but was never bolded."
+ },
+ {
+  "id": "b1-01",
+  "field": "lines.es",
+  "index": 13,
+  "old": "—No, hijo, no hace falta —contestó Inés sonriendo—. Pero acepto un chocolate con churros, si me quieres <b>acompañar</b>.",
+  "new": "—No, hijo, <b>no hace falta</b> —contestó Inés sonriendo—. Pero acepto un chocolate con churros, si me quieres <b>acompañar</b>.",
+  "reason": "\"no hace falta\" is in the vocab list but was not bolded."
+ },
+ {
+  "id": "b1-01",
+  "field": "lines.es",
+  "index": 14,
+  "old": "Se sentaron en una cafetería cercana y hablaron durante dos horas. Inés le enseñó el barrio donde había vivido su abuela, porque conocía cada calle. <b>Mientras tanto</b>, Tomás apuntaba los nombres en su cuaderno.",
+  "new": "Se sentaron en una cafetería cercana y hablaron durante dos horas. Después, Inés le enseñó el barrio donde había vivido su abuela, porque conocía cada calle. <b>Mientras tanto</b>, Tomás apuntaba los nombres en su cuaderno.",
+  "reason": "Logic: they were sitting in a café, so showing him the neighborhood needs a time shift. \"Después\" makes the walk explicit and matches the grammar-file translation (\"showed him\")."
+ },
+ {
+  "id": "b1-01",
+  "field": "lines.en",
+  "index": 14,
+  "old": "They sat down in a nearby café and talked for two hours. Inés told him about the neighborhood where his grandmother had lived, because she knew every street. Meanwhile, Tomás wrote the names down in his notebook.",
+  "new": "They sat down in a nearby café and talked for two hours. Afterwards, Inés showed him the neighborhood where his grandmother had lived, because she knew every street. Meanwhile, Tomás wrote the names down in his notebook.",
+  "reason": "Mistranslation: enseñar el barrio = show someone the neighborhood (same fix as the grammar/B1 report)."
+ },
+ {
+  "id": "b1-01",
+  "field": "vocab",
+  "index": 10,
+  "old": [
+   "temblar",
+   "to tremble"
+  ],
+  "new": [
+   "tembloroso/a",
+   "trembling, shaky"
+  ],
+  "reason": "The bolded form is the adjective temblorosas, so gloss that word."
+ },
+ {
+  "id": "b1-01",
+  "field": "quiz",
+  "index": 0,
+  "old": {
+   "q": "¿Dónde encontró Inés la cartera?",
+   "options": [
+    "En el metro",
+    "Debajo de un banco del parque",
+    "En una cafetería",
+    "En la comisaría"
+   ],
+   "answer": 1
+  },
+  "new": {
+   "q": "Cuando Inés dice «No, hijo, no hace falta», quiere decir que…",
+   "options": [
+    "no necesita ninguna recompensa",
+    "no tiene hambre",
+    "no quiere hablar más con Tomás",
+    "Tomás es su hijo de verdad"
+   ],
+   "answer": 0
+  },
+  "reason": "The quiz had no vocabulary-in-context item. Replaced the easiest recall question (where the wallet was) with one on \"no hace falta\" and affectionate \"hijo\". A distractor tests literal reading."
+ },
+ {
+  "id": "b1-01",
+  "field": "prompt",
+  "old": "Have you ever lost something important, or found something that belonged to someone else? Describe in Spanish what happened and how you felt (4-6 sentences).",
+  "new": "Have you ever lost something important, or found something that belonged to someone else? In Spanish (4-6 sentences), say what happened and how you felt. Use the imperfect for the background and the preterite for the events. Starter: «Era un día de… y yo estaba en… De repente vi/perdí…»",
+  "reason": "The prompt had no model, starter or grammar cue. Added a starter and a cue for preterite vs. imperfect."
+ },
+ {
+  "id": "b1-02",
+  "field": "lines.es",
+  "index": 3,
+  "old": "—No es una sopa —le explicó—. Es una bebida que se comparte. Si alguien te ofrece mate, significa que te considera de confianza.",
+  "new": "—No es una sopa —le explicó—. Es una bebida que se comparte. Si alguien te ofrece mate, significa que te considera de <b>confianza</b>.",
+  "reason": "\"la confianza\" is in the vocab list but was not bolded."
+ },
+ {
+  "id": "b1-02",
+  "field": "lines.en",
+  "index": 3,
+  "old": "“It isn't a soup,” she explained. “It's a drink you share. If someone offers you mate, it means they consider you a friend.”",
+  "new": "“It isn't a soup,” she explained. “It's a drink you share. If someone offers you mate, it means they see you as someone they trust.”",
+  "reason": "Translation: de confianza = trusted, close. \"A friend\" also gave away Ben's joke in the next line."
+ },
+ {
+  "id": "b1-02",
+  "field": "lines.es",
+  "index": 5,
+  "old": "Con el tiempo, los jueves se convirtieron en la parte favorita de su semana. Una hora hablaban en español y la otra en inglés, y se <b>corregían</b> sin miedo. Ben aprendió a decir «¡qué bárbaro!» en el momento exacto, y Ana descubrió que la palabra <i>awkward</i> describía perfectamente sus primeras citas.",
+  "new": "Con el tiempo, los jueves se convirtieron en la parte favorita de su semana. Una hora hablaban en español y la otra en inglés, y se <b>corregían</b> sin miedo. Ben aprendió a decir «¡qué bárbaro!» en el momento exacto, y Ana descubrió que la palabra <i>awkward</i> describía perfectamente sus primeros encuentros.",
+  "reason": "\"Citas\" reads as romantic dates, which these meetings are explicitly not. \"Encuentros\" is accurate."
+ },
+ {
+  "id": "b1-02",
+  "field": "lines.en",
+  "index": 5,
+  "old": "Over time, Thursdays became the favorite part of their week. For one hour they spoke Spanish and for the next English, and they corrected each other without fear. Ben learned to say “¡qué bárbaro!” at exactly the right moment, and Ana discovered that the word awkward described her first dates perfectly.",
+  "new": "Over time, Thursdays became the favorite part of their week. For one hour they spoke Spanish and for the next English, and they corrected each other without fear. Ben learned to say “¡qué bárbaro!” at exactly the right moment, and Ana discovered that the word awkward described their first meetings perfectly.",
+  "reason": "Follows the Spanish fix. \"Her first dates\" was misleading."
+ },
+ {
+  "id": "b1-02",
+  "field": "lines.en",
+  "index": 6,
+  "old": "One Thursday in October, Ana arrived at the café looking worried. Her boss had asked her to present a report in English to some clients from New York, and she did not know whether she would be able to do it.",
+  "new": "One Thursday in October, Ana arrived at the café looking worried. Her boss had suggested that she present a report in English to some clients from New York, and she did not know whether she would be able to do it.",
+  "reason": "Translation: proponer = suggest (same fix as the grammar/B1 report)."
+ },
+ {
+  "id": "b1-02",
+  "field": "lines.es",
+  "index": 8,
+  "old": "—Lo vas a hacer muy bien —dijo él—. Aquí hablas conmigo sin problemas. Si quieres, ensayamos todas las semanas y yo seré tu público. Lo único que pido es que después me ayudes con mi pronunciación de la «rr».",
+  "new": "—Lo harás muy bien —dijo él—. Aquí hablas conmigo sin problemas. Si quieres, ensayamos todas las semanas y yo seré tu público. Lo único que pido es que después me ayudes con mi pronunciación de la «rr».",
+  "reason": "The target grammar is the future tense, but the story had only two simple-future forms (seré, enseñaré). This adds a natural third."
+ },
+ {
+  "id": "b1-02",
+  "field": "lines.en",
+  "index": 8,
+  "old": "“You're going to do it very well,” he said. “Here you talk to me without any trouble. Look, if you like, we'll rehearse every week and I'll be your audience. All I ask is that afterwards you help me with my pronunciation of the Spanish rr.”",
+  "new": "“You'll do it really well,” he said. “Here you talk to me without any trouble. If you like, we'll rehearse every week and I'll be your audience. All I ask is that afterwards you help me with my pronunciation of the Spanish rr.”",
+  "reason": "Matches the Spanish change. Also removed \"Look,\", which is not in the Spanish."
+ },
+ {
+  "id": "b1-02",
+  "field": "lines.es",
+  "index": 13,
+  "old": "—Y yo te enseñaré el té con leche —le dijo Ben, riéndose—. Aunque te advierto que no es tan bueno como el mate. Al final, el idioma fue solo el principio de su amistad.",
+  "new": "—Y yo te enseñaré el té con leche —le dijo Ben, riéndose—. Aunque te advierto que no te gustará tanto como el mate. Al final, el idioma fue solo el principio de su amistad.",
+  "reason": "Adds a fourth natural future (gustará) for the target structure."
+ },
+ {
+  "id": "b1-02",
+  "field": "lines.en",
+  "index": 13,
+  "old": "“And I'll show you tea with milk,” Ben told her, laughing. “Although I warn you it isn't as good as mate.” In the end, language was only the beginning of their friendship.",
+  "new": "“And I'll show you tea with milk,” Ben told her, laughing. “Although I warn you, you won't like it as much as mate.” In the end, language was only the beginning of their friendship.",
+  "reason": "Matches the Spanish change."
+ },
+ {
+  "id": "b1-02",
+  "field": "vocab",
+  "index": 2,
+  "old": [
+   "dar vergüenza",
+   "to be embarrassing"
+  ],
+  "new": [
+   "dar vergüenza",
+   "to make (someone) embarrassed"
+  ],
+  "reason": "Gloss fix from the B1 vocab review: \"le daba vergüenza\" = he felt embarrassed, not \"it was embarrassing\"."
+ },
+ {
+  "id": "b1-02",
+  "field": "vocab",
+  "index": 18,
+  "old": null,
+  "new": [
+   "de pronto",
+   "suddenly"
+  ],
+  "reason": "Bolded in line 10 but missing from the list."
+ },
+ {
+  "id": "b1-02",
+  "field": "vocab",
+  "index": 19,
+  "old": null,
+  "new": [
+   "¡qué bárbaro!",
+   "wow! / awesome! (Río de la Plata)"
+  ],
+  "reason": "Regionalism used in line 5 without a gloss."
+ },
+ {
+  "id": "b1-02",
+  "field": "vocab",
+  "index": 20,
+  "old": null,
+  "new": [
+   "el mate",
+   "mate (herbal tea shared from a gourd)"
+  ],
+  "reason": "Central cultural word that was never glossed."
+ },
+ {
+  "id": "b1-02",
+  "field": "quiz",
+  "index": 0,
+  "old": {
+   "q": "¿Por qué escribió Ana el anuncio de intercambio?",
+   "options": [
+    "Quería practicar inglés porque se ponía nerviosa al hablarlo",
+    "Quería enseñar español",
+    "Buscaba un nuevo trabajo",
+    "Quería conocer a un ingeniero"
+   ],
+   "answer": 0
+  },
+  "new": {
+   "q": "«Se le trababa la lengua» significa que, al hablar con extranjeros, Ana…",
+   "options": [
+    "se ponía nerviosa y no le salían las palabras",
+    "hablaba demasiado rápido",
+    "no sabía nada de inglés",
+    "le dolía la boca"
+   ],
+   "answer": 0
+  },
+  "reason": "Replaced a question that overlapped with Q3 by a vocabulary-in-context item on the story's key idiom. The distractor \"no sabía nada de inglés\" is refuted by \"Su inglés era correcto\"."
+ },
+ {
+  "id": "b1-02",
+  "field": "quiz",
+  "index": 1,
+  "old": {
+   "q": "¿Qué quiso decir Ana con el mate?",
+   "options": [
+    "Que es una sopa típica",
+    "Que Ben debía pagar",
+    "Que se comparte con personas de confianza",
+    "Que no se puede beber por la tarde"
+   ],
+   "answer": 2
+  },
+  "new": {
+   "q": "¿Qué le explicó Ana a Ben sobre el mate?",
+   "options": [
+    "Que es una sopa típica",
+    "Que debía pagarlo él",
+    "Que se comparte con personas de confianza",
+    "Que no se puede beber por la tarde"
+   ],
+   "answer": 2
+  },
+  "reason": "The stem \"¿Qué quiso decir Ana con el mate?\" was awkward Spanish."
+ },
+ {
+  "id": "b1-02",
+  "field": "prompt",
+  "old": "Would you like to do a language exchange? Describe in Spanish who your ideal partner would be, what you would talk about, and what you could teach them.",
+  "new": "You are starting a language exchange next week. In Spanish (4-6 sentences), say who your partner will be, where you will meet and what you will teach each other. Use the future tense. Starter: «El jueves conoceré a mi compañero de intercambio. Nos veremos en…»",
+  "reason": "The old prompt elicited the conditional (\"would be\"), but the story's target is the future. Added a starter."
+ },
+ {
+  "id": "b1-02",
+  "field": "concepts",
+  "old": {
+   "grammar": "Future tense (podré, enseñaré, iré); preterite/imperfect contrast; pluperfect (había propuesto); aunque + indicative; reflexive verbs (acostumbrarse, acordarse).",
+   "vocabulary": "Language learning, work and café words, and idioms such as trabarse la lengua and dar vergüenza.",
+   "skills": "Reading dialogue with natural turn-taking; making inferences about friendship and motivation."
+  },
+  "new": {
+   "grammar": "Future tense (seré, enseñaré, harás, gustará) alongside ir a + infinitive (voy a poder); preterite/imperfect contrast; pluperfect (había propuesto, se había mudado); aunque + indicative; reflexive verbs (acostumbrarse, acordarse, equivocarse).",
+   "vocabulary": "Language learning, work and café words, and idioms such as trabarse la lengua and dar vergüenza.",
+   "skills": "Reading dialogue with natural turn-taking; making inferences about friendship and motivation."
+  },
+  "reason": "The concepts listed podré and iré, which do not occur in the text."
+ },
+ {
+  "id": "b1-03",
+  "field": "lines.es",
+  "index": 4,
+  "old": "—La pared de atrás se ha <b>agrietado</b>, doña Remedios. Podemos repararla, pero necesitaremos al menos tres semanas y mucho dinero. Si fuera usted, pensaría en comprar un horno eléctrico.",
+  "new": "—La pared de atrás se ha <b>agrietado</b>, doña Remedios. Podemos repararla, pero necesitaremos al menos tres semanas y mucho dinero. Si yo fuera usted, pensaría en comprar un horno eléctrico.",
+  "reason": "Without the subject, \"si fuera usted\" is ambiguous for learners (\"if it were you\"). The model formula is \"si yo fuera usted\"."
+ },
+ {
+  "id": "b1-03",
+  "field": "lines.en",
+  "index": 6,
+  "old": "That night, Remedios couldn't sleep. She wondered whether the time had come to close for good. She had fought so hard to keep the business that giving up seemed impossible, but she also knew she couldn't make bread without fire. She thought about her husband, who had built that oven and she cried.",
+  "new": "That night, Remedios couldn't sleep. She wondered whether the time had come to close for good. She had fought so hard to keep the business that giving up seemed impossible, but she also knew she couldn't make bread without fire. She thought about her late husband, who had built that oven, and she cried.",
+  "reason": "The translation left out \"difunto\" (late) and a comma."
+ },
+ {
+  "id": "b1-03",
+  "field": "lines.es",
+  "index": 8,
+  "old": "—Mi abuela necesita ayuda —les dijo—. Si cada uno de ustedes nos prestara su horno unas horas, podríamos entregar todos los pedidos a tiempo.",
+  "new": "—Mi abuela necesita ayuda —les dijo—. Si cada uno de ustedes nos prestara su horno unas horas, podríamos entregar todos los <b>pedidos</b> a tiempo.",
+  "reason": "The story alternates \"pedido\" with \"encargo\". Bolded and glossed so the synonym is clear."
+ },
+ {
+  "id": "b1-03",
+  "field": "lines.es",
+  "index": 12,
+  "old": "—Es para el horno nuevo —explicó la señora Lupe—. Lo hemos hablado entre todos. Usted nos ha dado pan durante cuarenta años; ahora nos toca a nosotros.",
+  "new": "—Es para arreglar el horno —explicó la señora Lupe—. Lo hemos hablado entre todos. Usted nos ha dado pan durante cuarenta años; ahora nos toca a nosotros.",
+  "reason": "Consistency: the last line says the oven was \"reparado por todos\", not replaced."
+ },
+ {
+  "id": "b1-03",
+  "field": "lines.en",
+  "index": 12,
+  "old": "“It's for the new oven,” explained Señora Lupe. “We've talked it over among ourselves. You've given us bread for forty years; now it's our turn.”",
+  "new": "“It's to fix the oven,” explained Señora Lupe. “We've talked it over among ourselves. You've given us bread for forty years; now it's our turn.”",
+  "reason": "Matches the Spanish change."
+ },
+ {
+  "id": "b1-03",
+  "field": "lines.es",
+  "index": 13,
+  "old": "Remedios no encontró palabras. Abrazó a su nieto y, mirando la plaza llena de gente, comprendió que su verdadero <b>tesoro</b> no era el horno, sino el barrio que la rodeaba. Al final, el techo de La Espiga volvió a llenarse de humo, esta vez con un horno reparado por todos.",
+  "new": "Remedios no encontró palabras. Abrazó a su nieto y, mirando la plaza llena de gente, comprendió que su verdadero <b>tesoro</b> no era el horno, sino el barrio que la rodeaba. Al final, la chimenea de La Espiga volvió a echar humo, esta vez con un horno reparado por todos.",
+  "reason": "\"El techo se llenó de humo\" suggests a fire. The intended image is smoke from the chimney."
+ },
+ {
+  "id": "b1-03",
+  "field": "lines.en",
+  "index": 13,
+  "old": "Remedios couldn't find the words. She hugged her grandson and, looking at the square full of people, understood that her real treasure was not the oven but the neighborhood around her. In the end, the roof of La Espiga filled with smoke again, this time from an oven repaired by everyone.",
+  "new": "Remedios couldn't find the words. She hugged her grandson and, looking at the square full of people, understood that her real treasure was not the oven but the neighborhood around her. In the end, smoke rose from La Espiga's chimney again, this time from an oven repaired by everyone.",
+  "reason": "Matches the Spanish change."
+ },
+ {
+  "id": "b1-03",
+  "field": "vocab",
+  "index": 19,
+  "old": null,
+  "new": [
+   "el pedido",
+   "order (from a customer)"
+  ],
+  "reason": "Newly bolded synonym of encargo."
+ },
+ {
+  "id": "b1-03",
+  "field": "vocab",
+  "index": 20,
+  "old": null,
+  "new": [
+   "sentirse",
+   "to feel"
+  ],
+  "reason": "Bolded in line 10 (se sentía) but missing from the list."
+ },
+ {
+  "id": "b1-03",
+  "field": "quiz",
+  "index": 1,
+  "old": {
+   "q": "¿Qué dijo el técnico sobre el horno?",
+   "options": [
+    "Que se podía arreglar en un día",
+    "Que había que cambiarlo por uno nuevo inmediatamente y gratis",
+    "Que la reparación tardaría tres semanas y costaría mucho",
+    "Que no tenía problema alguno"
+   ],
+   "answer": 2
+  },
+  "new": {
+   "q": "Cuando la señora Lupe dice «ahora nos toca a nosotros», quiere decir que…",
+   "options": [
+    "ahora los vecinos quieren comprar la panadería",
+    "ahora es el turno de los vecinos de ayudar a Remedios",
+    "ahora los vecinos van a tocar el horno",
+    "ahora les toca pagar el pan más caro"
+   ],
+   "answer": 1
+  },
+  "reason": "The technician-detail question had a giveaway distractor (\"…inmediatamente y gratis\"). Replaced it with a vocabulary-in-context/inference item on \"tocar a alguien\". Q3 still covers the technician's advice."
+ },
+ {
+  "id": "b1-03",
+  "field": "prompt",
+  "old": "Think of a small local business you like (or would like to save). In Spanish, describe what it sells and how the community could help it in difficult times.",
+  "new": "Think of a small local business you like. In Spanish (4-6 sentences), imagine it is in trouble and say what you and your neighbours would do. Use si + imperfect subjunctive and the conditional. Starter: «Si la panadería de mi barrio tuviera problemas, yo…»",
+  "reason": "There was no starter, and the prompt did not cue the target hypothetical structure."
+ },
+ {
+  "id": "b1-03",
+  "field": "concepts",
+  "old": {
+   "grammar": "Conditional for suggestions and polite requests (podríamos, pensaría); imperfect subjunctive after si in hypotheticals (si fuera usted, si nos prestara); pluperfect (había construido); relative clauses with que and quien.",
+   "vocabulary": "Baking, neighborhood and community words; Day of the Dead tradition; connectors such as sin embargo, mientras tanto, aunque, al final.",
+   "skills": "Following cause and effect through a problem-and-solution plot; inferring characters' feelings."
+  },
+  "new": {
+   "grammar": "Conditional for advice and polite proposals (pensaría, podríamos); si + imperfect subjunctive in hypotheticals (si yo fuera usted, si cada uno nos prestara); present perfect for recent events with present relevance (se ha agrietado, me han quitado, lo hemos hablado); pluperfect (había construido, había hecho); relative clauses with que.",
+   "vocabulary": "Baking, neighborhood and community words; Day of the Dead tradition; connectors such as sin embargo, mientras tanto, aunque, al final.",
+   "skills": "Following cause and effect through a problem-and-solution plot; inferring characters' feelings."
+  },
+  "reason": "The concepts named \"quien\", which does not occur, and left out the four present-perfect examples."
+ },
+ {
+  "id": "b1-04",
+  "field": "lines.es",
+  "index": 0,
+  "old": "Marcos llevaba tres años trabajando como <b>enfermero</b> en el <b>turno</b> de noche de un hospital de Santiago de Chile. Le gustaba su trabajo, aunque a veces sentía que el mundo seguía adelante sin él mientras la ciudad dormía. Mientras sus amigos salían los sábados, él revisaba <b>suero</b> bajo una luz blanca que nunca se apagaba.",
+  "new": "Marcos llevaba tres años trabajando como <b>enfermero</b> en el <b>turno</b> de noche de un hospital de Santiago de Chile. Le gustaba su trabajo, aunque a veces sentía que el mundo seguía adelante sin él mientras la ciudad dormía. Mientras sus amigos salían los sábados, él revisaba <b>sueros</b> bajo una luz blanca que nunca se apagaba.",
+  "reason": "\"Revisar suero\" with no article or plural is unnatural. \"Revisaba sueros\" = checked IV drips."
+ },
+ {
+  "id": "b1-04",
+  "field": "vocab",
+  "index": 2,
+  "old": [
+   "el suero",
+   "IV drip"
+  ],
+  "new": [
+   "el suero",
+   "IV drip (plural: los sueros)"
+  ],
+  "reason": "Follows the plural in the text."
+ },
+ {
+  "id": "b1-04",
+  "field": "vocab",
+  "index": 17,
+  "old": null,
+  "new": [
+   "preocupado/a",
+   "worried"
+  ],
+  "reason": "Bolded in line 2 but missing from the list."
+ },
+ {
+  "id": "b1-04",
+  "field": "vocab",
+  "index": 18,
+  "old": null,
+  "new": [
+   "tocar",
+   "to touch"
+  ],
+  "reason": "Bolded in line 6 but missing from the list."
+ },
+ {
+  "id": "b1-04",
+  "field": "prompt",
+  "old": "Imagine you meet a stranger who teaches you something unexpected at an unusual hour. In Spanish, describe who they are, what they teach you, and how you would feel afterwards (conditional is welcome).",
+  "new": "Imagine you meet a stranger who teaches you something unexpected at an unusual hour. In Spanish (4-6 sentences), say who they are, what they teach you and how you would feel afterwards. Starter: «Si una noche conociera a…, le preguntaría… y me enseñaría…»",
+  "reason": "Added a starter that models si + imperfect subjunctive + conditional, the story's key structure."
+ },
+ {
+  "id": "b1-05",
+  "field": "lines.es",
+  "index": 0,
+  "old": "Valeria y Nicolás Paredes eran hermanos, pero durante los últimos tres años casi no habían hablado. Valeria se había <b>enfadado</b> con él por una tontería, la venta de la casa de sus padres, y ninguno de los dos había querido <b>dar el primer paso</b>. <b>Por eso</b>, cuando su tía Carmen les regaló unas bicicletas con la condición de que hicieran juntos un viaje, los dos aceptaron sin entusiasmo.",
+  "new": "Valeria y Nicolás Paredes eran hermanos, pero durante los últimos tres años casi no habían hablado. Valeria se había <b>enojado</b> con él por la venta de la casa de sus padres, y ninguno de los dos había querido <b>dar el primer paso</b>. <b>Por eso</b>, cuando su tía Carmen les regaló unas bicicletas con la condición de que hicieran juntos un viaje, los dos aceptaron sin entusiasmo.",
+  "reason": "Regional consistency: Ecuadorian characters say enojarse, not peninsular enfadarse. Also removed \"por una tontería\", because calling the sale of the parents' house a trifle contradicts the serious apology in lines 11-12."
+ },
+ {
+  "id": "b1-05",
+  "field": "lines.en",
+  "index": 0,
+  "old": "Valeria and Nicolás Paredes were siblings, but for the last three years they had hardly spoken. Valeria had gotten angry with him over something silly, the sale of their parents' house, and neither of them had wanted to take the first step. So when their aunt Carmen gave them two bicycles on the condition that they take a trip together, both accepted without enthusiasm.",
+  "new": "Valeria and Nicolás Paredes were siblings, but for the last three years they had hardly spoken. Valeria had gotten angry with him over the sale of their parents' house, and neither of them had wanted to take the first step. So when their aunt Carmen gave them two bicycles on the condition that they take a trip together, both accepted without enthusiasm.",
+  "reason": "Matches the Spanish change."
+ },
+ {
+  "id": "b1-05",
+  "field": "lines.es",
+  "index": 7,
+  "old": "Valeria lo miró sin saber qué decir. Mientras él cambiaba la cámara con manos expertas, ella <b>se dio cuenta</b> de algo que había olvidado durante años: su hermano, que parecía tan distante, siempre había pensado en ella. Quizá ella había juzgado su silencio demasiado rápido.",
+  "new": "Valeria lo miró sin saber qué decir. Mientras él cambiaba la <b>cámara</b> con manos expertas, ella <b>se dio cuenta</b> de algo que había olvidado durante años: su hermano, que parecía tan distante, siempre había pensado en ella. Quizá ella había juzgado su silencio demasiado rápido.",
+  "reason": "\"Cámara\" (inner tube) is a false friend for English speakers, so it is now bolded and glossed."
+ },
+ {
+  "id": "b1-05",
+  "field": "lines.es",
+  "index": 13,
+  "old": "Esa noche durmieron en la misma cabaña y hablaron hasta la madrugada, sobre sus padres, sobre los veranos de su infancia y sobre las cosas que cada uno había <b>echado de menos</b> sin <b>atreverse</b> a decirlo.",
+  "new": "Esa noche durmieron en la misma cabaña y hablaron hasta la madrugada, sobre sus padres, sobre los veranos de su infancia y sobre las cosas que cada uno había <b>extrañado</b> sin <b>atreverse</b> a decirlo.",
+  "reason": "Regional consistency: extrañar is the Latin American (Ecuadorian) verb. Echar de menos is peninsular."
+ },
+ {
+  "id": "b1-05",
+  "field": "lines.es",
+  "index": 17,
+  "old": "Ella sonrió. <b>Aunque</b> no sabía todavía adónde irían, estaba segura de que, esta vez, nadie pincharía la rueda del otro.",
+  "new": "Ella sonrió. <b>Aunque</b> no sabía todavía adónde irían, estaba segura de que, esta vez, ninguno de los dos dejaría al otro solo con una rueda pinchada.",
+  "reason": "\"Nadie pincharía la rueda del otro\" means nobody would puncture the other's tire (deliberate sabotage). That is not the intended image, and it did not match the English."
+ },
+ {
+  "id": "b1-05",
+  "field": "lines.en",
+  "index": 17,
+  "old": "She smiled. Although she didn't yet know where they would go, she was sure that, this time, neither of them would let the other get a flat.",
+  "new": "She smiled. Although she didn't yet know where they would go, she was sure that, this time, neither of them would leave the other alone with a flat tire.",
+  "reason": "Matches the Spanish change."
+ },
+ {
+  "id": "b1-05",
+  "field": "vocab",
+  "index": 0,
+  "old": [
+   "enfadarse",
+   "to get angry"
+  ],
+  "new": [
+   "enojarse",
+   "to get angry (Spain: enfadarse)"
+  ],
+  "reason": "Follows the regional fix."
+ },
+ {
+  "id": "b1-05",
+  "field": "vocab",
+  "index": 3,
+  "old": [
+   "las alforjas",
+   "saddlebags"
+  ],
+  "new": [
+   "las alforjas",
+   "panniers (bike bags)"
+  ],
+  "reason": "Gloss fix from the B1 vocab review."
+ },
+ {
+  "id": "b1-05",
+  "field": "vocab",
+  "index": 7,
+  "old": [
+   "el repuesto",
+   "spare part"
+  ],
+  "new": [
+   "el repuesto",
+   "spare (here, a spare inner tube)"
+  ],
+  "reason": "Clarifies what the spare is."
+ },
+ {
+  "id": "b1-05",
+  "field": "vocab",
+  "index": 13,
+  "old": [
+   "echar de menos",
+   "to miss"
+  ],
+  "new": [
+   "extrañar",
+   "to miss (Spain: echar de menos)"
+  ],
+  "reason": "Follows the regional fix."
+ },
+ {
+  "id": "b1-05",
+  "field": "vocab",
+  "index": 19,
+  "old": null,
+  "new": [
+   "la cámara",
+   "inner tube (of a tire)"
+  ],
+  "reason": "Newly bolded false friend."
+ },
+ {
+  "id": "b1-05",
+  "field": "quiz",
+  "index": 0,
+  "old": {
+   "q": "¿Por qué habían dejado de hablarse los hermanos?",
+   "options": [
+    "Por un malentendido sobre la venta de la casa de sus padres",
+    "Porque vivían en países distintos",
+    "Por una deuda de dinero",
+    "Porque Nicolás había perdido la bicicleta"
+   ],
+   "answer": 0
+  },
+  "new": {
+   "q": "¿Por qué habían dejado de hablarse los hermanos?",
+   "options": [
+    "Por un conflicto sobre la venta de la casa de sus padres",
+    "Porque vivían en países distintos",
+    "Por una deuda de dinero",
+    "Porque Nicolás había perdido la bicicleta"
+   ],
+   "answer": 0
+  },
+  "reason": "The correct option said \"malentendido\", but the text describes a real grievance (he signed without consulting her), not a misunderstanding."
+ },
+ {
+  "id": "b1-05",
+  "field": "prompt",
+  "old": "Imagine you took a long trip with someone you had argued with. In Spanish, explain what would happen, what each of you would say, and how the trip could change your relationship (use the conditional).",
+  "new": "Imagine you took a long trip with someone you had argued with. In Spanish (4-6 sentences), say what would happen, what each of you would say, and how the trip could change things. Use the conditional and one si + imperfect subjunctive. Starter: «Si hiciera un viaje con mi…, al principio no hablaríamos mucho, pero…»",
+  "reason": "Added a model starter."
+ },
+ {
+  "id": "b1-05",
+  "field": "concepts",
+  "old": {
+   "grammar": "Pluperfect (habían hablado, había dejado); conditional perfect and past subjunctive in hypotheticals (si hubiera sido más paciente, no habríamos perdido); conditional for suggestions (deberíamos); relative clauses (que, donde, lo que); aunque + indicative.",
+   "vocabulary": "Travel, cycling and coastal words; family and reconciliation vocabulary; phrases such as echar de menos, darse cuenta de, dar el primer paso.",
+   "skills": "Following a layered plot with a background conflict and flashbacks; inferring emotions behind silence and gestures."
+  },
+  "new": {
+   "grammar": "Pluperfect (habían hablado, había dejado); conditional perfect and past subjunctive in hypotheticals (si hubiera sido más paciente, no habríamos perdido); conditional for suggestions (deberíamos); relative clauses (que, donde, lo que); aunque + indicative.",
+   "vocabulary": "Travel, cycling and coastal words; family and reconciliation vocabulary; phrases such as extrañar, darse cuenta de, dar el primer paso (Latin American enojarse/extrañar, with the Spain equivalents glossed).",
+   "skills": "Following a layered plot with a background conflict and flashbacks; inferring emotions behind silence and gestures."
+  },
+  "reason": "Follows the regional vocabulary fix."
+ },
+ {
+  "id": "b1-06",
+  "field": "lines.es",
+  "index": 0,
+  "old": "Cuando Marisol llegó a la casa de su abuela en Oaxaca, el calor de la tarde pesaba sobre las calles. Lupe se había mudado a un apartamento más pequeño, y la familia quería que Marisol ayudara a <b>vaciar</b> el <b>desván</b> antes de vender la casa. A ella no le apetecía mucho, porque cada objeto parecía guardar un <b>pedazo</b> de su infancia.",
+  "new": "Cuando Marisol llegó a la casa de su abuela en Oaxaca, el calor de la tarde pesaba sobre las calles. Lupe se había mudado a un departamento más pequeño, y la familia quería que Marisol ayudara a <b>vaciar</b> el <b>desván</b> antes de vender la casa. A ella no le apetecía mucho, porque cada objeto parecía guardar un <b>pedazo</b> de su infancia.",
+  "reason": "Regional consistency (Oaxaca): Mexican Spanish says departamento."
+ },
+ {
+  "id": "b1-06",
+  "field": "lines.es",
+  "index": 0,
+  "old": "Cuando Marisol llegó a la casa de su abuela en Oaxaca, el calor de la tarde pesaba sobre las calles. Lupe se había mudado a un departamento más pequeño, y la familia quería que Marisol ayudara a <b>vaciar</b> el <b>desván</b> antes de vender la casa. A ella no le apetecía mucho, porque cada objeto parecía guardar un <b>pedazo</b> de su infancia.",
+  "new": "Cuando Marisol llegó a la casa de su abuela en Oaxaca, el calor de la tarde pesaba sobre las calles. Lupe se había mudado a un departamento más pequeño, y la familia quería que Marisol ayudara a <b>vaciar</b> el <b>desván</b> antes de vender la casa. Ella no tenía muchas ganas, porque cada objeto parecía guardar un <b>pedazo</b> de su infancia.",
+  "reason": "\"Apetecer\" is peninsular. A Mexican narrator would say \"no tenía muchas ganas\"."
+ },
+ {
+  "id": "b1-06",
+  "field": "lines.es",
+  "index": 1,
+  "old": "Entre cajas de platos viejos y revistas amarillas, encontró un <b>sobre</b> de papel gris que alguien había escondido dentro de un libro de recetas. Dentro había una fotografía en blanco y negro de una joven sonriente junto a un muchacho delgado que sostenía una guitarra. Detrás, con letra apretada, se leía: Para Lupe, siempre. Tomás, 1962.",
+  "new": "Entre cajas de platos viejos y revistas amarillentas, encontró un <b>sobre</b> de papel gris que alguien había escondido dentro de un libro de recetas. Dentro había una fotografía en blanco y negro de una joven sonriente junto a un muchacho delgado que sostenía una guitarra. Detrás, con letra apretada, se leía: Para Lupe, siempre. Tomás, 1962.",
+  "reason": "Yellowed paper is \"amarillento\". \"Revistas amarillas\" means yellow magazines."
+ },
+ {
+  "id": "b1-06",
+  "field": "lines.es",
+  "index": 14,
+  "old": "Esa tarde, Marisol llevó el paquete a casa de su abuela. Lupe lo miró sin hablar, con las manos <b>temblando</b>, y luego <b>abrazó</b> a su nieta con fuerza. Cuando termines de leerlas, dijo Marisol, Elena quiere que la llames, porque su padre todavía tiene la guitarra y un montón de canciones para ti.",
+  "new": "Esa tarde, Marisol llevó el paquete a casa de su abuela. Lupe lo miró sin hablar, con las manos <b>temblando</b>, y luego <b>abrazó</b> a su nieta con fuerza. —Cuando termines de leerlas —dijo Marisol—, Elena quiere que la llames, porque su padre todavía tiene la guitarra y un montón de canciones para ti.",
+  "reason": "Punctuation: this direct speech was unmarked, unlike every other line, so learners could not see who was speaking."
+ },
+ {
+  "id": "b1-06",
+  "field": "lines.en",
+  "index": 14,
+  "old": "That afternoon, Marisol took the bundle to her grandmother's house. Lupe looked at it without speaking, her hands trembling, and then hugged her granddaughter tightly. When you finish reading them, Marisol said, Elena wants you to call her, because her father still has the guitar and a pile of songs for you.",
+  "new": "That afternoon, Marisol took the bundle to her grandmother's house. Lupe looked at it without speaking, her hands trembling, and then hugged her granddaughter tightly. “When you finish reading them,” Marisol said, “Elena wants you to call her, because her father still has the guitar and a pile of songs for you.”",
+  "reason": "Matches the Spanish punctuation fix."
+ },
+ {
+  "id": "b1-06",
+  "field": "vocab",
+  "index": 18,
+  "old": null,
+  "new": [
+   "mija",
+   "dear, sweetie (from mi hija; Mexico/Latin America)"
+  ],
+  "reason": "Regional term of endearment used twice without a gloss."
+ },
+ {
+  "id": "b1-06",
+  "field": "vocab",
+  "index": 19,
+  "old": null,
+  "new": [
+   "el departamento",
+   "apartment (Mexico)"
+  ],
+  "reason": "Regional word introduced by the fix."
+ },
+ {
+  "id": "b1-06",
+  "field": "quiz",
+  "index": 1,
+  "old": {
+   "q": "¿Dónde encontró Marisol las cartas de Tomás?",
+   "options": [
+    "Dentro del libro de recetas",
+    "En el apartamento de Lupe",
+    "Debajo de un baúl en el desván",
+    "En una caja de la cocina"
+   ],
+   "answer": 2
+  },
+  "new": {
+   "q": "¿Dónde encontró Marisol las cartas de Tomás?",
+   "options": [
+    "Dentro del libro de recetas",
+    "En el departamento de Lupe",
+    "Debajo de un baúl en el desván",
+    "En una caja de la cocina"
+   ],
+   "answer": 2
+  },
+  "reason": "Follows apartamento → departamento."
+ },
+ {
+  "id": "b1-06",
+  "field": "quiz",
+  "index": 4,
+  "old": {
+   "q": "¿Qué sugiere que Lupe diga que no venda la casa todavía?",
+   "options": [
+    "Que no tiene dinero para el apartamento",
+    "Que ahora ve la casa como un lugar con recuerdos valiosos",
+    "Que odia a su familia",
+    "Que quiere regalar la casa a Elena"
+   ],
+   "answer": 1
+  },
+  "new": {
+   "q": "¿Qué sugiere el consejo de Lupe «no vendas la casa todavía»?",
+   "options": [
+    "Que la casa ahora vale más dinero",
+    "Que ahora ve la casa como un lugar con recuerdos valiosos",
+    "Que quiere vivir otra vez allí con Tomás",
+    "Que quiere regalar la casa a Elena"
+   ],
+   "answer": 1
+  },
+  "reason": "The stem was ungrammatical (\"¿Qué sugiere que Lupe diga…?\"). Also replaced the implausible distractor \"Que odia a su familia\"."
+ },
+ {
+  "id": "b1-06",
+  "field": "prompt",
+  "old": "Imagine you find an old photograph of a family member with someone you don't know. Write 4-6 sentences in Spanish describing the photo, what you would ask, and what you hope to discover.",
+  "new": "Imagine you find an old photograph of a family member with someone you don't know. In Spanish (4-6 sentences), describe the photo, what you would ask, and what you hope to discover. Use espero que / no creo que + subjunctive. Starter: «En la foto, mi abuelo está con… No creo que… Espero que mi familia me cuente…»",
+  "reason": "Added a grammar cue and a starter matching the story's subjunctive targets."
+ },
+ {
+  "id": "b1-07",
+  "field": "quiz",
+  "index": 0,
+  "old": {
+   "q": "¿Qué hacían los zapatos PasoSeguro en teoría?",
+   "options": [
+    "Guiaban a las personas por la ciudad",
+    "Medían la presión de la sangre",
+    "Cambiaban de color",
+    "Cantaban canciones populares"
+   ],
+   "answer": 0
+  },
+  "new": {
+   "q": "«Daniela se quedó helada» significa que…",
+   "options": [
+    "no pudo reaccionar por la sorpresa",
+    "tenía mucho frío en la sala",
+    "se comió un helado",
+    "se enojó con Camilo"
+   ],
+   "answer": 0
+  },
+  "reason": "Replaced the easiest recall item with a vocabulary-in-context question (helada = frozen with shock). The other four questions already cover the plot."
+ },
+ {
+  "id": "b1-07",
+  "field": "quiz",
+  "index": 3,
+  "old": {
+   "q": "¿Por qué le gustó la idea a doña Beatriz?",
+   "options": [
+    "Porque pensó que los zapatos eran muy baratos",
+    "Porque quería comprar zapatos para turistas",
+    "Porque conocía a la mamá de Camilo",
+    "Porque vio una forma de que la familia acompañe a niños y ancianos"
+   ],
+   "answer": 3
+  },
+  "new": {
+   "q": "¿Por qué le gustó la idea a doña Beatriz?",
+   "options": [
+    "Porque pensó que los zapatos eran muy baratos",
+    "Porque quería comprar zapatos para turistas",
+    "Porque conocía a la mamá de Camilo",
+    "Porque vio una forma de que la familia acompañara a niños y ancianos"
+   ],
+   "answer": 3
+  },
+  "reason": "Sequence of tenses: vio … acompañara (not acompañe)."
+ },
+ {
+  "id": "b1-07",
+  "field": "vocab",
+  "index": 18,
+  "old": null,
+  "new": [
+   "salir perfecto / bien",
+   "to turn out perfectly / well"
+  ],
+  "reason": "\"Salga\" is bolded in line 2 but was missing from the list."
+ },
+ {
+  "id": "b1-07",
+  "field": "prompt",
+  "old": "Describe in Spanish (4-6 sentences) a moment when something went wrong in front of other people but turned out better than expected. What happened and how did you feel?",
+  "new": "Describe in Spanish (4-6 sentences) a moment when something went wrong in front of other people but turned out better than expected. End with two pieces of advice for a friend in the same situation, using commands (respira, no te preocupes) or quiero que + subjunctive. Starter: «Una vez, en una reunión importante, … Mi consejo: no tengas miedo y…»",
+  "reason": "The old prompt elicited only past narration, but the target grammar is commands and the subjunctive. Added a starter."
+ },
+ {
+  "id": "b1-07",
+  "field": "concepts",
+  "old": {
+   "grammar": "Present subjunctive after quiero que, para que and espero que; affirmative and negative commands (respira, no cuentes, ponte, mire); reported speech with dijo que / le dijo que se los quitara; comparative construction cuanto más... más; conditional for speculation (obedecería).",
+   "vocabulary": "Business and startup words (inversionista, ahorros, cita, aparato); body-language and reaction verbs (carraspear, disimular, agacharse); informal expressions (de una vez, apostar a que, quedarse helado).",
+   "skills": "Following humorous escalation; understanding tone and irony; inferring character motivation from reactions."
+  },
+  "new": {
+   "grammar": "Present subjunctive after quiero que, si prefieren que and espero que, and after cuando for the future (cuando mi hijo sea famoso); affirmative and negative commands (respira, no cuentes, ponte, imaginen, observen); reported commands (le dijo que se los quitara); cuanto más… más; conditional for conjecture (obedecería).",
+   "vocabulary": "Business and startup words (inversionista, ahorros, cita, aparato); body-language and reaction verbs (carraspear, disimular, agacharse); informal expressions (de una vez, apostar a que, quedarse helado).",
+   "skills": "Following humorous escalation; understanding tone and irony; inferring character motivation from reactions."
+  },
+  "reason": "The concepts listed \"para que\", which does not occur. Added cuando + subjunctive, which does."
+ },
+ {
+  "id": "b1-08",
+  "field": "lines.es",
+  "index": 0,
+  "old": "Don Aurelio había enseñado matemáticas en el mismo colegio de Valparaíso durante treinta y ocho años, y esa mañana de noviembre llegó antes que nadie, como siempre. Se sentó en su escritorio, <b>acarició</b> la madera gastada y pensó que, después de hoy, ya no tendría ningún motivo para <b>madrugar</b>. Había pedido a la directora una despedida sencilla, sin discursos ni pastel, porque detestaba ser el centro de atención.",
+  "new": "Don Aurelio había enseñado matemáticas en el mismo colegio de Valparaíso durante treinta y ocho años, y esa mañana de noviembre llegó antes que nadie, como siempre. Se sentó a su escritorio, <b>acarició</b> la madera gastada y pensó que, después de hoy, ya no tendría ningún motivo para <b>madrugar</b>. Había pedido a la directora una despedida sencilla, sin discursos ni pastel, porque detestaba ser el centro de atención.",
+  "reason": "\"Sentarse en el escritorio\" means sitting on top of the desk. \"A su escritorio\" = at his desk."
+ },
+ {
+  "id": "b1-08",
+  "field": "lines.es",
+  "index": 0,
+  "old": "Don Aurelio había enseñado matemáticas en el mismo colegio de Valparaíso durante treinta y ocho años, y esa mañana de noviembre llegó antes que nadie, como siempre. Se sentó a su escritorio, <b>acarició</b> la madera gastada y pensó que, después de hoy, ya no tendría ningún motivo para <b>madrugar</b>. Había pedido a la directora una despedida sencilla, sin discursos ni pastel, porque detestaba ser el centro de atención.",
+  "new": "Don Aurelio había enseñado matemáticas en el mismo colegio de Valparaíso durante treinta y ocho años, y esa mañana de noviembre llegó antes que nadie, como siempre. Se sentó a su escritorio, <b>acarició</b> la madera gastada y pensó que, después de hoy, ya no tendría ningún motivo para <b>madrugar</b>. Había pedido a la directora una despedida sencilla, sin discursos ni torta, porque detestaba ser el centro de atención.",
+  "reason": "Regional consistency (Valparaíso): cake is \"torta\" in Chile."
+ },
+ {
+  "id": "b1-08",
+  "field": "lines.es",
+  "index": 1,
+  "old": "—Buenos días, profesor —dijo la directora, Mónica, asomándose a la puerta—. Quiero que hoy descanse un poco. Los alumnos de tercero lo esperan en el salón, pero no se preocupe, porque solo van a hacer un examen sorpresa.",
+  "new": "—Buenos días, profesor —dijo la directora, Mónica, asomándose a la puerta—. Quiero que hoy descanse un poco. Los alumnos de tercero lo esperan en la sala, pero no se preocupe, porque solo van a hacer un examen sorpresa.",
+  "reason": "Chilean usage: a classroom is la sala (de clases). Salón is Mexican/Caribbean."
+ },
+ {
+  "id": "b1-08",
+  "field": "lines.en",
+  "index": 1,
+  "old": "\"Good morning, professor,\" said the principal, Mónica, peeking in at the door. \"I want you to rest a bit today. The third-year students are waiting for you in the classroom, but don't worry, they're only going to take a surprise quiz.\"",
+  "new": "\"Good morning, Profesor,\" said the principal, Mónica, peeking in at the door. \"I want you to rest a bit today. The third-year students are waiting for you in the classroom, but don't worry, they're only going to take a surprise quiz.\"",
+  "reason": "In English \"professor\" means a university lecturer. Kept the Spanish form of address."
+ },
+ {
+  "id": "b1-08",
+  "field": "lines.es",
+  "index": 4,
+  "old": "Al abrir la puerta del salón, un grito de «¡Sorpresa!» lo hizo dar un salto. El salón estaba lleno de globos, y en la pizarra alguien había escrito con tiza de colores: «Gracias por enseñarnos a pensar». Pero lo que más lo <b>desconcertó</b> fue ver, sentadas al fondo, a decenas de adultos que él reconocía poco a poco.",
+  "new": "Al abrir la puerta de la sala, un grito de «¡Sorpresa!» lo hizo dar un salto. La sala estaba lleno de globos, y en la pizarra alguien había escrito con tiza de colores: «Gracias por enseñarnos a pensar». Pero lo que más lo <b>desconcertó</b> fue ver, sentadas al fondo, a decenas de adultos que él reconocía poco a poco.",
+  "reason": "Chilean usage (see line 1)."
+ },
+ {
+  "id": "b1-08",
+  "field": "lines.es",
+  "index": 4,
+  "old": "Al abrir la puerta de la sala, un grito de «¡Sorpresa!» lo hizo dar un salto. La sala estaba lleno de globos, y en la pizarra alguien había escrito con tiza de colores: «Gracias por enseñarnos a pensar». Pero lo que más lo <b>desconcertó</b> fue ver, sentadas al fondo, a decenas de adultos que él reconocía poco a poco.",
+  "new": "Al abrir la puerta de la sala, un grito de «¡Sorpresa!» lo hizo dar un salto. La sala estaba lleno de globos, y en la pizarra alguien había escrito con tiza de colores: «Gracias por enseñarnos a pensar». Pero lo que más lo <b>desconcertó</b> fue ver, sentados al fondo, a decenas de adultos que él reconocía poco a poco.",
+  "reason": "Agreement error: adultos is masculine (sentados)."
+ },
+ {
+  "id": "b1-08",
+  "field": "lines.en",
+  "index": 5,
+  "old": "\"Do you remember me, professor?\" asked a gray-haired woman. \"I'm Carmen Ríos. In 1994 I was about to quit school because I believed math wasn't for me. You told me that we all make mistakes before getting it right, and you offered me free lessons after school. Today I'm an engineer.\"",
+  "new": "\"Do you remember me, Profesor?\" asked a gray-haired woman. \"I'm Carmen Ríos. In 1994 I was about to quit school because I believed math wasn't for me. You told me that we all make mistakes before getting it right, and you offered me free lessons after school. Today I'm an engineer.\"",
+  "reason": "See line 1."
+ },
+ {
+  "id": "b1-08",
+  "field": "lines.es",
+  "index": 11,
+  "old": "Después del aplauso, la directora le preguntó qué pensaba hacer <b>a partir del</b> lunes. Aurelio respondió que todavía no tenía planes. Pero Carmen, que lo había escuchado, le propuso algo que él no esperaba: —Yo dirijo un centro comunitario en el cerro. <b>Ojalá</b> pueda venir los sábados a dar clases a quienes no tienen quién los ayude.",
+  "new": "Después del aplauso, la directora le preguntó qué pensaba hacer <b>a partir del</b> lunes. Aurelio respondió que todavía no tenía planes. Pero Carmen, que lo había escuchado, le propuso algo que él no esperaba: —Yo dirijo un centro comunitario en el cerro. <b>Ojalá</b> pueda venir los sábados a dar clases a quienes no tienen quien los ayude.",
+  "reason": "The relative \"quien\" after tener takes no accent (cf. \"El coronel no tiene quien le escriba\")."
+ },
+ {
+  "id": "b1-08",
+  "field": "vocab",
+  "index": 8,
+  "old": [
+   "secarse",
+   "to dry oneself"
+  ],
+  "new": [
+   "secarse (los ojos)",
+   "to dry (one's eyes)"
+  ],
+  "reason": "Clarification from the B1 vocab review."
+ },
+ {
+  "id": "b1-08",
+  "field": "vocab",
+  "index": 11,
+  "old": [
+   "el timbre",
+   "school bell"
+  ],
+  "new": [
+   "el timbre",
+   "bell (school bell here; also doorbell)"
+  ],
+  "reason": "Clarification from the B1 vocab review."
+ },
+ {
+  "id": "b1-08",
+  "field": "quiz",
+  "index": 2,
+  "old": {
+   "q": "¿Qué había dentro de la caja de madera?",
+   "options": [
+    "Un reloj de oro",
+    "Un libro de matemáticas antiguo",
+    "Una maqueta de un puente",
+    "Una tiza muy gastada y una carta firmada"
+   ],
+   "answer": 3
+  },
+  "new": {
+   "q": "Cuando Aurelio piensa que ya no tendrá motivo para «madrugar», quiere decir que ya no tendrá que…",
+   "options": [
+    "acostarse tarde",
+    "trabajar los sábados",
+    "corregir exámenes",
+    "levantarse temprano"
+   ],
+   "answer": 3
+  },
+  "reason": "Replaced a pure recall item (what was in the box) with a vocabulary-in-context question."
+ },
+ {
+  "id": "b1-08",
+  "field": "prompt",
+  "old": "Think of a teacher or mentor who made a difference in your life. Write 4-6 sentences in Spanish saying who it was, what they taught you, and what you would say to thank them.",
+  "new": "Think of a teacher or mentor who made a difference in your life. In Spanish (4-6 sentences), say who it was and what they taught you, then write them a short thank-you message with two wishes or pieces of advice (Espero que…, Ojalá…, No tenga miedo de…). Starter: «Querida profesora: Quiero darle las gracias porque…»",
+  "reason": "Added a starter and a cue for the subjunctive and command targets."
+ },
+ {
+  "id": "b1-08",
+  "field": "concepts",
+  "old": {
+   "grammar": "Present subjunctive after quiero que, espero que, ojalá and aunque; affirmative commands with ustedes (hagan, no tengan, devuélvanle) and usted (dígame); pluperfect (había enseñado, había pedido); reported speech (dijo que, explicó que).",
+   "vocabulary": "School and farewell vocabulary (la tiza, el timbre, la maqueta, la jubilación); emotional states (desconcertado, afortunado, vergüenza, calma profunda); expressions (a punto de, a partir de, valer la pena).",
+   "skills": "Understanding a multi-voice scene with flashbacks; inferring emotional meaning; summarizing a speech with advice."
+  },
+  "new": {
+   "grammar": "Present subjunctive after quiero que, espero que, ojalá and aunque (aunque les dé vergüenza); affirmative and negative ustedes commands (hagan, no tengan, devuélvanle) and usted commands (no se preocupe, dígame); pluperfect (había enseñado, había pedido); reported speech (dijo que, explicó que).",
+   "vocabulary": "School and farewell vocabulary (la tiza, el timbre, la maqueta, la jubilación); emotional states (desconcertado, afortunado, vergüenza, calma profunda); expressions (a punto de, a partir de, valer la pena).",
+   "skills": "Understanding a multi-voice scene with flashbacks; inferring emotional meaning; summarizing a speech with advice."
+  },
+  "reason": "\"Affirmative commands … (no tengan)\" was inaccurate, because no tengan is negative."
+ },
+ {
+  "id": "b1-09",
+  "field": "lines.es",
+  "index": 11,
+  "old": "A las once, cuando por fin volvió la luz, todos <b>parpadearon</b> sorprendidos. Durante un instante nadie se movió, como si les diera pena romper el hechizo. Después, Valeria subió corriendo a su apartamento, guardó el archivo y estudió hasta tarde, aunque con el corazón más ligero que nunca.",
+  "new": "A las once, cuando por fin volvió la luz, todos <b>parpadearon</b> sorprendidos. Durante un instante nadie se movió, como si nadie quisiera romper el hechizo. Después, Valeria subió corriendo a su apartamento, guardó el archivo y estudió hasta tarde, aunque con el corazón más ligero que nunca.",
+  "reason": "In Costa Rica (and Mexico/Central America) \"dar pena\" usually means \"to be embarrassed\", which misreads here. \"Como si nadie quisiera\" keeps the imperfect subjunctive and is unambiguous."
+ },
+ {
+  "id": "b1-09",
+  "field": "lines.en",
+  "index": 11,
+  "old": "At eleven, when the light finally came back, everyone blinked in surprise. For a moment nobody moved, as if they were sorry to break the spell. Then Valeria ran up to her apartment, saved her file and studied late, although with a lighter heart than ever.",
+  "new": "At eleven, when the light finally came back, everyone blinked in surprise. For a moment nobody moved, as if nobody wanted to break the spell. Then Valeria ran up to her apartment, saved her file and studied late, although with a lighter heart than ever.",
+  "reason": "Matches the Spanish change."
+ },
+ {
+  "id": "b1-09",
+  "field": "vocab",
+  "index": 17,
+  "old": [
+   "ojalá",
+   "I hope"
+  ],
+  "new": [
+   "ojalá",
+   "I hope, if only"
+  ],
+  "reason": "Completes the gloss (ojalá + imperfect subjunctive = if only)."
+ },
+ {
+  "id": "b1-09",
+  "field": "quiz",
+  "index": 0,
+  "old": {
+   "q": "¿Qué pasó a las siete en punto?",
+   "options": [
+    "Llegaron los bomberos",
+    "Se apagaron todas las luces después de un trueno",
+    "El ascensor se quedó parado con Mateo",
+    "Doña Rosa encendió las velas"
+   ],
+   "answer": 1
+  },
+  "new": {
+   "q": "«Tenía fama de gruñón» quiere decir que los vecinos pensaban que el señor Gutiérrez…",
+   "options": [
+    "era muy famoso en la ciudad",
+    "era antipático y siempre estaba de mal humor",
+    "cocinaba muy bien",
+    "trabajaba en la compañía eléctrica"
+   ],
+   "answer": 1
+  },
+  "reason": "Replaced the easiest recall question with a vocabulary-in-context item (fama ≠ famous trap)."
+ },
+ {
+  "id": "b1-09",
+  "field": "prompt",
+  "old": "Describe in Spanish (4-6 sentences) a time when an unexpected event, like a storm, a blackout or a delay, brought you closer to other people. What did you do together?",
+  "new": "Describe in Spanish (4-6 sentences) a time when an unexpected event, like a storm, a blackout or a delay, brought you closer to other people. Say what someone asked everyone to do (nos pidió que…, quería que…) and what you did together. Starter: «Una noche hubo un apagón en mi barrio. Al principio… pero luego un vecino nos pidió que…»",
+  "reason": "Added a starter and a cue for the subjunctive targets."
+ },
+ {
+  "id": "b1-10",
+  "field": "lines.es",
+  "index": 2,
+  "old": "Un jueves de septiembre, Joaquín cumplió treinta años y no tenía ganas de celebrar nada. Su pequeño taller de <b>encuadernación</b>, en el barrio de Ciudad Vieja, llevaba meses con pocos clientes, y él empezaba a <b>dudar</b> de que pudiera mantenerlo abierto. Esa mañana había recibido una carta de Marta que decía solamente: «Feliz cumpleaños. Espero que hoy abras la puerta con una sonrisa».",
+  "new": "Un jueves de septiembre, Joaquín cumplió veinticuatro años y no tenía ganas de celebrar nada. Su pequeño taller de <b>encuadernación</b>, en el barrio de Ciudad Vieja, llevaba meses con pocos clientes, y él empezaba a <b>dudar</b> de que pudiera mantenerlo abierto. Esa mañana había recibido una carta de Marta que decía solamente: «Feliz cumpleaños. Espero que hoy abras la puerta con una sonrisa».",
+  "reason": "Timeline error: the letters began when he was twelve (line 11 photo) and have lasted twelve years, so he turns 24, not 30."
+ },
+ {
+  "id": "b1-10",
+  "field": "lines.en",
+  "index": 2,
+  "old": "One Thursday in September, Joaquín turned thirty and had no desire to celebrate anything. His small bookbinding workshop in the Ciudad Vieja neighborhood had had few customers for months, and he was beginning to doubt that he could keep it open. That morning he had received a letter from Marta that said only: \"Happy birthday. I hope you open the door with a smile today.\"",
+  "new": "One Thursday in September, Joaquín turned twenty-four and had no desire to celebrate anything. His small bookbinding workshop in the Ciudad Vieja neighborhood had had few customers for months, and he was beginning to doubt that he could keep it open. That morning he had received a letter from Marta that said only: \"Happy birthday. I hope you open the door with a smile today.\"",
+  "reason": "Matches the Spanish fix."
+ },
+ {
+  "id": "b1-10",
+  "field": "lines.es",
+  "index": 4,
+  "old": "Estaba guardando la carta en la caja azul cuando sonó la campanilla de la puerta. Sin levantar la vista de su <b>mostrador</b>, dijo lo que decía siempre: —Buenas tardes, pase y mire con calma. Entonces escuchó una voz desconocida, con un acento de otro lado del mar: —Perdone, ¿tiene algún libro sobre dragones?",
+  "new": "Estaba guardando la carta en la caja azul cuando sonó la campanilla de la puerta. Sin levantar la vista de su <b>mostrador</b>, dijo lo que decía siempre: —Buenas tardes, pase y mire con calma. Entonces escuchó una voz desconocida, con un acento del otro lado del mar: —Perdone, ¿tiene algún libro sobre dragones?",
+  "reason": "Missing article: \"del otro lado del mar\"."
+ },
+ {
+  "id": "b1-10",
+  "field": "lines.en",
+  "index": 4,
+  "old": "He was putting the letter into the blue box when the doorbell rang. Without looking up from his counter, he said what he always said: \"Good afternoon, come in and look around at your leisure.\" Then he heard an unfamiliar voice, with an accent from the other side of the sea: \"Excuse me, do you have any books about dragons?\"",
+  "new": "He was putting the letter into the blue box when the bell on the door rang. Without looking up from his counter, he said what he always said: \"Good afternoon, come in and look around at your leisure.\" Then he heard an unfamiliar voice, with an accent from the other side of the sea: \"Excuse me, do you have any books about dragons?\"",
+  "reason": "\"Campanilla\" is a shop-door bell, not an electric doorbell."
+ },
+ {
+  "id": "b1-10",
+  "field": "lines.es",
+  "index": 8,
+  "old": "Joaquín salió de detrás del mostrador y, después de un momento de duda, se abrazaron. Era <b>extraño</b> y maravilloso tocar por fin a una persona que había conocido solo en papel. Marta explicó que había <b>ahorrado</b> durante un año y que no quiso <b>avisarle</b> porque temía que él le pidiera que no viniera.",
+  "new": "Joaquín salió de detrás del mostrador y, después de un momento de duda, se abrazaron. Era <b>extraño</b> y maravilloso tocar por fin a una persona que conocía solo por sus cartas. Marta explicó que había <b>ahorrado</b> durante un año y que no quiso <b>avisarle</b> porque temía que él le pidiera que no viniera.",
+  "reason": "\"Conocer en papel\" is a calque. \"Por sus cartas\" is natural."
+ },
+ {
+  "id": "b1-10",
+  "field": "lines.en",
+  "index": 8,
+  "old": "Joaquín came out from behind the counter and, after a moment of hesitation, they hugged. It was strange and wonderful to finally touch a person he had known only on paper. Marta explained that she had saved up for a year and that she hadn't wanted to warn him because she was afraid he would ask her not to come.",
+  "new": "Joaquín came out from behind the counter and, after a moment of hesitation, they hugged. It was strange and wonderful to finally touch a person he knew only through letters. Marta explained that she had saved up for a year and that she didn't want to let him know in advance because she was afraid he would ask her not to come.",
+  "reason": "Matches the Spanish fix. Avisar here = let someone know, not warn (fix from the grammar report)."
+ },
+ {
+  "id": "b1-10",
+  "field": "lines.es",
+  "index": 9,
+  "old": "—Llevaba tanto tiempo imaginando este momento que casi me da <b>pánico</b> —confesó ella—. ¿Y si no tenemos nada que decirnos <b>cara a cara</b>? ¿Y si somos dos desconocidos?",
+  "new": "—Llevo tanto tiempo imaginando este momento que casi me da <b>pánico</b> —confesó ella—. ¿Y si no tenemos nada que decirnos <b>cara a cara</b>? ¿Y si somos dos desconocidos?",
+  "reason": "Tense clash (llevaba … me da). She is speaking in the moment, so present llevo."
+ },
+ {
+  "id": "b1-10",
+  "field": "lines.en",
+  "index": 9,
+  "old": "\"I'd been imagining this moment for so long that I almost panicked,\" she confessed. \"What if we have nothing to say to each other face to face? What if we're two strangers?\"",
+  "new": "\"I've been imagining this moment for so long that I'm almost panicking,\" she confessed. \"What if we have nothing to say to each other face to face? What if we're two strangers?\"",
+  "reason": "Matches the Spanish fix."
+ },
+ {
+  "id": "b1-10",
+  "field": "lines.en",
+  "index": 15,
+  "old": "During the following week, Joaquín showed her the city: the market, the candombe drums on Sundays and the old lighthouse. Marta took notes in a notebook, and when he asked her what for, she answered that she wanted to remember everything, because homesickness began before leaving.",
+  "new": "During the following week, Joaquín showed her the city: the market, the candombe drums on Sundays and the old lighthouse. Marta took notes in a notebook, and when he asked her what for, she answered that she wanted to remember everything, because missing a place begins even before you leave it.",
+  "reason": "\"Homesickness\" is wrong here: she is missing Montevideo, not home. Añoranza here = longing."
+ },
+ {
+  "id": "b1-10",
+  "field": "lines.es",
+  "index": 16,
+  "old": "En el aeropuerto, el último día, Marta le entregó un <b>sobre</b>. —No lo abras hasta que <b>despegue</b> mi avión —pidió—. Joaquín obedeció. Dentro encontró una nota breve y un billete para abril: «Si vienes en primavera, te enseñaré dónde viven los dragones de Granada. Ven pronto, y trae la caja azul».",
+  "new": "En el aeropuerto, el último día, Marta le entregó un <b>sobre</b>. —No lo abras hasta que <b>despegue</b> mi avión —pidió. Joaquín obedeció. Dentro encontró una nota breve y un billete para abril: «Si vienes en primavera, te enseñaré dónde viven los dragones de Granada. Ven pronto, y trae la caja azul».",
+  "reason": "Dialogue punctuation: no closing dash when the speech ends with the narrator's tag."
+ },
+ {
+  "id": "b1-10",
+  "field": "vocab",
+  "index": 18,
+  "old": [
+   "la campanilla",
+   "doorbell, little bell"
+  ],
+  "new": [
+   "la campanilla",
+   "little bell (on a shop door)"
+  ],
+  "reason": "Gloss fix from the B1 vocab review."
+ },
+ {
+  "id": "b1-10",
+  "field": "vocab",
+  "index": 14,
+  "old": [
+   "la añoranza",
+   "homesickness, longing"
+  ],
+  "new": [
+   "la añoranza",
+   "longing, missing (a place or person)"
+  ],
+  "reason": "\"Homesickness\" is misleading in this context."
+ },
+ {
+  "id": "b1-10",
+  "field": "vocab",
+  "index": 10,
+  "old": [
+   "avisar",
+   "to warn, to let know"
+  ],
+  "new": [
+   "avisar",
+   "to let (someone) know, to warn"
+  ],
+  "reason": "The main sense in the story is \"let know\"."
+ },
+ {
+  "id": "b1-10",
+  "field": "vocab",
+  "index": 19,
+  "old": null,
+  "new": [
+   "la rambla",
+   "promenade along the water (Montevideo)"
+  ],
+  "reason": "Regional landmark word with no gloss."
+ },
+ {
+  "id": "b1-10",
+  "field": "vocab",
+  "index": 20,
+  "old": null,
+  "new": [
+   "el candombe",
+   "Afro-Uruguayan drumming tradition"
+  ],
+  "reason": "Cultural term with no gloss."
+ },
+ {
+  "id": "b1-10",
+  "field": "quiz",
+  "index": 1,
+  "old": {
+   "q": "¿Qué hizo Marta al llegar al taller?",
+   "options": [
+    "Pidió un libro sobre dragones",
+    "Dejó una carta en el mostrador",
+    "Llamó por teléfono a Joaquín",
+    "Compró un cuaderno hecho a mano"
+   ],
+   "answer": 0
+  },
+  "new": {
+   "q": "Cuando Marta dice que «la añoranza empezaba antes de irse», quiere decir que…",
+   "options": [
+    "estaba cansada del viaje",
+    "ya extrañaba la ciudad aunque todavía estaba allí",
+    "quería volver pronto a Granada",
+    "tenía miedo del avión"
+   ],
+   "answer": 1
+  },
+  "reason": "Replaced an easy recall item with a vocabulary-in-context/attitude question."
+ },
+ {
+  "id": "b1-10",
+  "field": "prompt",
+  "old": "Imagine a friend you have only known online or by letter surprises you with a visit. Write 4-6 sentences in Spanish about what you would do together and one thing you hope will happen.",
+  "new": "Imagine a friend you have only known online or by letter surprises you with a visit. In Spanish (4-6 sentences), say what you would do together and one thing you hope will happen. Starter: «Si mi amigo/a viniera a verme, lo/la llevaría a… Espero que…»",
+  "reason": "Added a starter modelling si + imperfect subjunctive + conditional and espero que + subjunctive."
+ },
+ {
+  "id": "b1-02",
+  "field": "vocab",
+  "index": 16,
+  "old": [
+   "aunque",
+   "although"
+  ],
+  "new": null,
+  "reason": "Removed to stay within the 20-item vocab limit: aunque is A2 core, not bolded, and needs no gloss at B1."
+ },
+ {
+  "id": "b1-03",
+  "field": "vocab",
+  "index": 16,
+  "old": [
+   "sin embargo",
+   "however"
+  ],
+  "new": null,
+  "reason": "Removed to stay within the 20-item limit: an A2 connector, not bolded in this story, and already glossed in b1-01."
+ },
+ {
+  "id": "b1-10",
+  "field": "vocab",
+  "index": 17,
+  "old": [
+   "el desconocido",
+   "stranger"
+  ],
+  "new": null,
+  "reason": "Removed to stay within the 20-item limit: it is not bolded in the text and is recycled from b1-09 (extraños/desconocidos)."
+ }
+]

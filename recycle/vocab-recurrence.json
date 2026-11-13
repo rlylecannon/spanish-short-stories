@@ -1,0 +1,7372 @@
+[
+ {
+  "story": "a1-01",
+  "level": "A1",
+  "word": "la tarde",
+  "head": "tarde",
+  "key": "tarde",
+  "gloss": "afternoon",
+  "later_tokens": 23,
+  "later_stories": 16
+ },
+ {
+  "story": "a1-01",
+  "level": "A1",
+  "word": "la cocina",
+  "head": "cocina",
+  "key": "cocina",
+  "gloss": "kitchen",
+  "later_tokens": 13,
+  "later_stories": 8
+ },
+ {
+  "story": "a1-01",
+  "level": "A1",
+  "word": "el flan",
+  "head": "flan",
+  "key": "flan",
+  "gloss": "flan (caramel custard)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a1-01",
+  "level": "A1",
+  "word": "la pista",
+  "head": "pista",
+  "key": "pista",
+  "gloss": "clue",
+  "later_tokens": 2,
+  "later_stories": 2
+ },
+ {
+  "story": "a1-01",
+  "level": "A1",
+  "word": "la mesa",
+  "head": "mesa",
+  "key": "mesa",
+  "gloss": "table",
+  "later_tokens": 22,
+  "later_stories": 11
+ },
+ {
+  "story": "a1-01",
+  "level": "A1",
+  "word": "la cuchara",
+  "head": "cuchara",
+  "key": "cuchara",
+  "gloss": "spoon",
+  "later_tokens": 2,
+  "later_stories": 2
+ },
+ {
+  "story": "a1-01",
+  "level": "A1",
+  "word": "los lentes",
+  "head": "lentes",
+  "key": "lentes",
+  "gloss": "glasses (Mexico)",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "a1-01",
+  "level": "A1",
+  "word": "la perra",
+  "head": "perra",
+  "key": "perra",
+  "gloss": "dog (female)",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "a1-01",
+  "level": "A1",
+  "word": "el piso",
+  "head": "piso",
+  "key": "piso",
+  "gloss": "floor",
+  "later_tokens": 5,
+  "later_stories": 4
+ },
+ {
+  "story": "a1-01",
+  "level": "A1",
+  "word": "tener sueño",
+  "head": "tener sueño",
+  "key": "sueño",
+  "gloss": "to be sleepy",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a1-01",
+  "level": "A1",
+  "word": "el abuelo",
+  "head": "abuelo",
+  "key": "abuelo",
+  "gloss": "grandpa",
+  "later_tokens": 24,
+  "later_stories": 8
+ },
+ {
+  "story": "a1-01",
+  "level": "A1",
+  "word": "la sala",
+  "head": "sala",
+  "key": "sala",
+  "gloss": "living room",
+  "later_tokens": 15,
+  "later_stories": 6
+ },
+ {
+  "story": "a1-01",
+  "level": "A1",
+  "word": "el caramelo",
+  "head": "caramelo",
+  "key": "caramelo",
+  "gloss": "caramel (sauce)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a1-01",
+  "level": "A1",
+  "word": "el bigote",
+  "head": "bigote",
+  "key": "bigote",
+  "gloss": "mustache",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a1-01",
+  "level": "A1",
+  "word": "sonreír",
+  "head": "sonreír",
+  "key": "sonreír",
+  "gloss": "to smile (sonríe)",
+  "later_tokens": 22,
+  "later_stories": 19
+ },
+ {
+  "story": "a1-01",
+  "level": "A1",
+  "word": "preparar",
+  "head": "preparar",
+  "key": "preparar",
+  "gloss": "to make, to prepare (preparan)",
+  "later_tokens": 6,
+  "later_stories": 6
+ },
+ {
+  "story": "a1-02",
+  "level": "A1",
+  "word": "la cocinera",
+  "head": "cocinera",
+  "key": "cocinera",
+  "gloss": "cook (woman); el cocinero = cook (man)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a1-02",
+  "level": "A1",
+  "word": "la parrilla",
+  "head": "parrilla",
+  "key": "parrilla",
+  "gloss": "steakhouse (grill restaurant); grill",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a1-02",
+  "level": "A1",
+  "word": "el bife",
+  "head": "bife",
+  "key": "bife",
+  "gloss": "steak (Argentina)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a1-02",
+  "level": "A1",
+  "word": "la ensalada",
+  "head": "ensalada",
+  "key": "ensalada",
+  "gloss": "salad",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a1-02",
+  "level": "A1",
+  "word": "el jefe",
+  "head": "jefe",
+  "key": "jefe",
+  "gloss": "boss; head chef",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a1-02",
+  "level": "A1",
+  "word": "serio",
+  "head": "serio",
+  "key": "serio",
+  "gloss": "serious, stern",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "a1-02",
+  "level": "A1",
+  "word": "el error",
+  "head": "error",
+  "key": "error",
+  "gloss": "mistake",
+  "later_tokens": 4,
+  "later_stories": 4
+ },
+ {
+  "story": "a1-02",
+  "level": "A1",
+  "word": "faltar",
+  "head": "faltar",
+  "key": "faltar",
+  "gloss": "to be left, to go (faltan diez minutos = ten minutes to go)",
+  "later_tokens": 14,
+  "later_stories": 10
+ },
+ {
+  "story": "a1-02",
+  "level": "A1",
+  "word": "el mozo",
+  "head": "mozo",
+  "key": "mozo",
+  "gloss": "waiter (Argentina)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a1-02",
+  "level": "A1",
+  "word": "la comanda",
+  "head": "comanda",
+  "key": "comanda",
+  "gloss": "order ticket (in a restaurant kitchen)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a1-02",
+  "level": "A1",
+  "word": "la persona",
+  "head": "persona",
+  "key": "persona",
+  "gloss": "person",
+  "later_tokens": 14,
+  "later_stories": 11
+ },
+ {
+  "story": "a1-02",
+  "level": "A1",
+  "word": "al revés",
+  "head": "al revés",
+  "key": "al",
+  "gloss": "upside down; the wrong way round",
+  "later_tokens": 88,
+  "later_stories": 33
+ },
+ {
+  "story": "a1-02",
+  "level": "A1",
+  "word": "el cliente",
+  "head": "cliente",
+  "key": "cliente",
+  "gloss": "customer",
+  "later_tokens": 4,
+  "later_stories": 2
+ },
+ {
+  "story": "a1-02",
+  "level": "A1",
+  "word": "listo",
+  "head": "listo",
+  "key": "listo",
+  "gloss": "ready",
+  "later_tokens": 2,
+  "later_stories": 2
+ },
+ {
+  "story": "a1-02",
+  "level": "A1",
+  "word": "probar",
+  "head": "probar",
+  "key": "probar",
+  "gloss": "to taste, to try (prueba = tastes)",
+  "later_tokens": 11,
+  "later_stories": 6
+ },
+ {
+  "story": "a1-02",
+  "level": "A1",
+  "word": "sonreír",
+  "head": "sonreír",
+  "key": "sonreír",
+  "gloss": "to smile (sonríe = smiles)",
+  "later_tokens": 21,
+  "later_stories": 18
+ },
+ {
+  "story": "a1-02",
+  "level": "A1",
+  "word": "gustar",
+  "head": "gustar",
+  "key": "gustar",
+  "gloss": "to like (me gusta / no le gustan / nos gustan)",
+  "later_tokens": 14,
+  "later_stories": 10
+ },
+ {
+  "story": "a1-03",
+  "level": "A1",
+  "word": "la clase",
+  "head": "clase",
+  "key": "clase",
+  "gloss": "class",
+  "later_tokens": 4,
+  "later_stories": 3
+ },
+ {
+  "story": "a1-03",
+  "level": "A1",
+  "word": "la profesora",
+  "head": "profesora",
+  "key": "profesora",
+  "gloss": "teacher (female)",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "a1-03",
+  "level": "A1",
+  "word": "la niña",
+  "head": "niña",
+  "key": "niña",
+  "gloss": "girl",
+  "later_tokens": 3,
+  "later_stories": 2
+ },
+ {
+  "story": "a1-03",
+  "level": "A1",
+  "word": "el pelo",
+  "head": "pelo",
+  "key": "pelo",
+  "gloss": "hair",
+  "later_tokens": 3,
+  "later_stories": 3
+ },
+ {
+  "story": "a1-03",
+  "level": "A1",
+  "word": "la mano",
+  "head": "mano",
+  "key": "mano",
+  "gloss": "hand",
+  "later_tokens": 39,
+  "later_stories": 22
+ },
+ {
+  "story": "a1-03",
+  "level": "A1",
+  "word": "el fútbol",
+  "head": "fútbol",
+  "key": "fútbol",
+  "gloss": "soccer",
+  "later_tokens": 2,
+  "later_stories": 2
+ },
+ {
+  "story": "a1-03",
+  "level": "A1",
+  "word": "el bocadillo",
+  "head": "bocadillo",
+  "key": "bocadillo",
+  "gloss": "sandwich",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a1-03",
+  "level": "A1",
+  "word": "el queso",
+  "head": "queso",
+  "key": "queso",
+  "gloss": "cheese",
+  "later_tokens": 2,
+  "later_stories": 2
+ },
+ {
+  "story": "a1-03",
+  "level": "A1",
+  "word": "la manzana",
+  "head": "manzana",
+  "key": "manzana",
+  "gloss": "apple",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a1-03",
+  "level": "A1",
+  "word": "la amiga",
+  "head": "amiga",
+  "key": "amiga",
+  "gloss": "friend (female)",
+  "later_tokens": 2,
+  "later_stories": 2
+ },
+ {
+  "story": "a1-03",
+  "level": "A1",
+  "word": "dibujar",
+  "head": "dibujar",
+  "key": "dibujar",
+  "gloss": "to draw",
+  "later_tokens": 2,
+  "later_stories": 1
+ },
+ {
+  "story": "a1-03",
+  "level": "A1",
+  "word": "comer",
+  "head": "comer",
+  "key": "comer",
+  "gloss": "to eat",
+  "later_tokens": 8,
+  "later_stories": 8
+ },
+ {
+  "story": "a1-03",
+  "level": "A1",
+  "word": "nuevo",
+  "head": "nuevo",
+  "key": "nuevo",
+  "gloss": "new",
+  "later_tokens": 17,
+  "later_stories": 12
+ },
+ {
+  "story": "a1-03",
+  "level": "A1",
+  "word": "nervioso",
+  "head": "nervioso",
+  "key": "nervioso",
+  "gloss": "nervous",
+  "later_tokens": 3,
+  "later_stories": 3
+ },
+ {
+  "story": "a1-03",
+  "level": "A1",
+  "word": "el hambre",
+  "head": "hambre",
+  "key": "hambre",
+  "gloss": "hunger (feminine noun: mucha hambre)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a1-03",
+  "level": "A1",
+  "word": "largo",
+  "head": "largo",
+  "key": "largo",
+  "gloss": "long (not \"large\" = grande)",
+  "later_tokens": 7,
+  "later_stories": 6
+ },
+ {
+  "story": "a1-03",
+  "level": "A1",
+  "word": "juntos / juntas",
+  "head": "juntos",
+  "key": "juntos",
+  "gloss": "together",
+  "later_tokens": 12,
+  "later_stories": 10
+ },
+ {
+  "story": "a1-04",
+  "level": "A1",
+  "word": "la panadería",
+  "head": "panadería",
+  "key": "panadería",
+  "gloss": "bakery",
+  "later_tokens": 4,
+  "later_stories": 2
+ },
+ {
+  "story": "a1-04",
+  "level": "A1",
+  "word": "la pata",
+  "head": "pata",
+  "key": "pata",
+  "gloss": "paw, leg (of an animal)",
+  "later_tokens": 2,
+  "later_stories": 1
+ },
+ {
+  "story": "a1-04",
+  "level": "A1",
+  "word": "la chaqueta",
+  "head": "chaqueta",
+  "key": "chaqueta",
+  "gloss": "jacket",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a1-04",
+  "level": "A1",
+  "word": "hace frío",
+  "head": "hace frío",
+  "key": "hace",
+  "gloss": "it's cold (weather)",
+  "later_tokens": 88,
+  "later_stories": 28
+ },
+ {
+  "story": "a1-04",
+  "level": "A1",
+  "word": "la ventana",
+  "head": "ventana",
+  "key": "ventana",
+  "gloss": "window (here: the shop window)",
+  "later_tokens": 14,
+  "later_stories": 8
+ },
+ {
+  "story": "a1-04",
+  "level": "A1",
+  "word": "la torta",
+  "head": "torta",
+  "key": "torta",
+  "gloss": "cake (in Colombia and much of Latin America)",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "a1-04",
+  "level": "A1",
+  "word": "la fresa",
+  "head": "fresa",
+  "key": "fresa",
+  "gloss": "strawberry",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a1-04",
+  "level": "A1",
+  "word": "gritar",
+  "head": "gritar",
+  "key": "gritar",
+  "gloss": "to shout (grita)",
+  "later_tokens": 11,
+  "later_stories": 9
+ },
+ {
+  "story": "a1-04",
+  "level": "A1",
+  "word": "la esquina",
+  "head": "esquina",
+  "key": "esquina",
+  "gloss": "corner (of a street)",
+  "later_tokens": 4,
+  "later_stories": 4
+ },
+ {
+  "story": "a1-04",
+  "level": "A1",
+  "word": "el policía",
+  "head": "policía",
+  "key": "policía",
+  "gloss": "police officer",
+  "later_tokens": 2,
+  "later_stories": 1
+ },
+ {
+  "story": "a1-04",
+  "level": "A1",
+  "word": "encontrar",
+  "head": "encontrar",
+  "key": "encontrar",
+  "gloss": "to find",
+  "later_tokens": 25,
+  "later_stories": 13
+ },
+ {
+  "story": "a1-04",
+  "level": "A1",
+  "word": "ayudar",
+  "head": "ayudar",
+  "key": "ayudar",
+  "gloss": "to help (¿Me puede ayudar? = Can you help me?)",
+  "later_tokens": 13,
+  "later_stories": 11
+ },
+ {
+  "story": "a1-04",
+  "level": "A1",
+  "word": "el chico",
+  "head": "chico",
+  "key": "chico",
+  "gloss": "boy, young guy",
+  "later_tokens": 5,
+  "later_stories": 3
+ },
+ {
+  "story": "a1-04",
+  "level": "A1",
+  "word": "bajo",
+  "head": "bajo",
+  "key": "bajo",
+  "gloss": "short (person)",
+  "later_tokens": 11,
+  "later_stories": 7
+ },
+ {
+  "story": "a1-04",
+  "level": "A1",
+  "word": "los zapatos",
+  "head": "zapatos",
+  "key": "zapatos",
+  "gloss": "shoes",
+  "later_tokens": 11,
+  "later_stories": 1
+ },
+ {
+  "story": "a1-04",
+  "level": "A1",
+  "word": "el parque",
+  "head": "parque",
+  "key": "parque",
+  "gloss": "park",
+  "later_tokens": 3,
+  "later_stories": 3
+ },
+ {
+  "story": "a1-04",
+  "level": "A1",
+  "word": "el domiciliario",
+  "head": "domiciliario",
+  "key": "domiciliario",
+  "gloss": "delivery man/rider (Colombia)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a1-04",
+  "level": "A1",
+  "word": "alto",
+  "head": "alto",
+  "key": "alto",
+  "gloss": "tall",
+  "later_tokens": 11,
+  "later_stories": 8
+ },
+ {
+  "story": "a1-05",
+  "level": "A1",
+  "word": "la chocolatería",
+  "head": "chocolatería",
+  "key": "chocolatería",
+  "gloss": "café that serves hot chocolate",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a1-05",
+  "level": "A1",
+  "word": "el churro",
+  "head": "churro",
+  "key": "churro",
+  "gloss": "churro (fried dough stick)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a1-05",
+  "level": "A1",
+  "word": "la gente",
+  "head": "gente",
+  "key": "gente",
+  "gloss": "people (singular in Spanish: hay mucha gente)",
+  "later_tokens": 15,
+  "later_stories": 11
+ },
+ {
+  "story": "a1-05",
+  "level": "A1",
+  "word": "libre",
+  "head": "libre",
+  "key": "libre",
+  "gloss": "free (available, not taken)",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "a1-05",
+  "level": "A1",
+  "word": "esperar",
+  "head": "esperar",
+  "key": "esperar",
+  "gloss": "to wait",
+  "later_tokens": 30,
+  "later_stories": 13
+ },
+ {
+  "story": "a1-05",
+  "level": "A1",
+  "word": "costar",
+  "head": "costar",
+  "key": "costar",
+  "gloss": "to cost (cuesta)",
+  "later_tokens": 3,
+  "later_stories": 2
+ },
+ {
+  "story": "a1-05",
+  "level": "A1",
+  "word": "sin",
+  "head": "sin",
+  "key": "sin",
+  "gloss": "without (sin + infinitive: sin mirar = without looking)",
+  "later_tokens": 59,
+  "later_stories": 22
+ },
+ {
+  "story": "a1-05",
+  "level": "A1",
+  "word": "el menú",
+  "head": "menú",
+  "key": "menú",
+  "gloss": "menu",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "a1-05",
+  "level": "A1",
+  "word": "la cocina",
+  "head": "cocina",
+  "key": "cocina",
+  "gloss": "kitchen",
+  "later_tokens": 10,
+  "later_stories": 6
+ },
+ {
+  "story": "a1-05",
+  "level": "A1",
+  "word": "el minuto",
+  "head": "minuto",
+  "key": "minuto",
+  "gloss": "minute",
+  "later_tokens": 13,
+  "later_stories": 9
+ },
+ {
+  "story": "a1-05",
+  "level": "A1",
+  "word": "sonreír",
+  "head": "sonreír",
+  "key": "sonreír",
+  "gloss": "to smile (sonríe)",
+  "later_tokens": 20,
+  "later_stories": 17
+ },
+ {
+  "story": "a1-05",
+  "level": "A1",
+  "word": "la caja",
+  "head": "caja",
+  "key": "caja",
+  "gloss": "till, checkout (where you pay)",
+  "later_tokens": 24,
+  "later_stories": 6
+ },
+ {
+  "story": "a1-05",
+  "level": "A1",
+  "word": "pedir",
+  "head": "pedir",
+  "key": "pedir",
+  "gloss": "to order (food); to ask for",
+  "later_tokens": 26,
+  "later_stories": 11
+ },
+ {
+  "story": "a1-05",
+  "level": "A1",
+  "word": "mayor",
+  "head": "mayor",
+  "key": "mayor",
+  "gloss": "old, elderly (polite)",
+  "later_tokens": 7,
+  "later_stories": 6
+ },
+ {
+  "story": "a1-05",
+  "level": "A1",
+  "word": "el cliente",
+  "head": "cliente",
+  "key": "cliente",
+  "gloss": "customer",
+  "later_tokens": 3,
+  "later_stories": 1
+ },
+ {
+  "story": "a1-05",
+  "level": "A1",
+  "word": "pagar",
+  "head": "pagar",
+  "key": "pagar",
+  "gloss": "to pay",
+  "later_tokens": 6,
+  "later_stories": 5
+ },
+ {
+  "story": "a1-05",
+  "level": "A1",
+  "word": "¿Cuánto es?",
+  "head": "¿cuánto es?",
+  "key": "¿cuánto",
+  "gloss": "How much is it?",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a1-05",
+  "level": "A1",
+  "word": "como antes",
+  "head": "como antes",
+  "key": "como",
+  "gloss": "like before",
+  "later_tokens": 47,
+  "later_stories": 20
+ },
+ {
+  "story": "a1-06",
+  "level": "A1",
+  "word": "la prima",
+  "head": "prima",
+  "key": "prima",
+  "gloss": "cousin (female); el primo = male cousin",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "a1-06",
+  "level": "A1",
+  "word": "casarse",
+  "head": "casarse",
+  "key": "casarse",
+  "gloss": "to get married (se casa)",
+  "later_tokens": 3,
+  "later_stories": 2
+ },
+ {
+  "story": "a1-06",
+  "level": "A1",
+  "word": "la boda",
+  "head": "boda",
+  "key": "boda",
+  "gloss": "wedding",
+  "later_tokens": 2,
+  "later_stories": 1
+ },
+ {
+  "story": "a1-06",
+  "level": "A1",
+  "word": "el salón",
+  "head": "salón",
+  "key": "salón",
+  "gloss": "reception hall, function room",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a1-06",
+  "level": "A1",
+  "word": "pelear",
+  "head": "pelear",
+  "key": "pelear",
+  "gloss": "to fight, to argue (pelean)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a1-06",
+  "level": "A1",
+  "word": "el dominó",
+  "head": "dominó",
+  "key": "dominó",
+  "gloss": "dominoes (the game)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a1-06",
+  "level": "A1",
+  "word": "la suegra",
+  "head": "suegra",
+  "key": "suegra",
+  "gloss": "mother-in-law",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a1-06",
+  "level": "A1",
+  "word": "la tía",
+  "head": "tía",
+  "key": "tía",
+  "gloss": "aunt; el tío = uncle (los tíos = aunts and uncles)",
+  "later_tokens": 2,
+  "later_stories": 1
+ },
+ {
+  "story": "a1-06",
+  "level": "A1",
+  "word": "los gandules",
+  "head": "gandules",
+  "key": "gandules",
+  "gloss": "pigeon peas (arroz con gandules = Puerto Rico's classic rice dish)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a1-06",
+  "level": "A1",
+  "word": "el cuñado",
+  "head": "cuñado",
+  "key": "cuñado",
+  "gloss": "brother-in-law",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a1-06",
+  "level": "A1",
+  "word": "el bizcocho",
+  "head": "bizcocho",
+  "key": "bizcocho",
+  "gloss": "cake (Puerto Rico; party or wedding cake)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a1-06",
+  "level": "A1",
+  "word": "el padrino",
+  "head": "padrino",
+  "key": "padrino",
+  "gloss": "best man, wedding sponsor; also godfather",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a1-06",
+  "level": "A1",
+  "word": "la reina",
+  "head": "reina",
+  "key": "reina",
+  "gloss": "queen",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "a1-06",
+  "level": "A1",
+  "word": "mija",
+  "head": "mija",
+  "key": "mija",
+  "gloss": "sweetheart, dear (from 'mi hija'; affectionate)",
+  "later_tokens": 7,
+  "later_stories": 3
+ },
+ {
+  "story": "a1-06",
+  "level": "A1",
+  "word": "los novios",
+  "head": "novios",
+  "key": "novios",
+  "gloss": "the bride and groom; el novio = groom, boyfriend",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "a1-06",
+  "level": "A1",
+  "word": "juntos",
+  "head": "juntos",
+  "key": "juntos",
+  "gloss": "together",
+  "later_tokens": 10,
+  "later_stories": 9
+ },
+ {
+  "story": "a1-06",
+  "level": "A1",
+  "word": "contra",
+  "head": "contra",
+  "key": "contra",
+  "gloss": "against",
+  "later_tokens": 2,
+  "later_stories": 2
+ },
+ {
+  "story": "a1-06",
+  "level": "A1",
+  "word": "perder",
+  "head": "perder",
+  "key": "perder",
+  "gloss": "to lose (pierden)",
+  "later_tokens": 6,
+  "later_stories": 4
+ },
+ {
+  "story": "a1-06",
+  "level": "A1",
+  "word": "probar",
+  "head": "probar",
+  "key": "probar",
+  "gloss": "to taste, to try (prueba)",
+  "later_tokens": 11,
+  "later_stories": 6
+ },
+ {
+  "story": "a1-06",
+  "level": "A1",
+  "word": "ganar",
+  "head": "ganar",
+  "key": "ganar",
+  "gloss": "to win (gana)",
+  "later_tokens": 9,
+  "later_stories": 5
+ },
+ {
+  "story": "a1-06",
+  "level": "A1",
+  "word": "el hermano",
+  "head": "hermano",
+  "key": "hermano",
+  "gloss": "brother",
+  "later_tokens": 9,
+  "later_stories": 6
+ },
+ {
+  "story": "a1-06",
+  "level": "A1",
+  "word": "sentarse",
+  "head": "sentarse",
+  "key": "sentarse",
+  "gloss": "to sit (down) (se sienta)",
+  "later_tokens": 17,
+  "later_stories": 14
+ },
+ {
+  "story": "a1-06",
+  "level": "A1",
+  "word": "levantarse",
+  "head": "levantarse",
+  "key": "levantarse",
+  "gloss": "to get up (me levanto)",
+  "later_tokens": 7,
+  "later_stories": 7
+ },
+ {
+  "story": "a1-06",
+  "level": "A1",
+  "word": "reírse",
+  "head": "reírse",
+  "key": "reírse",
+  "gloss": "to laugh (se ríen)",
+  "later_tokens": 18,
+  "later_stories": 14
+ },
+ {
+  "story": "a1-07",
+  "level": "A1",
+  "word": "el tren",
+  "head": "tren",
+  "key": "tren",
+  "gloss": "train",
+  "later_tokens": 8,
+  "later_stories": 2
+ },
+ {
+  "story": "a1-07",
+  "level": "A1",
+  "word": "el libro",
+  "head": "libro",
+  "key": "libro",
+  "gloss": "book",
+  "later_tokens": 25,
+  "later_stories": 10
+ },
+ {
+  "story": "a1-07",
+  "level": "A1",
+  "word": "la vista",
+  "head": "vista",
+  "key": "vista",
+  "gloss": "view",
+  "later_tokens": 5,
+  "later_stories": 5
+ },
+ {
+  "story": "a1-07",
+  "level": "A1",
+  "word": "la guía",
+  "head": "guía",
+  "key": "guía",
+  "gloss": "guide (a woman; a man is el guía; also 'guidebook')",
+  "later_tokens": 3,
+  "later_stories": 3
+ },
+ {
+  "story": "a1-07",
+  "level": "A1",
+  "word": "abajo",
+  "head": "abajo",
+  "key": "abajo",
+  "gloss": "down below, downstairs",
+  "later_tokens": 3,
+  "later_stories": 2
+ },
+ {
+  "story": "a1-07",
+  "level": "A1",
+  "word": "arriba",
+  "head": "arriba",
+  "key": "arriba",
+  "gloss": "up, at the top",
+  "later_tokens": 4,
+  "later_stories": 3
+ },
+ {
+  "story": "a1-07",
+  "level": "A1",
+  "word": "inca",
+  "head": "inca",
+  "key": "inca",
+  "gloss": "Inca (adjective: una ciudad inca)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a1-07",
+  "level": "A1",
+  "word": "los incas",
+  "head": "incas",
+  "key": "incas",
+  "gloss": "the Incas (the people)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a1-07",
+  "level": "A1",
+  "word": "el siglo",
+  "head": "siglo",
+  "key": "siglo",
+  "gloss": "century (el siglo quince = the 15th century, the 1400s)",
+  "later_tokens": 10,
+  "later_stories": 6
+ },
+ {
+  "story": "a1-07",
+  "level": "A1",
+  "word": "la nube",
+  "head": "nube",
+  "key": "nube",
+  "gloss": "cloud",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "a1-07",
+  "level": "A1",
+  "word": "triste",
+  "head": "triste",
+  "key": "triste",
+  "gloss": "sad",
+  "later_tokens": 6,
+  "later_stories": 4
+ },
+ {
+  "story": "a1-07",
+  "level": "A1",
+  "word": "el mediodía",
+  "head": "mediodía",
+  "key": "mediodía",
+  "gloss": "midday, noon",
+  "later_tokens": 3,
+  "later_stories": 3
+ },
+ {
+  "story": "a1-07",
+  "level": "A1",
+  "word": "la llama",
+  "head": "llama",
+  "key": "llama",
+  "gloss": "llama (the animal); careful: se llama = is called",
+  "later_tokens": 10,
+  "later_stories": 8
+ },
+ {
+  "story": "a1-07",
+  "level": "A1",
+  "word": "el camino",
+  "head": "camino",
+  "key": "camino",
+  "gloss": "path, trail",
+  "later_tokens": 9,
+  "later_stories": 3
+ },
+ {
+  "story": "a1-07",
+  "level": "A1",
+  "word": "la piedra",
+  "head": "piedra",
+  "key": "piedra",
+  "gloss": "stone, rock",
+  "later_tokens": 5,
+  "later_stories": 3
+ },
+ {
+  "story": "a1-07",
+  "level": "A1",
+  "word": "el quechua",
+  "head": "quechua",
+  "key": "quechua",
+  "gloss": "Quechua (the language of the Incas, still spoken in Peru)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a1-07",
+  "level": "A1",
+  "word": "levantarse",
+  "head": "levantarse",
+  "key": "levantarse",
+  "gloss": "to get up (se levanta = gets up)",
+  "later_tokens": 7,
+  "later_stories": 7
+ },
+ {
+  "story": "a1-07",
+  "level": "A1",
+  "word": "la montaña",
+  "head": "montaña",
+  "key": "montaña",
+  "gloss": "mountain",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a1-07",
+  "level": "A1",
+  "word": "sentarse",
+  "head": "sentarse",
+  "key": "sentarse",
+  "gloss": "to sit down (se sienta = sits down)",
+  "later_tokens": 15,
+  "later_stories": 13
+ },
+ {
+  "story": "a1-07",
+  "level": "A1",
+  "word": "moverse",
+  "head": "moverse",
+  "key": "moverse",
+  "gloss": "to move (no se mueve = doesn't move)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a1-07",
+  "level": "A1",
+  "word": "el sol",
+  "head": "sol",
+  "key": "sol",
+  "gloss": "sun (hay sol = it's sunny)",
+  "later_tokens": 5,
+  "later_stories": 4
+ },
+ {
+  "story": "a1-08",
+  "level": "A1",
+  "word": "el primo",
+  "head": "primo",
+  "key": "primo",
+  "gloss": "cousin (male)",
+  "later_tokens": 4,
+  "later_stories": 4
+ },
+ {
+  "story": "a1-08",
+  "level": "A1",
+  "word": "la librería",
+  "head": "librería",
+  "key": "librería",
+  "gloss": "bookshop",
+  "later_tokens": 5,
+  "later_stories": 1
+ },
+ {
+  "story": "a1-08",
+  "level": "A1",
+  "word": "el pirata",
+  "head": "pirata",
+  "key": "pirata",
+  "gloss": "pirate",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a1-08",
+  "level": "A1",
+  "word": "el mapa",
+  "head": "mapa",
+  "key": "mapa",
+  "gloss": "map (masculine: el mapa)",
+  "later_tokens": 3,
+  "later_stories": 3
+ },
+ {
+  "story": "a1-08",
+  "level": "A1",
+  "word": "el coco",
+  "head": "coco",
+  "key": "coco",
+  "gloss": "coconut",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a1-08",
+  "level": "A1",
+  "word": "el castillo",
+  "head": "castillo",
+  "key": "castillo",
+  "gloss": "castle, fort",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a1-08",
+  "level": "A1",
+  "word": "la Torre del Reloj",
+  "head": "torre del reloj",
+  "key": "torre",
+  "gloss": "the Clock Tower (main gate of Cartagena's old city)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a1-08",
+  "level": "A1",
+  "word": "el tesoro",
+  "head": "tesoro",
+  "key": "tesoro",
+  "gloss": "treasure",
+  "later_tokens": 2,
+  "later_stories": 2
+ },
+ {
+  "story": "a1-08",
+  "level": "A1",
+  "word": "dulce",
+  "head": "dulce",
+  "key": "dulce",
+  "gloss": "sweet; los dulces = sweets, candy",
+  "later_tokens": 3,
+  "later_stories": 3
+ },
+ {
+  "story": "a1-08",
+  "level": "A1",
+  "word": "el oro",
+  "head": "oro",
+  "key": "oro",
+  "gloss": "gold",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a1-08",
+  "level": "A1",
+  "word": "enorme",
+  "head": "enorme",
+  "key": "enorme",
+  "gloss": "huge",
+  "later_tokens": 10,
+  "later_stories": 9
+ },
+ {
+  "story": "a1-08",
+  "level": "A1",
+  "word": "fuerte",
+  "head": "fuerte",
+  "key": "fuerte",
+  "gloss": "strong",
+  "later_tokens": 7,
+  "later_stories": 7
+ },
+ {
+  "story": "a1-08",
+  "level": "A1",
+  "word": "la puerta",
+  "head": "puerta",
+  "key": "puerta",
+  "gloss": "gate; door",
+  "later_tokens": 29,
+  "later_stories": 16
+ },
+ {
+  "story": "a1-08",
+  "level": "A1",
+  "word": "la muralla",
+  "head": "muralla",
+  "key": "muralla",
+  "gloss": "city wall",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a1-08",
+  "level": "A1",
+  "word": "el puesto",
+  "head": "puesto",
+  "key": "puesto",
+  "gloss": "stall, stand",
+  "later_tokens": 3,
+  "later_stories": 3
+ },
+ {
+  "story": "a1-08",
+  "level": "A1",
+  "word": "el dibujo",
+  "head": "dibujo",
+  "key": "dibujo",
+  "gloss": "drawing",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a1-08",
+  "level": "A1",
+  "word": "la cocada",
+  "head": "cocada",
+  "key": "cocada",
+  "gloss": "cocada (coconut sweet from Colombia's Caribbean coast)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a1-08",
+  "level": "A1",
+  "word": "mejor",
+  "head": "mejor",
+  "key": "mejor",
+  "gloss": "better",
+  "later_tokens": 18,
+  "later_stories": 13
+ },
+ {
+  "story": "a1-08",
+  "level": "A1",
+  "word": "buscar",
+  "head": "buscar",
+  "key": "buscar",
+  "gloss": "to look for",
+  "later_tokens": 19,
+  "later_stories": 15
+ },
+ {
+  "story": "a1-09",
+  "level": "A1",
+  "word": "el teléfono",
+  "head": "teléfono",
+  "key": "teléfono",
+  "gloss": "phone",
+  "later_tokens": 19,
+  "later_stories": 12
+ },
+ {
+  "story": "a1-09",
+  "level": "A1",
+  "word": "sonar",
+  "head": "sonar",
+  "key": "sonar",
+  "gloss": "to ring; to sound",
+  "later_tokens": 12,
+  "later_stories": 8
+ },
+ {
+  "story": "a1-09",
+  "level": "A1",
+  "word": "el fin de semana",
+  "head": "fin de semana",
+  "key": "fin",
+  "gloss": "weekend",
+  "later_tokens": 14,
+  "later_stories": 11
+ },
+ {
+  "story": "a1-09",
+  "level": "A1",
+  "word": "la familia",
+  "head": "familia",
+  "key": "familia",
+  "gloss": "family",
+  "later_tokens": 12,
+  "later_stories": 9
+ },
+ {
+  "story": "a1-09",
+  "level": "A1",
+  "word": "lejos",
+  "head": "lejos",
+  "key": "lejos",
+  "gloss": "far away",
+  "later_tokens": 4,
+  "later_stories": 4
+ },
+ {
+  "story": "a1-09",
+  "level": "A1",
+  "word": "cocinar",
+  "head": "cocinar",
+  "key": "cocinar",
+  "gloss": "to cook",
+  "later_tokens": 7,
+  "later_stories": 4
+ },
+ {
+  "story": "a1-09",
+  "level": "A1",
+  "word": "la tortilla",
+  "head": "tortilla",
+  "key": "tortilla",
+  "gloss": "Spanish omelet (egg and potato)",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "a1-09",
+  "level": "A1",
+  "word": "el queso",
+  "head": "queso",
+  "key": "queso",
+  "gloss": "cheese",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "a1-09",
+  "level": "A1",
+  "word": "el edificio",
+  "head": "edificio",
+  "key": "edificio",
+  "gloss": "building",
+  "later_tokens": 9,
+  "later_stories": 8
+ },
+ {
+  "story": "a1-09",
+  "level": "A1",
+  "word": "la ventana",
+  "head": "ventana",
+  "key": "ventana",
+  "gloss": "window",
+  "later_tokens": 13,
+  "later_stories": 7
+ },
+ {
+  "story": "a1-09",
+  "level": "A1",
+  "word": "la maleta",
+  "head": "maleta",
+  "key": "maleta",
+  "gloss": "suitcase",
+  "later_tokens": 2,
+  "later_stories": 2
+ },
+ {
+  "story": "a1-09",
+  "level": "A1",
+  "word": "la flor (las flores)",
+  "head": "flor",
+  "key": "flor",
+  "gloss": "flower",
+  "later_tokens": 3,
+  "later_stories": 3
+ },
+ {
+  "story": "a1-09",
+  "level": "A1",
+  "word": "la puerta",
+  "head": "puerta",
+  "key": "puerta",
+  "gloss": "door",
+  "later_tokens": 28,
+  "later_stories": 15
+ },
+ {
+  "story": "a1-09",
+  "level": "A1",
+  "word": "el viernes",
+  "head": "viernes",
+  "key": "viernes",
+  "gloss": "Friday",
+  "later_tokens": 13,
+  "later_stories": 7
+ },
+ {
+  "story": "a1-09",
+  "level": "A1",
+  "word": "la pantalla",
+  "head": "pantalla",
+  "key": "pantalla",
+  "gloss": "screen",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "a1-09",
+  "level": "A1",
+  "word": "la película",
+  "head": "película",
+  "key": "película",
+  "gloss": "movie",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a1-09",
+  "level": "A1",
+  "word": "aburrido",
+  "head": "aburrido",
+  "key": "aburrido",
+  "gloss": "boring",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a1-09",
+  "level": "A1",
+  "word": "delante de",
+  "head": "delante de",
+  "key": "delante",
+  "gloss": "in front of",
+  "later_tokens": 6,
+  "later_stories": 4
+ },
+ {
+  "story": "a1-10",
+  "level": "A1",
+  "word": "la playa",
+  "head": "playa",
+  "key": "playa",
+  "gloss": "beach",
+  "later_tokens": 2,
+  "later_stories": 1
+ },
+ {
+  "story": "a1-10",
+  "level": "A1",
+  "word": "el tren",
+  "head": "tren",
+  "key": "tren",
+  "gloss": "train",
+  "later_tokens": 6,
+  "later_stories": 1
+ },
+ {
+  "story": "a1-10",
+  "level": "A1",
+  "word": "el mar",
+  "head": "mar",
+  "key": "mar",
+  "gloss": "sea",
+  "later_tokens": 5,
+  "later_stories": 4
+ },
+ {
+  "story": "a1-10",
+  "level": "A1",
+  "word": "el abuelo",
+  "head": "abuelo",
+  "key": "abuelo",
+  "gloss": "grandfather",
+  "later_tokens": 17,
+  "later_stories": 6
+ },
+ {
+  "story": "a1-10",
+  "level": "A1",
+  "word": "el pescado",
+  "head": "pescado",
+  "key": "pescado",
+  "gloss": "fish (as food)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a1-10",
+  "level": "A1",
+  "word": "la mochila",
+  "head": "mochila",
+  "key": "mochila",
+  "gloss": "backpack",
+  "later_tokens": 7,
+  "later_stories": 4
+ },
+ {
+  "story": "a1-10",
+  "level": "A1",
+  "word": "el billete",
+  "head": "billete",
+  "key": "billete",
+  "gloss": "ticket (Latin America: el boleto)",
+  "later_tokens": 2,
+  "later_stories": 2
+ },
+ {
+  "story": "a1-10",
+  "level": "A1",
+  "word": "la estación",
+  "head": "estación",
+  "key": "estación",
+  "gloss": "station",
+  "later_tokens": 2,
+  "later_stories": 1
+ },
+ {
+  "story": "a1-10",
+  "level": "A1",
+  "word": "la arena",
+  "head": "arena",
+  "key": "arena",
+  "gloss": "sand",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a1-10",
+  "level": "A1",
+  "word": "la toalla",
+  "head": "toalla",
+  "key": "toalla",
+  "gloss": "towel",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a1-10",
+  "level": "A1",
+  "word": "la fruta",
+  "head": "fruta",
+  "key": "fruta",
+  "gloss": "fruit",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a1-10",
+  "level": "A1",
+  "word": "el hermano",
+  "head": "hermano",
+  "key": "hermano",
+  "gloss": "brother",
+  "later_tokens": 6,
+  "later_stories": 4
+ },
+ {
+  "story": "a1-10",
+  "level": "A1",
+  "word": "la ventana",
+  "head": "ventana",
+  "key": "ventana",
+  "gloss": "window",
+  "later_tokens": 12,
+  "later_stories": 6
+ },
+ {
+  "story": "a1-10",
+  "level": "A1",
+  "word": "preparar",
+  "head": "preparar",
+  "key": "preparar",
+  "gloss": "to prepare; to pack (a bag)",
+  "later_tokens": 4,
+  "later_stories": 4
+ },
+ {
+  "story": "a1-10",
+  "level": "A1",
+  "word": "encontrar",
+  "head": "encontrar",
+  "key": "encontrar",
+  "gloss": "to find (encuentra)",
+  "later_tokens": 24,
+  "later_stories": 12
+ },
+ {
+  "story": "a1-10",
+  "level": "A1",
+  "word": "temprano",
+  "head": "temprano",
+  "key": "temprano",
+  "gloss": "early",
+  "later_tokens": 3,
+  "later_stories": 3
+ },
+ {
+  "story": "a1-10",
+  "level": "A1",
+  "word": "el recuerdo",
+  "head": "recuerdo",
+  "key": "recuerdo",
+  "gloss": "memory",
+  "later_tokens": 18,
+  "later_stories": 11
+ },
+ {
+  "story": "a2-01",
+  "level": "A2",
+  "word": "la estación",
+  "head": "estación",
+  "key": "estación",
+  "gloss": "station",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a2-01",
+  "level": "A2",
+  "word": "la boda",
+  "head": "boda",
+  "key": "boda",
+  "gloss": "wedding",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a2-01",
+  "level": "A2",
+  "word": "correr",
+  "head": "correr",
+  "key": "correr",
+  "gloss": "to run",
+  "later_tokens": 15,
+  "later_stories": 12
+ },
+ {
+  "story": "a2-01",
+  "level": "A2",
+  "word": "el andén",
+  "head": "andén",
+  "key": "andén",
+  "gloss": "platform",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a2-01",
+  "level": "A2",
+  "word": "el tren",
+  "head": "tren",
+  "key": "tren",
+  "gloss": "train",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a2-01",
+  "level": "A2",
+  "word": "llorar",
+  "head": "llorar",
+  "key": "llorar",
+  "gloss": "to cry",
+  "later_tokens": 12,
+  "later_stories": 11
+ },
+ {
+  "story": "a2-01",
+  "level": "A2",
+  "word": "el billete",
+  "head": "billete",
+  "key": "billete",
+  "gloss": "ticket",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "a2-01",
+  "level": "A2",
+  "word": "el autobús",
+  "head": "autobús",
+  "key": "autobús",
+  "gloss": "bus",
+  "later_tokens": 2,
+  "later_stories": 2
+ },
+ {
+  "story": "a2-01",
+  "level": "A2",
+  "word": "subir",
+  "head": "subir",
+  "key": "subir",
+  "gloss": "to get on, to go up",
+  "later_tokens": 10,
+  "later_stories": 9
+ },
+ {
+  "story": "a2-01",
+  "level": "A2",
+  "word": "el viaje",
+  "head": "viaje",
+  "key": "viaje",
+  "gloss": "trip",
+  "later_tokens": 4,
+  "later_stories": 1
+ },
+ {
+  "story": "a2-01",
+  "level": "A2",
+  "word": "la avería",
+  "head": "avería",
+  "key": "avería",
+  "gloss": "breakdown",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a2-01",
+  "level": "A2",
+  "word": "llegar",
+  "head": "llegar",
+  "key": "llegar",
+  "gloss": "to arrive",
+  "later_tokens": 43,
+  "later_stories": 23
+ },
+ {
+  "story": "a2-01",
+  "level": "A2",
+  "word": "la maleta",
+  "head": "maleta",
+  "key": "maleta",
+  "gloss": "suitcase",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "a2-01",
+  "level": "A2",
+  "word": "la guitarra",
+  "head": "guitarra",
+  "key": "guitarra",
+  "gloss": "guitar",
+  "later_tokens": 10,
+  "later_stories": 4
+ },
+ {
+  "story": "a2-01",
+  "level": "A2",
+  "word": "el pueblo",
+  "head": "pueblo",
+  "key": "pueblo",
+  "gloss": "small town",
+  "later_tokens": 8,
+  "later_stories": 4
+ },
+ {
+  "story": "a2-01",
+  "level": "A2",
+  "word": "el primo",
+  "head": "primo",
+  "key": "primo",
+  "gloss": "cousin",
+  "later_tokens": 3,
+  "later_stories": 3
+ },
+ {
+  "story": "a2-01",
+  "level": "A2",
+  "word": "perder (el tren)",
+  "head": "perder",
+  "key": "perder",
+  "gloss": "to miss (a train); to lose",
+  "later_tokens": 3,
+  "later_stories": 3
+ },
+ {
+  "story": "a2-02",
+  "level": "A2",
+  "word": "la caja",
+  "head": "caja",
+  "key": "caja",
+  "gloss": "box",
+  "later_tokens": 22,
+  "later_stories": 5
+ },
+ {
+  "story": "a2-02",
+  "level": "A2",
+  "word": "el regalo",
+  "head": "regalo",
+  "key": "regalo",
+  "gloss": "gift",
+  "later_tokens": 2,
+  "later_stories": 2
+ },
+ {
+  "story": "a2-02",
+  "level": "A2",
+  "word": "la llave",
+  "head": "llave",
+  "key": "llave",
+  "gloss": "key",
+  "later_tokens": 7,
+  "later_stories": 4
+ },
+ {
+  "story": "a2-02",
+  "level": "A2",
+  "word": "el mercado",
+  "head": "mercado",
+  "key": "mercado",
+  "gloss": "market",
+  "later_tokens": 6,
+  "later_stories": 2
+ },
+ {
+  "story": "a2-02",
+  "level": "A2",
+  "word": "la sorpresa",
+  "head": "sorpresa",
+  "key": "sorpresa",
+  "gloss": "surprise",
+  "later_tokens": 8,
+  "later_stories": 7
+ },
+ {
+  "story": "a2-02",
+  "level": "A2",
+  "word": "caminar",
+  "head": "caminar",
+  "key": "caminar",
+  "gloss": "to walk",
+  "later_tokens": 24,
+  "later_stories": 14
+ },
+ {
+  "story": "a2-02",
+  "level": "A2",
+  "word": "la panadería",
+  "head": "panadería",
+  "key": "panadería",
+  "gloss": "bakery",
+  "later_tokens": 2,
+  "later_stories": 1
+ },
+ {
+  "story": "a2-02",
+  "level": "A2",
+  "word": "el panadero",
+  "head": "panadero",
+  "key": "panadero",
+  "gloss": "baker",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "a2-02",
+  "level": "A2",
+  "word": "correr",
+  "head": "correr",
+  "key": "correr",
+  "gloss": "to run",
+  "later_tokens": 14,
+  "later_stories": 11
+ },
+ {
+  "story": "a2-02",
+  "level": "A2",
+  "word": "saltar",
+  "head": "saltar",
+  "key": "saltar",
+  "gloss": "to jump",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "a2-02",
+  "level": "A2",
+  "word": "el cachorro",
+  "head": "cachorro",
+  "key": "cachorro",
+  "gloss": "puppy",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a2-02",
+  "level": "A2",
+  "word": "llorar",
+  "head": "llorar",
+  "key": "llorar",
+  "gloss": "to cry",
+  "later_tokens": 11,
+  "later_stories": 10
+ },
+ {
+  "story": "a2-02",
+  "level": "A2",
+  "word": "abrazar",
+  "head": "abrazar",
+  "key": "abrazar",
+  "gloss": "to hug",
+  "later_tokens": 5,
+  "later_stories": 5
+ },
+ {
+  "story": "a2-02",
+  "level": "A2",
+  "word": "la puerta",
+  "head": "puerta",
+  "key": "puerta",
+  "gloss": "door",
+  "later_tokens": 26,
+  "later_stories": 14
+ },
+ {
+  "story": "a2-02",
+  "level": "A2",
+  "word": "el abuelo",
+  "head": "abuelo",
+  "key": "abuelo",
+  "gloss": "grandfather",
+  "later_tokens": 12,
+  "later_stories": 5
+ },
+ {
+  "story": "a2-02",
+  "level": "A2",
+  "word": "encontrar",
+  "head": "encontrar",
+  "key": "encontrar",
+  "gloss": "to find",
+  "later_tokens": 22,
+  "later_stories": 10
+ },
+ {
+  "story": "a2-03",
+  "level": "A2",
+  "word": "decidir",
+  "head": "decidir",
+  "key": "decidir",
+  "gloss": "to decide",
+  "later_tokens": 5,
+  "later_stories": 5
+ },
+ {
+  "story": "a2-03",
+  "level": "A2",
+  "word": "la receta",
+  "head": "receta",
+  "key": "receta",
+  "gloss": "recipe",
+  "later_tokens": 7,
+  "later_stories": 4
+ },
+ {
+  "story": "a2-03",
+  "level": "A2",
+  "word": "el supermercado",
+  "head": "supermercado",
+  "key": "supermercado",
+  "gloss": "supermarket",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "a2-03",
+  "level": "A2",
+  "word": "cortar",
+  "head": "cortar",
+  "key": "cortar",
+  "gloss": "to cut",
+  "later_tokens": 3,
+  "later_stories": 2
+ },
+ {
+  "story": "a2-03",
+  "level": "A2",
+  "word": "cocinar",
+  "head": "cocinar",
+  "key": "cocinar",
+  "gloss": "to cook",
+  "later_tokens": 6,
+  "later_stories": 3
+ },
+ {
+  "story": "a2-03",
+  "level": "A2",
+  "word": "rico",
+  "head": "rico",
+  "key": "rico",
+  "gloss": "tasty",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "a2-03",
+  "level": "A2",
+  "word": "el ingrediente",
+  "head": "ingrediente",
+  "key": "ingrediente",
+  "gloss": "ingredient",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "a2-03",
+  "level": "A2",
+  "word": "el secreto",
+  "head": "secreto",
+  "key": "secreto",
+  "gloss": "secret",
+  "later_tokens": 7,
+  "later_stories": 6
+ },
+ {
+  "story": "a2-03",
+  "level": "A2",
+  "word": "probar",
+  "head": "probar",
+  "key": "probar",
+  "gloss": "to taste, to try",
+  "later_tokens": 7,
+  "later_stories": 5
+ },
+ {
+  "story": "a2-03",
+  "level": "A2",
+  "word": "la cocina",
+  "head": "cocina",
+  "key": "cocina",
+  "gloss": "kitchen",
+  "later_tokens": 8,
+  "later_stories": 4
+ },
+ {
+  "story": "a2-03",
+  "level": "A2",
+  "word": "el cuaderno",
+  "head": "cuaderno",
+  "key": "cuaderno",
+  "gloss": "notebook",
+  "later_tokens": 6,
+  "later_stories": 3
+ },
+ {
+  "story": "a2-03",
+  "level": "A2",
+  "word": "la sartén",
+  "head": "sartén",
+  "key": "sartén",
+  "gloss": "frying pan",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a2-03",
+  "level": "A2",
+  "word": "la mesa",
+  "head": "mesa",
+  "key": "mesa",
+  "gloss": "table",
+  "later_tokens": 11,
+  "later_stories": 7
+ },
+ {
+  "story": "a2-03",
+  "level": "A2",
+  "word": "el sabor",
+  "head": "sabor",
+  "key": "sabor",
+  "gloss": "flavor",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a2-03",
+  "level": "A2",
+  "word": "faltar",
+  "head": "faltar",
+  "key": "faltar",
+  "gloss": "to be missing (falta algo = something is missing)",
+  "later_tokens": 11,
+  "later_stories": 9
+ },
+ {
+  "story": "a2-03",
+  "level": "A2",
+  "word": "el nieto",
+  "head": "nieto",
+  "key": "nieto",
+  "gloss": "grandson",
+  "later_tokens": 4,
+  "later_stories": 3
+ },
+ {
+  "story": "a2-03",
+  "level": "A2",
+  "word": "llorar",
+  "head": "llorar",
+  "key": "llorar",
+  "gloss": "to cry",
+  "later_tokens": 10,
+  "later_stories": 9
+ },
+ {
+  "story": "a2-04",
+  "level": "A2",
+  "word": "el fútbol",
+  "head": "fútbol",
+  "key": "fútbol",
+  "gloss": "soccer",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "a2-04",
+  "level": "A2",
+  "word": "el portero",
+  "head": "portero",
+  "key": "portero",
+  "gloss": "goalkeeper (in Colombia also el arquero)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a2-04",
+  "level": "A2",
+  "word": "tirar",
+  "head": "tirar",
+  "key": "tirar",
+  "gloss": "to kick, to throw",
+  "later_tokens": 3,
+  "later_stories": 2
+ },
+ {
+  "story": "a2-04",
+  "level": "A2",
+  "word": "el balón",
+  "head": "balón",
+  "key": "balón",
+  "gloss": "ball",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a2-04",
+  "level": "A2",
+  "word": "el equipo",
+  "head": "equipo",
+  "key": "equipo",
+  "gloss": "team",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "a2-04",
+  "level": "A2",
+  "word": "la final",
+  "head": "final",
+  "key": "final",
+  "gloss": "final",
+  "later_tokens": 11,
+  "later_stories": 10
+ },
+ {
+  "story": "a2-04",
+  "level": "A2",
+  "word": "el estadio",
+  "head": "estadio",
+  "key": "estadio",
+  "gloss": "stadium",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a2-04",
+  "level": "A2",
+  "word": "el gol",
+  "head": "gol",
+  "key": "gol",
+  "gloss": "goal",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a2-04",
+  "level": "A2",
+  "word": "el árbitro",
+  "head": "árbitro",
+  "key": "árbitro",
+  "gloss": "referee",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a2-04",
+  "level": "A2",
+  "word": "el penalti",
+  "head": "penalti",
+  "key": "penalti",
+  "gloss": "penalty kick (in Colombia people usually say el penal)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a2-04",
+  "level": "A2",
+  "word": "patear",
+  "head": "patear",
+  "key": "patear",
+  "gloss": "to kick",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a2-04",
+  "level": "A2",
+  "word": "parar",
+  "head": "parar",
+  "key": "parar",
+  "gloss": "to stop",
+  "later_tokens": 2,
+  "later_stories": 2
+ },
+ {
+  "story": "a2-04",
+  "level": "A2",
+  "word": "ganar",
+  "head": "ganar",
+  "key": "ganar",
+  "gloss": "to win",
+  "later_tokens": 8,
+  "later_stories": 4
+ },
+ {
+  "story": "a2-04",
+  "level": "A2",
+  "word": "el público",
+  "head": "público",
+  "key": "público",
+  "gloss": "crowd",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a2-04",
+  "level": "A2",
+  "word": "el compañero",
+  "head": "compañero",
+  "key": "compañero",
+  "gloss": "teammate",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a2-04",
+  "level": "A2",
+  "word": "reír",
+  "head": "reír",
+  "key": "reír",
+  "gloss": "to laugh",
+  "later_tokens": 5,
+  "later_stories": 3
+ },
+ {
+  "story": "a2-05",
+  "level": "A2",
+  "word": "el mensaje",
+  "head": "mensaje",
+  "key": "mensaje",
+  "gloss": "message",
+  "later_tokens": 5,
+  "later_stories": 4
+ },
+ {
+  "story": "a2-05",
+  "level": "A2",
+  "word": "equivocado",
+  "head": "equivocado",
+  "key": "equivocado",
+  "gloss": "wrong, mistaken",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "a2-05",
+  "level": "A2",
+  "word": "cambiar",
+  "head": "cambiar",
+  "key": "cambiar",
+  "gloss": "to change",
+  "later_tokens": 14,
+  "later_stories": 11
+ },
+ {
+  "story": "a2-05",
+  "level": "A2",
+  "word": "la batería",
+  "head": "batería",
+  "key": "batería",
+  "gloss": "battery",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "a2-05",
+  "level": "A2",
+  "word": "el vecino",
+  "head": "vecino",
+  "key": "vecino",
+  "gloss": "neighbor",
+  "later_tokens": 11,
+  "later_stories": 7
+ },
+ {
+  "story": "a2-05",
+  "level": "A2",
+  "word": "el paraguas",
+  "head": "paraguas",
+  "key": "paraguas",
+  "gloss": "umbrella",
+  "later_tokens": 3,
+  "later_stories": 2
+ },
+ {
+  "story": "a2-05",
+  "level": "A2",
+  "word": "la llave",
+  "head": "llave",
+  "key": "llave",
+  "gloss": "key",
+  "later_tokens": 5,
+  "later_stories": 3
+ },
+ {
+  "story": "a2-05",
+  "level": "A2",
+  "word": "la ventana",
+  "head": "ventana",
+  "key": "ventana",
+  "gloss": "window",
+  "later_tokens": 10,
+  "later_stories": 5
+ },
+ {
+  "story": "a2-05",
+  "level": "A2",
+  "word": "la calle",
+  "head": "calle",
+  "key": "calle",
+  "gloss": "street",
+  "later_tokens": 14,
+  "later_stories": 9
+ },
+ {
+  "story": "a2-05",
+  "level": "A2",
+  "word": "el abrigo",
+  "head": "abrigo",
+  "key": "abrigo",
+  "gloss": "coat",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "a2-05",
+  "level": "A2",
+  "word": "la mochila",
+  "head": "mochila",
+  "key": "mochila",
+  "gloss": "backpack",
+  "later_tokens": 6,
+  "later_stories": 3
+ },
+ {
+  "story": "a2-05",
+  "level": "A2",
+  "word": "sonreír",
+  "head": "sonreír",
+  "key": "sonreír",
+  "gloss": "to smile",
+  "later_tokens": 12,
+  "later_stories": 11
+ },
+ {
+  "story": "a2-05",
+  "level": "A2",
+  "word": "ayudar",
+  "head": "ayudar",
+  "key": "ayudar",
+  "gloss": "to help",
+  "later_tokens": 12,
+  "later_stories": 10
+ },
+ {
+  "story": "a2-05",
+  "level": "A2",
+  "word": "la sala",
+  "head": "sala",
+  "key": "sala",
+  "gloss": "living room",
+  "later_tokens": 14,
+  "later_stories": 5
+ },
+ {
+  "story": "a2-05",
+  "level": "A2",
+  "word": "llover",
+  "head": "llover",
+  "key": "llover",
+  "gloss": "to rain",
+  "later_tokens": 6,
+  "later_stories": 3
+ },
+ {
+  "story": "a2-06",
+  "level": "A2",
+  "word": "el apartamento",
+  "head": "apartamento",
+  "key": "apartamento",
+  "gloss": "apartment (in Chile: el departamento)",
+  "later_tokens": 2,
+  "later_stories": 2
+ },
+ {
+  "story": "a2-06",
+  "level": "A2",
+  "word": "la camioneta",
+  "head": "camioneta",
+  "key": "camioneta",
+  "gloss": "van",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a2-06",
+  "level": "A2",
+  "word": "la caja",
+  "head": "caja",
+  "key": "caja",
+  "gloss": "box",
+  "later_tokens": 18,
+  "later_stories": 4
+ },
+ {
+  "story": "a2-06",
+  "level": "A2",
+  "word": "el balcón",
+  "head": "balcón",
+  "key": "balcón",
+  "gloss": "balcony",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "a2-06",
+  "level": "A2",
+  "word": "el ascensor",
+  "head": "ascensor",
+  "key": "ascensor",
+  "gloss": "elevator",
+  "later_tokens": 6,
+  "later_stories": 3
+ },
+ {
+  "story": "a2-06",
+  "level": "A2",
+  "word": "la escalera",
+  "head": "escalera",
+  "key": "escalera",
+  "gloss": "stairs",
+  "later_tokens": 3,
+  "later_stories": 1
+ },
+ {
+  "story": "a2-06",
+  "level": "A2",
+  "word": "el vecino",
+  "head": "vecino",
+  "key": "vecino",
+  "gloss": "neighbor",
+  "later_tokens": 10,
+  "later_stories": 6
+ },
+ {
+  "story": "a2-06",
+  "level": "A2",
+  "word": "la lámpara",
+  "head": "lámpara",
+  "key": "lámpara",
+  "gloss": "lamp",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a2-06",
+  "level": "A2",
+  "word": "la carta",
+  "head": "carta",
+  "key": "carta",
+  "gloss": "letter",
+  "later_tokens": 12,
+  "later_stories": 5
+ },
+ {
+  "story": "a2-06",
+  "level": "A2",
+  "word": "la bombilla",
+  "head": "bombilla",
+  "key": "bombilla",
+  "gloss": "light bulb (in Chile people say la ampolleta; there, a bombilla is the metal straw for mate)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a2-06",
+  "level": "A2",
+  "word": "la sorpresa",
+  "head": "sorpresa",
+  "key": "sorpresa",
+  "gloss": "surprise",
+  "later_tokens": 7,
+  "later_stories": 6
+ },
+ {
+  "story": "a2-06",
+  "level": "A2",
+  "word": "el hogar",
+  "head": "hogar",
+  "key": "hogar",
+  "gloss": "home",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a2-06",
+  "level": "A2",
+  "word": "mudarse",
+  "head": "mudarse",
+  "key": "mudarse",
+  "gloss": "to move (house)",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "a2-06",
+  "level": "A2",
+  "word": "quejarse",
+  "head": "quejarse",
+  "key": "quejarse",
+  "gloss": "to complain",
+  "later_tokens": 3,
+  "later_stories": 2
+ },
+ {
+  "story": "a2-06",
+  "level": "A2",
+  "word": "abrazar",
+  "head": "abrazar",
+  "key": "abrazar",
+  "gloss": "to hug",
+  "later_tokens": 4,
+  "later_stories": 4
+ },
+ {
+  "story": "a2-06",
+  "level": "A2",
+  "word": "llorar",
+  "head": "llorar",
+  "key": "llorar",
+  "gloss": "to cry",
+  "later_tokens": 9,
+  "later_stories": 8
+ },
+ {
+  "story": "a2-07",
+  "level": "A2",
+  "word": "la guitarra",
+  "head": "guitarra",
+  "key": "guitarra",
+  "gloss": "guitar",
+  "later_tokens": 6,
+  "later_stories": 3
+ },
+ {
+  "story": "a2-07",
+  "level": "A2",
+  "word": "la plaza",
+  "head": "plaza",
+  "key": "plaza",
+  "gloss": "square",
+  "later_tokens": 8,
+  "later_stories": 4
+ },
+ {
+  "story": "a2-07",
+  "level": "A2",
+  "word": "el sombrero",
+  "head": "sombrero",
+  "key": "sombrero",
+  "gloss": "hat",
+  "later_tokens": 6,
+  "later_stories": 3
+ },
+ {
+  "story": "a2-07",
+  "level": "A2",
+  "word": "la moneda",
+  "head": "moneda",
+  "key": "moneda",
+  "gloss": "coin",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "a2-07",
+  "level": "A2",
+  "word": "la canción",
+  "head": "canción",
+  "key": "canción",
+  "gloss": "song",
+  "later_tokens": 4,
+  "later_stories": 4
+ },
+ {
+  "story": "a2-07",
+  "level": "A2",
+  "word": "la cuerda",
+  "head": "cuerda",
+  "key": "cuerda",
+  "gloss": "string",
+  "later_tokens": 2,
+  "later_stories": 2
+ },
+ {
+  "story": "a2-07",
+  "level": "A2",
+  "word": "el abuelo",
+  "head": "abuelo",
+  "key": "abuelo",
+  "gloss": "grandfather",
+  "later_tokens": 10,
+  "later_stories": 3
+ },
+ {
+  "story": "a2-07",
+  "level": "A2",
+  "word": "la tienda",
+  "head": "tienda",
+  "key": "tienda",
+  "gloss": "shop",
+  "later_tokens": 3,
+  "later_stories": 3
+ },
+ {
+  "story": "a2-07",
+  "level": "A2",
+  "word": "el tambor",
+  "head": "tambor",
+  "key": "tambor",
+  "gloss": "drum",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a2-07",
+  "level": "A2",
+  "word": "el regalo",
+  "head": "regalo",
+  "key": "regalo",
+  "gloss": "gift",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "a2-07",
+  "level": "A2",
+  "word": "el trato",
+  "head": "trato",
+  "key": "trato",
+  "gloss": "deal",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a2-07",
+  "level": "A2",
+  "word": "la clase",
+  "head": "clase",
+  "key": "clase",
+  "gloss": "lesson",
+  "later_tokens": 3,
+  "later_stories": 2
+ },
+ {
+  "story": "a2-07",
+  "level": "A2",
+  "word": "tocar",
+  "head": "tocar",
+  "key": "tocar",
+  "gloss": "to play (an instrument)",
+  "later_tokens": 17,
+  "later_stories": 8
+ },
+ {
+  "story": "a2-07",
+  "level": "A2",
+  "word": "bailar",
+  "head": "bailar",
+  "key": "bailar",
+  "gloss": "to dance",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a2-07",
+  "level": "A2",
+  "word": "escuchar",
+  "head": "escuchar",
+  "key": "escuchar",
+  "gloss": "to listen",
+  "later_tokens": 14,
+  "later_stories": 8
+ },
+ {
+  "story": "a2-07",
+  "level": "A2",
+  "word": "aplaudir",
+  "head": "aplaudir",
+  "key": "aplaudir",
+  "gloss": "to applaud",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "a2-07",
+  "level": "A2",
+  "word": "ven (vos: vení)",
+  "head": "ven",
+  "key": "ven",
+  "gloss": "come! (in Buenos Aires people say vení; also tocá, tomá)",
+  "later_tokens": 23,
+  "later_stories": 15
+ },
+ {
+  "story": "a2-08",
+  "level": "A2",
+  "word": "la montaña",
+  "head": "montaña",
+  "key": "montaña",
+  "gloss": "mountain",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a2-08",
+  "level": "A2",
+  "word": "el sendero",
+  "head": "sendero",
+  "key": "sendero",
+  "gloss": "trail",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a2-08",
+  "level": "A2",
+  "word": "la mochila",
+  "head": "mochila",
+  "key": "mochila",
+  "gloss": "backpack",
+  "later_tokens": 5,
+  "later_stories": 2
+ },
+ {
+  "story": "a2-08",
+  "level": "A2",
+  "word": "el guía",
+  "head": "guía",
+  "key": "guía",
+  "gloss": "guide",
+  "later_tokens": 2,
+  "later_stories": 2
+ },
+ {
+  "story": "a2-08",
+  "level": "A2",
+  "word": "el río",
+  "head": "río",
+  "key": "río",
+  "gloss": "river",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a2-08",
+  "level": "A2",
+  "word": "el paisaje",
+  "head": "paisaje",
+  "key": "paisaje",
+  "gloss": "scenery",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a2-08",
+  "level": "A2",
+  "word": "el almuerzo",
+  "head": "almuerzo",
+  "key": "almuerzo",
+  "gloss": "lunch",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a2-08",
+  "level": "A2",
+  "word": "la niebla",
+  "head": "niebla",
+  "key": "niebla",
+  "gloss": "fog",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a2-08",
+  "level": "A2",
+  "word": "la bota",
+  "head": "bota",
+  "key": "bota",
+  "gloss": "boot",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a2-08",
+  "level": "A2",
+  "word": "la chimenea",
+  "head": "chimenea",
+  "key": "chimenea",
+  "gloss": "chimney",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "a2-08",
+  "level": "A2",
+  "word": "el chocolate",
+  "head": "chocolate",
+  "key": "chocolate",
+  "gloss": "hot chocolate",
+  "later_tokens": 2,
+  "later_stories": 2
+ },
+ {
+  "story": "a2-08",
+  "level": "A2",
+  "word": "gritar",
+  "head": "gritar",
+  "key": "gritar",
+  "gloss": "to shout",
+  "later_tokens": 3,
+  "later_stories": 3
+ },
+ {
+  "story": "a2-08",
+  "level": "A2",
+  "word": "perdido/a",
+  "head": "perdido",
+  "key": "perdido",
+  "gloss": "lost",
+  "later_tokens": 5,
+  "later_stories": 4
+ },
+ {
+  "story": "a2-08",
+  "level": "A2",
+  "word": "caminar",
+  "head": "caminar",
+  "key": "caminar",
+  "gloss": "to walk",
+  "later_tokens": 17,
+  "later_stories": 11
+ },
+ {
+  "story": "a2-08",
+  "level": "A2",
+  "word": "recordar",
+  "head": "recordar",
+  "key": "recordar",
+  "gloss": "to remember",
+  "later_tokens": 16,
+  "later_stories": 9
+ },
+ {
+  "story": "a2-08",
+  "level": "A2",
+  "word": "el viento",
+  "head": "viento",
+  "key": "viento",
+  "gloss": "wind",
+  "later_tokens": 3,
+  "later_stories": 3
+ },
+ {
+  "story": "a2-09",
+  "level": "A2",
+  "word": "la entrevista",
+  "head": "entrevista",
+  "key": "entrevista",
+  "gloss": "interview",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a2-09",
+  "level": "A2",
+  "word": "el currículum",
+  "head": "currículum",
+  "key": "currículum",
+  "gloss": "résumé",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a2-09",
+  "level": "A2",
+  "word": "la alarma",
+  "head": "alarma",
+  "key": "alarma",
+  "gloss": "alarm",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a2-09",
+  "level": "A2",
+  "word": "la camisa",
+  "head": "camisa",
+  "key": "camisa",
+  "gloss": "shirt",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a2-09",
+  "level": "A2",
+  "word": "la mancha",
+  "head": "mancha",
+  "key": "mancha",
+  "gloss": "stain",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a2-09",
+  "level": "A2",
+  "word": "la recepción",
+  "head": "recepción",
+  "key": "recepción",
+  "gloss": "reception desk",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "a2-09",
+  "level": "A2",
+  "word": "la jefa",
+  "head": "jefa",
+  "key": "jefa",
+  "gloss": "boss",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a2-09",
+  "level": "A2",
+  "word": "la empresa",
+  "head": "empresa",
+  "key": "empresa",
+  "gloss": "company",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "a2-09",
+  "level": "A2",
+  "word": "el diseño",
+  "head": "diseño",
+  "key": "diseño",
+  "gloss": "design",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a2-09",
+  "level": "A2",
+  "word": "la noticia",
+  "head": "noticia",
+  "key": "noticia",
+  "gloss": "news",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a2-09",
+  "level": "A2",
+  "word": "el puesto",
+  "head": "puesto",
+  "key": "puesto",
+  "gloss": "position",
+  "later_tokens": 2,
+  "later_stories": 2
+ },
+ {
+  "story": "a2-09",
+  "level": "A2",
+  "word": "despertarse",
+  "head": "despertarse",
+  "key": "despertarse",
+  "gloss": "to wake up",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "a2-09",
+  "level": "A2",
+  "word": "vestirse",
+  "head": "vestirse",
+  "key": "vestirse",
+  "gloss": "to get dressed",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a2-09",
+  "level": "A2",
+  "word": "chocar",
+  "head": "chocar",
+  "key": "chocar",
+  "gloss": "to bump into",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a2-09",
+  "level": "A2",
+  "word": "ayudar",
+  "head": "ayudar",
+  "key": "ayudar",
+  "gloss": "to help",
+  "later_tokens": 9,
+  "later_stories": 8
+ },
+ {
+  "story": "a2-09",
+  "level": "A2",
+  "word": "mentir",
+  "head": "mentir",
+  "key": "mentir",
+  "gloss": "to lie",
+  "later_tokens": 3,
+  "later_stories": 2
+ },
+ {
+  "story": "a2-10",
+  "level": "A2",
+  "word": "el pueblo",
+  "head": "pueblo",
+  "key": "pueblo",
+  "gloss": "village",
+  "later_tokens": 2,
+  "later_stories": 2
+ },
+ {
+  "story": "a2-10",
+  "level": "A2",
+  "word": "la fiesta",
+  "head": "fiesta",
+  "key": "fiesta",
+  "gloss": "festival",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "a2-10",
+  "level": "A2",
+  "word": "el farol",
+  "head": "farol",
+  "key": "farol",
+  "gloss": "lantern",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a2-10",
+  "level": "A2",
+  "word": "el alcalde",
+  "head": "alcalde",
+  "key": "alcalde",
+  "gloss": "mayor",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a2-10",
+  "level": "A2",
+  "word": "el toro",
+  "head": "toro",
+  "key": "toro",
+  "gloss": "bull",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a2-10",
+  "level": "A2",
+  "word": "el granero",
+  "head": "granero",
+  "key": "granero",
+  "gloss": "barn",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a2-10",
+  "level": "A2",
+  "word": "el pegamento",
+  "head": "pegamento",
+  "key": "pegamento",
+  "gloss": "glue",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a2-10",
+  "level": "A2",
+  "word": "la lluvia",
+  "head": "lluvia",
+  "key": "lluvia",
+  "gloss": "rain",
+  "later_tokens": 4,
+  "later_stories": 4
+ },
+ {
+  "story": "a2-10",
+  "level": "A2",
+  "word": "la pata",
+  "head": "pata",
+  "key": "pata",
+  "gloss": "leg (of an animal)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a2-10",
+  "level": "A2",
+  "word": "el carpintero",
+  "head": "carpintero",
+  "key": "carpintero",
+  "gloss": "carpenter",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a2-10",
+  "level": "A2",
+  "word": "la panadera",
+  "head": "panadera",
+  "key": "panadera",
+  "gloss": "baker",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a2-10",
+  "level": "A2",
+  "word": "la paciencia",
+  "head": "paciencia",
+  "key": "paciencia",
+  "gloss": "patience",
+  "later_tokens": 6,
+  "later_stories": 5
+ },
+ {
+  "story": "a2-10",
+  "level": "A2",
+  "word": "mojar",
+  "head": "mojar",
+  "key": "mojar",
+  "gloss": "to soak",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "a2-10",
+  "level": "A2",
+  "word": "reparar",
+  "head": "reparar",
+  "key": "reparar",
+  "gloss": "to repair",
+  "later_tokens": 7,
+  "later_stories": 5
+ },
+ {
+  "story": "a2-10",
+  "level": "A2",
+  "word": "pintar",
+  "head": "pintar",
+  "key": "pintar",
+  "gloss": "to paint",
+  "later_tokens": 2,
+  "later_stories": 1
+ },
+ {
+  "story": "a2-10",
+  "level": "A2",
+  "word": "el anochecer",
+  "head": "anochecer",
+  "key": "anochecer",
+  "gloss": "dusk",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-01",
+  "level": "B1",
+  "word": "la cartera",
+  "head": "cartera",
+  "key": "cartera",
+  "gloss": "wallet",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "b1-01",
+  "level": "B1",
+  "word": "el banco",
+  "head": "banco",
+  "key": "banco",
+  "gloss": "bench",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "b1-01",
+  "level": "B1",
+  "word": "el carnet",
+  "head": "carnet",
+  "key": "carnet",
+  "gloss": "ID card",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-01",
+  "level": "B1",
+  "word": "la dirección",
+  "head": "dirección",
+  "key": "dirección",
+  "gloss": "address",
+  "later_tokens": 2,
+  "later_stories": 2
+ },
+ {
+  "story": "b1-01",
+  "level": "B1",
+  "word": "jubilado/a",
+  "head": "jubilado",
+  "key": "jubilado",
+  "gloss": "retired",
+  "later_tokens": 2,
+  "later_stories": 2
+ },
+ {
+  "story": "b1-01",
+  "level": "B1",
+  "word": "la comisaría",
+  "head": "comisaría",
+  "key": "comisaría",
+  "gloss": "police station",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-01",
+  "level": "B1",
+  "word": "dudar",
+  "head": "dudar",
+  "key": "dudar",
+  "gloss": "to hesitate / doubt",
+  "later_tokens": 5,
+  "later_stories": 5
+ },
+ {
+  "story": "b1-01",
+  "level": "B1",
+  "word": "devolver",
+  "head": "devolver",
+  "key": "devolver",
+  "gloss": "to give back",
+  "later_tokens": 2,
+  "later_stories": 2
+ },
+ {
+  "story": "b1-01",
+  "level": "B1",
+  "word": "la recompensa",
+  "head": "recompensa",
+  "key": "recompensa",
+  "gloss": "reward",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-01",
+  "level": "B1",
+  "word": "acompañar",
+  "head": "acompañar",
+  "key": "acompañar",
+  "gloss": "to accompany, join",
+  "later_tokens": 2,
+  "later_stories": 2
+ },
+ {
+  "story": "b1-01",
+  "level": "B1",
+  "word": "tembloroso/a",
+  "head": "tembloroso",
+  "key": "tembloroso",
+  "gloss": "trembling, shaky",
+  "later_tokens": 4,
+  "later_stories": 3
+ },
+ {
+  "story": "b1-01",
+  "level": "B1",
+  "word": "la postal",
+  "head": "postal",
+  "key": "postal",
+  "gloss": "postcard",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-01",
+  "level": "B1",
+  "word": "de repente",
+  "head": "de repente",
+  "key": "de",
+  "gloss": "suddenly",
+  "later_tokens": 627,
+  "later_stories": 19
+ },
+ {
+  "story": "b1-01",
+  "level": "B1",
+  "word": "sin embargo",
+  "head": "sin embargo",
+  "key": "sin",
+  "gloss": "however",
+  "later_tokens": 54,
+  "later_stories": 18
+ },
+ {
+  "story": "b1-01",
+  "level": "B1",
+  "word": "mientras tanto",
+  "head": "mientras tanto",
+  "key": "mientras",
+  "gloss": "meanwhile",
+  "later_tokens": 19,
+  "later_stories": 14
+ },
+ {
+  "story": "b1-01",
+  "level": "B1",
+  "word": "al final",
+  "head": "al final",
+  "key": "al",
+  "gloss": "in the end",
+  "later_tokens": 68,
+  "later_stories": 19
+ },
+ {
+  "story": "b1-01",
+  "level": "B1",
+  "word": "no hace falta",
+  "head": "no hace falta",
+  "key": "no",
+  "gloss": "there's no need",
+  "later_tokens": 208,
+  "later_stories": 19
+ },
+ {
+  "story": "b1-01",
+  "level": "B1",
+  "word": "el hostal",
+  "head": "hostal",
+  "key": "hostal",
+  "gloss": "small hotel, hostel",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-02",
+  "level": "B1",
+  "word": "el termo",
+  "head": "termo",
+  "key": "termo",
+  "gloss": "thermos flask (for mate water)",
+  "later_tokens": 3,
+  "later_stories": 3
+ },
+ {
+  "story": "b1-02",
+  "level": "B1",
+  "word": "el alquiler",
+  "head": "alquiler",
+  "key": "alquiler",
+  "gloss": "rent",
+  "later_tokens": 2,
+  "later_stories": 1
+ },
+ {
+  "story": "b1-02",
+  "level": "B1",
+  "word": "arrancar",
+  "head": "arrancar",
+  "key": "arrancar",
+  "gloss": "to tear off, to pull off",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-02",
+  "level": "B1",
+  "word": "la feria",
+  "head": "feria",
+  "key": "feria",
+  "gloss": "street market (Uruguay)",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "b1-02",
+  "level": "B1",
+  "word": "cebar (un mate)",
+  "head": "cebar",
+  "key": "cebar",
+  "gloss": "to prepare and serve (a mate)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-02",
+  "level": "B1",
+  "word": "gurisa / gurí",
+  "head": "gurisa",
+  "key": "gurisa",
+  "gloss": "girl / boy, kid (Uruguay)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-02",
+  "level": "B1",
+  "word": "la parrillita",
+  "head": "parrillita",
+  "key": "parrillita",
+  "gloss": "small portable grill",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-02",
+  "level": "B1",
+  "word": "el carbón",
+  "head": "carbón",
+  "key": "carbón",
+  "gloss": "charcoal",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "b1-02",
+  "level": "B1",
+  "word": "por si acaso",
+  "head": "por si acaso",
+  "key": "por",
+  "gloss": "just in case",
+  "later_tokens": 131,
+  "later_stories": 18
+ },
+ {
+  "story": "b1-02",
+  "level": "B1",
+  "word": "la plancha",
+  "head": "plancha",
+  "key": "plancha",
+  "gloss": "griddle, hot plate",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-02",
+  "level": "B1",
+  "word": "encargarse de",
+  "head": "encargarse de",
+  "key": "encargarse",
+  "gloss": "to take care of, to make sure to",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-02",
+  "level": "B1",
+  "word": "finito/a",
+  "head": "finito",
+  "key": "finito",
+  "gloss": "nice and thin",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-02",
+  "level": "B1",
+  "word": "la panceta",
+  "head": "panceta",
+  "key": "panceta",
+  "gloss": "bacon",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-02",
+  "level": "B1",
+  "word": "la carpa",
+  "head": "carpa",
+  "key": "carpa",
+  "gloss": "tent, marquee",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-02",
+  "level": "B1",
+  "word": "el delantal",
+  "head": "delantal",
+  "key": "delantal",
+  "gloss": "apron",
+  "later_tokens": 4,
+  "later_stories": 4
+ },
+ {
+  "story": "b1-02",
+  "level": "B1",
+  "word": "prestar",
+  "head": "prestar",
+  "key": "prestar",
+  "gloss": "to lend",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "b1-02",
+  "level": "B1",
+  "word": "portarse bien",
+  "head": "portarse bien",
+  "key": "portarse",
+  "gloss": "to behave",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-02",
+  "level": "B1",
+  "word": "la pizca",
+  "head": "pizca",
+  "key": "pizca",
+  "gloss": "pinch",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-02",
+  "level": "B1",
+  "word": "revolver",
+  "head": "revolver",
+  "key": "revolver",
+  "gloss": "to stir",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-02",
+  "level": "B1",
+  "word": "la cola",
+  "head": "cola",
+  "key": "cola",
+  "gloss": "line, queue",
+  "later_tokens": 2,
+  "later_stories": 1
+ },
+ {
+  "story": "b1-02",
+  "level": "B1",
+  "word": "vos",
+  "head": "vos",
+  "key": "vos",
+  "gloss": "you (informal, Uruguay and Argentina: vos venís = tú vienes)",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "b1-02",
+  "level": "B1",
+  "word": "el chivito",
+  "head": "chivito",
+  "key": "chivito",
+  "gloss": "Uruguayan steak sandwich; literally, a young goat (kid)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-02",
+  "level": "B1",
+  "word": "el dulce de leche",
+  "head": "dulce de leche",
+  "key": "dulce",
+  "gloss": "milk caramel spread",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "b1-03",
+  "level": "B1",
+  "word": "el horno",
+  "head": "horno",
+  "key": "horno",
+  "gloss": "oven",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "b1-03",
+  "level": "B1",
+  "word": "el despertador",
+  "head": "despertador",
+  "key": "despertador",
+  "gloss": "alarm clock",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-03",
+  "level": "B1",
+  "word": "el pan de muerto",
+  "head": "pan de muerto",
+  "key": "pan",
+  "gloss": "Day of the Dead bread",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-03",
+  "level": "B1",
+  "word": "el encargo",
+  "head": "encargo",
+  "key": "encargo",
+  "gloss": "order, commission",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "b1-03",
+  "level": "B1",
+  "word": "la bandeja",
+  "head": "bandeja",
+  "key": "bandeja",
+  "gloss": "tray",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-03",
+  "level": "B1",
+  "word": "agrietarse",
+  "head": "agrietarse",
+  "key": "agrietarse",
+  "gloss": "to crack",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-03",
+  "level": "B1",
+  "word": "luchar",
+  "head": "luchar",
+  "key": "luchar",
+  "gloss": "to fight, struggle",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-03",
+  "level": "B1",
+  "word": "amasar",
+  "head": "amasar",
+  "key": "amasar",
+  "gloss": "to knead",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-03",
+  "level": "B1",
+  "word": "el tesoro",
+  "head": "tesoro",
+  "key": "tesoro",
+  "gloss": "treasure",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "b1-03",
+  "level": "B1",
+  "word": "el vecino",
+  "head": "vecino",
+  "key": "vecino",
+  "gloss": "neighbor",
+  "later_tokens": 7,
+  "later_stories": 4
+ },
+ {
+  "story": "b1-03",
+  "level": "B1",
+  "word": "la harina",
+  "head": "harina",
+  "key": "harina",
+  "gloss": "flour",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "b1-03",
+  "level": "B1",
+  "word": "el delantal",
+  "head": "delantal",
+  "key": "delantal",
+  "gloss": "apron",
+  "later_tokens": 3,
+  "later_stories": 3
+ },
+ {
+  "story": "b1-03",
+  "level": "B1",
+  "word": "la masa",
+  "head": "masa",
+  "key": "masa",
+  "gloss": "dough",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "b1-03",
+  "level": "B1",
+  "word": "la víspera",
+  "head": "víspera",
+  "key": "víspera",
+  "gloss": "eve",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-03",
+  "level": "B1",
+  "word": "rendirse",
+  "head": "rendirse",
+  "key": "rendirse",
+  "gloss": "to give up",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-03",
+  "level": "B1",
+  "word": "prestar",
+  "head": "prestar",
+  "key": "prestar",
+  "gloss": "to lend",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-03",
+  "level": "B1",
+  "word": "mientras tanto",
+  "head": "mientras tanto",
+  "key": "mientras",
+  "gloss": "meanwhile",
+  "later_tokens": 18,
+  "later_stories": 13
+ },
+ {
+  "story": "b1-03",
+  "level": "B1",
+  "word": "nos toca a nosotros",
+  "head": "nos toca a nosotros",
+  "key": "nos",
+  "gloss": "it's our turn",
+  "later_tokens": 5,
+  "later_stories": 4
+ },
+ {
+  "story": "b1-03",
+  "level": "B1",
+  "word": "el pedido",
+  "head": "pedido",
+  "key": "pedido",
+  "gloss": "order (from a customer)",
+  "later_tokens": 24,
+  "later_stories": 10
+ },
+ {
+  "story": "b1-03",
+  "level": "B1",
+  "word": "sentirse",
+  "head": "sentirse",
+  "key": "sentirse",
+  "gloss": "to feel",
+  "later_tokens": 13,
+  "later_stories": 8
+ },
+ {
+  "story": "b1-04",
+  "level": "B1",
+  "word": "el enfermero",
+  "head": "enfermero",
+  "key": "enfermero",
+  "gloss": "nurse (male)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-04",
+  "level": "B1",
+  "word": "el turno",
+  "head": "turno",
+  "key": "turno",
+  "gloss": "shift",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "b1-04",
+  "level": "B1",
+  "word": "el suero",
+  "head": "suero",
+  "key": "suero",
+  "gloss": "IV drip (plural: los sueros)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-04",
+  "level": "B1",
+  "word": "caerse",
+  "head": "caerse",
+  "key": "caerse",
+  "gloss": "to fall",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-04",
+  "level": "B1",
+  "word": "lastimarse",
+  "head": "lastimarse",
+  "key": "lastimarse",
+  "gloss": "to hurt oneself",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-04",
+  "level": "B1",
+  "word": "la cadera",
+  "head": "cadera",
+  "key": "cadera",
+  "gloss": "hip",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "b1-04",
+  "level": "B1",
+  "word": "la ronda",
+  "head": "ronda",
+  "key": "ronda",
+  "gloss": "round (of checks)",
+  "later_tokens": 3,
+  "later_stories": 2
+ },
+ {
+  "story": "b1-04",
+  "level": "B1",
+  "word": "el pasillo",
+  "head": "pasillo",
+  "key": "pasillo",
+  "gloss": "hallway",
+  "later_tokens": 6,
+  "later_stories": 5
+ },
+ {
+  "story": "b1-04",
+  "level": "B1",
+  "word": "señalar",
+  "head": "señalar",
+  "key": "señalar",
+  "gloss": "to point at",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "b1-04",
+  "level": "B1",
+  "word": "el cometa",
+  "head": "cometa",
+  "key": "cometa",
+  "gloss": "comet",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-04",
+  "level": "B1",
+  "word": "el regalo",
+  "head": "regalo",
+  "key": "regalo",
+  "gloss": "gift",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-04",
+  "level": "B1",
+  "word": "el castigo",
+  "head": "castigo",
+  "key": "castigo",
+  "gloss": "punishment",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "b1-04",
+  "level": "B1",
+  "word": "darse cuenta de",
+  "head": "darse cuenta de",
+  "key": "darse",
+  "gloss": "to realize",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-04",
+  "level": "B1",
+  "word": "en lugar de",
+  "head": "en lugar de",
+  "key": "en",
+  "gloss": "instead of",
+  "later_tokens": 254,
+  "later_stories": 16
+ },
+ {
+  "story": "b1-04",
+  "level": "B1",
+  "word": "aunque",
+  "head": "aunque",
+  "key": "aunque",
+  "gloss": "although",
+  "later_tokens": 26,
+  "later_stories": 15
+ },
+ {
+  "story": "b1-04",
+  "level": "B1",
+  "word": "mientras",
+  "head": "mientras",
+  "key": "mientras",
+  "gloss": "while",
+  "later_tokens": 16,
+  "later_stories": 12
+ },
+ {
+  "story": "b1-04",
+  "level": "B1",
+  "word": "sentirse vivo",
+  "head": "sentirse vivo",
+  "key": "sentirse",
+  "gloss": "to feel alive",
+  "later_tokens": 10,
+  "later_stories": 7
+ },
+ {
+  "story": "b1-04",
+  "level": "B1",
+  "word": "preocupado/a",
+  "head": "preocupado",
+  "key": "preocupado",
+  "gloss": "worried",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-04",
+  "level": "B1",
+  "word": "tocar",
+  "head": "tocar",
+  "key": "tocar",
+  "gloss": "to touch",
+  "later_tokens": 13,
+  "later_stories": 5
+ },
+ {
+  "story": "b1-05",
+  "level": "B1",
+  "word": "enojarse",
+  "head": "enojarse",
+  "key": "enojarse",
+  "gloss": "to get angry (Spain: enfadarse)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-05",
+  "level": "B1",
+  "word": "el pueblo de pescadores",
+  "head": "pueblo de pescadores",
+  "key": "pueblo",
+  "gloss": "fishing village",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "b1-05",
+  "level": "B1",
+  "word": "el acantilado",
+  "head": "acantilado",
+  "key": "acantilado",
+  "gloss": "cliff",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-05",
+  "level": "B1",
+  "word": "las alforjas",
+  "head": "alforjas",
+  "key": "alforjas",
+  "gloss": "panniers (bike bags)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-05",
+  "level": "B1",
+  "word": "el rencor",
+  "head": "rencor",
+  "key": "rencor",
+  "gloss": "resentment",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-05",
+  "level": "B1",
+  "word": "limitarse a",
+  "head": "limitarse a",
+  "key": "limitarse",
+  "gloss": "to just, to limit oneself to",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-05",
+  "level": "B1",
+  "word": "pincharse",
+  "head": "pincharse",
+  "key": "pincharse",
+  "gloss": "to get a flat (tire)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-05",
+  "level": "B1",
+  "word": "el repuesto",
+  "head": "repuesto",
+  "key": "repuesto",
+  "gloss": "spare (here, a spare inner tube)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-05",
+  "level": "B1",
+  "word": "la red",
+  "head": "red",
+  "key": "red",
+  "gloss": "net",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "b1-05",
+  "level": "B1",
+  "word": "el ceviche",
+  "head": "ceviche",
+  "key": "ceviche",
+  "gloss": "marinated seafood dish",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-05",
+  "level": "B1",
+  "word": "parpadear",
+  "head": "parpadear",
+  "key": "parpadear",
+  "gloss": "to flicker, blink",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "b1-05",
+  "level": "B1",
+  "word": "agotado/a",
+  "head": "agotado",
+  "key": "agotado",
+  "gloss": "exhausted",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-05",
+  "level": "B1",
+  "word": "dar el primer paso",
+  "head": "dar el primer paso",
+  "key": "paso",
+  "gloss": "to take the first step",
+  "later_tokens": 4,
+  "later_stories": 4
+ },
+ {
+  "story": "b1-05",
+  "level": "B1",
+  "word": "extrañar",
+  "head": "extrañar",
+  "key": "extrañar",
+  "gloss": "to miss (Spain: echar de menos)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-05",
+  "level": "B1",
+  "word": "atreverse a",
+  "head": "atreverse a",
+  "key": "atreverse",
+  "gloss": "to dare to",
+  "later_tokens": 5,
+  "later_stories": 4
+ },
+ {
+  "story": "b1-05",
+  "level": "B1",
+  "word": "darse cuenta de",
+  "head": "darse cuenta de",
+  "key": "darse",
+  "gloss": "to realize",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-05",
+  "level": "B1",
+  "word": "por eso",
+  "head": "por eso",
+  "key": "por",
+  "gloss": "that's why",
+  "later_tokens": 118,
+  "later_stories": 15
+ },
+ {
+  "story": "b1-05",
+  "level": "B1",
+  "word": "aunque",
+  "head": "aunque",
+  "key": "aunque",
+  "gloss": "although",
+  "later_tokens": 25,
+  "later_stories": 14
+ },
+ {
+  "story": "b1-05",
+  "level": "B1",
+  "word": "mientras",
+  "head": "mientras",
+  "key": "mientras",
+  "gloss": "while",
+  "later_tokens": 12,
+  "later_stories": 11
+ },
+ {
+  "story": "b1-05",
+  "level": "B1",
+  "word": "la cámara",
+  "head": "cámara",
+  "key": "cámara",
+  "gloss": "inner tube (of a tire)",
+  "later_tokens": 3,
+  "later_stories": 2
+ },
+ {
+  "story": "b1-06",
+  "level": "B1",
+  "word": "el desván",
+  "head": "desván",
+  "key": "desván",
+  "gloss": "attic",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-06",
+  "level": "B1",
+  "word": "vaciar",
+  "head": "vaciar",
+  "key": "vaciar",
+  "gloss": "to empty",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-06",
+  "level": "B1",
+  "word": "el pedazo",
+  "head": "pedazo",
+  "key": "pedazo",
+  "gloss": "piece",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-06",
+  "level": "B1",
+  "word": "el sobre",
+  "head": "sobre",
+  "key": "sobre",
+  "gloss": "envelope",
+  "later_tokens": 26,
+  "later_stories": 12
+ },
+ {
+  "story": "b1-06",
+  "level": "B1",
+  "word": "el primer amor",
+  "head": "primer amor",
+  "key": "primer",
+  "gloss": "first love",
+  "later_tokens": 23,
+  "later_stories": 12
+ },
+ {
+  "story": "b1-06",
+  "level": "B1",
+  "word": "la serenata",
+  "head": "serenata",
+  "key": "serenata",
+  "gloss": "serenade",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-06",
+  "level": "B1",
+  "word": "ahorrar",
+  "head": "ahorrar",
+  "key": "ahorrar",
+  "gloss": "to save (money)",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "b1-06",
+  "level": "B1",
+  "word": "el orgullo",
+  "head": "orgullo",
+  "key": "orgullo",
+  "gloss": "pride",
+  "later_tokens": 3,
+  "later_stories": 3
+ },
+ {
+  "story": "b1-06",
+  "level": "B1",
+  "word": "un nudo en la garganta",
+  "head": "nudo en la garganta",
+  "key": "nudo",
+  "gloss": "a lump in the throat",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-06",
+  "level": "B1",
+  "word": "de pronto",
+  "head": "de pronto",
+  "key": "de",
+  "gloss": "suddenly",
+  "later_tokens": 520,
+  "later_stories": 14
+ },
+ {
+  "story": "b1-06",
+  "level": "B1",
+  "word": "hacerse ilusiones",
+  "head": "hacerse ilusiones",
+  "key": "hacerse",
+  "gloss": "to get one's hopes up",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-06",
+  "level": "B1",
+  "word": "el rincón",
+  "head": "rincón",
+  "key": "rincón",
+  "gloss": "corner",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-06",
+  "level": "B1",
+  "word": "el cordel",
+  "head": "cordel",
+  "key": "cordel",
+  "gloss": "string",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-06",
+  "level": "B1",
+  "word": "temblar",
+  "head": "temblar",
+  "key": "temblar",
+  "gloss": "to tremble",
+  "later_tokens": 3,
+  "later_stories": 3
+ },
+ {
+  "story": "b1-06",
+  "level": "B1",
+  "word": "abrazar",
+  "head": "abrazar",
+  "key": "abrazar",
+  "gloss": "to hug",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "b1-06",
+  "level": "B1",
+  "word": "por fin",
+  "head": "por fin",
+  "key": "por",
+  "gloss": "finally",
+  "later_tokens": 112,
+  "later_stories": 14
+ },
+ {
+  "story": "b1-06",
+  "level": "B1",
+  "word": "afinar",
+  "head": "afinar",
+  "key": "afinar",
+  "gloss": "to tune",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "b1-06",
+  "level": "B1",
+  "word": "el baúl",
+  "head": "baúl",
+  "key": "baúl",
+  "gloss": "trunk",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-06",
+  "level": "B1",
+  "word": "mija",
+  "head": "mija",
+  "key": "mija",
+  "gloss": "dear, sweetie (from mi hija; Mexico/Latin America)",
+  "later_tokens": 5,
+  "later_stories": 2
+ },
+ {
+  "story": "b1-06",
+  "level": "B1",
+  "word": "el departamento",
+  "head": "departamento",
+  "key": "departamento",
+  "gloss": "apartment (Mexico)",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "b1-07",
+  "level": "B1",
+  "word": "el inversionista",
+  "head": "inversionista",
+  "key": "inversionista",
+  "gloss": "investor",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-07",
+  "level": "B1",
+  "word": "los ahorros",
+  "head": "ahorros",
+  "key": "ahorros",
+  "gloss": "savings",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-07",
+  "level": "B1",
+  "word": "la cita",
+  "head": "cita",
+  "key": "cita",
+  "gloss": "appointment",
+  "later_tokens": 2,
+  "later_stories": 1
+ },
+ {
+  "story": "b1-07",
+  "level": "B1",
+  "word": "carraspear",
+  "head": "carraspear",
+  "key": "carraspear",
+  "gloss": "to clear one's throat",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-07",
+  "level": "B1",
+  "word": "avisar",
+  "head": "avisar",
+  "key": "avisar",
+  "gloss": "to notify, to warn",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "b1-07",
+  "level": "B1",
+  "word": "soltar",
+  "head": "soltar",
+  "key": "soltar",
+  "gloss": "to let out, to release",
+  "later_tokens": 3,
+  "later_stories": 3
+ },
+ {
+  "story": "b1-07",
+  "level": "B1",
+  "word": "helado/a",
+  "head": "helado",
+  "key": "helado",
+  "gloss": "frozen, stunned",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "b1-07",
+  "level": "B1",
+  "word": "disimular",
+  "head": "disimular",
+  "key": "disimular",
+  "gloss": "to hide, to conceal",
+  "later_tokens": 3,
+  "later_stories": 3
+ },
+ {
+  "story": "b1-07",
+  "level": "B1",
+  "word": "de una vez",
+  "head": "de una vez",
+  "key": "de",
+  "gloss": "once and for all",
+  "later_tokens": 493,
+  "later_stories": 13
+ },
+ {
+  "story": "b1-07",
+  "level": "B1",
+  "word": "enredado/a",
+  "head": "enredado",
+  "key": "enredado",
+  "gloss": "tangled",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-07",
+  "level": "B1",
+  "word": "agacharse",
+  "head": "agacharse",
+  "key": "agacharse",
+  "gloss": "to bend down",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "b1-07",
+  "level": "B1",
+  "word": "apostar",
+  "head": "apostar",
+  "key": "apostar",
+  "gloss": "to bet",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-07",
+  "level": "B1",
+  "word": "el aparato",
+  "head": "aparato",
+  "key": "aparato",
+  "gloss": "gadget, device",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-07",
+  "level": "B1",
+  "word": "olvidarse de",
+  "head": "olvidarse de",
+  "key": "olvidarse",
+  "gloss": "to forget to",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-07",
+  "level": "B1",
+  "word": "intercambiar una mirada",
+  "head": "intercambiar una mirada",
+  "key": "intercambiar",
+  "gloss": "to exchange a look",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-07",
+  "level": "B1",
+  "word": "el recordatorio",
+  "head": "recordatorio",
+  "key": "recordatorio",
+  "gloss": "reminder",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "b1-07",
+  "level": "B1",
+  "word": "el ser querido",
+  "head": "ser querido",
+  "key": "ser",
+  "gloss": "loved one",
+  "later_tokens": 139,
+  "later_stories": 13
+ },
+ {
+  "story": "b1-07",
+  "level": "B1",
+  "word": "la grabación",
+  "head": "grabación",
+  "key": "grabación",
+  "gloss": "recording",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "b1-07",
+  "level": "B1",
+  "word": "salir perfecto / bien",
+  "head": "salir perfecto",
+  "key": "salir",
+  "gloss": "to turn out perfectly / well",
+  "later_tokens": 12,
+  "later_stories": 9
+ },
+ {
+  "story": "b1-08",
+  "level": "B1",
+  "word": "acariciar",
+  "head": "acariciar",
+  "key": "acariciar",
+  "gloss": "to stroke, to run one's hand over",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-08",
+  "level": "B1",
+  "word": "madrugar",
+  "head": "madrugar",
+  "key": "madrugar",
+  "gloss": "to get up early",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-08",
+  "level": "B1",
+  "word": "la despedida",
+  "head": "despedida",
+  "key": "despedida",
+  "gloss": "farewell",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-08",
+  "level": "B1",
+  "word": "el maletín",
+  "head": "maletín",
+  "key": "maletín",
+  "gloss": "briefcase",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "b1-08",
+  "level": "B1",
+  "word": "desconcertar",
+  "head": "desconcertar",
+  "key": "desconcertar",
+  "gloss": "to bewilder",
+  "later_tokens": 2,
+  "later_stories": 2
+ },
+ {
+  "story": "b1-08",
+  "level": "B1",
+  "word": "equivocarse",
+  "head": "equivocarse",
+  "key": "equivocarse",
+  "gloss": "to make a mistake",
+  "later_tokens": 2,
+  "later_stories": 2
+ },
+ {
+  "story": "b1-08",
+  "level": "B1",
+  "word": "acertar",
+  "head": "acertar",
+  "key": "acertar",
+  "gloss": "to get it right",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "b1-08",
+  "level": "B1",
+  "word": "la maqueta",
+  "head": "maqueta",
+  "key": "maqueta",
+  "gloss": "scale model",
+  "later_tokens": 3,
+  "later_stories": 1
+ },
+ {
+  "story": "b1-08",
+  "level": "B1",
+  "word": "secarse (los ojos)",
+  "head": "secarse",
+  "key": "secarse",
+  "gloss": "to dry (one's eyes)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-08",
+  "level": "B1",
+  "word": "la tiza",
+  "head": "tiza",
+  "key": "tiza",
+  "gloss": "chalk",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-08",
+  "level": "B1",
+  "word": "quebrado/a",
+  "head": "quebrado",
+  "key": "quebrado",
+  "gloss": "broken (voice)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-08",
+  "level": "B1",
+  "word": "el timbre",
+  "head": "timbre",
+  "key": "timbre",
+  "gloss": "bell (school bell here; also doorbell)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-08",
+  "level": "B1",
+  "word": "afortunado/a",
+  "head": "afortunado",
+  "key": "afortunado",
+  "gloss": "fortunate",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-08",
+  "level": "B1",
+  "word": "la vergüenza",
+  "head": "vergüenza",
+  "key": "vergüenza",
+  "gloss": "embarrassment, shame",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "b1-08",
+  "level": "B1",
+  "word": "devolver el favor",
+  "head": "devolver el favor",
+  "key": "devolver",
+  "gloss": "to return the favor",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "b1-08",
+  "level": "B1",
+  "word": "a partir de",
+  "head": "a partir de",
+  "key": "a",
+  "gloss": "starting from",
+  "later_tokens": 221,
+  "later_stories": 12
+ },
+ {
+  "story": "b1-08",
+  "level": "B1",
+  "word": "ojalá",
+  "head": "ojalá",
+  "key": "ojalá",
+  "gloss": "I hope, if only",
+  "later_tokens": 5,
+  "later_stories": 4
+ },
+ {
+  "story": "b1-08",
+  "level": "B1",
+  "word": "la jubilación",
+  "head": "jubilación",
+  "key": "jubilación",
+  "gloss": "retirement",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "b1-08",
+  "level": "B1",
+  "word": "valer la pena",
+  "head": "valer la pena",
+  "key": "valer",
+  "gloss": "to be worth it",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "b1-09",
+  "level": "B1",
+  "word": "el trueno",
+  "head": "trueno",
+  "key": "trueno",
+  "gloss": "thunder",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-09",
+  "level": "B1",
+  "word": "tantear",
+  "head": "tantear",
+  "key": "tantear",
+  "gloss": "to feel one's way",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-09",
+  "level": "B1",
+  "word": "el apagón",
+  "head": "apagón",
+  "key": "apagón",
+  "gloss": "blackout",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-09",
+  "level": "B1",
+  "word": "la vela",
+  "head": "vela",
+  "key": "vela",
+  "gloss": "candle",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "b1-09",
+  "level": "B1",
+  "word": "la portera",
+  "head": "portera",
+  "key": "portera",
+  "gloss": "doorwoman, building caretaker",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-09",
+  "level": "B1",
+  "word": "gruñón/gruñona",
+  "head": "gruñón",
+  "key": "gruñón",
+  "gloss": "grumpy",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-09",
+  "level": "B1",
+  "word": "distraer",
+  "head": "distraer",
+  "key": "distraer",
+  "gloss": "to distract",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-09",
+  "level": "B1",
+  "word": "el hornillo",
+  "head": "hornillo",
+  "key": "hornillo",
+  "gloss": "portable stove",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-09",
+  "level": "B1",
+  "word": "desperdiciar",
+  "head": "desperdiciar",
+  "key": "desperdiciar",
+  "gloss": "to waste",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-09",
+  "level": "B1",
+  "word": "descongelarse",
+  "head": "descongelarse",
+  "key": "descongelarse",
+  "gloss": "to thaw",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-09",
+  "level": "B1",
+  "word": "improvisado/a",
+  "head": "improvisado",
+  "key": "improvisado",
+  "gloss": "improvised",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-09",
+  "level": "B1",
+  "word": "fallecer",
+  "head": "fallecer",
+  "key": "fallecer",
+  "gloss": "to pass away",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "b1-09",
+  "level": "B1",
+  "word": "prometer",
+  "head": "prometer",
+  "key": "prometer",
+  "gloss": "to promise",
+  "later_tokens": 3,
+  "later_stories": 3
+ },
+ {
+  "story": "b1-09",
+  "level": "B1",
+  "word": "tararear",
+  "head": "tararear",
+  "key": "tararear",
+  "gloss": "to hum",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "b1-09",
+  "level": "B1",
+  "word": "parpadear",
+  "head": "parpadear",
+  "key": "parpadear",
+  "gloss": "to blink",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-09",
+  "level": "B1",
+  "word": "el hechizo",
+  "head": "hechizo",
+  "key": "hechizo",
+  "gloss": "spell",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-09",
+  "level": "B1",
+  "word": "a cargo de",
+  "head": "a cargo de",
+  "key": "a",
+  "gloss": "in charge of",
+  "later_tokens": 198,
+  "later_stories": 11
+ },
+ {
+  "story": "b1-09",
+  "level": "B1",
+  "word": "ojalá",
+  "head": "ojalá",
+  "key": "ojalá",
+  "gloss": "I hope, if only",
+  "later_tokens": 4,
+  "later_stories": 3
+ },
+ {
+  "story": "b1-10",
+  "level": "B1",
+  "word": "arrodillado/a",
+  "head": "arrodillado",
+  "key": "arrodillado",
+  "gloss": "kneeling",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-10",
+  "level": "B1",
+  "word": "la alfombra",
+  "head": "alfombra",
+  "key": "alfombra",
+  "gloss": "(here) street carpet made for a Holy Week procession",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-10",
+  "level": "B1",
+  "word": "el reverso",
+  "head": "reverso",
+  "key": "reverso",
+  "gloss": "the back (of a photo or card)",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "b1-10",
+  "level": "B1",
+  "word": "el terremoto",
+  "head": "terremoto",
+  "key": "terremoto",
+  "gloss": "earthquake",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-10",
+  "level": "B1",
+  "word": "trasladar",
+  "head": "trasladar",
+  "key": "trasladar",
+  "gloss": "to move, to relocate",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-10",
+  "level": "B1",
+  "word": "el humo",
+  "head": "humo",
+  "key": "humo",
+  "gloss": "smoke",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-10",
+  "level": "B1",
+  "word": "la monja",
+  "head": "monja",
+  "key": "monja",
+  "gloss": "nun",
+  "later_tokens": 3,
+  "later_stories": 1
+ },
+ {
+  "story": "b1-10",
+  "level": "B1",
+  "word": "el tejido",
+  "head": "tejido",
+  "key": "tejido",
+  "gloss": "woven textile, weaving",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-10",
+  "level": "B1",
+  "word": "la aldaba",
+  "head": "aldaba",
+  "key": "aldaba",
+  "gloss": "door knocker",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-10",
+  "level": "B1",
+  "word": "el bronce",
+  "head": "bronce",
+  "key": "bronce",
+  "gloss": "bronze",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-10",
+  "level": "B1",
+  "word": "el delantal",
+  "head": "delantal",
+  "key": "delantal",
+  "gloss": "apron",
+  "later_tokens": 2,
+  "later_stories": 2
+ },
+ {
+  "story": "b1-10",
+  "level": "B1",
+  "word": "los rellenitos",
+  "head": "rellenitos",
+  "key": "rellenitos",
+  "gloss": "sweet plantain dumplings filled with black beans (Guatemala)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-10",
+  "level": "B1",
+  "word": "pase adelante",
+  "head": "pase adelante",
+  "key": "pase",
+  "gloss": "come on in (polite, Central America)",
+  "later_tokens": 7,
+  "later_stories": 6
+ },
+ {
+  "story": "b1-10",
+  "level": "B1",
+  "word": "mija",
+  "head": "mija",
+  "key": "mija",
+  "gloss": "dear, sweetie (from mi hija)",
+  "later_tokens": 2,
+  "later_stories": 1
+ },
+ {
+  "story": "b1-10",
+  "level": "B1",
+  "word": "los lentes",
+  "head": "lentes",
+  "key": "lentes",
+  "gloss": "glasses (Latin America)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-10",
+  "level": "B1",
+  "word": "descolgar",
+  "head": "descolgar",
+  "key": "descolgar",
+  "gloss": "to take down (from a wall or hook)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-10",
+  "level": "B1",
+  "word": "el molde",
+  "head": "molde",
+  "key": "molde",
+  "gloss": "stencil, mold",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-10",
+  "level": "B1",
+  "word": "el aserrín",
+  "head": "aserrín",
+  "key": "aserrín",
+  "gloss": "sawdust",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-10",
+  "level": "B1",
+  "word": "el quetzal",
+  "head": "quetzal",
+  "key": "quetzal",
+  "gloss": "quetzal (Guatemala's national bird)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-10",
+  "level": "B1",
+  "word": "susurrar",
+  "head": "susurrar",
+  "key": "susurrar",
+  "gloss": "to whisper",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-10",
+  "level": "B1",
+  "word": "la procesión",
+  "head": "procesión",
+  "key": "procesión",
+  "gloss": "(religious) procession",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-10",
+  "level": "B1",
+  "word": "el cucurucho",
+  "head": "cucurucho",
+  "key": "cucurucho",
+  "gloss": "robed procession bearer in Guatemala's Holy Week",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-10",
+  "level": "B1",
+  "word": "durar",
+  "head": "durar",
+  "key": "durar",
+  "gloss": "to last",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b1-10",
+  "level": "B1",
+  "word": "el Viernes Santo",
+  "head": "viernes santo",
+  "key": "viernes",
+  "gloss": "Good Friday",
+  "later_tokens": 6,
+  "later_stories": 3
+ },
+ {
+  "story": "b2-01",
+  "level": "B2",
+  "word": "el hallazgo",
+  "head": "hallazgo",
+  "key": "hallazgo",
+  "gloss": "discovery, find",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-01",
+  "level": "B2",
+  "word": "catalogar",
+  "head": "catalogar",
+  "key": "catalogar",
+  "gloss": "to catalogue",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "b2-01",
+  "level": "B2",
+  "word": "la encuadernación",
+  "head": "encuadernación",
+  "key": "encuadernación",
+  "gloss": "binding (of a book)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-01",
+  "level": "B2",
+  "word": "el destinatario",
+  "head": "destinatario",
+  "key": "destinatario",
+  "gloss": "addressee, recipient",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-01",
+  "level": "B2",
+  "word": "el remitente",
+  "head": "remitente",
+  "key": "remitente",
+  "gloss": "sender",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-01",
+  "level": "B2",
+  "word": "el reglamento",
+  "head": "reglamento",
+  "key": "reglamento",
+  "gloss": "regulations, rulebook",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "b2-01",
+  "level": "B2",
+  "word": "rasgar",
+  "head": "rasgar",
+  "key": "rasgar",
+  "gloss": "to tear open",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-01",
+  "level": "B2",
+  "word": "la reliquia",
+  "head": "reliquia",
+  "key": "reliquia",
+  "gloss": "relic",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-01",
+  "level": "B2",
+  "word": "cobarde",
+  "head": "cobarde",
+  "key": "cobarde",
+  "gloss": "cowardly; coward",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-01",
+  "level": "B2",
+  "word": "conmovido",
+  "head": "conmovido",
+  "key": "conmovido",
+  "gloss": "moved, touched",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-01",
+  "level": "B2",
+  "word": "arreglárselas",
+  "head": "arreglárselas",
+  "key": "arreglárselas",
+  "gloss": "to manage, get by",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-01",
+  "level": "B2",
+  "word": "rastrear",
+  "head": "rastrear",
+  "key": "rastrear",
+  "gloss": "to track down, trace",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-01",
+  "level": "B2",
+  "word": "el padrón",
+  "head": "padrón",
+  "key": "padrón",
+  "gloss": "census, municipal register",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-01",
+  "level": "B2",
+  "word": "la esquela",
+  "head": "esquela",
+  "key": "esquela",
+  "gloss": "obituary notice",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-01",
+  "level": "B2",
+  "word": "reabrir",
+  "head": "reabrir",
+  "key": "reabrir",
+  "gloss": "to reopen",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-01",
+  "level": "B2",
+  "word": "despierto",
+  "head": "despierto",
+  "key": "despierto",
+  "gloss": "alert, sharp",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-01",
+  "level": "B2",
+  "word": "restituir",
+  "head": "restituir",
+  "key": "restituir",
+  "gloss": "to restore, give back",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-01",
+  "level": "B2",
+  "word": "infringir",
+  "head": "infringir",
+  "key": "infringir",
+  "gloss": "to break (a rule), infringe",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-02",
+  "level": "B2",
+  "word": "tambalearse",
+  "head": "tambalearse",
+  "key": "tambalearse",
+  "gloss": "to wobble, totter",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "b2-02",
+  "level": "B2",
+  "word": "la excedencia",
+  "head": "excedencia",
+  "key": "excedencia",
+  "gloss": "leave of absence",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-02",
+  "level": "B2",
+  "word": "desconcertar",
+  "head": "desconcertar",
+  "key": "desconcertar",
+  "gloss": "to unsettle, disconcert",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "b2-02",
+  "level": "B2",
+  "word": "chirriante",
+  "head": "chirriante",
+  "key": "chirriante",
+  "gloss": "squeaky, creaking",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-02",
+  "level": "B2",
+  "word": "el fogón",
+  "head": "fogón",
+  "key": "fogón",
+  "gloss": "stove, hearth (traditional cooking fire)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-02",
+  "level": "B2",
+  "word": "la hija pródiga",
+  "head": "hija pródiga",
+  "key": "hija",
+  "gloss": "prodigal daughter",
+  "later_tokens": 2,
+  "later_stories": 2
+ },
+ {
+  "story": "b2-02",
+  "level": "B2",
+  "word": "el recelo",
+  "head": "recelo",
+  "key": "recelo",
+  "gloss": "wariness, distrust",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-02",
+  "level": "B2",
+  "word": "desencaminado",
+  "head": "desencaminado",
+  "key": "desencaminado",
+  "gloss": "mistaken, off track",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-02",
+  "level": "B2",
+  "word": "postrado",
+  "head": "postrado",
+  "key": "postrado",
+  "gloss": "laid up, confined (by illness or injury)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-02",
+  "level": "B2",
+  "word": "el fracaso",
+  "head": "fracaso",
+  "key": "fracaso",
+  "gloss": "failure",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-02",
+  "level": "B2",
+  "word": "tallar",
+  "head": "tallar",
+  "key": "tallar",
+  "gloss": "to scrub (Mexico; Spain: fregar)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-02",
+  "level": "B2",
+  "word": "menospreciar",
+  "head": "menospreciar",
+  "key": "menospreciar",
+  "gloss": "to look down on, belittle",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-02",
+  "level": "B2",
+  "word": "encurtido",
+  "head": "encurtido",
+  "key": "encurtido",
+  "gloss": "pickled",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-02",
+  "level": "B2",
+  "word": "afinar",
+  "head": "afinar",
+  "key": "afinar",
+  "gloss": "to fine-tune, refine",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-02",
+  "level": "B2",
+  "word": "el acierto",
+  "head": "acierto",
+  "key": "acierto",
+  "gloss": "good move, stroke of insight",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-02",
+  "level": "B2",
+  "word": "pasar inadvertido",
+  "head": "pasar inadvertido",
+  "key": "pasar",
+  "gloss": "to go unnoticed",
+  "later_tokens": 6,
+  "later_stories": 5
+ },
+ {
+  "story": "b2-02",
+  "level": "B2",
+  "word": "la carcajada",
+  "head": "carcajada",
+  "key": "carcajada",
+  "gloss": "hearty laugh",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "b2-02",
+  "level": "B2",
+  "word": "hacer las paces",
+  "head": "hacer las paces",
+  "key": "paces",
+  "gloss": "to make peace",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-03",
+  "level": "B2",
+  "word": "la apuesta",
+  "head": "apuesta",
+  "key": "apuesta",
+  "gloss": "bet, wager",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-03",
+  "level": "B2",
+  "word": "la Compostela",
+  "head": "compostela",
+  "key": "compostela",
+  "gloss": "certificate given to pilgrims who complete the Camino",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-03",
+  "level": "B2",
+  "word": "el bastón",
+  "head": "bastón",
+  "key": "bastón",
+  "gloss": "walking pole, walking stick",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-03",
+  "level": "B2",
+  "word": "el mojón",
+  "head": "mojón",
+  "key": "mojón",
+  "gloss": "stone waymarker (with the distance to Santiago)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-03",
+  "level": "B2",
+  "word": "cojear",
+  "head": "cojear",
+  "key": "cojear",
+  "gloss": "to limp",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-03",
+  "level": "B2",
+  "word": "el sello",
+  "head": "sello",
+  "key": "sello",
+  "gloss": "stamp (ink stamp)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-03",
+  "level": "B2",
+  "word": "la credencial",
+  "head": "credencial",
+  "key": "credencial",
+  "gloss": "pilgrim passport (stamped along the Camino)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-03",
+  "level": "B2",
+  "word": "el pulpo a feira",
+  "head": "pulpo a feira",
+  "key": "pulpo",
+  "gloss": "Galician-style octopus (boiled, with paprika and olive oil)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-03",
+  "level": "B2",
+  "word": "remendado",
+  "head": "remendado",
+  "key": "remendado",
+  "gloss": "patched, mended",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-03",
+  "level": "B2",
+  "word": "el hospitalero",
+  "head": "hospitalero",
+  "key": "hospitalero",
+  "gloss": "host who runs a pilgrims' hostel (often a volunteer)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-03",
+  "level": "B2",
+  "word": "la concha de vieira",
+  "head": "concha de vieira",
+  "key": "concha",
+  "gloss": "scallop shell",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-03",
+  "level": "B2",
+  "word": "tembloroso",
+  "head": "tembloroso",
+  "key": "tembloroso",
+  "gloss": "shaky, trembling",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-03",
+  "level": "B2",
+  "word": "el expediente",
+  "head": "expediente",
+  "key": "expediente",
+  "gloss": "case file, dossier",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-03",
+  "level": "B2",
+  "word": "el jubileo",
+  "head": "jubileo",
+  "key": "jubileo",
+  "gloss": "jubilee (special pardon granted in a Holy Year)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-03",
+  "level": "B2",
+  "word": "la penitencia",
+  "head": "penitencia",
+  "key": "penitencia",
+  "gloss": "penance",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-03",
+  "level": "B2",
+  "word": "el posadero",
+  "head": "posadero",
+  "key": "posadero",
+  "gloss": "innkeeper",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-03",
+  "level": "B2",
+  "word": "la cojera",
+  "head": "cojera",
+  "key": "cojera",
+  "gloss": "limp",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-03",
+  "level": "B2",
+  "word": "a todas luces",
+  "head": "a todas luces",
+  "key": "a",
+  "gloss": "clearly, quite obviously",
+  "later_tokens": 133,
+  "later_stories": 7
+ },
+ {
+  "story": "b2-03",
+  "level": "B2",
+  "word": "el incensario",
+  "head": "incensario",
+  "key": "incensario",
+  "gloss": "censer, thurible",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-03",
+  "level": "B2",
+  "word": "la nave",
+  "head": "nave",
+  "key": "nave",
+  "gloss": "nave (main body of a church)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-04",
+  "level": "B2",
+  "word": "el plazo",
+  "head": "plazo",
+  "key": "plazo",
+  "gloss": "deadline, time limit",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-04",
+  "level": "B2",
+  "word": "angustioso",
+  "head": "angustioso",
+  "key": "angustioso",
+  "gloss": "distressing, agonizing",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-04",
+  "level": "B2",
+  "word": "la cuerda floja",
+  "head": "cuerda floja",
+  "key": "cuerda",
+  "gloss": "tightrope",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "b2-04",
+  "level": "B2",
+  "word": "toparse con",
+  "head": "toparse con",
+  "key": "toparse",
+  "gloss": "to come across, bump into",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-04",
+  "level": "B2",
+  "word": "inocuo",
+  "head": "inocuo",
+  "key": "inocuo",
+  "gloss": "harmless",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-04",
+  "level": "B2",
+  "word": "el homólogo",
+  "head": "homólogo",
+  "key": "homólogo",
+  "gloss": "counterpart",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-04",
+  "level": "B2",
+  "word": "la coartada",
+  "head": "coartada",
+  "key": "coartada",
+  "gloss": "alibi, pretext",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-04",
+  "level": "B2",
+  "word": "suavizar",
+  "head": "suavizar",
+  "key": "suavizar",
+  "gloss": "to soften",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-04",
+  "level": "B2",
+  "word": "matizar",
+  "head": "matizar",
+  "key": "matizar",
+  "gloss": "to add nuance, qualify",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-04",
+  "level": "B2",
+  "word": "torpe",
+  "head": "torpe",
+  "key": "torpe",
+  "gloss": "clumsy",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "b2-04",
+  "level": "B2",
+  "word": "demoledor",
+  "head": "demoledor",
+  "key": "demoledor",
+  "gloss": "devastating, crushing",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-04",
+  "level": "B2",
+  "word": "el rubor",
+  "head": "rubor",
+  "key": "rubor",
+  "gloss": "blush, embarrassment",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-04",
+  "level": "B2",
+  "word": "la aclaración",
+  "head": "aclaración",
+  "key": "aclaración",
+  "gloss": "clarification",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-04",
+  "level": "B2",
+  "word": "desarmar",
+  "head": "desarmar",
+  "key": "desarmar",
+  "gloss": "to disarm",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-04",
+  "level": "B2",
+  "word": "la nota al pie",
+  "head": "nota al pie",
+  "key": "nota",
+  "gloss": "footnote",
+  "later_tokens": 2,
+  "later_stories": 2
+ },
+ {
+  "story": "b2-04",
+  "level": "B2",
+  "word": "disimular",
+  "head": "disimular",
+  "key": "disimular",
+  "gloss": "to conceal, disguise",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-04",
+  "level": "B2",
+  "word": "tachar de",
+  "head": "tachar de",
+  "key": "tachar",
+  "gloss": "to label as, dismiss as",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-04",
+  "level": "B2",
+  "word": "ahorrar",
+  "head": "ahorrar",
+  "key": "ahorrar",
+  "gloss": "to spare, save",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-04",
+  "level": "B2",
+  "word": "el qué dirán",
+  "head": "qué dirán",
+  "key": "qué",
+  "gloss": "what people will say, gossip",
+  "later_tokens": 14,
+  "later_stories": 5
+ },
+ {
+  "story": "b2-05",
+  "level": "B2",
+  "word": "la persiana",
+  "head": "persiana",
+  "key": "persiana",
+  "gloss": "shop shutter (roller shutter)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-05",
+  "level": "B2",
+  "word": "la librería de viejo",
+  "head": "librería de viejo",
+  "key": "librería",
+  "gloss": "second-hand bookshop",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-05",
+  "level": "B2",
+  "word": "la vitrina",
+  "head": "vitrina",
+  "key": "vitrina",
+  "gloss": "display case, glass cabinet",
+  "later_tokens": 3,
+  "later_stories": 1
+ },
+ {
+  "story": "b2-05",
+  "level": "B2",
+  "word": "la dedicatoria",
+  "head": "dedicatoria",
+  "key": "dedicatoria",
+  "gloss": "inscription, dedication (written in a book)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-05",
+  "level": "B2",
+  "word": "nena",
+  "head": "nena",
+  "key": "nena",
+  "gloss": "sweetheart, dear (Arg., affectionate; lit. little girl)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-05",
+  "level": "B2",
+  "word": "el pibe",
+  "head": "pibe",
+  "key": "pibe",
+  "gloss": "kid, young guy (Arg., colloquial)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-05",
+  "level": "B2",
+  "word": "el sótano",
+  "head": "sótano",
+  "key": "sótano",
+  "gloss": "basement",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-05",
+  "level": "B2",
+  "word": "dormitar",
+  "head": "dormitar",
+  "key": "dormitar",
+  "gloss": "to doze",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-05",
+  "level": "B2",
+  "word": "decís",
+  "head": "decís",
+  "key": "decís",
+  "gloss": "you say (vos form; tú: dices)",
+  "later_tokens": 46,
+  "later_stories": 5
+ },
+ {
+  "story": "b2-05",
+  "level": "B2",
+  "word": "el kiosco de diarios",
+  "head": "kiosco de diarios",
+  "key": "kiosco",
+  "gloss": "newsstand, newspaper kiosk",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-05",
+  "level": "B2",
+  "word": "chorrear",
+  "head": "chorrear",
+  "key": "chorrear",
+  "gloss": "to drip, to stream",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-05",
+  "level": "B2",
+  "word": "el cadete",
+  "head": "cadete",
+  "key": "cadete",
+  "gloss": "delivery boy, errand runner (Arg.)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-05",
+  "level": "B2",
+  "word": "mirá",
+  "head": "mirá",
+  "key": "mirá",
+  "gloss": "look (vos command; tú: mira)",
+  "later_tokens": 11,
+  "later_stories": 5
+ },
+ {
+  "story": "b2-05",
+  "level": "B2",
+  "word": "el rompecabezas",
+  "head": "rompecabezas",
+  "key": "rompecabezas",
+  "gloss": "jigsaw puzzle",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-05",
+  "level": "B2",
+  "word": "empapado",
+  "head": "empapado",
+  "key": "empapado",
+  "gloss": "soaked, drenched",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-05",
+  "level": "B2",
+  "word": "ensayar",
+  "head": "ensayar",
+  "key": "ensayar",
+  "gloss": "to rehearse",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "b2-05",
+  "level": "B2",
+  "word": "el lomo",
+  "head": "lomo",
+  "key": "lomo",
+  "gloss": "spine (of a book)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-05",
+  "level": "B2",
+  "word": "el termo",
+  "head": "termo",
+  "key": "termo",
+  "gloss": "thermos (for mate water)",
+  "later_tokens": 2,
+  "later_stories": 2
+ },
+ {
+  "story": "b2-05",
+  "level": "B2",
+  "word": "la plata",
+  "head": "plata",
+  "key": "plata",
+  "gloss": "money (Lat. Am., colloquial)",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "b2-05",
+  "level": "B2",
+  "word": "el maletín",
+  "head": "maletín",
+  "key": "maletín",
+  "gloss": "briefcase",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-05",
+  "level": "B2",
+  "word": "desmentir",
+  "head": "desmentir",
+  "key": "desmentir",
+  "gloss": "to deny, to refute",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-06",
+  "level": "B2",
+  "word": "advertir",
+  "head": "advertir",
+  "key": "advertir",
+  "gloss": "to warn; to notice, point out",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-06",
+  "level": "B2",
+  "word": "achacoso",
+  "head": "achacoso",
+  "key": "achacoso",
+  "gloss": "ailing, frail",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-06",
+  "level": "B2",
+  "word": "testarudo",
+  "head": "testarudo",
+  "key": "testarudo",
+  "gloss": "stubborn, headstrong",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-06",
+  "level": "B2",
+  "word": "apegado",
+  "head": "apegado",
+  "key": "apegado",
+  "gloss": "attached, devoted",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-06",
+  "level": "B2",
+  "word": "desconcertar",
+  "head": "desconcertar",
+  "key": "desconcertar",
+  "gloss": "to baffle, to disconcert",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-06",
+  "level": "B2",
+  "word": "el desasosiego",
+  "head": "desasosiego",
+  "key": "desasosiego",
+  "gloss": "unease, restlessness",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-06",
+  "level": "B2",
+  "word": "abatido",
+  "head": "abatido",
+  "key": "abatido",
+  "gloss": "downcast, dejected",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-06",
+  "level": "B2",
+  "word": "el afán",
+  "head": "afán",
+  "key": "afán",
+  "gloss": "eagerness, zeal",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-06",
+  "level": "B2",
+  "word": "el esmero",
+  "head": "esmero",
+  "key": "esmero",
+  "gloss": "great care",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-06",
+  "level": "B2",
+  "word": "cobrar vida",
+  "head": "cobrar vida",
+  "key": "cobrar",
+  "gloss": "to come to life",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-06",
+  "level": "B2",
+  "word": "estremecerse",
+  "head": "estremecerse",
+  "key": "estremecerse",
+  "gloss": "to shudder",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-06",
+  "level": "B2",
+  "word": "el umbral",
+  "head": "umbral",
+  "key": "umbral",
+  "gloss": "threshold",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-06",
+  "level": "B2",
+  "word": "descompuesto",
+  "head": "descompuesto",
+  "key": "descompuesto",
+  "gloss": "broken down (Mexico)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-06",
+  "level": "B2",
+  "word": "la maceta",
+  "head": "maceta",
+  "key": "maceta",
+  "gloss": "flowerpot",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-06",
+  "level": "B2",
+  "word": "el resguardo",
+  "head": "resguardo",
+  "key": "resguardo",
+  "gloss": "claim slip, receipt",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-06",
+  "level": "B2",
+  "word": "latir",
+  "head": "latir",
+  "key": "latir",
+  "gloss": "to beat, to tick",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-06",
+  "level": "B2",
+  "word": "corregir",
+  "head": "corregir",
+  "key": "corregir",
+  "gloss": "to correct",
+  "later_tokens": 3,
+  "later_stories": 2
+ },
+ {
+  "story": "b2-06",
+  "level": "B2",
+  "word": "en vela",
+  "head": "en vela",
+  "key": "en",
+  "gloss": "awake, sleepless",
+  "later_tokens": 67,
+  "later_stories": 4
+ },
+ {
+  "story": "b2-06",
+  "level": "B2",
+  "word": "la terquedad",
+  "head": "terquedad",
+  "key": "terquedad",
+  "gloss": "obstinacy",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-06",
+  "level": "B2",
+  "word": "el áncora",
+  "head": "áncora",
+  "key": "áncora",
+  "gloss": "pallet fork (watch escapement part; lit. anchor)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-07",
+  "level": "B2",
+  "word": "la fonda",
+  "head": "fonda",
+  "key": "fonda",
+  "gloss": "small family restaurant, eatery",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-07",
+  "level": "B2",
+  "word": "el comal",
+  "head": "comal",
+  "key": "comal",
+  "gloss": "flat griddle (for tortillas and toasting chiles)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-07",
+  "level": "B2",
+  "word": "la antepasada",
+  "head": "antepasada",
+  "key": "antepasada",
+  "gloss": "(female) ancestor",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-07",
+  "level": "B2",
+  "word": "el metate",
+  "head": "metate",
+  "key": "metate",
+  "gloss": "grinding stone (traditional Mexican)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-07",
+  "level": "B2",
+  "word": "espeso",
+  "head": "espeso",
+  "key": "espeso",
+  "gloss": "thick (of a liquid)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-07",
+  "level": "B2",
+  "word": "la cazuela",
+  "head": "cazuela",
+  "key": "cazuela",
+  "gloss": "clay cooking pot",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-07",
+  "level": "B2",
+  "word": "derrotar",
+  "head": "derrotar",
+  "key": "derrotar",
+  "gloss": "to defeat",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-07",
+  "level": "B2",
+  "word": "dirigirse la palabra",
+  "head": "dirigirse la palabra",
+  "key": "dirigirse",
+  "gloss": "to speak to each other, be on speaking terms",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-07",
+  "level": "B2",
+  "word": "el guajolote",
+  "head": "guajolote",
+  "key": "guajolote",
+  "gloss": "turkey (Mexico)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-07",
+  "level": "B2",
+  "word": "el ajonjolí",
+  "head": "ajonjolí",
+  "key": "ajonjolí",
+  "gloss": "sesame seeds",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-07",
+  "level": "B2",
+  "word": "la prueba a ciegas",
+  "head": "prueba a ciegas",
+  "key": "prueba",
+  "gloss": "blind tasting, blind test",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "b2-07",
+  "level": "B2",
+  "word": "la talavera",
+  "head": "talavera",
+  "key": "talavera",
+  "gloss": "talavera (hand-painted glazed pottery and tiles)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-07",
+  "level": "B2",
+  "word": "la capa",
+  "head": "capa",
+  "key": "capa",
+  "gloss": "layer",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-07",
+  "level": "B2",
+  "word": "decepcionar",
+  "head": "decepcionar",
+  "key": "decepcionar",
+  "gloss": "to disappoint",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-07",
+  "level": "B2",
+  "word": "el molino",
+  "head": "molino",
+  "key": "molino",
+  "gloss": "mill (here: a shop that grinds chiles, corn, etc.)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-07",
+  "level": "B2",
+  "word": "el costal",
+  "head": "costal",
+  "key": "costal",
+  "gloss": "sack (Mexico)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-07",
+  "level": "B2",
+  "word": "el delantal",
+  "head": "delantal",
+  "key": "delantal",
+  "gloss": "apron",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "b2-07",
+  "level": "B2",
+  "word": "soltar una carcajada",
+  "head": "soltar una carcajada",
+  "key": "soltar",
+  "gloss": "to burst out laughing",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-07",
+  "level": "B2",
+  "word": "enmarcar",
+  "head": "enmarcar",
+  "key": "enmarcar",
+  "gloss": "to frame",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-08",
+  "level": "B2",
+  "word": "ensayar",
+  "head": "ensayar",
+  "key": "ensayar",
+  "gloss": "to rehearse",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-08",
+  "level": "B2",
+  "word": "dar la espalda",
+  "head": "dar la espalda",
+  "key": "espalda",
+  "gloss": "to turn one's back on",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-08",
+  "level": "B2",
+  "word": "el juramento",
+  "head": "juramento",
+  "key": "juramento",
+  "gloss": "oath, vow",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-08",
+  "level": "B2",
+  "word": "tibio",
+  "head": "tibio",
+  "key": "tibio",
+  "gloss": "lukewarm, noncommittal",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-08",
+  "level": "B2",
+  "word": "el mirador",
+  "head": "mirador",
+  "key": "mirador",
+  "gloss": "lookout, viewpoint",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-08",
+  "level": "B2",
+  "word": "las canas",
+  "head": "canas",
+  "key": "canas",
+  "gloss": "gray hairs",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-08",
+  "level": "B2",
+  "word": "la falta de tacto",
+  "head": "falta de tacto",
+  "key": "falta",
+  "gloss": "tactlessness",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-08",
+  "level": "B2",
+  "word": "echar",
+  "head": "echar",
+  "key": "echar",
+  "gloss": "to throw out, to expel",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-08",
+  "level": "B2",
+  "word": "la maqueta",
+  "head": "maqueta",
+  "key": "maqueta",
+  "gloss": "demo recording",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-08",
+  "level": "B2",
+  "word": "cortar por lo sano",
+  "head": "cortar por lo sano",
+  "key": "cortar",
+  "gloss": "to make a clean break",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-08",
+  "level": "B2",
+  "word": "el recado",
+  "head": "recado",
+  "key": "recado",
+  "gloss": "message (left for someone)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-08",
+  "level": "B2",
+  "word": "reseco",
+  "head": "reseco",
+  "key": "reseco",
+  "gloss": "dried out, brittle",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-08",
+  "level": "B2",
+  "word": "el descuido",
+  "head": "descuido",
+  "key": "descuido",
+  "gloss": "carelessness, oversight",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-08",
+  "level": "B2",
+  "word": "el alivio",
+  "head": "alivio",
+  "key": "alivio",
+  "gloss": "relief",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-08",
+  "level": "B2",
+  "word": "la vergüenza",
+  "head": "vergüenza",
+  "key": "vergüenza",
+  "gloss": "shame, embarrassment",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-08",
+  "level": "B2",
+  "word": "el chirrido",
+  "head": "chirrido",
+  "key": "chirrido",
+  "gloss": "creak, squeak",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-08",
+  "level": "B2",
+  "word": "acoger",
+  "head": "acoger",
+  "key": "acoger",
+  "gloss": "to receive, to welcome",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-08",
+  "level": "B2",
+  "word": "brindar",
+  "head": "brindar",
+  "key": "brindar",
+  "gloss": "to toast",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-09",
+  "level": "B2",
+  "word": "crujir",
+  "head": "crujir",
+  "key": "crujir",
+  "gloss": "to creak",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-09",
+  "level": "B2",
+  "word": "desperezarse",
+  "head": "desperezarse",
+  "key": "desperezarse",
+  "gloss": "to stretch (oneself) awake",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-09",
+  "level": "B2",
+  "word": "quebradizo",
+  "head": "quebradizo",
+  "key": "quebradizo",
+  "gloss": "brittle, fragile",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-09",
+  "level": "B2",
+  "word": "entrecortarse",
+  "head": "entrecortarse",
+  "key": "entrecortarse",
+  "gloss": "to break off, to falter",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-09",
+  "level": "B2",
+  "word": "cesar",
+  "head": "cesar",
+  "key": "cesar",
+  "gloss": "to cease, to stop",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-09",
+  "level": "B2",
+  "word": "la garita",
+  "head": "garita",
+  "key": "garita",
+  "gloss": "guard booth",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-09",
+  "level": "B2",
+  "word": "fantasioso",
+  "head": "fantasioso",
+  "key": "fantasioso",
+  "gloss": "overimaginative",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-09",
+  "level": "B2",
+  "word": "montar guardia",
+  "head": "montar guardia",
+  "key": "montar",
+  "gloss": "to stand watch",
+  "later_tokens": 1,
+  "later_stories": 1
+ },
+ {
+  "story": "b2-09",
+  "level": "B2",
+  "word": "el chasquido",
+  "head": "chasquido",
+  "key": "chasquido",
+  "gloss": "click, snap",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-09",
+  "level": "B2",
+  "word": "el delantal",
+  "head": "delantal",
+  "key": "delantal",
+  "gloss": "apron",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-09",
+  "level": "B2",
+  "word": "la manivela",
+  "head": "manivela",
+  "key": "manivela",
+  "gloss": "crank, handle",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-09",
+  "level": "B2",
+  "word": "brotar",
+  "head": "brotar",
+  "key": "brotar",
+  "gloss": "to spring forth, to pour out",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-09",
+  "level": "B2",
+  "word": "tambalearse",
+  "head": "tambalearse",
+  "key": "tambalearse",
+  "gloss": "to wobble, to totter",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-09",
+  "level": "B2",
+  "word": "tararear",
+  "head": "tararear",
+  "key": "tararear",
+  "gloss": "to hum",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-09",
+  "level": "B2",
+  "word": "la errata",
+  "head": "errata",
+  "key": "errata",
+  "gloss": "misprint, typo",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-09",
+  "level": "B2",
+  "word": "respaldar",
+  "head": "respaldar",
+  "key": "respaldar",
+  "gloss": "to back, to support",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-09",
+  "level": "B2",
+  "word": "la jubilación",
+  "head": "jubilación",
+  "key": "jubilación",
+  "gloss": "retirement",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-09",
+  "level": "B2",
+  "word": "el plato fuerte",
+  "head": "plato fuerte",
+  "key": "plato",
+  "gloss": "main attraction, highlight",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-10",
+  "level": "B2",
+  "word": "el reverso",
+  "head": "reverso",
+  "key": "reverso",
+  "gloss": "back (of a photo or page)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-10",
+  "level": "B2",
+  "word": "la escalinata",
+  "head": "escalinata",
+  "key": "escalinata",
+  "gloss": "flight of (outdoor) steps",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-10",
+  "level": "B2",
+  "word": "los lunares",
+  "head": "lunares",
+  "key": "lunares",
+  "gloss": "polka dots",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-10",
+  "level": "B2",
+  "word": "la cúpula",
+  "head": "cúpula",
+  "key": "cúpula",
+  "gloss": "dome",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-10",
+  "level": "B2",
+  "word": "el buchito",
+  "head": "buchito",
+  "key": "buchito",
+  "gloss": "small cup of coffee (Cuba)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-10",
+  "level": "B2",
+  "word": "la lupa",
+  "head": "lupa",
+  "key": "lupa",
+  "gloss": "magnifying glass",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-10",
+  "level": "B2",
+  "word": "la máquina",
+  "head": "máquina",
+  "key": "máquina",
+  "gloss": "car (Cuba); machine",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-10",
+  "level": "B2",
+  "word": "la aleta",
+  "head": "aleta",
+  "key": "aleta",
+  "gloss": "tail fin (of a car)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-10",
+  "level": "B2",
+  "word": "el almendrón",
+  "head": "almendrón",
+  "key": "almendrón",
+  "gloss": "classic 1950s American car (Cuba)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-10",
+  "level": "B2",
+  "word": "la guagua",
+  "head": "guagua",
+  "key": "guagua",
+  "gloss": "bus (Cuba, Caribbean)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-10",
+  "level": "B2",
+  "word": "el puesto",
+  "head": "puesto",
+  "key": "puesto",
+  "gloss": "stall",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-10",
+  "level": "B2",
+  "word": "el minutero",
+  "head": "minutero",
+  "key": "minutero",
+  "gloss": "street photographer with a box camera (Cuba)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-10",
+  "level": "B2",
+  "word": "el trípode",
+  "head": "trípode",
+  "key": "trípode",
+  "gloss": "tripod",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-10",
+  "level": "B2",
+  "word": "revelar",
+  "head": "revelar",
+  "key": "revelar",
+  "gloss": "to develop (photos)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-10",
+  "level": "B2",
+  "word": "la cifra",
+  "head": "cifra",
+  "key": "cifra",
+  "gloss": "digit, figure",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-10",
+  "level": "B2",
+  "word": "despistado",
+  "head": "despistado",
+  "key": "despistado",
+  "gloss": "absent-minded, scatterbrained",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-10",
+  "level": "B2",
+  "word": "la humedad",
+  "head": "humedad",
+  "key": "humedad",
+  "gloss": "damp, humidity",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-10",
+  "level": "B2",
+  "word": "los espejuelos",
+  "head": "espejuelos",
+  "key": "espejuelos",
+  "gloss": "glasses, spectacles (Cuba)",
+  "later_tokens": 0,
+  "later_stories": 0
+ },
+ {
+  "story": "b2-10",
+  "level": "B2",
+  "word": "el recibo",
+  "head": "recibo",
+  "key": "recibo",
+  "gloss": "receipt",
+  "later_tokens": 0,
+  "later_stories": 0
+ }
+]

@@ -1,0 +1,902 @@
+{
+ "a2-01": {
+  "steps": [
+   {
+    "say": "¡Hola! Me llamo Sofía. Leí la historia de Ana y el tren. ¿Y tú?",
+    "en": "Hi! I'm Sofía. I read the story of Ana and the train. And you?",
+    "r": [
+     [
+      "Sí, me gustó mucho la historia.",
+      "Yes, I liked the story a lot.",
+      1
+     ],
+     [
+      "Sí. Ana perdió el tren de las nueve.",
+      "Yes. Ana missed the nine o'clock train.",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "Ana corrió por la estación, pero el tren ya no estaba. ¿Qué haces tú?",
+    "en": "Ana ran through the station, but the train was gone. What do you do?",
+    "r": [
+     [
+      "Compro otro billete.",
+      "I buy another ticket.",
+      2
+     ],
+     [
+      "Lloro un poco, como Ana.",
+      "I cry a little, like Ana.",
+      2
+     ],
+     [
+      "Llamo a mi familia.",
+      "I call my family.",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "Pablo tenía un billete de autobús para ella. ¿Te gusta Pablo?",
+    "en": "Pablo had a bus ticket for her. Do you like Pablo?",
+    "r": [
+     [
+      "Sí, es simpático y generoso.",
+      "Yes, he is nice and generous.",
+      3
+     ],
+     [
+      "Sí, toca bien la guitarra.",
+      "Yes, he plays the guitar well.",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "Al final, el tren tuvo una avería. ¡Qué suerte! ¿Viajas mucho en tren?",
+    "en": "In the end the train broke down. What luck! Do you travel by train a lot?",
+    "r": [
+     [
+      "Sí, viajo en tren cada semana.",
+      "Yes, I travel by train every week.",
+      4
+     ],
+     [
+      "No, prefiero el autobús.",
+      "No, I prefer the bus.",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "Pablo es el primo de Javier, el novio de Marta. Ana perdió el tren, pero encontró un buen amigo. ¿Tienes un amigo así?",
+    "en": "Pablo is the cousin of Javier, Marta's fiancé. Ana missed the train but found a good friend. Do you have a friend like that?",
+    "r": [
+     [
+      "Sí, tengo un buen amigo.",
+      "Yes, I have a good friend.",
+      5
+     ],
+     [
+      "No, pero quiero encontrar uno.",
+      "No, but I want to find one.",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "¡Qué bonito! Gracias por hablar conmigo. ¡Hasta pronto!",
+    "en": "How nice! Thanks for talking with me. See you soon!",
+    "end": true
+   }
+  ]
+ },
+ "a2-02": {
+  "steps": [
+   {
+    "say": "¡Hola! Soy Sofía, como la chica de la historia. ¿Te gustó La caja azul?",
+    "en": "Hi! I'm Sofía, like the girl in the story. Did you like The Blue Box?",
+    "r": [
+     [
+      "Sí, me gustó mucho.",
+      "Yes, I liked it a lot.",
+      1
+     ],
+     [
+      "Sí, la sorpresa fue muy bonita.",
+      "Yes, the surprise was very nice.",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "En su cumpleaños, el abuelo le dio una caja azul. ¿Qué había dentro?",
+    "en": "On her birthday, her grandfather gave her a blue box. What was inside?",
+    "r": [
+     [
+      "Había una llave y un papel.",
+      "There was a key and a paper.",
+      2
+     ],
+     [
+      "Había un papel con una pista.",
+      "There was a paper with a clue.",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "Sofía caminó al mercado y a la panadería. ¿Qué compras tú en el mercado?",
+    "en": "Sofía walked to the market and the bakery. What do you buy at the market?",
+    "r": [
+     [
+      "Compro mangos y pan dulce.",
+      "I buy mangos and sweet bread.",
+      3
+     ],
+     [
+      "Nunca voy al mercado.",
+      "I never go to the market.",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "Al final, Sofía abrió la puerta verde con la llave y encontró un cachorro con una cinta roja. ¿Te gustan los perros?",
+    "en": "In the end Sofía opened the green door with the key and found a puppy with a red ribbon. Do you like dogs?",
+    "r": [
+     [
+      "Sí, tengo un perro en casa.",
+      "Yes, I have a dog at home.",
+      4
+     ],
+     [
+      "No, prefiero los gatos.",
+      "No, I prefer cats.",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "Sofía lloró de alegría y abrazó a su abuelo. ¿Cómo se llama el cachorro?",
+    "en": "Sofía cried with joy and hugged her grandfather. What is the puppy called?",
+    "r": [
+     [
+      "Se llama Mango.",
+      "His name is Mango.",
+      5
+     ],
+     [
+      "No me acuerdo. ¿Cómo se llama?",
+      "I don't remember. What is he called?",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "¡Sí, se llama Mango! Es un nombre perfecto. ¡Gracias por la charla!",
+    "en": "Yes, he's called Mango! It's a perfect name. Thanks for the chat!",
+    "end": true
+   }
+  ]
+ },
+ "a2-03": {
+  "steps": [
+   {
+    "say": "¡Hola! Me llamo Tomás. Leí la historia de Mateo y su abuela. ¿La conoces?",
+    "en": "Hi! I'm Tomás. I read the story of Mateo and his grandmother. Do you know it?",
+    "r": [
+     [
+      "Sí, Mateo cocinó para su madre.",
+      "Yes, Mateo cooked for his mother.",
+      1
+     ],
+     [
+      "No mucho. ¿Qué pasó?",
+      "Not really. What happened?",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "Mateo buscó la receta, compró carne y cebolla y cocinó. Pero no era igual. ¿Cocinas tú?",
+    "en": "Mateo looked for the recipe, bought meat and onion and cooked. But it wasn't the same. Do you cook?",
+    "r": [
+     [
+      "Sí, cocino casi todos los días.",
+      "Yes, I cook almost every day.",
+      2
+     ],
+     [
+      "No, cocino muy poco.",
+      "No, I hardly cook.",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "Entonces la abuela llegó a la puerta. ¡Qué sorpresa! ¿Qué piensas del secreto?",
+    "en": "Then the grandmother arrived at the door. What a surprise! What do you think of the secret?",
+    "r": [
+     [
+      "Es un ingrediente especial.",
+      "It's a special ingredient.",
+      3
+     ],
+     [
+      "Es una idea muy simpática.",
+      "It's a very nice idea.",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "La abuela dijo: «Así mis nietos siempre me visitan». ¿Visitas a tu abuela?",
+    "en": "The grandmother said, \"That way my grandchildren always visit me.\" Do you visit your grandmother?",
+    "r": [
+     [
+      "Sí, la visito los domingos.",
+      "Yes, I visit her on Sundays.",
+      4
+     ],
+     [
+      "No, vive muy lejos.",
+      "No, she lives very far away.",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "Esa noche la madre de Mateo probó el plato y lloró de alegría. ¿Cuál es tu plato favorito?",
+    "en": "That night Mateo's mother tasted the dish and cried with joy. What is your favorite dish?",
+    "r": [
+     [
+      "Mi plato favorito es la pizza.",
+      "My favorite dish is pizza.",
+      5
+     ],
+     [
+      "Me gusta el arroz con pollo.",
+      "I like rice with chicken.",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "¡Qué rico! Ahora tengo hambre. Gracias por hablar conmigo.",
+    "en": "How tasty! Now I'm hungry. Thanks for talking with me.",
+    "end": true
+   }
+  ]
+ },
+ "a2-04": {
+  "steps": [
+   {
+    "say": "¡Hola! Soy Tomás, el portero de la historia. ¿Te gusta el fútbol?",
+    "en": "Hi! I'm Tomás, the goalkeeper from the story. Do you like soccer?",
+    "r": [
+     [
+      "Sí, me gusta mucho el fútbol.",
+      "Yes, I like soccer a lot.",
+      1
+     ],
+     [
+      "No mucho, pero la historia me gustó.",
+      "Not much, but I liked the story.",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "Mi hermana Camila y yo jugamos la final del barrio. ¿Tienes hermanos?",
+    "en": "My sister Camila and I played the neighborhood final. Do you have siblings?",
+    "r": [
+     [
+      "Sí, tengo una hermana.",
+      "Yes, I have a sister.",
+      2
+     ],
+     [
+      "No, soy hijo único.",
+      "No, I'm an only child.",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "Faltaban dos minutos y el árbitro pitó un penalti. Yo estaba muy nervioso. ¿Y tú?",
+    "en": "Two minutes were left and the referee called a penalty. I was very nervous. And you?",
+    "r": [
+     [
+      "Yo también estoy nervioso.",
+      "I get nervous too.",
+      3
+     ],
+     [
+      "Yo no. Soy muy tranquilo.",
+      "Not me. I'm very calm.",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "Camila siempre tiraba a la izquierda, y yo paré el balón. ¡Ganamos uno a cero! ¿Qué piensas?",
+    "en": "Camila always kicked to the left, and I stopped the ball. We won one to nothing! What do you think?",
+    "r": [
+     [
+      "¡Fue una buena idea!",
+      "It was a good idea!",
+      4
+     ],
+     [
+      "Camila está triste, ¿no?",
+      "Camila is sad, isn't she?",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "Camila sonreía y los dos reímos. Mi abuela nos esperaba con chocolate caliente. ¿Te gusta?",
+    "en": "Camila smiled and we both laughed. My grandmother was waiting with hot chocolate. Do you like it?",
+    "r": [
+     [
+      "Sí, me gusta el chocolate caliente.",
+      "Yes, I like hot chocolate.",
+      5
+     ],
+     [
+      "No, prefiero el café.",
+      "No, I prefer coffee.",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "¡Muy bien! Mañana juego con Camila en la calle. ¡Hasta luego!",
+    "en": "Great! Tomorrow I'm playing with Camila in the street. See you later!",
+    "end": true
+   }
+  ]
+ },
+ "a2-05": {
+  "steps": [
+   {
+    "say": "¡Hola! Me llamo Sofía. Leí Número equivocado. ¿Te gustó?",
+    "en": "Hi! I'm Sofía. I read Wrong Number. Did you like it?",
+    "r": [
+     [
+      "Sí, fue una historia simpática.",
+      "Yes, it was a nice story.",
+      1
+     ],
+     [
+      "Sí, Valentina ayudó a un vecino.",
+      "Yes, Valentina helped a neighbor.",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "Era una tarde fría de invierno y llovía mucho. Un chico escribió a Valentina por error. ¿Qué haces tú?",
+    "en": "It was a cold winter afternoon and it was raining a lot. A boy texted Valentina by mistake. What do you do?",
+    "r": [
+     [
+      "Respondo: «Número equivocado».",
+      "I answer, \"Wrong number.\"",
+      2
+     ],
+     [
+      "No respondo nada.",
+      "I don't answer at all.",
+      2
+     ],
+     [
+      "Pregunto si necesita ayuda.",
+      "I ask if he needs help.",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "Nicolás anotó mal el número nuevo de su mamá. Estaba solo en la calle y su teléfono casi no tenía batería. ¿Sales de casa?",
+    "en": "Nicolás wrote down his mom's new number wrong. He was alone in the street and his phone was almost out of battery. Do you go out?",
+    "r": [
+     [
+      "Sí, salgo con un paraguas.",
+      "Yes, I go out with an umbrella.",
+      3
+     ],
+     [
+      "No, llamo a la policía.",
+      "No, I call the police.",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "Valentina preparó té y se sentó con Nicolás bajo el techo. ¿Te gusta el té?",
+    "en": "Valentina made tea and sat with Nicolás under the roof. Do you like tea?",
+    "r": [
+     [
+      "Sí, tomo té todas las tardes.",
+      "Yes, I drink tea every afternoon.",
+      4
+     ],
+     [
+      "No, prefiero el café.",
+      "No, I prefer coffee.",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "La mamá de Nicolás llegó con las llaves y invitó a Valentina a cenar. ¿Conoces a tus vecinos?",
+    "en": "Nicolás's mother arrived with the keys and invited Valentina to dinner. Do you know your neighbors?",
+    "r": [
+     [
+      "Sí, son muy simpáticos.",
+      "Yes, they are very nice.",
+      5
+     ],
+     [
+      "No, no conozco a nadie.",
+      "No, I don't know anyone.",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "Un mensaje equivocado fue el principio de una amistad. ¡Gracias por hablar conmigo!",
+    "en": "A wrong message was the start of a friendship. Thanks for talking with me!",
+    "end": true
+   }
+  ]
+ },
+ "a2-06": {
+  "steps": [
+   {
+    "say": "¡Hola! Soy Sofía. Leí la historia de Camila y su apartamento nuevo. ¿Te gustó?",
+    "en": "Hi! I'm Sofía. I read the story of Camila and her new apartment. Did you like it?",
+    "r": [
+     [
+      "Sí, la lámpara fue una sorpresa.",
+      "Yes, the lamp was a surprise.",
+      1
+     ],
+     [
+      "Sí, pero hay muchas cajas.",
+      "Yes, but there are a lot of boxes.",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "Camila se mudó con su hermano Tomás, pero el ascensor no funcionaba. ¿Qué haces tú?",
+    "en": "Camila moved with her brother Tomás, but the elevator didn't work. What do you do?",
+    "r": [
+     [
+      "Subo todo por la escalera.",
+      "I carry everything up the stairs.",
+      2
+     ],
+     [
+      "Pido ayuda a un vecino.",
+      "I ask a neighbor for help.",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "Don Rafael, el vecino, quiso ayudar. ¿Cómo es tu vecino?",
+    "en": "Don Rafael, the neighbor, wanted to help. What is your neighbor like?",
+    "r": [
+     [
+      "Es mayor y muy amable.",
+      "He is older and very kind.",
+      3
+     ],
+     [
+      "No lo conozco bien.",
+      "I don't know him well.",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "En la última caja había una lámpara y una carta de la abuela. Camila lloró. ¿Y tú?",
+    "en": "In the last box there was a lamp and a letter from her grandmother. Camila cried. And you?",
+    "r": [
+     [
+      "Yo también lloro con una carta así.",
+      "I would also cry over a letter like that.",
+      4
+     ],
+     [
+      "Yo sonrío y abrazo a mi hermano.",
+      "I smile and hug my brother.",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "Don Rafael le dio una bombilla y la lámpara se encendió. ¿Qué es un hogar para ti?",
+    "en": "Don Rafael gave her a light bulb and the lamp came on. What is a home for you?",
+    "r": [
+     [
+      "Es un lugar con mi familia.",
+      "It's a place with my family.",
+      5
+     ],
+     [
+      "Es un lugar tranquilo.",
+      "It's a quiet place.",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "¡Qué bonito! Camila ya tiene un hogar. Gracias por la charla.",
+    "en": "How lovely! Camila now has a home. Thanks for the chat.",
+    "end": true
+   }
+  ]
+ },
+ "a2-07": {
+  "steps": [
+   {
+    "say": "¡Hola! Me llamo Tomás. Leí la historia del músico de San Telmo. ¿La conoces?",
+    "en": "Hi! I'm Tomás. I read the story of the musician of San Telmo. Do you know it?",
+    "r": [
+     [
+      "Sí, Mateo toca la guitarra.",
+      "Yes, Mateo plays the guitar.",
+      1
+     ],
+     [
+      "No. ¿De qué trata?",
+      "No. What is it about?",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "Mateo toca en la plaza y la gente deja monedas. Una niña lo escucha siempre. ¿Tocas algún instrumento?",
+    "en": "Mateo plays in the square and people leave coins. A girl always listens to him. Do you play an instrument?",
+    "r": [
+     [
+      "Sí, toco la guitarra.",
+      "Yes, I play the guitar.",
+      2
+     ],
+     [
+      "No, pero me gusta bailar.",
+      "No, but I like to dance.",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "Un jueves se rompió una cuerda y Mateo no tenía dinero. ¿Qué haces tú?",
+    "en": "One Thursday a string broke and Mateo had no money. What do you do?",
+    "r": [
+     [
+      "Busco trabajo en un café.",
+      "I look for a job in a cafe.",
+      3
+     ],
+     [
+      "Pido ayuda a un amigo.",
+      "I ask a friend for help.",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "Julieta trajo a su abuelo Ernesto, y él dio una cuerda nueva de regalo. ¿Fue un buen abuelo?",
+    "en": "Julieta brought her grandfather Ernesto, and he gave a new string as a gift. Was he a good grandfather?",
+    "r": [
+     [
+      "Sí, fue muy generoso.",
+      "Yes, he was very generous.",
+      4
+     ],
+     [
+      "Sí, y tiene una tienda grande.",
+      "Yes, and he has a big shop.",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "El sábado Mateo tocó en la tienda y todos aplaudieron. Ahora da clases. ¿Te gusta la música?",
+    "en": "On Saturday Mateo played in the shop and everyone applauded. Now he gives lessons. Do you like music?",
+    "r": [
+     [
+      "Sí, escucho música todos los días.",
+      "Yes, I listen to music every day.",
+      5
+     ],
+     [
+      "Un poco. Me gustan las canciones.",
+      "A little. I like songs.",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "¡Qué bien! La música alegra a todos. Gracias por hablar conmigo.",
+    "en": "Great! Music cheers everybody up. Thanks for talking with me.",
+    "end": true
+   }
+  ]
+ },
+ "a2-08": {
+  "steps": [
+   {
+    "say": "¡Hola! Soy Tomás. Leí la historia de Valeria y Andrés en la niebla. ¿Te gustó?",
+    "en": "Hi! I'm Tomás. I read the story of Valeria and Andrés in the fog. Did you like it?",
+    "r": [
+     [
+      "Sí, el paisaje era precioso.",
+      "Yes, the scenery was beautiful.",
+      1
+     ],
+     [
+      "Sí, pero me dio miedo.",
+      "Yes, but it scared me.",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "Los primos caminaron por las montañas con su guía Jairo. ¿Te gusta caminar?",
+    "en": "The cousins walked in the mountains with their guide Jairo. Do you like walking?",
+    "r": [
+     [
+      "Sí, camino cada fin de semana.",
+      "Yes, I walk every weekend.",
+      2
+     ],
+     [
+      "No, prefiero dormir como Andrés.",
+      "No, I prefer to sleep like Andrés.",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "De repente, una niebla blanca cubrió el camino y no vieron a Jairo. ¡Estaban perdidos! ¿Qué haces?",
+    "en": "Suddenly a white fog covered the path and they couldn't see Jairo. They were lost! What do you do?",
+    "r": [
+     [
+      "Grito: «¡Jairo!».",
+      "I shout, \"Jairo!\"",
+      3
+     ],
+     [
+      "Escucho y busco el río.",
+      "I listen and look for the river.",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "Valeria recordó las palabras de Jairo y siguieron el río. ¿Quién es más valiente?",
+    "en": "Valeria remembered Jairo's words and they followed the river. Who is braver?",
+    "r": [
+     [
+      "Valeria es muy valiente.",
+      "Valeria is very brave.",
+      4
+     ],
+     [
+      "Los dos son valientes.",
+      "Both of them are brave.",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "Una señora les dio chocolate caliente con queso. Andrés dijo que estaba delicioso. ¿Lo pruebas?",
+    "en": "A lady gave them hot chocolate with cheese. Andrés said it was delicious. Would you try it?",
+    "r": [
+     [
+      "Sí, quiero probarlo.",
+      "Yes, I want to try it.",
+      5
+     ],
+     [
+      "No, el queso no me gusta.",
+      "No, I don't like cheese.",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "¡Yo también! Gracias por la charla. ¡Cuidado con la niebla!",
+    "en": "Me too! Thanks for the chat. Watch out for the fog!",
+    "end": true
+   }
+  ]
+ },
+ "a2-09": {
+  "steps": [
+   {
+    "say": "¡Hola! Me llamo Sofía. Leí la historia de Daniela y su entrevista. ¿Y tú?",
+    "en": "Hi! I'm Sofía. I read the story of Daniela and her interview. And you?",
+    "r": [
+     [
+      "Sí, Daniela tuvo un día difícil.",
+      "Yes, Daniela had a hard day.",
+      1
+     ],
+     [
+      "Sí, me gustó el final.",
+      "Yes, I liked the ending.",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "Su alarma no sonó y se despertó tarde. ¿A qué hora te despiertas tú?",
+    "en": "Her alarm didn't ring and she woke up late. What time do you wake up?",
+    "r": [
+     [
+      "Me despierto a las siete.",
+      "I wake up at seven.",
+      2
+     ],
+     [
+      "Me despierto muy tarde.",
+      "I wake up very late.",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "Mientras esperaba el metro, un señor chocó con ella y le tiró su café en la camisa. ¿Qué haces?",
+    "en": "While she was waiting for the metro, a man bumped into her and spilled his coffee on her shirt. What do you do?",
+    "r": [
+     [
+      "Limpio la camisa en el baño.",
+      "I clean the shirt in the bathroom.",
+      3
+     ],
+     [
+      "Compro una camisa nueva.",
+      "I buy a new shirt.",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "Una señora mayor buscaba la oficina. Daniela la ayudó y llegó tarde. ¿Tú ayudas?",
+    "en": "An older lady was looking for the office. Daniela helped her and arrived late. Do you help?",
+    "r": [
+     [
+      "Sí, siempre ayudo a las personas.",
+      "Yes, I always help people.",
+      4
+     ],
+     [
+      "Sí, pero llego temprano.",
+      "Yes, but I arrive early.",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "La señora era Elena, la fundadora de la empresa. Después, la señora Ortega le dijo: «El puesto es suyo». ¿Qué piensas?",
+    "en": "The lady was Elena, the founder of the company. Later Mrs. Ortega told her, \"The position is yours.\" What do you think?",
+    "r": [
+     [
+      "Fue una gran sorpresa.",
+      "It was a big surprise.",
+      5
+     ],
+     [
+      "Daniela merece el puesto.",
+      "Daniela deserves the job.",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "¡Sí! Ser amable tiene su premio. Gracias por hablar conmigo.",
+    "en": "Yes! Being kind has its reward. Thanks for talking with me.",
+    "end": true
+   }
+  ]
+ },
+ "a2-10": {
+  "steps": [
+   {
+    "say": "¡Hola! Soy Sofía. Leí La noche de los faroles. ¿Te gustó la fiesta?",
+    "en": "Hi! I'm Sofía. I read The Night of the Lanterns. Did you like the festival?",
+    "r": [
+     [
+      "Sí, me gustó mucho.",
+      "Yes, I liked it a lot.",
+      1
+     ],
+     [
+      "Sí, el toro era enorme.",
+      "Yes, the bull was huge.",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "Inés hizo un toro gigante de papel con su primo Pablo en el granero. ¿Haces cosas con tus manos?",
+    "en": "Inés made a giant paper bull with her cousin Pablo in the barn. Do you make things with your hands?",
+    "r": [
+     [
+      "Sí, pinto cuadros.",
+      "Yes, I paint pictures.",
+      2
+     ],
+     [
+      "No, soy muy malo en arte.",
+      "No, I'm very bad at art.",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "El viernes llovió y el agua mojó el papel. Una pata del toro cayó. ¿Qué haces tú?",
+    "en": "On Friday it rained and the water soaked the paper. A leg of the bull fell. What do you do?",
+    "r": [
+     [
+      "Pido ayuda a los vecinos.",
+      "I ask the neighbors for help.",
+      3
+     ],
+     [
+      "Lloro un poco, como Inés.",
+      "I cry a little, like Inés.",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "Todo el pueblo ayudó. El carpintero reparó la pata y los niños pintaron el papel nuevo. ¿Qué te gusta más?",
+    "en": "The whole village helped. The carpenter repaired the leg and the children painted the new paper. What do you like most?",
+    "r": [
+     [
+      "Me gusta la ayuda de todos.",
+      "I like everyone's help.",
+      4
+     ],
+     [
+      "Me gusta el nuevo toro.",
+      "I like the new bull.",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "Al anochecer, cientos de luces salieron por las calles. ¿Hay una fiesta en tu pueblo?",
+    "en": "At dusk, hundreds of lights went out into the streets. Is there a festival in your town?",
+    "r": [
+     [
+      "Sí, tenemos una fiesta en verano.",
+      "Yes, we have a festival in summer.",
+      5
+     ],
+     [
+      "No, pero me gustaría ir a una.",
+      "No, but I would like to go to one.",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "¡Qué bonito! Un pueblo unido hace cosas increíbles. ¡Gracias por la charla!",
+    "en": "How lovely! A united village does incredible things. Thanks for the chat!",
+    "end": true
+   }
+  ]
+ }
+}

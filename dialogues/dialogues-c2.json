@@ -1,0 +1,942 @@
+{
+ "c2-01": {
+  "steps": [
+   {
+    "say": "¡Hombre, Reyes! ¿Tú por mi peña? Ni que fuera Carnaval… Ah, no, que sí lo es. ¿Qué se le ofrece a su señoría?",
+    "en": "Well, Reyes! You at my club? As if it were Carnival… oh wait, it is. What can I do for Your Honour?",
+    "r": [
+     [
+      "Nada, quillo, pasaba por aquí, como quien no quiere la cosa.",
+      "Nothing, mate, I was just passing, casually.",
+      1
+     ],
+     [
+      "Vengo a hablarte de tu cuplé del vecino, que no está nada mal, por cierto.",
+      "I’ve come to talk about your neighbour verse, which isn’t bad at all, by the way.",
+      1
+     ],
+     [
+      "Fali, tú me has copiado el cuplé y lo sabes.",
+      "Fali, you copied my verse and you know it.",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "¿Te gustó, eh? Pues el público se partía. Aunque a ti, que yo sepa, mis cuplés nunca te han hecho mucha gracia. Todavía me acuerdo de la nota que me pusiste.",
+    "en": "You liked it, eh? The audience was in stitches. Although, as far as I know, my verses have never made you laugh much. I still remember the mark you gave me.",
+    "r": [
+     [
+      "Hombre, gracia me hace, y tanta: se parece muchísimo a uno mío, digamos.",
+      "Oh, it amuses me all right: it looks a lot like one of mine, let’s say.",
+      3
+     ],
+     [
+      "Eso fue hace quince años. Cría fama…",
+      "That was fifteen years ago. Win a reputation…",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "¡Quilla, para el carro! ¿Me estás acusando? Que ese ensayo lo colgó mi sobrino el 2 de octubre, y hay vídeo. Ni que fuera yo adivino.",
+    "en": "Whoa, hold your horses! Are you accusing me? My nephew posted that rehearsal on 2 October, and there’s a video. As if I were a fortune-teller.",
+    "r": [
+     [
+      "Tienes razón, perdona. El hecho de que se parezcan no prueba nada.",
+      "You’re right, sorry. The fact that they’re similar doesn’t prove anything.",
+      3
+     ],
+     [
+      "Ya lo sé. Por eso vengo como testigo, no como jueza.",
+      "I know. That’s why I’ve come as a witness, not as a judge.",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "Entonces, ¿qué? Si tú no me has copiado a mí y yo no te he copiado a ti, aquí hay un tercero. Piensa mal y acertarás.",
+    "en": "So what, then? If you didn’t copy me and I didn’t copy you, there’s a third party here. Think the worst and you’ll be right.",
+    "r": [
+     [
+      "Escucha esta cinta: «Falla 84», Los de la Cabina, letra del Tito Ruano.",
+      "Listen to this tape: ‘Falla 84’, Los de la Cabina, lyrics by Tito Ruano.",
+      4
+     ],
+     [
+      "Nada nuevo bajo el sol, Fali. ¿Te suena una chirigota de los ochenta con una cabina?",
+      "Nothing new under the sun, Fali. Does an eighties chirigota with a phone box ring a bell?",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "¡El Tito! Mi padre tenía esa cinta… Y yo convencido de que el chiste se me había ocurrido en la ducha. En casa del herrero…",
+    "en": "Tito! My father had that tape… And there was I convinced the joke had come to me in the shower. The cobbler’s children…",
+    "r": [
+     [
+      "…cuchillo de palo. Y en la de la jueza, plagio. Lo voy a reescribir sobre mí misma.",
+      "…go barefoot. And in the judge’s house, plagiarism. I’m going to rewrite it about myself.",
+      5
+     ],
+     [
+      "Pues ya somos dos. ¿Qué te parece si se lo dedicamos al Tito?",
+      "Well, that makes two of us. What if we dedicate it to Tito?",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "Me parece de lujo. El viernes me siento en la última fila, como quien no quiere la cosa, y si me nombras en el cuplé, me levanto. Suerte, Reyes, y que el teatro dé el veredicto.",
+    "en": "Sounds brilliant. On Friday I’ll sit in the back row, as if it were nothing, and if you mention me in the verse, I’ll stand up. Good luck, Reyes, and let the theatre give the verdict.",
+    "end": true
+   }
+  ]
+ },
+ "c2-02": {
+  "steps": [
+   {
+    "say": "Pasá, pasá, sentate un rato. ¿Vos venís con la gurisa? Mirá, este es el tambor de mi viejo. Lo hizo en el patio del Mediomundo, antes de que los sacaran.",
+    "en": "Come in, come in, sit down for a bit. Have you come with the girl? Look, this is my old man’s drum. He made it in the courtyard of the Mediomundo, before they were thrown out.",
+    "r": [
+     [
+      "¿Me cuenta cómo era el Mediomundo, don Obdulio?",
+      "Will you tell me what the Mediomundo was like, don Obdulio?",
+      1
+     ],
+     [
+      "Qué lindo tambor. ¿Su padre lo sacó del conventillo?",
+      "What a beautiful drum. Did your father get it out of the tenement?",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "Un conventillo enorme, en Cuareim. Ropa tendida, ollas en el patio, y los domingos, la llamada. A mi viejo lo sacaron en diciembre del setenta y ocho, de madrugada. Los camiones, los colchones… Eso no se olvida.",
+    "en": "A huge tenement, on Cuareim. Washing hanging out, pots in the courtyard, and on Sundays, the drum call. They threw my old man out in December seventy-eight, at dawn. The lorries, the mattresses… You don’t forget that.",
+    "r": [
+     [
+      "Debe de haber sido terrible. Y el tambor, ¿él lo salvó?",
+      "It must have been terrible. And the drum, did he save it?",
+      2
+     ],
+     [
+      "Por eso el 3 de diciembre es el Día del Candombe, ¿no?",
+      "That’s why 3 December is Candombe Day, isn’t it?",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "El tambor se lo llevó abrazado. Ahora el Cholo me lo arregló: cuero nuevo, aro nuevo. El sonido, el de siempre. Pero mi hija dice que yo ya no lo puedo cargar por Isla de Flores.",
+    "en": "He carried the drum off in his arms. Now Cholo has fixed it for me: new hide, new hoop. The sound, the same as ever. But my daughter says I can’t carry it down Isla de Flores any more.",
+    "r": [
+     [
+      "Capaz que Mirtha tiene razón. No es tirar la toalla, es saber cuándo.",
+      "Maybe Mirtha’s right. It isn’t throwing in the towel, it’s knowing when.",
+      3
+     ],
+     [
+      "¿Y si lo carga Abigail y usted camina a su lado?",
+      "And what if Abigail carries it and you walk beside her?",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "¿Tirar la toalla, yo? Cincuenta años en la cuerda, botija. ¿Y quién lo va a tocar, a ver? ¿Quién?",
+    "en": "Throw in the towel, me? Fifty years in the line of drums, kid. And who’s going to play it, eh? Who?",
+    "r": [
+     [
+      "Abigail. Lleva meses tamborileando en todas las mesas. La escuché en el taller.",
+      "Abigail. She’s been drumming on every table for months. I heard her in the workshop.",
+      4
+     ],
+     [
+      "Su nieta. Los nombres que están adentro también son un poco de ella.",
+      "Your granddaughter. The names inside are a little bit hers too.",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "La gurisa… Ta. Puede ser. Pero el piano pesa, ¿eh? Y no es cualquier tambor: tiene gente adentro.",
+    "en": "The girl… OK. Maybe. But the piano drum is heavy, eh? And it’s not just any drum: it has people inside.",
+    "r": [
+     [
+      "Por eso tiene que sonar. Si queda en el ropero, los nombres se callan.",
+      "That’s why it has to be played. If it stays in the wardrobe, the names fall silent.",
+      5
+     ],
+     [
+      "Usted le enseña a templarlo en la fogata y ella lo carga. Los dos juntos.",
+      "You teach her to tune it at the fire and she carries it. The two of you together.",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "Ta, me convenciste. Que lo toque Abigail, y yo voy al lado, con las manos en los bolsillos. Quien canta su mal espanta, decía mi vieja. Nos vemos en las Llamadas.",
+    "en": "OK, you’ve convinced me. Let Abigail play it, and I’ll walk beside her with my hands in my pockets. Sing and your troubles fly away, my mother used to say. See you at the Llamadas.",
+    "end": true
+   }
+  ]
+ },
+ "c2-03": {
+  "steps": [
+   {
+    "say": "Buenos días, chef. Mire, I'll be honest: Wilkin ha rebajado cuatro kilos y los números apuntan a la comida. ¿Usted qué opina?",
+    "en": "Good morning, chef. Look, I'll be honest: Wilkin has lost four kilos and the numbers point to the food. What do you think?",
+    "r": [
+     [
+      "Con todo respeto, la bandeja de Wilkin vuelve siempre vacía; el problema no es lo que come, sino adónde va la comida.",
+      "With all due respect, Wilkin's tray always comes back empty; the problem isn't what he eats, but where the food goes.",
+      1
+     ],
+     [
+      "¿Que mi comida lo adelgaza? ¡Ni que le estuviera sirviendo agua!",
+      "My food is making him thin? Anyone would think I was serving him water!",
+      1
+     ],
+     [
+      "Que yo sepa, aquí nadie se ha muerto de un domplín, pero la escucho.",
+      "As far as I know, nobody here has died of a dumpling, but I'm listening.",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "OK, pero aun así: too many carbs. Plátano, yuca, yaniqueque… ¿No le parece que el Plan B sería más seguro?",
+    "en": "OK, but even so: too many carbs. Plantain, cassava, yaniqueque… Don't you think Plan B would be safer?",
+    "r": [
+     [
+      "Le concedo lo de la proteína: podemos poner más pollo y pescado en el sancocho.",
+      "I'll grant you the point about protein: we can put more chicken and fish in the sancocho.",
+      2
+     ],
+     [
+      "El Plan B no está nada mal, para una dieta que nunca ha visto un plátano.",
+      "Plan B isn't bad at all, for a diet that has never seen a plantain.",
+      2
+     ],
+     [
+      "Más vale prevenir que lamentar, sí, pero esos muchachos no se van a tomar sus batidos.",
+      "Better safe than sorry, yes, but those boys aren't going to drink your shakes.",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "Fair enough. ¿Y qué propone, entonces? Tenemos menos de dos semanas y don Fello quiere resultados.",
+    "en": "Fair enough. So what do you propose? We have less than two weeks and don Fello wants results.",
+    "r": [
+     [
+      "Propongo que usted ponga los gramos y yo las recetas: un menú conjunto.",
+      "I propose you supply the grams and I supply the recipes: a joint menu.",
+      3
+     ],
+     [
+      "Que revisemos cada plato juntos esta noche, con su tableta y mi libreta.",
+      "That we go through every dish together tonight, with your tablet and my notebook.",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "Me gusta la idea. Oiga, ¿nos tuteamos? Si vamos a cocinar juntos, mejor de tú. ¿Qué harías con el domplín?",
+    "en": "I like the idea. Listen, shall we drop the formalities? If we're going to cook together, better to use tú. What would you do with the dumplings?",
+    "r": [
+     [
+      "Claro, de tú. Lo serviría hervido, con pescado, en vez de frito.",
+      "Sure, tú it is. I'd serve them boiled, with fish, instead of fried.",
+      4
+     ],
+     [
+      "De tú, encantado. Por poco que lo cambiemos, el domplín puede quedarse: menos harina y más proteína al lado.",
+      "Tú, happily. However little we change it, the dumpling can stay: less flour and more protein on the side.",
+      4
+     ],
+     [
+      "Por supuesto. Y si quieres, te enseño a amasar; a ver si no te sale como una pelota de reglamento.",
+      "Of course. And if you like, I'll teach you to knead; let's see if yours doesn't come out like a regulation baseball.",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "Deal. Pero todavía no entiendo una cosa: ¿por qué Wilkin sigue perdiendo peso si se lo come todo?",
+    "en": "Deal. But I still don't understand one thing: why does Wilkin keep losing weight if he eats everything?",
+    "r": [
+     [
+      "Porque come para dos: le guarda la mitad a su hermano Yeison, que espera del otro lado de la cerca.",
+      "Because he's eating for two: he saves half for his brother Yeison, who waits on the other side of the fence.",
+      5
+     ],
+     [
+      "Eso habría que preguntárselo a él, con tacto; no quiero acusarlo sin pruebas.",
+      "We'd have to ask him that, tactfully; I don't want to accuse him without proof.",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "OK. Then we fix the menu and, with tact, the real problem. Gracias, chef. Mañana le presentamos el plan conjunto a don Fello, ¿te parece?",
+    "en": "OK. Then we fix the menu and, tactfully, the real problem. Thanks, chef. Tomorrow we present the joint plan to don Fello, OK?",
+    "end": true
+   }
+  ]
+ },
+ "c2-04": {
+  "steps": [
+   {
+    "say": "Pase, pase, hijita. Un ratito nomás, ya está el cafecito. ¿A qué se debe la visita?",
+    "en": "Come in, come in, dear. Just a moment, the coffee's nearly ready. What brings you here?",
+    "r": [
+     [
+      "Gracias, doña Jacinta. Le traje un panecito de Coroico. Quería preguntarle por la copla de la carretera.",
+      "Thank you, doña Jacinta. I brought you a little Coroico bread. I wanted to ask you about the verse about the road.",
+      1
+     ],
+     [
+      "Vengo a molestarla un ratito, doñita: dizque usted sabe todo lo que se canta en Tocaña.",
+      "I've come to bother you for a moment: they say you know everything that's sung in Tocaña.",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "¿Esa coplita? Dizque la había escrito alguien de La Paz, dicen. Yo no la he escrito, hijita.",
+    "en": "That little verse? They say someone from La Paz wrote it. I didn't write it, dear.",
+    "r": [
+     [
+      "No lo dudo, doña Jacinta: usted no escribe las coplas, las canta. ¿O me equivoco?",
+      "I don't doubt it, doña Jacinta: you don't write coplas, you sing them. Or am I wrong?",
+      2
+     ],
+     [
+      "¿Y entonces quién le enseñó eso de «la tres más cuatrocientos»? Así no habla nadie en la plaza.",
+      "Then who taught you that bit about 'three plus four hundred'? Nobody in the square talks like that.",
+      2
+     ],
+     [
+      "Pues para no ser suya, la cantó usted muy bonito.",
+      "Well, for a verse that isn't yours, you sang it beautifully.",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "Ay, qué preguntona eres. Las coplas no se enseñan, se oyen. A mí me las cuenta el cerro… y alguna gente de la obra.",
+    "en": "Oh, what a lot of questions you ask. Coplas aren't taught, they're heard. The mountain tells them to me… and some people from the works.",
+    "r": [
+     [
+      "¿Alguien de la obra? ¿Don Arcadio, el capataz de drenaje, por casualidad?",
+      "Someone from the works? Don Arcadio, the drainage foreman, by any chance?",
+      3
+     ],
+     [
+      "Entonces el cerro sabe más de drenaje que mis planos, ¿no?",
+      "So the mountain knows more about drainage than my plans, does it?",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "Yo no digo nombres, hijita. ¿Y tú qué entendiste con eso de que «los abuelos van a beber»?",
+    "en": "I don't name names, dear. And what did you understand by 'the grandparents are going to drink'?",
+    "r": [
+     [
+      "Pensé que se burlaba de la fiesta y la cerveza, pero ahora creo que habla de los muertos del cementerio.",
+      "I thought you were mocking the party and the beer, but now I think it's about the dead in the cemetery.",
+      4
+     ],
+     [
+      "Que el agua de la alcantarilla va a bajar al cementerio viejo. ¡Había sido una advertencia!",
+      "That the water from the culvert is going to run down into the old cemetery. So it was a warning!",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "Ahí está. El que avisa no es traidor. ¿Y qué vas a hacer ahora, ingenierita?",
+    "en": "There you are. He who gives warning is no traitor. And what are you going to do now, little engineer?",
+    "r": [
+     [
+      "Voy a correr la alcantarilla y hacer un canal de piedra hasta la quebrada. Se lo prometo.",
+      "I'm going to move the culvert and build a stone channel down to the ravine. I promise you.",
+      5
+     ],
+     [
+      "Rehacer el diseño, aunque a mi jefa no le guste. Más vale prevenir que curar.",
+      "Redo the design, even if my boss doesn't like it. Better safe than sorry.",
+      5
+     ],
+     [
+      "Arreglarlo, y cuando esté hecho, espero que me cante otra copla… sin diminutivo.",
+      "Fix it, and when it's done, I hope you'll sing me another verse… without the diminutive.",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "Ya veremos, hijita, ya veremos. Si los abuelos duermen secos, la copla nueva la canto yo. Tómate tu cafecito, que se enfría.",
+    "en": "We'll see, dear, we'll see. If the grandparents sleep dry, I'll sing the new verse myself. Drink your coffee before it gets cold.",
+    "end": true
+   }
+  ]
+ },
+ "c2-05": {
+  "steps": [
+   {
+    "say": "Buenos días. Soy Neftalí Chicas, custodio de Joya de Cerén desde hace treinta años. Usted es periodista, ¿verdad? Le aviso que con su gremio ando un poco delicado esta semana. ¿Qué quiere saber?",
+    "en": "Good morning. I'm Neftalí Chicas, custodian of Joya de Cerén for thirty years. You're a journalist, aren't you? I'll warn you, I'm a bit sensitive about your profession this week. What do you want to know?",
+    "r": [
+     [
+      "Entiendo su recelo, don Neftalí. Quisiera distinguir lo que usted sabe de lo que sospecha.",
+      "I understand your wariness, don Neftalí. I'd like to separate what you know from what you suspect.",
+      1
+     ],
+     [
+      "¿Es cierto que dejó entrar a gente ajena al sitio?",
+      "Is it true that you let outsiders into the site?",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "Lo que sé: que nadie ha escarbado aquí. El cerco, entero; los techos, sin una lámina movida; en el sector norte, ni una huella salvo las mías. Lo que publicó El Vigía, que la pieza habría salido por ahí, no lo respalda ningún dato. ¿Usted ha visto la estratigrafía de una trinchera?",
+    "en": "What I know: nobody has been digging here. The fence, intact; the roofs, not a sheet out of place; in the northern sector, not a footprint except mine. What El Vigía published, that the piece supposedly left that way, isn't backed by any data. Have you ever seen the stratigraphy of a trench?",
+    "r": [
+     [
+      "No, pero me imagino que una excavación reciente se notaría en las capas de tefra.",
+      "No, but I imagine a recent dig would show in the layers of tephra.",
+      2
+     ],
+     [
+      "Nunca. ¿Me la explica como si yo fuera uno de los cipotes del taller?",
+      "Never. Would you explain it to me as if I were one of the kids from the workshop?",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "Así es: las capas están como páginas de un libro cerrado. Si alguien las abre, se nota. Ahora, lo que sospecho es otra cosa. Esa olla de la foto es demasiado perfecta. Ni una grieta, ni ceniza en los poros. A lo mejor es una réplica.",
+    "en": "That's right: the layers are like pages of a closed book. If anyone opens them, it shows. Now, what I suspect is something else. That pot in the photo is too perfect. Not a crack, no ash in the pores. Maybe it's a replica.",
+    "r": [
+     [
+      "¿Puedo citar eso, o prefiere que diga que «fuentes del sitio» lo consideran posible?",
+      "May I quote that, or would you rather I say that 'sources at the site' consider it possible?",
+      3
+     ],
+     [
+      "Pero quizá sea auténtica y venga de otro yacimiento, ¿no?",
+      "But perhaps it's genuine and comes from another site, no?",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "Mire, ya me cansé de las fuentes que nadie firma. Si va a escribir algo, ponga mi nombre y ponga también que es una sospecha, no un hecho. Ojalá su periódico hubiera hecho lo mismo. Vos sabés, perdone, usted sabe lo que es que todo un pueblo lea que el custodio habría permitido el acceso…",
+    "en": "Look, I'm tired of sources nobody signs. If you're going to write something, put my name and put that it's a suspicion, not a fact. I wish your paper had done the same. You know, sorry, you know what it's like when a whole town reads that the custodian allegedly allowed access…",
+    "r": [
+     [
+      "Tiene razón. Lo presentaré como hipótesis suya, a la espera del peritaje.",
+      "You're right. I'll present it as your hypothesis, pending the expert examination.",
+      4
+     ],
+     [
+      "No es mi periódico, don Neftalí, pero entiendo que le haya dolido.",
+      "It's not my paper, don Neftalí, but I understand it hurt you.",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "Se lo agradezco. Y anote una cosa más, que esa sí la sé: en marzo un cipote de Opico desportilló la olla de enseñar del taller. Una media luna en el borde. Si un día aparece una foto de esa olla con su media luna, ya sabrá usted de dónde salió. ¿Alguna pregunta más?",
+    "en": "Thank you. And write down one more thing, because this one I do know: in March a kid from Opico chipped the workshop's teaching pot. A half-moon on the rim. If a photo of that pot with its half-moon ever turns up, you'll know where it came from. Any more questions?",
+    "r": [
+     [
+      "Solo una: ¿ha revisado ya la bodega del programa educativo?",
+      "Just one: have you checked the education programme's storeroom yet?",
+      5
+     ],
+     [
+      "Ninguna. Le enviaré el texto antes de publicarlo, para que verifique sus palabras.",
+      "None. I'll send you the text before publishing so you can check your words.",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "Esta misma tarde la reviso, y si falta algo, pongo la denuncia. Usted escriba lo que sabemos y deje lo demás en condicional honrado, si es que existe. Vaya con cuidado, que el sendero resbala con la lluvia.",
+    "en": "I'll check it this very afternoon, and if anything's missing, I'll file a police report. You write what we know and leave the rest in an honest conditional, if there is such a thing. Take care, the path gets slippery in the rain.",
+    "end": true
+   }
+  ]
+ },
+ "c2-06": {
+  "steps": [
+   {
+    "say": "Buenas tardes, pásele, siéntese. Soy Omar Pitalúa, director de Cultura. Me dicen que usted viene por lo de la placa de Yanga. Le adelanto que el texto ya está aprobado y que el aniversario es en tres semanas. ¿En qué le puedo servir?",
+    "en": "Good afternoon, come in, have a seat. I'm Omar Pitalúa, director of culture. I'm told you're here about the Yanga plaque. I'll tell you up front that the text is already approved and the anniversary is in three weeks. How can I help you?",
+    "r": [
+     [
+      "Muchas gracias por recibirme, licenciado. Vengo a proponerle un pequeño ajuste que, creo, protegería al municipio.",
+      "Thank you very much for seeing me. I've come to suggest a small adjustment which, I believe, would protect the town.",
+      1
+     ],
+     [
+      "Vengo a decirle que el texto tiene errores históricos graves.",
+      "I've come to tell you the text has serious historical errors.",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "¿Y qué le ve de malo? Pero si así lo canta el fandango desde siempre, y el video lo han visto más de dos millones de personas. Yanga habría sido príncipe del Gabón; eso lo dice todo el mundo. ¿Me va a decir que todo el mundo se equivoca?",
+    "en": "What's wrong with it, as you see it? But that's how the fandango has always sung it, and more than two million people have seen the video. Yanga is said to have been a prince of Gabon; everybody says so. Are you going to tell me everybody is wrong?",
+    "r": [
+     [
+      "Tendrá razón el video en lo del orgullo, pero los documentos de la época no hablan de ningún príncipe.",
+      "The video may be right about the pride, but the documents of the time don't mention any prince.",
+      2
+     ],
+     [
+      "Todo el mundo lo dice, sí, pero «habría sido» no es lo mismo que «fue».",
+      "Everybody says it, yes, but 'is said to have been' is not the same as 'was'.",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "Mire, con todo respeto, la gente necesita un héroe, no una nota a pie de página. Si le quitamos el príncipe y la fecha, ¿qué nos queda? Y el pueblo, ¿cómo lo va a tomar? No le quiero echar la sal al aniversario.",
+    "en": "Look, with all due respect, people need a hero, not a footnote. If we take away the prince and the date, what are we left with? And how will the town take it? I don't want to jinx the anniversary.",
+    "r": [
+     [
+      "Nos queda algo más grande: un pueblo que se liberó solo, resistiendo en 1609 y negociando después. Eso sí aguanta el bronce.",
+      "We're left with something bigger: a town that freed itself, resisting in 1609 and negotiating afterwards. That can bear the bronze.",
+      3
+     ],
+     [
+      "Si un historiador lee «fundado en 1609», el que quedará mal será el municipio, no la leyenda.",
+      "If a historian reads 'founded in 1609', the one who'll look bad is the town, not the legend.",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "Ajá… Y entonces, ¿qué hacemos con la leyenda? Porque yo no voy a ser el director que le quitó el príncipe a Yanga. Del dicho al hecho, ya sabe.",
+    "en": "Uh-huh… So then what do we do with the legend? Because I'm not going to be the director who took the prince away from Yanga. Easier said than done, you know.",
+    "r": [
+     [
+      "Que la cante el fandango: el bronce para los papeles y la tarima para la leyenda. Podríamos añadir un renglón: «Lo demás lo canta el fandango».",
+      "Let the fandango sing it: bronze for the papers and the stage for the legend. We could add a line: 'The rest is sung by the fandango.'",
+      4
+     ],
+     [
+      "Podríamos invitar a don Fidencio a cantar la leyenda en la develación, y dejar la placa con lo documentado.",
+      "We could invite don Fidencio to sing the legend at the unveiling and leave the plaque with what's documented.",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "Mmm. No me disgusta. Así nadie pierde la cara: ni el pueblo, ni el cronista, ni un servidor. Pero quiero que el texto nuevo lo revise el maestro Ruperto antes del lunes. ¿Usted se compromete a llevárselo?",
+    "en": "Hmm. I don't dislike it. That way nobody loses face: not the town, not the chronicler, not yours truly. But I want maestro Ruperto to review the new text before Monday. Will you undertake to take it to him?",
+    "r": [
+     [
+      "Con mucho gusto. Se lo llevo hoy mismo y le traigo su respuesta.",
+      "With pleasure. I'll take it to him today and bring you his answer.",
+      5
+     ],
+     [
+      "Desde luego, aunque sospecho que ya tiene un borrador escrito en tinta roja.",
+      "Of course, though I suspect he already has a draft written in red ink.",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "Ándele, pues. Y dígale al maestro que si el bronce queda seco como acta de cabildo, el fandango se encarga del resto. Lo espero en la develación, en primera fila.",
+    "en": "All right, then. And tell maestro Ruperto that if the bronze ends up as dry as council minutes, the fandango will take care of the rest. I'll expect you at the unveiling, in the front row.",
+    "end": true
+   }
+  ]
+ },
+ "c2-07": {
+  "steps": [
+   {
+    "say": "Buenos días. Usted es la intérprete que firmó esta nota, ¿verdad? Leída su nota, le confieso que no entiendo tanto alboroto por una palabrita.",
+    "en": "Good morning. You're the interpreter who signed this note, right? Having read your note, I confess I don't understand all this fuss over one little word.",
+    "r": [
+     [
+      "Sí, fiscal. Esa palabrita, ndaje, cambia el valor de la prueba: indica que la testigo repite lo que oyó.",
+      "Yes, prosecutor. That little word, ndaje, changes the value of the evidence: it shows the witness is repeating what she heard.",
+      1
+     ],
+     [
+      "Así es. Con todo respeto, la transcripción policial omite una partícula que no es un detalle menor.",
+      "That's right. With all due respect, the police transcript leaves out a particle that is no minor detail.",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "¿Y qué significa exactamente? Explíquemelo como si se lo explicara al tribunal.",
+    "en": "And what exactly does it mean? Explain it to me as if you were explaining it to the court.",
+    "r": [
+     [
+      "Ndaje es una partícula reportativa del guaraní: equivale a «dicen que» o «según se dice».",
+      "Ndaje is a Guaraní reportative particle: it's equivalent to 'they say that' or 'reportedly'.",
+      2
+     ],
+     [
+      "Indica que quien habla no da fe de lo que cuenta; solo transmite lo que otros dijeron.",
+      "It shows that the speaker isn't vouching for what she reports; she's only passing on what others said.",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "Pero cuando el río suena, piedras trae. Si toda la compañía dice que fue Derlis, por algo será.",
+    "en": "But where there's smoke, there's fire. If the whole community says it was Derlis, there must be a reason.",
+    "r": [
+     [
+      "Puede ser, pero un rumor no es una prueba testimonial. La testigo habla por boca de ganso.",
+      "Maybe, but a rumour isn't witness evidence. The witness is just repeating what others say.",
+      3
+     ],
+     [
+      "Entonces que declaren quienes lo vieron, si los hay. Esta señora, que yo sepa, no lo vio.",
+      "Then let those who saw him testify, if there are any. This lady, as far as I know, didn't see him.",
+      3
+     ],
+     [
+      "Del dicho al hecho hay mucho trecho, fiscal.",
+      "Saying is one thing and doing is another, prosecutor.",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "Supongamos que tiene razón. ¿Qué pide usted concretamente?",
+    "en": "Let's suppose you're right. What exactly are you asking for?",
+    "r": [
+     [
+      "Que se rectifique la traducción y, si así no se hiciere, que se deje constancia de la omisión en el acta.",
+      "That the translation be corrected and, should this not be done, that the omission be recorded in the minutes.",
+      4
+     ],
+     [
+      "Que el tribunal le pregunte a la testigo, a través de mí, si lo vio o se lo contaron.",
+      "That the court ask the witness, through me, whether she saw him or was told about it.",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "En su margen hay algo más: «olía a miel quemada». ¿Por qué cree que eso es relevante?",
+    "en": "There's something else in your margin: 'it smelled of burnt syrup'. Why do you think that's relevant?",
+    "r": [
+     [
+      "Porque, si el trapiche cocinaba esa noche, la declaración del señor Leguizamón no sería exacta.",
+      "Because if the mill was boiling syrup that night, Mr Leguizamón's statement would not be accurate.",
+      5
+     ],
+     [
+      "No me corresponde valorar la prueba, fiscal; solo le señalo que la transcripción omitió esa frase.",
+      "It's not my place to assess the evidence, prosecutor; I'm only pointing out that the transcript left that sentence out.",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "Muy bien. Terminada la audiencia, volveremos a hablar. Y le advierto una cosa: si su palabrita no se sostiene, lo diré en mi alegato.",
+    "en": "Very well. Once the hearing is over, we'll talk again. And I'll warn you of one thing: if your little word doesn't hold up, I'll say so in my closing argument.",
+    "end": true
+   }
+  ]
+ },
+ "c2-08": {
+  "steps": [
+   {
+    "say": "Buenas tardes. ¿Usted es otra de esas personas que vienen con grabadora desde que la UNESCO se fijó en Palenque?",
+    "en": "Good afternoon. Are you another one of those people who come with a recorder ever since UNESCO took notice of Palenque?",
+    "r": [
+     [
+      "No, señor. Hoy vengo sin grabadora; quería escucharlo a usted, si me lo permite.",
+      "No, sir. Today I've come without a recorder; I wanted to listen to you, if you'll allow me.",
+      1
+     ],
+     [
+      "Algo así, pero esta vez no vengo a llevarme nada: vengo a preguntar con respeto.",
+      "Something like that, but this time I'm not here to take anything away: I've come to ask respectfully.",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "Ajá. ¿Y qué es lo que quiere saber?",
+    "en": "Uh-huh. And what is it you want to know?",
+    "r": [
+     [
+      "Ma Petrona dijo una palabra antes de morir, Kusungá, y Dorina no sabe qué significa.",
+      "Ma Petrona said a word before she died, Kusungá, and Dorina doesn't know what it means.",
+      2
+     ],
+     [
+      "Tal vez usted sepa qué quiso decir Ma Petrona con su última palabra.",
+      "Perhaps you know what Ma Petrona meant by her last word.",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "Esa palabra no es pa' la universidad. Dígame la verdad: ¿es pa' un libro o es pa' la familia?",
+    "en": "That word isn't for the university. Tell me the truth: is it for a book or for the family?",
+    "r": [
+     [
+      "Para la familia. Si usted prefiere que no se publique, no se publicará.",
+      "For the family. If you'd rather it weren't published, it won't be.",
+      3
+     ],
+     [
+      "Sería para entenderla, no para publicarla. Usted decide qué se puede contar.",
+      "It would be to understand it, not to publish it. You decide what can be told.",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "Hablando se entiende la gente. Pero dígame: ¿por qué le importa tanto a usted?",
+    "en": "Talking is how people understand each other. But tell me: why does it matter so much to you?",
+    "r": [
+     [
+      "Porque quizá esa palabra era un mensaje, y los mensajes tienen destinatario.",
+      "Because perhaps that word was a message, and messages have someone they're meant for.",
+      4
+     ],
+     [
+      "Porque Dorina será muy académica, pero sigue siendo nieta, y no puede dormir.",
+      "Because Dorina may be very academic, but she's still a granddaughter, and she can't sleep.",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "Kusungá era el nombre del kuagro de mi mamá. Cuando una se iba lejos, las otras gritaban el nombre desde la loma hasta que volvía. ¿Entiende ahora?",
+    "en": "Kusungá was the name of my mother's kuagro. When one of them went far away, the others would shout the name from the hill until she came back. Do you understand now?",
+    "r": [
+     [
+      "Entonces era un llamado: Ma Petrona le pedía a Dorina que volviera.",
+      "So it was a call: Ma Petrona was asking Dorina to come back.",
+      5
+     ],
+     [
+      "Entonces no hace falta buscarle la raíz en el kikongo; lo que importa es para qué sirve la palabra.",
+      "Then there's no need to look for its root in Kikongo; what matters is what the word is for.",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "Eso mismo. El que nace pa' tamal, del cielo le caen las hojas. Dígale a mi sobrina que la escuela la está esperando.",
+    "en": "Exactly. You can't run from what you were born for. Tell my niece the school is waiting for her.",
+    "end": true
+   }
+  ]
+ },
+ "c2-09": {
+  "steps": [
+   {
+    "say": "Hola, soy Covadonga. Perdona las ojeras, que salgo de un turno de noche en la UCI. ¿Te puedo contar una cosa rara? Mi tía abuela Nina murió en febrero y, vaciando su casina de Cimavilla, por poco tiro al contenedor una caja de cintas de casete.",
+    "en": "Hi, I'm Covadonga. Sorry about the bags under my eyes, I'm just off a night shift in the ICU. Can I tell you something strange? My great-aunt Nina died in February and, clearing out her little house in Cimavilla, I very nearly threw a box of cassette tapes into the skip.",
+    "r": [
+     [
+      "Cuéntamelo todo. ¿Qué había en las cintas?",
+      "Tell me everything. What was on the tapes?",
+      1
+     ],
+     [
+      "Menos mal que no lo hiciste. Quien guarda, halla, ¿no?",
+      "Good thing you didn't. Keep a thing and you'll find a use for it, right?",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "Casi todo eran asturianadas grabadas de la radio. Pero en una, entre canción y canción, sale un hombre hablando en ruso que la llama «mamochka». La tía fue una de las niñas que mandaron a la Unión Soviética en 1937. ¿Tú qué habrías pensado?",
+    "en": "Almost all of it was Asturian songs taped off the radio. But on one, between songs, a man comes on speaking Russian and calls her 'mamochka'. My aunt was one of the girls sent to the Soviet Union in 1937. What would you have thought?",
+    "r": [
+     [
+      "Lo mismo que tú, supongo: que había dejado un hijo allí.",
+      "Same as you, I suppose: that she'd left a child there.",
+      2
+     ],
+     [
+      "Yo no sacaría conclusiones tan rápido: «mamochka» puede ser cariño, no parentesco.",
+      "I wouldn't jump to conclusions: 'mamochka' can be affection, not kinship.",
+      2
+     ],
+     [
+      "¿Y tu familia nunca te habló de aquello?",
+      "And your family never told you about it?",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "Yo pensé lo peor, y me pasé una semana juzgándola. Luego mi compañera Galina me tradujo la cinta: él cumplía cincuenta años en 1984. Y en la lista de niños que salieron de El Musel aparece Alejo Rendueles, tres años, huérfano, «a cargo de» mi tía, que tenía catorce. ¿Haces tú la cuenta?",
+    "en": "I thought the worst, and I spent a week judging her. Then my colleague Galina translated the tape: he turned fifty in 1984. And on the list of children who left El Musel there's Alejo Rendueles, aged three, an orphan, 'in the care of' my aunt, who was fourteen. Can you do the maths?",
+    "r": [
+     [
+      "Nació en 1934, así que tu tía tenía once años: no podía ser su madre.",
+      "He was born in 1934, so your aunt was eleven: she couldn't have been his mother.",
+      3
+     ],
+     [
+      "¡Qué vergüenza habrás pasado! Era una cría que cuidó de un guaje de tres años.",
+      "How embarrassed you must have felt! She was a girl who looked after a three-year-old.",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "Exacto. Y está vivo: tiene ochenta y cinco años y vive en Moscú. Su nieta nos ha escrito. Mi madre dice que agua pasada no mueve molino y que ojos que no ven, corazón que no siente. Yo no sé si llamarlo. ¿Tú qué harías?",
+    "en": "Exactly. And he's alive: he's eighty-five and lives in Moscow. His granddaughter has written to us. My mother says let bygones be bygones and that what you don't know can't hurt you. I don't know whether to call him. What would you do?",
+    "r": [
+     [
+      "Yo lo llamaría. Si él guardó las cintas cuarenta años, querrá saber de ella.",
+      "I'd call him. If he kept the tapes for forty years, he'll want to hear about her.",
+      4
+     ],
+     [
+      "Le escribiría primero a la nieta, para que él no se lleve el disgusto por teléfono.",
+      "I'd write to the granddaughter first, so he doesn't get the shock over the phone.",
+      4
+     ],
+     [
+      "Respeto lo que dice tu madre, pero cada casa es un mundo, y esa puerta ya está abierta.",
+      "I respect what your mother says, but every family is different, and that door is already open.",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "Tienes razón. Hay otra cosa: el portavasos en el que la tía tomaba el té todas las tardes tenía unas letras grabadas. Galina las leyó: «A mamochka, de Liosha. Moscú, 1956». Sesenta y tres años usándolo, y nadie preguntó. ¿Cómo empezarías tú la llamada?",
+    "en": "You're right. There's something else: the glass holder my aunt drank her tea from every afternoon had some letters engraved on it. Galina read them: 'To mamochka, from Liosha. Moscow, 1956.' Sixty-three years using it, and nobody asked. How would you start the call?",
+    "r": [
+     [
+      "Le diría quién eres y le hablaría del portavasos: así sabrá que ella nunca lo olvidó.",
+      "I'd tell him who you are and mention the glass holder: that way he'll know she never forgot him.",
+      5
+     ],
+     [
+      "Le cantaría la nana de la tía; seguro que la reconoce.",
+      "I'd sing him your aunt's lullaby; I bet he'd recognize it.",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "Me gusta. Ensayaré una frase en ruso, aunque seguro que se me olvida y acabo hablando en español. Galina estará a mi lado, por si acaso. Gracias por escucharme; me presta mucho haberlo hablado contigo.",
+    "en": "I like that. I'll rehearse a sentence in Russian, although I'm sure I'll forget it and end up speaking Spanish. Galina will be beside me, just in case. Thanks for listening; I'm really glad I talked it over with you.",
+    "end": true
+   }
+  ]
+ },
+ "c2-10": {
+  "steps": [
+   {
+    "say": "Buenas tardes, doctora. Siéntese nomás, que aquí el cajón es la mejor silla de la casa. Mi bisnieto dice que esa canción que suena en todas partes lleva mi voz. ¿Es verdad que usted me puede ayudar, o es otra promesa de las que se lleva el viento?",
+    "en": "Good afternoon, doctor. Go ahead and sit down, the cajón is the best seat in the house here. My great-grandson says that song playing everywhere has my voice in it. Is it true you can help me, or is it another promise the wind will carry off?",
+    "r": [
+     [
+      "Puedo intentarlo, don Anselmo, pero antes quiero entender qué es lo que usted quiere.",
+      "I can try, don Anselmo, but first I want to understand what you want.",
+      1
+     ],
+     [
+      "Le seré franca: la discográfica dice que es folclor y que nadie puede probar quién cantó.",
+      "I'll be frank: the label says it's folklore and nobody can prove who sang.",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "Los de la disquera dirán que es folclor. El panalivio lo cantaba mi papá, y su papá antes que él; eso será de todos. Pero la voz es mía, y esa quiebra en «pena» también. ¿Me explica, en palabras sencillas, qué dice la ley?",
+    "en": "The record people will say it's folklore. My dad sang the panalivio, and his dad before him; that may belong to everyone. But the voice is mine, and that break on 'pena' too. Can you explain to me, in plain words, what the law says?",
+    "r": [
+     [
+      "La letra y la melodía antiguas pueden ser de todos, pero su interpretación está protegida: eso se llama derechos conexos.",
+      "The old words and tune may belong to everyone, but your performance is protected: that's called related rights.",
+      2
+     ],
+     [
+      "Que aunque la canción sea tradicional, nadie puede usar su voz sin su permiso.",
+      "That even if the song is traditional, nobody can use your voice without your permission.",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "Pero el gringo tenía mi permiso. Firmé con mi marca, la cruz dentro del círculo, como mi papá. Eso sí, solo para estudio. Y le pedí que pusiera mi nombre. ¿Eso sirve de algo?",
+    "en": "But the gringo had my permission. I signed with my mark, the cross inside the circle, like my dad. Only for study, mind you. And I asked him to put my name. Is that any use?",
+    "r": [
+     [
+      "Sirve, y mucho: si el permiso era solo para estudio, vender la grabación en una canción no estaba autorizado.",
+      "It is, very much so: if the permission was only for study, selling it in a song wasn't authorized.",
+      3
+     ],
+     [
+      "Una cruz la hace cualquiera, don Anselmo. Necesitamos el cuaderno donde él apuntó su nombre.",
+      "Anyone can draw a cross, don Anselmo. We need the notebook where he wrote down your name.",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "Ese cuadernito verde... Quién sabe dónde andará. Usted dígame las opciones, doctora, sin tanto latín.",
+    "en": "That little green notebook... who knows where it is now. You tell me the options, doctor, without so much Latin.",
+    "r": [
+     [
+      "Podemos negociar un acuerdo: crédito, regalías y que se respete su nombre. O ir a juicio, que es más largo.",
+      "We can negotiate a settlement: credit, royalties and respect for your name. Or go to court, which takes longer.",
+      4
+     ],
+     [
+      "Como no aparezca el cuaderno, lo más prudente es negociar; si aparece, podemos exigir mucho más.",
+      "If the notebook doesn't turn up, the wisest thing is to negotiate; if it does, we can demand a lot more.",
+      4
+     ],
+     [
+      "Antes de elegir, dígame qué le importaría más: el dinero, el crédito o una disculpa.",
+      "Before choosing, tell me what would matter most to you: the money, the credit or an apology.",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "Plata no me sobra, para qué le voy a mentir. Que algo vaya para la escuela de cajón del pueblo, para los muchachos. Pero lo que yo quiero, lo que de verdad quiero, es que donde salga esa canción salga mi nombre. Bien escrito. ¿Se puede?",
+    "en": "I'm not exactly rolling in money, I won't lie to you. Let some of it go to the village cajón school, for the kids. But what I want, what I really want, is for my name to appear wherever that song appears. Spelled right. Can that be done?",
+    "r": [
+     [
+      "Se puede, y lo pondremos por escrito, que las palabras se las lleva el viento.",
+      "It can, and we'll put it in writing, because words are cheap.",
+      5
+     ],
+     [
+      "Lo pediré en la conciliación: un nombre, una firma y una deuda saldada.",
+      "I'll ask for it at the conciliation: a name, a signature and a debt paid in full.",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "Entonces estamos de acuerdo, doctora. Y apúntelo bien usted también: Corzo, con zeta. Que todo el mundo me lo pone con ese.",
+    "en": "Then we're agreed, doctor. And write it down properly yourself too: Corzo, with a z. Everybody spells it with an s.",
+    "end": true
+   }
+  ]
+ }
+}

@@ -1,0 +1,256 @@
+{
+ "topics": [
+  {
+   "topic": "Por vs. para",
+   "explain": "Para looks ahead to a goal: purpose (para ahorrar = in order to save), recipient (para ti), deadline (para el lunes), destination (sale para Lima). Por looks back at a cause or a route: reason (por orgullo = out of pride), through/along (por la rambla), exchange or price (por diez euros), part of the day (por la mañana), 'per'. Watch out: English 'for' can be either: 'thanks for' = gracias por, 'for you' = para ti.",
+   "examples": [
+    [
+     "Tomás se fue a Estados Unidos para ahorrar.",
+     "Tomás went to the United States to save money."
+    ],
+    [
+     "Por orgullo dejé de preguntar por él.",
+     "Out of pride I stopped asking about him."
+    ],
+    [
+     "Caminaron por la rambla junto al río.",
+     "They walked along the promenade by the river."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "Complete: Gracias ___ ayudarme. Este pastel es ___ ti.",
+     "options": [
+      "para / por",
+      "por / por",
+      "por / para",
+      "para / para"
+     ],
+     "answer": 2,
+     "why": "Gracias por: por gives the reason you are thankful. Es para ti: para marks the recipient."
+    },
+    {
+     "q": "Complete: Marta ahorró durante un año ___ viajar a Montevideo.",
+     "options": [
+      "para",
+      "por",
+      "a",
+      "de"
+     ],
+     "answer": 0,
+     "why": "Purpose ('in order to') is para + infinitive. Por viajar would mean 'because of travelling', which changes the sense."
+    }
+   ]
+  },
+  {
+   "topic": "Present perfect vs. preterite",
+   "explain": "Use the preterite for actions in a finished time: ayer, el lunes pasado, en 2019 (Ayer hablé con ella). Use the present perfect for a period that includes now (hoy, esta semana, este año, nunca, ya, todavía no) or a past action whose result matters now (Este año he leído mucho). Watch out: never use the present perfect with a finished time (*ayer he hablado). In much of Latin America the preterite is also normal for today (Hoy hablé con ella).",
+   "examples": [
+    [
+     "Ayer recibí una carta de Marta.",
+     "Yesterday I got a letter from Marta."
+    ],
+    [
+     "Este año he leído muchos libros.",
+     "I've read a lot of books this year."
+    ],
+    [
+     "¿Has estado alguna vez en Granada? —Sí, estuve allí en 2019.",
+     "Have you ever been to Granada? —Yes, I was there in 2019."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "Complete: Joaquín ___ veinticuatro años el jueves pasado.",
+     "options": [
+      "ha cumplido",
+      "ha cumplida",
+      "cumpliría",
+      "cumplió"
+     ],
+     "answer": 3,
+     "why": "El jueves pasado is a finished time, so the preterite is required (cumplió). The present perfect can't go with a finished past time, and the participle never ends in -a after haber."
+    },
+    {
+     "q": "Which time expression can NOT be used with the present perfect (he visto)?",
+     "options": [
+      "hoy",
+      "el lunes pasado",
+      "este año",
+      "nunca"
+     ],
+     "answer": 1,
+     "why": "El lunes pasado is a finished period, which needs the preterite (vi). Hoy, este año and nunca include the present, so the present perfect works with them."
+    }
+   ]
+  },
+  {
+   "topic": "Subjunctive after para que, antes de que, sin que",
+   "explain": "Some linking words always take the subjunctive because the action is not (yet) a fact: para que (so that), antes de que (before), sin que (without), a menos que (unless). In a past context use the imperfect subjunctive: Salió antes de que empezara a llover. Watch out: if both parts share the same subject, use the infinitive: Ahorro para viajar (not *para que viaje); Salí sin hacer ruido.",
+   "examples": [
+    [
+     "Te lo digo para que no te preocupes.",
+     "I'm telling you so that you don't worry."
+    ],
+    [
+     "Salió antes de que empezara a llover.",
+     "He left before it started raining."
+    ],
+    [
+     "Se fue sin que nadie lo viera.",
+     "He left without anyone seeing him."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "Complete: Te dejo la llave para que ___ cuando quieras.",
+     "options": [
+      "entras",
+      "entres",
+      "entrar",
+      "entrarás"
+     ],
+     "answer": 1,
+     "why": "Para que always takes the subjunctive: entres. The infinitive (para entrar) is only possible when the subject is the same in both parts."
+    },
+    {
+     "q": "Which sentence is correct?",
+     "options": [
+      "Quiero hablar contigo antes de que te vas.",
+      "Quiero hablar contigo antes de que te irás.",
+      "Quiero hablar contigo antes de te vayas.",
+      "Quiero hablar contigo antes de que te vayas."
+     ],
+     "answer": 3,
+     "why": "Antes de que always takes the subjunctive (te vayas), and both de and que are needed before a conjugated verb."
+    }
+   ]
+  },
+  {
+   "topic": "Object pronoun order: se lo, me la",
+   "explain": "With two object pronouns, the indirect one (to whom) comes first: me lo, te la, nos los. Le or les becomes se before lo, la, los, las: le doy la cartera → se la doy (never *le la). Both go before a conjugated verb (se la devuelvo) or are attached to an infinitive, gerund or affirmative command (quiero devolvérsela, dámelo). Watch out: when you attach them, add a written accent to keep the original stress.",
+   "examples": [
+    [
+     "Quería devolvérsela hoy mismo.",
+     "I wanted to give it back to you today."
+    ],
+    [
+     "¿La cartera? Se la di a Tomás.",
+     "The wallet? I gave it to Tomás."
+    ],
+    [
+     "No me lo digas todavía.",
+     "Don't tell me yet."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "Replace the nouns with pronouns: Inés le devolvió la cartera a Tomás.",
+     "options": [
+      "Inés se la devolvió.",
+      "Inés le la devolvió.",
+      "Inés la le devolvió.",
+      "Inés se lo devolvió."
+     ],
+     "answer": 0,
+     "why": "Indirect before direct, and le becomes se before la: se la. The direct pronoun must agree with la cartera (feminine), so not lo."
+    },
+    {
+     "q": "How do you say 'Give it to me' (tú; it = el libro)?",
+     "options": [
+      "Dalome.",
+      "Me lo da.",
+      "Dámelo.",
+      "Dámele."
+     ],
+     "answer": 2,
+     "why": "Affirmative command + indirect (me) + direct (lo), attached, with an accent: dámelo. Me lo da is a statement ('he gives it to me'), and the direct object for el libro is lo."
+    }
+   ]
+  },
+  {
+   "topic": "Passive and impersonal se",
+   "explain": "Se + a third-person verb says what is done without saying who does it: Aquí se habla español (Spanish is spoken here). With a noun, the verb agrees with it: se vende una casa / se venden casas. With no noun, it means people in general: En este barrio se vive bien. Watch out: English passives and 'you/people/they' sentences often become se in Spanish, not ser + participle: ¿Cómo se dice...? = How do you say...?",
+   "examples": [
+    [
+     "Es una bebida que se comparte.",
+     "It's a drink that is shared."
+    ],
+    [
+     "Se venden cuadernos hechos a mano.",
+     "Handmade notebooks for sale."
+    ],
+    [
+     "¿Cómo se dice «awkward» en español?",
+     "How do you say 'awkward' in Spanish?"
+    ]
+   ],
+   "questions": [
+    {
+     "q": "Complete the sign: Se ___ pisos en el centro.",
+     "options": [
+      "vende",
+      "vendo",
+      "venden",
+      "vendido"
+     ],
+     "answer": 2,
+     "why": "With passive se, the verb agrees with the noun: pisos is plural, so se venden. Se vende pisos is a common mistake."
+    },
+    {
+     "q": "What does 'En este barrio se vive bien' mean?",
+     "options": [
+      "People live well in this neighborhood.",
+      "He lives well in this neighborhood.",
+      "This neighborhood lives well by itself.",
+      "They lived well in this neighborhood."
+     ],
+     "answer": 0,
+     "why": "Impersonal se with no noun refers to people in general: 'people / you live well here'. It is present tense and doesn't refer to one specific person."
+    }
+   ]
+  },
+  {
+   "topic": "Verb phrases: llevar + gerund, acabar de, volver a, dejar de",
+   "explain": "Spanish uses verb + infinitive/gerund combinations for time and aspect. Llevar + time + gerund = 'have been doing for': Llevo dos años trabajando aquí. Acabar de + infinitive = 'have just': Acabo de llegar. Volver a + infinitive = 'do again'. Dejar de + infinitive = 'stop doing'. Seguir + gerund = 'keep doing'. Watch out: 'I've been working here for two years' is Llevo dos años trabajando aquí or Trabajo aquí desde hace dos años, not a word-for-word translation.",
+   "examples": [
+    [
+     "Marcos llevaba tres años trabajando como enfermero.",
+     "Marcos had been working as a nurse for three years."
+    ],
+    [
+     "No vamos a volver a ser extraños.",
+     "We aren't going to be strangers again."
+    ],
+    [
+     "Dejé de preguntar por él.",
+     "I stopped asking about him."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "Complete: Marcos ___ tres años trabajando en el hospital.",
+     "options": [
+      "estaba",
+      "hacía",
+      "era",
+      "llevaba"
+     ],
+     "answer": 3,
+     "why": "Llevar + time + gerund expresses how long an action has (or had) been going on. The other verbs don't form this structure (with hacer you'd say hacía tres años que trabajaba)."
+    },
+    {
+     "q": "What does 'Acabo de recibir tu carta' mean?",
+     "options": [
+      "I've finished receiving your letter.",
+      "I've just received your letter.",
+      "I'm about to receive your letter.",
+      "I finally received your letter."
+     ],
+     "answer": 1,
+     "why": "Acabar de + infinitive means 'to have just done'. 'About to' is estar a punto de; 'finally' is por fin."
+    }
+   ]
+  }
+ ]
+}

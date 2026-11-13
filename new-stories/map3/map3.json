@@ -1,0 +1,1428 @@
+{
+ "c1-01": {
+  "title": "El manifiesto de Almirante",
+  "titleEn": "The Almirante Manifest",
+  "level": "C1",
+  "emoji": "🚢",
+  "theme": "afro-latin",
+  "setting": "Almirante and Isla Colón, Bocas del Toro, Panama; October 2023 (rainy season), a few months after the 2023 census.",
+  "logline": "Yarisel Archbold, 34, a cargo dispatcher at the Almirante dock and granddaughter of Afro-Antillean banana workers, finds that two cold boxes of insulin and vaccines for the hospital on Isla Colón appear on the ferry manifest but never reached the island, and the port authority wants a name for its incident report by Monday. Every clue points to Lionel Bryan, 68, a stevedore who has worked the dock since the last banana boats and refuses to say where he was during the storm. Yarisel discovers that Lionel, sure the ferry would be cancelled, sent the boxes across on his nephew's water taxi before the storm and never logged it; her report tells the truth without costing him his job, and the dock gets a written storm protocol instead of a culprit.",
+  "wordTarget": [
+   1100,
+   1300
+  ],
+  "topics": [
+   {
+    "topic": "Impersonal se with people vs pasiva refleja",
+    "family": "Passive voice",
+    "notes": "Choosing between pasiva refleja with things (se cargaron dos neveras), impersonal se + a with people (se citó a los estibadores, no se sancionará a nadie) and ser + participle for official acts. Yarisel's incident report and the inspector's emails contrast things and people. «A las 14:10 se cargaron dos neveras portátiles en la bodega del ferry.» «Se interrogó a los estibadores uno por uno, pero no se encontró a nadie que recordara las neveras.» Also one formal ser passive: «El zarpe fue autorizado por la Capitanía.»"
+   },
+   {
+    "topic": "Conditions without si: de + infinitive, de no ser por",
+    "family": "Conditionals & si-clauses",
+    "notes": "Compact counterfactuals: de + (compound) infinitive and de no ser por + noun replacing si-clauses, with the conditional perfect in the main clause. Counterfactuals in the argument about Lionel. «De haber esperado al ferry, la insulina se habría echado a perder.» «De no ser por Lionel, el hospital no habría tenido vacunas esa semana.»"
+   },
+   {
+    "topic": "Reporting verbs: negar haber, alegar, admitir",
+    "family": "Reported speech",
+    "notes": "Precise reporting verbs with their constructions: negar/admitir + compound infinitive, alegar/asegurar que + indicative, advertir de que, exigir que + subjunctive. Statements collected for the report. «Lionel negó haber tocado las neveras.» «El capitán alegó que el manifiesto se había firmado antes de la carga.» «La farmacéutica advirtió de que la cadena de frío no admite retrasos.»"
+   },
+   {
+    "topic": "Idioms and sayings in dialogue",
+    "family": "Vocabulary & idiom",
+    "notes": "Fixed expressions and refranes used by characters, with the pragmatic effect each one has in context (warning, consolation, irony). Panamanian dock talk with sayings that carry the moral. «No hay mal que por bien no venga, mija.» «Aquí el juega vivo sale caro.» «Ese informe va a dar mucho que hablar.»"
+   }
+  ],
+  "register": "Formal written (incident report, emails to the Autoridad Marítima) alternating with colloquial dock dialogue; tú among co-workers, usted with the inspector and, at first, with Lionel.",
+  "dialect": "Panamanian Spanish: ustedes, tú; colloquial pela'o (kid), vaina, ¡chuleta! (surprise), chantin (home), juega vivo (cutting corners). Lionel greets in Bocas del Toro Creole English (Guari-guari) once or twice (Wa'appin?), glossed.",
+  "idioms": [
+   "No hay mal que por bien no venga: every cloud has a silver lining",
+   "el juega vivo (Panama): cutting corners, gaming the system",
+   "dar mucho que hablar: to cause a lot of gossip",
+   "tirar la toalla: to give up"
+  ],
+  "vocabFocus": "Port logistics and incident reporting: el muelle, el manifiesto de carga, la bodega, el estibador, la nevera portátil, la cadena de frío, zarpar, atracar, el zarpe, el taxi acuático, la marea, el oleaje, el aviso de tormenta, el expediente, la sanción, el descargo, el turno, la grúa",
+  "facts": [
+   "Almirante is the mainland port of Bocas del Toro, with ferry and water-taxi links to Isla Colón (Panamanian tourism/transport authority information).",
+   "The United Fruit Company (founded 1899) ran banana operations in Bocas del Toro and recruited many Afro-Antillean, largely Jamaican, workers in the late 19th and early 20th centuries (history of Bocas del Toro; academic histories of Afro-Antillean Panama).",
+   "Guari-guari is the English-based creole of Bocas del Toro (linguistic descriptions of Panamanian creoles).",
+   "Panama's 2010 census was the first to ask about Afro-descendant self-identification (9.2%); the 2023 census recorded 31.7% (INEC Panamá; UN Working Group report)."
+  ],
+  "roleplay": {
+   "character": "Lionel Bryan",
+   "goal": "Get Lionel to tell you what he did during the storm without accusing him, and persuade him to sign a short statement for the report.",
+   "register": "usted with an older man, moving to tú when he invites it; colloquial Panamanian"
+  },
+  "scene": "Rainy dusk on the Almirante dock: Yarisel in a hi-vis vest with a tablet, Lionel in a yellow rain jacket beside a small blue water taxi, two white cold boxes with red-cross stickers, the car ferry blurred behind. Slate-grey sky, turquoise water, yellow and red accents.",
+  "canDo": [
+   "C1-S2: I can ask someone tactfully about a sensitive matter, adapting register (tú, usted, vos) to the person and the situation.",
+   "C1-R1: I can follow a long story with several timelines and embedded documents (reports, ledgers, wills, scripts) and say what is established and what is only inferred."
+  ],
+  "protagonist": {
+   "name": "Yarisel Archbold",
+   "gender": "F",
+   "age": 34,
+   "country": "Panama",
+   "job": "cargo dispatcher"
+  },
+  "otherCharacters": [
+   "Lionel Bryan"
+  ]
+ },
+ "c1-02": {
+  "title": "Lo que silbó el barranco",
+  "titleEn": "What the Ravine Whistled",
+  "level": "C1",
+  "emoji": "🐐",
+  "theme": "mystery",
+  "setting": "Chipude and Valle Gran Rey, La Gomera (Canary Islands, Spain); April, present day.",
+  "logline": "Íñigo Saldaña, 31, a food journalist from Madrid, is on the jury of a goat-cheese contest in Chipude when the favourite cheese disappears from a locked room an hour before the verdict. The only witness is a whistled message that crossed the ravine at the moment of the theft, and the islanders who understand silbo gomero, including retired teacher Chano Darias, 66, won't translate it for an outsider. Íñigo learns enough silbo to decode it: the cheesemaker Yurena Chinea removed her own cheese because it was made partly with milk from her rival Ayoze's herd after her goats fell ill, and the whistle was Chano telling her to bring it back and say so, so the jury ends up giving the two herds a joint mention.",
+  "wordTarget": [
+   1100,
+   1300
+  ],
+  "topics": [
+   {
+    "topic": "Cause and consequence: de ahí que, no porque… sino porque",
+    "family": "Relative clauses & connectors",
+    "notes": "de ahí que + subjunctive (the consequence is presented as known) and the rejected cause no porque + subjunctive… sino porque + indicative. The jury's reasoning and Íñigo's article. «El queso estaba bajo llave; de ahí que nadie entendiera cómo había desaparecido.» «No lo retiró porque fuera malo, sino porque no era del todo suyo.»"
+   },
+   {
+    "topic": "Formal relatives: el cual, lo cual",
+    "family": "Relative clauses & connectors",
+    "notes": "el cual / la cual after longer or compound prepositions (desde el cual, a raíz de la cual) and lo cual referring back to a whole clause; B2 already covered en el que and cuyo. Íñigo's literary-journalistic prose. «Chano me llevó al mirador, desde el cual se oía todo el barranco.» «Yurena no se presentó a la cata, lo cual levantó sospechas.»"
+   },
+   {
+    "topic": "Pseudo-clefts: lo que pasó fue que",
+    "family": "Discourse & information structure",
+    "notes": "lo que / lo único que / quien … + ser to put the new information at the end (lo que me molesta es…, lo que pasó fue que…); B2 covered fue X quien. Focus on what really matters in the mystery. «Lo que nadie me había dicho era que el barranco también escucha.» «Lo único que pido es que alguien me traduzca ese silbido.»"
+   },
+   {
+    "topic": "Idioms and sayings in dialogue",
+    "family": "Vocabulary & idiom",
+    "notes": "Fixed expressions and refranes used by characters, with the pragmatic effect each one has in context (warning, consolation, irony). Island sayings used against and by the outsider. «A buen entendedor, pocas palabras bastan, y aquí ni palabras hacen falta.» «Pueblo chico, infierno grande.» «Aquí nadie da gato por liebre.»"
+   }
+  ],
+  "register": "Íñigo's polished first-person journalism and his Madrid colloquial with vosotros; islanders' informal Canarian speech; the jury's formal announcements.",
+  "dialect": "Canarian Spanish: ustedes as the only plural 'you' (contrast with Íñigo's vosotros), seseo, papas, guagua, millo, mi niño. Silbo gomero rendered as whistled vowels and consonant classes described in the narration.",
+  "idioms": [
+   "A buen entendedor, pocas palabras bastan: a word to the wise is enough",
+   "Pueblo chico, infierno grande: in a small town everyone knows your business",
+   "dar gato por liebre: to pass off something inferior as the real thing",
+   "no dar su brazo a torcer: to refuse to back down"
+  ],
+  "vocabFocus": "Island landscape and cheese-making: el silbo, el barranco, la ladera, el bancal, el mirador, el eco, el queso de cabra, la cuajada, el suero, el rebaño, el cabrero, el jurado, la cata, la corteza, el almogrote, el ahumado, el certamen, la descalificación",
+  "facts": [
+   "Silbo gomero was inscribed on UNESCO's Representative List of the Intangible Cultural Heritage of Humanity in 2009 (UNESCO ICH, element 00172).",
+   "Silbo has been taught in La Gomera's schools since 1999 as part of the curriculum (UNESCO ICH page; Canarian press). Do not call it 'compulsory by law' without checking the Canarian education regulation.",
+   "Silbo transposes spoken Spanish into whistled pitch contrasts for vowels and consonant groups (phonetic studies of silbo gomero).",
+   "Almogrote is a Gomeran spread of aged goat cheese, pepper and oil (Canarian gastronomy guides)."
+  ],
+  "roleplay": {
+   "character": "Chano Darias",
+   "goal": "Convince Chano to help you understand the whistled message, showing you respect the tradition and are not just after a story.",
+   "register": "usted with an older islander; he answers with Canarian ustedes and humour"
+  },
+  "scene": "Terraced green ravine on La Gomera with Teide on the horizon across the sea; an older man whistling with a finger in his mouth at a stone viewpoint, a young man in a city jacket with a notebook, a table of goat cheeses under a white cloth with one empty plate. Ochre, terrace green, Atlantic blue.",
+  "canDo": [
+   "C1-S3: I can give a reasoned explanation of a problem and its causes, conceding points and arguing back (si bien…, aun así, de ahí que…).",
+   "C1-R4: I can understand idioms, sayings and cultural references in context, including terms from Afro-Latin traditions (tambores de San Juan, concheras, Garífuna, liberto, Danza de los Diablos)."
+  ],
+  "protagonist": {
+   "name": "Íñigo Saldaña",
+   "gender": "M",
+   "age": 31,
+   "country": "Spain (Madrid; story in La Gomera)",
+   "job": "food journalist"
+  },
+  "otherCharacters": [
+   "Chano Darias",
+   "Yurena Chinea",
+   "Ayoze"
+  ]
+ },
+ "c1-03": {
+  "title": "El cacao de la promesa",
+  "titleEn": "The Promised Cacao",
+  "level": "C1",
+  "emoji": "🍫",
+  "theme": "afro-latin",
+  "setting": "Curiepe (Brión municipality, Barlovento, Miranda state), Venezuela; 19–25 June, the San Juan Bautista festivities, present day.",
+  "logline": "Mariángel Sojo, 31, a cacao quality analyst for a chocolate workshop in Caracas, comes home to Curiepe for San Juan to sign off her family cooperative's first export lot, which must reach the port of La Guaira by 25 June, and finds the lot 300 kilos short. Half the town says Yonaiker Ascanio, 19, a culo e' puya drummer seen loading sacks onto a pickup at dawn, has sold them on, and her great-uncle Críspulo Mijares, 79, the cooperative's oldest fermenter, only says that the cacao 'is where it has to be'. Mariángel discovers that Críspulo had asked Yonaiker to carry the best fermented beans to his house to roast them for the chocolate his late wife served the drummers every San Juan, a family promise kept since 1980; she renegotiates the shipment by email, makes up the weight from the next fermentation, and drinks the chocolate at the velorio of 23 June.",
+  "wordTarget": [
+   1150,
+   1350
+  ],
+  "topics": [
+   {
+    "topic": "Present perfect subjunctive: haya + participle",
+    "family": "Subjunctive",
+    "notes": "First headline for haya + participle (absent at B1/B2): past or completed events seen from a present that requires the subjunctive (no creo que, me alegra que, cuando + future completion). Doubts, feelings and future completions around the missing sacks. «No creo que Yonaiker se haya llevado ni un grano.» «Me alegra que hayas venido para San Juan, mija.» «Cuando hayan pesado el último saco, me llaman.»"
+   },
+   {
+    "topic": "Future perfect: completion and conjecture",
+    "family": "Perfect tenses",
+    "notes": "habrá + participle for completion before a future point (para el viernes habrá secado) and for guesses about the past (¿quién habrá abierto la caja?); B2 had only the conditional perfect. Deadlines and guesses about the past. «Para el 25 el contenedor ya habrá salido de La Guaira.» «¿Quién se habrá llevado trescientos kilos de cacao en una noche?» «A estas horas el tío ya habrá prendido el fogón.»"
+   },
+   {
+    "topic": "Venir and andar + gerund",
+    "family": "Verb phrases & near future",
+    "notes": "venir + gerund for a process continuing up to now (vienen preguntando desde 2015) and andar + gerund for a repeated, often disapproved activity (anda diciendo). Processes continuing up to now and repeated, disapproved activity in town gossip. «Andan diciendo que el muchacho vendió los sacos en Higuerote.» «Críspulo viene fermentando cacao en esas mismas cajas desde antes de que tú nacieras.» «La cooperativa viene preparando este lote desde enero.»"
+   },
+   {
+    "topic": "Compound infinitive and gerund: tras haber, habiendo",
+    "family": "Perfect tenses",
+    "notes": "haber + participle in non-finite forms to mark anteriority in formal narration: tras haber, por no haber, habiendo + participle. Anteriority in Mariángel's formal emails and in the narration. «Tras haber revisado el inventario, constatamos una diferencia de 300 kilos.» «Habiendo hablado con el fermentador, puedo confirmar que no hubo robo.» «Le pido disculpas por no haber informado antes.»"
+   }
+  ],
+  "register": "Formal business emails with the European buyer and a cooperative inventory sheet, alternating with relaxed family and street talk during the festivities; tú among cousins, usted with Críspulo and the buyer.",
+  "dialect": "Venezuelan coastal Spanish with Barlovento features (aspirated or lost final -s, mija/mijo, chamo, pana, vaina, burda de = a lot of, ¡épale!), drum vocabulary (culo e' puya: prima, cruzao, pujao; mina and curbata), glossed in context. Barloventeño forms to be checked by a speaker.",
+  "idioms": [
+   "echarle bolas (colloquial Venezuelan): to put real effort into something",
+   "quedarse con los crespos hechos (Venezuela): to be left all dressed up with nowhere to go",
+   "no hay que buscarle cinco patas al gato: don't look for complications",
+   "al que madruga, Dios lo ayuda: the early bird catches the worm"
+  ],
+  "vocabFocus": "Cacao processing and the festival: la mazorca, el grano, la baba, la caja de fermentación, voltear, el patio de secado, la prueba de corte, el saco, el lote, el contenedor, el comprador, el tambor, el velorio, la promesa, el fogón, tostar, la cooperativa, la diferencia de peso",
+  "facts": [
+   "Barlovento (Miranda state) is the state's main cacao-growing area; the Miranda government counted about 3,800 cacao producers there (El Diario, 7 May 2024). Do NOT claim a denominación de origen for Barlovento cacao: only Chuao's is confirmed in the press checked (El Diario 2019); producers claim one for 'Carenero Superior' (La Patilla 2022) – unverified.",
+   "Curiepe was founded in 1721 as a town of free Black people under Captain Juan del Rosario Blanco (Afro-Venezuelan histories, e.g. everyculture.com; the Academia Nacional de la Historia bulletin notes the documentary record is debated) – verify before using the date in the text.",
+   "In 18th-century Barlovento large numbers of enslaved Africans were brought to work the cacao haciendas; the cumbe (maroon settlement) of Ocoyta, led by Guillermo Rivas, existed c. 1768–1771 (Wikipedia 'Afro-Venezuelans'; Venezuelan press; dates vary) – verify.",
+   "The San Juan Bautista festivities in Curiepe run around 23–25 June with three days of mina and culo e' puya drumming, a velorio and processions with the saint (La Patilla, 25 June 2015; El Diario, 24 June 2026). No UNESCO inscription found for the San Juan drums: do not claim one.",
+   "Cacao is fermented for about 5–7 days in wooden boxes, turned, then sun-dried; buyers check it with a cut test (general cacao-quality practice) – exact durations to be checked with a Barlovento producer."
+  ],
+  "roleplay": {
+   "character": "Críspulo Mijares",
+   "goal": "Find out where the missing sacks are without accusing anyone, and agree with Críspulo how much cacao can still be shipped and how much stays for San Juan.",
+   "register": "usted with a great-uncle; warm, colloquial Venezuelan"
+  },
+  "scene": "Night of 23 June in Curiepe: Mariángel with a phone torch beside open wooden fermentation boxes, Críspulo stirring a pot of chocolate over a wood fire, Yonaiker with a long culo e' puya drum on his shoulder, the lit church and a crowd in white in the background. Deep brown, white and red accents, warm firelight.",
+  "canDo": [
+   "C1-S4: I can speculate about what has happened or will have happened (habrá llegado, de haber sabido…) and reconstruct events aloud.",
+   "C1-R4: I can understand idioms, sayings and cultural references in context, including terms from Afro-Latin traditions (tambores de San Juan, concheras, Garífuna, liberto, Danza de los Diablos)."
+  ],
+  "protagonist": {
+   "name": "Mariángel Sojo",
+   "gender": "F",
+   "age": 31,
+   "country": "Venezuela",
+   "job": "cacao quality analyst"
+  },
+  "otherCharacters": [
+   "Críspulo Mijares",
+   "Yonaiker Ascanio"
+  ]
+ },
+ "c1-04": {
+  "title": "Cuatro centímetros y medio",
+  "titleEn": "Four and a Half Centimetres",
+  "level": "C1",
+  "emoji": "🐚",
+  "theme": "afro-latin",
+  "setting": "San Lorenzo and the mangroves of the Cayapas-Mataje reserve, northern Esmeraldas, Ecuador; early February, the week before the cockles' reproductive closed season, present day.",
+  "logline": "Wilmer Quiñónez, 27, a biologist from Esmeraldas city who measures black cockles (concha prieta) every month with the concheras of San Lorenzo, must tell the provincial office by Friday whether one estero should be closed, because his data show shells shrinking below the legal 4.5 centimetres. At the same time a middleman, Leonidas Cabezas, offers the women's association a contract for every cockle they can dig before the closed season, 'measured or not', and the association's leader, Ermelinda Corozo, 64, a conchera and decimera, refuses both the contract and the closure and says the estero is sick, not overharvested. Wilmer finds she is right: a shrimp farm upstream has cut the mangrove and silted the channel, so the cockles grow slowly there and not because the women take small ones; his report recommends rotating esteros instead of a blanket closure, the association turns down the middleman, and Ermelinda recites a décima about the mud at the assembly.",
+  "wordTarget": [
+   1150,
+   1400
+  ],
+  "topics": [
+   {
+    "topic": "Concessives beyond aunque: si bien, aun cuando, por más que",
+    "family": "Subjunctive",
+    "notes": "si bien (+ indicative, formal), aun cuando and a pesar de que (indicative = fact; subjunctive = possibility or conceded point), por más que (+ subjunctive or indicative). Arguments and concessions between scientist, middleman and concheras. «Si bien las conchas son más pequeñas, las mujeres no sacan más que antes.» «Aun cuando cierren el estero, el lodo seguirá bajando.» «Por más que insista don Leonidas, aquí no se vende concha sin medir.»"
+   },
+   {
+    "topic": "Cause and consequence: de ahí que, no porque… sino porque",
+    "family": "Relative clauses & connectors",
+    "notes": "de ahí que + subjunctive (the consequence is presented as known) and the rejected cause no porque + subjunctive… sino porque + indicative. Cause and consequence in Wilmer's report and in Ermelinda's reasoning. «El canal se ha llenado de sedimento; de ahí que las conchas crezcan más despacio.» «No es porque saquemos de más, sino porque el estero ya no respira.» «De ahí que el informe recomiende rotar los esteros.»"
+   },
+   {
+    "topic": "Register shifts: tú, usted and vos",
+    "family": "Commands & formality",
+    "notes": "The same speaker moving between usted, tú and regional vos (Honduran, Arequipeño) according to role, emotion and audience, with the matching verb forms. Wilmer moves between usted with Ermelinda and the official from Quito, tú with colleagues and Esmeraldeño vos with old school friends (to be checked by a speaker). «¿Usted me deja medir esta tanda, doña Ermelinda?» «Vos sabés que yo me crié en el barrio.» «Tú mándame la hoja de cálculo esta noche.»"
+   },
+   {
+    "topic": "Idiomatic ser and estar: estar de, estar por, ser de lo más",
+    "family": "Ser vs. estar",
+    "notes": "ser/estar/ir in fixed patterns: estar de + role (estuvo de cocinera), estar por + infinitive, ser de lo más + adjective, ir en serio, ir con alguien. Fixed ser/estar patterns in the women's talk. «Yo estuve de conchera desde los doce años.» «El estero está por cerrarse y nadie nos ha preguntado.» «Ese intermediario es de lo más amable cuando quiere comprar.»"
+   }
+  ],
+  "register": "Technical monitoring report and a formal letter to the provincial fisheries office, contrasted with the concheras' talk in the canoe and a décima recited at the assembly; usted for elders and officials, tú and vos among peers.",
+  "dialect": "Esmeraldas Spanish: aspirated or dropped -s, weakened final -d, coastal vocabulary (la concha, el estero, el raicero = mangrove roots, ¡ajá!, chévere, ve); pronominal voseo among friends (verify with a speaker). Décima lines in rural speech, glossed.",
+  "idioms": [
+   "a la orilla del estero no se miente (Ermelinda's own saying, invented for the story)",
+   "estar con el agua al cuello: to be in deep trouble",
+   "dar gato por liebre: to cheat someone, pass off something poor as good",
+   "quien siembra vientos recoge tempestades: you reap what you sow"
+  ],
+  "vocabFocus": "Mangrove and fisheries monitoring: el manglar, el estero, la raíz del mangle, la concha prieta, la conchera, la talla mínima, el calibrador, la muestra, la veda, la camaronera, el sedimento, el canal, la marea baja, la canoa, el intermediario, el acta, la rotación, el encocado",
+  "facts": [
+   "Black cockles (Anadara tuberculosa and A. similis) have a permanent minimum legal size of 4.5 cm in Ecuador (FAOLEX ministerial agreements; El Comercio, 'plan para salvar conchas negras'); the agreement number differs between sources – verify the current one in the Registro Oficial.",
+   "A reproductive closed season of about 45 days (15 February–31 March in older regulations) has applied to concha prieta (FAOLEX 2001 agreement; ULEAM study) – verify whether it is in force before giving dates in the text.",
+   "In Esmeraldas cockles are harvested mainly in San Lorenzo and Muisne, largely by women (concheras) in the mangroves (El Comercio; Revista Marina y Costera, UNA).",
+   "The Cayapas-Mataje mangrove ecological reserve in northern Esmeraldas became a protected area in 1995–96 (WRM bulletin: 26 Oct 1995; Registro Oficial 2002 cites an INEFAN resolution of 16 Jan 1996) and was expanded in 2025 (Registro Oficial, 2 Oct 2025) – verify; shrimp farming has damaged mangroves there (WRM bulletin 'Ecuador: Shrimp farming impacts on a mangrove reserve').",
+   "The décima esmeraldeña is an oral Afro-Ecuadorian verse form (a lo divino / a lo humano), collected by Juan García Salazar ('Los guardianes de la tradición', 2002) and studied by Jean Rahier and Laura Hidalgo (UASB repository) – verify the 44-line sung form before describing it.",
+   "Marimba music, traditional chants and dances of the Colombian South Pacific and Esmeraldas were inscribed together on UNESCO's Representative List in 2015 (10.COM) (UNESCO ICH, element 01099); background only."
+  ],
+  "roleplay": {
+   "character": "Ermelinda Corozo",
+   "goal": "Explain your measurements to Ermelinda respectfully, ask what she has seen change in the estero, and agree on what the report should recommend.",
+   "register": "usted with an elder; plain, respectful coastal Ecuadorian"
+  },
+  "scene": "Low tide in a mangrove channel near San Lorenzo: Wilmer in a canoe holding a calliper over a black cockle, Ermelinda standing barefoot in the mud among arched mangrove roots with a basket, a cleared shrimp-farm bank visible upstream. Green and grey-brown palette with a blue sky and an orange life jacket.",
+  "canDo": [
+   "C1-S2: I can ask someone tactfully about a sensitive matter, adapting register (tú, usted, vos) to the person and the situation.",
+   "C1-R4: I can understand idioms, sayings and cultural references in context, including terms from Afro-Latin traditions (tambores de San Juan, concheras, Garífuna, liberto, Danza de los Diablos)."
+  ],
+  "protagonist": {
+   "name": "Wilmer Quiñónez",
+   "gender": "M",
+   "age": 27,
+   "country": "Ecuador",
+   "job": "mangrove biologist"
+  },
+  "otherCharacters": [
+   "Ermelinda Corozo",
+   "Leonidas Cabezas"
+  ]
+ },
+ "c1-05": {
+  "title": "La voz de Triunfo",
+  "titleEn": "The Voice of Triunfo",
+  "level": "C1",
+  "emoji": "📻",
+  "theme": "afro-latin",
+  "setting": "Triunfo de la Cruz, near Tela (Atlántida), Honduras; the first two weeks of April, before the 12 April commemoration of the Garífuna arrival, present day.",
+  "logline": "Dionisio Arzú, 41, producer at a small Garífuna community radio station, is preparing the 12 April special when a hotel developer offers to pay for a new transmitter on one condition: the broadcast must not mention the 2015 Inter-American Court ruling on the community's land. At the same time an unlabelled reel turns up in the storeroom: a woman singing in Garifuna whom no one can identify. With 17-year-old intern Keyla Suazo, Dionisio traces the voice to his own great-aunt Paulina Guity, whose song is about the land itself; he turns down the sponsor, airs the song with the ruling, and the community pays for the transmitter through a radio-thon.",
+  "wordTarget": [
+   1200,
+   1400
+  ],
+  "topics": [
+   {
+    "topic": "Conditional conjunctions: siempre y cuando, a no ser que, con tal de que",
+    "family": "Conditionals & si-clauses",
+    "notes": "Conjunctions that always take the subjunctive and set precise conditions or exceptions (siempre y cuando, con tal de que, a no ser que, en caso de que), in negotiation or legal wording. The sponsorship negotiation and the station's own rules. «Les pagamos el transmisor, siempre y cuando el especial no mencione la sentencia.» «No sale al aire a no ser que alguien identifique la voz.» «Con tal de que la gente escuche a doña Paulina, me da igual el patrocinio.»"
+   },
+   {
+    "topic": "Formal connectors: no obstante, a raíz de, por consiguiente",
+    "family": "Relative clauses & connectors",
+    "notes": "Written-register connectors beyond B2's sin embargo/en cambio: no obstante, a raíz de, por consiguiente, en virtud de, dicho esto. Dionisio's on-air script and the station's letter. «No obstante, una emisora comunitaria no puede depender de un solo patrocinador.» «A raíz de la sentencia de 2015, el Estado debía titular las tierras.» «Por consiguiente, el especial durará tres horas.»"
+   },
+   {
+    "topic": "Reporting verbs: negar haber, alegar, admitir",
+    "family": "Reported speech",
+    "notes": "Precise reporting verbs with their constructions: negar/admitir + compound infinitive, alegar/asegurar que + indicative, advertir de que, exigir que + subjunctive. Reporting the sponsor's claims and the elders' testimony on air. «La licenciada Zelaya aseguró que la empresa respetaba a la comunidad.» «El abuelo de Keyla admitió haber grabado la cinta en los años ochenta.»"
+   },
+   {
+    "topic": "Register shifts: tú, usted and vos",
+    "family": "Commands & formality",
+    "notes": "The same speaker moving between usted, tú and regional vos (Honduran, Arequipeño) according to role, emotion and audience, with the matching verb forms. Honduran voseo with Keyla, usted with the sponsor, radio-presenter ustedes. «Vos sabés que no podemos, Keyla.» «Usted comprenderá, licenciada, que eso no es negociable.»"
+   }
+  ],
+  "register": "Radio presenting (warm, formal-public), negotiation in formal usted, colloquial Honduran voseo in the booth; short Garifuna greetings.",
+  "dialect": "Honduran Spanish with voseo (vos sabés, andá), cipota (girl), maje (mate), pisto (money); Garifuna words glossed (buiti binafi 'good morning', seremein 'thank you', hudutu, garaon drums). Garifuna items to be checked by a Garifuna speaker.",
+  "idioms": [
+   "Lo barato sale caro: cheap things end up costing more",
+   "tener la sartén por el mango: to have the upper hand",
+   "más vale solo que mal acompañado: better alone than in bad company",
+   "no dar el brazo a torcer: to stand firm"
+  ],
+  "vocabFocus": "Community radio and land rights: la emisora comunitaria, el transmisor, la frecuencia, la cabina, la consola, la cinta, el carrete, la locución, el patrocinio, la cuña, la parrilla de programación, la sentencia, el título colectivo, el territorio ancestral, el tambor garaon, la punta, el hudutu",
+  "facts": [
+   "The Garífuna arrived in Honduras (Roatán) on 12 April 1797 after being deported by the British from St Vincent; 12 April is commemorated in Honduras (historiography; Honduran commemorations).",
+   "The language, dance and music of the Garifuna were proclaimed a Masterpiece of the Oral and Intangible Heritage of Humanity in 2001 (Belize, Guatemala, Honduras, Nicaragua; UNESCO).",
+   "Inter-American Court of Human Rights, Comunidad Garífuna Triunfo de la Cruz y sus miembros vs. Honduras, judgment of 8 October 2015 (Serie C No. 305): violation of collective property; ordered demarcation and collective title (Corte IDH).",
+   "Hudutu (plantain mash with fish in coconut broth) and garaon drums are Garífuna traditions (ethnographic sources)."
+  ],
+  "roleplay": {
+   "character": "Licenciada Mirna Zelaya",
+   "goal": "Negotiate the sponsorship: state your conditions clearly and refuse censorship without closing the door.",
+   "register": "formal usted, negotiation"
+  },
+  "scene": "A wooden radio booth on stilts near a Caribbean beach with coconut palms: Dionisio in headphones at an old console, Keyla holding a reel-to-reel tape up to the light, a garaon drum in the corner, a hand-painted station sign. Turquoise, white sand, red and yellow logo, wood brown.",
+  "canDo": [
+   "C1-S1: I can negotiate an agreement and set precise conditions and exceptions (siempre y cuando, a no ser que, con tal de que).",
+   "C1-R2: I can recognise shifts of register in a text, from an official report or legal clause to casual dialogue, and explain why the writer uses each one."
+  ],
+  "protagonist": {
+   "name": "Dionisio Arzú",
+   "gender": "M",
+   "age": 41,
+   "country": "Honduras",
+   "job": "radio producer"
+  },
+  "otherCharacters": [
+   "Keyla Suazo",
+   "Paulina Guity",
+   "Mirna Zelaya"
+  ]
+ },
+ "c1-06": {
+  "title": "La casa que cruzó el canal",
+  "titleEn": "The House That Crossed the Channel",
+  "level": "C1",
+  "emoji": "🏠",
+  "theme": "place",
+  "setting": "Castro and Quinchao island, Chiloé archipelago, Chile; late February, present day.",
+  "logline": "Javiera Oyarzún, 36, a municipal planner in Castro, must approve or block a minga to tow an old shingled house by sea from Quinchao to Chiloé, and its owner, Belarmino Cárcamo, 81, demands one particular Sunday and no other. The forecast is bad, the insurance rules are worse, and his grandson Yerko suspects the old man only wants to move the house to sell it. Javiera discovers that the date matches the year's highest tide, the only one that lets the house float over the reef to the plot where his late wife was born; she approves the minga with conditions, one tide later, and the whole island pulls.",
+  "wordTarget": [
+   1250,
+   1450
+  ],
+  "topics": [
+   {
+    "topic": "Conditions without si: de + infinitive, de no ser por",
+    "family": "Conditionals & si-clauses",
+    "notes": "Compact counterfactuals: de + (compound) infinitive and de no ser por + noun replacing si-clauses, with the conditional perfect in the main clause. Risk talk between planner, harbour office and owner. «De no ser por la marea, la casa encallaría frente a Achao.» «De haberlo sabido antes, habría pedido el informe de la Armada.»"
+   },
+   {
+    "topic": "Formal connectors: no obstante, a raíz de, por consiguiente",
+    "family": "Relative clauses & connectors",
+    "notes": "Written-register connectors beyond B2's sin embargo/en cambio: no obstante, a raíz de, por consiguiente, en virtud de, dicho esto. Javiera's municipal resolution. «A raíz del temporal, la Capitanía de Puerto suspendió la navegación.» «Por consiguiente, la minga queda autorizada para el domingo siguiente.»"
+   },
+   {
+    "topic": "Periphrases: llegar a, terminar por, dar por + participle",
+    "family": "Verb phrases & near future",
+    "notes": "llegar a + infinitive (culmination, even…), terminar/acabar por + infinitive (end up), dar por + participle (take as given: dar por hecho, dar por perdido). Stubbornness and its outcome. «Don Belarmino llegó a amenazar con remolcarla él solo.» «Yerko dio por hecho que su abuelo quería vender.» «El viejo terminó por aceptar.»"
+   },
+   {
+    "topic": "Hedging and intensifying: al parecer, más bien, de lo más",
+    "family": "Register & style",
+    "notes": "Attenuation (al parecer, digamos, más bien, no es que + subjunctive, cabe suponer) and intensification (de lo más, sumamente, ni siquiera) to manage politeness and commitment. Diplomacy with an elder and with the council. «Al parecer, la casa tiene más de cien años.» «No es que me oponga, don Belarmino; más bien me preocupa el viento.»"
+   }
+  ],
+  "register": "Municipal resolution and council emails (formal, nominal), polite usted with the elder, colloquial Chilean between Javiera and Yerko.",
+  "dialect": "Chilean Spanish: ustedes, verbal voseo in informal speech (¿cachái?, ¿estái?), po, al tiro; Chilote words: minga, tiradura, curanto, tejuela, palafito, chalupa.",
+  "idioms": [
+   "La unión hace la fuerza: unity is strength",
+   "al tiro (Chile): right away",
+   "a la tercera va la vencida: third time lucky",
+   "hacer de tripas corazón: to pluck up courage"
+  ],
+  "vocabFocus": "Island planning and the sea: la minga, la tiradura de casa, las tejuelas, el palafito, la yunta de bueyes, los tambores (barrels), la lancha, remolcar, la pleamar, la marea alta, el temporal, la Capitanía de Puerto, el permiso, el plano regulador, el curanto, encallar, el arrecife",
+  "facts": [
+   "The Churches of Chiloé were inscribed as a UNESCO World Heritage Site in 2000 (16 wooden churches) (UNESCO WHC).",
+   "The minga (collective work) and the 'tiradura de casa', moving a house by oxen over land and by boats over the sea, are documented Chilote traditions, followed by a curanto (ethnographic and Chilean heritage sources).",
+   "Tides in the inner sea of Chiloé have a range of several metres (SHOA tide tables) – keep figures general."
+  ],
+  "roleplay": {
+   "character": "Belarmino Cárcamo",
+   "goal": "Explain the conditions of the permit and persuade him to accept a later tide without hurting his pride.",
+   "register": "usted, warm and tactful; he answers in colloquial Chilote"
+  },
+  "scene": "A two-storey wooden house with yellow and red shingles floating on barrels in a grey-green channel, pulled by small fishing boats; on shore a crowd, a pair of oxen and Javiera in a hard hat with a tablet, the old man standing on the porch of the floating house. Shingle yellows and reds, grey-green sea, mist.",
+  "canDo": [
+   "C1-S1: I can negotiate an agreement and set precise conditions and exceptions (siempre y cuando, a no ser que, con tal de que).",
+   "C1-R2: I can recognise shifts of register in a text, from an official report or legal clause to casual dialogue, and explain why the writer uses each one."
+  ],
+  "protagonist": {
+   "name": "Javiera Oyarzún",
+   "gender": "F",
+   "age": 36,
+   "country": "Chile",
+   "job": "municipal planner"
+  },
+  "otherCharacters": [
+   "Belarmino Cárcamo",
+   "Yerko"
+  ]
+ },
+ "c1-07": {
+  "title": "La pregunta que faltaba",
+  "titleEn": "The Missing Question",
+  "level": "C1",
+  "emoji": "📋",
+  "theme": "afro-latin",
+  "setting": "Cuajinicuilapa, Costa Chica de Guerrero, Mexico; March 2020, the last days of census fieldwork.",
+  "logline": "Itandehui Cruz, 26, a census enumerator from Oaxaca city, must close her last blocks in Cuajinicuilapa before the 27 March deadline, and one household will not let her finish the questionnaire. Doña Eufemia Noyola, 93, says nobody in her house will answer the new question on Afro-Mexican self-identification, while her grandson Baltazar, 35, a teacher who campaigned for that question, insists they will. Over three visits, a Danza de los Diablos mask and an afternoon at the Museo de las Culturas Afromestizas, Itandehui learns why the word 'negra' once hurt, and doña Eufemia answers for herself, in her own words.",
+  "wordTarget": [
+   1250,
+   1500
+  ],
+  "topics": [
+   {
+    "topic": "Present perfect subjunctive: haya + participle",
+    "family": "Subjunctive",
+    "notes": "First headline for haya + participle (absent at B1/B2): past or completed events seen from a present that requires the subjunctive (no creo que, me alegra que, cuando + future completion). Feelings and doubts about what has happened. «Me alegra que hayas vuelto, muchacha.» «No es posible que hayan contado mal en 2015.» «Cuando hayan contestado todos, cierro el cuestionario.»"
+   },
+   {
+    "topic": "Venir and andar + gerund",
+    "family": "Verb phrases & near future",
+    "notes": "venir + gerund for a process continuing up to now (vienen preguntando desde 2015) and andar + gerund for a repeated, often disapproved activity (anda diciendo). Long processes and gossip. «Los del gobierno vienen preguntando lo mismo desde hace años.» «Mi nieto anda diciendo que somos afromexicanos, como si yo no lo supiera.»"
+   },
+   {
+    "topic": "Hedging and intensifying: al parecer, más bien, de lo más",
+    "family": "Register & style",
+    "notes": "Attenuation (al parecer, digamos, más bien, no es que + subjunctive, cabe suponer) and intensification (de lo más, sumamente, ni siquiera) to manage politeness and commitment. Itandehui's careful questions and the elder's evasions. «Digamos que en mis tiempos esa palabra no se decía bonito.» «No es que no quiera contestar; es que la pregunta llega tarde.»"
+   }
+  ],
+  "register": "Questionnaire usted (scripted, formal), tactful improvised usted, Baltazar's activist register, the grandmother's colloquial storytelling.",
+  "dialect": "Costa Chica Mexican Spanish: ahorita, mero, ¿mande?, pues; local words redondo (traditional round house), chilena (local music genre), Danza de los Diablos.",
+  "idioms": [
+   "Más sabe el diablo por viejo que por diablo: experience beats cleverness",
+   "Agua que no has de beber, déjala correr: don't meddle in what isn't yours",
+   "Al pan, pan, y al vino, vino: call a spade a spade",
+   "dar en el clavo: to hit the nail on the head"
+  ],
+  "vocabFocus": "Census and identity: el censo, la entrevistadora, el cuestionario, la vivienda, el hogar, el informante, la manzana, la autoadscripción, afromexicano, afrodescendiente, la máscara, la Danza de los Diablos, el redondo, la chilena, el plazo, la tableta, la constancia",
+  "facts": [
+   "Mexico's 2015 Encuesta Intercensal first counted people self-identifying as Afro-descendant (1.2%); the 2020 Censo de Población y Vivienda asked the question for the first time in a full census (2.0%, about 2.58 million) (INEGI).",
+   "Census 2020 enumeration ran 2 to 27 March 2020 (INEGI; some reports give 3 March as the start).",
+   "The Afro-Mexican peoples were recognised in Article 2 of the Constitution by a reform published in the Diario Oficial on 9 August 2019 (DOF).",
+   "The Museo de las Culturas Afromestizas in Cuajinicuilapa opened in 1999 (Guerrero cultural institutions; verify date).",
+   "The Danza de los Diablos is performed in the Costa Chica around Días de Muertos (ethnographic sources)."
+  ],
+  "roleplay": {
+   "character": "Doña Eufemia Noyola",
+   "goal": "Explain the census question respectfully, listen to her story and let her decide, without pressing.",
+   "register": "usted, attenuated and patient"
+  },
+  "scene": "Shaded patio in Cuajinicuilapa with a round thatched house behind: an old woman in a rocking chair holding a horned black-and-red devil mask, a young woman in a census vest with a tablet, a man in a teacher's shirt in the doorway. Ochre earth, deep green, white vest, red and black.",
+  "canDo": [
+   "C1-S2: I can ask someone tactfully about a sensitive matter, adapting register (tú, usted, vos) to the person and the situation.",
+   "C1-R4: I can understand idioms, sayings and cultural references in context, including terms from Afro-Latin traditions (tambores de San Juan, concheras, Garífuna, liberto, Danza de los Diablos)."
+  ],
+  "protagonist": {
+   "name": "Itandehui Cruz",
+   "gender": "F",
+   "age": 26,
+   "country": "Mexico",
+   "job": "census enumerator"
+  },
+  "otherCharacters": [
+   "Eufemia Noyola",
+   "Baltazar Noyola"
+  ]
+ },
+ "c1-08": {
+  "title": "El real que no sonaba",
+  "titleEn": "The Coin That Rang False",
+  "level": "C1",
+  "emoji": "🪙",
+  "theme": "history",
+  "setting": "Casa Nacional de Moneda, Potosí, Bolivia; present day, with the mint scandal of the 1640s as background.",
+  "logline": "Ofelia Choque, 52, a conservator at the Casa Nacional de Moneda in Potosí, is asked to authenticate a hand-struck eight-real coin (a macuquina) that the collector Gastón Aramayo wants to sell abroad as a 1649 rarity. The coin weighs right but rings wrong, and her young assistant Wara is sure it is a modern fake. Ofelia proves it is genuine: a debased coin from the Potosí mint fraud of the 1640s, worthless as silver and priceless as evidence, and as national heritage it cannot leave the country.",
+  "wordTarget": [
+   1300,
+   1550
+  ],
+  "topics": [
+   {
+    "topic": "Pluperfect subjunctive in subordinate clauses",
+    "family": "Subjunctive",
+    "notes": "hubiera + participle after a past main verb in purpose, temporal, concessive and evaluative clauses (sin que, antes de que, era improbable que), not in si-clauses (those were B2). Seventeenth-century fraud seen from the past. «Era improbable que alguien la hubiera falsificado con plata de esa ley.» «Se acuñaron miles de piezas sin que nadie hubiera comprobado su ley.»"
+   },
+   {
+    "topic": "Impersonal se with people vs pasiva refleja",
+    "family": "Passive voice",
+    "notes": "Choosing between pasiva refleja with things (se cargaron dos neveras), impersonal se + a with people (se citó a los estibadores, no se sancionará a nadie) and ser + participle for official acts. History-book and lab-report style. «La moneda fue acuñada en Potosí hacia 1649.» «Se fundieron las piezas defectuosas.» «Se condenó a varios responsables.»"
+   },
+   {
+    "topic": "Future perfect: completion and conjecture",
+    "family": "Perfect tenses",
+    "notes": "habrá + participle for completion before a future point (para el viernes habrá secado) and for guesses about the past (¿quién habrá abierto la caja?); B2 had only the conditional perfect. Waiting for results and imagining the coin's journey. «Para mañana ya habrá llegado el análisis del laboratorio.» «¿Por cuántas manos habrá pasado esta moneda?»"
+   },
+   {
+    "topic": "Periphrases: llegar a, terminar por, dar por + participle",
+    "family": "Verb phrases & near future",
+    "notes": "llegar a + infinitive (culmination, even…), terminar/acabar por + infinitive (end up), dar por + participle (take as given: dar por hecho, dar por perdido). Scale and assumptions. «El escándalo llegó a preocupar al mismísimo rey.» «Wara dio por sentado que era falsa.»"
+   }
+  ],
+  "register": "Technical conservation report and museum labels (formal, passive), negotiation with the collector (formal usted), colleague banter (tú).",
+  "dialect": "Bolivian Andean Spanish: nomás, pues, ¿ya?, frequent diminutives; Aymara/Quechua words in context (Wara 'star', jallalla 'cheers/long live').",
+  "idioms": [
+   "Vale un Potosí: it's worth a fortune (from Don Quijote)",
+   "No es oro todo lo que reluce: all that glitters is not gold",
+   "pagar con la misma moneda: to pay someone back in kind",
+   "ser moneda corriente: to be commonplace"
+  ],
+  "vocabFocus": "Coinage and heritage: la ceca, la acuñación, la macuquina, el real de a ocho, la ley (fineness), la aleación, el ensayador, la balanza de precisión, el cuño, el anverso, la falsificación, el visitador, el patrimonio, la exportación, fundir, el sello, el lingote",
+  "facts": [
+   "The City of Potosí was inscribed as a UNESCO World Heritage Site in 1987 (UNESCO WHC).",
+   "The present Casa Nacional de Moneda building dates from the 18th century (built c. 1753–1773) and is now a museum (Fundación Cultural del Banco Central de Bolivia).",
+   "Macuquinas are irregular hand-struck 'cob' coins (numismatic reference).",
+   "In the 1640s the Potosí mint issued debased silver coins; the scandal was investigated by visitador Francisco de Nestares Marín and led to punishments and a redesign of the coinage in the early 1650s (numismatic and colonial-history literature; verify dates before writing).",
+   "Bolivian heritage law restricts the export of cultural property (Ley 530 de Patrimonio Cultural Boliviano, 2014; verify the article used)."
+  ],
+  "roleplay": {
+   "character": "Gastón Aramayo",
+   "goal": "Explain why the coin cannot leave the country and propose an alternative (loan or sale to the museum).",
+   "register": "formal usted, firm and diplomatic"
+  },
+  "scene": "Conservation lab in a stone colonial building with arches: Ofelia with a loupe and white gloves over a crude silver coin on black velvet, a precision scale, Wara at a laptop, Cerro Rico through the window. Silver, stone grey, deep red, cobalt sky.",
+  "canDo": [
+   "C1-S4: I can speculate about what has happened or will have happened (habrá llegado, de haber sabido…) and reconstruct events aloud.",
+   "C1-R1: I can follow a long story with several timelines and embedded documents (reports, ledgers, wills, scripts) and say what is established and what is only inferred."
+  ],
+  "protagonist": {
+   "name": "Ofelia Choque",
+   "gender": "F",
+   "age": 52,
+   "country": "Bolivia",
+   "job": "museum conservator"
+  },
+  "otherCharacters": [
+   "Gastón Aramayo",
+   "Wara"
+  ]
+ },
+ "c1-09": {
+  "title": "El cocinero de la goleta",
+  "titleEn": "The Schooner's Cook",
+  "level": "C1",
+  "emoji": "⚓",
+  "theme": "afro-latin",
+  "setting": "An archive reading room in San Juan, Puerto Rico (present day), and the ports of San Juan, Santo Domingo and Havana, 1872–1876.",
+  "logline": "Ezequiel Rivera Ortiz, 47, an archivist in San Juan, receives a request from Altagracia Peguero, 38, a Dominican lawyer tracing an ancestor named Tiburcio who appears in Puerto Rico's 1872 slave register. Tiburcio vanishes from the records after abolition in 1873, then reappears as cook on a schooner bound for Havana, where slavery was still legal, which makes no sense to either of them. Through crew lists and port ledgers Ezequiel finds that Tiburcio's three-year post-abolition contract was with the schooner's captain, and that he left the ship in Santo Domingo, where he could not be re-enslaved, the day before it sailed for Havana.",
+  "wordTarget": [
+   1350,
+   1600
+  ],
+  "topics": [
+   {
+    "topic": "Pluperfect subjunctive in subordinate clauses",
+    "family": "Subjunctive",
+    "notes": "hubiera + participle after a past main verb in purpose, temporal, concessive and evaluative clauses (sin que, antes de que, era improbable que), not in si-clauses (those were B2). Reasoning about what had happened. «Le parecía improbable que un liberto se hubiera embarcado hacia La Habana por voluntad propia.» «Desembarcó sin que el capitán lo hubiera anotado en el rol.»"
+   },
+   {
+    "topic": "Formal relatives: el cual, lo cual",
+    "family": "Relative clauses & connectors",
+    "notes": "el cual / la cual after longer or compound prepositions (desde el cual, a raíz de la cual) and lo cual referring back to a whole clause; B2 already covered en el que and cuyo. Archival prose. «El registro de 1872, en el cual figuraba Tiburcio, ocupa tres estanterías.» «La goleta zarpó un martes, lo cual coincide con la fecha del contrato.»"
+   },
+   {
+    "topic": "Nominalization in formal register",
+    "family": "Register & style",
+    "notes": "Turning verbs into nouns to pack information in reports, archive notes and legal texts (la llegada, la apertura, la consulta, la puesta en marcha), with the matching light verbs (tener lugar, llevar a cabo, dar inicio). Ezequiel's research note and the archive's rules. «La abolición no supuso la libertad inmediata, sino la firma de contratos obligatorios.» «La consulta del rol de tripulantes requiere autorización previa.»"
+   },
+   {
+    "topic": "Compound infinitive and gerund: tras haber, habiendo",
+    "family": "Perfect tenses",
+    "notes": "haber + participle in non-finite forms to mark anteriority in formal narration: tras haber, por no haber, habiendo + participle. Formal narration of sequence. «Tras haber cumplido dieciocho meses de contrato, Tiburcio desaparece de los libros.» «Habiendo revisado los tres libros, Ezequiel llamó a Santo Domingo.»"
+   }
+  ],
+  "register": "Archival and academic formal prose, 19th-century ledger entries (quoted, with abbreviations), video-call dialogue moving from usted to tú.",
+  "dialect": "Puerto Rican Spanish (tú, ustedes; bregar, chavos) and Dominican Spanish (vaina, un chin, ¿Qué tal, licenciado?); 19th-century documentary Spanish in quotations (D., dho., vecino de esta plaza).",
+  "idioms": [
+   "buscar una aguja en un pajar: to look for a needle in a haystack",
+   "atar cabos: to put two and two together",
+   "El que busca, encuentra: seek and you shall find",
+   "Poco a poco se llega lejos: slowly but surely"
+  ],
+  "vocabFocus": "Archives and maritime records: el legajo, el rol de tripulantes, el libro de entradas y salidas, la goleta, el bergantín, el liberto, el contrato de trabajo, la cédula, el registro, el folio, el asiento, la Capitanía del Puerto, la tachadura, la consulta, el descendiente, la partida de bautismo, zarpar",
+  "facts": [
+   "Slavery in Puerto Rico was abolished by the law of 22 March 1873; freed people (libertos) were obliged to sign labour contracts for three years (Puerto Rican historiography; Primera Hora 150th-anniversary coverage).",
+   "The Registro Central de Esclavos of 1872 recorded name, origin, residence, occupation, age, physical description and owner (archival catalogues).",
+   "In Cuba, slavery was converted into the 'patronato' in 1880 and ended in 1886 (Cuban historiography).",
+   "In Santo Domingo slavery was abolished in 1822 under Haitian rule (Dominican historiography).",
+   "The Archivo General de Puerto Rico (Instituto de Cultura Puertorriqueña) is in San Juan. Keep the story's archive generic unless the details are checked."
+  ],
+  "roleplay": {
+   "character": "Altagracia Peguero",
+   "goal": "Explain your findings to the descendant by video call: what is proven, what is probable and what remains unknown.",
+   "register": "usted at first, then tú; careful hedging"
+  },
+  "scene": "Archive reading room with tall windows over San Juan bay: Ezequiel in cotton gloves turning a huge leather ledger, a laptop showing Altagracia on a video call from Santo Domingo, a pencil drawing of a schooner pinned above the desk. Parchment beige, Caribbean blue, mahogany.",
+  "canDo": [
+   "C1-R1: I can follow a long story with several timelines and embedded documents (reports, ledgers, wills, scripts) and say what is established and what is only inferred.",
+   "C1-W1: I can write a clear, well-structured formal text, such as an incident report, an archive note or a council resolution, using nominalisation, impersonal se and formal connectors."
+  ],
+  "protagonist": {
+   "name": "Ezequiel Rivera Ortiz",
+   "gender": "M",
+   "age": 47,
+   "country": "Puerto Rico",
+   "job": "archivist"
+  },
+  "otherCharacters": [
+   "Altagracia Peguero",
+   "Tiburcio"
+  ]
+ },
+ "c1-10": {
+  "title": "La torta negra de la señora Pugh",
+  "titleEn": "Mrs Pugh's Black Cake",
+  "level": "C1",
+  "emoji": "🍰",
+  "theme": "food",
+  "setting": "Gaiman and Trelew, Chubut (Argentine Patagonia); July, the week of 28 July (Welsh landing day), present day.",
+  "logline": "Lautaro Jones, 58, a lawyer in Trelew, must execute the will of Nesta Pugh, 88, owner of Gaiman's oldest Welsh tea house: the house goes to her nephew Ceferino Toledo, but 'the recipe' goes to 'whoever made it'. Both Ceferino and Brígida Maldonado, the tea house's cook for thirty years, claim the famous torta negra, and nothing can be signed until Lautaro decides. In a recipe notebook in Welsh and Spanish he finds that since 1994 the recipe has been rewritten in Brígida's hand, so the recipe is hers, and he gets both heirs to sign an agreement to keep baking it in the same house.",
+  "wordTarget": [
+   1350,
+   1600
+  ],
+  "topics": [
+   {
+    "topic": "Conditional conjunctions: siempre y cuando, a no ser que, con tal de que",
+    "family": "Conditionals & si-clauses",
+    "notes": "Conjunctions that always take the subjunctive and set precise conditions or exceptions (siempre y cuando, con tal de que, a no ser que, en caso de que), in negotiation or legal wording. The will's clauses and the heirs' demands. «Lego la receta a quien la haya hecho, siempre y cuando siga horneándola en Gaiman.» «En caso de que hubiera dos pretendientes, decidirá el albacea.» «No firmo nada a no ser que me dejen ver el cuaderno.»"
+   },
+   {
+    "topic": "Nominalization in formal register",
+    "family": "Register & style",
+    "notes": "Turning verbs into nouns to pack information in reports, archive notes and legal texts (la llegada, la apertura, la consulta, la puesta en marcha), with the matching light verbs (tener lugar, llevar a cabo, dar inicio). Legal and notarial prose. «La apertura del testamento tuvo lugar el lunes.» «La redacción de la cláusula admite dos lecturas.»"
+   },
+   {
+    "topic": "Pseudo-clefts: lo que pasó fue que",
+    "family": "Discourse & information structure",
+    "notes": "lo que / lo único que / quien … + ser to put the new information at the end (lo que me molesta es…, lo que pasó fue que…); B2 covered fue X quien. Arguing about what the text actually says. «Lo que dice el testamento es “quien la hizo”, no “quien la inventó”.» «Lo que me duele es que nadie me haya preguntado.»"
+   },
+   {
+    "topic": "Idiomatic ser and estar: estar de, estar por, ser de lo más",
+    "family": "Ser vs. estar",
+    "notes": "ser/estar/ir in fixed patterns: estar de + role (estuvo de cocinera), estar por + infinitive, ser de lo más + adjective, ir en serio, ir con alguien. People and situations. «La tía Nesta era de lo más ordenada.» «Brígida estuvo de cocinera treinta años.» «Estoy por renunciar al caso.»"
+   }
+  ],
+  "register": "Testamentary and notarial language (quoted clauses), Lautaro's formal letters, Rioplatense colloquial with voseo, a few Welsh words.",
+  "dialect": "Argentine Patagonian Spanish with voseo (vos sabés, mirá, che), ustedes; Welsh-Patagonian vocabulary: te galés, torta negra, capilla, Eisteddfod, bara brith.",
+  "idioms": [
+   "Cada maestrito con su librito (Argentina): everyone has their own way of doing things",
+   "Cuentas claras, amistades largas: clear accounts make lasting friendships",
+   "meter la cuchara: to butt in",
+   "ser pan comido: to be a piece of cake"
+  ],
+  "vocabFocus": "Inheritance and baking: el testamento, el albacea, el legado, el heredero, la cláusula, la sucesión, el escribano, la casa de té, la torta negra, las pasas, la cáscara de naranja confitada, el azúcar quemado, el horno, el cuaderno de recetas, la firma, el galés, la capilla",
+  "facts": [
+   "Welsh settlers arrived at Puerto Madryn aboard the Mimosa on 28 July 1865, commemorated in Chubut as the Día del Desembarco / Gŵyl y Glaniad (Chubut provincial history).",
+   "Gaiman is known for its Welsh tea houses and the torta negra galesa (Chubut tourism and heritage sources).",
+   "The Eisteddfod del Chubut is held annually (Trelew/Gaiman cultural calendar).",
+   "In Argentina an executor (albacea) carries out a will under the Código Civil y Comercial (2015); keep the legal detail general."
+  ],
+  "roleplay": {
+   "character": "Brígida Maldonado",
+   "goal": "Interview the cook tactfully about who wrote and changed the recipe, without taking sides.",
+   "register": "usted moving to vos; Rioplatense"
+  },
+  "scene": "Wood-panelled Welsh tea house in Gaiman in winter: a table set with china and a dark fruit cake, an old notebook open with Welsh and Spanish handwriting, Lautaro in a suit with reading glasses, a woman in an apron and a younger man facing each other; bare poplars outside the window. Dark wood, cream lace, a small red dragon, frosty blue.",
+  "canDo": [
+   "C1-S1: I can negotiate an agreement and set precise conditions and exceptions (siempre y cuando, a no ser que, con tal de que).",
+   "C1-R1: I can follow a long story with several timelines and embedded documents (reports, ledgers, wills, scripts) and say what is established and what is only inferred."
+  ],
+  "protagonist": {
+   "name": "Lautaro Jones",
+   "gender": "M",
+   "age": 58,
+   "country": "Argentina",
+   "job": "lawyer"
+  },
+  "otherCharacters": [
+   "Nesta Pugh",
+   "Ceferino Toledo",
+   "Brígida Maldonado"
+  ]
+ },
+ "c2-01": {
+  "title": "Cuplé de autor",
+  "titleEn": "An Original Verse",
+  "level": "C2",
+  "emoji": "🎭",
+  "theme": "mystery",
+  "setting": "Cádiz (barrio de La Viña and the Gran Teatro Falla), Spain; January–February, during the COAC carnival contest, present day.",
+  "logline": "Reyes Garrido, 63, a retired judge who writes the lyrics for a neighbourhood chirigota, hears her best cuplé sung almost word for word by a rival group in the preliminaries, three days before her own group performs. Everyone blames Fali Camacho, the rival author with an old grudge, and Reyes investigates with the habits of her old courtroom: rehearsal recordings, message timestamps and a rhyme that does not quite fit. The evidence convicts no one but herself: both cuplés echo a forgotten 1980s chirigota by an author they both admired, which she had half-remembered as her own, so she rewrites the cuplé overnight as a joke about herself and wins the theatre.",
+  "wordTarget": [
+   1500,
+   1700
+  ],
+  "topics": [
+   {
+    "topic": "Irony, understatement and litotes",
+    "family": "Register & style",
+    "notes": "Saying less than one means (no está nada mal, poco original), ironic praise, and their signals (digamos, con modestia ejemplar). The narrator's dry judge's voice. «No es que el cuplé fuera malo: era, digamos, poco original.» «Una jueza que se condena a sí misma: no está nada mal para un martes.»"
+   },
+   {
+    "topic": "Proverbs and truncated refranes",
+    "family": "Vocabulary & idiom",
+    "notes": "Proverbs quoted whole, cut short for the listener to complete (quien roba a un ladrón…) or twisted for irony. Proverbs the chirigota lives on, often left unfinished. «En casa del herrero, cuchillo de palo.» «Cría fama y échate a dormir.» «Quien roba a un ladrón…»"
+   },
+   {
+    "topic": "Mood for stance: aunque, el hecho de que, como",
+    "family": "Subjunctive",
+    "notes": "Subjunctive for known facts treated as irrelevant (aunque sea un sinvergüenza), el hecho de que + subjunctive or indicative, como + subjunctive as a threat/condition vs como + indicative as cause. Judging facts versus judging people. «Aunque Fali sea un sinvergüenza, esta vez no ha robado nada.» «El hecho de que la rima coincida no prueba nada.» «Como no aparezca la grabación, no hay caso.»"
+   },
+   {
+    "topic": "Colloquial subjunctive formulas: ni que fuera, que yo sepa",
+    "family": "Subjunctive",
+    "notes": "Fixed subjunctive formulas in speech: ¡ni que fuera…!, que yo sepa, como quien no quiere la cosa, que digamos, sea como sea. Rehearsal-room banter. «¡Ni que fuera la primera vez que alguien canta un chiste viejo!» «Que yo sepa, nadie grabó el ensayo.» «Como quien no quiere la cosa, Fali se sentó en la última fila.»"
+   }
+  ],
+  "register": "Ironic first-person narration with judicial vocabulary, Andalusian colloquial dialogue, sung carnival verses (cuplé and estribillo) quoted in full.",
+  "dialect": "Western Andalusian (Cádiz): seseo/ceceo and s-aspiration (suggested in the audio, not in the spelling), ustedes with vosotros verb forms in informal speech (ustedes os vais), quillo/illo, mi arma, jartible.",
+  "idioms": [
+   "En casa del herrero, cuchillo de palo: the cobbler's children go barefoot",
+   "Cría fama y échate a dormir: once you have a reputation it sticks",
+   "Piensa mal y acertarás: think the worst and you'll be right",
+   "Nada nuevo bajo el sol: nothing new under the sun"
+  ],
+  "vocabFocus": "Carnival and evidence: la chirigota, la comparsa, el cuplé, el pasodoble, el estribillo, la letra, el letrista, el tipo (costume), las preliminares, el concurso, el ensayo, la peña, la rima, el plagio, la grabación, la prueba, el veredicto, el bombo y la caja, el pito de carnaval",
+  "facts": [
+   "The COAC (Concurso Oficial de Agrupaciones Carnavalescas) of Cádiz is held at the Gran Teatro Falla, with four categories: comparsas, chirigotas, coros and cuartetos (Ayuntamiento de Cádiz).",
+   "A chirigota's repertoire includes a presentación, pasodobles, cuplés with an estribillo and a popurrí (contest rules).",
+   "Western Andalusian ustedes combined with second-person-plural verb forms is a documented dialect feature (RAE/ASALE Nueva gramática; Andalusian dialectology)."
+  ],
+  "roleplay": {
+   "character": "Fali Camacho",
+   "goal": "Raise the matter of the identical cuplé with the rival author using irony, without accusing him outright.",
+   "register": "colloquial Andalusian tú"
+  },
+  "scene": "Backstage at a red-and-gold theatre: chirigoteros dressed as judges in wigs and gowns in front of bulb-lit mirrors, Reyes in reading glasses holding a phone with a sound wave on screen and a notebook, kazoos and a bass drum on a chair. Theatre red and gold, black-and-white costumes, confetti.",
+  "canDo": [
+   "C2-S1: I can argue a case before a demanding audience, anticipating objections and using rhetorical devices effectively.",
+   "C2-R3: I can recognise irony, understatement, litotes and rhetorical devices, and explain the implicit meaning and the writer's attitude."
+  ],
+  "protagonist": {
+   "name": "Reyes Garrido",
+   "gender": "F",
+   "age": 63,
+   "country": "Spain (Cádiz)",
+   "job": "retired judge and carnival lyricist"
+  },
+  "otherCharacters": [
+   "Fali Camacho"
+  ]
+ },
+ "c2-02": {
+  "title": "La lonja del Mediomundo",
+  "titleEn": "The Drumhead from Mediomundo",
+  "level": "C2",
+  "emoji": "🥁",
+  "theme": "afro-latin",
+  "setting": "Montevideo (Barrio Sur and Palermo), Uruguay; late January to the Desfile de Llamadas in February, present day, with memories of the 1978 eviction.",
+  "logline": "Obdulio Pereyra, 72, a retired typographer who has played the piano drum in his comparsa's line for fifty years, finds a crack in the old drum he inherited from his father, made in the Mediomundo tenement before its demolition, days before the Llamadas. His daughter Mirtha, 45, a nurse, wants him to retire, and drum-maker el Cholo Larrosa will only repair it if Obdulio lets him see what is under the lining. Told largely through Obdulio's thoughts, the story reveals that his father wrote inside the drum the names of the families evicted from Mediomundo; the drum is rebuilt with the names intact, and Obdulio walks the Llamadas beside his granddaughter Abigail, who plays it.",
+  "wordTarget": [
+   1500,
+   1700
+  ],
+  "topics": [
+   {
+    "topic": "Free indirect speech",
+    "family": "Reported speech",
+    "notes": "A character's thoughts rendered in third-person past narration without verbs of saying: questions, exclamations, deictics (mañana, aquí) and the character's own vocabulary inside the narrator's voice. Obdulio's thoughts inside the narration. «¿Retirarse? ¿Él? Cincuenta años en la cuerda y ahora venía la nena a decirle lo que tenía que hacer.» «Mañana, sí, mañana lo llevaría al taller; hoy no.»"
+   },
+   {
+    "topic": "Ellipsis and fragments in narration",
+    "family": "Discourse & information structure",
+    "notes": "Verbless sentences, nominal fragments and gapped verbs for rhythm, tension or note-taking style; the reader recovers the missing verb from context. Rhythm of memory and drumming. «Cuero nuevo, aro nuevo. El sonido, el de siempre.» «¿El tambor? En el ropero. ¿La lonja? Rajada.»"
+   },
+   {
+    "topic": "Left dislocation and clitic doubling",
+    "family": "Pronouns & personal a",
+    "notes": "Topic first, pronoun after (A mi viejo lo sacaron…; Eso ya lo sabíamos), Rioplatense doubling of full direct objects (lo conocí a tu abuelo) and Andean invariable lo (esa carretera lo están ensanchando). Rioplatense topic-first syntax and doubling. «A mi viejo lo sacaron del conventillo en un camión.» «Lo conocí a tu abuelo en la calle Cuareim.» «Ese tambor ya lo vi yo con siete años.»"
+   },
+   {
+    "topic": "Afro-Hispanic lexicon and loanwords",
+    "family": "Dialect & language contact",
+    "notes": "Words of African origin or Afro-Latin use in context (candombe drums, Palenquero moná, ma plural, kuagro, lumbalú), glossed and used without exoticizing. Candombe vocabulary in use, not in a glossary. «La cuerda arrancó: chico, repique y piano.» «Templaron las lonjas al fuego en la vereda.» «Detrás venían la mama vieja, el gramillero y el escobero.»"
+   }
+  ],
+  "register": "Literary third-person narration with free indirect speech; Rioplatense dialogue; short passages of remembered 1970s speech.",
+  "dialect": "Montevidean Spanish: voseo and mixed tú + vos forms (tú sabés), ta (OK), bo, botija (kid), gurisa (girl), che; candombe lexicon.",
+  "idioms": [
+   "Quien canta su mal espanta: singing drives your troubles away",
+   "No hay mal que dure cien años: nothing bad lasts forever",
+   "dar en la tecla: to get it just right",
+   "tirar la toalla: to give up"
+  ],
+  "vocabFocus": "Candombe and the city: el candombe, la comparsa, la cuerda de tambores, el chico, el repique, el piano, la lonja, el tachón, el aro, templar, la fogata, el conventillo, el desalojo, la mama vieja, el gramillero, el escobero, el Desfile de Llamadas, la vereda",
+  "facts": [
+   "'Candombe and its socio-cultural space: a community practice' was inscribed by UNESCO in 2009 (UNESCO ICH).",
+   "Uruguay's Ley 18.059 (2006) made 3 December the Día Nacional del Candombe, la Cultura Afrouruguaya y la Equidad Racial (IMPO).",
+   "The Desfile de Llamadas runs through Barrio Sur and Palermo in February (Intendencia de Montevideo).",
+   "The Mediomundo (Barrio Sur) and Ansina (Palermo) tenements, centres of candombe, were demolished during the military dictatorship in the late 1970s (Uruguayan history; verify Mediomundo's exact year).",
+   "Candombe drums (chico, repique, piano) are traditionally tuned by heating the heads over a street fire (ethnomusicology)."
+  ],
+  "roleplay": {
+   "character": "Obdulio Pereyra",
+   "goal": "Listen to Obdulio's memories of Mediomundo and persuade him to let his granddaughter play the drum.",
+   "register": "Rioplatense voseo, colloquial and affectionate"
+  },
+  "scene": "Night street in Barrio Sur: a small fire on the pavement with drummers tuning; an old man in a white shirt on a doorstep with a big piano drum open, handwriting visible inside; a teenage girl adjusting a drum strap. Night blue, fire orange, comparsa green and white, old façades.",
+  "canDo": [
+   "C2-S3: I can retell a story vividly from another person's point of view, adapting register and regional colour.",
+   "C2-R1: I can read long literary narratives that use free indirect speech, ellipsis and shifting points of view, and tell whose voice and judgement each passage carries."
+  ],
+  "protagonist": {
+   "name": "Obdulio Pereyra",
+   "gender": "M",
+   "age": 72,
+   "country": "Uruguay",
+   "job": "retired typographer, drummer"
+  },
+  "otherCharacters": [
+   "Mirtha Pereyra",
+   "el Cholo Larrosa",
+   "Abigail"
+  ]
+ },
+ "c2-03": {
+  "title": "Domplines para un campocorto",
+  "titleEn": "Dumplings for a Shortstop",
+  "level": "C2",
+  "emoji": "⚾",
+  "theme": "afro-latin",
+  "setting": "A major-league baseball academy outside San Pedro de Macorís, Dominican Republic, and the town's streets during the guloya dances; late December to 15 January (international signing day), present day.",
+  "logline": "Anacleto Henderson, 58, head cook at a major-league academy near San Pedro de Macorís and grandson of cocolo sugar workers from the English-speaking islands, is told by the team's new nutritionist, Courtney Lamb from Arizona, that his food is why 16-year-old shortstop Wilkin Frías has lost four kilos three weeks before the 15 January signing day. The academy is ready to replace his yaniqueques, domplines and sancocho with an imported meal plan, but Anacleto, who reads plates the way scouts read swings, notices that Wilkin's tray always comes back clean. He finds the boy has been wrapping half of every meal in napkins for his brother Yeison, 14, who was cut from the tryouts and waits outside the fence; Anacleto gets Yeison a job in the kitchen, he and Courtney rewrite the menu together with her numbers and his recipes, and Wilkin, who very nearly lost his chance, signs on 15 January.",
+  "wordTarget": [
+   1550,
+   1750
+  ],
+  "topics": [
+   {
+    "topic": "Language contact: code-switching and loans",
+    "family": "Dialect & language contact",
+    "notes": "Spanish in contact with Limonese Creole English or Guaraní: switches, discourse particles (che, -na, luego), loanwords and what they signal about identity and audience. Spanish in contact with American English at the academy (el tryout, el bono, firmar, el weight room) and with the cocolo English of Anacleto's grandmother; loans such as yaniqueque (johnnycake) and domplín (dumpling), and what each switch says about audience and identity. «Coach, el muchacho no está comiendo poco, he's eating for two.» «Mi abuela decía 'Mind yuh business' y seguía amasando.» «Courtney, this is not a pancake: es un yaniqueque.»"
+   },
+   {
+    "topic": "Colloquial subjunctive formulas: ni que fuera, que yo sepa",
+    "family": "Subjunctive",
+    "notes": "Fixed subjunctive formulas in speech: ¡ni que fuera…!, que yo sepa, como quien no quiere la cosa, que digamos, sea como sea. Kitchen talk full of fixed subjunctive formulas. «¿Que mi comida lo adelgaza? ¡Ni que le estuviera sirviendo agua!» «Que yo sepa, aquí nadie se ha muerto de un domplín.» «Sea como sea, el 15 firma.» «Se lo dejó caer, como quien no quiere la cosa: el hermano seguía afuera.»"
+   },
+   {
+    "topic": "Por poco, por poco que",
+    "family": "Subjunctive",
+    "notes": "por poco + present indicative for a near miss in the past (por poco se me cae), por poco que + subjunctive (however little), con lo que + indicative (considering how much). Near misses around the signing. «Por poco lo mandan a casa por bajo peso.» «Por poco que coma, debería mantener el peso.» «Con lo que entrena ese muchacho, no puede estar comiendo tan poco.»"
+   },
+   {
+    "topic": "Irony, understatement and litotes",
+    "family": "Register & style",
+    "notes": "Saying less than one means (no está nada mal, poco original), ironic praise, and their signals (digamos, con modestia ejemplar). Anacleto's dry narration of charts, macros and the scouts' jargon. «No está nada mal, para una dieta que nunca ha visto un plátano.» «La nutricionista, con modestia ejemplar, le explicó la proteína a un hombre que lleva treinta años cocinando para atletas.»"
+   }
+  ],
+  "register": "An academy nutrition report and WhatsApp messages in a mix of English and Spanish, contrasted with Anacleto's ironic first-person narration and the boys' fast Dominican banter; usted with the director and older staff, tú with the boys.",
+  "dialect": "Dominican Spanish of the east: aspirated or dropped -s, -r/-l neutralisation in some speakers, vaina, tíguere (streetwise guy), chin (a little), ¿qué lo que?, jevi; academy English loans; Anacleto's grandmother's Eastern Caribbean English remembered in a few lines (to be checked by a speaker), glossed.",
+  "idioms": [
+   "estar en olla (Dominican): to be broke",
+   "ponerse para su número (Dominican): to concentrate on what matters",
+   "más vale prevenir que lamentar: better safe than sorry",
+   "no es lo mismo llamar al diablo que verlo llegar: talk is cheap until trouble arrives"
+  ],
+  "vocabFocus": "Academy kitchen and baseball: el comedor, la bandeja, la porción, el sancocho, el yaniqueque, el domplín, la masa, el caldero, la proteína, el plan de comidas, el peso, la báscula, el prospecto, el campocorto, el buscador (scout), el bono de firma, la prueba (tryout), la cerca, el ingenio",
+  "facts": [
+   "The cocolos are descendants of workers from the English-speaking Lesser Antilles who came to San Pedro de Macorís's sugar mills from the late 19th century (El Día, 'Peloteros de Grandes Ligas y Guloyas: legado de los cocolos'; Wikipedia 'San Pedro de Macorís') – verify the start date of the migration.",
+   "UNESCO proclaimed the Cocolo dance drama tradition (the guloyas) of San Pedro de Macorís a Masterpiece of the Oral and Intangible Heritage of Humanity in 2005 (DR1 news 2005; Acento); the guloyas dance in the streets on 25 December and 1 and 6 January, when the town 'smells of cane and guavaberry' (Diario Libre).",
+   "San Pedro de Macorís is known as a 'cuna de peloteros': a local sports chronicler counts 114 major-league players born there (El Día); the Museo del Pelotero Petromacorisano opened recently (El Caribe) – figures vary by source and date, so the text should avoid exact numbers.",
+   "International players can sign with MLB teams between 15 January and 15 December and must turn 16 before signing; teams place new signees in their Dominican academies (MLB.com 2019–2026). The team in the story is invented and never named.",
+   "Yaniqueque is widely linked to the johnnycake brought by English-speaking Caribbean migrants, with competing folk etymologies (Sabores Dominicanos; Dominican Cooking); domplín < dumpling – verify in the Diccionario del español dominicano before glossing."
+  ],
+  "roleplay": {
+   "character": "Courtney Lamb",
+   "goal": "Persuade the nutritionist to keep Dominican dishes in the plan, conceding her points about protein and portions, and agree a joint menu for the last two weeks.",
+   "register": "usted at first, moving to tú; mixing in English terms the way academy staff do"
+  },
+  "scene": "Academy kitchen at noon: Anacleto in a white apron lifting the lid of a big caldero, Courtney with a tablet showing a chart, Wilkin in a training shirt holding a tray; through the window a chain-link fence, a younger boy outside, and a guloya dancer's bright costume passing in the street. White, sky-blue and sugar-cane green with orange and red accents.",
+  "canDo": [
+   "C2-S2: I can convey fine shades of stance (certainty, doubt, concession, irony) through mood choice, conjecture tenses and hedging.",
+   "C2-R3: I can recognise irony, understatement, litotes and rhetorical devices, and explain the implicit meaning and the writer's attitude."
+  ],
+  "protagonist": {
+   "name": "Anacleto Henderson",
+   "gender": "M",
+   "age": 58,
+   "country": "Dominican Republic",
+   "job": "head cook at a baseball academy"
+  },
+  "otherCharacters": [
+   "Courtney Lamb",
+   "Wilkin Frías",
+   "Yeison Frías"
+  ]
+ },
+ "c2-04": {
+  "title": "La copla de Tocaña",
+  "titleEn": "The Verse from Tocaña",
+  "level": "C2",
+  "emoji": "🌿",
+  "theme": "afro-latin",
+  "setting": "Tocaña and Coroico (Nor Yungas, La Paz department), Bolivia; rainy season, present day.",
+  "logline": "Simona Angola, 29, an Afro-Bolivian civil engineer who grew up in Tocaña and now works for the departmental roads service, comes home to supervise the widening of the road, and finds a new saya copla going round that mocks the project and, without naming her, mocks her. Everyone knows the coplas are sung by the elder Jacinta Barra, 77, but Jacinta says she did not write this one. Tracing a technical word in the verse that only an insider would know, Simona finds that Jacinta did write it, with help from the site's own drainage foreman, and that the copla warns, correctly, that the planned drain will flood the old cemetery; Simona redesigns the drainage, and the next copla praises her, with a sting in the tail.",
+  "wordTarget": [
+   1550,
+   1750
+  ],
+  "topics": [
+   {
+    "topic": "Left dislocation and clitic doubling",
+    "family": "Pronouns & personal a",
+    "notes": "Topic first, pronoun after (A mi viejo lo sacaron…; Eso ya lo sabíamos), Rioplatense doubling of full direct objects (lo conocí a tu abuelo) and Andean invariable lo (esa carretera lo están ensanchando). Andean topic-first syntax and clitics (used by older speakers, never as caricature). «A la Jacinta yo no la vi cantar esa copla.» «Esa carretera ya lo están ensanchando, dice.»"
+   },
+   {
+    "topic": "Diminutives and augmentatives: pragmatics",
+    "family": "Word formation",
+    "notes": "-ito/-ita, Andean -ito for politeness, Asturian -ín/-ina, -ón/-ota and -ucho for affection, irony, softening or contempt; the suffix as stance, not size. Politeness and irony through suffixes. «Un ratito nomás, hijita, ya está el cafecito.» «¡Qué obrita la del ingeniero!» «¿Y esa carreterota para quién es?»"
+   },
+   {
+    "topic": "Marking the source: dizque, ndaje, había sido",
+    "family": "Reported speech",
+    "notes": "Evidential strategies: hearsay dizque/dice que, Guaraní ndaje in Paraguayan Spanish, Andean mirative pluperfect (¡había sido verdad!), según parece. Source and surprise. «¡Había sido verdad lo del cementerio!» «Dizque la copla la había escrito alguien de La Paz.» «Va a llover, dice.»"
+   },
+   {
+    "topic": "Rhetorical devices: anaphora, rhetorical questions, tricolon",
+    "family": "Register & style",
+    "notes": "Persuasive and poetic patterning in speeches and coplas: repeated openings, questions answered by the speaker, groups of three. The coplas themselves and Simona's speech to the community. «¿Para quién es el camino? ¿Para quién es el cemento? Para el que pasa corriendo, no para el que está durmiendo.» (anaphora, rhetorical questions)"
+   }
+  ],
+  "register": "Sung coplas (oral poetry), engineering report and departmental memo, Andean colloquial dialogue.",
+  "dialect": "Bolivian Yungas Spanish with Andean features (nomás, pues, dice reportative, había sido mirative, pervasive diminutives, clitic doubling); Aymara loans (aguayo, chuspa). Afro-Yungueño speech features used lightly and only after review by community speakers.",
+  "idioms": [
+   "El que avisa no es traidor: forewarned is forearmed",
+   "Más vale prevenir que curar: better safe than sorry",
+   "Cada loco con su tema: everyone has their hobby-horse",
+   "A la fuerza ni los zapatos entran: you can't force things"
+  ],
+  "vocabFocus": "Roads, landscape and saya: la saya, la copla, el tambor, la cuancha, el caporal, la carretera, el ensanche, el talud, el drenaje, la cuneta, el derrumbe, la mazamorra, el cementerio, el cocal, el cafetal, la neblina, el aguayo, el expediente técnico",
+  "facts": [
+   "Bolivia's 2009 Constitution recognises the Afro-Bolivian people (Constitución Política del Estado, arts. 3 and 32).",
+   "The saya afroboliviana is the music and dance of Afro-Bolivian communities in the Yungas, with sung coplas and drums; the caporal dance draws on its figure of the overseer (ethnomusicology; verify the heritage law number before citing one).",
+   "Tocaña, Chicaloma and Mururata are Afro-Bolivian communities in the Yungas (ethnographic sources).",
+   "The old North Yungas road ('Camino de la Muerte') was largely replaced for traffic by a new road in the late 2000s (Bolivian roads authority; verify year)."
+  ],
+  "roleplay": {
+   "character": "Doña Jacinta Barra",
+   "goal": "Ask her, respectfully and with humour, who wrote the copla and what it really means.",
+   "register": "usted with Andean politeness and diminutives"
+  },
+  "scene": "Misty green mountainside with terraces of coca and coffee; a village plaza with saya dancers in white and red, an elder woman singing beside a drummer, Simona in a hard hat with a rolled plan under her arm. Emerald green, white mist, red-white-green costumes.",
+  "canDo": [
+   "C2-S3: I can retell a story vividly from another person's point of view, adapting register and regional colour.",
+   "C2-R3: I can recognise irony, understatement, litotes and rhetorical devices, and explain the implicit meaning and the writer's attitude."
+  ],
+  "protagonist": {
+   "name": "Simona Angola",
+   "gender": "F",
+   "age": 29,
+   "country": "Bolivia",
+   "job": "civil engineer"
+  },
+  "otherCharacters": [
+   "Jacinta Barra"
+  ]
+ },
+ "c2-05": {
+  "title": "Demasiado perfecta",
+  "titleEn": "Too Perfect",
+  "level": "C2",
+  "emoji": "🏺",
+  "theme": "history",
+  "setting": "Joya de Cerén archaeological site and San Salvador, El Salvador; rainy season, present day.",
+  "logline": "Neftalí Chicas, 64, custodian at Joya de Cerén for thirty years, sees an online post offering an intact Classic-period pot 'from Cerén' to foreign collectors, and the next morning a national paper reports that the site has probably been looted, on his watch. His former student, archaeologist Yesenia Alas, writes the official report while the press speculates; Neftalí, who knows every hollow of the site, suspects the pot never came out of the ash. Field memory and academic method together show it is a replica made for the site's own education programme and stolen from a storeroom; the report corrects the press, and the paper corrects itself, on page 14.",
+  "wordTarget": [
+   1600,
+   1800
+  ],
+  "topics": [
+   {
+    "topic": "Ellipsis and fragments in narration",
+    "family": "Discourse & information structure",
+    "notes": "Verbless sentences, nominal fragments and gapped verbs for rhythm, tension or note-taking style; the reader recovers the missing verb from context. Neftalí's clipped, observational narration. «¿Saqueo? ¿En Cerén? Treinta años, cada mañana, el mismo sendero.» «La olla, perfecta. Demasiado perfecta.»"
+   },
+   {
+    "topic": "Quizá, tal vez, a lo mejor: mood and certainty",
+    "family": "Subjunctive",
+    "notes": "quizá/tal vez + subjunctive (less likely) vs + indicative (more likely), a lo mejor and igual (always indicative), ojalá + present vs imperfect subjunctive for degrees of hope. Weighing hypotheses. «Quizá la hayan sacado de otro sitio.» versus «Quizá tiene razón el periódico.» «A lo mejor es una réplica.» «Ojalá sea falsa.»"
+   },
+   {
+    "topic": "Journalistic conditional: habría + participle",
+    "family": "Conditionals & si-clauses",
+    "notes": "The conditional of rumour in news reports to signal unconfirmed information (la pieza habría sido extraída, según fuentes…) and how a careful writer retracts it. The news reports. «Según fuentes del ministerio, la pieza habría sido extraída del sitio durante la noche.» «El custodio habría permitido el acceso.»"
+   },
+   {
+    "topic": "Academic register: impersonal hedging",
+    "family": "Register & style",
+    "notes": "Impersonal, hedged academic prose (cabe señalar, se constata, los datos apuntan a, cabe la posibilidad de que + subjunctive) contrasted with the characters' speech. Yesenia's report. «Cabe señalar que no se constatan alteraciones en la estratigrafía.» «Los datos disponibles apuntan a una manufactura reciente.»"
+   }
+  ],
+  "register": "News articles and a correction notice, an archaeological report, Salvadoran colloquial with voseo.",
+  "dialect": "Salvadoran Spanish: voseo (vos sabés, vení), cipote (kid), chivo (cool), bicho, pupusa; usted with superiors.",
+  "idioms": [
+   "Ver para creer: seeing is believing",
+   "Cada quien jala agua para su molino: everyone looks after their own interests",
+   "De lo que veas, cree la mitad: believe half of what you see",
+   "Hablar más que un perico: to talk too much"
+  ],
+  "vocabFocus": "Archaeology and the press: el yacimiento, la estratigrafía, la ceniza volcánica, la tefra, la erupción, el saqueo, la réplica, la cerámica policromada, la pieza, la custodia, la ficha de inventario, el peritaje, la denuncia, el titular, la fe de erratas, el comunicado, la milpa",
+  "facts": [
+   "Joya de Cerén, a farming village buried by the Loma Caldera eruption around AD 600, was inscribed as a UNESCO World Heritage Site in 1993 and is often called the 'Pompeii of the Americas' (UNESCO WHC).",
+   "The site was found by accident in 1976 during earthworks; systematic excavation began in 1978 under Payson Sheets (site histories).",
+   "Excavations have documented household objects, buildings and cultivated fields (maize, manioc) preserved under volcanic ash (archaeological publications)."
+  ],
+  "roleplay": {
+   "character": "Neftalí Chicas",
+   "goal": "Interview the custodian as a journalist, separating what he knows from what he suspects.",
+   "register": "usted, journalistic; he slips into vos"
+  },
+  "scene": "Cerén site under protective metal roofs, adobe structures and layered ash in the trench walls; an older man in a khaki uniform holding a phone with a photo of a pot, a young woman archaeologist with a tablet and trowel. Ash grey, earth ochre, tin roofs, young maize.",
+  "canDo": [
+   "C2-S2: I can convey fine shades of stance (certainty, doubt, concession, irony) through mood choice, conjecture tenses and hedging.",
+   "C2-R1: I can read long literary narratives that use free indirect speech, ellipsis and shifting points of view, and tell whose voice and judgement each passage carries."
+  ],
+  "protagonist": {
+   "name": "Neftalí Chicas",
+   "gender": "M",
+   "age": 64,
+   "country": "El Salvador",
+   "job": "archaeological site custodian"
+  },
+  "otherCharacters": [
+   "Yesenia Alas"
+  ]
+ },
+ "c2-06": {
+  "title": "El príncipe de bronce",
+  "titleEn": "The Bronze Prince",
+  "level": "C2",
+  "emoji": "🎸",
+  "theme": "afro-latin",
+  "setting": "Yanga (formerly San Lorenzo de los Negros) and Córdoba, Veracruz, Mexico; the weeks before the town's anniversary fandango, present day.",
+  "logline": "Ruperto Lagunes, 61, a retired history teacher, jaranero and Yanga's honorary town chronicler, is asked by the municipal culture director, Omar Pitalúa, to sign the text of a new bronze plaque that calls Yanga 'a prince of Gabon who founded in 1609 the first free town in the Americas', a version a viral video has already spread across the country. Ruperto knows the fandango sings the prince, but the colonial record he trusts speaks of a maroon leader, a Spanish campaign in 1609 and a town of free Black people recognised years later, and his old master, the versador don Fidencio Cházaro, 84, tells him that a town that needs a prince has not understood its own story. Ruperto rewrites the plaque so that the bronze records only what the documents say and leaves the legend to the décimas, and on the anniversary night don Fidencio sings both versions on the tarima, the legend and the record, to a square that applauds them equally.",
+  "wordTarget": [
+   1600,
+   1800
+  ],
+  "topics": [
+   {
+    "topic": "Journalistic conditional: habría + participle",
+    "family": "Conditionals & si-clauses",
+    "notes": "The conditional of rumour in news reports to signal unconfirmed information (la pieza habría sido extraída, según fuentes…) and how a careful writer retracts it. The viral video, a regional paper and the municipal press release repeat the legend with the conditional of rumour, and Ruperto's rewritten text strips it out. «Yanga habría sido príncipe del Gabón, según la tradición oral.» «El pueblo habría sido fundado en 1609, de acuerdo con fuentes municipales.» «Según el video, la corona habría llegado con él en el barco.»"
+   },
+   {
+    "topic": "Literary -ra and pretérito anterior",
+    "family": "Past tenses",
+    "notes": "-ra forms with pluperfect value in journalistic/literary prose (quien fuera alcalde, la que fuera su casa) and the pretérito anterior (apenas hubo terminado). Ruperto's chronicle and the old printed histories use literary -ra with pluperfect value and the pretérito anterior. «San Lorenzo, el que fuera pueblo de cimarrones, cambió de nombre en 1932.» «Apenas hubo leído el borrador, Ruperto pidió una pluma roja.» «Don Fidencio, quien fuera su maestro de jarana, lo esperaba en el portal.»"
+   },
+   {
+    "topic": "Concessive and conjectural future and conditional",
+    "family": "Conditionals & si-clauses",
+    "notes": "Future/conditional of conjecture woven into narration and their concessive use (será muy famoso, pero…; tendría razón, pero…), beyond B2's single-sentence conjecture. Concessive conjecture in Ruperto's thinking about the legend. «Sería príncipe o no, pero cimarrón lo fue.» «Tendrá razón el video en lo del orgullo; en las fechas, no.» «¿Qué habría pensado Yanga de una placa de bronce?»"
+   },
+   {
+    "topic": "Proverbs and truncated refranes",
+    "family": "Vocabulary & idiom",
+    "notes": "Proverbs quoted whole, cut short for the listener to complete (quien roba a un ladrón…) or twisted for irony. Fandango refranes, quoted whole, truncated or twisted. «Del dicho al hecho…, y del hecho a la placa, más todavía.» «Cada quien habla de la feria según le va en ella.» «No por mucho madrugar…, dijo don Fidencio, y no terminó el refrán.»"
+   }
+  ],
+  "register": "A municipal press release, a viral video script and the plaque's draft wording in formal written Spanish, Ruperto's literary town chronicle, and the free, proverb-rich talk of the fandango; usted with don Fidencio and the director, tú with fellow musicians.",
+  "dialect": "Veracruz (Sotavento) Spanish: aspirated -s, jarocho vocabulary (la tarima, la jarana, el requinto, el zapateado, el versador, el son), ¡ándale!, mano/manito, chamaco; décimas and coplas in fandango style, glossed.",
+  "idioms": [
+   "del dicho al hecho hay mucho trecho: easier said than done",
+   "cada quien habla de la feria según le va en ella: everyone sees things from their own experience",
+   "no por mucho madrugar amanece más temprano: rushing doesn't make things happen sooner",
+   "echar la sal (Mexico): to jinx something"
+  ],
+  "vocabFocus": "Public history and the fandango: la placa, el bronce, el borrador, el cronista, el acta de cabildo, el documento, la leyenda, el cimarrón, el palenque, la fundación, la tarima, la jarana, el requinto, el zapateado, la décima, el versador, el fandango, el portal",
+  "facts": [
+   "Gaspar Yanga led a maroon community near Córdoba (Veracruz); the Spanish sent an expedition against it in 1609, and a town of free Black people, San Lorenzo de los Negros (de Cerralvo), was later recognised; sources give 1618, c. 1630 or 1632 (Wikipedia 'Gaspar Yanga'; JSTOR Daily; Crónicas de Córdoba no. 6, 2017) – the story must not present one date as certain.",
+   "San Lorenzo de los Negros was renamed Yanga in 1932 (JSTOR Daily; Wikipedia 'Gaspar Yanga').",
+   "The claim that Yanga was a royal of the Bran people from present-day Gabon is popular tradition, not documented (CounterPunch 2018; BlackPast); an INAH bulletin (2024, no. 39) on a new book notes that strictly speaking Yanga was not the founder of San Lorenzo Cerralvo – verify the exact wording. The Jesuit chronicle of Andrés Pérez de Ribas (1645) as the source of 'de nación bran' – verify, not confirmed in this check.",
+   "Son jarocho is an Afro-diasporic music and dance culture traced to the 17th-century Sotavento of southern Veracruz; in a fandango musicians with jaranas, requinto, harp and pandero play around a wooden tarima on which dancers stamp (University of Arizona CLAS; SEP Nueva Escuela Mexicana).",
+   "The Encuentro de Jaraneros y Decimeros has been held in Tlacotalpan during the Candelaria festivities since 1979 (UNAM, Archipiélago) – background only. The date of Yanga's anniversary festivities was not confirmed: keep it as 'the town's anniversary' or verify with the municipality."
+  ],
+  "roleplay": {
+   "character": "Omar Pitalúa",
+   "goal": "Convince the culture director to change the plaque's wording without humiliating him or the town's pride, offering a version that keeps the legend in the celebration and the facts in the bronze.",
+   "register": "usted, formal and diplomatic, with Mexican politeness formulas"
+  },
+  "scene": "Night fandango on Yanga's square: a wooden tarima with two women dancing, Ruperto with a jarana, don Fidencio in a white guayabera singing with his eyes closed, the statue of Yanga lit behind them and a covered bronze plaque on a stand. Indigo night, warm yellow lamps, white clothes, bronze and red accents.",
+  "canDo": [
+   "C2-S2: I can convey fine shades of stance (certainty, doubt, concession, irony) through mood choice, conjecture tenses and hedging.",
+   "C2-R2: I can read legal, academic and journalistic texts embedded in a story (court records, contracts, papers, news reports) and judge how reliable and committed each source is."
+  ],
+  "protagonist": {
+   "name": "Ruperto Lagunes",
+   "gender": "M",
+   "age": 61,
+   "country": "Mexico",
+   "job": "retired history teacher and town chronicler"
+  },
+  "otherCharacters": [
+   "Omar Pitalúa",
+   "Fidencio Cházaro"
+  ]
+ },
+ "c2-07": {
+  "title": "Ndaje",
+  "titleEn": "So They Say",
+  "level": "C2",
+  "emoji": "⚖️",
+  "theme": "mystery",
+  "setting": "A criminal court in Asunción and a sugar-cane farming area in Paraguarí department, Paraguay; present day.",
+  "logline": "Perla Benítez, 47, a sworn Guaraní–Spanish court interpreter in Asunción, is called in when the trial of Derlis Cañete, accused of setting fire to a neighbour's cane field, hinges on an elderly witness who speaks only Guaraní. The police translation says the witness 'saw' Derlis by the field, but in the recording Perla hears a small word the transcript left out: ndaje, 'so they say'. She must convince a sceptical prosecutor, Osmar Villalba, and the court that one particle separates a witness from a rumour, and then she traces the rumour back to the neighbour's own sugar-mill, where a spark started the fire.",
+  "wordTarget": [
+   1650,
+   1850
+  ],
+  "topics": [
+   {
+    "topic": "Legal register and the future subjunctive",
+    "family": "Register & style",
+    "notes": "Legal-administrative formulas (por la presente, en virtud de, el abajo firmante) and the future subjunctive in statutes, contracts and proverbs (quien faltare, si así no lo hiciere, adonde fueres). Court formulas and the old-style warning read to witnesses. «Quien faltare a la verdad en su declaración incurrirá en falso testimonio.» «En virtud de lo dispuesto, se procede a la lectura del acta.»"
+   },
+   {
+    "topic": "Absolute constructions: terminada la audiencia",
+    "family": "Discourse & information structure",
+    "notes": "Participle (and gerund) clauses with their own subject for formal sequencing: leída el acta, firmado el acuerdo, una vez traducida la frase. Procedural sequencing. «Leída el acta, el juez concedió la palabra a la defensa.» «Terminada la audiencia, Perla se quedó sola con la grabación.» «Una vez traducida la frase, nadie dijo nada.»"
+   },
+   {
+    "topic": "Language contact: code-switching and loans",
+    "family": "Dialect & language contact",
+    "notes": "Spanish in contact with Limonese Creole English or Guaraní: switches, discourse particles (che, -na, luego), loanwords and what they signal about identity and audience. Paraguayan Spanish shaped by Guaraní. «—Che ra'a, ¿vos lo viste o te contaron?» «Vení-na un ratito.» «Mba'éichapa, ña Gumersinda.»"
+   },
+   {
+    "topic": "Marking the source: dizque, ndaje, había sido",
+    "family": "Reported speech",
+    "notes": "Evidential strategies: hearsay dizque/dice que, Guaraní ndaje in Paraguayan Spanish, Andean mirative pluperfect (¡había sido verdad!), según parece. The whole plot turns on the source of knowledge. «Ndaje, dijo ella: “dicen que”.» «Dizque lo vieron con un bidón.» «Según parece, nadie lo vio realmente.»"
+   }
+  ],
+  "register": "Courtroom Spanish and legal formulas, Perla's precise interpreter's notes, rural jopará dialogue.",
+  "dialect": "Paraguayan Spanish with voseo (vos sabés), Guaraní particles and loans (che 'my', -na softener, ña 'Mrs', mba'éichapa 'how are you'); Guaraní lines glossed and to be checked by a Guaraní speaker.",
+  "idioms": [
+   "Hablar por boca de ganso: to repeat what others say",
+   "Cuando el río suena, piedras trae: there's no smoke without fire",
+   "Poner las manos en el fuego por alguien: to vouch for someone completely",
+   "Del dicho al hecho hay mucho trecho: easier said than done"
+  ],
+  "vocabFocus": "Courtroom and countryside: el juicio oral, la audiencia, el tribunal, el fiscal, la defensa, el acusado, el testigo, la declaración, el acta, la intérprete jurada, la transcripción, el falso testimonio, el incendio intencional, el cañaveral, el trapiche, la prueba testimonial, el rumor, la absolución",
+  "facts": [
+   "Guaraní is an official language of Paraguay alongside Spanish (Constitución Nacional 1992, art. 140; Ley de Lenguas 4251/2010).",
+   "Ndaje is a Guaraní reportative particle ('it is said'), also used in Paraguayan Spanish (linguistic literature, e.g., Döhla & Hennemann on ndaje).",
+   "Jopará is the everyday mixing of Guaraní and Spanish (Paraguayan sociolinguistics).",
+   "Paraguay uses oral, adversarial criminal trials under its Código Procesal Penal of 1998 (verify before citing details)."
+  ],
+  "roleplay": {
+   "character": "Fiscal Osmar Villalba",
+   "goal": "Explain to the prosecutor, precisely and formally, why the translation must be corrected and what ndaje means.",
+   "register": "formal usted, legal"
+  },
+  "scene": "Wood-panelled courtroom with ceiling fans: Perla in headphones with a laptop showing an audio waveform, an elderly witness in a flowered dress, the judge's bench with the Paraguayan flag, a photo of a burnt cane field on an evidence board. Mahogany, red-white-blue, cane green.",
+  "canDo": [
+   "C2-S1: I can argue a case before a demanding audience, anticipating objections and using rhetorical devices effectively.",
+   "C2-R2: I can read legal, academic and journalistic texts embedded in a story (court records, contracts, papers, news reports) and judge how reliable and committed each source is."
+  ],
+  "protagonist": {
+   "name": "Perla Benítez",
+   "gender": "F",
+   "age": 47,
+   "country": "Paraguay",
+   "job": "court interpreter"
+  },
+  "otherCharacters": [
+   "Derlis Cañete",
+   "Osmar Villalba",
+   "Gumersinda"
+  ]
+ },
+ "c2-08": {
+  "title": "La última palabra de Ma Petrona",
+  "titleEn": "Ma Petrona's Last Word",
+  "level": "C2",
+  "emoji": "🗣️",
+  "theme": "afro-latin",
+  "setting": "San Basilio de Palenque and Cartagena de Indias, Colombia; present day.",
+  "logline": "Dorina Salgado, 32, a linguist at a Cartagena university who grew up in San Basilio de Palenque, cannot stop thinking about the last word her grandmother Petrona said before she died, a Palenquero word nobody in the family recognises. She suspects a Kikongo root and asks a visiting Congolese linguist, Kiese Mbemba, for help, while her uncle Evaristo Cassiani, a respected member of his kuagro, insists the word is not for academics. The answer is social, not etymological: the word was the old name of Petrona's kuagro, a call to come back; Dorina understands that the message was for her and takes a post teaching Palenquero at the village school.",
+  "wordTarget": [
+   1650,
+   1850
+  ],
+  "topics": [
+   {
+    "topic": "Afro-Hispanic lexicon and loanwords",
+    "family": "Dialect & language contact",
+    "notes": "Words of African origin or Afro-Latin use in context (candombe drums, Palenquero moná, ma plural, kuagro, lumbalú), glossed and used without exoticizing. Palenquero words in Spanish narration, glossed in context. «En palenquero, moná es “niño”, y ma marca el plural: ma moná.» «Ese kuagro era el de su mamá.» «Lumbalú, bullerengue, champeta: palabras que Dorina oyó antes que la palabra “fonema”.»"
+   },
+   {
+    "topic": "Quizá, tal vez, a lo mejor: mood and certainty",
+    "family": "Subjunctive",
+    "notes": "quizá/tal vez + subjunctive (less likely) vs + indicative (more likely), a lo mejor and igual (always indicative), ojalá + present vs imperfect subjunctive for degrees of hope. The linguist's uncertainty. «Tal vez la palabra venga del kikongo; tal vez no venga de ninguna parte.» «A lo mejor la abuela solo deliraba.» «Quizá Evaristo tenía razón.»"
+   },
+   {
+    "topic": "Concessive and conjectural future and conditional",
+    "family": "Conditionals & si-clauses",
+    "notes": "Future/conditional of conjecture woven into narration and their concessive use (será muy famoso, pero…; tendría razón, pero…), beyond B2's single-sentence conjecture. Questions and concessions. «¿Qué habrá querido decir?» «Tendría sus dudas, pero no las dijo.» «Será académica, pero sigue siendo nieta.»"
+   },
+   {
+    "topic": "Academic register: impersonal hedging",
+    "family": "Register & style",
+    "notes": "Impersonal, hedged academic prose (cabe señalar, se constata, los datos apuntan a, cabe la posibilidad de que + subjunctive) contrasted with the characters' speech. Dorina's draft paper versus her life. «Cabe la posibilidad de que se trate de un préstamo del kikongo.» «Los datos sugieren un uso restringido al ámbito del kuagro.»"
+   }
+  ],
+  "register": "Academic abstract and field notes, Caribbean Colombian colloquial, short glossed Palenquero phrases.",
+  "dialect": "Caribbean Colombian Spanish (s-aspiration in the audio, ajá, ¿qué más?, vaina), tú and usted; Palenquero lexicon (moná, ma, kuagro, ngombe, lumbalú). All Palenquero lines to be checked by a Palenquero speaker or teacher.",
+  "idioms": [
+   "El que nace pa' tamal, del cielo le caen las hojas (Caribbean Colombia): you can't escape your destiny",
+   "No hay peor sordo que el que no quiere oír: none so deaf as those who will not hear",
+   "Hablando se entiende la gente: talking things through solves problems",
+   "Volver por sus fueros: to return to one's old ways or rights"
+  ],
+  "vocabFocus": "Language and community: la lengua criolla, el palenquero, el préstamo léxico, la etimología, la raíz, el sustrato, el kikongo, el hablante nativo, la revitalización, la etnoeducación, el kuagro, el lumbalú, el velorio, el cimarrón, el palenque, la grabación de campo, la transcripción, la glosa",
+  "facts": [
+   "The cultural space of San Basilio de Palenque was proclaimed a Masterpiece of the Oral and Intangible Heritage of Humanity by UNESCO in 2005 (inscribed on the Representative List in 2008) (UNESCO ICH).",
+   "Palenque was founded by cimarrones (maroons); its history is associated with the leader Benkos Biohó, whose statue stands in the plaza (Colombian historiography).",
+   "Palenquero is a Spanish-based creole with a Kikongo substrate; about 300 words of African origin are documented, including moná 'child', and the plural marker ma (Schwegler; Moñino & Schwegler 2002).",
+   "The kuagro (age-group organisation) and the lumbalú funeral ritual are central to Palenque's social life (UNESCO nomination file).",
+   "Palenquero is taught in the local school through ethno-education programmes (Colombian Ministry of Education; keep general)."
+  ],
+  "roleplay": {
+   "character": "Evaristo Cassiani",
+   "goal": "Persuade him to share what he knows about the word, showing respect for community knowledge over academic curiosity.",
+   "register": "usted, Caribbean Colombian, respectful"
+  },
+  "scene": "Dusk on a dirt street in Palenque near the plaza with the Benkos Biohó statue: Dorina with a recorder and notebook sitting on wooden chairs beside an older man, a tall visitor listening, drums leaning against a whitewashed wall. Warm orange dusk, whitewash, green and red accents.",
+  "canDo": [
+   "C2-S2: I can convey fine shades of stance (certainty, doubt, concession, irony) through mood choice, conjecture tenses and hedging.",
+   "C2-R4: I can understand regional and contact varieties in writing (Rioplatense, Andean, Andalusian, Paraguayan, Afro-Hispanic lexicon, Caribbean English and Guaraní loans) using context and notes."
+  ],
+  "protagonist": {
+   "name": "Dorina Salgado",
+   "gender": "F",
+   "age": 32,
+   "country": "Colombia",
+   "job": "linguist"
+  },
+  "otherCharacters": [
+   "Petrona",
+   "Kiese Mbemba",
+   "Evaristo Cassiani"
+  ]
+ },
+ "c2-09": {
+  "title": "Lo que trajo el Crimea",
+  "titleEn": "What the Crimea Brought Back",
+  "level": "C2",
+  "emoji": "🎞️",
+  "theme": "history",
+  "setting": "Gijón (Cimadevilla), Asturias, Spain; 2019, with memories of 1937 (evacuation) and 1956 (return).",
+  "logline": "Covadonga Llaneza, 34, an ICU nurse in Gijón, inherits a box of cassette tapes from her great-aunt Nina, one of the 'children of Russia' evacuated to the Soviet Union in 1937, who returned in 1956 and never spoke about those twenty years. On one tape, between Asturian songs, a man's voice speaking Russian calls Nina 'mamochka', little mother, and the family's long silence turns into a question: did Nina leave a child behind? With a Russian-speaking colleague and the lists of the repatriation expeditions, Covadonga finds that 'Liosha' was an orphan Nina raised in a Soviet children's home; he is alive, 85, in Moscow, and the story ends with her phone call.",
+  "wordTarget": [
+   1700,
+   1900
+  ],
+  "topics": [
+   {
+    "topic": "Free indirect speech",
+    "family": "Reported speech",
+    "notes": "A character's thoughts rendered in third-person past narration without verbs of saying: questions, exclamations, deictics (mañana, aquí) and the character's own vocabulary inside the narrator's voice. Covadonga's thoughts merged with the narration. «¿Un hijo? ¿La tía Nina, que no dejaba que nadie le tocara la radio? No. Imposible. ¿O no?»"
+   },
+   {
+    "topic": "Diminutives and augmentatives: pragmatics",
+    "family": "Word formation",
+    "notes": "-ito/-ita, Andean -ito for politeness, Asturian -ín/-ina, -ón/-ota and -ucho for affection, irony, softening or contempt; the suffix as stance, not size. Three diminutive systems side by side. «—Ven, guapina, que te hago un cafetín.» (Asturian -ín/-ina) «Mamochka, decía la voz: mamaíta, madrecita.» «Una casina pequeña en Cimavilla.»"
+   },
+   {
+    "topic": "Por poco, por poco que",
+    "family": "Subjunctive",
+    "notes": "por poco + present indicative for a near miss in the past (por poco se me cae), por poco que + subjunctive (however little), con lo que + indicative (considering how much). Near misses in the search. «Por poco tira la caja de cintas al contenedor.» «Por poco que entendiera de ruso, aquella palabra la entendió.»"
+   },
+   {
+    "topic": "Literary -ra and pretérito anterior",
+    "family": "Past tenses",
+    "notes": "-ra forms with pluperfect value in journalistic/literary prose (quien fuera alcalde, la que fuera su casa) and the pretérito anterior (apenas hubo terminado). Literary narration of the past. «La que fuera su casa durante veinte años estaba en las afueras de Moscú.» «Apenas hubo terminado la cinta, volvió a ponerla.»"
+   }
+  ],
+  "register": "Literary narration with free indirect speech, 1950s documents and Red Cross-style lists, Asturian family dialogue (vosotros).",
+  "dialect": "Peninsular Spanish with vosotros and Asturian features: diminutive -ín/-ina, guaje (kid), me presta (I like it), chigre (bar), ho (vocative); Russian words glossed (mamochka, dacha).",
+  "idioms": [
+   "Ojos que no ven, corazón que no siente: what you don't know can't hurt you",
+   "Quien guarda, halla: waste not, want not",
+   "Agua pasada no mueve molino: let bygones be bygones",
+   "Cada casa es un mundo: every family is different"
+  ],
+  "vocabFocus": "Exile, memory and recordings: la evacuación, el refugiado, la casa de niños, el exilio, la repatriación, el barco, el puerto, la cinta de casete, el magnetófono, la nana, la grabación, el huérfano, la transliteración, la sidrería, el escanciador, el chigre, la UCI, el expediente",
+  "facts": [
+   "About 3,000 Spanish children were evacuated to the USSR in 1937–1938 during the Civil War, many from Asturias and the Basque Country (historiography of the 'niños de la guerra' / 'niños de Rusia').",
+   "Repatriation expeditions ran from 1956 to 1959, mostly aboard the ship Crimea to Valencia and Castellón (first arrival September 1956), the last to Almería in 1959; returnees included adults as well as former child evacuees (Cuadernos de Historia Contemporánea, 2016; regional studies).",
+   "Spanish evacuee children lived in Soviet 'casas de niños' (children's homes) (historiography).",
+   "The Asturian diminutive -ín/-ina is a regional feature in Asturian Spanish (dialectology)."
+  ],
+  "roleplay": {
+   "character": "Covadonga Llaneza",
+   "goal": "Ask her about the tapes and help her decide whether, and how, to call Moscow.",
+   "register": "tú, Peninsular Spanish with Asturian warmth"
+  },
+  "scene": "Small flat in Cimadevilla with a view of the grey Cantabrian Sea: a woman in hospital scrubs wearing headphones beside an old cassette recorder, a cardboard box of tapes and black-and-white photos of children in coats on a ship's deck, a Soviet tea-glass holder on the table. Grey-blue sea, warm lamp yellow, faded sepia.",
+  "canDo": [
+   "C2-S3: I can retell a story vividly from another person's point of view, adapting register and regional colour.",
+   "C2-R1: I can read long literary narratives that use free indirect speech, ellipsis and shifting points of view, and tell whose voice and judgement each passage carries."
+  ],
+  "protagonist": {
+   "name": "Covadonga Llaneza",
+   "gender": "F",
+   "age": 34,
+   "country": "Spain (Asturias)",
+   "job": "ICU nurse"
+  },
+  "otherCharacters": [
+   "Nina",
+   "Liosha"
+  ]
+ },
+ "c2-10": {
+  "title": "Panalivio",
+  "titleEn": "Panalivio",
+  "level": "C2",
+  "emoji": "🎤",
+  "theme": "afro-latin",
+  "setting": "Lima (a law office), El Carmen (Chincha, Ica) and Zaña (Lambayeque), Peru; May–June, ending on 4 June (Día de la Cultura Afroperuana), present day.",
+  "logline": "Zoila Lévano, 44, an intellectual-property lawyer in Lima, is hired by elders in El Carmen after an international dance hit samples, without credit, a field recording of a panalivio sung decades ago by don Anselmo Corzo, now 88. The label claims the recording is public-domain folklore collected by a foreign researcher in the 1970s and that nobody can prove who sang it. In a notebook kept at the Afro-Peruvian museum in Zaña, Zoila finds the researcher's field notes naming don Anselmo and the terms of his permission; the label settles and credits the singer and the community, and don Anselmo, unimpressed, asks only that they spell his name right.",
+  "wordTarget": [
+   1700,
+   1900
+  ],
+  "topics": [
+   {
+    "topic": "Legal register and the future subjunctive",
+    "family": "Register & style",
+    "notes": "Legal-administrative formulas (por la presente, en virtud de, el abajo firmante) and the future subjunctive in statutes, contracts and proverbs (quien faltare, si así no lo hiciere, adonde fueres). The 1970s release form, the lawyer's letter and the settlement. «Por la presente, el abajo firmante autoriza la grabación para fines de estudio.» «El que utilizare la obra sin autorización del autor responderá por los daños.» «En virtud de lo dispuesto en la ley de derecho de autor…»"
+   },
+   {
+    "topic": "Absolute constructions: terminada la audiencia",
+    "family": "Discourse & information structure",
+    "notes": "Participle (and gerund) clauses with their own subject for formal sequencing: leída el acta, firmado el acuerdo, una vez traducida la frase. Procedural narration. «Firmado el acuerdo, la discográfica emitió un comunicado.» «Vista la prueba, no cabía discusión.» «Muerto el investigador, nadie había reclamado nada.»"
+   },
+   {
+    "topic": "Mood for stance: aunque, el hecho de que, como",
+    "family": "Subjunctive",
+    "notes": "Subjunctive for known facts treated as irrelevant (aunque sea un sinvergüenza), el hecho de que + subjunctive or indicative, como + subjunctive as a threat/condition vs como + indicative as cause. Arguing stance in negotiation. «Aunque la canción sea un éxito en medio mundo, el panalivio es de don Anselmo.» «El hecho de que nadie lo haya reclamado no lo convierte en dominio público.» «Como no aparezca el cuaderno, perdemos.»"
+   },
+   {
+    "topic": "Rhetorical devices: anaphora, rhetorical questions, tricolon",
+    "family": "Register & style",
+    "notes": "Persuasive and poetic patterning in speeches and coplas: repeated openings, questions answered by the speaker, groups of three. Zoila's closing argument. «¿Quién cantó? Don Anselmo. ¿Quién lo grabó? Un extranjero con permiso. ¿Quién cobró? Ustedes.» «No pedimos caridad; pedimos un nombre, una firma y una deuda saldada.»"
+   }
+  ],
+  "register": "Legal documents (release form, notarial letter, settlement), boardroom negotiation, Afro-Peruvian coastal colloquial, a sung décima and panalivio verse.",
+  "dialect": "Coastal Peruvian Spanish (Lima: pata, chamba, causa) and Chincha speech; Afro-Peruvian musical lexicon (cajón, quijada, festejo, landó, panalivio, décima).",
+  "idioms": [
+   "El que calla otorga: silence gives consent",
+   "Hecha la ley, hecha la trampa: every law has its loophole",
+   "Las palabras se las lleva el viento: words are cheap; put it in writing",
+   "A Dios rogando y con el mazo dando: God helps those who help themselves"
+  ],
+  "vocabFocus": "Copyright and Afro-Peruvian music: el derecho de autor, los derechos conexos, el sampleo, la regalía, la licencia, el dominio público, la carta notarial, la conciliación, el acuerdo transaccional, la grabación de campo, el cuaderno de campo, el consentimiento, el panalivio, el festejo, la décima, el cajón, la quijada, el algodonal",
+  "facts": [
+   "The Peruvian State issued an official apology to the Afro-Peruvian people in 2009 (Resolución Suprema 010-2009-MIMDES).",
+   "4 June is the Día de la Cultura Afroperuana, the birthday of Nicomedes Santa Cruz (Ley 28761, 2006; verify).",
+   "The cajón was declared Patrimonio Cultural de la Nación in 2001 (Instituto Nacional de Cultura).",
+   "In 2017 Zaña was recognised by UNESCO as a 'Sitio de Memoria de la Esclavitud y Herencia Cultural Africana', with the Museo Afroperuano de Zaña (EULAC Museums report; Peruvian Ministry of Culture).",
+   "Peru's 2017 census was the first to include ethnic self-identification with an 'afroperuano' option (3.6%) (INEI).",
+   "Peruvian copyright law: Decreto Legislativo 822 (1996) (keep legal references general in the story)."
+  ],
+  "roleplay": {
+   "character": "Don Anselmo Corzo",
+   "goal": "Explain the legal options in plain words and find out what he really wants from the case.",
+   "register": "usted, respectful, coastal Peruvian"
+  },
+  "scene": "Cotton field near El Carmen with an old adobe hacienda: an elderly man in a straw hat seated on a cajón, Zoila in a blazer holding a battered field notebook and a phone playing a track, a young cousin filming. White cotton, adobe ochre, deep blue sky, red scarf.",
+  "canDo": [
+   "C2-S1: I can argue a case before a demanding audience, anticipating objections and using rhetorical devices effectively.",
+   "C2-R2: I can read legal, academic and journalistic texts embedded in a story (court records, contracts, papers, news reports) and judge how reliable and committed each source is."
+  ],
+  "protagonist": {
+   "name": "Zoila Lévano",
+   "gender": "F",
+   "age": 44,
+   "country": "Peru",
+   "job": "intellectual-property lawyer"
+  },
+  "otherCharacters": [
+   "Anselmo Corzo"
+  ]
+ }
+}

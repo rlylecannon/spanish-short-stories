@@ -1,0 +1,82 @@
+[
+ {
+  "id": "c2-01",
+  "country": "Spain",
+  "city": "Cádiz",
+  "landmark": "Gran Teatro Falla",
+  "caption": "The Gran Teatro Falla, named after composer Manuel de Falla, is the main venue for Cádiz's yearly Carnival singing-group competitions.",
+  "source": "https://en.wikipedia.org/wiki/Gran_Teatro_Falla"
+ },
+ {
+  "id": "c2-02",
+  "country": "Uruguay",
+  "city": "Montevideo",
+  "landmark": "Barrio Sur and Palermo, candombe neighborhoods",
+  "caption": "In Montevideo's Sur and Palermo neighborhoods, drum groups play candombe in street processions; UNESCO added the tradition to its intangible heritage list in 2009.",
+  "source": "https://ich.unesco.org/en/RL/candombe-and-its-socio-cultural-space-a-community-practice-00182"
+ },
+ {
+  "id": "c2-03",
+  "country": "Dominican Republic",
+  "city": "San Pedro de Macorís",
+  "landmark": "Estadio Tetelo Vargas",
+  "caption": "Estadio Tetelo Vargas is the home ballpark of the Estrellas Orientales in San Pedro de Macorís, a city known for producing many professional baseball players.",
+  "source": "https://en.wikipedia.org/wiki/San_Pedro_de_Macor%C3%ADs"
+ },
+ {
+  "id": "c2-04",
+  "country": "Bolivia",
+  "city": "Yungas (Nor Yungas), La Paz Department",
+  "landmark": "Yungas Road (Camino de la Muerte)",
+  "caption": "The Yungas Road links La Paz with Bolivia's Yungas region, and in 1995 the Inter-American Development Bank called it the most dangerous road in the world.",
+  "source": "https://en.wikipedia.org/wiki/Yungas_Road"
+ },
+ {
+  "id": "c2-05",
+  "country": "El Salvador",
+  "city": "Joya de Cerén, La Libertad",
+  "landmark": "Joya de Cerén Archaeological Site",
+  "caption": "Joya de Cerén was a farming village buried by a volcanic eruption around AD 600, and it is now a UNESCO World Heritage Site.",
+  "source": "https://whc.unesco.org/en/list/675"
+ },
+ {
+  "id": "c2-06",
+  "country": "Mexico",
+  "city": "Yanga, Veracruz",
+  "landmark": "Statue of Gaspar Yanga",
+  "caption": "The town of Yanga, Veracruz, began as a settlement of escaped enslaved people and was renamed in 1932 after its leader, Gaspar Yanga.",
+  "source": "https://en.wikipedia.org/wiki/Yanga,_Veracruz"
+ },
+ {
+  "id": "c2-07",
+  "country": "Paraguay",
+  "city": "Asunción",
+  "landmark": "Palacio de los López",
+  "caption": "Construction of the Palacio de los López in Asunción began in 1857, and the neoclassical building now serves as the seat of Paraguay's government.",
+  "source": "https://en.wikipedia.org/wiki/Palacio_de_los_L%C3%B3pez"
+ },
+ {
+  "id": "c2-08",
+  "country": "Colombia",
+  "city": "San Basilio de Palenque",
+  "landmark": "Cultural space of Palenque de San Basilio",
+  "caption": "San Basilio de Palenque, southeast of Cartagena, is home to the Palenquero creole language, and UNESCO lists its cultural space as intangible heritage.",
+  "source": "https://ich.unesco.org/en/RL/cultural-space-of-palenque-de-san-basilio-00102"
+ },
+ {
+  "id": "c2-09",
+  "country": "Spain",
+  "city": "Gijón",
+  "landmark": "Elogio del Horizonte",
+  "caption": "Elogio del Horizonte, a 10-metre concrete sculpture by Eduardo Chillida, stands on a cliff in Gijón overlooking the Cantabrian Sea and was inaugurated in 1990.",
+  "source": "https://en.wikipedia.org/wiki/Elogio_del_Horizonte"
+ },
+ {
+  "id": "c2-10",
+  "country": "Peru",
+  "city": "El Carmen, Chincha",
+  "landmark": "Hacienda San José",
+  "caption": "Hacienda San José, near El Carmen in the Chincha province, was a sugar plantation worked by enslaved people and now operates as a hotel.",
+  "source": "https://en.wikipedia.org/wiki/Hacienda_San_Jos%C3%A9_(hotel)"
+ }
+]

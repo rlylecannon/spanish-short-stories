@@ -1,0 +1,758 @@
+{
+ "c2-01": [
+  {
+   "topic": "Irony, understatement and litotes",
+   "explain": "Understatement says less than you mean so the listener supplies the rest: era poco original means 'it was a copy'. Litotes denies the opposite: no está nada mal ('not bad at all') means 'excellent'. Spanish signals irony with hedges such as digamos, que digamos, por así decirlo, and with mock praise such as con modestia ejemplar placed next to an obvious boast. English uses the same devices, but Spanish more often stacks them inside one sentence with commas around the hedge. The tone is carried by context, so read the whole scene. Common error: taking no está nada mal as lukewarm praise; in Spain it is usually strong approval delivered dryly.",
+   "examples": [
+    [
+     "era, digamos, poco original",
+     "it was, shall we say, less than original"
+    ],
+    [
+     "un tipo que, con modestia ejemplar, propuse yo",
+     "a costume which, with exemplary modesty, I myself proposed"
+    ],
+    [
+     "no está nada mal para un viernes",
+     "not bad at all for a Friday"
+    ]
+   ]
+  },
+  {
+   "topic": "Proverbs and truncated refranes",
+   "explain": "Spanish speakers quote refranes constantly, and often say only the first half, trusting the listener to finish it: Cría fama… (y échate a dormir), En casa del herrero… (cuchillo de palo). Cutting the proverb short signals shared culture and can add irony, and in conversation the other person often completes it, as Inma and Fali do. A proverb can also be bent for a joke (y en la de la jueza, plagio) or broken off because it does not quite fit (quien roba a un ladrón… ni siquiera eso). Learn the full form so you recognise the half. Common error: translating word for word; look for the English equivalent (the cobbler's children go barefoot) or explain the meaning.",
+   "examples": [
+    [
+     "Piensa mal y acertarás, me dije",
+     "Think the worst and you’ll be right, I told myself"
+    ],
+    [
+     "Nada nuevo bajo el sol, decía Benito",
+     "Nothing new under the sun, Benito used to say"
+    ],
+    [
+     "En casa del herrero…",
+     "The cobbler’s children…"
+    ]
+   ]
+  },
+  {
+   "topic": "Mood for stance: aunque, el hecho de que, como",
+   "explain": "Here mood shows the speaker's stance, not just facts. Aunque + indicative presents new information (aunque es un sinvergüenza = 'he is one, I'm telling you'); aunque + subjunctive treats a known fact as irrelevant (aunque Fali sea un sinvergüenza = 'granted he is, it doesn't matter'). El hecho de que usually takes the subjunctive when the fact is being evaluated rather than asserted. Como at the start of a sentence with the indicative gives a cause (como actuábamos el viernes = 'since'); with the subjunctive it becomes a warning or condition (como el jurado tenga… = 'if the jury has…, God help us'). Common error: using como + subjunctive to mean 'since'.",
+   "examples": [
+    [
+     "Aunque Fali sea un sinvergüenza encantador",
+     "Even though Fali is a charming rogue"
+    ],
+    [
+     "el hecho de que alguien tenga motivos no significa que haya cometido el delito",
+     "the fact that someone has a motive does not mean they have committed the crime"
+    ],
+    [
+     "como el jurado tenga el mismo sentido del humor que tuve yo hace quince años, lo dudo",
+     "if the jury has the same sense of humour I had fifteen years ago, I doubt it"
+    ]
+   ]
+  },
+  {
+   "topic": "Colloquial subjunctive formulas: ni que fuera, que yo sepa",
+   "explain": "Some subjunctives live in fixed spoken formulas that you learn as chunks. ¡Ni que + imperfect subjunctive! rejects an exaggerated idea ('as if…!'): ¡Ni que fuera la primera vez! Que yo sepa ('as far as I know') limits a claim to your knowledge; it never takes the indicative (*que yo sé). Como quien no quiere la cosa means 'casually, as if it were nothing'. Que digamos after a negative softens it ironically (no era, que digamos, alegre = 'not exactly cheerful'), and sea como sea means 'be that as it may'. Common error: using ni que with the present (*¡ni que es!); the formula needs the past subjunctive (imperfect, or pluperfect for a completed action: ¡ni que hubiera visto un fantasma!).",
+   "examples": [
+    [
+     "¡Ni que fuera la primera vez que Fali nos levanta un chiste!",
+     "As if it were the first time Fali had pinched a joke from us!"
+    ],
+    [
+     "Que yo sepa, nadie de fuera había oído aquel cuplé",
+     "As far as I knew, nobody outside had heard that verse"
+    ],
+    [
+     "Como quien no quiere la cosa, Fali se había sentado en la última fila del patio de butacas",
+     "As if it were nothing, Fali had sat down in the back row of the stalls"
+    ]
+   ]
+  }
+ ],
+ "c2-02": [
+  {
+   "topic": "Free indirect speech",
+   "explain": "Free indirect speech lets a character think inside the narrator's sentences. The narration stays in the third person and the past (venía, tenía), but there is no verb of saying or thinking, and the character's own questions, exclamations and words appear: ¿Retirarse? ¿Él?, la nena, el viejo. Compare direct speech (pensó: «¿Retirarme yo?») and indirect speech (pensó que no iba a retirarse). English novels use it too, but Spanish relies more on the imperfect and on colloquial words to show the shift. Ask: who would say this sentence? Common error: reading these questions as the narrator's or as dialogue; they are the character's mind.",
+   "examples": [
+    [
+     "¿Retirarse? ¿Él? Cincuenta años en la cuerda y ahora venía la nena a decirle lo que tenía que hacer.",
+     "Retire? Him? Fifty years in the line of drums and now the kid came along to tell him what he had to do."
+    ],
+    [
+     "Claro que sabía. ¿Cómo no iba a saber?",
+     "Of course he knew. How could he not know?"
+    ],
+    [
+     "Así que para eso era.",
+     "So that was what it was for."
+    ]
+   ]
+  },
+  {
+   "topic": "Ellipsis and fragments in narration",
+   "explain": "Literary Spanish often drops the verb when context supplies it, producing short nominal fragments: ¿La lonja? Rajada (= estaba rajada). A question-and-answer pair, a list of nouns, or a comma replacing a repeated verb (El sonido, el de siempre = el sonido era el de siempre) creates rhythm, tension or the feel of memory and notes. English uses fragments too but less in careful prose. To read them, recover the missing verb from the sentence before, usually ser, estar or haber. Use them sparingly in your own writing, for effect. Common error: 'correcting' a fragment by adding a wrong verb, such as ser where the meaning is a state (rajada needs estar).",
+   "examples": [
+    [
+     "¿El tambor? En el ropero, como siempre, envuelto en la frazada a cuadros.",
+     "The drum? In the wardrobe, as always, wrapped in the checked blanket."
+    ],
+    [
+     "Cuero nuevo, aro nuevo. El sonido, el de siempre.",
+     "New hide, new hoop. The sound, the same as ever."
+    ],
+    [
+     "Adentro, en columnas, nombres.",
+     "Inside, in columns, names."
+    ]
+   ]
+  },
+  {
+   "topic": "Left dislocation and clitic doubling",
+   "explain": "To make a direct object the topic, Spanish moves it to the front and repeats it with a pronoun: Aquel tambor lo había hecho su padre. With a fronted definite direct object used as a topic (not as a contrastive focus) the pronoun is obligatory (*Aquel tambor había hecho su padre is wrong). Personal a stays with people: Al viejo Atilio lo sacaron. In the River Plate, speakers also double an object that stays in its normal place: Lo conocí a tu viejo, which standard Spanish would say as Conocí a tu viejo. In Andean Spanish an invariable lo can appear even with feminine or plural objects. English uses stress or 'as for…' instead. Common error: leaving out the pronoun after a fronted object.",
+   "examples": [
+    [
+     "Aquel tambor lo había hecho su padre en el patio del Mediomundo",
+     "That drum had been made by his father in the courtyard of the Mediomundo"
+    ],
+    [
+     "Al viejo Atilio lo sacaron de allí",
+     "Old Atilio was turned out of there"
+    ],
+    [
+     "Lo conocí a tu viejo así, tocando ese.",
+     "That’s how I met your old man, playing that one."
+    ]
+   ]
+  },
+  {
+   "topic": "Afro-Hispanic lexicon and loanwords",
+   "explain": "Afro-Uruguayan candombe has its own vocabulary, mostly Spanish words with new meanings created by the community. The three drums are chico, repique and piano; together they form the cuerda. The lonja is the hide head, and templar is to tune it by heating it over a fogata. The comparsa's stock characters are the mama vieja, the gramillero (an old herb doctor) and the escobero (who twirls a broom), and a llamada is both the drum call and the parade. Candombe itself is usually linked to African languages, although its exact origin is debated. Learn these words in context, not as exotic labels. Common error: translating piano or cuerda literally.",
+   "examples": [
+    [
+     "La cuerda arrancó: chico, repique y piano, uno tras otro",
+     "The line of drums struck up: chico, repique and piano, one after another"
+    ],
+    [
+     "para templar los cueros hasta que sonaran justo",
+     "to tune the heads until they sounded just right"
+    ],
+    [
+     "Delante iban las banderas y la mama vieja, abanicándose",
+     "In front went the flags and the mama vieja, fanning herself"
+    ]
+   ]
+  }
+ ],
+ "c2-03": [
+  {
+   "topic": "Language contact: code-switching and loans",
+   "explain": "Code-switching means moving between two languages within one conversation or even one sentence; in Spanish-English contact zones it is a skill, not a mistake. Switches tend to fall at natural joints: a tag (please), a quotation (He's eating for two), or a phrase from the other world (Too many carbs). Each switch signals audience and identity: Anacleto answers Courtney in English to meet her halfway, but keeps the food's name in Spanish. Loanwords are different: they have been absorbed and adapted to Spanish sounds and spelling, like yaniqueque (from johnnycake) and domplín (from dumpling), and they take Spanish articles and plurals (los domplines). An English noun inside a Spanish sentence gets Spanish grammar around it: mi understanding … nadie me lo había pedido. Common learner error: 'correcting' an established loan back into English.",
+   "examples": [
+    [
+     "Courtney, this is not a pancake: es un yaniqueque",
+     "Courtney, this is not a pancake: it's a yaniqueque"
+    ],
+    [
+     "Mi understanding, por cierto, nadie me lo había pedido.",
+     "My understanding, by the way, nobody had asked for."
+    ],
+    [
+     "Cleto, no le diga a nadie, please.",
+     "Cleto, don't tell anyone, please."
+    ]
+   ]
+  },
+  {
+   "topic": "Colloquial subjunctive formulas: ni que fuera, que yo sepa",
+   "explain": "Some subjunctive forms survive in fixed spoken formulas that you learn as wholes. ¡Ni que + imperfect subjunctive! rejects an absurd implication: ¡Ni que le estuviera sirviendo agua! ('Anyone would think I was serving him water!'). Que yo sepa ('as far as I know') hedges a claim. Que digamos follows a negative and softens it ironically: no era muy científico que digamos ('not exactly scientific'). Sea como sea ('one way or another') closes a discussion, and como quien no quiere la cosa means 'casually, as if it were nothing'. Most of these formulas are frozen (always sepa, digamos, sea); ¡ni que…! lets you choose the verb, but keeps it in the past subjunctive. Unlike most B2 subjunctive, nothing in the sentence 'triggers' the mood; the formula itself carries it. Common learner error: *que yo sé or *¡ni que estaba…!",
+   "examples": [
+    [
+     "¡Ni que le estuviera sirviendo agua!",
+     "Anyone would think I was serving him water!"
+    ],
+    [
+     "Que yo sepa, a los muchachos no los firman por lo bien que comen.",
+     "As far as I know, they don't sign boys for how well they eat."
+    ],
+    [
+     "Sea como sea, el 15 ese muchacho firma",
+     "One way or another, that boy signs on the 15th"
+    ]
+   ]
+  },
+  {
+   "topic": "Por poco, por poco que",
+   "explain": "Por poco + present indicative describes a near miss in the past, like 'nearly' or 'almost': por poco se me cae el caldero ('I nearly dropped the pot'). The present tense is normal here even though the event is over; the preterite also exists but sounds flatter. With no it means something almost failed to happen: Por poco no llega ('he very nearly didn't make it'). Por poco que + subjunctive is a different structure: it concedes, 'however little': Por poco que comiera. A related pattern, con lo que + indicative, means 'considering how much': Con lo que tú entrenas. Common learner error: putting the subjunctive after the near-miss por poco (*por poco se me caiga), or the indicative after concessive por poco que.",
+   "examples": [
+    [
+     "por poco se me cae el caldero",
+     "I nearly dropped the pot"
+    ],
+    [
+     "Por poco que comiera, con mis raciones un muchacho de su tamaño tendría que mantener el peso.",
+     "However little he ate, with my portions a boy his size ought to hold his weight."
+    ],
+    [
+     "Con lo que tú entrenas, no puedes estar comiendo tan poco.",
+     "With all the training you do, you can't be eating that little."
+    ]
+   ]
+  },
+  {
+   "topic": "Irony, understatement and litotes",
+   "explain": "Irony says one thing and means its opposite; understatement says less than it means; litotes affirms something by denying its opposite (no tiene un pelo de tonta = she is very clever). Spanish often flags these with set phrases: con modestia ejemplar said of someone who is not being modest at all, no está nada mal ('not bad at all') as praise with a sting, and digamos or que digamos to show that a word has been chosen with care. Context is the key: a cook of thirty years being taught about protein turns 'exemplary modesty' into irony. English does the same with 'not exactly', 'hardly' or 'with characteristic humility'. Common learner error: reading litotes literally, so that no está nada mal sounds lukewarm, when it can range from real praise to a gentle dig.",
+   "examples": [
+    [
+     "la nutricionista, con modestia ejemplar, le explicó la proteína a un hombre que lleva treinta años cocinando para atletas",
+     "the nutritionist, with exemplary modesty, explained protein to a man who has spent thirty years cooking for athletes"
+    ],
+    [
+     "no está nada mal, para una dieta que nunca ha visto un plátano",
+     "not bad at all, for a diet that has never seen a plantain"
+    ],
+    [
+     "no tiene un pelo de tonta",
+     "she is nobody's fool"
+    ]
+   ]
+  }
+ ],
+ "c2-04": [
+  {
+   "topic": "Left dislocation and clitic doubling",
+   "explain": "To make a known element the topic, Spanish moves it to the front and leaves a pronoun copy in its usual place: La copla la oyó la primera noche ('The verse, she heard it on the first night'). With a fronted definite direct object the copy is obligatory, and a person keeps the personal a: A mi papá lo enterraron ahí. English uses stress or 'as for' instead. In Andean Spanish, especially among older rural speakers, lo can be invariable, used for any object regardless of gender or number: Esa carretera ya lo están ensanchando. This is a regional feature, not a slip, but standard written Spanish would say la están ensanchando. Common learner error: dropping the copy (*A mi papá enterraron ahí) or, in standard Spanish, choosing the wrong one (*Los planos la habían dibujado).",
+   "examples": [
+    [
+     "La copla la oyó la primera noche",
+     "She heard the verse on the very first night"
+    ],
+    [
+     "A mi papá lo enterraron ahí, ingeniera.",
+     "They buried my father there, engineer."
+    ],
+    [
+     "Esa carretera ya lo están ensanchando, dice.",
+     "That road, they're widening it now, they say."
+    ]
+   ]
+  },
+  {
+   "topic": "Diminutives and augmentatives: pragmatics",
+   "explain": "Diminutives (-ito/-ita, -cito) and augmentatives (-ote/-ota, -ón) often express attitude rather than size. In Andean Spanish diminutives soften offers and requests and show warmth: un ratito nomás, el cafecito, hijita. The same suffix can turn ironic: ¡Qué obrita! belittles a large public project, and ingenierita turns a professional title into something childish. The augmentative carreterota adds disapproval: the road is too big for the people it is meant to serve. So ask in context: politeness, affection, irony or contempt? Notice the absence of a suffix too: when the last copla says ingeniera, the plain word is a sign of respect. Common learner error: adding -ito to job titles or names as a friendly touch, which can sound patronising.",
+   "examples": [
+    [
+     "Un ratito nomás, ya está el cafecito.",
+     "Just a moment, the coffee's nearly ready."
+    ],
+    [
+     "¡Qué obrita la de la Gobernación!",
+     "What a fine little project the Gobernación has there!"
+    ],
+    [
+     "que para quién era esa carreterota",
+     "who that great big road was for"
+    ]
+   ]
+  },
+  {
+   "topic": "Marking the source: dizque, ndaje, había sido",
+   "explain": "Speakers often mark where their information comes from. Dizque ('supposedly, they say') and a final dice ('so they say'), very common in the Andes, signal hearsay and keep the speaker at a distance. Según parece ('apparently') is the neutral, standard option for writing. The Andean mirative pluperfect expresses sudden discovery rather than a past before another past: ¡Había sido verdad lo del cementerio! means 'So it was true about the cemetery!', true all along and only now realised. In Paraguay the Guaraní particle ndaje does the hearsay job. English uses 'apparently', 'so they say' or 'it turns out'. Common learner error: reading this había sido as an ordinary pluperfect and looking for an earlier past event, or using dizque in formal writing.",
+   "examples": [
+    [
+     "Dizque esa copla la había escrito alguien de La Paz",
+     "They say that verse was written by someone from La Paz"
+    ],
+    [
+     "¡Había sido verdad lo del cementerio!",
+     "So it was true about the cemetery!"
+    ],
+    [
+     "según parece, los planos los habían dibujado sobre una foto aérea vieja",
+     "apparently the plans had been drawn over an old aerial photo"
+    ]
+   ]
+  },
+  {
+   "topic": "Rhetorical devices: anaphora, rhetorical questions, tricolon",
+   "explain": "Coplas and speeches persuade through pattern. Anaphora repeats the opening words of successive lines or clauses (¿Para quién…? ¿Para quién…?; no vine a…, no vine a…). A rhetorical question is asked for effect, and the speaker supplies or implies the answer (¿Quién conoce este cerro…? Nadie). A tricolon groups three parallel items, usually building to the strongest last: para los que pasan, para los que se quedan y para los que ya no están. In Spanish oral poetry these combine with rhyme (corriendo / durmiendo is a full rhyme; most coplas rhyme by assonance). English uses the same devices, so the challenge is to hear them at speed and to keep them parallel when you write. Common learner error: breaking the parallel structure (para los que pasan, los que se quedan y quienes ya murieron), which drains the rhythm.",
+   "examples": [
+    [
+     "¿Para quién es el camino? / ¿Para quién es el cemento?",
+     "Who is the road for? / Who is the cement for?"
+    ],
+    [
+     "No vine a pedir permiso, no vine a pedir perdón: vine a rendir cuentas.",
+     "I didn't come to ask permission, I didn't come to ask forgiveness: I came to account for myself."
+    ],
+    [
+     "Esta carretera es para los que pasan, para los que se quedan y para los que ya no están.",
+     "This road is for those who pass through, for those who stay and for those who are no longer with us."
+    ]
+   ]
+  }
+ ],
+ "c2-05": [
+  {
+   "topic": "Ellipsis and fragments in narration",
+   "explain": "Literary and journalistic Spanish often drops the verb when the reader can recover it: a noun, a comma and an adjective (El cerco, entero) stands for 'the fence was intact'. The comma marks the missing verb, usually ser or estar. Fragments like these slow the rhythm and sound like notes taken on the spot, which is why the custodian's mind works this way. Two fragments can also be balanced against each other for irony: Portada, el saqueo; página 14, la verdad. English does the same in headlines but less in narrative. A common error is leaving out the comma (*La olla perfecta), which turns the fragment into a plain noun phrase, 'the perfect pot', and loses the judgement.",
+   "examples": [
+    [
+     "La olla, perfecta. Demasiado perfecta.",
+     "The pot, perfect. Too perfect."
+    ],
+    [
+     "El cerco, entero. Los techos, sin una lámina movida.",
+     "The fence, intact. The roofs, not a sheet out of place."
+    ],
+    [
+     "Portada, el saqueo; página 14, la verdad.",
+     "Front page, the looting; page 14, the truth."
+    ]
+   ]
+  },
+  {
+   "topic": "Quizá, tal vez, a lo mejor: mood and certainty",
+   "explain": "Quizá and tal vez accept both moods, and the choice tells you how likely the speaker thinks it is: with the subjunctive the idea is a remote possibility (quizá la hayan sacado de otro sitio), with the indicative it is a real suspicion (quizá tiene razón el periódico). Put after the verb, they take the indicative. A lo mejor and igual always take the indicative, whatever the degree of doubt. Ojalá takes the present subjunctive for a hope that may come true (ojalá sea falsa) and the imperfect subjunctive for one the speaker thinks unlikely or impossible (ojalá fuera tan fácil). English 'maybe' has no such switch. The typical error is *a lo mejor sea: after a lo mejor, use es.",
+   "examples": [
+    [
+     "Quizá la hayan sacado de otro sitio",
+     "Maybe they took it from some other site"
+    ],
+    [
+     "O quizá tiene razón el periódico y yo ya estoy viejo para esto.",
+     "Or maybe the paper's right and I'm too old for this."
+    ],
+    [
+     "Ojalá fuera tan fácil, niña.",
+     "If only it were that simple, girl."
+    ]
+   ]
+  },
+  {
+   "topic": "Journalistic conditional: habría + participle",
+   "explain": "News Spanish uses the conditional to report information it has not confirmed: la pieza habría sido extraída means 'the piece was reportedly removed'. The simple conditional does the same for the present (estaría siendo ofrecida, 'is allegedly being offered'), and the compound one for the past. It is usually paired with a source: según fuentes del ministerio. This is not a hypothetical (there is no si-clause) and English renders it with 'reportedly', 'allegedly' or 'is said to'. Style guides warn that it can spread rumour without anyone taking responsibility, which is why a correction switches to the indicative: la pieza es una réplica. A frequent learner error is translating 'allegedly' with the plain past (*fue extraída), which states it as fact.",
+   "examples": [
+    [
+     "una vasija del período Clásico habría sido extraída del sitio durante la noche",
+     "a Classic-period vessel was reportedly removed from the site during the night"
+    ],
+    [
+     "El custodio, con tres décadas en el puesto, habría permitido el acceso de personas ajenas al personal",
+     "The custodian, who has held the post for three decades, allegedly allowed access to unauthorised persons"
+    ],
+    [
+     "En nuestra edición del día 9 se informó que una vasija del período Clásico habría sido extraída de Joya de Cerén.",
+     "Our edition of the 9th reported that a Classic-period vessel had allegedly been removed from Joya de Cerén."
+    ]
+   ]
+  },
+  {
+   "topic": "Academic register: impersonal hedging",
+   "explain": "Academic and official Spanish avoids 'I' and hedges claims with impersonal formulas: cabe señalar que ('it should be noted that'), se constata ('it is confirmed / observed'), los datos apuntan a ('the data point to'), no permiten sostener ('do not support'). Cabe la posibilidad de que needs the subjunctive, because it presents an open possibility: cabe la posibilidad de que existan otras réplicas. Passive se keeps the agent out of view, so the report sounds like evidence rather than opinion, unlike B2-level 'creo que' or 'me parece que'. Compare Yesenia's report with her spoken version: aquí no ha escarbado nadie. A common error is the indicative after the formula (*cabe la posibilidad de que existen) or mixing in personal verbs (*cabe señalar que yo creo).",
+   "examples": [
+    [
+     "Cabe señalar que no se constatan alteraciones recientes en la estratigrafía de los sectores excavados ni de las áreas colindantes.",
+     "It should be noted that no recent alterations are observed in the stratigraphy of the excavated sectors or of the adjacent areas."
+    ],
+    [
+     "Los datos disponibles apuntan a una manufactura reciente de la pieza ofrecida en línea.",
+     "The available data point to recent manufacture of the piece offered online."
+    ],
+    [
+     "Cabe la posibilidad de que existan otras réplicas en circulación",
+     "The possibility that other replicas are in circulation cannot be ruled out"
+    ]
+   ]
+  }
+ ],
+ "c2-06": [
+  {
+   "topic": "Journalistic conditional: habría + participle",
+   "explain": "When a source repeats a claim without vouching for it, Spanish uses the conditional: Yanga habría sido un príncipe ('Yanga is said to have been a prince'). The compound conditional (habría + participle) covers past events; it often comes with a source tag such as según la tradición or de acuerdo con fuentes municipales. English uses 'reportedly', 'allegedly' or 'is said to'. In this story the video, the town bulletin and a newspaper all use it, and the result is that nobody is lying and nobody is responsible. Ruperto's plaque removes the conditional and keeps only facts in the indicative. Don't confuse it with the conditional perfect of a si-clause (si hubiera firmado, habría…), which talks about what did not happen.",
+   "examples": [
+    [
+     "Yanga habría sido un príncipe del Gabón, capturado y vendido como esclavo en la Nueva España.",
+     "Yanga is said to have been a prince of Gabon, captured and sold into slavery in New Spain."
+    ],
+    [
+     "el pueblo habría sido fundado en 1609, de acuerdo con fuentes municipales",
+     "the town was reportedly founded in 1609, according to municipal sources"
+    ],
+    [
+     "Que el príncipe habría tocado la jarana.",
+     "That the prince supposedly played the jarana."
+    ]
+   ]
+  },
+  {
+   "topic": "Literary -ra and pretérito anterior",
+   "explain": "In written Spanish, the -ra form (fuera, hubiera) can work as a pluperfect indicative in relative clauses: el que fuera pueblo de cimarrones means 'which had once been a town of maroons', and quien fuera su maestro, 'who had once been his teacher'. It is not subjunctive here; it is a literary, slightly solemn past, common in chronicles and the press. The pretérito anterior (hube + participle: hubo leído, hubo terminado) appears only after time connectors such as apenas, no bien, una vez que, cuando, and means the action was finished just before the next one. In speech both are replaced by ordinary tenses: apenas lo leyó. Learners often use the pretérito anterior without a time connector (*Ruperto hubo leído el borrador), which is wrong.",
+   "examples": [
+    [
+     "San Lorenzo de los Negros, el que fuera pueblo de cimarrones",
+     "San Lorenzo de los Negros, once a town of maroons"
+    ],
+    [
+     "Don Fidencio Cházaro, quien fuera su maestro de jarana",
+     "Don Fidencio Cházaro, who had once been his jarana teacher"
+    ],
+    [
+     "Apenas lo hubo leído, Ruperto pidió una pluma roja.",
+     "No sooner had he read it than Ruperto asked for a red pen."
+    ]
+   ]
+  },
+  {
+   "topic": "Concessive and conjectural future and conditional",
+   "explain": "At B2 you met the future and conditional of conjecture (será tarde, 'it must be late'). At C2 they also concede a point before a pero: Tendrá razón el video en lo del orgullo; en las fechas, no means 'the video may well be right about the pride, but not about the dates'. The future concedes about the present, the conditional about the past: Sería príncipe o no, pero cimarrón lo fue. In narration the conditional also carries a character's guesses about the past (estaría demasiado ocupado), and the future perfect guesses about what has happened (¿cuántos habrán pisado esta plaza?). English needs 'may', 'might', 'must' or 'I suppose'. A typical error is reading the concessive future as a real future: tendrá razón does not mean 'will be right'.",
+   "examples": [
+    [
+     "Tendrá razón el video en lo del orgullo",
+     "The video may be right about the pride"
+    ],
+    [
+     "Sería príncipe o no, pero cimarrón lo fue.",
+     "Prince or not, a maroon he certainly was."
+    ],
+    [
+     "sería un poco vanidoso, como tantos funcionarios jóvenes, pero quería al pueblo",
+     "he might be a little vain, like so many young officials, but he loved the town"
+    ]
+   ]
+  },
+  {
+   "topic": "Proverbs and truncated refranes",
+   "explain": "Spanish speakers often quote proverbs in three ways. They quote them whole to settle an argument (cada quien habla de la feria según le va en ella). They cut them short and let the listener finish, usually with suspension points: No por mucho madrugar… (amanece más temprano). Or they bend them for irony by adding an unexpected ending: del dicho al hecho hay mucho trecho, y del hecho a la placa, más todavía. Truncation works only with very well-known proverbs and sounds wise or teasing, as in don Fidencio's use. English does the same less often ('when in Rome…'). A common learner error is translating proverbs word for word or inventing articles (*Del dicho al hecho hay un mucho trecho); learn them as fixed blocks.",
+   "examples": [
+    [
+     "Del dicho al hecho hay mucho trecho, pensó, y del hecho a la placa, más todavía.",
+     "Easier said than done, he thought, and easier done than cast in bronze."
+    ],
+    [
+     "—No por mucho madrugar… —dijo, y no terminó el refrán.",
+     "“Rushing doesn't make the sun rise…,” he said, and didn't finish the proverb."
+    ],
+    [
+     "Cada quien habla de la feria según le va en ella, Ruperto.",
+     "Everyone talks about the fair according to how it went for them, Ruperto."
+    ]
+   ]
+  }
+ ],
+ "c2-07": [
+  {
+   "topic": "Legal register and the future subjunctive",
+   "explain": "Statutes, court formulas and old proverbs keep the future subjunctive (-re: faltare, hiciere, fueres, oyeres) for hypothetical conditions and open relative clauses: quien faltare = 'whoever shall fail', si así no se hiciere = 'should this not be done'. Everyday Spanish replaces it with the present subjunctive (quien falte) or the present indicative after si (si no se hace). It sits beside fixed legal formulas: por la presente, el/la abajo firmante, en virtud de, obrante en autos. English has a similar fossil in 'shall' and 'should this occur'. Learners recognise it but should not use it in normal speech or e-mails. Common error: using it for real past events or after a past main verb (*cuando se hiciere ayer).",
+   "examples": [
+    [
+     "Quien faltare a la verdad en su declaración incurrirá en falso testimonio.",
+     "Whoever shall fail to tell the truth in their testimony shall be guilty of perjury."
+    ],
+    [
+     "si así no se hiciere, que se deje constancia de la omisión en el acta",
+     "should this not be done, that the omission be recorded in the minutes"
+    ],
+    [
+     "y di lo que oyeres, pero di que lo oíste",
+     "and repeat what you hear, but say that you heard it"
+    ]
+   ]
+  },
+  {
+   "topic": "Absolute constructions: terminada la audiencia",
+   "explain": "An absolute construction is a participle with its own subject, placed before the main clause to say what has just been completed: terminada la audiencia = 'once the hearing was over'. The participle agrees with its subject, not with the subject of the main verb: leída el acta (feminine, despite el), absuelto el muchacho. Una vez + participle makes the sequence explicit. It is typical of legal, procedural and literary prose; in conversation you would say cuando terminó la audiencia. English uses 'once/after + clause' or 'the hearing over'. Common error: using a gerund (*leyendo el acta) or forgetting agreement (*leído el acta).",
+   "examples": [
+    [
+     "Leída el acta de la declaración policial, la presidenta preguntó a la testigo si la ratificaba.",
+     "Once the record of the police statement had been read, the presiding judge asked the witness whether she confirmed it."
+    ],
+    [
+     "Una vez traducida la frase, nadie dijo nada.",
+     "Once the sentence had been interpreted, nobody said anything."
+    ],
+    [
+     "Terminada la audiencia, el fiscal alcanzó a Perla en la escalera.",
+     "Once the hearing was over, the prosecutor caught up with Perla on the stairs."
+    ],
+    [
+     "Absuelto el muchacho, la sala se vació en pocos minutos.",
+     "Once the young man had been acquitted, the courtroom emptied in a few minutes."
+    ]
+   ]
+  },
+  {
+   "topic": "Language contact: code-switching and loans",
+   "explain": "Most Paraguayans are bilingual, and everyday speech (jopará) moves between Spanish and Guaraní inside a sentence. Switches are not mistakes: they signal closeness, rural or family settings, and who is being addressed. Perla greets the witness in Guaraní (mba'éichapa) and asks her question with che ra'a ('my friend') to put her at ease. Guaraní particles also enter Spanish: -na softens a request (vení-na), and luego at the end of a sentence means 'that's how it is', not 'later'. Voseo (vení, sentate, vos lo viste) is the norm. Common error: reading luego as 'later' or treating every Guaraní word as a sign of poor Spanish.",
+   "examples": [
+    [
+     "Iporã, mi hija. Vení-na un ratito, sentate conmigo.",
+     "Fine, dear. Come here a moment, won't you, sit with me."
+    ],
+    [
+     "Che ra'a, ¿vos lo viste o te contaron?",
+     "My dear, did you see him or did someone tell you?"
+    ],
+    [
+     "Nicasio he'i chéve. Nicasio me dijo, a la mañana, cuando fui a comprarle miel al trapiche.",
+     "Nicasio he'i chéve. Nicasio told me, in the morning, when I went to buy syrup from him at the mill."
+    ]
+   ]
+  },
+  {
+   "topic": "Marking the source: dizque, ndaje, había sido",
+   "explain": "Spanish can show where information comes from. Dicen que and según parece mark hearsay; in Colombia and Mexico dizque does the same, often with doubt. Paraguayan speakers use the Guaraní particle ndaje ('so they say'), which tells the listener the speaker is not vouching for the claim. Paraguayan and Andean Spanish also use a 'mirative' pluperfect: ¡había sido cierto! means 'so it was true!', expressing surprise at something just discovered, not an earlier past. English uses 'apparently', 'supposedly', 'so it turns out'. Common error: translating a reportative as a direct statement, which turns a rumour into a fact, exactly the error in the police transcript.",
+   "examples": [
+    [
+     "No decía «lo vi». Decía, como mucho, «dicen que estaba».",
+     "It did not say “I saw him.” At most, it said “they say he was there.”"
+    ],
+    [
+     "dizque lo vieron con un bidón, dizque fue él",
+     "supposedly they saw him with a jerrycan, supposedly it was him"
+    ],
+    [
+     "¡Había sido cierto lo de la miel!",
+     "So that business with the syrup was true!"
+    ],
+    [
+     "Según parece, nadie lo vio nunca; todos lo habían oído.",
+     "As far as anyone could tell, nobody had ever seen it; everybody had heard it."
+    ]
+   ]
+  }
+ ],
+ "c2-08": [
+  {
+   "topic": "Afro-Hispanic lexicon and loanwords",
+   "explain": "Words from Palenquero and Afro-Colombian culture appear in Spanish narration, usually explained by context rather than italics: moná ('child'), the plural particle ma (ma moná, 'children'), kuagro (age group), lumbalú (funeral songs and dances), and music genres like bullerengue and champeta. Treat them as normal vocabulary with their own grammar: ma goes before the noun and Spanish -s is not added (*ma monás). Note that Ma before a woman's name (Ma Petrona) is a different word, a respectful title for an older woman. Caribbean colloquial words (pelaítas 'little girls', mija, pa') mix with them. Common error: confusing the plural ma with the title Ma.",
+   "examples": [
+    [
+     "en palenquero, moná es «niño», y ma marca el plural",
+     "in Palenquero, moná means “child”, and ma marks the plural"
+    ],
+    [
+     "Dorina había oído las palabras lumbalú, bullerengue y champeta mucho antes que la palabra «fonema».",
+     "Dorina had heard the words lumbalú, bullerengue and champeta long before she heard the word “phoneme”."
+    ],
+    [
+     "Kusungá era el nombre del kuagro de tu abuela, cuando eran unas pelaítas.",
+     "Kusungá was the name of your grandmother's kuagro, when they were little girls."
+    ]
+   ]
+  },
+  {
+   "topic": "Quizá, tal vez, a lo mejor: mood and certainty",
+   "explain": "Quizá and tal vez take either mood: the subjunctive makes the possibility feel more remote (tal vez la palabra venga del kikongo), the indicative makes it feel likelier or more like a statement (quizá Evaristo tenía razón). A lo mejor, by contrast, always takes the indicative (a lo mejor solo estaba delirando). Ojalá + present subjunctive is a real hope (ojalá alguien la recuerde); ojalá + pluperfect subjunctive is a regret about the past (ojalá le hubiera preguntado). English 'perhaps / maybe' does not change; Spanish lets you grade certainty with mood. Common error: *a lo mejor sea; use a lo mejor es.",
+   "examples": [
+    [
+     "Tal vez la palabra venga del kikongo",
+     "Perhaps the word comes from Kikongo"
+    ],
+    [
+     "A lo mejor solo estaba delirando.",
+     "Maybe she was just delirious."
+    ],
+    [
+     "Quizá Evaristo tenía razón.",
+     "Maybe Evaristo was right."
+    ],
+    [
+     "Ojalá le hubiera preguntado a tiempo, pensaba; ojalá alguien en el pueblo la recuerde.",
+     "If only she had asked her in time, she thought; let's hope someone in the village remembers it."
+    ]
+   ]
+  },
+  {
+   "topic": "Concessive and conjectural future and conditional",
+   "explain": "At B2 you used the future and conditional to guess (estará en casa; serían las diez). At C2 they also carry stance in narration. The future perfect guesses about a past event from now: ¿qué habrá querido decir? = 'what could she have meant?'. The conditional does the same from a past viewpoint: ¿por qué se lo habría dicho a ella? Followed by pero, both concede a point before contradicting it: será muy terco, pero no es tonto = 'he may be stubborn, but…'; tendría sus razones, pero… = 'he may have had his reasons, but…'. English uses 'may', 'must', 'I wonder'. Common error: reading será or tendría as real future or conditional time.",
+   "examples": [
+    [
+     "¿Qué habrá querido decir?",
+     "What could she have meant?"
+    ],
+    [
+     "Tendría sus razones el tío, pensó, pero también ella tenía las suyas",
+     "Her uncle might have his reasons, she thought, but she had hers too"
+    ],
+    [
+     "Será su tío muy terco, pero no es tonto.",
+     "Your uncle may be very stubborn, but he's no fool."
+    ],
+    [
+     "¿Por qué se lo habría dicho a ella y no a sus hijos?",
+     "Why would her grandmother have said it to her and not to her own children?"
+    ]
+   ]
+  },
+  {
+   "topic": "Academic register: impersonal hedging",
+   "explain": "Academic Spanish avoids yo and overstatement. It uses impersonal se (se constata, se observa), fixed hedges (cabe señalar 'it should be noted', cabe la posibilidad de que + subjunctive 'it is possible that'), data as subject (los datos apuntan a, sugieren) and the conditional to soften claims (lo cual explicaría). English academic prose does the same with 'it is possible that', 'the data suggest'. The story contrasts this prose with Dorina's family speech, where the same doubt is a lo mejor or ¿qué habrá querido decir? Common error: using the indicative after cabe la posibilidad de que (*que se trata).",
+   "examples": [
+    [
+     "Cabe la posibilidad de que se trate de un préstamo léxico del kikongo",
+     "It is possible that it is a loanword from Kikongo"
+    ],
+    [
+     "Se constata la ausencia de la forma en las fuentes consultadas",
+     "The form is found to be absent from the sources consulted"
+    ],
+    [
+     "Los datos apuntan a un uso restringido al ámbito del kuagro, lo cual explicaría su ausencia de los repertorios publicados.",
+     "The data point to a use restricted to the domain of the kuagro, which would explain its absence from published inventories."
+    ]
+   ]
+  }
+ ],
+ "c2-09": [
+  {
+   "topic": "Free indirect speech",
+   "explain": "Free indirect speech lets the narrator slip into a character's head without saying 'she thought that'. The narration stays in the third person and in past tenses, but the character's own questions, exclamations, fragments and words appear directly: ¿Sola, y el niño? English novels do this too, yet learners of Spanish often add pensó que or se preguntó si and lose the effect. The clues are question marks and exclamations with no verb of saying, colloquial words that belong to the character, and judgments the narrator would not make. At B2 you reported thoughts with se preguntó si + indicative; here the question stands on its own. Common error: switching to the present tense (¿Está sola?), which turns it into direct speech.",
+   "examples": [
+    [
+     "¿La tía Nina, que no dejaba que nadie le tocara la radio, que no se casó nunca, que se sentaba en misa en el último banco para salir la primera? No. Imposible. ¿O no?",
+     "Aunt Nina, who wouldn't let anyone touch her radio, who never married, who sat in the last pew at Mass so she could be first out? No. Impossible. Or was it?"
+    ],
+    [
+     "Viaja sola. ¿Sola, y el niño?",
+     "Travelling alone. Alone, and the child?"
+    ],
+    [
+     "¿Y ahora qué? ¿Llamar a un señor de ochenta y cinco años para decirle que su mamochka había muerto hacía un mes",
+     "And now what? Call an eighty-five-year-old man to tell him that his mamochka had died a month ago"
+    ]
+   ]
+  },
+  {
+   "topic": "Diminutives and augmentatives: pragmatics",
+   "explain": "At C2 a suffix is a stance, not a size. Diminutives show affection, politeness or irony (guapina, cafetín: a coffee offered with love, not a small one); -ucho adds a mildly scornful but fond tone (pisucho); augmentatives such as -ón can exaggerate or mock. Regions have their own systems: Asturian Spanish prefers -ín/-ina (casina, neñín, culín) where standard Spanish uses -ito/-ita. Other languages work the same way: Russian mamochka is not 'a small mother' but a tender 'mummy dear', and Liosha is the family form of Alexéi. English mostly uses separate words (sweetie, little, dear). Common error: piling diminutives onto formal nouns or using them with strangers in serious contexts, which can sound patronising.",
+   "examples": [
+    [
+     "les decía «ven, guapina, que te hago un cafetín» aunque tuvieran seis años",
+     "told them “come here, sweetie, I'll make you a little coffee” even when they were six"
+    ],
+    [
+     "No es que la madre sea pequeña; es que el que habla se hace pequeño delante de ella.",
+     "It's not that the mother is small; it's that the person speaking makes himself small in front of her."
+    ],
+    [
+     "vivía en un pisucho de La Calzada",
+     "lived in a poky little flat in La Calzada"
+    ]
+   ]
+  },
+  {
+   "topic": "Por poco, por poco que",
+   "explain": "Por poco + present indicative describes a near miss in the past: por poco tira la caja means she almost threw it away (and didn't). The present tense is idiomatic here even though the event is past; English uses 'nearly' + past. Por poco que + subjunctive is different: it means 'however little', a concession (por poco que entendiera de ruso, 'however little Russian she understood'). A related pattern, con lo que + indicative, means 'considering how much': con lo que habían trabajado. The preterite (por poco se cayó) is also correct and common in the Americas, but never the subjunctive or the conditional. Common error: forgetting the subjunctive after por poco que.",
+   "examples": [
+    [
+     "por poco tira al contenedor una caja de cartón llena de cintas de casete",
+     "she very nearly threw into the skip a cardboard box full of cassette tapes"
+    ],
+    [
+     "Por poco que entendiera de ruso, aquella palabra la entendió",
+     "However little Russian she understood, that word she did understand"
+    ],
+    [
+     "Por poco se le cae el café.",
+     "She nearly dropped her coffee."
+    ]
+   ]
+  },
+  {
+   "topic": "Literary -ra and pretérito anterior",
+   "explain": "In literary and journalistic Spanish, the -ra form (fuera, hubiera) can work as an indicative pluperfect: la que fuera su casa means 'what had once been her home'. It is common in phrases like el que fuera alcalde and gives a solemn, retrospective tone; in conversation you would say la que había sido. The pretérito anterior (hubo terminado, hubo comprendido) appears after apenas, cuando, en cuanto or no bien to mark an action finished just before another: 'no sooner had she finished'. Both are written, formal choices; English uses 'once' or 'no sooner had'. Common error: using the pretérito anterior on its own, without a time conjunction, or in everyday speech, where it sounds archaic.",
+   "examples": [
+    [
+     "La que fuera la casa de ambos durante tantos años, una casa de niños españoles en las afueras de la ciudad, era ahora un edificio de oficinas.",
+     "What had once been home to them both for so many years, a home for Spanish children on the outskirts of the city, was now an office building."
+    ],
+    [
+     "apenas hubo terminado, la puso otra vez",
+     "the moment it had finished, put it on once more"
+    ],
+    [
+     "Apenas lo hubo comprendido, se echó a reír sola",
+     "The moment she grasped it, she burst out laughing on her own"
+    ]
+   ]
+  }
+ ],
+ "c2-10": [
+  {
+   "topic": "Legal register and the future subjunctive",
+   "explain": "Legal Spanish has fixed formulas: por la presente (hereby), en virtud de lo dispuesto en (pursuant to), el abajo firmante (the undersigned). It also keeps the future subjunctive (alegare, hiciere, publicare, incumpliere), which has disappeared from everyday speech. It appears in hypothetical clauses of laws, contracts and notes (si así no lo hiciere, quien faltare) and in old proverbs (adonde fueres, haz lo que vieres). In ordinary Spanish you would use the present indicative after si (si no lo hace) and the present subjunctive after quien (quien alegue). Recognise it, use it only in legal pastiche. Common error: forming it from the wrong stem; it is built like the -ra form (hicieron → hiciere, publicaron → publicare).",
+   "examples": [
+    [
+     "Quien alegare derechos sobre la misma deberá acreditarlos documentalmente; si así no lo hiciere en el plazo de quince días, mi representada dará el asunto por concluido",
+     "Anyone claiming rights over it must prove them with documents; should they fail to do so within fifteen days, my client will consider the matter closed"
+    ],
+    [
+     "Por la presente, el abajo firmante autoriza la grabación de su voz para fines de estudio",
+     "I, the undersigned, hereby authorize the recording of my voice for study purposes"
+    ],
+    [
+     "Condición: si algún día se publicare, que se diga su nombre.",
+     "Condition: should it ever be published, his name must be given."
+    ]
+   ]
+  },
+  {
+   "topic": "Absolute constructions: terminada la audiencia",
+   "explain": "An absolute construction is a participle clause with its own subject, placed before the main clause: Firmado el acuerdo, la discográfica emitió un comunicado ('Once the agreement was signed…'). The participle agrees with its noun (leída la entrada, digitalizadas sus cintas) and the clause expresses time, cause or condition. It is typical of legal, journalistic and procedural narration, and it is more compact than una vez que se firmó el acuerdo. English uses 'once', 'with' or 'having been'. Common errors: forgetting agreement (*firmado la carta) or using a participle whose subject is unclear, and putting the subject before the participle (*el acuerdo firmado, la discográfica…), which reads as a noun phrase, not a clause.",
+   "examples": [
+    [
+     "Muerto el investigador en 1998, nadie había reclamado nada",
+     "With the researcher dead since 1998, nobody had claimed anything"
+    ],
+    [
+     "Encontrado el de 1976, no hubo que buscar mucho.",
+     "Once the 1976 one was found, there was not much searching to do."
+    ],
+    [
+     "Vista la prueba, no cabía discusión",
+     "With the evidence before them, there was no arguing"
+    ]
+   ]
+  },
+  {
+   "topic": "Mood for stance: aunque, el hecho de que, como",
+   "explain": "Mood can show attitude, not just reality. Aunque + subjunctive can concede a known fact while declaring it irrelevant: aunque la canción sea un éxito means 'granted, it's a hit, but that changes nothing'. With the indicative (aunque es un éxito) the speaker presents it as new information. El hecho de que usually takes the subjunctive when the fact is evaluated or dismissed (no lo convertía…), though the indicative is possible when it is simply asserted. Como + subjunctive at the start of a sentence is a warning or threat ('if you…'): como no lo corrijan, le mando otra carta; como + indicative means 'since, because'. Common error: reading como + subjunctive as cause.",
+   "examples": [
+    [
+     "Aunque la canción sea un éxito en medio mundo, la voz es de don Anselmo.",
+     "Even if the song is a hit across half the world, the voice belongs to don Anselmo."
+    ],
+    [
+     "El hecho de que nadie lo hubiera reclamado no lo convertía en dominio público.",
+     "The fact that nobody had claimed it didn't turn it into public domain."
+    ],
+    [
+     "Como no lo corrijan antes del lunes, le mando otra carta notarial",
+     "If you don't correct it before Monday, I'm sending you another notarized letter"
+    ]
+   ]
+  },
+  {
+   "topic": "Rhetorical devices: anaphora, rhetorical questions, tricolon",
+   "explain": "Persuasive speech in Spanish relies on patterns that English also uses, but often with heavier repetition. Anaphora repeats an opening (pueden decir que… pueden decir que…); rhetorical questions are asked and answered by the speaker to control the argument (¿Quién cantó? Don Anselmo.); the tricolon groups three items, often rising in weight (un nombre, una firma y una deuda saldada). Spanish speeches also like a final contrast: no pedimos X; pedimos Y. Used well, these devices make an argument easy to follow and to remember; overused, they sound like a campaign rally. Common error: breaking the parallelism by changing the grammar of the third item (un nombre, una firma y que nos paguen).",
+   "examples": [
+    [
+     "¿Quién cantó? Don Anselmo. ¿Quién lo grabó? Un extranjero con permiso, y con una condición escrita de su puño y letra. ¿Quién cobró? Ustedes.",
+     "Who sang? Don Anselmo. Who recorded it? A foreigner with permission, and with a condition written in his own hand. Who got paid? You did."
+    ],
+    [
+     "Pueden decir que la ese no es una zeta; pueden decir que una cruz la hace cualquiera; pueden decir que el investigador ha muerto y que los muertos no declaran.",
+     "You can say that an s is not a z; you can say that anyone can draw a cross; you can say that the researcher is dead and the dead don't testify."
+    ],
+    [
+     "No pedimos caridad; pedimos un nombre, una firma y una deuda saldada.",
+     "We are not asking for charity; we are asking for a name, a signature and a debt paid in full."
+    ]
+   ]
+  }
+ ]
+}

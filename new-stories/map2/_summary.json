@@ -1,0 +1,636 @@
+{
+ "groups_before": {
+  "a1": {
+   "colors": [
+    "a1-04"
+   ],
+   "comparatives": [
+    "a1-08"
+   ],
+   "gustar": [
+    "a1-02",
+    "a1-03",
+    "a1-06"
+   ],
+   "hay": [
+    "a1-01",
+    "a1-05",
+    "a1-07"
+   ],
+   "ir a": [
+    "a1-04",
+    "a1-05",
+    "a1-09",
+    "a1-10"
+   ],
+   "negation": [
+    "a1-04"
+   ],
+   "obligation": [
+    "a1-08"
+   ],
+   "personal a": [
+    "a1-02"
+   ],
+   "possessives": [
+    "a1-10"
+   ],
+   "present tense": [
+    "a1-01",
+    "a1-06",
+    "a1-07"
+   ],
+   "querer/poder": [
+    "a1-04",
+    "a1-05"
+   ],
+   "questions": [
+    "a1-04",
+    "a1-08",
+    "a1-09"
+   ],
+   "reflexive": [
+    "a1-06",
+    "a1-07"
+   ],
+   "ser": [
+    "a1-02"
+   ],
+   "ser/estar": [
+    "a1-01",
+    "a1-03",
+    "a1-06",
+    "a1-07",
+    "a1-09",
+    "a1-10"
+   ],
+   "tener": [
+    "a1-01",
+    "a1-02",
+    "a1-03",
+    "a1-08"
+   ],
+   "time": [
+    "a1-01",
+    "a1-03",
+    "a1-05",
+    "a1-09",
+    "a1-10"
+   ]
+  },
+  "a2": {
+   "commands": [
+    "a2-02",
+    "a2-06",
+    "a2-07",
+    "a2-08"
+   ],
+   "comparatives": [
+    "a2-07",
+    "a2-08",
+    "a2-10"
+   ],
+   "estar + gerund": [
+    "a2-04",
+    "a2-05"
+   ],
+   "formality": [
+    "a2-09"
+   ],
+   "imperfect": [
+    "a2-04",
+    "a2-05"
+   ],
+   "ir a": [
+    "a2-01",
+    "a2-06"
+   ],
+   "object pronouns": [
+    "a2-02",
+    "a2-03",
+    "a2-06",
+    "a2-07",
+    "a2-10"
+   ],
+   "perfect": [
+    "a2-09",
+    "a2-10"
+   ],
+   "pret vs impf": [
+    "a2-04",
+    "a2-05",
+    "a2-07",
+    "a2-08",
+    "a2-09",
+    "a2-10"
+   ],
+   "preterite forms": [
+    "a2-01",
+    "a2-02",
+    "a2-03",
+    "a2-04"
+   ],
+   "reflexive": [
+    "a2-01",
+    "a2-05",
+    "a2-06",
+    "a2-08",
+    "a2-09"
+   ],
+   "ser/estar": [
+    "a2-03"
+   ],
+   "time": [
+    "a2-02"
+   ]
+  },
+  "b1": {
+   "commands": [
+    "b1-06",
+    "b1-07",
+    "b1-09"
+   ],
+   "conditional": [
+    "b1-03",
+    "b1-05"
+   ],
+   "future": [
+    "b1-02"
+   ],
+   "future in the past": [
+    "b1-01"
+   ],
+   "impersonal/passive se": [
+    "b1-04",
+    "b1-10"
+   ],
+   "object pronouns": [
+    "b1-02"
+   ],
+   "pluperfect": [
+    "b1-01",
+    "b1-04"
+   ],
+   "por/para": [
+    "b1-05",
+    "b1-10"
+   ],
+   "present perfect": [
+    "b1-01",
+    "b1-03"
+   ],
+   "pret vs impf": [
+    "b1-01"
+   ],
+   "relatives": [
+    "b1-03",
+    "b1-08"
+   ],
+   "reported speech": [
+    "b1-05",
+    "b1-06",
+    "b1-09"
+   ],
+   "si + imperfect subjunctive": [
+    "b1-08"
+   ],
+   "si-clauses (real)": [
+    "b1-02"
+   ],
+   "subjunctive: conjunctions": [
+    "b1-07",
+    "b1-08"
+   ],
+   "subjunctive: wish/opinion": [
+    "b1-06",
+    "b1-07",
+    "b1-10"
+   ],
+   "verb phrases": [
+    "b1-04"
+   ],
+   "verbs of change": [
+    "b1-09"
+   ]
+  },
+  "b2": {
+   "clefts": [
+    "b2-07",
+    "b2-10"
+   ],
+   "como si / imperfect subjunctive": [
+    "b2-03"
+   ],
+   "concession": [
+    "b2-01",
+    "b2-02"
+   ],
+   "conjecture": [
+    "b2-09",
+    "b2-10"
+   ],
+   "connectors": [
+    "b2-04",
+    "b2-09"
+   ],
+   "lo + adjective": [
+    "b2-08"
+   ],
+   "passive": [
+    "b2-03"
+   ],
+   "pluperfect subjunctive (ojalá/como si/aunque)": [
+    "b2-04",
+    "b2-05"
+   ],
+   "relatives": [
+    "b2-08"
+   ],
+   "reported speech": [
+    "b2-05",
+    "b2-06"
+   ],
+   "ser/estar": [
+    "b2-06"
+   ],
+   "si + imperfect subjunctive": [
+    "b2-01"
+   ],
+   "si + pluperfect subjunctive": [
+    "b2-05",
+    "b2-07"
+   ],
+   "subjunctive: conjunctions": [
+    "b2-01",
+    "b2-06"
+   ],
+   "subjunctive: noun clauses": [
+    "b2-02",
+    "b2-04"
+   ],
+   "subjunctive: reduplicative": [
+    "b2-10"
+   ],
+   "subjunctive: relative clauses": [
+    "b2-09"
+   ],
+   "verb phrases": [
+    "b2-02",
+    "b2-07"
+   ],
+   "verbs of change": [
+    "b2-08"
+   ]
+  }
+ },
+ "groups_after": {
+  "a1": {
+   "colors": [
+    "a1-04"
+   ],
+   "comparatives": [
+    "a1-08"
+   ],
+   "demonstratives": [
+    "a1-09"
+   ],
+   "gustar": [
+    "a1-02",
+    "a1-03"
+   ],
+   "hay": [
+    "a1-01",
+    "a1-07"
+   ],
+   "ir a": [
+    "a1-05",
+    "a1-09"
+   ],
+   "muy/mucho": [
+    "a1-07"
+   ],
+   "negation": [
+    "a1-04"
+   ],
+   "numbers/prices": [
+    "a1-05"
+   ],
+   "obligation": [
+    "a1-08"
+   ],
+   "personal a": [
+    "a1-02"
+   ],
+   "possessives": [
+    "a1-06",
+    "a1-10"
+   ],
+   "present tense": [
+    "a1-06",
+    "a1-10"
+   ],
+   "querer/poder": [
+    "a1-04",
+    "a1-05"
+   ],
+   "questions": [
+    "a1-08",
+    "a1-09"
+   ],
+   "reflexive": [
+    "a1-06",
+    "a1-07"
+   ],
+   "ser": [
+    "a1-02"
+   ],
+   "ser/estar": [
+    "a1-01",
+    "a1-03"
+   ],
+   "tener": [
+    "a1-03",
+    "a1-08"
+   ],
+   "time": [
+    "a1-01",
+    "a1-10"
+   ]
+  },
+  "a2": {
+   "commands": [
+    "a2-02",
+    "a2-06"
+   ],
+   "comparatives": [
+    "a2-07",
+    "a2-10"
+   ],
+   "courtesy conditional": [
+    "a2-05"
+   ],
+   "demonstratives": [
+    "a2-10"
+   ],
+   "estar + gerund": [
+    "a2-05"
+   ],
+   "formality": [
+    "a2-08",
+    "a2-09"
+   ],
+   "future": [
+    "a2-06"
+   ],
+   "gustar": [
+    "a2-03"
+   ],
+   "imperfect": [
+    "a2-04",
+    "a2-05"
+   ],
+   "ir a": [
+    "a2-01"
+   ],
+   "negation": [
+    "a2-08"
+   ],
+   "object pronouns": [
+    "a2-02",
+    "a2-07"
+   ],
+   "obligation": [
+    "a2-08"
+   ],
+   "perfect": [
+    "a2-09",
+    "a2-10"
+   ],
+   "por/para": [
+    "a2-06"
+   ],
+   "pret vs impf": [
+    "a2-04",
+    "a2-07"
+   ],
+   "preterite forms": [
+    "a2-01",
+    "a2-03"
+   ],
+   "reflexive": [
+    "a2-09"
+   ],
+   "saber/conocer": [
+    "a2-04"
+   ],
+   "ser/estar": [
+    "a2-03"
+   ],
+   "time": [
+    "a2-02"
+   ]
+  },
+  "b1": {
+   "accidental se": [
+    "b1-09"
+   ],
+   "commands": [
+    "b1-06",
+    "b1-07"
+   ],
+   "conditional": [
+    "b1-03",
+    "b1-05"
+   ],
+   "conjecture": [
+    "b1-10"
+   ],
+   "connectors": [
+    "b1-05"
+   ],
+   "future": [
+    "b1-02"
+   ],
+   "future in the past": [
+    "b1-01"
+   ],
+   "impersonal/passive se": [
+    "b1-04",
+    "b1-10"
+   ],
+   "object pronouns": [
+    "b1-02"
+   ],
+   "pluperfect": [
+    "b1-01",
+    "b1-04"
+   ],
+   "por/para": [
+    "b1-05",
+    "b1-10"
+   ],
+   "present perfect": [
+    "b1-01",
+    "b1-03"
+   ],
+   "pret vs impf": [
+    "b1-01"
+   ],
+   "relatives": [
+    "b1-03",
+    "b1-08"
+   ],
+   "reported speech": [
+    "b1-05",
+    "b1-09"
+   ],
+   "ser/estar": [
+    "b1-03"
+   ],
+   "si + imperfect subjunctive": [
+    "b1-08"
+   ],
+   "si-clauses (real)": [
+    "b1-02"
+   ],
+   "subjunctive: conjunctions": [
+    "b1-07",
+    "b1-08"
+   ],
+   "subjunctive: wish/opinion": [
+    "b1-06",
+    "b1-07"
+   ],
+   "verb phrases": [
+    "b1-04",
+    "b1-06"
+   ],
+   "verbs of change": [
+    "b1-09"
+   ]
+  },
+  "b2": {
+   "clefts": [
+    "b2-07",
+    "b2-10"
+   ],
+   "como si / imperfect subjunctive": [
+    "b2-03"
+   ],
+   "concession": [
+    "b2-01",
+    "b2-02"
+   ],
+   "conjecture": [
+    "b2-09",
+    "b2-10"
+   ],
+   "connectors": [
+    "b2-04",
+    "b2-09"
+   ],
+   "lo + adjective": [
+    "b2-08"
+   ],
+   "mixed conditionals": [
+    "b2-04"
+   ],
+   "passive": [
+    "b2-03"
+   ],
+   "pluperfect subjunctive (ojalá/como si/aunque)": [
+    "b2-04",
+    "b2-05"
+   ],
+   "relatives": [
+    "b2-08"
+   ],
+   "reported speech": [
+    "b2-05",
+    "b2-06"
+   ],
+   "ser/estar": [
+    "b2-06"
+   ],
+   "si + imperfect subjunctive": [
+    "b2-01"
+   ],
+   "si + pluperfect subjunctive": [
+    "b2-05",
+    "b2-07"
+   ],
+   "subjunctive: conjunctions": [
+    "b2-01",
+    "b2-06"
+   ],
+   "subjunctive: noun clauses": [
+    "b2-02",
+    "b2-04"
+   ],
+   "subjunctive: reduplicative": [
+    "b2-10"
+   ],
+   "subjunctive: relative clauses": [
+    "b2-09"
+   ],
+   "verb + preposition": [
+    "b2-06"
+   ],
+   "verb phrases": [
+    "b2-02",
+    "b2-07"
+   ],
+   "verbs of change": [
+    "b2-08"
+   ]
+  }
+ },
+ "total_edits": 26,
+ "stories_edited": [
+  "a1-07",
+  "a1-08",
+  "a1-09",
+  "a2-03",
+  "a2-04",
+  "a2-05",
+  "a2-06",
+  "a2-08",
+  "a2-10",
+  "b1-03",
+  "b1-05",
+  "b1-06",
+  "b1-09",
+  "b1-10",
+  "b2-04"
+ ],
+ "slots": {
+  "a1": 31,
+  "a2": 30,
+  "b1": 33,
+  "b2": 32
+ },
+ "new_topic_strings": {
+  "Numbers and prices: ¿Cuánto es?": "Present tense & basics",
+  "Possessives: mi, su": "Present tense & basics",
+  "Muy and mucho": "Present tense & basics",
+  "Demonstratives: este, esta, estas": "Present tense & basics",
+  "Stem-changing verbs: quiere, encuentra": "Present tense & basics",
+  "Gustar-type verbs: faltar, encantar": "Verb phrases & near future",
+  "Saber vs conocer": "Present tense & basics",
+  "Courtesy conditional: podría, te gustaría": "Conditionals & si-clauses",
+  "Por vs para: por la tarde, para ti": "Por & para",
+  "Simple future: dará, seré": "Verb phrases & near future",
+  "Negative words: nadie, nada": "Questions & negation",
+  "Obligation: hay que, tener que, deber": "Verb phrases & near future",
+  "Ustedes for \"you all\"": "Commands & formality",
+  "Demonstratives: este, ese, aquel": "Present tense & basics",
+  "Ser and estar: listo, rico": "Ser vs. estar",
+  "Connectors: por eso, así que, a pesar de": "Relative clauses & connectors",
+  "Acabar de and dejar de": "Verb phrases & near future",
+  "Accidental se: se le olvidó, se le acabó": "Reflexives & se",
+  "Future of probability: ¿será…?": "Conditionals & si-clauses",
+  "Mixed conditionals: si hubiera…, ahora sería": "Conditionals & si-clauses",
+  "Verb + preposition: depender de, pensar en": "Verb phrases & near future"
+ },
+ "problems": []
+}

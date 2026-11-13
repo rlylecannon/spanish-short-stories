@@ -1,0 +1,2248 @@
+{
+"saludos": [
+[
+"el saludo",
+"noun",
+"greeting"
+]
+],
+"salvar": [
+[
+"salvar",
+"verb",
+"to save"
+]
+],
+"salvarme": [
+[
+"salvar",
+"verb",
+"to save"
+]
+],
+"salí": [
+[
+"salir",
+"verb",
+"to go out, to leave"
+]
+],
+"salía": [
+[
+"salir",
+"verb",
+"to come out, to leave"
+]
+],
+"salían": [
+[
+"salir",
+"verb",
+"to go out"
+]
+],
+"salón": [
+[
+"el salón",
+"noun",
+"classroom, lounge"
+]
+],
+"san": [
+[
+"san",
+"adj",
+"saint"
+]
+],
+"sangre": [
+[
+"la sangre",
+"noun",
+"blood"
+]
+],
+"sano": [
+[
+"sano",
+"adj",
+"healthy, sound"
+]
+],
+"santa": [
+[
+"santo",
+"adj",
+"saint, holy"
+]
+],
+"santander": [
+[
+"Santander",
+"name",
+"surname"
+]
+],
+"santiago": [
+[
+"Santiago",
+"name",
+"capital of Chile"
+]
+],
+"sara": [
+[
+"Sara",
+"name",
+"girl's name"
+]
+],
+"sartén": [
+[
+"la sartén",
+"noun",
+"frying pan"
+]
+],
+"se": [
+[
+"se",
+"pron",
+"himself, herself, oneself"
+]
+],
+"sea": [
+[
+"ser",
+"verb",
+"to be"
+]
+],
+"seco": [
+[
+"seco",
+"adj",
+"dry, dull"
+]
+],
+"secretario": [
+[
+"el secretario",
+"noun",
+"secretary, clerk"
+]
+],
+"secreto": [
+[
+"el secreto",
+"noun",
+"secret"
+]
+],
+"secretos": [
+[
+"el secreto",
+"noun",
+"secret"
+]
+],
+"secó": [
+[
+"secarse",
+"verb",
+"to dry"
+]
+],
+"seguido": [
+[
+"seguir",
+"verb",
+"to follow"
+]
+],
+"seguir": [
+[
+"seguir",
+"verb",
+"to continue, to follow"
+]
+],
+"segunda": [
+[
+"segundo",
+"adj",
+"second"
+]
+],
+"segundo": [
+[
+"segundo",
+"adj",
+"second"
+]
+],
+"segundos": [
+[
+"el segundo",
+"noun",
+"second"
+]
+],
+"segura": [
+[
+"seguro",
+"adj",
+"sure, safe"
+]
+],
+"seguridad": [
+[
+"la seguridad",
+"noun",
+"confidence, safety"
+]
+],
+"seguro": [
+[
+"seguro",
+"adj",
+"sure, safe"
+]
+],
+"seguía": [
+[
+"seguir",
+"verb",
+"to continue"
+]
+],
+"seguían": [
+[
+"seguir",
+"verb",
+"to keep, to continue"
+]
+],
+"según": [
+[
+"según",
+"prep",
+"according to"
+]
+],
+"seis": [
+[
+"seis",
+"num",
+"six"
+]
+],
+"seiscientos": [
+[
+"seiscientos",
+"num",
+"six hundred"
+]
+],
+"sello": [
+[
+"el sello",
+"noun",
+"stamp, seal"
+]
+],
+"semana": [
+[
+"la semana",
+"noun",
+"week"
+]
+],
+"semanas": [
+[
+"la semana",
+"noun",
+"week"
+]
+],
+"sencilla": [
+[
+"sencillo",
+"adj",
+"simple"
+]
+],
+"sencillo": [
+[
+"sencillo",
+"adj",
+"simple"
+]
+],
+"sendero": [
+[
+"el sendero",
+"noun",
+"path, trail"
+]
+],
+"sensación": [
+[
+"la sensación",
+"noun",
+"feeling, sensation"
+]
+],
+"sensatas": [
+[
+"sensato",
+"adj",
+"sensible"
+]
+],
+"sensato": [
+[
+"sensato",
+"adj",
+"sensible"
+]
+],
+"sentaba": [
+[
+"sentarse",
+"verb",
+"to sit down"
+]
+],
+"sentada": [
+[
+"sentado",
+"adj",
+"seated"
+]
+],
+"sentadas": [
+[
+"sentado",
+"adj",
+"seated"
+]
+],
+"sentado": [
+[
+"sentarse",
+"verb",
+"to sit down"
+]
+],
+"sentados": [
+[
+"sentado",
+"adj",
+"seated"
+]
+],
+"sentaron": [
+[
+"sentarse",
+"verb",
+"to sit down"
+]
+],
+"sentenció": [
+[
+"sentenciar",
+"verb",
+"to declare, to pronounce"
+]
+],
+"sentimentalismos": [
+[
+"el sentimentalismo",
+"noun",
+"sentimentality"
+]
+],
+"sentir": [
+[
+"sentir",
+"verb",
+"to feel"
+]
+],
+"sentándose": [
+[
+"sentarse",
+"verb",
+"to sit down"
+]
+],
+"sentí": [
+[
+"sentir",
+"verb",
+"to feel"
+]
+],
+"sentía": [
+[
+"sentirse",
+"verb",
+"to feel"
+]
+],
+"sentó": [
+[
+"sentarse",
+"verb",
+"to sit down"
+]
+],
+"separadas": [
+[
+"separado",
+"adj",
+"separate"
+]
+],
+"separó": [
+[
+"separar",
+"verb",
+"to separate"
+]
+],
+"sepas": [
+[
+"saber",
+"verb",
+"to know"
+]
+],
+"septiembre": [
+[
+"septiembre",
+"noun",
+"September"
+]
+],
+"sequedad": [
+[
+"la sequedad",
+"noun",
+"dryness, curtness"
+]
+],
+"ser": [
+[
+"ser",
+"verb",
+"to be"
+]
+],
+"serenatas": [
+[
+"la serenata",
+"noun",
+"serenade"
+]
+],
+"sergio": [
+[
+"Sergio",
+"name",
+"boy's name"
+]
+],
+"serias": [
+[
+"serio",
+"adj",
+"serious"
+]
+],
+"serie": [
+[
+"la serie",
+"noun",
+"series, TV show"
+]
+],
+"serio": [
+[
+"serio",
+"adj",
+"serious"
+]
+],
+"serios": [
+[
+"serio",
+"adj",
+"serious"
+]
+],
+"servicio": [
+[
+"el servicio",
+"noun",
+"service"
+]
+],
+"servido": [
+[
+"servir",
+"verb",
+"to be of use, to serve"
+]
+],
+"servidos": [
+[
+"servido",
+"adj",
+"served"
+]
+],
+"servir": [
+[
+"servir",
+"verb",
+"to serve"
+]
+],
+"seré": [
+[
+"ser",
+"verb",
+"to be"
+]
+],
+"sería": [
+[
+"ser",
+"verb",
+"to be"
+]
+],
+"serían": [
+[
+"ser",
+"verb",
+"to be"
+]
+],
+"sesenta": [
+[
+"sesenta",
+"num",
+"sixty"
+]
+],
+"setenta": [
+[
+"setenta",
+"num",
+"seventy"
+]
+],
+"severo": [
+[
+"severo",
+"adj",
+"stern, severe"
+]
+],
+"sevilla": [
+[
+"Sevilla",
+"name",
+"city in Spain"
+]
+],
+"sexto": [
+[
+"sexto",
+"adj",
+"sixth"
+]
+],
+"señal": [
+[
+"la señal",
+"noun",
+"sign"
+]
+],
+"señalando": [
+[
+"señalar",
+"verb",
+"to point"
+]
+],
+"señales": [
+[
+"la señal",
+"noun",
+"sign"
+]
+],
+"señor": [
+[
+"el señor",
+"noun",
+"man, gentleman, Mr."
+]
+],
+"señora": [
+[
+"la señora",
+"noun",
+"lady, woman, Mrs."
+]
+],
+"share": [
+[
+"share",
+"other",
+"English word: share"
+]
+],
+"si": [
+[
+"si",
+"conj",
+"if"
+]
+],
+"sido": [
+[
+"ser",
+"verb",
+"to be"
+]
+],
+"siempre": [
+[
+"siempre",
+"adv",
+"always"
+]
+],
+"sienta": [
+[
+"sentarse",
+"verb",
+"to sit down"
+]
+],
+"siente": [
+[
+"sentir",
+"verb",
+"to feel"
+]
+],
+"siento": [
+[
+"sentirse",
+"verb",
+"to feel"
+]
+],
+"siete": [
+[
+"siete",
+"num",
+"seven"
+]
+],
+"siga": [
+[
+"seguir",
+"verb",
+"to continue"
+]
+],
+"siglo": [
+[
+"el siglo",
+"noun",
+"century"
+]
+],
+"siglos": [
+[
+"el siglo",
+"noun",
+"century"
+]
+],
+"significa": [
+[
+"significar",
+"verb",
+"to mean"
+]
+],
+"significaba": [
+[
+"significar",
+"verb",
+"to mean"
+]
+],
+"sigue": [
+[
+"seguir",
+"verb",
+"to follow"
+]
+],
+"siguiente": [
+[
+"siguiente",
+"adj",
+"next, following"
+]
+],
+"siguientes": [
+[
+"siguiente",
+"adj",
+"next, following"
+]
+],
+"siguiera": [
+[
+"seguir",
+"verb",
+"to continue"
+]
+],
+"siguieron": [
+[
+"seguir",
+"verb",
+"to continue"
+]
+],
+"siguiéramos": [
+[
+"seguir",
+"verb",
+"to keep on, to continue"
+]
+],
+"siguió": [
+[
+"seguir",
+"verb",
+"to continue"
+]
+],
+"silencio": [
+[
+"el silencio",
+"noun",
+"silence"
+]
+],
+"silla": [
+[
+"la silla",
+"noun",
+"chair"
+]
+],
+"sillón": [
+[
+"el sillón",
+"noun",
+"armchair"
+]
+],
+"silueta": [
+[
+"la silueta",
+"noun",
+"silhouette, figure"
+]
+],
+"simple": [
+[
+"simple",
+"adj",
+"simple, mere"
+]
+],
+"simplemente": [
+[
+"simplemente",
+"adv",
+"simply"
+]
+],
+"simpática": [
+[
+"simpático",
+"adj",
+"nice, friendly"
+]
+],
+"sin": [
+[
+"sin",
+"prep",
+"without"
+]
+],
+"sincero": [
+[
+"sincero",
+"adj",
+"sincere"
+]
+],
+"sindicato": [
+[
+"el sindicato",
+"noun",
+"union"
+]
+],
+"sino": [
+[
+"sino",
+"conj",
+"but, rather"
+]
+],
+"sintió": [
+[
+"sentirse",
+"verb",
+"to feel"
+]
+],
+"sinónimo": [
+[
+"el sinónimo",
+"noun",
+"synonym"
+]
+],
+"siquiera": [
+[
+"siquiera",
+"adv",
+"even, at least"
+]
+],
+"sir": [
+[
+"sir",
+"other",
+"sir (British title)"
+]
+],
+"sirvió": [
+[
+"servir",
+"verb",
+"to serve"
+]
+],
+"sistema": [
+[
+"el sistema",
+"noun",
+"system"
+]
+],
+"sistemas": [
+[
+"el sistema",
+"noun",
+"system"
+]
+],
+"sobra": [
+[
+"la sobra",
+"noun",
+"surplus, spare"
+],
+[
+"sobrar",
+"verb",
+"to be left over"
+]
+],
+"sobre": [
+[
+"sobre",
+"prep",
+"on, about"
+]
+],
+"sobresaltos": [
+[
+"el sobresalto",
+"noun",
+"shock, start"
+]
+],
+"social": [
+[
+"social",
+"adj",
+"social"
+]
+],
+"sofisticada": [
+[
+"sofisticado",
+"adj",
+"sophisticated"
+]
+],
+"sofía": [
+[
+"Sofía",
+"name",
+"girl's name"
+]
+],
+"soga": [
+[
+"la soga",
+"noun",
+"rope"
+]
+],
+"sol": [
+[
+"el sol",
+"noun",
+"sun"
+]
+],
+"sola": [
+[
+"solo",
+"adj",
+"alone"
+]
+],
+"solamente": [
+[
+"solamente",
+"adv",
+"only"
+]
+],
+"solar": [
+[
+"solar",
+"adj",
+"solar"
+],
+[
+"el solar",
+"noun",
+"plot of land",
+"?"
+]
+],
+"solas": [
+[
+"solo",
+"adj",
+"alone"
+]
+],
+"solemnidad": [
+[
+"la solemnidad",
+"noun",
+"solemnity"
+]
+],
+"soles": [
+[
+"el sol",
+"noun",
+"sol (Peruvian currency)"
+]
+],
+"solicitaron": [
+[
+"solicitar",
+"verb",
+"to request"
+]
+],
+"solo": [
+[
+"solo",
+"adv",
+"only"
+],
+[
+"solo",
+"adj",
+"alone"
+]
+],
+"solos": [
+[
+"solo",
+"adj",
+"alone"
+]
+],
+"soltaron": [
+[
+"soltar",
+"verb",
+"to let out, to release"
+]
+],
+"soltó": [
+[
+"soltar",
+"verb",
+"to let out, to release"
+]
+],
+"solución": [
+[
+"la solución",
+"noun",
+"solution"
+]
+],
+"solía": [
+[
+"soler",
+"verb",
+"to be used to, to usually"
+]
+],
+"sombras": [
+[
+"la sombra",
+"noun",
+"shadow"
+]
+],
+"sombrero": [
+[
+"el sombrero",
+"noun",
+"hat"
+]
+],
+"somos": [
+[
+"ser",
+"verb",
+"to be"
+]
+],
+"son": [
+[
+"ser",
+"verb",
+"to be"
+]
+],
+"sonaba": [
+[
+"sonar",
+"verb",
+"to sound, to play"
+]
+],
+"sonar": [
+[
+"sonar",
+"verb",
+"to sound"
+]
+],
+"sonara": [
+[
+"sonar",
+"verb",
+"to ring, to sound"
+]
+],
+"sonaron": [
+[
+"sonar",
+"verb",
+"to sound"
+]
+],
+"sondeado": [
+[
+"sondear",
+"verb",
+"to sound out, to probe"
+]
+],
+"sonido": [
+[
+"el sonido",
+"noun",
+"sound"
+]
+],
+"sonreía": [
+[
+"sonreír",
+"verb",
+"to smile"
+]
+],
+"sonriendo": [
+[
+"sonreír",
+"verb",
+"to smile"
+]
+],
+"sonriente": [
+[
+"sonriente",
+"adj",
+"smiling"
+]
+],
+"sonrisa": [
+[
+"la sonrisa",
+"noun",
+"smile"
+]
+],
+"sonrisas": [
+[
+"la sonrisa",
+"noun",
+"smile"
+]
+],
+"sonrió": [
+[
+"sonreír",
+"verb",
+"to smile"
+]
+],
+"sonríe": [
+[
+"sonreír",
+"verb",
+"to smile"
+]
+],
+"sonó": [
+[
+"sonar",
+"verb",
+"to ring, to sound"
+]
+],
+"sopa": [
+[
+"la sopa",
+"noun",
+"soup"
+]
+],
+"soportan": [
+[
+"soportar",
+"verb",
+"to bear, to stand"
+]
+],
+"soportar": [
+[
+"soportar",
+"verb",
+"to bear, to endure"
+]
+],
+"soportaría": [
+[
+"soportar",
+"verb",
+"to bear, to stand"
+]
+],
+"soria": [
+[
+"Soria",
+"name",
+"province in Spain"
+]
+],
+"soriano": [
+[
+"soriano",
+"adj",
+"from Soria"
+]
+],
+"sorprendida": [
+[
+"sorprendido",
+"adj",
+"surprised"
+]
+],
+"sorprendido": [
+[
+"sorprendido",
+"adj",
+"surprised"
+]
+],
+"sorprendidos": [
+[
+"sorprendido",
+"adj",
+"surprised"
+]
+],
+"sorprendió": [
+[
+"sorprender",
+"verb",
+"to surprise"
+]
+],
+"sorpresa": [
+[
+"la sorpresa",
+"noun",
+"surprise"
+]
+],
+"sospecha": [
+[
+"la sospecha",
+"noun",
+"suspicion"
+],
+[
+"sospechar",
+"verb",
+"to suspect",
+"?"
+]
+],
+"sospechaba": [
+[
+"sospechar",
+"verb",
+"to suspect"
+]
+],
+"sospechoso": [
+[
+"sospechoso",
+"adj",
+"suspicious"
+]
+],
+"sostener": [
+[
+"sostener",
+"verb",
+"to maintain, to hold"
+]
+],
+"sostenía": [
+[
+"sostener",
+"verb",
+"to hold"
+]
+],
+"sostienen": [
+[
+"sostener",
+"verb",
+"to hold up, to sustain"
+]
+],
+"soy": [
+[
+"ser",
+"verb",
+"to be"
+]
+],
+"soñaba": [
+[
+"soñar",
+"verb",
+"to dream"
+]
+],
+"spondylus": [
+[
+"Spondylus",
+"name",
+"spiny oyster, route name"
+]
+],
+"su": [
+[
+"su",
+"det",
+"his, her, their"
+]
+],
+"suave": [
+[
+"suave",
+"adj",
+"soft, gentle"
+]
+],
+"suavidad": [
+[
+"la suavidad",
+"noun",
+"softness, gentleness"
+]
+],
+"suavizaba": [
+[
+"suavizar",
+"verb",
+"to soften"
+]
+],
+"suavízalo": [
+[
+"suavizar",
+"verb",
+"to soften"
+]
+],
+"sube": [
+[
+"subir",
+"verb",
+"to go up"
+]
+],
+"subieron": [
+[
+"subir",
+"verb",
+"to get on, to go up"
+]
+],
+"subimos": [
+[
+"subir",
+"verb",
+"to go up"
+]
+],
+"subir": [
+[
+"subir",
+"verb",
+"to carry up, to go up"
+]
+],
+"subió": [
+[
+"subir",
+"verb",
+"to go up"
+]
+],
+"subí": [
+[
+"subir",
+"verb",
+"to go up"
+]
+],
+"subía": [
+[
+"subir",
+"verb",
+"to rise"
+]
+],
+"sucia": [
+[
+"sucio",
+"adj",
+"dirty"
+]
+],
+"sudaban": [
+[
+"sudar",
+"verb",
+"to sweat"
+]
+],
+"sueldo": [
+[
+"el sueldo",
+"noun",
+"salary"
+]
+],
+"suele": [
+[
+"soler",
+"verb",
+"to usually"
+]
+],
+"suelen": [
+[
+"soler",
+"verb",
+"to usually"
+]
+],
+"suelo": [
+[
+"el suelo",
+"noun",
+"floor, ground"
+]
+],
+"suena": [
+[
+"sonar",
+"verb",
+"to ring"
+]
+],
+"suero": [
+[
+"el suero",
+"noun",
+"serum, saline drip"
+]
+],
+"suerte": [
+[
+"la suerte",
+"noun",
+"luck"
+]
+],
+"sueño": [
+[
+"el sueño",
+"noun",
+"sleep, dream"
+]
+],
+"sueños": [
+[
+"el sueño",
+"noun",
+"dream"
+]
+],
+"suficiente": [
+[
+"suficiente",
+"adj",
+"enough"
+]
+],
+"sufra": [
+[
+"sufrir",
+"verb",
+"to suffer"
+]
+],
+"sumergida": [
+[
+"sumergido",
+"adj",
+"immersed"
+]
+],
+"supe": [
+[
+"saber",
+"verb",
+"to know"
+]
+],
+"superaron": [
+[
+"superar",
+"verb",
+"to exceed"
+]
+],
+"supermercado": [
+[
+"el supermercado",
+"noun",
+"supermarket"
+]
+],
+"supermercados": [
+[
+"el supermercado",
+"noun",
+"supermarket"
+]
+],
+"supiera": [
+[
+"saber",
+"verb",
+"to know"
+]
+],
+"supiste": [
+[
+"saber",
+"verb",
+"to find out, to know"
+]
+],
+"supo": [
+[
+"saber",
+"verb",
+"to know"
+]
+],
+"sus": [
+[
+"su",
+"det",
+"his, her, their"
+]
+],
+"suspendió": [
+[
+"suspender",
+"verb",
+"to suspend"
+]
+],
+"suspicacias": [
+[
+"la suspicacia",
+"noun",
+"suspicion, mistrust"
+]
+],
+"suspicaz": [
+[
+"suspicaz",
+"adj",
+"suspicious"
+]
+],
+"suspiró": [
+[
+"suspirar",
+"verb",
+"to sigh"
+]
+],
+"susto": [
+[
+"el susto",
+"noun",
+"fright"
+]
+],
+"susurros": [
+[
+"el susurro",
+"noun",
+"whisper"
+]
+],
+"susurró": [
+[
+"susurrar",
+"verb",
+"to whisper"
+]
+],
+"sutil": [
+[
+"sutil",
+"adj",
+"subtle"
+]
+],
+"sábado": [
+[
+"el sábado",
+"noun",
+"Saturday"
+]
+],
+"sábados": [
+[
+"el sábado",
+"noun",
+"Saturday"
+]
+],
+"sé": [
+[
+"saber",
+"verb",
+"to know"
+]
+],
+"sí": [
+[
+"sí",
+"adv",
+"yes"
+]
+],
+"sólo": [
+[
+"sólo",
+"adv",
+"only"
+]
+],
+"tacharon": [
+[
+"tachar",
+"verb",
+"to brand, to label as"
+]
+],
+"tacos": [
+[
+"el taco",
+"noun",
+"taco"
+]
+],
+"tacto": [
+[
+"el tacto",
+"noun",
+"tact"
+]
+],
+"tal": [
+[
+"tal",
+"adv",
+"such, how"
+]
+],
+"taller": [
+[
+"el taller",
+"noun",
+"workshop"
+]
+],
+"tamaños": [
+[
+"el tamaño",
+"noun",
+"size"
+]
+],
+"tambaleaba": [
+[
+"tambalearse",
+"verb",
+"to totter, to wobble"
+]
+],
+"tambaleó": [
+[
+"tambalearse",
+"verb",
+"to wobble"
+]
+],
+"también": [
+[
+"también",
+"adv",
+"also, too"
+]
+],
+"tambores": [
+[
+"el tambor",
+"noun",
+"drum"
+]
+],
+"tampoco": [
+[
+"tampoco",
+"adv",
+"neither, not either"
+]
+],
+"tan": [
+[
+"tan",
+"adv",
+"so"
+]
+],
+"tanta": [
+[
+"tanto",
+"det",
+"so much"
+]
+],
+"tanteaba": [
+[
+"tantear",
+"verb",
+"to sound out"
+]
+],
+"tanteando": [
+[
+"tantear",
+"verb",
+"to feel around"
+]
+],
+"tanto": [
+[
+"tanto",
+"adv",
+"so much"
+]
+],
+"tantos": [
+[
+"tanto",
+"det",
+"so many"
+]
+],
+"tapa": [
+[
+"la tapa",
+"noun",
+"cover"
+]
+],
+"tapó": [
+[
+"tapar",
+"verb",
+"to cover"
+]
+],
+"tarareaba": [
+[
+"tararear",
+"verb",
+"to hum"
+]
+],
+"tarareaban": [
+[
+"tararear",
+"verb",
+"to hum"
+]
+],
+"tarda": [
+[
+"tardar",
+"verb",
+"to take time, to be late"
+]
+],
+"tardado": [
+[
+"tardar",
+"verb",
+"to take time"
+]
+],
+"tardan": [
+[
+"tardar",
+"verb",
+"to take time"
+]
+],
+"tardaría": [
+[
+"tardar",
+"verb",
+"to take time"
+]
+],
+"tarde": [
+[
+"tarde",
+"adv",
+"late"
+],
+[
+"la tarde",
+"noun",
+"afternoon"
+]
+],
+"tardes": [
+[
+"la tarde",
+"noun",
+"afternoon"
+]
+],
+"tareas": [
+[
+"la tarea",
+"noun",
+"task, chore"
+]
+],
+"taxi": [
+[
+"el taxi",
+"noun",
+"taxi"
+]
+],
+"taza": [
+[
+"la taza",
+"noun",
+"cup"
+]
+],
+"tazas": [
+[
+"la taza",
+"noun",
+"cup"
+]
+],
+"te": [
+[
+"te",
+"pron",
+"you, to you, yourself"
+]
+],
+"techo": [
+[
+"el techo",
+"noun",
+"roof, ceiling"
+]
+],
+"telescopio": [
+[
+"el telescopio",
+"noun",
+"telescope"
+]
+],
+"telmo": [
+[
+"Telmo",
+"name",
+"part of San Telmo district"
+]
+],
+"teléfono": [
+[
+"el teléfono",
+"noun",
+"telephone"
+]
+],
+"temblaban": [
+[
+"temblar",
+"verb",
+"to tremble, to shake"
+]
+],
+"temblando": [
+[
+"temblar",
+"verb",
+"to shake"
+]
+],
+"temblar": [
+[
+"temblar",
+"verb",
+"to shake, to rattle"
+]
+],
+"temblara": [
+[
+"temblar",
+"verb",
+"to shake"
+]
+],
+"temblorosa": [
+[
+"tembloroso",
+"adj",
+"shaky"
+]
+],
+"temblorosas": [
+[
+"tembloroso",
+"adj",
+"shaky"
+]
+],
+"tembloroso": [
+[
+"tembloroso",
+"adj",
+"shaky"
+]
+],
+"temieran": [
+[
+"temer",
+"verb",
+"to fear"
+]
+],
+"temo": [
+[
+"temer",
+"verb",
+"to fear"
+]
+],
+"temprano": [
+[
+"temprano",
+"adv",
+"early"
+]
+],
+"temía": [
+[
+"temer",
+"verb",
+"to fear"
+]
+],
+"tendió": [
+[
+"tender",
+"verb",
+"to hand over, to hold out"
+]
+],
+"tendrá": [
+[
+"tener",
+"verb",
+"to have"
+]
+],
+"tendrás": [
+[
+"tener",
+"verb",
+"to have"
+]
+],
+"tendría": [
+[
+"tener",
+"verb",
+"to have"
+]
+],
+"tenemos": [
+[
+"tener",
+"verb",
+"to have"
+]
+],
+"tener": [
+[
+"tener",
+"verb",
+"to have"
+]
+],
+"tenga": [
+[
+"tener",
+"verb",
+"to have"
+]
+],
+"tengan": [
+[
+"tener",
+"verb",
+"to have"
+]
+],
+"tengo": [
+[
+"tener",
+"verb",
+"to have"
+]
+],
+"tenido": [
+[
+"tener",
+"verb",
+"to have"
+]
+],
+"teniendo": [
+[
+"tener",
+"verb",
+"to have"
+]
+],
+"tensa": [
+[
+"tenso",
+"adj",
+"tense"
+]
+],
+"tentación": [
+[
+"la tentación",
+"noun",
+"temptation"
+]
+],
+"tenía": [
+[
+"tener",
+"verb",
+"to have"
+]
+],
+"teníamos": [
+[
+"tener",
+"verb",
+"to have"
+]
+],
+"tenían": [
+[
+"tener",
+"verb",
+"to have"
+]
+],
+"tercer": [
+[
+"tercero",
+"adj",
+"third"
+]
+],
+"tercera": [
+[
+"tercero",
+"adj",
+"third"
+]
+],
+"tercero": [
+[
+"tercero",
+"adj",
+"third"
+]
+],
+"terciopelo": [
+[
+"el terciopelo",
+"noun",
+"velvet"
+]
+],
+"terco": [
+[
+"terco",
+"adj",
+"stubborn"
+]
+],
+"terminaba": [
+[
+"terminar",
+"verb",
+"to finish"
+]
+],
+"terminada": [
+[
+"terminado",
+"adj",
+"finished"
+]
+],
+"terminado": [
+[
+"terminado",
+"adj",
+"finished"
+]
+],
+"terminamos": [
+[
+"terminar",
+"verb",
+"to finish"
+]
+],
+"terminar": [
+[
+"terminar",
+"verb",
+"to finish, to end"
+]
+],
+"terminara": [
+[
+"terminar",
+"verb",
+"to end"
+]
+],
+"termines": [
+[
+"terminar",
+"verb",
+"to finish"
+]
+],
+"terminó": [
+[
+"terminar",
+"verb",
+"to finish, to end"
+]
+],
+"termo": [
+[
+"el termo",
+"noun",
+"thermos flask"
+]
+],
+"ternura": [
+[
+"la ternura",
+"noun",
+"tenderness"
+]
+],
+"terquedad": [
+[
+"la terquedad",
+"noun",
+"stubbornness"
+]
+],
+"terreno": [
+[
+"el terreno",
+"noun",
+"ground, land"
+]
+],
+"terrenos": [
+[
+"el terreno",
+"noun",
+"land"
+]
+],
+"tesoro": [
+[
+"el tesoro",
+"noun",
+"treasure"
+]
+],
+"testarudo": [
+[
+"testarudo",
+"adj",
+"stubborn"
+]
+],
+"texto": [
+[
+"el texto",
+"noun",
+"text"
+]
+],
+"than": [
+[
+"than",
+"other",
+"English word: than"
+]
+],
+"ti": [
+[
+"ti",
+"pron",
+"you"
+]
+],
+"tibia": [
+[
+"tibio",
+"adj",
+"lukewarm, half-hearted"
+]
+]
+}

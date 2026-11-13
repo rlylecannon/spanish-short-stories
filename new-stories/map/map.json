@@ -1,0 +1,1309 @@
+{
+ "b1-01": {
+  "title": "La cartera verde",
+  "role": "consolidates",
+  "line_count": 16,
+  "topics": [
+   {
+    "topic": "Preterite vs. imperfect",
+    "family": "Past tenses",
+    "new": false,
+    "status": "recycled",
+    "evidence": [
+     "line 0: Era una mañana fría",
+     "line 0: paseaba por el parque del Retiro",
+     "line 1: De repente vio algo verde",
+     "line 2: Se sentó y la abrió",
+     "line 5: llegó a un edificio estrecho",
+     "line 5: un joven pálido hablaba con la dueña"
+    ],
+    "count": 6,
+    "count_without_edits": 6,
+    "edits": [],
+    "note": "Recycled from A2 (a2-04/08/10). The opening story re-anchors the narrative pair."
+   },
+   {
+    "topic": "Present perfect vs. preterite",
+    "family": "Perfect tenses",
+    "new": true,
+    "status": "introduces",
+    "evidence": [
+     "line 7: Creo que he encontrado algo suyo [after edit]",
+     "line 10: He tenido suerte de verla",
+     "line 10: He venido en persona [after edit]",
+     "line 9: ¿Dónde la encontró?"
+    ],
+    "count": 4,
+    "count_without_edits": 2,
+    "edits": [
+     {
+      "line": 7,
+      "old": "¿Usted es Gustavo Montoya?",
+      "old_raw": "¿Usted es Gustavo Montoya?",
+      "suggest_es": "¿Usted es Gustavo Montoya? Creo que he encontrado algo suyo.",
+      "suggest_es_raw": "¿Usted es Gustavo Montoya? Creo que he encontrado algo suyo.",
+      "suggest_en": "\"Are you Gustavo Montoya? I think I've found something of yours.\""
+     },
+     {
+      "line": 10,
+      "old": "Quería devolvérsela hoy mismo, porque sé",
+      "old_raw": "Quería <b>devolvérsela</b> hoy mismo, porque sé",
+      "suggest_es": "He venido en persona porque quería devolvérsela hoy mismo; sé",
+      "suggest_es_raw": "He venido en persona porque quería <b>devolvérsela</b> hoy mismo; sé",
+      "suggest_en": "\"I've come in person because I wanted to return it to you today; I know what it feels like when you lose something important.\""
+     }
+    ],
+    "note": "Inés (Madrid) uses the Peninsular same-day perfect. Gustavo (Chilean) answers with the preterite (¿Dónde la encontró?), which gives a built-in regional contrast. This replaces b1-03 as the main presentation of the present perfect."
+   },
+   {
+    "topic": "Pluperfect for earlier events",
+    "family": "Perfect tenses",
+    "new": false,
+    "status": "introduces",
+    "evidence": [
+     "line 11: su abuela había nacido en Madrid",
+     "line 11: se había marchado a Chile",
+     "line 11: Él había viajado hasta allí",
+     "line 14: donde había vivido su abuela"
+    ],
+    "count": 4,
+    "count_without_edits": 4,
+    "edits": [],
+    "note": ""
+   },
+   {
+    "topic": "Future in the past",
+    "family": "Conditionals & si-clauses",
+    "new": false,
+    "status": "introduces",
+    "evidence": [
+     "line 3: ahora estaría muy preocupado",
+     "line 15: le mandaría una postal",
+     "line 15: lo haría"
+    ],
+    "count": 3,
+    "count_without_edits": 3,
+    "edits": [],
+    "note": ""
+   }
+  ]
+ },
+ "b1-02": {
+  "title": "El chivito de la tormenta",
+  "role": "consolidates",
+  "line_count": 14,
+  "topics": [
+   {
+    "topic": "Future tense",
+    "family": "Verb phrases & near future",
+    "new": false,
+    "status": "introduces",
+    "evidence": [
+     "line 2: me levantaré a las cinco",
+     "line 2: iré a la feria",
+     "line 2: compraré el mejor lomo",
+     "line 2: Los jueces probarán",
+     "line 2: no podrán hablar",
+     "line 2: pagaremos el alquiler",
+     "line 4: Los organizadores pondrán",
+     "line 5: tendrás más experiencia",
+     "line 13: Que ganarás otra vez"
+    ],
+    "count": 9,
+    "count_without_edits": 9,
+    "edits": [],
+    "note": ""
+   },
+   {
+    "topic": "Si-clauses with present",
+    "family": "Conditionals & si-clauses",
+    "new": false,
+    "status": "introduces",
+    "evidence": [
+     "line 2: Si ganamos, pagaremos",
+     "line 3: si el pan está frío, el chivito está triste",
+     "line 9: Si te portás bien, te presto la mitad",
+     "line 12: si venís todos los jueves",
+     "line 13: Si llevás el carbón"
+    ],
+    "count": 5,
+    "count_without_edits": 5,
+    "edits": [],
+    "note": "Real conditions only. Hypothetical si comes in b1-08."
+   },
+   {
+    "topic": "Object pronoun order: se lo, te la",
+    "family": "Pronouns & personal a",
+    "new": true,
+    "status": "introduces",
+    "evidence": [
+     "line 1: se lo llevó a su abuela",
+     "line 11: Se lo digo [after edit]",
+     "line 12: te la cuento"
+    ],
+    "count": 3,
+    "count_without_edits": 2,
+    "edits": [
+     {
+      "line": 11,
+      "old": "—Leche, azúcar,",
+      "old_raw": "—Leche, azúcar,",
+      "suggest_es": "—Se lo digo: leche, azúcar,",
+      "suggest_es_raw": "—Se lo digo: leche, azúcar,",
+      "suggest_en": "\"I'll tell you: milk, sugar, …\""
+     }
+    ],
+    "note": "Covers the essentials-b1 topic \"Object pronoun order: se lo, me la\"."
+   }
+  ]
+ },
+ "b1-03": {
+  "title": "El horno de doña Remedios",
+  "role": "consolidates",
+  "line_count": 14,
+  "topics": [
+   {
+    "topic": "Conditional tense",
+    "family": "Conditionals & si-clauses",
+    "new": false,
+    "status": "introduces",
+    "evidence": [
+     "line 4: pensaría en comprar un horno eléctrico",
+     "line 5: Un horno eléctrico no haría el mismo pan [after edit]",
+     "line 8: podríamos entregar todos los pedidos"
+    ],
+    "count": 3,
+    "count_without_edits": 2,
+    "edits": [
+     {
+      "line": 5,
+      "old": "Un horno eléctrico no hace el mismo pan",
+      "old_raw": "Un horno eléctrico no hace el mismo pan",
+      "suggest_es": "Un horno eléctrico no haría el mismo pan",
+      "suggest_es_raw": "Un horno eléctrico no haría el mismo pan",
+      "suggest_en": "\"An electric oven wouldn't make the same bread.\""
+     }
+    ],
+    "note": "The current grammar example already quotes \"no haría\", so this edit also fixes the mismatch the audit found between example and text. Si yo fuera usted and Si … nos prestara stay in the text for recognition only."
+   },
+   {
+    "topic": "Present perfect vs. preterite",
+    "family": "Perfect tenses",
+    "new": true,
+    "status": "recycled",
+    "evidence": [
+     "line 4: La pared de atrás se ha agrietado",
+     "line 5: ya me han quitado la mitad de los clientes",
+     "line 12: Lo hemos hablado entre todos",
+     "line 12: Usted nos ha dado pan durante cuarenta años"
+    ],
+    "count": 4,
+    "count_without_edits": 4,
+    "edits": [],
+    "note": "Second exposure. The explanation should say that Mexican speakers keep the perfect for situations that continue into the present (nos ha dado pan durante cuarenta años) and use the preterite for finished events."
+   },
+   {
+    "topic": "Relative clauses: que, en que",
+    "family": "Relative clauses & connectors",
+    "new": true,
+    "status": "introduces",
+    "evidence": [
+     "line 1: la época del año en que La Espiga vendía",
+     "line 2: Su nieto Iván, que la ayudaba",
+     "line 6: su difunto marido, que había construido ese horno",
+     "line 7: la señora Graciela, que tenía un horno grande",
+     "line 7: las hermanas Santiago, que hacían empanadas",
+     "line 9: Don Chema, que nunca había hecho pan",
+     "line 11: personas que esperaban con sonrisas",
+     "line 13: el barrio que la rodeaba"
+    ],
+    "count": 8,
+    "count_without_edits": 8,
+    "edits": [],
+    "note": ""
+   }
+  ]
+ },
+ "b1-04": {
+  "title": "El paciente de la habitación 12",
+  "role": "introduces",
+  "line_count": 16,
+  "topics": [
+   {
+    "topic": "Impersonal se: se puede, se cura",
+    "family": "Reflexives & se",
+    "new": true,
+    "status": "introduces",
+    "evidence": [
+     "line 6: se puede tocar el cielo",
+     "line 13: se cura más rápido",
+     "line 13: se siente vivo"
+    ],
+    "count": 3,
+    "count_without_edits": 3,
+    "edits": [],
+    "note": "The same line also has impersonal 3rd person plural: a uno lo cuidan / lo escuchan."
+   },
+   {
+    "topic": "Verb phrases: llevar + gerund, seguir, volver a",
+    "family": "Verb phrases & near future",
+    "new": true,
+    "status": "introduces",
+    "evidence": [
+     "line 0: llevaba tres años trabajando",
+     "line 9: sigue llegando",
+     "line 15: volvió a llamar a su hermana [after edit]"
+    ],
+    "count": 3,
+    "count_without_edits": 2,
+    "edits": [
+     {
+      "line": 15,
+      "old": "Esa semana llamó a su hermana",
+      "old_raw": "Esa semana llamó a su hermana",
+      "suggest_es": "Esa semana volvió a llamar a su hermana",
+      "suggest_es_raw": "Esa semana volvió a llamar a su hermana",
+      "suggest_en": "\"That week he called his sister again\""
+     }
+    ],
+    "note": "Partly covers the essentials-b1 verb-phrase topic. acabar de and dejar de are still not a headline topic anywhere."
+   },
+   {
+    "topic": "Pluperfect for background",
+    "family": "Perfect tenses",
+    "new": false,
+    "status": "recycled",
+    "evidence": [
+     "line 1: se había caído en la calle",
+     "line 1: se había lastimado la cadera",
+     "line 1: Los médicos habían dicho",
+     "line 7: nunca había levantado la vista",
+     "line 8: astrónomos que habían vivido siglos atrás",
+     "line 10: se había convertido en un amigo",
+     "line 15: había abierto una ventana"
+    ],
+    "count": 7,
+    "count_without_edits": 7,
+    "edits": [],
+    "note": "Second and last pluperfect headline at B1 (it used to be a headline in 8 of 10 stories)."
+   }
+  ]
+ },
+ "b1-05": {
+  "title": "Dos ruedas junto al mar",
+  "role": "consolidates",
+  "line_count": 18,
+  "topics": [
+   {
+    "topic": "Por vs. para",
+    "family": "Por & para",
+    "new": true,
+    "status": "introduces",
+    "evidence": [
+     "line 0: por la venta de la casa",
+     "line 0: Por eso",
+     "line 1: un lunes por la mañana",
+     "line 14: quemados por el sol",
+     "line 2: para volver a casa",
+     "line 6: traje uno para ti",
+     "line 8: para pasar la noche",
+     "line 14: para llevar las alforjas pesadas",
+     "line 15: para volver a alguien"
+    ],
+    "count": 9,
+    "count_without_edits": 9,
+    "edits": [],
+    "note": "Essentials-b1 topic. Por = cause, time of day, agent. Para = purpose, recipient."
+   },
+   {
+    "topic": "Conditional tense",
+    "family": "Conditionals & si-clauses",
+    "new": false,
+    "status": "recycled",
+    "evidence": [
+     "line 9: no le hablaría de nada importante",
+     "line 9: Solo le diría",
+     "line 16: deberíamos hacer otro viaje",
+     "line 17: adónde irían",
+     "line 17: ninguno de los dos dejaría"
+    ],
+    "count": 5,
+    "count_without_edits": 5,
+    "edits": [],
+    "note": "Replaces \"Hypotheticals about the past\", which is a B2 structure. The line \"Si hubiera sido más paciente, no habríamos perdido tres años\" stays in the text for recognition only."
+   },
+   {
+    "topic": "Reported speech",
+    "family": "Reported speech",
+    "new": false,
+    "status": "introduces",
+    "evidence": [
+     "line 6: Papá siempre decía que si uno quiere llegar lejos",
+     "line 8: les contó que había perdido a su propio hermano",
+     "line 15: Dijo que el mejor camino para volver a alguien es"
+    ],
+    "count": 3,
+    "count_without_edits": 3,
+    "edits": [],
+    "note": "First look: decir/contar que + statement, with little tense change."
+   }
+  ]
+ },
+ "b1-06": {
+  "title": "La foto del desván",
+  "role": "introduces",
+  "line_count": 16,
+  "topics": [
+   {
+    "topic": "Subjunctive after opinion and wish",
+    "family": "Subjunctive",
+    "new": false,
+    "status": "introduces",
+    "evidence": [
+     "line 10: No creo que ella conteste pronto",
+     "line 10: espero que lo haga",
+     "line 11: Es importante que no se haga ilusiones",
+     "line 14: Rocío quiere que la llames"
+    ],
+    "count": 4,
+    "count_without_edits": 4,
+    "edits": [],
+    "note": "The present subjunctive starts here (wish, doubt, importance)."
+   },
+   {
+    "topic": "Negative commands",
+    "family": "Commands & formality",
+    "new": false,
+    "status": "introduces",
+    "evidence": [
+     "line 3: no te rías de mí",
+     "line 11: no le digas nada [after edit]",
+     "line 15: no vendas la casa todavía"
+    ],
+    "count": 3,
+    "count_without_edits": 2,
+    "edits": [
+     {
+      "line": 11,
+      "old": "—Todavía no —respondió Marisol—.",
+      "old_raw": "—Todavía no —respondió Marisol—.",
+      "suggest_es": "—Todavía no, no le digas nada —respondió Marisol—.",
+      "suggest_es_raw": "—Todavía no, no le digas nada —respondió Marisol—.",
+      "suggest_en": "\"Not yet, don't tell her anything,\" Marisol replied."
+     }
+    ],
+    "note": "Links the new subjunctive form to negative tú commands."
+   },
+   {
+    "topic": "Reported speech",
+    "family": "Reported speech",
+    "new": false,
+    "status": "recycled",
+    "evidence": [
+     "line 4: Contó que Octavio había sido su primer amor",
+     "line 5: Octavio me dijo que se iba a trabajar",
+     "line 5: Prometió que me escribiría",
+     "line 5: y que volvería cuando tuviera",
+     "line 8: le pidió que investigara"
+    ],
+    "count": 5,
+    "count_without_edits": 5,
+    "edits": [],
+    "note": "Second exposure, now with tense shifts (iba a, escribiría, volvería, había sido)."
+   }
+  ]
+ },
+ "b1-07": {
+  "title": "Los zapatos que hablaban",
+  "role": "introduces",
+  "line_count": 16,
+  "topics": [
+   {
+    "topic": "Commands",
+    "family": "Commands & formality",
+    "new": false,
+    "status": "introduces",
+    "evidence": [
+     "line 1: Respira hondo",
+     "line 1: no cuentes el chiste",
+     "line 4: Imaginen que van caminando",
+     "line 4: Observen, por favor",
+     "line 5: Gire a la derecha",
+     "line 7: ¡Ponte la bufanda",
+     "line 7: llama a tu abuela",
+     "line 9: ¡Ayúdame, por favor!",
+     "line 13: Piense en los niños",
+     "line 14: Vuelve ya"
+    ],
+    "count": 10,
+    "count_without_edits": 10,
+    "edits": [],
+    "note": "The full system: tú, usted and ustedes, affirmative and negative, with pronouns attached (Ponte, Ayúdame)."
+   },
+   {
+    "topic": "Present subjunctive after wishes",
+    "family": "Subjunctive",
+    "new": false,
+    "status": "introduces",
+    "evidence": [
+     "line 2: Quiero que todo salga perfecto",
+     "line 10: Si prefieren que nos vayamos",
+     "line 15: espero que por fin se tome el jugo"
+    ],
+    "count": 3,
+    "count_without_edits": 3,
+    "edits": [],
+    "note": ""
+   },
+   {
+    "topic": "Subjunctive after para que, antes de que",
+    "family": "Subjunctive",
+    "new": true,
+    "status": "introduces",
+    "evidence": [
+     "line 1: para que te entiendan [after edit]",
+     "line 13: una manera de que la familia acompañe a la gente",
+     "line 14: antes de que cambien de opinión [after edit]"
+    ],
+    "count": 3,
+    "count_without_edits": 1,
+    "edits": [
+     {
+      "line": 1,
+      "old": "Habla despacio, sonríe",
+      "old_raw": "Habla despacio, sonríe",
+      "suggest_es": "Habla despacio para que te entiendan, sonríe",
+      "suggest_es_raw": "Habla despacio para que te entiendan, sonríe",
+      "suggest_en": "\"Speak slowly so they understand you, smile…\""
+     },
+     {
+      "line": 14,
+      "old": "—Vuelve ya —le dijo—.",
+      "old_raw": "—Vuelve ya —le dijo—.",
+      "suggest_es": "—Vuelve ya, antes de que cambien de opinión —le dijo—.",
+      "suggest_es_raw": "—Vuelve ya, antes de que cambien de opinión —le dijo—.",
+      "suggest_en": "\"Come back now, before they change their minds,\" she said."
+     }
+    ],
+    "note": "Purpose and time conjunctions (essentials-b1). There is also a bonus token: Cuando mi hijo sea famoso (line 15)."
+   }
+  ]
+ },
+ "b1-08": {
+  "title": "La última tiza",
+  "role": "introduces",
+  "line_count": 14,
+  "topics": [
+   {
+    "topic": "Si + imperfect subjunctive + conditional",
+    "family": "Conditionals & si-clauses",
+    "new": false,
+    "status": "introduces",
+    "evidence": [
+     "line 5: Si no fuera por usted, hoy no sería ingeniera [after edit]",
+     "line 9: Si volviera a empezar, elegiría otra vez esta escuela [after edit]",
+     "line 12: Si se quedara en casa, tendría tiempo para todos ellos [after edit]"
+    ],
+    "count": 3,
+    "count_without_edits": 0,
+    "edits": [
+     {
+      "line": 5,
+      "old": "Hoy soy ingeniera.",
+      "old_raw": "Hoy soy ingeniera.",
+      "suggest_es": "Si no fuera por usted, hoy no sería ingeniera.",
+      "suggest_es_raw": "Si no fuera por usted, hoy no sería ingeniera.",
+      "suggest_en": "\"If it weren't for you, I wouldn't be an engineer today.\""
+     },
+     {
+      "line": 9,
+      "old": "porque cada uno de ustedes me enseñó algo a mí.",
+      "old_raw": "porque cada uno de ustedes me enseñó algo a mí.",
+      "suggest_es": "porque cada uno de ustedes me enseñó algo a mí. Si volviera a empezar, elegiría otra vez esta escuela.",
+      "suggest_es_raw": "porque cada uno de ustedes me enseñó algo a mí. Si volviera a empezar, elegiría otra vez esta escuela.",
+      "suggest_en": "\"…because each of you taught me something. If I started again, I would choose this school again.\""
+     },
+     {
+      "line": 12,
+      "old": "en los libros que había prometido leer.",
+      "old_raw": "en los libros que había prometido leer.",
+      "suggest_es": "en los libros que había prometido leer. Si se quedara en casa, tendría tiempo para todos ellos.",
+      "suggest_es_raw": "en los libros que había prometido leer. Si se quedara en casa, tendría tiempo para todos ellos.",
+      "suggest_en": "\"…the books he had promised to read. If he stayed at home, he would have time for all of them.\""
+     }
+    ],
+    "note": "Moved here from b1-03/04/05 so that it comes after the present subjunctive (b1-06/07). No story after b1-06 has a natural token, so all 3 tokens come from edits."
+   },
+   {
+    "topic": "Subjunctive after cuando, aunque, ojalá",
+    "family": "Subjunctive",
+    "new": true,
+    "status": "introduces",
+    "evidence": [
+     "line 10: aunque les dé vergüenza",
+     "line 10: cuando alguien los ayude",
+     "line 11: Ojalá pueda venir los sábados"
+    ],
+    "count": 3,
+    "count_without_edits": 3,
+    "edits": [],
+    "note": ""
+   },
+   {
+    "topic": "Relative clauses: donde, que, lo que",
+    "family": "Relative clauses & connectors",
+    "new": false,
+    "status": "recycled",
+    "evidence": [
+     "line 3: el pasillo, donde los murales",
+     "line 4: adultos que él reconocía",
+     "line 4: lo que más lo desconcertó",
+     "line 8: la primera que él había usado",
+     "line 11: a quienes no tienen quien los ayude",
+     "line 11: algo que él no esperaba"
+    ],
+    "count": 6,
+    "count_without_edits": 6,
+    "edits": [],
+    "note": "Extends b1-03 (que) with donde, lo que and quien."
+   }
+  ]
+ },
+ "b1-09": {
+  "title": "Una noche sin luz",
+  "role": "introduces",
+  "line_count": 14,
+  "topics": [
+   {
+    "topic": "Reported commands",
+    "family": "Reported speech",
+    "new": false,
+    "status": "introduces",
+    "evidence": [
+     "line 2: gritaba que no usaran el ascensor",
+     "line 2: que bajaran con cuidado",
+     "line 5: le dijo que no tuviera miedo [after edit]"
+    ],
+    "count": 3,
+    "count_without_edits": 2,
+    "edits": [
+     {
+      "line": 5,
+      "old": "Soledad se arrodilló a su lado y le propuso",
+      "old_raw": "Soledad se arrodilló a su lado y le propuso",
+      "suggest_es": "Soledad se arrodilló a su lado, le dijo que no tuviera miedo y le propuso",
+      "suggest_es_raw": "Soledad se arrodilló a su lado, le dijo que no tuviera miedo y le propuso",
+      "suggest_en": "\"Soledad knelt beside him, told him not to be afraid and suggested…\""
+     }
+    ],
+    "note": "The story also has reported statements: Decía que la oscuridad le daba miedo (5), contó que su esposa había fallecido (8)."
+   },
+   {
+    "topic": "Commands with ustedes and usted",
+    "family": "Commands & formality",
+    "new": false,
+    "status": "recycled",
+    "evidence": [
+     "line 3: ¡Cálmense todos!",
+     "line 9: prométanme una cosa",
+     "line 12: escriba su nombre abajo"
+    ],
+    "count": 3,
+    "count_without_edits": 3,
+    "edits": [],
+    "note": "Pronouns attach to ustedes commands (Cálmense, prométanme)."
+   },
+   {
+    "topic": "Verbs of change: ponerse, quedarse, convertirse",
+    "family": "Reflexives & se",
+    "new": true,
+    "status": "introduces",
+    "evidence": [
+     "line 0: el cielo se puso negro",
+     "line 8: el edificio entero se convirtió en una cocina improvisada",
+     "line 10: Gonzalo se quedó dormido"
+    ],
+    "count": 3,
+    "count_without_edits": 3,
+    "edits": [],
+    "note": "The B1 half of the verbs-of-change topic. volverse and hacerse follow in b2-08."
+   }
+  ]
+ },
+ "b1-10": {
+  "title": "La mano que toca",
+  "role": "recycles",
+  "line_count": 18,
+  "topics": [
+   {
+    "topic": "Passive and impersonal se",
+    "family": "Reflexives & se",
+    "new": true,
+    "status": "introduces",
+    "evidence": [
+     "line 13: Se pone sobre el aserrín",
+     "line 13: se llena de colores",
+     "line 16: no se hacen para durar"
+    ],
+    "count": 3,
+    "count_without_edits": 3,
+    "edits": [],
+    "note": "Essentials-b1 string. There is also a bonus token: sin ser vistas (6) previews the ser passive."
+   },
+   {
+    "topic": "Subjunctive after wishes and hasta que",
+    "family": "Subjunctive",
+    "new": false,
+    "status": "recycled",
+    "evidence": [
+     "line 1: espero que veas los volcanes",
+     "line 6: Espero que la casa todavía exista",
+     "line 14: quiero que la haga usted",
+     "line 14: hasta que la terminemos juntas"
+    ],
+    "count": 4,
+    "count_without_edits": 4,
+    "edits": [],
+    "note": ""
+   },
+   {
+    "topic": "Por vs. para",
+    "family": "Por & para",
+    "new": true,
+    "status": "recycled",
+    "evidence": [
+     "line 2: por primera vez",
+     "line 3: Por eso la llamamos Antigua",
+     "line 7: por esa calle",
+     "line 6: para que las monjas pudieran cruzar",
+     "line 9: para tocar",
+     "line 16: para durar"
+    ],
+    "count": 6,
+    "count_without_edits": 6,
+    "edits": [],
+    "note": ""
+   }
+  ]
+ },
+ "b2-01": {
+  "title": "La carta sin sello",
+  "role": "consolidates",
+  "line_count": 9,
+  "topics": [
+   {
+    "topic": "Subjunctive after conjunctions (para que, sin que, antes de que...)",
+    "family": "Subjunctive",
+    "new": true,
+    "status": "introduces",
+    "evidence": [
+     "line 2: hasta que terminara el invierno",
+     "line 3: para que nunca llegaran a su destino",
+     "line 7: sin que le temblara la voz",
+     "line 8: para que algún futuro archivista tuviera"
+    ],
+    "count": 4,
+    "count_without_edits": 4,
+    "edits": [],
+    "note": "Essentials-b2 string. sin que is new at this level."
+   },
+   {
+    "topic": "Aunque: indicative vs subjunctive",
+    "family": "Subjunctive",
+    "new": false,
+    "status": "introduces",
+    "evidence": [
+     "line 1: aunque se sentía un poco culpable",
+     "line 3: aunque nunca se puede estar seguro",
+     "line 4: aunque te advierto",
+     "line 7: Aunque él ya no esté para oírlo"
+    ],
+    "count": 4,
+    "count_without_edits": 4,
+    "edits": [],
+    "note": ""
+   },
+   {
+    "topic": "Si + imperfect subjunctive, conditional",
+    "family": "Conditionals & si-clauses",
+    "new": false,
+    "status": "recycled",
+    "evidence": [
+     "line 2: si ella aún quisiera verlo, la esperaría",
+     "line 2: Si pudiera repetir aquella tarde, no me marcharía",
+     "line 3: si él fuera el contable de entonces, tal vez actuaría",
+     "line 4: Si fuera más joven, saldría",
+     "line 4: si usted me dejara, yo podría",
+     "line 7: si pudiera hablar con él hoy"
+    ],
+    "count": 6,
+    "count_without_edits": 6,
+    "edits": [],
+    "note": "Recycled from b1-08. This is the only B2 headline for the structure (it used to be 3)."
+   }
+  ]
+ },
+ "b2-02": {
+  "title": "El horno del patio",
+  "role": "consolidates",
+  "line_count": 10,
+  "topics": [
+   {
+    "topic": "Concession: aunque, por mucho que",
+    "family": "Subjunctive",
+    "new": false,
+    "status": "introduces",
+    "evidence": [
+     "line 0: aunque se negaba a admitirlo",
+     "line 3: por brillante que fuese",
+     "line 6: por mucho que me guste imitarla",
+     "line 9: aunque no lo diga"
+    ],
+    "count": 4,
+    "count_without_edits": 4,
+    "edits": [],
+    "note": "The focus is por mucho que / por + adjective + que. aunque revisits b2-01."
+   },
+   {
+    "topic": "Verb phrases: seguir, acabar + gerund; soler",
+    "family": "Verb phrases & near future",
+    "new": true,
+    "status": "introduces",
+    "evidence": [
+     "line 0: llevaba once años dirigiendo",
+     "line 2: si siguiéramos haciendo siempre lo mismo",
+     "line 2: el negocio acabaría cerrando",
+     "line 4: solía decir",
+     "line 9: suele salir sorprendido"
+    ],
+    "count": 5,
+    "count_without_edits": 5,
+    "edits": [],
+    "note": ""
+   },
+   {
+    "topic": "Subjunctive after no es que, temer que, a que",
+    "family": "Subjunctive",
+    "new": true,
+    "status": "introduces",
+    "evidence": [
+     "line 1: como si temieran que la hija pródiga volviera",
+     "line 2: no viene a que le expliquen la comida",
+     "line 2: Viene a que se la den",
+     "line 3: No era que don Leandro fuera terco"
+    ],
+    "count": 4,
+    "count_without_edits": 4,
+    "edits": [],
+    "note": ""
+   }
+  ]
+ },
+ "b2-03": {
+  "title": "La mochila equivocada",
+  "role": "introduces",
+  "line_count": 11,
+  "topics": [
+   {
+    "topic": "Como si + imperfect subjunctive",
+    "family": "Subjunctive",
+    "new": false,
+    "status": "introduces",
+    "evidence": [
+     "line 1: como si fueran a escalar el Everest",
+     "line 3: como si la mano que escribía envejeciera",
+     "line 4: como si fuera un expediente",
+     "line 7: como si llevara piedras"
+    ],
+    "count": 4,
+    "count_without_edits": 4,
+    "edits": [],
+    "note": "The only B2 headline for como si (it used to be 3)."
+   },
+   {
+    "topic": "Passive: ser + participle and se",
+    "family": "Passive voice",
+    "new": true,
+    "status": "introduces",
+    "evidence": [
+     "line 3: Dentro se encontraron unos calcetines",
+     "line 3: En la primera página se leía",
+     "line 4: se celebra el Año Santo Jacobeo",
+     "line 4: el sepulcro del apóstol fue descubierto [after edit]",
+     "line 5: en Santiago se vendían",
+     "line 9: que fue esculpido por el Maestro Mateo [after edit]",
+     "line 9: impulsado por ocho hombres",
+     "line 9: gastada por millones de manos"
+    ],
+    "count": 8,
+    "count_without_edits": 6,
+    "edits": [
+     {
+      "line": 4,
+      "old": "el sepulcro del apóstol se descubrió en el siglo IX",
+      "old_raw": "el sepulcro del apóstol se descubrió en el siglo IX",
+      "suggest_es": "el sepulcro del apóstol fue descubierto en el siglo IX",
+      "suggest_es_raw": "el sepulcro del apóstol fue descubierto en el siglo IX",
+      "suggest_en": "\"the apostle's tomb was discovered in the 9th century\""
+     },
+     {
+      "line": 9,
+      "old": "el Pórtico de la Gloria, obra del Maestro Mateo en el siglo XII,",
+      "old_raw": "el Pórtico de la Gloria, obra del Maestro Mateo en el siglo XII,",
+      "suggest_es": "el Pórtico de la Gloria, que fue esculpido por el Maestro Mateo en el siglo XII,",
+      "suggest_es_raw": "el Pórtico de la Gloria, que fue esculpido por el Maestro Mateo en el siglo XII,",
+      "suggest_en": "\"the Pórtico de la Gloria, which was carved by Master Mateo in the 12th century,\""
+     }
+    ],
+    "note": "Covers the ser and se parts of the essentials-b2 passive topic. estar + participle is in b2-06. Without the edits the story has passive se and participle + por, but no ser passive."
+   },
+   {
+    "topic": "Imperfect subjunctive in subordinate clauses",
+    "family": "Past tenses",
+    "new": false,
+    "status": "introduces",
+    "evidence": [
+     "line 0: le había exigido que caminara",
+     "line 1: para que le pusieran otro sello",
+     "line 9: insistió en que vieran el Pórtico",
+     "line 10: le pidió que escribiera ella la entrada"
+    ],
+    "count": 4,
+    "count_without_edits": 4,
+    "edits": [],
+    "note": ""
+   }
+  ]
+ },
+ "b2-04": {
+  "title": "Una frase de más",
+  "role": "introduces",
+  "line_count": 11,
+  "topics": [
+   {
+    "topic": "Indicative vs subjunctive: opinion, doubt and emotion",
+    "family": "Subjunctive",
+    "new": true,
+    "status": "introduces",
+    "evidence": [
+     "line 3: es posible que les mintiera",
+     "line 6: me temo que la frase significa",
+     "line 7: No esperaba que una traductora desconocida le hiciera",
+     "line 7: mucho menos que le produjera alivio",
+     "line 9: es posible que no fuera del todo franco"
+    ],
+    "count": 5,
+    "count_without_edits": 5,
+    "edits": [],
+    "note": "Essentials-b2 string. me temo que + indicative contrasts with no esperaba que + subjunctive."
+   },
+   {
+    "topic": "Discourse markers: sin embargo, en cambio, en cuanto a",
+    "family": "Relative clauses & connectors",
+    "new": true,
+    "status": "introduces",
+    "evidence": [
+     "line 2: Aquel libro, sin embargo",
+     "line 3: el español, en cambio",
+     "line 9: Precisamente",
+     "line 10: La embajada, por su parte",
+     "line 10: En cuanto a ella"
+    ],
+    "count": 5,
+    "count_without_edits": 5,
+    "edits": [],
+    "note": ""
+   },
+   {
+    "topic": "Ojalá and como si with pluperfect",
+    "family": "Subjunctive",
+    "new": false,
+    "status": "introduces",
+    "evidence": [
+     "line 6: ojalá yo hubiera tenido esa libertad",
+     "line 7: como si la hubiera escrito otra persona [after edit]",
+     "line 8: como si le hubieran confiado una carga"
+    ],
+    "count": 3,
+    "count_without_edits": 2,
+    "edits": [
+     {
+      "line": 7,
+      "old": "le parecía casi cómica su propia cautela.",
+      "old_raw": "le parecía casi cómica su propia cautela.",
+      "suggest_es": "le parecía casi cómica su propia cautela, como si la hubiera escrito otra persona.",
+      "suggest_es_raw": "le parecía casi cómica su propia cautela, como si la hubiera escrito otra persona.",
+      "suggest_en": "\"…his own caution seemed almost comic, as if someone else had written it.\""
+     }
+    ],
+    "note": "Introduces the pluperfect subjunctive form in simple frames before si + pluperfect in b2-05."
+   }
+  ]
+ },
+ "b2-05": {
+  "title": "Lo que nadie vio en Corrientes",
+  "role": "introduces",
+  "line_count": 10,
+  "topics": [
+   {
+    "topic": "Si + pluperfect subjunctive, conditional perfect",
+    "family": "Conditionals & si-clauses",
+    "new": false,
+    "status": "introduces",
+    "evidence": [
+     "line 2: Si alguien hubiera entrado, la habría escuchado",
+     "line 6: si yo hubiera querido robarlo, no habría ofrecido",
+     "line 7: Si el hombre del paraguas hubiera entrado, la campanita habría sonado",
+     "line 7: Si a las seis y cuarto hubiera llovido, Bernardo habría vuelto",
+     "line 8: Si me hubieras preguntado, te habría dicho"
+    ],
+    "count": 5,
+    "count_without_edits": 5,
+    "edits": [],
+    "note": "The first of only 2 B2 headlines (it used to be 7). The deduction plot depends on it."
+   },
+   {
+    "topic": "Reported speech with tense shifts",
+    "family": "Reported speech",
+    "new": false,
+    "status": "introduces",
+    "evidence": [
+     "line 1: les preguntaría a todos qué habían visto",
+     "line 2: tu abuelo me dijo que bajara al sótano",
+     "line 3: Me dijo que volvería otro día",
+     "line 4: Olivia le contó que",
+     "line 5: El pronóstico decía que llovería",
+     "line 6: Dijo que estaba allí desde el viernes y que el lunes estaría",
+     "line 9: le dijo que el libro ya no estaba a la venta",
+     "line 9: el coleccionista contaría"
+    ],
+    "count": 8,
+    "count_without_edits": 8,
+    "edits": [],
+    "note": ""
+   },
+   {
+    "topic": "Ojalá and aunque + pluperfect subjunctive",
+    "family": "Subjunctive",
+    "new": false,
+    "status": "introduces",
+    "evidence": [
+     "line 2: Ojalá hubiera cerrado la vitrina",
+     "line 6: aunque me lo hubieran regalado",
+     "line 8: ojalá me hubieras preguntado",
+     "line 8: Aunque me hubieran ofrecido el triple"
+    ],
+    "count": 4,
+    "count_without_edits": 4,
+    "edits": [],
+    "note": ""
+   }
+  ]
+ },
+ "b2-06": {
+  "title": "El reloj de las cuatro y diez",
+  "role": "consolidates",
+  "line_count": 14,
+  "topics": [
+   {
+    "topic": "Estar + participle: resulting state",
+    "family": "Ser vs. estar",
+    "new": true,
+    "status": "introduces",
+    "evidence": [
+     "line 2: Estaba parado a las cuatro y diez",
+     "line 3: ni está roto",
+     "line 8: Pensé que estaba descompuesto",
+     "line 8: mientras ese reloj estuviera parado"
+    ],
+    "count": 4,
+    "count_without_edits": 4,
+    "edits": [],
+    "note": "The estar part of the essentials-b2 passive topic: a resulting state, as opposed to the action in b2-03."
+   },
+   {
+    "topic": "Reported speech with tense shifts",
+    "family": "Reported speech",
+    "new": false,
+    "status": "recycled",
+    "evidence": [
+     "line 0: advirtió que no me enseñaría a reparar relojes",
+     "line 3: prometió que volvería a buscarlo",
+     "line 5: Me dije que solo lo miraría",
+     "line 11: Dijo que su abuela, Salomé, había fallecido",
+     "line 12: Me pidió que no viniera",
+     "line 12: Me rogó que no lo pusiera en marcha"
+    ],
+    "count": 6,
+    "count_without_edits": 6,
+    "edits": [],
+    "note": "The second and last B2 headline (it used to be 5). Adds reported thought and reported requests."
+   },
+   {
+    "topic": "Subjunctive in time clauses: cuando, hasta que, mientras",
+    "family": "Subjunctive",
+    "new": true,
+    "status": "introduces",
+    "evidence": [
+     "line 3: cuando estuviera listo",
+     "line 8: mientras ese reloj estuviera parado",
+     "line 12: hasta que ella ya no pudiera venir",
+     "line 12: hasta que pudiera soportar oírlo"
+    ],
+    "count": 4,
+    "count_without_edits": 4,
+    "edits": [],
+    "note": ""
+   }
+  ]
+ },
+ "b2-07": {
+  "title": "Lo de siempre",
+  "role": "recycles",
+  "line_count": 12,
+  "topics": [
+   {
+    "topic": "Cleft sentences",
+    "family": "Relative clauses & connectors",
+    "new": false,
+    "status": "introduces",
+    "evidence": [
+     "line 1: Fue una monja de Santa Rosa quien inventó el mole",
+     "line 1: es de esa cocina de donde viene",
+     "line 2: fue el viento el que tiró",
+     "line 3: fue mi familia la que lo hizo bien",
+     "line 10: fue doña Fidela la que habló"
+    ],
+    "count": 5,
+    "count_without_edits": 5,
+    "edits": [],
+    "note": ""
+   },
+   {
+    "topic": "Si + pluperfect subjunctive, conditional perfect",
+    "family": "Conditionals & si-clauses",
+    "new": false,
+    "status": "recycled",
+    "evidence": [
+     "line 3: Si mi bisabuela no les hubiera dado de comer, no habrían ganado",
+     "line 9: si les hubiera dicho la verdad, me habrían dejado",
+     "line 10: Si no me hubiera cambiado la receta sin pedirme permiso, me habría casado"
+    ],
+    "count": 3,
+    "count_without_edits": 3,
+    "edits": [],
+    "note": ""
+   },
+   {
+    "topic": "Verb phrases: llevar + gerund, llevar sin, ir + gerund",
+    "family": "Verb phrases & near future",
+    "new": true,
+    "status": "introduces",
+    "evidence": [
+     "line 0: llevaba diez años escribiendo",
+     "line 1: llevaba cuarenta años sirviendo",
+     "line 4: llevaban más de cuarenta años sin dirigirse la palabra",
+     "line 9: le fui poniendo",
+     "line 11: llevaban décadas cocinando",
+     "line 11: sigue moliendo"
+    ],
+    "count": 6,
+    "count_without_edits": 6,
+    "edits": [],
+    "note": ""
+   }
+  ]
+ },
+ "b2-08": {
+  "title": "La segunda parte del juramento",
+  "role": "introduces",
+  "line_count": 12,
+  "topics": [
+   {
+    "topic": "Verbs of change: volverse, hacerse, convertirse",
+    "family": "Reflexives & se",
+    "new": true,
+    "status": "introduces",
+    "evidence": [
+     "line 2: convertido en un hombre ancho y calvo",
+     "line 2: se había hecho veterinario",
+     "line 3: se había vuelto «medio español»"
+    ],
+    "count": 3,
+    "count_without_edits": 3,
+    "edits": [],
+    "note": "Essentials-b2 topic. It builds on ponerse and quedarse from b1-09."
+   },
+   {
+    "topic": "Relative clauses with prepositions; cuyo",
+    "family": "Relative clauses & connectors",
+    "new": true,
+    "status": "introduces",
+    "evidence": [
+     "line 0: al que sus mejores amigos habían dado la espalda",
+     "line 1: con quien yo había compartido banda",
+     "line 3: en el que nadie mencionó",
+     "line 6: cuya goma elástica estaba ya reseca [after edit]",
+     "line 10: Brindamos por los que no habían podido venir"
+    ],
+    "count": 5,
+    "count_without_edits": 4,
+    "edits": [
+     {
+      "line": 6,
+      "old": "sacó un sobre amarillento, atado con una goma elástica ya reseca.",
+      "old_raw": "sacó un sobre amarillento, atado con una goma elástica ya <b>reseca</b>.",
+      "suggest_es": "sacó un sobre amarillento, cuya goma elástica estaba ya reseca.",
+      "suggest_es_raw": "sacó un sobre amarillento, cuya goma elástica estaba ya <b>reseca</b>.",
+      "suggest_en": "\"…took out a yellowed envelope whose rubber band had long since dried out.\""
+     }
+    ],
+    "note": "Essentials-b2 string. The only natural cuyo at B2 is in b2-09 line 12 (cuyo plato fuerte), so this story gets one cuyo by edit."
+   },
+   {
+    "topic": "Lo + adjective and lo + adjective + que",
+    "family": "Relative clauses & connectors",
+    "new": true,
+    "status": "introduces",
+    "evidence": [
+     "line 7: Lo primero que noté fue alivio",
+     "line 7: lo segundo, una vergüenza lenta",
+     "line 10: Lo curioso es que era menos épica [after edit]"
+    ],
+    "count": 3,
+    "count_without_edits": 2,
+    "edits": [
+     {
+      "line": 10,
+      "old": "Era menos épica, pero más cierta",
+      "old_raw": "Era menos épica, pero más cierta",
+      "suggest_es": "Lo curioso es que era menos épica, pero más cierta",
+      "suggest_es_raw": "Lo curioso es que era menos épica, pero más cierta",
+      "suggest_en": "\"The odd thing is that it was less heroic, but truer\""
+     }
+    ],
+    "note": ""
+   }
+  ]
+ },
+ "b2-09": {
+  "title": "Sin novedad en la sala siete",
+  "role": "introduces",
+  "line_count": 14,
+  "topics": [
+   {
+    "topic": "Subjunctive in relative clauses",
+    "family": "Subjunctive",
+    "new": false,
+    "status": "introduces",
+    "evidence": [
+     "line 9: Busco a alguien que me diga",
+     "line 11: quien lo corrija tendrá que reconocer",
+     "line 12: para todo el que quisiera oírla"
+    ],
+    "count": 3,
+    "count_without_edits": 3,
+    "edits": [],
+    "note": "There is also a bonus token: No creo que le moleste que alguien quiera tanto (11) recycles b2-04."
+   },
+   {
+    "topic": "Discourse markers: ahora bien, de modo que, por cierto",
+    "family": "Relative clauses & connectors",
+    "new": true,
+    "status": "recycled",
+    "evidence": [
+     "line 0: él, en cambio",
+     "line 3: de modo que no había imágenes",
+     "line 3: o, peor aún",
+     "line 4: sin embargo",
+     "line 11: Ahora bien",
+     "line 13: por cierto"
+    ],
+    "count": 6,
+    "count_without_edits": 6,
+    "edits": [],
+    "note": ""
+   },
+   {
+    "topic": "Conditional of conjecture",
+    "family": "Conditionals & si-clauses",
+    "new": false,
+    "status": "introduces",
+    "evidence": [
+     "line 1: Serían las tres de la madrugada",
+     "line 1: pensó que sería la radio",
+     "line 4: ¿qué le importaría a un guardia una caja rota? [after edit]"
+    ],
+    "count": 3,
+    "count_without_edits": 2,
+    "edits": [
+     {
+      "line": 4,
+      "old": "Luego, extrañada, quiso saber",
+      "old_raw": "Luego, extrañada, quiso saber",
+      "suggest_es": "Luego, extrañada —¿qué le importaría a un guardia una caja rota?—, quiso saber",
+      "suggest_es_raw": "Luego, extrañada —¿qué le importaría a un guardia una caja rota?—, quiso saber",
+      "suggest_en": "\"Then, puzzled (what could a broken box matter to a guard?), she wanted to know…\""
+     }
+    ],
+    "note": ""
+   }
+  ]
+ },
+ "b2-10": {
+  "title": "Capitolio, 1938",
+  "role": "recycles",
+  "line_count": 12,
+  "topics": [
+   {
+    "topic": "Subjunctive: whatever, whoever",
+    "family": "Subjunctive",
+    "new": false,
+    "status": "introduces",
+    "evidence": [
+     "line 3: dijera yo lo que dijera",
+     "line 8: fuera quien fuera aquella pareja",
+     "line 9: costara lo que costara",
+     "line 11: Diga lo que diga la gente"
+    ],
+    "count": 4,
+    "count_without_edits": 4,
+    "edits": [],
+    "note": ""
+   },
+   {
+    "topic": "Cleft sentences",
+    "family": "Relative clauses & connectors",
+    "new": false,
+    "status": "recycled",
+    "evidence": [
+     "line 2: Fue esa máquina, y no la pareja ni la cúpula, la que",
+     "line 6: Fue el nieto de uno de ellos quien",
+     "line 7: Fue de vuelta en el archivo cuando",
+     "line 10: fue la historia de los Quintana la que"
+    ],
+    "count": 4,
+    "count_without_edits": 4,
+    "edits": [],
+    "note": ""
+   },
+   {
+    "topic": "Conditional perfect of conjecture",
+    "family": "Conditionals & si-clauses",
+    "new": true,
+    "status": "recycled",
+    "evidence": [
+     "line 0: La foto tendría más de ochenta años",
+     "line 4: ¿Quién habría escrito aquella fecha?",
+     "line 4: la habría catalogado deprisa",
+     "line 4: la propia pareja la habría escrito",
+     "line 4: se habría equivocado de década"
+    ],
+    "count": 5,
+    "count_without_edits": 5,
+    "edits": [],
+    "note": "Extends b2-09 (serían, sería) to guesses about the past. Si + pluperfect (lines 2, 7, 10) appears again for recognition only."
+   }
+  ]
+ }
+}

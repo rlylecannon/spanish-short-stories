@@ -1,0 +1,942 @@
+{
+ "a1-01": {
+  "name": "Xóchitl",
+  "g": "f",
+  "role": "the girl detective",
+  "dialogue": {
+   "steps": [
+    {
+     "say": "¡Hola! Soy Xóchitl. Vivo en la Ciudad de México.",
+     "en": "Hi! I'm Xóchitl. I live in Mexico City.",
+     "r": [
+      [
+       "Hola, Xóchitl. ¿Cómo estás?",
+       "Hi, Xóchitl. How are you?",
+       1
+      ],
+      [
+       "Hola, Xóchitl. ¿Qué tal?",
+       "Hi, Xóchitl. How's it going?",
+       1
+      ]
+     ]
+    },
+    {
+     "say": "Estoy bien, gracias. Pero hay un problema. ¡No hay flan! ¿Te gusta el flan?",
+     "en": "I'm fine, thanks. But there is a problem. There is no flan! Do you like flan?",
+     "r": [
+      [
+       "Sí, me gusta mucho.",
+       "Yes, I like it a lot.",
+       2
+      ],
+      [
+       "No, no me gusta.",
+       "No, I don't like it.",
+       2
+      ]
+     ]
+    },
+    {
+     "say": "Son las cuatro. En la mesa hay una cuchara y unos lentes. ¿De quién son los lentes?",
+     "en": "It's four o'clock. On the table there is a spoon and some glasses. Whose glasses are they?",
+     "r": [
+      [
+       "Son del abuelo.",
+       "They're Grandpa's.",
+       3
+      ],
+      [
+       "¿Son de la perra?",
+       "Are they the dog's?",
+       4
+      ]
+     ]
+    },
+    {
+     "say": "¡Son del abuelo Fermín! Él está en la sala. No tiene lentes y tiene caramelo en el bigote.",
+     "en": "They're Grandpa Fermín's! He's in the living room. He doesn't have his glasses and he has caramel on his mustache.",
+     "r": [
+      [
+       "¡Ja, ja! El abuelo come el flan.",
+       "Ha ha! Grandpa eats the flan.",
+       5
+      ],
+      [
+       "¿Y la perra?",
+       "And the dog?",
+       4
+      ]
+     ]
+    },
+    {
+     "say": "Chispa está en el piso. Tiene sueño. ¡Los perros no tienen cuchara!",
+     "en": "Chispa is on the floor. She's sleepy. Dogs don't have spoons!",
+     "r": [
+      [
+       "Es verdad.",
+       "That's true.",
+       5
+      ],
+      [
+       "¡Pobre Chispa!",
+       "Poor Chispa!",
+       5
+      ]
+     ]
+    },
+    {
+     "say": "Son las cinco. Ahora el abuelo y yo preparamos otro flan. ¡Hasta luego!",
+     "en": "It's five o'clock. Now Grandpa and I are making another flan. See you later!",
+     "end": true
+    }
+   ]
+  }
+ },
+ "a1-02": {
+  "name": "Delfina",
+  "g": "f",
+  "role": "the steakhouse cook",
+  "dialogue": {
+   "steps": [
+    {
+     "say": "¡Hola! Soy Delfina. Soy cocinera en una parrilla de Buenos Aires.",
+     "en": "Hi! I'm Delfina. I'm a cook at a steakhouse in Buenos Aires.",
+     "r": [
+      [
+       "¡Hola, Delfina! ¿Te gusta tu trabajo?",
+       "Hi, Delfina! Do you like your job?",
+       1
+      ],
+      [
+       "Hola. ¿Qué es una parrilla?",
+       "Hi. What is a parrilla?",
+       1
+      ]
+     ]
+    },
+    {
+     "say": "Una parrilla es un restaurante de carne. ¡Me gusta mi trabajo! Hoy es viernes y a las nueve tengo tres mesas. ¿Te gustan los bifes?",
+     "en": "A parrilla is a meat restaurant. I like my job! Today is Friday and at nine I have three tables. Do you like steaks?",
+     "r": [
+      [
+       "Sí, me gustan mucho.",
+       "Yes, I like them a lot.",
+       2
+      ],
+      [
+       "No, me gustan las ensaladas.",
+       "No, I like salads.",
+       2
+      ]
+     ]
+    },
+    {
+     "say": "Mi jefe, don Horacio, es serio. No le gustan los errores. Y hoy tengo un problema.",
+     "en": "My boss, Don Horacio, is stern. He doesn't like mistakes. And today I have a problem.",
+     "r": [
+      [
+       "¿Qué problema?",
+       "What problem?",
+       3
+      ],
+      [
+       "¡Ay! ¿Qué pasa?",
+       "Oh no! What's happening?",
+       3
+      ]
+     ]
+    },
+    {
+     "say": "La comanda de la mesa seis dice nueve bifes. Pongo nueve en la parrilla. Pero la comanda está al revés.",
+     "en": "The ticket for table six says nine steaks. I put nine on the grill. But the ticket is upside down.",
+     "r": [
+      [
+       "¡Es un seis, no un nueve!",
+       "It's a six, not a nine!",
+       4
+      ],
+      [
+       "¿Cuántas personas tiene la mesa seis?",
+       "How many people does table six have?",
+       4
+      ]
+     ]
+    },
+    {
+     "say": "La mesa seis tiene seis personas, y hay nueve bifes. Pero el mozo ve a tres clientes nuevos. ¿Qué hago?",
+     "en": "Table six has six people, and there are nine steaks. But the waiter sees three new customers. What do I do?",
+     "r": [
+      [
+       "Los tres bifes son para ellos.",
+       "The three steaks are for them.",
+       5
+      ],
+      [
+       "¡Qué suerte!",
+       "What luck!",
+       5
+      ]
+     ]
+    },
+    {
+     "say": "¡Sí! Y don Horacio prueba un bife y dice: me gusta tu bife. ¡Y sonríe!",
+     "en": "Yes! And Don Horacio tastes a steak and says: I like your steak. And he smiles!",
+     "end": true
+    }
+   ]
+  }
+ },
+ "a1-03": {
+  "name": "Cristina",
+  "g": "f",
+  "role": "the friendly classmate",
+  "dialogue": {
+   "steps": [
+    {
+     "say": "¡Hola! Soy Cristina. Hoy hay una niña nueva en mi clase.",
+     "en": "Hi! I'm Cristina. Today there is a new girl in my class.",
+     "r": [
+      [
+       "Hola, Cristina. ¿Cómo se llama?",
+       "Hi, Cristina. What's her name?",
+       1
+      ],
+      [
+       "Hola. ¿Está nerviosa?",
+       "Hi. Is she nervous?",
+       2
+      ]
+     ]
+    },
+    {
+     "say": "Se llama Alicia. Es de Chile y tiene el pelo largo.",
+     "en": "Her name is Alicia. She is from Chile and has long hair.",
+     "r": [
+      [
+       "¿Está nerviosa?",
+       "Is she nervous?",
+       2
+      ],
+      [
+       "¿Le gusta el fútbol?",
+       "Does she like soccer?",
+       3
+      ]
+     ]
+    },
+    {
+     "say": "Sí, está muy nerviosa. Es su primer día en la clase.",
+     "en": "Yes, she is very nervous. It is her first day in the class.",
+     "r": [
+      [
+       "Quiero hablar con ella.",
+       "I want to talk to her.",
+       4
+      ],
+      [
+       "¿Le gusta el fútbol?",
+       "Does she like soccer?",
+       3
+      ]
+     ]
+    },
+    {
+     "say": "No, a Alicia le gusta dibujar. ¡A mí también!",
+     "en": "No, Alicia likes to draw. Me too!",
+     "r": [
+      [
+       "A mí también me gusta dibujar.",
+       "I like drawing too.",
+       4
+      ],
+      [
+       "Me gusta el fútbol.",
+       "I like soccer.",
+       4
+      ]
+     ]
+    },
+    {
+     "say": "A las doce comemos juntas. Tengo un bocadillo de queso. ¿Y tú?",
+     "en": "At twelve we eat together. I have a cheese sandwich. And you?",
+     "r": [
+      [
+       "Tengo una manzana roja.",
+       "I have a red apple.",
+       5
+      ],
+      [
+       "Tengo hambre. Quiero queso.",
+       "I'm hungry. I want cheese.",
+       5
+      ]
+     ]
+    },
+    {
+     "say": "¡Qué bien! Ahora Alicia tiene una amiga y está contenta.",
+     "en": "Great! Now Alicia has a friend and she is happy.",
+     "end": true
+    }
+   ]
+  }
+ },
+ "a1-04": {
+  "name": "Marleny",
+  "g": "f",
+  "role": "the Bogotá baker",
+  "dialogue": {
+   "steps": [
+    {
+     "say": "¡Hola! Soy Marleny. Tengo una panadería en Bogotá y un perro negro, Tinto.",
+     "en": "Hi! I'm Marleny. I have a bakery in Bogotá and a black dog, Tinto.",
+     "r": [
+      [
+       "¡Hola, Marleny! ¿Qué vende usted?",
+       "Hi, Marleny! What do you sell?",
+       1
+      ],
+      [
+       "¡Qué bien! Me gustan los perros.",
+       "How nice! I like dogs.",
+       1
+      ]
+     ]
+    },
+    {
+     "say": "Vendo pan y tortas. Hoy hay una torta blanca con fresas rojas en la ventana. Pero, ¿dónde está mi torta? ¡No está!",
+     "en": "I sell bread and cakes. Today there's a white cake with red strawberries in the window. But where is my cake? It isn't there!",
+     "r": [
+      [
+       "¿Está en la cocina?",
+       "Is it in the kitchen?",
+       2
+      ],
+      [
+       "¡Qué problema! ¿Qué hace usted?",
+       "What a problem! What do you do?",
+       2
+      ]
+     ]
+    },
+    {
+     "say": "No está en la cocina. Voy a la esquina, donde está Edwin, el policía. Una señora dice: es un chico bajo, con chaqueta roja.",
+     "en": "It isn't in the kitchen. I go to the corner, where Edwin, the police officer, is. A woman says: it's a short boy, with a red jacket.",
+     "r": [
+      [
+       "¿Y de qué color es el pelo?",
+       "And what color is his hair?",
+       3
+      ],
+      [
+       "¿Adónde va el chico?",
+       "Where is the boy going?",
+       3
+      ]
+     ]
+    },
+    {
+     "say": "Tiene el pelo negro y zapatos blancos. Va al parque. Allí hay un domiciliario con chaqueta roja. ¿Es él?",
+     "en": "He has black hair and white shoes. He's going to the park. There's a delivery man in a red jacket. Is it him?",
+     "r": [
+      [
+       "No, porque es alto.",
+       "No, because he's tall.",
+       4
+      ],
+      [
+       "Sí, ¡es él!",
+       "Yes, it's him!",
+       4
+      ]
+     ]
+    },
+    {
+     "say": "Edwin dice: no es él, porque es alto. Vamos al parque. ¡Allí está la torta! ¿Y quién es el chico bajo?",
+     "en": "Edwin says: it isn't him, because he's tall. We go to the park. There's the cake! And who is the short boy?",
+     "r": [
+      [
+       "¿Es Tinto?",
+       "Is it Tinto?",
+       5
+      ],
+      [
+       "No sé. ¿Quién es?",
+       "I don't know. Who is it?",
+       5
+      ]
+     ]
+    },
+    {
+     "say": "¡Es Tinto, mi perro! Tiene una chaqueta roja porque hace frío, y las patas blancas. ¡No son zapatos, son patas!",
+     "en": "It's Tinto, my dog! He has a red jacket because it's cold, and white paws. They aren't shoes, they're paws!",
+     "end": true
+    }
+   ]
+  }
+ },
+ "a1-05": {
+  "name": "Nerea",
+  "g": "f",
+  "role": "Hilario's granddaughter",
+  "dialogue": {
+   "steps": [
+    {
+     "say": "¡Hola! Soy Nerea. Es domingo y estoy en Madrid con mi abuelo Hilario.",
+     "en": "Hi! I'm Nerea. It's Sunday and I'm in Madrid with my grandfather Hilario.",
+     "r": [
+      [
+       "¡Hola, Nerea! ¿Adónde vas?",
+       "Hi, Nerea! Where are you going?",
+       1
+      ],
+      [
+       "¡Qué bien! Me gusta Madrid.",
+       "How nice! I like Madrid.",
+       1
+      ]
+     ]
+    },
+    {
+     "say": "Vamos a la chocolatería San Ginés. ¡Quiero chocolate con churros! ¿Te gustan los churros?",
+     "en": "We are going to the Chocolatería San Ginés. I want chocolate with churros! Do you like churros?",
+     "r": [
+      [
+       "Sí, me gustan mucho.",
+       "Yes, I like them a lot.",
+       2
+      ],
+      [
+       "No sé. ¿Qué son?",
+       "I don't know. What are they?",
+       2
+      ]
+     ]
+    },
+    {
+     "say": "Son muy ricos. Pero a las nueve hay mucha gente y no hay mesas libres. ¿Qué hacemos?",
+     "en": "They're very tasty. But at nine there are a lot of people and no free tables. What do we do?",
+     "r": [
+      [
+       "Podemos esperar.",
+       "We can wait.",
+       3
+      ],
+      [
+       "Vamos a otro café.",
+       "Let's go to another café.",
+       3
+      ]
+     ]
+    },
+    {
+     "say": "Mi abuelo dice: podemos esperar. A las nueve y media hay una mesa libre. Voy a la caja. Quiero pedir yo. ¿Qué pido?",
+     "en": "My grandfather says: we can wait. At half past nine there is a free table. I go to the till. I want to order myself. What do I order?",
+     "r": [
+      [
+       "Dos chocolates con churros, por favor.",
+       "Two chocolates with churros, please.",
+       4
+      ],
+      [
+       "¿Cuánto cuesta un chocolate con churros?",
+       "How much does a chocolate with churros cost?",
+       4
+      ]
+     ]
+    },
+    {
+     "say": "Dos chocolates con churros son diez euros. Pero un señor mayor sale de la cocina y dice: ¡Hilario!",
+     "en": "Two chocolates with churros are ten euros. But an older man comes out of the kitchen and says: Hilario!",
+     "r": [
+      [
+       "¿Tu abuelo conoce la cocina?",
+       "Does your grandfather know the kitchen?",
+       5
+      ],
+      [
+       "¿Quién es el señor?",
+       "Who is the man?",
+       5
+      ]
+     ]
+    },
+    {
+     "say": "El señor dice: ¡cuarenta años aquí, y hoy eres cliente! Hoy mi abuelo no paga, y él hace los churros. ¡Son los mejores de Madrid!",
+     "en": "The man says: forty years here, and today you're a customer! Today my grandfather doesn't pay, and he makes the churros. They're the best in Madrid!",
+     "end": true
+    }
+   ]
+  }
+ },
+ "a1-06": {
+  "name": "Yadira",
+  "g": "f",
+  "role": "the bride's cousin",
+  "dialogue": {
+   "steps": [
+    {
+     "say": "¡Hola! Me llamo Yadira y vivo en San Juan. Mi prima Kiara se casa el sábado.",
+     "en": "Hi! My name is Yadira and I live in San Juan. My cousin Kiara is getting married on Saturday.",
+     "r": [
+      [
+       "¡Qué bien! ¿Dónde está el salón?",
+       "How nice! Where is the reception hall?",
+       1
+      ],
+      [
+       "¡Felicidades a tu prima!",
+       "Congratulations to your cousin!",
+       1
+      ]
+     ]
+    },
+    {
+     "say": "El salón está cerca del Morro. Yo preparo las mesas, y tengo un problema. El tío Wilfredo no se sienta con su hermano Héctor.",
+     "en": "The hall is near El Morro. I'm doing the tables, and I have a problem. Uncle Wilfredo won't sit with his brother Héctor.",
+     "r": [
+      [
+       "¿Por qué?",
+       "Why?",
+       2
+      ],
+      [
+       "¡Uf! Un problema grande.",
+       "Ugh! A big problem.",
+       2
+      ]
+     ]
+    },
+    {
+     "say": "Siempre pelean por el dominó. Y la suegra de Kiara no se sienta cerca de la tía Nilda. No le gusta su arroz con gandules. ¿Te gusta el arroz con gandules?",
+     "en": "They always fight over dominoes. And Kiara's mother-in-law won't sit near Aunt Nilda. She doesn't like her rice with pigeon peas. Do you like rice with pigeon peas?",
+     "r": [
+      [
+       "Sí, me gusta mucho.",
+       "Yes, I like it a lot.",
+       3
+      ],
+      [
+       "No sé. No como arroz con gandules.",
+       "I don't know. I don't eat rice with pigeon peas.",
+       3
+      ]
+     ]
+    },
+    {
+     "say": "Mi cuñado Ismael quiere la mesa al lado del bizcocho. Y el padrino canta, su mesa está cerca del micrófono. ¿Qué hago?",
+     "en": "My brother-in-law Ismael wants the table next to the cake. And the best man sings, his table is near the microphone. What do I do?",
+     "r": [
+      [
+       "¿Y tu abuela? ¿Qué dice?",
+       "And your grandma? What does she say?",
+       4
+      ],
+      [
+       "Una mesa para todos.",
+       "One table for everyone.",
+       4
+      ]
+     ]
+    },
+    {
+     "say": "Mi abuela Cuca es la reina del dominó. Ella dice: una mesa para todos. Héctor y Wilfredo juegan juntos, contra ella.",
+     "en": "My grandma Cuca is the queen of dominoes. She says: one table for everyone. Héctor and Wilfredo play together, against her.",
+     "r": [
+      [
+       "¡Qué buena idea!",
+       "What a good idea!",
+       5
+      ],
+      [
+       "¿Y quién gana?",
+       "And who wins?",
+       5
+      ]
+     ]
+    },
+    {
+     "say": "El sábado los hermanos pierden, pero se ríen juntos. La suegra prueba el arroz y dice: me gusta. ¡Y la abuela gana todo!",
+     "en": "On Saturday the brothers lose, but they laugh together. The mother-in-law tries the rice and says: I like it. And Grandma wins everything!",
+     "end": true
+    }
+   ]
+  }
+ },
+ "a1-07": {
+  "name": "Killa",
+  "g": "f",
+  "role": "the Machu Picchu guide",
+  "dialogue": {
+   "steps": [
+    {
+     "say": "¡Hola! Me llamo Killa. Soy guía en Machu Picchu y vivo abajo, en Aguas Calientes.",
+     "en": "Hi! My name is Killa. I'm a guide at Machu Picchu and I live down below, in Aguas Calientes.",
+     "r": [
+      [
+       "Hola, Killa. Mucho gusto.",
+       "Hi, Killa. Nice to meet you.",
+       1
+      ],
+      [
+       "Hola. ¿Qué es Machu Picchu?",
+       "Hi. What is Machu Picchu?",
+       1
+      ]
+     ]
+    },
+    {
+     "say": "Machu Picchu es una ciudad inca del siglo quince. Hoy estoy aquí con Marina y su papá.",
+     "en": "Machu Picchu is an Inca city from the fifteenth century. Today I am here with Marina and her dad.",
+     "r": [
+      [
+       "¡Qué interesante!",
+       "How interesting!",
+       2
+      ],
+      [
+       "¿Hay sol hoy?",
+       "Is it sunny today?",
+       2
+      ]
+     ]
+    },
+    {
+     "say": "Hoy hay muchas nubes y Marina está triste. Muchas mañanas hay nubes, pero al mediodía hay sol. ¿Y tú, dónde vives?",
+     "en": "Today there are a lot of clouds and Marina is sad. Many mornings there are clouds, but at midday the sun comes out. And you, where do you live?",
+     "r": [
+      [
+       "Vivo en una ciudad grande.",
+       "I live in a big city.",
+       3
+      ],
+      [
+       "Vivo cerca de las montañas.",
+       "I live near the mountains.",
+       3
+      ]
+     ]
+    },
+    {
+     "say": "¡Qué bien! Mira, a las once y media una llama blanca está en el camino. Se sienta en el centro y no se mueve.",
+     "en": "How nice! Look, at half past eleven a white llama is on the path. She sits down in the middle and does not move.",
+     "r": [
+      [
+       "¿Cómo se llama?",
+       "What is her name?",
+       4
+      ],
+      [
+       "¡Qué bonita! Es blanca.",
+       "How pretty! She is white.",
+       4
+      ]
+     ]
+    },
+    {
+     "say": "Se llama Pelusa y vive aquí. Marina se sienta en una piedra y lee. ¿Tú lees mucho?",
+     "en": "Her name is Pelusa and she lives here. Marina sits on a stone and reads. Do you read a lot?",
+     "r": [
+      [
+       "Sí, leo mucho.",
+       "Yes, I read a lot.",
+       5
+      ],
+      [
+       "No, no leo mucho.",
+       "No, I don't read much.",
+       5
+      ]
+     ]
+    },
+    {
+     "say": "A las doce, Pelusa se levanta. ¡Ya no hay nubes, hay sol! Pelusa no lee libros, pero sabe cuándo hay sol. ¡Adiós!",
+     "en": "At twelve, Pelusa gets up. There are no more clouds, it's sunny! Pelusa doesn't read books, but she knows when it's sunny. Bye!",
+     "end": true
+    }
+   ]
+  }
+ },
+ "a1-08": {
+  "name": "Julián",
+  "g": "m",
+  "role": "Lina's younger cousin",
+  "dialogue": {
+   "steps": [
+    {
+     "say": "¡Hola! Soy Julián. Tengo nueve años y vivo en Cartagena. Mi prima Lina tiene un mapa de piratas.",
+     "en": "Hi! I'm Julián. I'm nine and I live in Cartagena. My cousin Lina has a pirate map.",
+     "r": [
+      [
+       "¡Qué bien! ¿Dónde está el mapa?",
+       "Great! Where is the map?",
+       1
+      ],
+      [
+       "Hola, Julián. Me gustan los piratas.",
+       "Hi, Julián. I like pirates.",
+       1
+      ]
+     ]
+    },
+    {
+     "say": "Lina abre un libro de piratas en una librería. Dentro hay un mapa con una X y un coco. Dice: el tesoro es más dulce que el oro.",
+     "en": "Lina opens a pirate book in a bookshop. Inside there is a map with an X and a coconut. It says: the treasure is sweeter than gold.",
+     "r": [
+      [
+       "¿Más dulce que el oro? ¡Qué raro!",
+       "Sweeter than gold? How strange!",
+       2
+      ],
+      [
+       "¿Tienen que buscar el tesoro?",
+       "Do you have to look for the treasure?",
+       2
+      ]
+     ]
+    },
+    {
+     "say": "Sí, tenemos que ir. Vamos al castillo de San Felipe. ¡Es enorme!",
+     "en": "Yes, we have to go. We go to San Felipe castle. It's huge!",
+     "r": [
+      [
+       "¿Por qué es tan grande?",
+       "Why is it so big?",
+       3
+      ],
+      [
+       "¿Y por qué es tan fuerte?",
+       "And why is it so strong?",
+       3
+      ]
+     ]
+    },
+    {
+     "say": "Lina dice: porque los piratas quieren oro, y el castillo es más fuerte que ellos. Después, tenemos que caminar a la Torre del Reloj.",
+     "en": "Lina says: because pirates want gold, and the castle is stronger than them. Then we have to walk to the Clock Tower.",
+     "r": [
+      [
+       "¿Qué hay en la Torre del Reloj?",
+       "What is at the Clock Tower?",
+       4
+      ],
+      [
+       "¿Hay dulces allí?",
+       "Are there sweets there?",
+       4
+      ]
+     ]
+    },
+    {
+     "say": "Al lado hay muchos puestos de dulces. Un puesto, más pequeño que los otros, tiene una X y un coco. La señora del puesto pregunta: ¿tienen el mapa?",
+     "en": "Next to it there are lots of sweet stalls. One stall, smaller than the others, has an X and a coconut. The woman at the stall asks: do you have the map?",
+     "r": [
+      [
+       "¡Es el tesoro! ¿Qué es?",
+       "It's the treasure! What is it?",
+       5
+      ],
+      [
+       "¿Y la señora tiene el tesoro?",
+       "And does the woman have the treasure?",
+       5
+      ]
+     ]
+    },
+    {
+     "say": "Sí. Su hermano tiene la librería y ella tiene el tesoro: dos cocadas tan grandes como mis manos. ¡Este tesoro es mejor que el oro!",
+     "en": "Yes. Her brother has the bookshop and she has the treasure: two cocadas as big as my hands. This treasure is better than gold!",
+     "end": true
+    }
+   ]
+  }
+ },
+ "a1-09": {
+  "name": "Marta",
+  "g": "f",
+  "role": "Javier's Sevilla friend",
+  "dialogue": {
+   "steps": [
+    {
+     "say": "¡Hola! Soy Marta. Es viernes por la tarde y suena el teléfono. ¡Es mi amigo Javier, de Madrid!",
+     "en": "Hi! I'm Marta. It's Friday afternoon and the phone rings. It's my friend Javier, from Madrid!",
+     "r": [
+      [
+       "Hola, Marta. ¿Estás bien?",
+       "Hi, Marta. Are you okay?",
+       1
+      ],
+      [
+       "Hola, Marta. ¿Qué tal estás?",
+       "Hi, Marta. How are you?",
+       1
+      ]
+     ]
+    },
+    {
+     "say": "Estoy bien, pero un poco triste. Este fin de semana no tengo planes.",
+     "en": "I'm fine, but a little sad. This weekend I have no plans.",
+     "r": [
+      [
+       "¿Por qué estás triste?",
+       "Why are you sad?",
+       2
+      ],
+      [
+       "¿Y tus amigas?",
+       "What about your friends?",
+       2
+      ]
+     ]
+    },
+    {
+     "say": "Voy a estar sola. Mi familia vive lejos y mis amigas trabajan.",
+     "en": "I am going to be alone. My family lives far away and my friends are working.",
+     "r": [
+      [
+       "¿Qué vas a hacer el sábado?",
+       "What are you going to do on Saturday?",
+       3
+      ],
+      [
+       "Puedes cocinar una tortilla.",
+       "You can cook an omelet.",
+       3
+      ]
+     ]
+    },
+    {
+     "say": "Voy a cocinar una tortilla y ver una película. Javier pregunta: ¿tienes pan y queso en casa?",
+     "en": "I'm going to cook an omelet and watch a movie. Javier asks: do you have bread and cheese at home?",
+     "r": [
+      [
+       "Sí, tengo un poco.",
+       "Yes, I have a little.",
+       4
+      ],
+      [
+       "¿Por qué pregunta eso?",
+       "Why does he ask that?",
+       4
+      ]
+     ]
+    },
+    {
+     "say": "Javier dice: voy a comer contigo el sábado. Él vive en Madrid, pero ahora está en Sevilla, delante de mi edificio. ¡Tiene una maleta y unas flores!",
+     "en": "Javier says: I'm going to eat with you on Saturday. He lives in Madrid, but now he's in Sevilla, in front of my building. He has a suitcase and some flowers!",
+     "r": [
+      [
+       "¡Qué sorpresa!",
+       "What a surprise!",
+       5
+      ],
+      [
+       "¡Abre la puerta!",
+       "Open the door!",
+       5
+      ]
+     ]
+    },
+    {
+     "say": "¡Sí! Bajo a abrir la puerta. Javier va a pasar el fin de semana aquí. ¡El sábado no voy a estar sola!",
+     "en": "Yes! I go down to open the door. Javier is going to spend the weekend here. On Saturday I'm not going to be alone!",
+     "end": true
+    }
+   ]
+  }
+ },
+ "a1-10": {
+  "name": "Raúl",
+  "g": "m",
+  "role": "Grandpa's helpful grandson",
+  "dialogue": {
+   "steps": [
+    {
+     "say": "¡Hola! Soy Raúl. El sábado voy a ir a la playa con mi hermana Elena y el abuelo.",
+     "en": "Hi! I'm Raúl. On Saturday I'm going to go to the beach with my sister Elena and Grandpa.",
+     "r": [
+      [
+       "¡Qué bien! Me gusta la playa.",
+       "Great! I like the beach.",
+       1
+      ],
+      [
+       "¿Adónde van?",
+       "Where are you going?",
+       1
+      ]
+     ]
+    },
+    {
+     "say": "Vamos a ir a Cádiz en tren. El abuelo tiene ochenta años y quiere ver el mar.",
+     "en": "We're going to go to Cádiz by train. Grandpa is eighty and wants to see the sea.",
+     "r": [
+      [
+       "¿A qué hora sale el tren?",
+       "What time does the train leave?",
+       2
+      ],
+      [
+       "¿Tienen comida para el viaje?",
+       "Do you have food for the trip?",
+       3
+      ]
+     ]
+    },
+    {
+     "say": "El tren sale a las ocho de la mañana. El viernes por la noche preparamos las mochilas.",
+     "en": "The train leaves at eight in the morning. On Friday night we pack the backpacks.",
+     "r": [
+      [
+       "¿Tienes una toalla?",
+       "Do you have a towel?",
+       3
+      ],
+      [
+       "¿Dónde están los billetes?",
+       "Where are the tickets?",
+       4
+      ]
+     ]
+    },
+    {
+     "say": "Sí. Elena pone agua, fruta y una toalla grande. Y en Cádiz vamos a comer pescado.",
+     "en": "Yes. Elena packs water, fruit and a big towel. And in Cádiz we're going to eat fish.",
+     "r": [
+      [
+       "¡Qué rico!",
+       "How tasty!",
+       5
+      ],
+      [
+       "Quiero caminar por la arena.",
+       "I want to walk on the sand.",
+       5
+      ]
+     ]
+    },
+    {
+     "say": "Busco los billetes, pero no los encuentro. ¡Elena los tiene en su bolsa!",
+     "en": "I look for the tickets, but I can't find them. Elena has them in her bag!",
+     "r": [
+      [
+       "¡Qué bien!",
+       "Great!",
+       5
+      ],
+      [
+       "Ella es muy buena.",
+       "She is very good.",
+       5
+      ]
+     ]
+    },
+    {
+     "say": "En el tren, el abuelo mira por la ventana. Después de dos horas, ve el mar azul. ¡Vamos a pasar un día perfecto!",
+     "en": "On the train, Grandpa looks out the window. After two hours, he sees the blue sea. We're going to have a perfect day!",
+     "end": true
+    }
+   ]
+  }
+ }
+}

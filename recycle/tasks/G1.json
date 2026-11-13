@@ -1,0 +1,1023 @@
+{
+ "patches": [
+  {
+   "file": "stories",
+   "id": "a1-01",
+   "find": "[\"Xóchitl busca <b>pistas</b>.\", \"Xóchitl looks for clues.\"]",
+   "replace": "[\"Xóchitl busca <b>pistas</b> en la cocina.\", \"Xóchitl looks for clues in the kitchen.\"]",
+   "why": "recycle cocina (2nd use) [line 4]"
+  },
+  {
+   "file": "stories",
+   "id": "a1-01",
+   "find": "[\"Tiene <b>sueño</b>.\", \"She is sleepy.\"]",
+   "replace": "[\"Tiene <b>sueño</b> y no tiene caramelo.\", \"She is sleepy and has no caramel on her.\"]",
+   "why": "recycle caramelo (clue logic: dog is clean) [line 7]"
+  },
+  {
+   "file": "stories",
+   "id": "a1-01",
+   "find": "[\"No tiene lentes. Tiene <b>caramelo</b> en el <b>bigote</b>.\", \"He doesn't have his glasses. He has caramel on his mustache.\"]",
+   "replace": "[\"No tiene lentes. Tiene <b>caramelo</b> en el <b>bigote</b>: ¡una pista!\", \"He doesn't have his glasses. He has caramel on his mustache: a clue!\"]",
+   "why": "recycle pista (2nd use) [line 10]"
+  },
+  {
+   "file": "stories",
+   "id": "a1-01",
+   "find": "[\"— ¿Flan? ¿Qué flan?\", \"\\\"Flan? What flan?\\\"\"]",
+   "replace": "[\"— ¿Flan? ¿Qué flan? ¿Dónde están mis lentes?\", \"\\\"Flan? What flan? Where are my glasses?\\\"\"]",
+   "why": "recycle lentes (3rd use) [line 12]"
+  },
+  {
+   "file": "stories",
+   "id": "a1-01",
+   "find": "[\"Xóchitl <b>sonríe</b>.\", \"Xóchitl smiles.\"]",
+   "replace": "[\"Xóchitl <b>sonríe</b>. Los lentes están en la mesa.\", \"Xóchitl smiles. The glasses are on the table.\"]",
+   "why": "recycle lentes (4th), mesa (2nd) [line 13]"
+  },
+  {
+   "file": "stories",
+   "id": "a1-01",
+   "find": "[\"Son las cinco. Los dos <b>preparan</b> otro flan.\", \"It is five o'clock. The two of them make another flan.\"]",
+   "replace": "[\"Son las cinco. Los dos <b>preparan</b> otro flan en la cocina.\", \"It is five o'clock. The two of them make another flan in the kitchen.\"]",
+   "why": "recycle cocina (3rd use) [line 14]"
+  },
+  {
+   "file": "stories",
+   "id": "a1-02",
+   "find": "[\"A las nueve, tiene tres mesas: cinco <b>bifes</b>, dos <b>ensaladas</b>.\", \"At nine, she has three tables: five steaks, two salads.\"]",
+   "replace": "[\"A las nueve, tiene tres mesas: cinco <b>bifes</b>, dos <b>ensaladas</b> y un flan con caramelo.\", \"At nine, she has three tables: five steaks, two salads and a flan with caramel.\"]",
+   "why": "recycle flan, caramelo (a1-01) [line 2]"
+  },
+  {
+   "file": "stories",
+   "id": "a1-02",
+   "find": "[\"— ¡<b>Faltan</b> diez minutos! —dice el <b>mozo</b>.\", \"\\\"Ten minutes to go!\\\" says the waiter.\"]",
+   "replace": "[\"— ¡<b>Faltan</b> diez minutos! —dice el <b>mozo</b>. Tiene sueño.\", \"\\\"Ten minutes to go!\\\" says the waiter. He is sleepy.\"]",
+   "why": "recycle tener sueño (a1-01) [line 4]"
+  },
+  {
+   "file": "stories",
+   "id": "a1-02",
+   "find": "[\"Delfina pone nueve en la parrilla.\", \"Delfina puts nine on the grill.\"]",
+   "replace": "[\"Delfina no tiene sus lentes: pone nueve en la parrilla.\", \"Delfina doesn't have her glasses: she puts nine on the grill.\"]",
+   "why": "recycle lentes (a1-01); adds a reason for the misreading [line 6]"
+  },
+  {
+   "file": "stories",
+   "id": "a1-02",
+   "find": "[\"Don Horacio <b>prueba</b> uno y mira a Delfina.\", \"Don Horacio tastes one and looks at Delfina.\"]",
+   "replace": "[\"Don Horacio <b>prueba</b> uno y mira a Delfina, con la mano en el bigote.\", \"Don Horacio tastes one and looks at Delfina, with his hand on his mustache.\"]",
+   "why": "recycle bigote (a1-01), mano (a1-03 high-frequency) [line 13]"
+  },
+  {
+   "file": "stories",
+   "id": "a1-03",
+   "find": "[\"Hoy es lunes y son las ocho.\", \"Today is Monday and it is eight o'clock.\"]",
+   "replace": "[\"Hoy es lunes, son las ocho y todos tienen sueño.\", \"Today is Monday, it is eight o'clock and everyone is sleepy.\"]",
+   "why": "recycle tener sueño (a1-01) [line 0]"
+  },
+  {
+   "file": "stories",
+   "id": "a1-03",
+   "find": "[\"La <b>profesora</b> dice: — Clase, ella es Alicia.\", \"The teacher says, \\\"Class, this is Alicia.\\\"\"]",
+   "replace": "[\"La <b>profesora</b>, con lentes y muy seria, dice: — Clase, ella es Alicia.\", \"The teacher, in glasses and very serious, says, \\\"Class, this is Alicia.\\\"\"]",
+   "why": "recycle lentes (a1-01), serio (a1-02) [line 5]"
+  },
+  {
+   "file": "stories",
+   "id": "a1-03",
+   "find": "[\"A las doce, las niñas <b>comen</b> <b>juntas</b>.\", \"At twelve, the girls eat together.\"]",
+   "replace": "[\"A las doce, las niñas <b>comen</b> <b>juntas</b>. Alicia dibuja a la profesora con bigote.\", \"At twelve, the girls eat together. Alicia draws the teacher with a mustache.\"]",
+   "why": "recycle bigote (a1-01); reuses dibujar [line 10]"
+  },
+  {
+   "file": "stories",
+   "id": "a1-03",
+   "find": "[\"— Sí, un poco —dice Alicia.\", \"\\\"Yes, a little,\\\" says Alicia.\"]",
+   "replace": "[\"— Sí, un poco —dice Alicia. Cristina también tiene un flan para las dos.\", \"\\\"Yes, a little,\\\" says Alicia. Cristina also has a flan for the two of them.\"]",
+   "why": "recycle flan (a1-01) [line 14]"
+  },
+  {
+   "file": "stories",
+   "id": "a1-04",
+   "find": "[\"Doña Marleny tiene una <b>panadería</b> en Bogotá y un perro, Tinto.\", \"Doña Marleny has a bakery in Bogotá and a dog, Tinto.\"]",
+   "replace": "[\"Doña Marleny tiene una <b>panadería</b> en Bogotá y un perro, Tinto, que siempre tiene hambre.\", \"Doña Marleny has a bakery in Bogotá and a dog, Tinto, who is always hungry.\"]",
+   "why": "recycle hambre (a1-03); fair clue for the mystery [line 0]"
+  },
+  {
+   "file": "stories",
+   "id": "a1-04",
+   "find": "[\"Una señora dice: — Es un <b>chico</b> <b>bajo</b>.\", \"A woman says, \\\"It's a short boy.\\\"\"]",
+   "replace": "[\"Una señora sin lentes dice: — Es un <b>chico</b> <b>bajo</b>.\", \"A woman without her glasses says, \\\"It's a short boy.\\\"\"]",
+   "why": "recycle lentes (a1-01); explains why she mistakes a dog for a boy [line 8]"
+  },
+  {
+   "file": "stories",
+   "id": "a1-04",
+   "find": "[\"Allí hay un <b>domiciliario</b> con chaqueta roja.\", \"Over there is a delivery man in a red jacket.\"]",
+   "replace": "[\"Allí hay un <b>domiciliario</b> con chaqueta roja: come una manzana.\", \"Over there is a delivery man in a red jacket: he is eating an apple.\"]",
+   "why": "recycle manzana (a1-03) [line 10]"
+  },
+  {
+   "file": "stories",
+   "id": "a1-04",
+   "find": "[\"¡Allí está la torta!\", \"There's the cake!\"]",
+   "replace": "[\"¡Allí está la torta, en el piso!\", \"There's the cake, on the ground!\"]",
+   "why": "recycle piso (a1-01) [line 12]"
+  },
+  {
+   "file": "stories",
+   "id": "a1-04",
+   "find": "[\"Y allí está el chico bajo: ¡Tinto!\", \"And there's the short boy: Tinto!\"]",
+   "replace": "[\"Y allí está el chico bajo, con torta en el bigote: ¡Tinto!\", \"And there's the short boy, with cake on his whiskers: Tinto!\"]",
+   "why": "recycle bigote (a1-01, echo of the flan story) [line 13]"
+  },
+  {
+   "file": "stories",
+   "id": "a1-05",
+   "find": "[\"Es domingo en Madrid.\", \"It's Sunday in Madrid.\"]",
+   "replace": "[\"Es domingo en Madrid, hace frío y Nerea tiene hambre.\", \"It's Sunday in Madrid, it's cold and Nerea is hungry.\"]",
+   "why": "recycle hace frío (a1-04), hambre (a1-03) [line 0]"
+  },
+  {
+   "file": "stories",
+   "id": "a1-05",
+   "find": "[\"Un señor <b>mayor</b> sale de la <b>cocina</b>.\", \"An old man comes out of the kitchen.\"]",
+   "replace": "[\"Un señor <b>mayor</b> con chaqueta de cocinero sale de la <b>cocina</b>: es el jefe.\", \"An old man in a chef's jacket comes out of the kitchen: he's the boss.\"]",
+   "why": "recycle chaqueta (a1-04), cocinero (a1-02), jefe (a1-02) [line 11]"
+  },
+  {
+   "file": "stories",
+   "id": "a1-05",
+   "find": "[\"Nerea come y <b>sonríe</b>.\", \"Nerea eats and smiles.\"]",
+   "replace": "[\"Nerea come y <b>sonríe</b>: ya no tiene hambre.\", \"Nerea eats and smiles: she isn't hungry any more.\"]",
+   "why": "recycle hambre (2nd use in story) [line 15]"
+  },
+  {
+   "file": "stories",
+   "id": "a1-01",
+   "find": "\"Telling time (Son las tres de la tarde); hay for what exists (hay un flan, no hay flan); estar for location (está en la sala, está en el piso); present tense and tener (busca, preparan, tiene sueño, no tienen cuchara); greetings (Buenas tardes).\"",
+   "replace": "\"Telling time (Son las tres de la tarde); hay for what exists (hay un flan, no hay flan); estar for location (está en la sala, está en el piso, los lentes están en la mesa).\"",
+   "why": "concepts.grammar aligned with map2 topics"
+  },
+  {
+   "file": "stories",
+   "id": "a1-02",
+   "find": "\"ser for days, jobs, descriptions and totals (Es viernes; es cocinera; es serio; son cien bifes); gustar (no le gustan los errores; nos gustan; me gusta tu bife); tener (tiene tres mesas; tiene seis personas; ¿Tienen bifes?); personal a (mira a Delfina; ve a tres clientes).\"",
+   "replace": "\"ser for days, jobs, descriptions and totals (Es viernes; es cocinera; es serio; son cien bifes); gustar (no le gustan los errores; nos gustan; me gusta tu bife); personal a (mira a Delfina; ve a tres clientes).\"",
+   "why": "concepts.grammar aligned with map2 topics"
+  },
+  {
+   "file": "stories",
+   "id": "a1-03",
+   "find": "\"ser vs. estar (es de Chile / está nerviosa); tener for possession; gustar with infinitives (me gusta dibujar).\"",
+   "replace": "\"ser vs. estar (es de Chile / está nerviosa); tener for possession and hunger (tiene el pelo largo; ¿Tienes hambre?); gustar with infinitives (me gusta dibujar).\"",
+   "why": "concepts.grammar aligned with map2 topics"
+  },
+  {
+   "file": "stories",
+   "id": "a1-04",
+   "find": "\"colors with agreement and position (chaqueta roja, zapatos blancos); querer and poder + infinitive; ir a + place; negatives with no (no está, no es él); ¿Dónde está…? / ¡Allí está! and porque.\"",
+   "replace": "\"colors with agreement and position (chaqueta roja, zapatos blancos); querer and poder + infinitive (Quiero encontrar; ¿Me puede ayudar?; Podemos ir); negatives with no (no está, no es él, no son zapatos).\"",
+   "why": "concepts.grammar aligned with map2 topics"
+  },
+  {
+   "file": "stories",
+   "id": "a1-05",
+   "find": "\"hay / no hay; querer, poder, necesitar + infinitive; ir a + place (voy a la caja, vamos a la chocolatería); time with a las; numbers and prices.\"",
+   "replace": "\"querer, poder, necesitar + infinitive; ir a + place (voy a la caja, vamos a la chocolatería); numbers and prices (cuesta cinco euros; ¿Cuánto es?; Son diez euros; cuarenta años).\"",
+   "why": "concepts.grammar aligned with map2 topics"
+  }
+ ],
+ "grammar_replace": {
+  "a1-01": [
+   {
+    "topic": "Telling time: Son las…",
+    "explain": "Ask '¿Qué hora es?' (What time is it?). Answer 'Son las + number' for two to twelve: Son las tres. One o'clock is singular: Es la una. Add 'de la mañana', 'de la tarde' or 'de la noche'. Watch out: never 'Son las una' or 'Es las dos'.",
+    "examples": [
+     [
+      "Son las tres de la tarde en la Ciudad de México.",
+      "It is three in the afternoon in Mexico City."
+     ],
+     [
+      "Son las cuatro. ¡No hay flan!",
+      "It is four o'clock. There is no flan!"
+     ],
+     [
+      "—¿Qué hora es? —Es la una.",
+      "\"What time is it?\" \"It's one o'clock.\""
+     ]
+    ]
+   },
+   {
+    "topic": "Hay: there is / there are",
+    "explain": "'Hay' means 'there is' and 'there are' and never changes: hay un flan, hay dos cucharas. 'No hay' means 'there isn't / there aren't'. Watch out: for where a specific, known thing is, use estar: Hay un flan en la cocina, but El flan está en la cocina.",
+    "examples": [
+     [
+      "En la cocina hay un flan grande.",
+      "There is a big flan in the kitchen."
+     ],
+     [
+      "Son las cuatro. ¡No hay flan!",
+      "It is four o'clock. There is no flan!"
+     ],
+     [
+      "En la mesa hay una cuchara y unos lentes.",
+      "On the table there is a spoon and a pair of glasses."
+     ]
+    ]
+   },
+   {
+    "topic": "Estar for location and feelings",
+    "explain": "'Estar' says where someone is and how they feel right now: El abuelo está en la sala. Xóchitl está contenta. Forms: estoy, estás, está, estamos, están. Watch out: English uses 'to be' for everything, but Spanish uses estar (not ser) for location and temporary states.",
+    "examples": [
+     [
+      "— ¿Dónde está el flan? —pregunta Xóchitl.",
+      "\"Where is the flan?\" asks Xóchitl."
+     ],
+     [
+      "Chispa, la perra, está en el piso.",
+      "Chispa, the dog, is on the floor."
+     ],
+     [
+      "El abuelo Fermín está en la sala.",
+      "Grandpa Fermín is in the living room."
+     ],
+     [
+      "—¿Cómo estás? —Estoy bien, gracias.",
+      "\"How are you?\" \"I'm fine, thanks.\""
+     ]
+    ]
+   }
+  ],
+  "a1-02": [
+   {
+    "topic": "Ser for days, prices, descriptions",
+    "explain": "Use 'ser' for the day (Es viernes), for jobs (Delfina es cocinera), for what someone is like (Don Horacio es serio), and for prices and totals (¿Cuánto es? Son cien). The verb agrees with the amount: es un bife, son cien bifes. Watch out: for jobs, Spanish drops 'un/una': es cocinera, not 'es una cocinera'.",
+    "examples": [
+     [
+      "Es viernes en Buenos Aires.",
+      "It's Friday in Buenos Aires."
+     ],
+     [
+      "Delfina es cocinera en una parrilla.",
+      "Delfina is a cook at a steakhouse."
+     ],
+     [
+      "Su jefe, don Horacio, es serio.",
+      "Her boss, Don Horacio, is stern."
+     ],
+     [
+      "A las doce: ¡son cien bifes!",
+      "At twelve: that's a hundred steaks!"
+     ]
+    ]
+   },
+   {
+    "topic": "Gustar: liking things",
+    "explain": "'Gustar' works like 'to please': the thing you like is the subject. Use 'gusta' for one thing and 'gustan' for plural things. The person goes before: me (to me), te (to you), le (to him/her), nos (to us). Watch out: don't say 'yo gusto' or 'le gusta los errores'.",
+    "examples": [
+     [
+      "Don Horacio es serio: no le gustan los errores.",
+      "Don Horacio is stern: he doesn't like mistakes."
+     ],
+     [
+      "— ¿Tienen bifes? ¡Nos gustan mucho!",
+      "\"Do you have steaks? We really like them!\""
+     ],
+     [
+      "— Me gusta tu bife.",
+      "\"I like your steak.\""
+     ]
+    ]
+   },
+   {
+    "topic": "Personal a before people",
+    "explain": "When a specific person receives the action (is seen, looked at, called), Spanish puts 'a' before them. This 'a' is not translated. Things don't take it: mira a Delfina, but mira la comanda. Watch out: a + el becomes al: Delfina mira al jefe.",
+    "examples": [
+     [
+      "Don Horacio mira a Delfina.",
+      "Don Horacio looks at Delfina."
+     ],
+     [
+      "El mozo ve a tres clientes nuevos.",
+      "The waiter sees three new customers."
+     ],
+     [
+      "Delfina mira la comanda.",
+      "Delfina looks at the order ticket. (no 'a': a ticket is a thing)"
+     ]
+    ]
+   }
+  ],
+  "a1-03": [
+   {
+    "topic": "Ser vs. estar",
+    "explain": "Use 'ser' for what identifies someone: name, origin, nationality, job (es de Chile, es profesora). Use 'estar' for feelings and states right now (está nerviosa, está contenta). Watch out: English uses 'is' for both. 'Es nerviosa' would mean she is a nervous person by nature, not nervous today.",
+    "examples": [
+     [
+      "Se llama Alicia y es de Chile.",
+      "Her name is Alicia and she is from Chile."
+     ],
+     [
+      "Está muy nerviosa.",
+      "She is very nervous."
+     ],
+     [
+      "La profesora es de México y hoy está contenta.",
+      "The teacher is from Mexico and today she is happy."
+     ]
+    ]
+   },
+   {
+    "topic": "Gustar to say what you like",
+    "explain": "'Me gusta' = I like, 'te gusta' = you like. Use 'gusta' with one thing or an infinitive (an action): me gusta el fútbol, me gusta dibujar. Use 'gustan' with plural things: me gustan los libros. To agree, say '¡A mí también!' (Me too!). Watch out: never 'me gusto' or 'me gustan dibujar'.",
+    "examples": [
+     [
+      "— Alicia, ¿te gusta el fútbol? —pregunta.",
+      "\"Alicia, do you like soccer?\" she asks."
+     ],
+     [
+      "— No, me gusta dibujar —responde Alicia.",
+      "\"No, I like to draw,\" answers Alicia."
+     ],
+     [
+      "— ¡A mí también! —dice Cristina.",
+      "\"Me too!\" says Cristina."
+     ]
+    ]
+   },
+   {
+    "topic": "Tener: possession and hunger",
+    "explain": "'Tener' means 'to have' (tengo, tienes, tiene). Spanish also uses it where English uses 'to be' for some feelings: tener hambre (to be hungry), tener sed (to be thirsty), tener frío (to be cold). Watch out: say 'Tengo hambre', not 'Estoy hambre'. 'Hambre' is a noun, so 'very hungry' is 'mucha hambre'.",
+    "examples": [
+     [
+      "Tiene el pelo largo y negro.",
+      "She has long black hair."
+     ],
+     [
+      "Cristina tiene un bocadillo de queso.",
+      "Cristina has a cheese sandwich."
+     ],
+     [
+      "— ¿Tienes hambre? —pregunta Cristina.",
+      "\"Are you hungry?\" asks Cristina."
+     ]
+    ]
+   }
+  ],
+  "a1-04": [
+   {
+    "topic": "Colors: agreement and position",
+    "explain": "Color words are adjectives. They go after the noun and agree with it in gender and number: chaqueta roja, zapatos blancos, fresas rojas. After es/son they agree too: Tinto es negro. Colors ending in -e or a consonant change only for number: verde, verdes; azul, azules. Watch out: not 'una roja chaqueta' or 'patas blanco'.",
+    "examples": [
+     [
+      "Tinto es negro, con las patas blancas.",
+      "Tinto is black, with white paws."
+     ],
+     [
+      "Tiene una chaqueta roja porque hace frío.",
+      "He wears a red jacket because it's cold."
+     ],
+     [
+      "En la ventana hay una torta blanca con fresas rojas.",
+      "In the window there is a white cake with red strawberries."
+     ],
+     [
+      "— Pelo negro, chaqueta roja, zapatos blancos. Va al parque.",
+      "\"Black hair, red jacket, white shoes. He's going to the park.\""
+     ]
+    ]
+   },
+   {
+    "topic": "Querer and poder + infinitive",
+    "explain": "'Querer' (to want) and 'poder' (can, to be able to) are followed directly by an infinitive: quiero encontrar, podemos ir. Both change their stem: quiero, quieres, quiere; puedo, puedes, puede (but podemos). Querer can also take a noun: quiero mi torta. Watch out: no extra word for 'to': 'quiero encontrar', not 'quiero a encontrar'.",
+    "examples": [
+     [
+      "— Quiero encontrar mi torta.",
+      "\"I want to find my cake.\""
+     ],
+     [
+      "¿Me puede ayudar?",
+      "Can you help me?"
+     ],
+     [
+      "— Podemos ir al parque —dice Edwin.",
+      "\"We can go to the park,\" says Edwin."
+     ]
+    ]
+   },
+   {
+    "topic": "Negatives with no",
+    "explain": "To make a sentence negative, put 'no' right before the verb: no está, no es, no son. If there is a small pronoun such as 'lo' (it), 'no' goes before the pronoun: no lo tengo. Watch out: Spanish has no helper verb like 'don't/doesn't', so 'it isn't him' is simply 'no es él'.",
+    "examples": [
+     [
+      "No está en la ventana. No está en la cocina.",
+      "It isn't in the window. It isn't in the kitchen."
+     ],
+     [
+      "— No es él, porque es alto —dice Edwin.",
+      "\"It isn't him, because he's tall,\" says Edwin."
+     ],
+     [
+      "— ¡No son zapatos, son patas!",
+      "\"They aren't shoes, they're paws!\""
+     ]
+    ]
+   }
+  ],
+  "a1-05": [
+   {
+    "topic": "Querer, necesitar, poder + infinitive",
+    "explain": "'Querer' (to want), 'necesitar' (to need) and 'poder' (can) are followed by an infinitive: quiero pedir, podemos esperar. Only the first verb changes for the subject; the second stays in the infinitive. Querer and necesitar can also take a noun: necesitan un minuto. Watch out: querer and poder change their stem (quiero, puedes); necesitar is regular.",
+    "examples": [
+     [
+      "Quiero desayunar churros con chocolate.",
+      "I want to have churros with chocolate for breakfast."
+     ],
+     [
+      "— Podemos esperar —dice el abuelo.",
+      "\"We can wait,\" says Grandpa."
+     ],
+     [
+      "¿Puedes hacer los churros, como antes?",
+      "Can you make the churros, like before?"
+     ],
+     [
+      "Esos churros necesitan un minuto más.",
+      "Those churros need one more minute."
+     ]
+    ]
+   },
+   {
+    "topic": "Ir: voy a + place",
+    "explain": "'Voy' is the 'I' form of ir (to go): 'Voy a la caja' = I'm going to the till. 'Vamos' = we go / let's go. 'A' means 'to' before a place, and a + el = al (voy al café). Watch out: 'voy a + place' says where you go, but 'voy a + infinitive' says what you're going to do: voy a pedir.",
+    "examples": [
+     [
+      "— Voy a la caja. Quiero pedir yo.",
+      "\"I'm going to the till. I want to order myself.\""
+     ],
+     [
+      "— ¡Claro! Voy a la cocina.",
+      "\"Of course! I'm going to the kitchen.\""
+     ],
+     [
+      "Abuelo, ¿vamos a la chocolatería?",
+      "Grandpa, shall we go to the chocolatería?"
+     ]
+    ]
+   },
+   {
+    "topic": "Numbers and prices: ¿Cuánto es?",
+    "explain": "Ask a price with '¿Cuánto es?' (How much is it?) or '¿Cuánto cuesta…?' (How much does … cost?). Use 'cuesta' for one thing and 'cuestan' for two or more. Give a total with 'Son + number + euros': Son diez euros (but one is singular: Es un euro). Tens: diez, veinte, treinta, cuarenta. Watch out: 'cuánto' (how much) is not 'cuándo' (when).",
+    "examples": [
+     [
+      "— Un chocolate con churros cuesta cinco euros —dice, sin mirar el menú.",
+      "\"A chocolate with churros costs five euros,\" he says, without looking at the menu."
+     ],
+     [
+      "— Dos chocolates con churros, por favor. ¿Cuánto es?",
+      "\"Two chocolates with churros, please. How much is it?\""
+     ],
+     [
+      "— Son diez euros.",
+      "\"That's ten euros.\""
+     ]
+    ]
+   }
+  ]
+ },
+ "gq_replace": {
+  "a1-01": [
+   {
+    "topic": "Telling time: Son las…",
+    "q": "How do you say 'It is four o'clock' in Spanish?",
+    "options": [
+     "Es las cuatro.",
+     "Son la cuatro.",
+     "Son las cuatro.",
+     "Está las cuatro."
+    ],
+    "answer": 2,
+    "why": "Four is plural, so use 'Son las cuatro'. Only one o'clock is singular: 'Es la una'. Time never uses estar."
+   },
+   {
+    "topic": "Hay: there is / there are",
+    "q": "Fill in the blank: Son las cuatro. ¡No ___ flan!",
+    "options": [
+     "está",
+     "hay",
+     "es",
+     "tiene"
+    ],
+    "answer": 1,
+    "why": "'No hay' means 'there is no'. It says the flan does not exist there any more. 'Está' tells where a known thing is, and 'es' describes."
+   },
+   {
+    "topic": "Estar for location and feelings",
+    "q": "Which question asks where the flan is?",
+    "options": [
+     "¿Dónde es el flan?",
+     "¿Dónde hay el flan?",
+     "¿Dónde está el flan?",
+     "¿Dónde tiene el flan?"
+    ],
+    "answer": 2,
+    "why": "To ask where a specific thing is, use estar: ¿Dónde está el flan? 'Hay' does not go with 'el', and 'es' is not for location."
+   },
+   {
+    "topic": "Estar for location and feelings",
+    "q": "Fill in the blank: Chispa, la perra, ___ en el piso.",
+    "options": [
+     "es",
+     "está",
+     "hay",
+     "tiene"
+    ],
+    "answer": 1,
+    "why": "Where a specific person or animal is uses estar: Chispa está en el piso. 'Hay' introduces something new, and 'es' describes what something is like."
+   },
+   {
+    "topic": "Telling time: Son las…",
+    "q": "Complete: —¿Qué hora es? —___ la una de la tarde.",
+    "options": [
+     "Son",
+     "Es",
+     "Está",
+     "Hay"
+    ],
+    "answer": 1,
+    "why": "One o'clock is singular: 'Es la una'. From two to twelve, use 'Son las…'.",
+    "x": true
+   },
+   {
+    "topic": "Hay: there is / there are",
+    "q": "Which sentence is correct?",
+    "options": [
+     "Hay una cuchara en la mesa.",
+     "Hay la cuchara en la mesa.",
+     "Está una cuchara en la mesa.",
+     "Una cuchara hay en la mesa."
+    ],
+    "answer": 0,
+    "why": "'Hay' introduces something new and goes with un/una, a number or no article, usually first: Hay una cuchara. For a known thing, say 'La cuchara está en la mesa'.",
+    "x": true
+   },
+   {
+    "topic": "Estar for location and feelings",
+    "q": "Put the words in order: sala / abuelo / está / el / en / la",
+    "options": [
+     "El abuelo está en la sala.",
+     "El abuelo en la sala está.",
+     "Está el abuelo la en sala.",
+     "En el abuelo la sala está."
+    ],
+    "answer": 0,
+    "why": "The usual order is subject + estar + en + place: El abuelo está en la sala (Grandpa is in the living room).",
+    "x": true
+   },
+   {
+    "topic": "Estar for location and feelings",
+    "q": "How do you say 'Xóchitl is happy' (right now)?",
+    "options": [
+     "Xóchitl es contenta.",
+     "Xóchitl está contenta.",
+     "Xóchitl hay contenta.",
+     "Xóchitl tiene contenta."
+    ],
+    "answer": 1,
+    "why": "Feelings right now use estar: está contenta. Ser is not used for how someone feels at the moment.",
+    "x": true
+   }
+  ],
+  "a1-02": [
+   {
+    "topic": "Ser for days, prices, descriptions",
+    "q": "Fill in the blank: A las doce, ¡___ cien bifes!",
+    "options": [
+     "es",
+     "son",
+     "están",
+     "somos"
+    ],
+    "answer": 1,
+    "why": "Totals and prices use ser, and the verb agrees with the amount: cien bifes is plural, so 'son'. English says 'that's a hundred', but Spanish does not say 'es cien bifes'."
+   },
+   {
+    "topic": "Gustar: liking things",
+    "q": "Don Horacio doesn't like mistakes (plural). Which sentence is correct?",
+    "options": [
+     "No le gusta los errores.",
+     "No le gustan los errores.",
+     "No gusta los errores.",
+     "Él no gustan los errores."
+    ],
+    "answer": 1,
+    "why": "With gustar, the thing liked is the subject. 'Los errores' is plural, so the verb is 'gustan'; 'le' (to him) goes before the verb."
+   },
+   {
+    "topic": "Personal a before people",
+    "q": "Which sentence needs the personal 'a' in the blank?",
+    "options": [
+     "Delfina mira ___ la comanda.",
+     "Don Horacio mira ___ Delfina.",
+     "Delfina pone ___ nueve bifes en la parrilla.",
+     "Don Horacio prueba ___ un bife."
+    ],
+    "answer": 1,
+    "why": "Personal 'a' goes before a specific person who receives the action: mira a Delfina. La comanda and los bifes are things, so they take no 'a'."
+   },
+   {
+    "topic": "Ser for days, prices, descriptions",
+    "q": "Fill in the blank: ___ viernes en Buenos Aires.",
+    "options": [
+     "Está",
+     "Es",
+     "Hay",
+     "Son"
+    ],
+    "answer": 1,
+    "why": "Days of the week use ser: Es viernes (It's Friday). 'Está' is for location or feelings, and 'son' is plural."
+   },
+   {
+    "topic": "Ser for days, prices, descriptions",
+    "q": "How do you say 'Delfina is a cook'?",
+    "options": [
+     "Delfina está cocinera.",
+     "Delfina hay cocinera.",
+     "Delfina es cocinera.",
+     "Delfina tiene cocinera."
+    ],
+    "answer": 2,
+    "why": "Jobs use ser, and Spanish usually drops 'un/una' before a job: Delfina es cocinera.",
+    "x": true
+   },
+   {
+    "topic": "Gustar: liking things",
+    "q": "Complete: Me ___ tu bife, pero no me ___ las ensaladas.",
+    "options": [
+     "gustan / gusta",
+     "gusto / gustan",
+     "gusta / gustan",
+     "gusta / gusta"
+    ],
+    "answer": 2,
+    "why": "The verb agrees with the thing liked: tu bife (one) → gusta; las ensaladas (plural) → gustan. 'Gusto' would mean 'I please'.",
+    "x": true
+   },
+   {
+    "topic": "Personal a before people",
+    "q": "How do you say 'The waiter sees the boss'?",
+    "options": [
+     "El mozo ve el jefe.",
+     "El mozo ve a el jefe.",
+     "El mozo ve al jefe.",
+     "El mozo ve a jefe."
+    ],
+    "answer": 2,
+    "why": "The boss is a specific person, so he takes personal 'a', and a + el always joins to 'al': ve al jefe.",
+    "x": true
+   },
+   {
+    "topic": "Gustar: liking things",
+    "q": "The new customers love steaks. Complete: ¡Nos ___ mucho los bifes!",
+    "options": [
+     "gusta",
+     "gustamos",
+     "gustan",
+     "gusto"
+    ],
+    "answer": 2,
+    "why": "With gustar the verb agrees with the thing liked. 'Los bifes' is plural, so 'gustan'; 'nos' shows who likes them (us).",
+    "x": true
+   }
+  ],
+  "a1-03": [
+   {
+    "topic": "Ser vs. estar",
+    "q": "Which sentence is correct for 'She is from Chile and she is nervous today'?",
+    "options": [
+     "Está de Chile y está nerviosa.",
+     "Está de Chile y es nerviosa.",
+     "Es de Chile y es nerviosa.",
+     "Es de Chile y está nerviosa."
+    ],
+    "answer": 3,
+    "why": "Origin uses ser (es de Chile). A feeling right now uses estar (está nerviosa). 'Es nerviosa' would mean she is a nervous person by nature."
+   },
+   {
+    "topic": "Gustar to say what you like",
+    "q": "Alicia answers about soccer. Which answer means 'I like to draw'?",
+    "options": [
+     "Me gusta dibujar.",
+     "Me gusto dibujar.",
+     "Yo gusta dibujo.",
+     "Me gustan dibujar."
+    ],
+    "answer": 0,
+    "why": "'Me gusta' + infinitive = I like to… / I like …ing. With an action the verb is always singular 'gusta'."
+   },
+   {
+    "topic": "Tener: possession and hunger",
+    "q": "Complete: —¿Tienes hambre? —Sí, ___ mucha hambre.",
+    "options": [
+     "estoy",
+     "soy",
+     "tengo",
+     "hay"
+    ],
+    "answer": 2,
+    "why": "Hunger uses tener: tengo hambre (literally 'I have hunger'). 'Hambre' is a noun, so 'very hungry' is 'mucha hambre'."
+   },
+   {
+    "topic": "Ser vs. estar",
+    "q": "At the end of the story: Ahora Alicia tiene una amiga y ___ contenta.",
+    "options": [
+     "es",
+     "está",
+     "hay",
+     "tiene"
+    ],
+    "answer": 1,
+    "why": "Being happy now is a feeling, so it uses estar: está contenta. Ser is for origin and identity: es de Chile, es Alicia."
+   },
+   {
+    "topic": "Ser vs. estar",
+    "q": "Which sentence needs 'está' (estar) instead of 'es' (ser)?",
+    "options": [
+     "Alicia ___ muy nerviosa hoy.",
+     "La profesora ___ de México.",
+     "Alicia ___ de Chile.",
+     "Ella ___ Alicia."
+    ],
+    "answer": 0,
+    "why": "A feeling today uses estar: está nerviosa. Origin (de Chile, de México) and identity (es Alicia) use ser.",
+    "x": true
+   },
+   {
+    "topic": "Gustar to say what you like",
+    "q": "Alicia says: 'Me gusta dibujar.' Cristina likes it too. What does she say?",
+    "options": [
+     "¡Me también!",
+     "¡Yo gusta también!",
+     "¡Yo también gusto!",
+     "¡A mí también!"
+    ],
+    "answer": 3,
+    "why": "To agree with a gustar sentence, say '¡A mí también!' (literally 'to me too'), because the liker is 'a mí', not 'yo'.",
+    "x": true
+   },
+   {
+    "topic": "Tener: possession and hunger",
+    "q": "How do you ask 'Are you hungry?'",
+    "options": [
+     "¿Estás hambre?",
+     "¿Tienes hambre?",
+     "¿Eres hambre?",
+     "¿Tienes hambriento?"
+    ],
+    "answer": 1,
+    "why": "Spanish says 'to have hunger': ¿Tienes hambre? English 'are you…?' tempts learners to use estar or ser here.",
+    "x": true
+   },
+   {
+    "topic": "Tener: possession and hunger",
+    "q": "Complete: Alicia ___ el pelo largo y negro.",
+    "options": [
+     "es",
+     "está",
+     "hay",
+     "tiene"
+    ],
+    "answer": 3,
+    "why": "Spanish describes hair with tener: tiene el pelo largo (literally 'she has the hair long').",
+    "x": true
+   }
+  ],
+  "a1-04": [
+   {
+    "topic": "Colors: agreement and position",
+    "q": "Tinto's paws are white. Complete: Tinto tiene las patas ___.",
+    "options": [
+     "blanco",
+     "blanca",
+     "blancas",
+     "blancos"
+    ],
+    "answer": 2,
+    "why": "Las patas is feminine plural, so the color is feminine plural too: blancas. The color goes after the noun."
+   },
+   {
+    "topic": "Querer and poder + infinitive",
+    "q": "Which sentence means 'I want to find my cake'?",
+    "options": [
+     "Quiero a encontrar mi torta.",
+     "Quiero encuentro mi torta.",
+     "Quiero encontrar mi torta.",
+     "Quero encontrar mi torta."
+    ],
+    "answer": 2,
+    "why": "Querer is followed directly by the infinitive (encontrar), with no 'a'. The 'I' form has the stem change e → ie: quiero."
+   },
+   {
+    "topic": "Negatives with no",
+    "q": "How do you say 'It isn't in the kitchen'?",
+    "options": [
+     "No está en la cocina.",
+     "Está no en la cocina.",
+     "No es en la cocina.",
+     "No hay en la cocina."
+    ],
+    "answer": 0,
+    "why": "'No' goes right before the verb, and location of a specific thing uses estar: no está en la cocina."
+   },
+   {
+    "topic": "Negatives with no",
+    "q": "Edwin says the delivery man is not the boy. Complete: — ___ él, porque es alto.",
+    "options": [
+     "Es no",
+     "No es",
+     "No está",
+     "No hay"
+    ],
+    "answer": 1,
+    "why": "'No' goes right before the verb. Saying who someone is uses ser: No es él (It isn't him)."
+   },
+   {
+    "topic": "Colors: agreement and position",
+    "q": "Marleny has two green jackets. Complete: Marleny tiene dos chaquetas ___.",
+    "options": [
+     "verde",
+     "verdes",
+     "verdas",
+     "verdos"
+    ],
+    "answer": 1,
+    "why": "Colors ending in -e have no masculine or feminine form; they only add -s for the plural: verdes. 'Verdas' and 'verdos' do not exist.",
+    "x": true
+   },
+   {
+    "topic": "Querer and poder + infinitive",
+    "q": "Edwin and Marleny want to go to the park together. Complete: ___ ir al parque. (We can…)",
+    "options": [
+     "Puedemos",
+     "Podemos",
+     "Pueden",
+     "Poder"
+    ],
+    "answer": 1,
+    "why": "Poder changes o → ue in puedo, puedes, puede, pueden, but NOT in the 'we' form: podemos.",
+    "x": true
+   },
+   {
+    "topic": "Negatives with no",
+    "q": "Make this sentence negative: 'Son zapatos.'",
+    "options": [
+     "Son no zapatos.",
+     "No son zapatos.",
+     "Son zapatos no.",
+     "No zapatos son."
+    ],
+    "answer": 1,
+    "why": "'No' goes directly before the verb: No son zapatos. There is no helper verb like 'don't'.",
+    "x": true
+   },
+   {
+    "topic": "Colors: agreement and position",
+    "q": "Which phrase means 'a white cake'?",
+    "options": [
+     "una blanca torta",
+     "una torta blanco",
+     "una torta blanca",
+     "un torta blanca"
+    ],
+    "answer": 2,
+    "why": "In Spanish the color usually goes after the noun and agrees with it: la torta is feminine singular, so 'una torta blanca'.",
+    "x": true
+   }
+  ],
+  "a1-05": [
+   {
+    "topic": "Querer, necesitar, poder + infinitive",
+    "q": "Which sentence is correct for 'We can wait'?",
+    "options": [
+     "Podemos esperar.",
+     "Podemos esperamos.",
+     "Puedemos esperar.",
+     "Podemos a esperar."
+    ],
+    "answer": 0,
+    "why": "Poder changes its stem to 'pued-' only in some forms (puedo, puedes, puede); nosotros is 'podemos'. The second verb stays in the infinitive, with no 'a'."
+   },
+   {
+    "topic": "Ir: voy a + place",
+    "q": "What does '— Voy a la caja —dice Nerea' mean?",
+    "options": [
+     "\"I have the till,\" says Nerea.",
+     "\"I'm going to the till,\" says Nerea.",
+     "\"She's going to the till,\" says Nerea.",
+     "\"I'm at the till,\" says Nerea."
+    ],
+    "answer": 1,
+    "why": "'Voy' is the 'I' form of ir (to go), and 'a' means 'to' before a place. 'I'm at the till' would be 'Estoy en la caja'."
+   },
+   {
+    "topic": "Numbers and prices: ¿Cuánto es?",
+    "q": "Nerea wants to know the price at the till. What does she ask?",
+    "options": [
+     "¿Cuándo es?",
+     "¿Cuánto es?",
+     "¿Qué hora es?",
+     "¿Dónde es?"
+    ],
+    "answer": 1,
+    "why": "'¿Cuánto es?' means 'How much is it?'. 'Cuándo' means 'when', so '¿Cuándo es?' asks about time, not price."
+   },
+   {
+    "topic": "Numbers and prices: ¿Cuánto es?",
+    "q": "Fill in the blank: Un chocolate con churros ___ cinco euros.",
+    "options": [
+     "cuesta",
+     "cuestan",
+     "costa",
+     "cuesto"
+    ],
+    "answer": 0,
+    "why": "Costar changes o → ue: cuesta. One chocolate is singular, so 'cuesta'; two or more things take 'cuestan'."
+   },
+   {
+    "topic": "Querer, necesitar, poder + infinitive",
+    "q": "Complete: Yo ___ pedir dos chocolates con churros.",
+    "options": [
+     "quero",
+     "quieres",
+     "quiero",
+     "querer"
+    ],
+    "answer": 2,
+    "why": "Querer changes e→ie in the stressed forms: yo quiero, tú quieres. 'Quero' does not exist in Spanish.",
+    "x": true
+   },
+   {
+    "topic": "Ir: voy a + place",
+    "q": "Complete: El abuelo y yo ___ a la chocolatería.",
+    "options": [
+     "vamos",
+     "voy",
+     "van",
+     "vais"
+    ],
+    "answer": 0,
+    "why": "'El abuelo y yo' = we (nosotros), so ir becomes 'vamos'. 'Voy' is only for 'yo'.",
+    "x": true
+   },
+   {
+    "topic": "Numbers and prices: ¿Cuánto es?",
+    "q": "Answer the price question for two chocolates: — ___ diez euros.",
+    "options": [
+     "Es",
+     "Son",
+     "Están",
+     "Hay"
+    ],
+    "answer": 1,
+    "why": "A total of two or more uses 'son': Son diez euros. Only one is singular: Es un euro.",
+    "x": true
+   },
+   {
+    "topic": "Numbers and prices: ¿Cuánto es?",
+    "q": "'¡Cuarenta años aquí!' How many years is cuarenta?",
+    "options": [
+     "14",
+     "4",
+     "40",
+     "400"
+    ],
+    "answer": 2,
+    "why": "Cuatro = 4, catorce = 14, cuarenta = 40, cuatrocientos = 400. The tens end in -enta: treinta, cuarenta, cincuenta.",
+    "x": true
+   }
+  ]
+ },
+ "categories_add": {
+  "Numbers and prices: ¿Cuánto es?": "Present tense & basics"
+ },
+ "dict_add": {
+  "seria": [
+   [
+    "serio",
+    "adj",
+    "serious, stern"
+   ]
+  ],
+  "dibuja": [
+   [
+    "dibujar",
+    "verb",
+    "to draw"
+   ]
+  ]
+ },
+ "notes": "No map2 text edits for a1-01..a1-05 (edit_count 0). Grammar: a1-01 dropped 'Present tense and tener'; a1-02 dropped 'Tener: having things'; a1-03 dropped 'Telling time: son las / a las'; a1-04 dropped 'Ir a + place' and '¿Dónde está…? and porque'; a1-05 dropped 'Hay and no hay' and 'Time with a las', added new card 'Numbers and prices: ¿Cuánto es?' (examples = story lines 4, 9, 10 verbatim). Quizzes: kept all still-fitting questions; each story has 4 core + 4 x:true, every topic has a core question. New questions use 4 options (not 3) to match every existing question and tools/validate_gquiz.py, which requires exactly 4 distinct options. Recycling: recycled words are NOT wrapped in <b> and NOT added to story vocab, because <b> counts must stay unchanged and the stories only gloss each story's own new words (e.g. a1-05 uses mesa unglossed); learners can tap them in the dict. No bolded word was replaced. All recycled words are on unprotected lines; every kept grammar example, quiz answer and role-play still matches. a1-01 (no earlier stories): lentes now 4x (lines 5,10,12,13), cocina 3x (1,4,14), plus mesa, pista and caramelo 2x each. a1-02: flan, caramelo (L2), tener sueño (L4), lentes (L6), bigote + mano (L13). a1-03: tener sueño (L0), lentes + serio/seria (L5), bigote (L10), flan (L14). a1-04: hambre (L0), lentes (L8), manzana (L10), piso (L12), bigote (L13). a1-05: hace frío + hambre (L0), chaqueta + cocinero + jefe (L11), hambre (L15). Skipped as niche or regional: domiciliario, comanda, mozo, parrilla, bife. Also patched concepts.grammar in each story so it lists the final topics. dict_add: 'seria' and 'dibuja' (conjugated/feminine forms with no dict.json key; leave them out if the lookup engine already lemmatizes). Pre-existing, left as is: some examples in kept cards are not verbatim (a1-02 'Su jefe, don Horacio, es serio.', 'Don Horacio mira a Delfina.', 'Delfina mira la comanda.'; a1-05 'Quiero desayunar churros con chocolate.', '— Podemos esperar —dice el abuelo.', 'Abuelo, ¿vamos a la chocolatería?'; a1-04 '— Podemos ir al parque —dice Edwin.'; plus illustrative ones such as '—¿Qué hora es? —Es la una.'). None was broken by these edits."
+}

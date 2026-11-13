@@ -1,0 +1,3547 @@
+{
+ "a1-01": {
+  "title": "¿Dónde está el flan?",
+  "level": "A1",
+  "keep": [
+   "Telling time: Son las…",
+   "Hay: there is / there are",
+   "Estar for location and feelings"
+  ],
+  "topics": [
+   {
+    "topic": "Telling time: Son las…",
+    "family": "Time & days",
+    "group": "time",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 0: Son las tres de la tarde en la Ciudad de",
+     "line 2: Son las cuatro. ¡No hay flan!",
+     "line 14: Son las cinco. Los dos preparan otro flan."
+    ],
+    "count": 3,
+    "count_without_edits": 3,
+    "edits": [],
+    "pattern": "\\bSon las \\w+"
+   },
+   {
+    "topic": "Hay: there is / there are",
+    "family": "Present tense & basics",
+    "group": "hay",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 1: En la cocina hay un flan grande.",
+     "line 2: Son las cuatro. ¡No hay flan!",
+     "line 5: En la mesa hay una cuchara y unos lentes."
+    ],
+    "count": 3,
+    "count_without_edits": 3,
+    "edits": [],
+    "pattern": "\\b[Hh]ay\\b"
+   },
+   {
+    "topic": "Estar for location and feelings",
+    "family": "Ser vs. estar",
+    "group": "ser/estar",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 3: — ¿Dónde está el flan? —pregunta Xóchitl.",
+     "line 6: Chispa, la perra, está en el piso.",
+     "line 9: El abuelo Fermín está en la sala."
+    ],
+    "count": 3,
+    "count_without_edits": 3,
+    "edits": [],
+    "pattern": "\\bestá\\b"
+   }
+  ],
+  "drop": [
+   "Present tense and tener"
+  ],
+  "drop_why": {
+   "Present tense and tener": "tener is headlined in a1-03 (introduces) and a1-08 (recycles); regular present is in essentials-a1."
+  },
+  "protected_lines": [
+   0,
+   1,
+   2,
+   3,
+   5,
+   6,
+   9
+  ],
+  "edit_count": 0,
+  "note": ""
+ },
+ "a1-02": {
+  "title": "La comanda de la mesa seis",
+  "level": "A1",
+  "keep": [
+   "Ser for days, prices, descriptions",
+   "Gustar: liking things",
+   "Personal a before people"
+  ],
+  "topics": [
+   {
+    "topic": "Ser for days, prices, descriptions",
+    "family": "Ser vs. estar",
+    "group": "ser",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 0: Es viernes en Buenos Aires.",
+     "line 1: Delfina es cocinera en una parrilla.",
+     "line 3: Su jefe, don Horacio, es serio: no le gustan los errores.",
+     "line 12: A las doce: ¡son cien bifes!"
+    ],
+    "count": 4,
+    "count_without_edits": 4,
+    "edits": [],
+    "pattern": "\\b(Es viernes|es cocinera|es serio|son cien)\\b"
+   },
+   {
+    "topic": "Gustar: liking things",
+    "family": "Verb phrases & near future",
+    "group": "gustar",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 3: don Horacio, es serio: no le gustan los errores.",
+     "line 10: — ¿Tienen bifes? ¡Nos gustan mucho!",
+     "line 14: — Me gusta tu bife. Y sonríe."
+    ],
+    "count": 3,
+    "count_without_edits": 3,
+    "edits": [],
+    "pattern": "\\b(gustan|gusta)\\b"
+   },
+   {
+    "topic": "Personal a before people",
+    "family": "Pronouns & personal a",
+    "group": "personal a",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 7: Don Horacio mira a Delfina: —¡La mesa seis tiene",
+     "line 9: El mozo ve a tres clientes nuevos.",
+     "line 13: Don Horacio prueba uno y mira a Delfina."
+    ],
+    "count": 3,
+    "count_without_edits": 3,
+    "edits": [],
+    "pattern": "\\b(mira|ve) a\\b"
+   }
+  ],
+  "drop": [
+   "Tener: having things"
+  ],
+  "drop_why": {
+   "Tener: having things": "tener capped at 2 A1 stories (a1-03, a1-08)."
+  },
+  "protected_lines": [
+   0,
+   1,
+   3,
+   7,
+   9,
+   10,
+   12,
+   14
+  ],
+  "edit_count": 0,
+  "note": ""
+ },
+ "a1-03": {
+  "title": "La niña nueva",
+  "level": "A1",
+  "keep": [
+   "Ser vs. estar",
+   "Gustar to say what you like",
+   "Tener: possession and hunger"
+  ],
+  "topics": [
+   {
+    "topic": "Ser vs. estar",
+    "family": "Ser vs. estar",
+    "group": "ser/estar",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 2: Se llama Alicia y es de Chile.",
+     "line 4: Está muy nerviosa.",
+     "line 5: La profesora dice: — Clase, ella es Alicia.",
+     "line 15: Ahora Alicia tiene una amiga y está contenta."
+    ],
+    "count": 4,
+    "count_without_edits": 4,
+    "edits": [],
+    "pattern": "(es de Chile|ella es Alicia|[Ee]stá muy nerviosa|está contenta)"
+   },
+   {
+    "topic": "Gustar to say what you like",
+    "family": "Verb phrases & near future",
+    "group": "gustar",
+    "status": "keep",
+    "role": "recycles",
+    "new": false,
+    "evidence": [
+     "line 7: — Alicia, ¿te gusta el fútbol? —pregunta.",
+     "line 8: — No, me gusta dibujar —responde Alicia.",
+     "line 9: — ¡A mí también! —dice Cristina."
+    ],
+    "count": 3,
+    "count_without_edits": 3,
+    "edits": [],
+    "pattern": "(te gusta|me gusta|A mí también)"
+   },
+   {
+    "topic": "Tener: possession and hunger",
+    "family": "Present tense & basics",
+    "group": "tener",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 3: Tiene el pelo largo y negro.",
+     "line 11: Cristina tiene un bocadillo de queso.",
+     "line 12: Alicia tiene una manzana roja.",
+     "line 13: — ¿Tienes hambre? —pregunta Cristina.",
+     "line 15: Ahora Alicia tiene una amiga y está contenta."
+    ],
+    "count": 5,
+    "count_without_edits": 5,
+    "edits": [],
+    "pattern": "\\b(Tiene|tiene|Tienes)\\b"
+   }
+  ],
+  "drop": [
+   "Telling time: son las / a las"
+  ],
+  "drop_why": {
+   "Telling time: son las / a las": "time capped at 2 A1 stories (a1-01, a1-10); here only 2 tokens."
+  },
+  "protected_lines": [
+   2,
+   3,
+   4,
+   7,
+   8,
+   9,
+   11,
+   13
+  ],
+  "edit_count": 0,
+  "note": "No longer \"introduces nothing new\": first tener card (a1-01/a1-02 no longer headline it) and first ser/estar contrast."
+ },
+ "a1-04": {
+  "title": "La torta de la ventana",
+  "level": "A1",
+  "keep": [
+   "Colors: agreement and position",
+   "Querer and poder + infinitive",
+   "Negatives with no"
+  ],
+  "topics": [
+   {
+    "topic": "Colors: agreement and position",
+    "family": "Present tense & basics",
+    "group": "colors",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 1: Tinto es negro, con las patas blancas.",
+     "line 1: Tinto es negro, con las patas blancas.",
+     "line 2: Tiene una chaqueta roja porque hace frío.",
+     "line 3: En la ventana hay una torta blanca con fresas rojas.",
+     "line 3: una torta blanca con fresas rojas.",
+     "line 9: — Pelo negro, chaqueta roja, zapatos blancos.",
+     "line 9: — Pelo negro, chaqueta roja, zapatos blancos. Va al parque.",
+     "line 9: negro, chaqueta roja, zapatos blancos. Va al parque.",
+     "line 10: un domiciliario con chaqueta roja.",
+     "line 14: — ¿Y los zapatos blancos?"
+    ],
+    "count": 10,
+    "count_without_edits": 10,
+    "edits": [],
+    "pattern": "\\b(negr[oa]s?|blanc[oa]s?|roj[oa]s?)\\b"
+   },
+   {
+    "topic": "Querer and poder + infinitive",
+    "family": "Verb phrases & near future",
+    "group": "querer/poder",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 7: — Quiero encontrar mi torta. ¿Me puede ayudar?",
+     "line 7: Quiero encontrar mi torta. ¿Me puede ayudar?",
+     "line 11: porque es alto —dice Edwin—. Podemos ir al parque."
+    ],
+    "count": 3,
+    "count_without_edits": 3,
+    "edits": [],
+    "pattern": "(Quiero encontrar|puede ayudar|Podemos ir)"
+   },
+   {
+    "topic": "Negatives with no",
+    "family": "Questions & negation",
+    "group": "negation",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 5: No está en la ventana. No está en la",
+     "line 5: No está en la ventana. No está en la cocina.",
+     "line 11: — No es él, porque es alto —dice Edwin—.",
+     "line 15: Marleny ríe: — ¡No son zapatos, son patas!"
+    ],
+    "count": 4,
+    "count_without_edits": 4,
+    "edits": [],
+    "pattern": "\\bNo (está|es|son)\\b"
+   }
+  ],
+  "drop": [
+   "Ir a + place",
+   "¿Dónde está…? and porque"
+  ],
+  "drop_why": {
+   "Ir a + place": "ir a capped (a1-05 place, a1-09 infinitive, a2-01).",
+   "¿Dónde está…? and porque": "questions/porque headlined in a1-08 and a1-09; estar location in a1-01/a1-03; also cuts a1-04 from 5 topics to 3."
+  },
+  "protected_lines": [
+   1,
+   2,
+   3,
+   5,
+   7,
+   9,
+   11,
+   15
+  ],
+  "edit_count": 0,
+  "note": ""
+ },
+ "a1-05": {
+  "title": "Churros a las nueve",
+  "level": "A1",
+  "keep": [
+   "Querer, necesitar, poder + infinitive",
+   "Ir: voy a + place"
+  ],
+  "topics": [
+   {
+    "topic": "Querer, necesitar, poder + infinitive",
+    "family": "Verb phrases & near future",
+    "group": "querer/poder",
+    "status": "keep",
+    "role": "recycles",
+    "new": false,
+    "evidence": [
+     "line 3: — Podemos esperar —dice el abuelo—. A las nueve",
+     "line 5: — Esos churros necesitan un minuto más.",
+     "line 8: — Voy a la caja. Quiero pedir yo.",
+     "line 13: — Hoy no pagas. ¿Puedes hacer los churros, como antes?"
+    ],
+    "count": 4,
+    "count_without_edits": 4,
+    "edits": [],
+    "pattern": "(Podemos esperar|necesitan un minuto|Quiero pedir|Puedes hacer)"
+   },
+   {
+    "topic": "Ir: voy a + place",
+    "family": "Verb phrases & near future",
+    "group": "ir a",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 1: — Abuelo, ¿vamos a la chocolatería San Ginés? —dice",
+     "line 8: — Voy a la caja. Quiero pedir yo.",
+     "line 14: — ¡Claro! Voy a la cocina."
+    ],
+    "count": 3,
+    "count_without_edits": 3,
+    "edits": [],
+    "pattern": "\\b(vamos|Voy) a la\\b"
+   },
+   {
+    "topic": "Numbers and prices: ¿Cuánto es?",
+    "family": "Present tense & basics",
+    "group": "numbers/prices",
+    "status": "introduces",
+    "role": "introduces",
+    "new": true,
+    "evidence": [
+     "line 4: — Un chocolate con churros cuesta cinco euros —dice, sin mirar el menú.",
+     "line 9: chocolates con churros, por favor. ¿Cuánto es?",
+     "line 10: — Son diez euros.",
+     "line 12: — ¡Hilario! ¡Cuarenta años aquí, y hoy eres cliente!"
+    ],
+    "count": 4,
+    "count_without_edits": 4,
+    "edits": [],
+    "pattern": "(cuesta cinco euros|¿Cuánto es\\?|Son diez euros|Cuarenta años)"
+   }
+  ],
+  "drop": [
+   "Hay and no hay",
+   "Time with a las"
+  ],
+  "drop_why": {
+   "Hay and no hay": "hay capped at 2 (a1-01, a1-07).",
+   "Time with a las": "time capped at 2 (a1-01, a1-10)."
+  },
+  "protected_lines": [
+   1,
+   3,
+   5,
+   8,
+   13,
+   14
+  ],
+  "edit_count": 0,
+  "note": ""
+ },
+ "a1-06": {
+  "title": "Una mesa para todos",
+  "level": "A1",
+  "keep": [
+   "Reflexive verbs",
+   "Present tense: yo form"
+  ],
+  "topics": [
+   {
+    "topic": "Reflexive verbs",
+    "family": "Reflexives & se",
+    "group": "reflexive",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 1: Mi prima Kiara se casa el sábado.",
+     "line 4: El tío Wilfredo no se sienta con su hermano Héctor.",
+     "line 6: La suegra de Kiara no se sienta cerca de la tía Nilda.",
+     "line 11: ¡Qué problema! Me levanto a las cinco para pensar.",
+     "line 15: sábado, los hermanos pierden... y se ríen juntos."
+    ],
+    "count": 5,
+    "count_without_edits": 5,
+    "edits": [],
+    "pattern": "\\b(se casa|se sienta|[Mm]e levanto|se ríen)\\b"
+   },
+   {
+    "topic": "Present tense: yo form",
+    "family": "Present tense & basics",
+    "group": "present tense",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 0: Me llamo Yadira y vivo en San Juan.",
+     "line 0: Me llamo Yadira y vivo en San Juan.",
+     "line 2: Yo preparo las mesas de la boda.",
+     "line 11: ¡Qué problema! Me levanto a las cinco para pensar."
+    ],
+    "count": 4,
+    "count_without_edits": 4,
+    "edits": [],
+    "pattern": "\\b(Me llamo|vivo|[Yy]o preparo|Me levanto)\\b"
+   },
+   {
+    "topic": "Possessives: mi, su",
+    "family": "Present tense & basics",
+    "group": "possessives",
+    "status": "introduces",
+    "role": "introduces",
+    "new": true,
+    "evidence": [
+     "line 1: Mi prima Kiara se casa el sábado.",
+     "line 4: tío Wilfredo no se sienta con su hermano Héctor.",
+     "line 7: — No me gusta su arroz con gandules.",
+     "line 8: Mi cuñado Ismael quiere la mesa al lado",
+     "line 10: El padrino canta, y su mesa está cerca del micrófono."
+    ],
+    "count": 5,
+    "count_without_edits": 5,
+    "edits": [],
+    "pattern": "\\b(Mi prima|su hermano|su arroz|Mi cuñado|su mesa)\\b"
+   }
+  ],
+  "drop": [
+   "Estar for location",
+   "Me gusta"
+  ],
+  "drop_why": {
+   "Estar for location": "estar capped at 2 (a1-01, a1-03).",
+   "Me gusta": "gustar capped at 2 in A1 (a1-02, a1-03); a2-03 takes gustar-type verbs."
+  },
+  "protected_lines": [
+   0,
+   2,
+   4,
+   11
+  ],
+  "edit_count": 0,
+  "note": ""
+ },
+ "a1-07": {
+  "title": "La llama del camino",
+  "level": "A1",
+  "keep": [
+   "Hay: there is / there are",
+   "Reflexive: se sienta, se llama"
+  ],
+  "topics": [
+   {
+    "topic": "Hay: there is / there are",
+    "family": "Present tense & basics",
+    "group": "hay",
+    "status": "keep",
+    "role": "recycles",
+    "new": false,
+    "evidence": [
+     "line 2: —Arriba hay una vista perfecta —lee él.",
+     "line 7: Pero hoy hay muchas nubes. Marina está muy",
+     "line 8: —Muchas mañanas hay nubes, pero al mediodía hay",
+     "line 8: hay nubes, pero al mediodía hay sol.",
+     "line 9: A las once y media, hay una llama blanca en el camino.",
+     "line 15: Las nubes ya no están. ¡Hay sol!",
+     "line 17: —dice Killa—, pero sabe cuándo hay sol."
+    ],
+    "count": 7,
+    "count_without_edits": 7,
+    "edits": [],
+    "pattern": "\\b[Hh]ay\\b"
+   },
+   {
+    "topic": "Reflexive: se sienta, se llama",
+    "family": "Reflexives & se",
+    "group": "reflexive",
+    "status": "keep",
+    "role": "recycles",
+    "new": false,
+    "evidence": [
+     "line 3: Arriba está la guía. Se llama Killa.",
+     "line 10: La llama se sienta en el centro y no se mueve.",
+     "line 10: se sienta en el centro y no se mueve.",
+     "line 11: —Se llama Pelusa y vive aquí —dice Killa.",
+     "line 12: Marina se sienta en una piedra y lee.",
+     "line 14: A las doce, Pelusa se levanta."
+    ],
+    "count": 6,
+    "count_without_edits": 6,
+    "edits": [],
+    "pattern": "\\b(se sienta|[Ss]e llama|se mueve|se levanta)\\b"
+   },
+   {
+    "topic": "Muy and mucho",
+    "family": "Present tense & basics",
+    "group": "muy/mucho",
+    "status": "introduces",
+    "role": "introduces",
+    "new": true,
+    "evidence": [
+     "line 6: ciudad inca del siglo quince. ¡Es muy vieja! —dice Killa. [after edit]",
+     "line 7: Pero hoy hay muchas nubes. Marina está muy triste.",
+     "line 7: hay muchas nubes. Marina está muy triste. [after edit]",
+     "line 8: —Muchas mañanas hay nubes, pero al mediodía"
+    ],
+    "count": 4,
+    "count_without_edits": 2,
+    "edits": [
+     {
+      "line": 6,
+      "old": "quince —dice Killa.",
+      "suggest_es": "quince. ¡Es muy vieja! —dice Killa.",
+      "suggest_en": "\"This is an Inca city from the fifteenth century. It's very old!\" says Killa.",
+      "line_after_raw": "—Esta es una ciudad <b>inca</b> del <b>siglo</b> quince. ¡Es muy vieja! —dice Killa."
+     },
+     {
+      "line": 7,
+      "old": "Marina está",
+      "suggest_es": "Marina está muy",
+      "suggest_en": "But today there are lots of clouds. Marina is very sad.",
+      "line_after_raw": "Pero hoy hay muchas <b>nubes</b>. Marina está muy <b>triste</b>."
+     }
+    ],
+    "pattern": "\\b(muy|[Mm]uchas?)\\b"
+   }
+  ],
+  "drop": [
+   "Estar for place and state",
+   "Present tense with vivir and leer"
+  ],
+  "drop_why": {
+   "Estar for place and state": "estar capped at 2 (a1-01, a1-03).",
+   "Present tense with vivir and leer": "present-tense slots: a1-06 (yo form) and a1-10 (stem-changers)."
+  },
+  "protected_lines": [
+   2,
+   8,
+   10,
+   11,
+   14,
+   16
+  ],
+  "edit_count": 2,
+  "note": ""
+ },
+ "a1-08": {
+  "title": "El mapa del coco",
+  "level": "A1",
+  "keep": [
+   "Tener que + infinitive",
+   "Comparing with más … que",
+   "Tener: age and having",
+   "¿Por qué? and porque"
+  ],
+  "topics": [
+   {
+    "topic": "Tener que + infinitive",
+    "family": "Verb phrases & near future",
+    "group": "obligation",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 5: —¡Tenemos que ir! —dice Julián.",
+     "line 6: enorme castillo de San Felipe. ¡Hay que empezar allí! [after edit]",
+     "line 9: Después, tienen que caminar a la Torre del Reloj,",
+     "line 17: Mañana tienen que buscar otro libro de piratas."
+    ],
+    "count": 4,
+    "count_without_edits": 3,
+    "edits": [
+     {
+      "line": 6,
+      "old": "castillo de San Felipe.",
+      "suggest_es": "castillo de San Felipe. ¡Hay que empezar allí!",
+      "suggest_en": "They go to the huge San Felipe castle. They have to start there!",
+      "line_after_raw": "Van al <b>enorme</b> castillo de San Felipe. ¡Hay que empezar allí!"
+     }
+    ],
+    "pattern": "\\b(Tenemos que|tienen que|Hay que)\\b"
+   },
+   {
+    "topic": "Comparing with más … que",
+    "family": "Comparing things",
+    "group": "comparatives",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 4: Torre del Reloj. El tesoro es más dulce que el oro».",
+     "line 8: quieren oro, y el castillo es más fuerte que ellos.",
+     "line 11: Un puesto, más pequeño que los otros, tiene un dibujo:",
+     "line 15: Les da dos cocadas tan grandes como sus manos.",
+     "line 16: —¡Este tesoro es mejor que el oro! —dice Julián."
+    ],
+    "count": 5,
+    "count_without_edits": 5,
+    "edits": [],
+    "pattern": "(más \\w+ que|tan \\w+ como|mejor que)"
+   },
+   {
+    "topic": "Tener: age and having",
+    "family": "Present tense & basics",
+    "group": "tener",
+    "status": "keep",
+    "role": "recycles",
+    "new": false,
+    "evidence": [
+     "line 0: Lina tiene once años y su primo Julián",
+     "line 0: once años y su primo Julián tiene nueve.",
+     "line 11: puesto, más pequeño que los otros, tiene un dibujo: ¡una X y un coco!",
+     "line 12: —¿Tienen el mapa? —pregunta la señora",
+     "line 14: —Porque mi hermano tiene la librería y yo tengo el tesoro.",
+     "line 14: hermano tiene la librería y yo tengo el tesoro."
+    ],
+    "count": 6,
+    "count_without_edits": 6,
+    "edits": [],
+    "pattern": "\\b(tiene|tengo|Tienen)\\b"
+   },
+   {
+    "topic": "¿Por qué? and porque",
+    "family": "Questions & negation",
+    "group": "questions",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 7: —¿Por qué es tan grande? —pregunta Julián.",
+     "line 8: —Porque los piratas quieren oro, y el",
+     "line 13: —Sí. ¿Por qué? —pregunta Lina.",
+     "line 14: —Porque mi hermano tiene la librería"
+    ],
+    "count": 4,
+    "count_without_edits": 4,
+    "edits": [],
+    "pattern": "(¿Por qué|Porque)"
+   }
+  ],
+  "drop": [],
+  "drop_why": {},
+  "protected_lines": [
+   0,
+   4,
+   5,
+   7,
+   8,
+   9,
+   11,
+   13,
+   14,
+   15,
+   16,
+   17
+  ],
+  "edit_count": 1,
+  "note": "The edit adds hay que next to tener que (gap: tener que/hay que); keep the topic string, add one hay que line to the card explanation."
+ },
+ "a1-09": {
+  "title": "Una llamada de viernes",
+  "level": "A1",
+  "keep": [
+   "Ir a + infinitive: the near future",
+   "Question words"
+  ],
+  "topics": [
+   {
+    "topic": "Ir a + infinitive: the near future",
+    "family": "Verb phrases & near future",
+    "group": "ir a",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 6: de semana no tengo planes y voy a estar sola.",
+     "line 9: —Entonces, ¿qué vas a hacer el sábado?",
+     "line 15: —Porque voy a comer contigo el sábado.",
+     "line 22: Este sábado no va a estar sola."
+    ],
+    "count": 4,
+    "count_without_edits": 4,
+    "edits": [],
+    "pattern": "\\b(voy|vas|va) a (estar|hacer|cocinar|comer|pasar)\\b"
+   },
+   {
+    "topic": "Question words",
+    "family": "Questions & negation",
+    "group": "questions",
+    "status": "keep",
+    "role": "recycles",
+    "new": false,
+    "evidence": [
+     "line 3: —¡Hola, Marta! ¿Qué tal estás?",
+     "line 5: —¿Por qué estás triste? —pregunta él.",
+     "line 9: —Entonces, ¿qué vas a hacer el sábado?",
+     "line 14: —Sí, tengo un poco. ¿Por qué?",
+     "line 16: —¿Qué dices? ¡Tú vives en Madrid!"
+    ],
+    "count": 5,
+    "count_without_edits": 5,
+    "edits": [],
+    "pattern": "(¿Qué tal|¿Por qué|¿qué vas|¿Qué dices)"
+   },
+   {
+    "topic": "Demonstratives: este, esta, estas",
+    "family": "Present tense & basics",
+    "group": "demonstratives",
+    "status": "introduces",
+    "role": "introduces",
+    "new": true,
+    "evidence": [
+     "line 6: —Este fin de semana no tengo planes",
+     "line 20: —¡Sorpresa! Estas flores son para ti. Voy a pasar [after edit]",
+     "line 22: Este sábado no va a estar sola. [after edit]"
+    ],
+    "count": 3,
+    "count_without_edits": 1,
+    "edits": [
+     {
+      "line": 20,
+      "old": "¡Sorpresa!",
+      "suggest_es": "¡Sorpresa! Estas flores son para ti.",
+      "suggest_en": "\"Surprise! These flowers are for you. I'm going to spend the weekend here,\" he says."
+     },
+     {
+      "line": 22,
+      "old": "El sábado no va",
+      "suggest_es": "Este sábado no va",
+      "suggest_en": "This Saturday she is not going to be alone."
+     }
+    ],
+    "pattern": "\\b(Este|Estas)\\b"
+   }
+  ],
+  "drop": [
+   "Ser for time, estar for feelings",
+   "El sábado: on Saturday"
+  ],
+  "drop_why": {
+   "Ser for time, estar for feelings": "time and estar both over-taught; slot freed for demonstratives.",
+   "El sábado: on Saturday": "time capped at 2 A1 stories; overlaps a1-10 days."
+  },
+  "protected_lines": [
+   3,
+   5,
+   6,
+   9,
+   10,
+   16
+  ],
+  "edit_count": 2,
+  "note": "a1-09 keeps ir a + infinitive; a1-10 no longer headlines it."
+ },
+ "a1-10": {
+  "title": "Un sábado en el mar",
+  "level": "A1",
+  "keep": [
+   "Days and times of day",
+   "Possessives: mi, tu, su"
+  ],
+  "topics": [
+   {
+    "topic": "Days and times of day",
+    "family": "Time & days",
+    "group": "time",
+    "status": "keep",
+    "role": "recycles",
+    "new": false,
+    "evidence": [
+     "line 1: —El sábado vamos a ir a la playa —dice",
+     "line 3: —A Cádiz. El tren sale a las ocho de la mañana.",
+     "line 10: El viernes por la noche, los hermanos preparan las mochilas.",
+     "line 16: El sábado, los tres llegan a la estación",
+     "line 16: los tres llegan a la estación temprano."
+    ],
+    "count": 5,
+    "count_without_edits": 5,
+    "edits": [],
+    "pattern": "(a las ocho de la mañana|El (viernes|sábado)( por la noche)?|temprano)"
+   },
+   {
+    "topic": "Possessives: mi, tu, su",
+    "family": "Present tense & basics",
+    "group": "possessives",
+    "status": "keep",
+    "role": "recycles",
+    "new": false,
+    "evidence": [
+     "line 0: Elena y su hermano Raúl están en la cocina.",
+     "line 14: Elena se ríe y abre su bolsa.",
+     "line 19: —Es más grande que en mis recuerdos —dice."
+    ],
+    "count": 3,
+    "count_without_edits": 3,
+    "edits": [],
+    "pattern": "\\b(su hermano|su bolsa|mis recuerdos)\\b"
+   },
+   {
+    "topic": "Stem-changing verbs: quiere, encuentra",
+    "family": "Present tense & basics",
+    "group": "present tense",
+    "status": "introduces",
+    "role": "introduces",
+    "new": true,
+    "evidence": [
+     "line 6: —Perfecto. Él tiene ochenta años y quiere ver el mar.",
+     "line 7: —Abuelo, ¿quieres ir con nosotros? —pregunta Elena",
+     "line 12: busca los billetes, pero no los encuentra."
+    ],
+    "count": 3,
+    "count_without_edits": 3,
+    "edits": [],
+    "pattern": "\\b(quiere|quieres|encuentra)\\b"
+   }
+  ],
+  "drop": [
+   "Ir a + infinitive",
+   "Estar for location"
+  ],
+  "drop_why": {
+   "Ir a + infinitive": "a1-09 and a1-10 both led on ir a; kept in a1-09.",
+   "Estar for location": "estar capped at 2 (a1-01, a1-03)."
+  },
+  "protected_lines": [
+   0,
+   3,
+   10,
+   14,
+   16,
+   19
+  ],
+  "edit_count": 0,
+  "note": ""
+ },
+ "a2-01": {
+  "title": "El tren de las nueve",
+  "level": "A2",
+  "keep": [
+   "Regular preterite: -ó and -ió",
+   "Irregular preterite: vio, dijo",
+   "Ir a + infinitive, and ir a + place"
+  ],
+  "topics": [
+   {
+    "topic": "Regular preterite: -ó and -ió",
+    "family": "Past tenses",
+    "group": "preterite forms",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 0: El sábado pasado, Ana llegó tarde a la estación de Madrid.",
+     "line 2: Primero, Ana corrió por la estación con su maleta.",
+     "line 3: Luego miró el andén número cuatro.",
+     "line 5: —¡No! ¡Mi tren! —gritó.",
+     "line 6: Ana se sentó en un banco y lloró un poco.",
+     "line 8: —¿Qué pasó? —preguntó él.",
+     "line 9: —Perdí el tren de las nueve —dijo Ana—.",
+     "line 11: —Ayer compré dos billetes de autobús, pero",
+     "line 12: —¿De verdad? —preguntó Ana—. ¿Cuánto cuesta?",
+     "line 14: Los dos corrieron a la calle y subieron al autobús.",
+     "line 14: Los dos corrieron a la calle y subieron al autobús.",
+     "line 15: Durante el viaje, Pablo tocó la guitarra y Ana sonrió.",
+     "line 15: Pablo tocó la guitarra y Ana sonrió.",
+     "line 16: Después, el autobús paró en un pueblo.",
+     "line 17: Ana miró su teléfono y vio un mensaje",
+     "line 19: —¡Qué suerte! —dijo Ana—. Perdí el tren, pero voy a llegar primero.",
+     "line 20: A las tres, el autobús llegó a Valencia.",
+     "line 21: hermana Silvia vio a Ana y la abrazó.",
+     "line 24: Ana miró a Pablo y sonrió. Perdió el",
+     "line 24: Ana miró a Pablo y sonrió. Perdió el tren, pero encontró",
+     "line 24: sonrió. Perdió el tren, pero encontró un buen amigo."
+    ],
+    "count": 21,
+    "count_without_edits": 21,
+    "edits": [],
+    "pattern": "\\b(llegó|corrió|miró|gritó|lloró|preguntó|compré|corrieron|subieron|tocó|sonrió|paró|abrazó|Perdí|perdió|encontró)\\b"
+   },
+   {
+    "topic": "Irregular preterite: vio, dijo",
+    "family": "Past tenses",
+    "group": "preterite forms",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 9: —Perdí el tren de las nueve —dijo Ana—. Mi hermana se casa a las",
+     "line 17: Ana miró su teléfono y vio un mensaje de su madre.",
+     "line 19: —¡Qué suerte! —dijo Ana—. Perdí el tren, pero voy",
+     "line 21: la iglesia, su hermana Silvia vio a Ana y la abrazó.",
+     "line 22: —¡Pablo! —dijo Silvia—. ¡Eres el primo de Cristóbal,"
+    ],
+    "count": 5,
+    "count_without_edits": 5,
+    "edits": [],
+    "pattern": "\\b(vio|dijo)\\b"
+   },
+   {
+    "topic": "Ir a + infinitive, and ir a + place",
+    "family": "Verb phrases & near future",
+    "group": "ir a",
+    "status": "keep",
+    "role": "recycles",
+    "new": false,
+    "evidence": [
+     "line 10: —Tranquila. Me llamo Pablo y también voy a Valencia.",
+     "line 19: —dijo Ana—. Perdí el tren, pero voy a llegar primero.",
+     "line 23: —Sí —rio Pablo—. Hoy voy a tocar la guitarra en la boda."
+    ],
+    "count": 3,
+    "count_without_edits": 3,
+    "edits": [],
+    "pattern": "\\bvoy a\\b"
+   }
+  ],
+  "drop": [
+   "Reflexive verbs: se sentó, se casa"
+  ],
+  "drop_why": {
+   "Reflexive verbs: se sentó, se casa": "reflexives capped at 3 across A1+A2 (a1-06, a1-07, a2-09)."
+  },
+  "protected_lines": [
+   0,
+   3,
+   9,
+   10,
+   14,
+   17,
+   19,
+   23
+  ],
+  "edit_count": 0,
+  "note": "Card already teaches yo/tú endings (-é/-aste, -í/-iste) since the audit-2 patch; keep that text."
+ },
+ "a2-02": {
+  "title": "La caja azul",
+  "level": "A2",
+  "keep": [
+   "Tú commands: ve, busca, lleva",
+   "Object pronouns: le dio, te lo regala",
+   "Sequence and time words"
+  ],
+  "topics": [
+   {
+    "topic": "Tú commands: ve, busca, lleva",
+    "family": "Commands & formality",
+    "group": "commands",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 4: El papel decía: «Primero, ve al mercado y busca a doña Fabiola».",
+     "line 4: decía: «Primero, ve al mercado y busca a doña Fabiola».",
+     "line 6: —contestó él con una sonrisa—. ¡Ve!",
+     "line 9: «Luego, lleva los mangos a la panadería de"
+    ],
+    "count": 4,
+    "count_without_edits": 4,
+    "edits": [],
+    "pattern": "\\b(ve|Ve|busca|lleva)\\b"
+   },
+   {
+    "topic": "Object pronouns: le dio, te lo regala",
+    "family": "Pronouns & personal a",
+    "group": "object pronouns",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 8: Doña Fabiola le dio una bolsa de mangos y otro papel.",
+     "line 10: el panadero tomó los mangos y le dio un pan dulce.",
+     "line 21: Fabiola —explicó el abuelo—. Ella te lo regala."
+    ],
+    "count": 3,
+    "count_without_edits": 3,
+    "edits": [],
+    "pattern": "\\b(le dio|te lo regala)\\b"
+   },
+   {
+    "topic": "Sequence and time words",
+    "family": "Time & days",
+    "group": "time",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 1: Por la mañana, su abuelo Ramón llegó con una",
+     "line 4: El papel decía: «Primero, ve al mercado y busca a doña",
+     "line 9: «Luego, lleva los mangos a la panadería",
+     "line 12: Después, corrió por la calle Hidalgo",
+     "line 16: Entonces, un perro pequeño salió y saltó",
+     "line 19: Después, toda su familia salió de la"
+    ],
+    "count": 6,
+    "count_without_edits": 6,
+    "edits": [],
+    "pattern": "\\b(Por la mañana|Primero|Luego|Después|Entonces)\\b"
+   }
+  ],
+  "drop": [
+   "Preterite of regular and irregular verbs"
+  ],
+  "drop_why": {
+   "Preterite of regular and irregular verbs": "preterite forms headlined in a2-01 (introduces) and a2-03 (irregular stems)."
+  },
+  "protected_lines": [
+   1,
+   4,
+   8,
+   9,
+   10,
+   12,
+   16,
+   21
+  ],
+  "edit_count": 0,
+  "note": ""
+ },
+ "a2-03": {
+  "title": "El secreto de la abuela",
+  "level": "A2",
+  "keep": [
+   "Irregular preterite: fue, puso, hice, dijo",
+   "Ser vs estar"
+  ],
+  "topics": [
+   {
+    "topic": "Irregular preterite: fue, puso, hice, dijo",
+    "family": "Past tenses",
+    "group": "preterite forms",
+    "status": "keep",
+    "role": "recycles",
+    "new": false,
+    "evidence": [
+     "line 0: El domingo pasado, en Lima, fue el primer almuerzo familiar",
+     "line 3: Luego fue al supermercado y compró carne,",
+     "line 5: Después, puso aceite en la sartén y cocinó",
+     "line 6: Mateo probó el plato y dijo: —Está rico, pero no es igual.",
+     "line 9: —Abuela, hice tu receta, pero el sabor no",
+     "line 17: —Tuve que tomar el autobús de las [after edit]",
+     "line 17: autobús de las seis de la mañana —dijo ella—. Es domingo, y los domingos",
+     "line 20: —Muy bien, Mateo —dijo—. Solo falta un secreto.",
+     "line 24: —¿Cuál fue el secreto? ¿Por qué no está",
+     "line 27: probó el plato. —¡Me encanta! —dijo, y lloró de alegría. [after edit]"
+    ],
+    "count": 10,
+    "count_without_edits": 8,
+    "edits": [
+     {
+      "line": 17,
+      "old": "—Tomé el autobús",
+      "suggest_es": "—Tuve que tomar el autobús",
+      "suggest_en": "\"I had to take the six o'clock bus this morning,\" she said. \"It's Sunday, and on Sundays we eat together.\""
+     }
+    ],
+    "pattern": "\\b(fue|puso|hice|dijo|Tuve)\\b"
+   },
+   {
+    "topic": "Ser vs estar",
+    "family": "Ser vs. estar",
+    "group": "ser/estar",
+    "status": "keep",
+    "role": "recycles",
+    "new": false,
+    "evidence": [
+     "line 6: Mateo probó el plato y dijo: —Está rico, pero no es igual.",
+     "line 6: plato y dijo: —Está rico, pero no es igual.",
+     "line 9: hice tu receta, pero el sabor no es igual.",
+     "line 14: —Porque estoy en la puerta de tu casa —rio la abuela.",
+     "line 23: Mateo probó otra vez. —¡Ahora sí es igual! —gritó.",
+     "line 24: —¿Cuál fue el secreto? ¿Por qué no está en el cuaderno?"
+    ],
+    "count": 6,
+    "count_without_edits": 6,
+    "edits": [],
+    "pattern": "(Está rico|no es igual|[Ee]stoy en la puerta|sí es igual|no está en el cuaderno)"
+   },
+   {
+    "topic": "Gustar-type verbs: faltar, encantar",
+    "family": "Verb phrases & near future",
+    "group": "gustar",
+    "status": "introduces",
+    "role": "introduces",
+    "new": true,
+    "evidence": [
+     "line 7: —Falta algo —pensó—. ¡Necesito ayuda!",
+     "line 10: —¿Qué ingrediente falta, hijo? —preguntó ella.",
+     "line 20: —Muy bien, Mateo —dijo—. Solo falta un secreto.",
+     "line 27: de Mateo probó el plato. —¡Me encanta! —dijo, y lloró de alegría. [after edit]"
+    ],
+    "count": 4,
+    "count_without_edits": 3,
+    "edits": [
+     {
+      "line": 27,
+      "old": "probó el plato y",
+      "suggest_es": "probó el plato. —¡Me encanta! —dijo, y",
+      "suggest_en": "Mateo's mother tasted the dish. \"I love it!\" she said, and cried with joy.",
+      "line_after_raw": "La madre de Mateo probó el plato. —¡Me encanta! —dijo, y <b>lloró</b> de alegría."
+     }
+    ],
+    "pattern": "\\b([Ff]alta|encanta)\\b"
+   }
+  ],
+  "drop": [
+   "Regular preterite: cortó, cocinó, probó",
+   "Falta, lo siento, decirlo"
+  ],
+  "drop_why": {
+   "Regular preterite: cortó, cocinó, probó": "regular preterite is a2-01; a2-03 keeps the irregular/stem card.",
+   "Falta, lo siento, decirlo": "replaced by the gustar-type card, which keeps the falta material."
+  },
+  "protected_lines": [
+   3,
+   5,
+   6,
+   9,
+   14,
+   24
+  ],
+  "edit_count": 2,
+  "note": "The kept irregular-preterite card now carries the essentials gap \"irregular stems\": puso (u), hice (i), dijo (j), tuve (u, after edit). Add the stem rule to the explanation."
+ },
+ "a2-04": {
+  "title": "El penalti",
+  "level": "A2",
+  "keep": [
+   "Imperfect for description and habit",
+   "Background plus interruption"
+  ],
+  "topics": [
+   {
+    "topic": "Imperfect for description and habit",
+    "family": "Past tenses",
+    "group": "imperfect",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 0: Cuando Tomás era pequeño, vivía en un barrio",
+     "line 0: Cuando Tomás era pequeño, vivía en un barrio de Medellín.",
+     "line 1: Todos los días jugaba al fútbol en la calle con su",
+     "line 2: Tomás era bajo, pero tenía las manos muy",
+     "line 2: Tomás era bajo, pero tenía las manos muy rápidas. Por eso,",
+     "line 2: muy rápidas. Por eso, siempre era el portero.",
+     "line 3: Natalia era alta y fuerte. Siempre tiraba",
+     "line 3: Natalia era alta y fuerte. Siempre tiraba el balón a la izquierda.",
+     "line 13: sé adónde va a tirar: cuando éramos pequeños, ella siempre tiraba [after edit]",
+     "line 13: éramos pequeños, ella siempre tiraba a la izquierda», pensó."
+    ],
+    "count": 10,
+    "count_without_edits": 10,
+    "edits": [],
+    "pattern": "\\b(era|vivía|jugaba|tenía|tiraba|éramos)\\b"
+   },
+   {
+    "topic": "Background plus interruption",
+    "family": "Past tenses",
+    "group": "pret vs impf",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 6: Hacía mucho sol y el estadio estaba lleno de gente.",
+     "line 10: Faltaban dos minutos cuando el árbitro pitó un penalti.",
+     "line 12: Tomás estaba muy nervioso, pero recordó algo."
+    ],
+    "count": 3,
+    "count_without_edits": 3,
+    "edits": [],
+    "pattern": "(Faltaban dos minutos cuando el árbitro pitó|Hacía mucho sol y el estadio estaba lleno|estaba muy nervioso, pero recordó)"
+   },
+   {
+    "topic": "Saber vs conocer",
+    "family": "Present tense & basics",
+    "group": "saber/conocer",
+    "status": "introduces",
+    "role": "introduces",
+    "new": true,
+    "evidence": [
+     "line 5: campeonato del barrio. Todos conocían a los dos hermanos. [after edit]",
+     "line 13: «Yo sé adónde va a tirar: cuando éramos [after edit]",
+     "line 19: —¿Cómo lo supiste? —preguntó.",
+     "line 20: mi hermana —contestó Tomás—. Conozco todos tus secretos."
+    ],
+    "count": 4,
+    "count_without_edits": 2,
+    "edits": [
+     {
+      "line": 5,
+      "old": "del campeonato del barrio.",
+      "suggest_es": "del campeonato del barrio. Todos conocían a los dos hermanos.",
+      "suggest_en": "Last Saturday, their teams played the final of the neighborhood championship. Everybody knew the two siblings.",
+      "line_after_raw": "El sábado pasado, sus equipos jugaron la <b>final</b> del campeonato del barrio. Todos conocían a los dos hermanos."
+     },
+     {
+      "line": 13,
+      "old": "«Cuando éramos pequeños",
+      "suggest_es": "«Yo sé adónde va a tirar: cuando éramos pequeños",
+      "suggest_en": "\"I know where she's going to kick: when we were little, she always kicked to the left,\" he thought."
+     }
+    ],
+    "pattern": "\\b(sé|supiste|Conozco|conocían)\\b"
+   }
+  ],
+  "drop": [
+   "Preterite for events, even irregular",
+   "Estar + gerund (ongoing action)"
+  ],
+  "drop_why": {
+   "Preterite for events, even irregular": "preterite forms capped at 2 (a2-01, a2-03); slot freed for saber vs conocer (supiste/conozco already in the text).",
+   "Estar + gerund (ongoing action)": "only 2 tokens here; topic kept in a2-05 (3 after edit)."
+  },
+  "protected_lines": [
+   0,
+   1,
+   3,
+   6,
+   10,
+   12
+  ],
+  "edit_count": 2,
+  "note": "saber vs conocer: sé (fact), supiste (found out), conozco/conocían (people). The old \"Preterite for events\" examples (puso, supiste, quise) stay in the text."
+ },
+ "a2-05": {
+  "title": "Número equivocado",
+  "level": "A2",
+  "keep": [
+   "Imperfect for scene-setting",
+   "Estar + gerund"
+  ],
+  "topics": [
+   {
+    "topic": "Imperfect for scene-setting",
+    "family": "Past tenses",
+    "group": "imperfect",
+    "status": "keep",
+    "role": "recycles",
+    "new": false,
+    "evidence": [
+     "line 0: Era una tarde fría de invierno en",
+     "line 2: Llovía mucho y el viento golpeaba las",
+     "line 2: Llovía mucho y el viento golpeaba las ventanas.",
+     "line 3: De repente, su teléfono sonó. Era un mensaje de un número desconocido.",
+     "line 13: Ella vivía en el número 7, y en la calle",
+     "line 13: en el número 7, y en la calle había un chico con una mochila roja.",
+     "line 14: ¡Era su nuevo vecino!",
+     "line 18: chico rio. Se llamaba Lisandro y tenía trece años.",
+     "line 23: trabajando y mi teléfono nuevo no tenía batería."
+    ],
+    "count": 9,
+    "count_without_edits": 9,
+    "edits": [],
+    "pattern": "\\b(Era|Llovía|golpeaba|vivía|había|tenía)\\b"
+   },
+   {
+    "topic": "Estar + gerund",
+    "family": "Verb phrases & near future",
+    "group": "estar + gerund",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 1: Valentina estaba en su sala, tomando té y mirando una serie.",
+     "line 9: mal. ¿Me podría ayudar? Ahora estoy esperando solo en la calle y mi teléfono [after edit]",
+     "line 23: —¡Hijo, perdón! Estaba trabajando y mi teléfono nuevo no tenía"
+    ],
+    "count": 3,
+    "count_without_edits": 2,
+    "edits": [],
+    "pattern": "(estaba en su sala, tomando|estoy esperando|Estaba trabajando)"
+   },
+   {
+    "topic": "Courtesy conditional: podría, te gustaría",
+    "family": "Conditionals & si-clauses",
+    "group": "courtesy conditional",
+    "status": "introduces",
+    "role": "introduces",
+    "new": true,
+    "evidence": [
+     "line 9: y creo que lo anoté mal. ¿Me podría ayudar? Ahora estoy esperando [after edit]",
+     "line 25: sonrió. —Muchas gracias. ¿Te gustaría cenar con nosotros? Podríamos [after edit]",
+     "line 25: gustaría cenar con nosotros? Podríamos pedir unas empanadas. [after edit]"
+    ],
+    "count": 3,
+    "count_without_edits": 0,
+    "edits": [
+     {
+      "line": 9,
+      "old": "Ahora estoy solo en la calle",
+      "suggest_es": "¿Me podría ayudar? Ahora estoy esperando solo en la calle",
+      "suggest_en": "\"Sorry! My mom changed her number yesterday and I think I wrote it down wrong. Could you help me? I'm waiting alone in the street and my phone is almost out of battery.\"",
+      "line_after_raw": "«¡Perdón! Mi mamá <b>cambió</b> de número ayer y creo que lo anoté mal. ¿Me podría ayudar? Ahora estoy esperando solo en la calle y mi teléfono casi no tiene <b>batería</b>»."
+     },
+     {
+      "line": 25,
+      "old": "¿Quieres cenar con nosotros?",
+      "suggest_es": "¿Te gustaría cenar con nosotros? Podríamos pedir unas empanadas.",
+      "suggest_en": "His mother looked at Valentina and smiled. \"Thank you so much. Would you like to have dinner with us? We could order some empanadas.\""
+     }
+    ],
+    "pattern": "\\b(podría|gustaría|Podríamos)\\b"
+   }
+  ],
+  "drop": [
+   "Preterite for sudden events",
+   "Reflexive verbs"
+  ],
+  "drop_why": {
+   "Preterite for sudden events": "pret/impf contrast capped at 2 (a2-04, a2-07).",
+   "Reflexive verbs": "reflexives capped (kept in a2-09 only at A2)."
+  },
+  "protected_lines": [
+   0,
+   1,
+   2,
+   13,
+   22,
+   23
+  ],
+  "edit_count": 2,
+  "note": ""
+ },
+ "a2-06": {
+  "title": "La lámpara de la abuela",
+  "level": "A2",
+  "keep": [
+   "Tú commands with pronouns"
+  ],
+  "topics": [
+   {
+    "topic": "Tú commands with pronouns",
+    "family": "Commands & formality",
+    "group": "commands",
+    "status": "keep",
+    "role": "recycles",
+    "new": false,
+    "evidence": [
+     "line 3: vida está en esta camioneta. Ayúdame con las cajas.",
+     "line 9: vecino. Si necesitas ayuda, dímelo.",
+     "line 19: de sobra —dijo—. Es para ti. Pruébala."
+    ],
+    "count": 3,
+    "count_without_edits": 3,
+    "edits": [],
+    "pattern": "\\b(Ayúdame|dímelo|Pruébala)\\b"
+   },
+   {
+    "topic": "Por vs para: por la tarde, para ti",
+    "family": "Por & para",
+    "group": "por/para",
+    "status": "introduces",
+    "role": "introduces",
+    "new": true,
+    "evidence": [
+     "line 0: nuevo en Santiago el sábado por la mañana.",
+     "line 6: Álvaro—. Vamos a subir todo por la escalera.",
+     "line 11: Por la tarde, ella se sentó en el",
+     "line 13: su abuela. La carta decía: «Para tu primera casa. Esta lámpara",
+     "line 15: —Mamá la guardó para ti —le explicó él—. Quería darte",
+     "line 18: Mientras tanto, don Rafael pasó por la puerta abierta.",
+     "line 19: bombilla de sobra —dijo—. Es para ti. Pruébala."
+    ],
+    "count": 7,
+    "count_without_edits": 7,
+    "edits": [],
+    "pattern": "\\b([Pp]or|[Pp]ara)\\b"
+   },
+   {
+    "topic": "Simple future: dará, seré",
+    "family": "Verb phrases & near future",
+    "group": "future",
+    "status": "introduces",
+    "role": "introduces",
+    "new": true,
+    "evidence": [
+     "line 13: primera casa. Esta lámpara te dará luz y alegría, y yo siempre [after edit]",
+     "line 13: luz y alegría, y yo siempre estaré contigo». [after edit]",
+     "line 23: —Ya tengo un hogar. Aquí seré feliz —pensó. [after edit]"
+    ],
+    "count": 3,
+    "count_without_edits": 0,
+    "edits": [
+     {
+      "line": 13,
+      "old": "Esta lámpara va a darte luz y alegría",
+      "suggest_es": "Esta lámpara te dará luz y alegría, y yo siempre estaré contigo",
+      "suggest_en": "Camila recognized her grandmother's handwriting. The letter said: \"For your first home. This lamp will give you light and joy, and I will always be with you.\""
+     },
+     {
+      "line": 23,
+      "old": " —pensó.",
+      "suggest_es": ". Aquí seré feliz —pensó.",
+      "suggest_en": "\"Now I have a home. I'll be happy here,\" she thought.",
+      "line_after_raw": "—Ya tengo un <b>hogar</b>. Aquí seré feliz —pensó."
+     }
+    ],
+    "pattern": "\\b(dará|estaré|seré)\\b"
+   }
+  ],
+  "drop": [
+   "Object pronouns: le, la, gustar",
+   "Reflexives and ponerse a",
+   "Ir a + infinitive"
+  ],
+  "drop_why": {
+   "Object pronouns: le, la, gustar": "object pronouns capped at 2 (a2-02, a2-07).",
+   "Reflexives and ponerse a": "reflexives capped.",
+   "Ir a + infinitive": "ir a capped at 3 across A1+A2 (a1-05, a1-09, a2-01); the card keeps ir a as the contrast for the future."
+  },
+  "protected_lines": [
+   3,
+   9,
+   19
+  ],
+  "edit_count": 2,
+  "note": "Future card contrasts ir a (Vamos a subir, Voy a comprar: plans) with simple future (te dará, estaré, seré: promise/prediction)."
+ },
+ "a2-07": {
+  "title": "El músico de San Telmo",
+  "level": "A2",
+  "keep": [
+   "Imperfect habit vs preterite event",
+   "Indirect and double pronouns",
+   "Comparatives: más ... que"
+  ],
+  "topics": [
+   {
+    "topic": "Imperfect habit vs preterite event",
+    "family": "Past tenses",
+    "group": "pret vs impf",
+    "status": "keep",
+    "role": "recycles",
+    "new": false,
+    "evidence": [
+     "line 0: Todas las tardes, Rodrigo tocaba la guitarra en una plaza de",
+     "line 2: Ponía su sombrero en el suelo, y la",
+     "line 2: sombrero en el suelo, y la gente dejaba algunas monedas.",
+     "line 3: Una niña de unos siete años llegaba siempre a las cinco. Se sentaba",
+     "line 3: llegaba siempre a las cinco. Se sentaba cerca de él y escuchaba con",
+     "line 3: cinco. Se sentaba cerca de él y escuchaba con mucha atención.",
+     "line 4: Se llamaba Julieta. Nunca hablaba, pero siempre bailaba un poquito.",
+     "line 4: Nunca hablaba, pero siempre bailaba un poquito.",
+     "line 5: Un jueves, Rodrigo empezó una canción y de repente se",
+     "line 5: empezó una canción y de repente se rompió una cuerda.",
+     "line 9: diez minutos después, la niña volvió con un señor de pelo blanco."
+    ],
+    "count": 11,
+    "count_without_edits": 11,
+    "edits": [],
+    "pattern": "\\b(tocaba|Ponía|dejaba|llegaba|Se sentaba|escuchaba|hablaba|bailaba|empezó|se rompió|volvió)\\b"
+   },
+   {
+    "topic": "Indirect and double pronouns",
+    "family": "Pronouns & personal a",
+    "group": "object pronouns",
+    "status": "keep",
+    "role": "recycles",
+    "new": false,
+    "evidence": [
+     "line 11: —Ella me contó que tocas muy bien. ¿Me enseñas",
+     "line 12: Rodrigo se la mostró. Ernesto la miró con cuidado",
+     "line 15: Ernesto le cambió la cuerda en cinco minutos.",
+     "line 16: aceptarlo —contestó Rodrigo—. Quiero pagártelo.",
+     "line 22: Rodrigo se rio. Ernesto le ofreció trabajo: dar clases de guitarra"
+    ],
+    "count": 5,
+    "count_without_edits": 5,
+    "edits": [],
+    "pattern": "(me contó|se la mostró|le cambió|pagártelo|le ofreció)"
+   },
+   {
+    "topic": "Comparatives: más ... que",
+    "family": "Comparing things",
+    "group": "comparatives",
+    "status": "keep",
+    "role": "recycles",
+    "new": false,
+    "evidence": [
+     "line 13: —Es muy bonita, pero es más vieja que yo —dijo—. Ven conmigo a la",
+     "line 18: sábado llegó con su guitarra y su mejor camisa.",
+     "line 21: música —dijo con voz suave—. Es más bonita que la radio.",
+     "line 23: las tardes, y Julieta es su mejor alumna."
+    ],
+    "count": 4,
+    "count_without_edits": 4,
+    "edits": [],
+    "pattern": "(más \\w+ que|mejor (alumna|camisa))"
+   }
+  ],
+  "drop": [
+   "Tú commands: ven, toma, toca"
+  ],
+  "drop_why": {
+   "Tú commands: ven, toma, toca": "tú commands capped at 2 (a2-02, a2-06); also removes the tú/vos clash with the voseo role-play."
+  },
+  "protected_lines": [
+   0,
+   5,
+   9,
+   11,
+   12,
+   13,
+   15,
+   16,
+   21,
+   23
+  ],
+  "edit_count": 0,
+  "note": ""
+ },
+ "a2-08": {
+  "title": "La niebla en el valle",
+  "level": "A2",
+  "keep": [],
+  "topics": [
+   {
+    "topic": "Negative words: nadie, nada",
+    "family": "Questions & negation",
+    "group": "negation",
+    "status": "introduces",
+    "role": "introduces",
+    "new": true,
+    "evidence": [
+     "line 11: levantaron la cabeza, no vieron a nadie.",
+     "line 13: Nadie respondió. Solo se oía el viento.",
+     "line 14: Andrés se puso nervioso. —No veo nada. ¿Qué tenemos que hacer? Estamos [after edit]"
+    ],
+    "count": 3,
+    "count_without_edits": 2,
+    "edits": [
+     {
+      "line": 14,
+      "old": "¿Qué hacemos?",
+      "suggest_es": "No veo nada. ¿Qué tenemos que hacer?",
+      "suggest_en": "Andrés got nervous. \"I can't see anything. What do we have to do? We're lost.\"",
+      "line_after_raw": "Andrés se puso nervioso. —No veo nada. ¿Qué tenemos que hacer? Estamos <b>perdidos</b>."
+     }
+    ],
+    "pattern": "\\b([Nn]adie|nada)\\b"
+   },
+   {
+    "topic": "Obligation: hay que, tener que, deber",
+    "family": "Verb phrases & near future",
+    "group": "obligation",
+    "status": "recycles",
+    "role": "recycles",
+    "new": true,
+    "evidence": [
+     "line 6: —Si hay niebla, hay que caminar despacio. Debes seguir [after edit]",
+     "line 6: niebla, hay que caminar despacio. Debes seguir el río —le explicó a [after edit]",
+     "line 14: nervioso. —No veo nada. ¿Qué tenemos que hacer? Estamos perdidos. [after edit]"
+    ],
+    "count": 3,
+    "count_without_edits": 0,
+    "edits": [
+     {
+      "line": 6,
+      "old": "Si hay niebla, camina despacio y sigue el",
+      "suggest_es": "Si hay niebla, hay que caminar despacio. Debes seguir el",
+      "suggest_en": "\"If there is fog, you have to walk slowly. You must follow the river,\" he explained to Andrés. \"The important thing is not to run.\"",
+      "line_after_raw": "—Si hay niebla, hay que caminar despacio. Debes seguir el <b>río</b> —le explicó a Andrés—. Lo importante es no correr."
+     }
+    ],
+    "pattern": "\\b(hay que|Debes|tenemos que)\\b"
+   },
+   {
+    "topic": "Ustedes for \"you all\"",
+    "family": "Commands & formality",
+    "group": "formality",
+    "status": "introduces",
+    "role": "introduces",
+    "new": true,
+    "evidence": [
+     "line 19: —¡Hola! Ustedes son los turistas —dijo ella—. Jairo",
+     "line 19: turistas —dijo ella—. Jairo los está buscando. Ya lo llamé por teléfono.",
+     "line 22: cara roja. —¡Gracias a Dios! Los busqué durante una hora."
+    ],
+    "count": 3,
+    "count_without_edits": 3,
+    "edits": [],
+    "pattern": "(Ustedes son|los está buscando|Los busqué)"
+   }
+  ],
+  "drop": [
+   "Preterite vs imperfect",
+   "Tú commands",
+   "Reflexives and impersonal se",
+   "Comparatives and superlatives"
+  ],
+  "drop_why": {
+   "Preterite vs imperfect": "pret/impf contrast capped at 2.",
+   "Tú commands": "tú commands capped at 2.",
+   "Reflexives and impersonal se": "reflexives capped; impersonal se is introduced in b1-04.",
+   "Comparatives and superlatives": "comparatives capped at 3 across A1+A2 (a1-08, a2-07, a2-10)."
+  },
+  "protected_lines": [],
+  "edit_count": 2,
+  "note": "Was the story with no new grammar. Now: negative words, obligation (hay que/deber/tener que), and ustedes as plural \"you\" (no vosotros in Colombia)."
+ },
+ "a2-09": {
+  "title": "Un café, una camisa y una entrevista",
+  "level": "A2",
+  "keep": [
+   "Present perfect: he/has/ha + participle",
+   "Reflexives: se despertó, se vistió",
+   "Usted vs tú"
+  ],
+  "topics": [
+   {
+    "topic": "Present perfect: he/has/ha + participle",
+    "family": "Perfect tenses",
+    "group": "perfect",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 15: después ayudé a una señora. Nunca he llegado tarde a una entrevista.",
+     "line 21: —¿Ha trabajado antes con clientes? —preguntó",
+     "line 22: —Sí, he trabajado con tres tiendas pequeñas —respondió"
+    ],
+    "count": 3,
+    "count_without_edits": 3,
+    "edits": [],
+    "pattern": "\\b(he llegado|Ha trabajado|he trabajado)\\b"
+   },
+   {
+    "topic": "Reflexives: se despertó, se vistió",
+    "family": "Reflexives & se",
+    "group": "reflexive",
+    "status": "keep",
+    "role": "recycles",
+    "new": false,
+    "evidence": [
+     "line 0: Daniela se despertó a las ocho y media, porque su",
+     "line 2: Se vistió rápidamente, tomó su currículum",
+     "line 8: de limpiarla, pero la mancha se hizo más grande. Respiró hondo y",
+     "line 16: señora mayor entró en la sala y se sentó junto a la jefa.",
+     "line 20: su pasión por el diseño, y no se puso nerviosa."
+    ],
+    "count": 5,
+    "count_without_edits": 5,
+    "edits": [],
+    "pattern": "\\b(se despertó|Se vistió|se hizo|se sentó|se puso)\\b"
+   },
+   {
+    "topic": "Usted vs tú",
+    "family": "Commands & formality",
+    "group": "formality",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 5: —Perdona, no te vi —dijo el señor, y siguió corriendo.",
+     "line 10: —Hija, ¿sabes dónde está la oficina de diseño? —preguntó—.",
+     "line 14: —Llega tarde —dijo—, y tiene la camisa manchada.",
+     "line 14: —Llega tarde —dijo—, y tiene la camisa manchada. ¿Qué pasó?",
+     "line 19: desconocida —explicó doña Paula—. Tú me ayudaste sin saber quién era.",
+     "line 21: —¿Ha trabajado antes con clientes? —preguntó",
+     "line 24: la señora Ortega—. El puesto es suyo."
+    ],
+    "count": 7,
+    "count_without_edits": 7,
+    "edits": [],
+    "pattern": "(Perdona, no te vi|¿sabes dónde|Llega tarde|tiene la camisa|¿Ha trabajado|es suyo|Tú me ayudaste)"
+   }
+  ],
+  "drop": [
+   "Preterite and imperfect together"
+  ],
+  "drop_why": {
+   "Preterite and imperfect together": "pret/impf contrast capped at 2."
+  },
+  "protected_lines": [
+   0,
+   2,
+   5,
+   10,
+   14,
+   15,
+   16,
+   21,
+   22,
+   24
+  ],
+  "edit_count": 0,
+  "note": ""
+ },
+ "a2-10": {
+  "title": "La noche de los faroles",
+  "level": "A2",
+  "keep": [
+   "Comparatives and superlatives",
+   "Perfect tenses: he visto, había aprendido"
+  ],
+  "topics": [
+   {
+    "topic": "Comparatives and superlatives",
+    "family": "Comparing things",
+    "group": "comparatives",
+    "status": "keep",
+    "role": "recycles",
+    "new": false,
+    "evidence": [
+     "line 2: Noche de los Faroles, la fiesta más importante del pueblo.",
+     "line 8: —Es el farol más grande de la historia del pueblo —dijo Hernán,",
+     "line 18: el toro estaba terminado. Era más bonito que antes, porque tenía el trabajo",
+     "line 22: Dolores —le dijo—. Hiciste una familia más grande.",
+     "line 23: noche anterior, aquella fue la mejor noche de su vida. [after edit]"
+    ],
+    "count": 5,
+    "count_without_edits": 5,
+    "edits": [],
+    "pattern": "(más importante del|más grande de la|más bonito que|familia más grande|la mejor noche)"
+   },
+   {
+    "topic": "Perfect tenses: he visto, había aprendido",
+    "family": "Perfect tenses",
+    "group": "perfect",
+    "status": "keep",
+    "role": "recycles",
+    "new": false,
+    "evidence": [
+     "line 10: entró y se quedó helada. El agua había mojado el papel y una pata del toro",
+     "line 17: —Nunca he visto trabajar tan rápido a este pueblo",
+     "line 25: Había aprendido que un pueblo unido puede hacer"
+    ],
+    "count": 3,
+    "count_without_edits": 3,
+    "edits": [],
+    "pattern": "\\b(había mojado|he visto|Había aprendido)\\b"
+   },
+   {
+    "topic": "Demonstratives: este, ese, aquel",
+    "family": "Present tense & basics",
+    "group": "demonstratives",
+    "status": "recycles",
+    "role": "recycles",
+    "new": true,
+    "evidence": [
+     "line 1: Ese año tenía una misión especial.",
+     "line 17: visto trabajar tan rápido a este pueblo —bromeó el alcalde.",
+     "line 23: Aunque llovió la noche anterior, aquella fue la mejor noche de su vida. [after edit]",
+     "line 24: Y esta vez no lloró de tristeza."
+    ],
+    "count": 4,
+    "count_without_edits": 3,
+    "edits": [
+     {
+      "line": 23,
+      "old": "esa fue la mejor noche",
+      "suggest_es": "aquella fue la mejor noche",
+      "suggest_en": "She smiled with tears in her eyes. Although it rained the night before, that was the best night of her life."
+     }
+    ],
+    "pattern": "\\b(Ese|este|aquella|esta)\\b"
+   }
+  ],
+  "drop": [
+   "Preterite vs imperfect",
+   "Object pronouns: se lo, le, la"
+  ],
+  "drop_why": {
+   "Preterite vs imperfect": "pret/impf contrast capped at 2.",
+   "Object pronouns: se lo, le, la": "object pronouns capped at 2."
+  },
+  "protected_lines": [
+   8,
+   10,
+   17,
+   18,
+   22,
+   25
+  ],
+  "edit_count": 1,
+  "note": "este pueblo / esta vez (here-now), ese año (that), aquella noche (distant past, after edit)."
+ },
+ "b1-01": {
+  "title": "La cartera verde",
+  "level": "B1",
+  "keep": [
+   "Preterite vs. imperfect",
+   "Present perfect vs. preterite",
+   "Pluperfect for earlier events",
+   "Future in the past"
+  ],
+  "topics": [
+   {
+    "topic": "Preterite vs. imperfect",
+    "family": "Past tenses",
+    "group": "pret vs impf",
+    "status": "keep",
+    "role": "recycles",
+    "new": false,
+    "evidence": [
+     "line 0: Era una mañana fría",
+     "line 0: paseaba por el parque del Retiro",
+     "line 1: De repente vio algo verde",
+     "line 2: Se sentó y la abrió",
+     "line 5: llegó a un edificio estrecho",
+     "line 5: un joven pálido hablaba con la dueña"
+    ],
+    "count": 6,
+    "count_without_edits": 6,
+    "edits": []
+   },
+   {
+    "topic": "Present perfect vs. preterite",
+    "family": "Perfect tenses",
+    "group": "present perfect",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 7: Creo que he encontrado algo suyo",
+     "line 10: He tenido suerte de verla",
+     "line 10: He venido en persona",
+     "line 9: ¿Dónde la encontró?"
+    ],
+    "count": 4,
+    "count_without_edits": 4,
+    "edits": []
+   },
+   {
+    "topic": "Pluperfect for earlier events",
+    "family": "Perfect tenses",
+    "group": "pluperfect",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 11: su abuela había nacido en Madrid",
+     "line 11: se había marchado a Chile",
+     "line 11: Él había viajado hasta allí",
+     "line 14: donde había vivido su abuela"
+    ],
+    "count": 4,
+    "count_without_edits": 4,
+    "edits": []
+   },
+   {
+    "topic": "Future in the past",
+    "family": "Conditionals & si-clauses",
+    "group": "future in the past",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 3: ahora estaría muy preocupado",
+     "line 15: le mandaría una postal",
+     "line 15: lo haría"
+    ],
+    "count": 3,
+    "count_without_edits": 3,
+    "edits": []
+   }
+  ],
+  "drop": [],
+  "drop_why": {},
+  "protected_lines": [
+   0,
+   1,
+   2,
+   3,
+   5,
+   7,
+   9,
+   10,
+   11,
+   14,
+   15
+  ],
+  "edit_count": 0,
+  "note": ""
+ },
+ "b1-02": {
+  "title": "El chivito de la tormenta",
+  "level": "B1",
+  "keep": [
+   "Future tense",
+   "Si-clauses with present",
+   "Object pronoun order: se lo, te la"
+  ],
+  "topics": [
+   {
+    "topic": "Future tense",
+    "family": "Verb phrases & near future",
+    "group": "future",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 2: me levantaré a las cinco",
+     "line 2: iré a la feria",
+     "line 2: compraré el mejor lomo",
+     "line 2: Los jueces probarán",
+     "line 2: no podrán hablar",
+     "line 2: pagaremos el alquiler",
+     "line 4: Los organizadores pondrán",
+     "line 5: tendrás más experiencia",
+     "line 13: Que ganarás otra vez"
+    ],
+    "count": 9,
+    "count_without_edits": 9,
+    "edits": []
+   },
+   {
+    "topic": "Si-clauses with present",
+    "family": "Conditionals & si-clauses",
+    "group": "si-clauses (real)",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 2: Si ganamos, pagaremos",
+     "line 3: si el pan está frío, el chivito está triste",
+     "line 9: Si te portás bien, te presto la mitad",
+     "line 12: si venís todos los jueves",
+     "line 13: Si llevás el carbón"
+    ],
+    "count": 5,
+    "count_without_edits": 5,
+    "edits": []
+   },
+   {
+    "topic": "Object pronoun order: se lo, te la",
+    "family": "Pronouns & personal a",
+    "group": "object pronouns",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 1: se lo llevó a su abuela",
+     "line 11: Se lo digo",
+     "line 12: te la cuento"
+    ],
+    "count": 3,
+    "count_without_edits": 3,
+    "edits": []
+   }
+  ],
+  "drop": [],
+  "drop_why": {},
+  "protected_lines": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   9,
+   11,
+   12
+  ],
+  "edit_count": 0,
+  "note": ""
+ },
+ "b1-03": {
+  "title": "El horno de doña Remedios",
+  "level": "B1",
+  "keep": [
+   "Conditional tense",
+   "Present perfect vs. preterite",
+   "Relative clauses: que, en que"
+  ],
+  "topics": [
+   {
+    "topic": "Conditional tense",
+    "family": "Conditionals & si-clauses",
+    "group": "conditional",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 4: pensaría en comprar un horno eléctrico",
+     "line 5: Un horno eléctrico no haría el mismo pan",
+     "line 8: podríamos entregar todos los pedidos"
+    ],
+    "count": 3,
+    "count_without_edits": 3,
+    "edits": []
+   },
+   {
+    "topic": "Present perfect vs. preterite",
+    "family": "Perfect tenses",
+    "group": "present perfect",
+    "status": "keep",
+    "role": "recycles",
+    "new": false,
+    "evidence": [
+     "line 4: La pared de atrás se ha agrietado",
+     "line 5: ya me han quitado la mitad de los clientes",
+     "line 12: Lo hemos hablado entre todos",
+     "line 12: Usted nos ha dado pan durante cuarenta años"
+    ],
+    "count": 4,
+    "count_without_edits": 4,
+    "edits": []
+   },
+   {
+    "topic": "Relative clauses: que, en que",
+    "family": "Relative clauses & connectors",
+    "group": "relatives",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 1: la época del año en que La Espiga vendía",
+     "line 2: Su nieto Iván, que la ayudaba",
+     "line 6: su difunto marido, que había construido ese horno",
+     "line 7: la señora Graciela, que tenía un horno grande",
+     "line 7: las hermanas Santiago, que hacían empanadas",
+     "line 9: Don Chema, que nunca había hecho pan",
+     "line 11: personas que esperaban con sonrisas",
+     "line 13: el barrio que la rodeaba"
+    ],
+    "count": 8,
+    "count_without_edits": 8,
+    "edits": []
+   },
+   {
+    "topic": "Ser and estar: listo, rico",
+    "family": "Ser vs. estar",
+    "group": "ser/estar",
+    "status": "introduces",
+    "role": "introduces",
+    "new": true,
+    "evidence": [
+     "line 7: Mientras tanto, Iván, que siempre había sido muy listo, tenía una idea. A la mañana [after edit]",
+     "line 10: la masa: en todas las cocinas estaba rica. Aunque estaba cansada, se sentía [after edit]",
+     "line 11: de Muertos, todos los pedidos estaban listos. Cuando Remedios abrió la puerta"
+    ],
+    "count": 3,
+    "count_without_edits": 1,
+    "edits": [
+     {
+      "line": 7,
+      "old": "Mientras tanto, Iván tenía una idea.",
+      "suggest_es": "Mientras tanto, Iván, que siempre había sido muy listo, tenía una idea.",
+      "suggest_en": "Meanwhile Iván, who had always been very clever, had an idea. The next morning he went out into the street with a notebook and began knocking on doors. He spoke with Señora Graciela, who had a big oven in her patio, with Don Chema, the butcher, and with the Santiago sisters, who made empanadas for the neighborhood parties."
+     },
+     {
+      "line": 10,
+      "old": "probando la masa.",
+      "suggest_es": "probando la masa: en todas las cocinas estaba rica.",
+      "suggest_en": "For three days, the whole neighborhood turned into a bakery. Remedios went from house to house tasting the dough: in every kitchen it was delicious. Although she was tired, she felt more supported than ever.",
+      "line_after_raw": "Durante tres días, el barrio entero se convirtió en una panadería. Remedios iba de casa en casa probando la masa: en todas las cocinas estaba rica. Aunque estaba cansada, <b>se sentía</b> más acompañada que nunca."
+     }
+    ],
+    "pattern": "(había sido muy listo|estaba rica|estaban listos)"
+   }
+  ],
+  "drop": [],
+  "drop_why": {},
+  "protected_lines": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   8,
+   9,
+   12
+  ],
+  "edit_count": 2,
+  "note": ""
+ },
+ "b1-04": {
+  "title": "El paciente de la habitación 12",
+  "level": "B1",
+  "keep": [
+   "Impersonal se: se puede, se cura",
+   "Verb phrases: llevar + gerund, seguir, volver a",
+   "Pluperfect for background"
+  ],
+  "topics": [
+   {
+    "topic": "Impersonal se: se puede, se cura",
+    "family": "Reflexives & se",
+    "group": "impersonal/passive se",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 6: se puede tocar el cielo",
+     "line 13: se cura más rápido",
+     "line 13: se siente vivo"
+    ],
+    "count": 3,
+    "count_without_edits": 3,
+    "edits": []
+   },
+   {
+    "topic": "Verb phrases: llevar + gerund, seguir, volver a",
+    "family": "Verb phrases & near future",
+    "group": "verb phrases",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 0: llevaba tres años trabajando",
+     "line 9: sigue llegando",
+     "line 15: volvió a llamar a su hermana"
+    ],
+    "count": 3,
+    "count_without_edits": 3,
+    "edits": []
+   },
+   {
+    "topic": "Pluperfect for background",
+    "family": "Perfect tenses",
+    "group": "pluperfect",
+    "status": "keep",
+    "role": "recycles",
+    "new": false,
+    "evidence": [
+     "line 1: se había caído en la calle",
+     "line 1: se había lastimado la cadera",
+     "line 1: Los médicos habían dicho",
+     "line 7: nunca había levantado la vista",
+     "line 8: astrónomos que habían vivido siglos atrás",
+     "line 10: se había convertido en un amigo",
+     "line 15: había abierto una ventana"
+    ],
+    "count": 7,
+    "count_without_edits": 7,
+    "edits": []
+   }
+  ],
+  "drop": [],
+  "drop_why": {},
+  "protected_lines": [
+   0,
+   1,
+   6,
+   7,
+   9,
+   10,
+   13,
+   15
+  ],
+  "edit_count": 0,
+  "note": ""
+ },
+ "b1-05": {
+  "title": "Dos ruedas junto al mar",
+  "level": "B1",
+  "keep": [
+   "Por vs. para",
+   "Conditional tense",
+   "Reported speech"
+  ],
+  "topics": [
+   {
+    "topic": "Por vs. para",
+    "family": "Por & para",
+    "group": "por/para",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 0: por la venta de la casa",
+     "line 0: Por eso",
+     "line 1: un lunes por la mañana",
+     "line 14: quemados por el sol",
+     "line 2: para volver a casa",
+     "line 6: traje uno para ti",
+     "line 8: para pasar la noche",
+     "line 14: para llevar las alforjas pesadas",
+     "line 15: para volver a alguien"
+    ],
+    "count": 9,
+    "count_without_edits": 9,
+    "edits": []
+   },
+   {
+    "topic": "Conditional tense",
+    "family": "Conditionals & si-clauses",
+    "group": "conditional",
+    "status": "keep",
+    "role": "recycles",
+    "new": false,
+    "evidence": [
+     "line 9: no le hablaría de nada importante",
+     "line 9: Solo le diría",
+     "line 16: deberíamos hacer otro viaje",
+     "line 17: adónde irían",
+     "line 17: ninguno de los dos dejaría"
+    ],
+    "count": 5,
+    "count_without_edits": 5,
+    "edits": []
+   },
+   {
+    "topic": "Reported speech",
+    "family": "Reported speech",
+    "group": "reported speech",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 6: Papá siempre decía que si uno quiere llegar lejos",
+     "line 8: les contó que había perdido a su propio hermano",
+     "line 15: Dijo que el mejor camino para volver a alguien es"
+    ],
+    "count": 3,
+    "count_without_edits": 3,
+    "edits": []
+   },
+   {
+    "topic": "Connectors: por eso, así que, a pesar de",
+    "family": "Relative clauses & connectors",
+    "group": "connectors",
+    "status": "introduces",
+    "role": "introduces",
+    "new": true,
+    "evidence": [
+     "line 0: querido dar el primer paso. Por eso, cuando su tía Yolanda les regaló",
+     "line 6: que prepararse para lo peor. Así que traje uno para ti.",
+     "line 10: parpadeaban en el horizonte. Entonces Nicolás respiró hondo y habló",
+     "line 14: vieron el cartel de Montañita, a pesar de estar agotados y quemados por [after edit]",
+     "line 16: —Entonces deberíamos hacer otro viaje"
+    ],
+    "count": 5,
+    "count_without_edits": 4,
+    "edits": [
+     {
+      "line": 14,
+      "old": "vieron el cartel de Montañita,",
+      "suggest_es": "vieron el cartel de Montañita, a pesar de estar",
+      "suggest_en": "The last four days of the trip were nothing like the first. They pedaled side by side, took turns carrying the heavy bags and laughed at the most ridiculous falls. When they finally saw the sign for Montañita, despite being exhausted and sunburned, neither wanted the trip to end.",
+      "line_after_raw": "Los últimos cuatro días del viaje no se parecieron en nada a los primeros. Pedaleaban uno al lado del otro, se turnaban para llevar las alforjas pesadas y se reían de las caídas más ridículas. Cuando por fin vieron el cartel de Montañita, a pesar de estar <b>agotados</b> y quemados por el sol, ninguno quería que el viaje terminara."
+     }
+    ],
+    "pattern": "\\b(Por eso|Así que|Entonces|a pesar de)\\b"
+   }
+  ],
+  "drop": [],
+  "drop_why": {},
+  "protected_lines": [
+   0,
+   1,
+   6,
+   8,
+   9,
+   15,
+   16,
+   17
+  ],
+  "edit_count": 1,
+  "note": "Por eso (line 0) is also por/para evidence; the connectors card should treat it as a fixed connector."
+ },
+ "b1-06": {
+  "title": "La foto del desván",
+  "level": "B1",
+  "keep": [
+   "Subjunctive after opinion and wish",
+   "Negative commands"
+  ],
+  "topics": [
+   {
+    "topic": "Subjunctive after opinion and wish",
+    "family": "Subjunctive",
+    "group": "subjunctive: wish/opinion",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 10: No creo que ella conteste pronto",
+     "line 10: espero que lo haga",
+     "line 11: Es importante que no se haga ilusiones",
+     "line 14: Rocío quiere que la llames"
+    ],
+    "count": 4,
+    "count_without_edits": 4,
+    "edits": []
+   },
+   {
+    "topic": "Negative commands",
+    "family": "Commands & formality",
+    "group": "commands",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 3: no te rías de mí",
+     "line 11: no le digas nada",
+     "line 15: no vendas la casa todavía"
+    ],
+    "count": 3,
+    "count_without_edits": 3,
+    "edits": []
+   },
+   {
+    "topic": "Acabar de and dejar de",
+    "family": "Verb phrases & near future",
+    "group": "verb phrases",
+    "status": "recycles",
+    "role": "recycles",
+    "new": true,
+    "evidence": [
+     "line 7: había olvidado, y por orgullo dejé de preguntar por él. Después conocí",
+     "line 12: mujer llamada Rocío: «Mi padre acaba de ver esta foto y no ha dejado [after edit]",
+     "line 12: acaba de ver esta foto y no ha dejado de llorar. Le escribió a Lupe durante [after edit]",
+     "line 14: su nieta con fuerza. —Cuando termines de leerlas —dijo Marisol—, Rocío"
+    ],
+    "count": 4,
+    "count_without_edits": 2,
+    "edits": [
+     {
+      "line": 12,
+      "old": "Mi padre lloró al ver esta foto.",
+      "suggest_es": "Mi padre acaba de ver esta foto y no ha dejado de llorar.",
+      "suggest_en": "The next day, Marisol's phone rang while she was putting away the plates. It was a message from a woman named Rocío: \"My father has just seen this photo and hasn't stopped crying. He wrote to Lupe for years, but his letters never got a reply. He always thought she wanted nothing to do with him.\""
+     }
+    ],
+    "pattern": "\\b(dejé de|acaba de|ha dejado de|termines de)\\b"
+   }
+  ],
+  "drop": [
+   "Reported speech"
+  ],
+  "drop_why": {
+   "Reported speech": "reported speech/commands headlined in b1-05 and b1-09; third B1 slot."
+  },
+  "protected_lines": [
+   3,
+   10,
+   11,
+   14,
+   15
+  ],
+  "edit_count": 1,
+  "note": ""
+ },
+ "b1-07": {
+  "title": "Los zapatos que hablaban",
+  "level": "B1",
+  "keep": [
+   "Commands",
+   "Present subjunctive after wishes",
+   "Subjunctive after para que, antes de que"
+  ],
+  "topics": [
+   {
+    "topic": "Commands",
+    "family": "Commands & formality",
+    "group": "commands",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 1: Respira hondo",
+     "line 1: no cuentes el chiste",
+     "line 4: Imaginen que van caminando",
+     "line 4: Observen, por favor",
+     "line 5: Gire a la derecha",
+     "line 7: ¡Ponte la bufanda",
+     "line 7: llama a tu abuela",
+     "line 9: ¡Ayúdame, por favor!",
+     "line 13: Piense en los niños",
+     "line 14: Vuelve ya"
+    ],
+    "count": 10,
+    "count_without_edits": 10,
+    "edits": []
+   },
+   {
+    "topic": "Present subjunctive after wishes",
+    "family": "Subjunctive",
+    "group": "subjunctive: wish/opinion",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 2: Quiero que todo salga perfecto",
+     "line 10: Si prefieren que nos vayamos",
+     "line 15: espero que por fin se tome el jugo"
+    ],
+    "count": 3,
+    "count_without_edits": 3,
+    "edits": []
+   },
+   {
+    "topic": "Subjunctive after para que, antes de que",
+    "family": "Subjunctive",
+    "group": "subjunctive: conjunctions",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 1: para que te entiendan",
+     "line 13: una manera de que la familia acompañe a la gente",
+     "line 14: antes de que cambien de opinión"
+    ],
+    "count": 3,
+    "count_without_edits": 3,
+    "edits": []
+   }
+  ],
+  "drop": [],
+  "drop_why": {},
+  "protected_lines": [
+   1,
+   2,
+   4,
+   5,
+   7,
+   10,
+   13,
+   14,
+   15
+  ],
+  "edit_count": 0,
+  "note": ""
+ },
+ "b1-08": {
+  "title": "La última tiza",
+  "level": "B1",
+  "keep": [
+   "Si + imperfect subjunctive + conditional",
+   "Subjunctive after cuando, aunque, ojalá",
+   "Relative clauses: donde, que, lo que"
+  ],
+  "topics": [
+   {
+    "topic": "Si + imperfect subjunctive + conditional",
+    "family": "Conditionals & si-clauses",
+    "group": "si + imperfect subjunctive",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 5: Si no fuera por usted, hoy no sería ingeniera",
+     "line 9: Si volviera a empezar, elegiría otra vez esta escuela",
+     "line 12: Si se quedara en casa, tendría tiempo para todos ellos"
+    ],
+    "count": 3,
+    "count_without_edits": 3,
+    "edits": []
+   },
+   {
+    "topic": "Subjunctive after cuando, aunque, ojalá",
+    "family": "Subjunctive",
+    "group": "subjunctive: conjunctions",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 10: aunque les dé vergüenza",
+     "line 10: cuando alguien los ayude",
+     "line 11: Ojalá pueda venir los sábados"
+    ],
+    "count": 3,
+    "count_without_edits": 3,
+    "edits": []
+   },
+   {
+    "topic": "Relative clauses: donde, que, lo que",
+    "family": "Relative clauses & connectors",
+    "group": "relatives",
+    "status": "keep",
+    "role": "recycles",
+    "new": false,
+    "evidence": [
+     "line 3: el pasillo, donde los murales",
+     "line 4: adultos que él reconocía",
+     "line 4: lo que más lo desconcertó",
+     "line 8: la primera que él había usado",
+     "line 11: a quienes no tienen quien los ayude",
+     "line 11: algo que él no esperaba"
+    ],
+    "count": 6,
+    "count_without_edits": 6,
+    "edits": []
+   }
+  ],
+  "drop": [],
+  "drop_why": {},
+  "protected_lines": [
+   3,
+   4,
+   5,
+   7,
+   9,
+   10,
+   11,
+   12
+  ],
+  "edit_count": 0,
+  "note": ""
+ },
+ "b1-09": {
+  "title": "Una noche sin luz",
+  "level": "B1",
+  "keep": [
+   "Reported commands",
+   "Verbs of change: ponerse, quedarse, convertirse"
+  ],
+  "topics": [
+   {
+    "topic": "Reported commands",
+    "family": "Reported speech",
+    "group": "reported speech",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 2: gritaba que no usaran el ascensor",
+     "line 2: que bajaran con cuidado",
+     "line 5: le dijo que no tuviera miedo"
+    ],
+    "count": 3,
+    "count_without_edits": 3,
+    "edits": []
+   },
+   {
+    "topic": "Verbs of change: ponerse, quedarse, convertirse",
+    "family": "Reflexives & se",
+    "group": "verbs of change",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 0: el cielo se puso negro",
+     "line 8: el edificio entero se convirtió en una cocina improvisada",
+     "line 10: Gonzalo se quedó dormido"
+    ],
+    "count": 3,
+    "count_without_edits": 3,
+    "edits": []
+   },
+   {
+    "topic": "Accidental se: se le olvidó, se le acabó",
+    "family": "Reflexives & se",
+    "group": "accidental se",
+    "status": "introduces",
+    "role": "introduces",
+    "new": true,
+    "evidence": [
+     "line 1: grito de rabia. A su computadora se le estaba acabando la batería, y ya había perdido [after edit]",
+     "line 1: media hora de trabajo porque se le había olvidado guardar el archivo. [after edit]",
+     "line 7: —Se me va a descongelar el congelador y no pienso desperdiciar [after edit]"
+    ],
+    "count": 3,
+    "count_without_edits": 0,
+    "edits": [
+     {
+      "line": 1,
+      "old": "Su computadora tenía poca batería, y ya había perdido media hora de trabajo porque no había guardado el archivo.",
+      "suggest_es": "A su computadora se le estaba acabando la batería, y ya había perdido media hora de trabajo porque se le había olvidado guardar el archivo.",
+      "suggest_en": "At seven o'clock sharp, a long thunderclap made the windows shake and all the lights went out at once. Soledad, an engineering student who was preparing for an exam the next day, let out a cry of rage. Her computer's battery was running out, and she had already lost half an hour of work because she had forgotten to save the file."
+     },
+     {
+      "line": 7,
+      "old": "—Mi congelador se va a descongelar",
+      "suggest_es": "—Se me va a descongelar el congelador",
+      "suggest_en": "\"My freezer is going to defrost on me and I'm not going to waste so much food. I have rice, beans and chicken for twenty people. Somebody help me cook, because I can't do it alone.\"",
+      "line_after_raw": "—Se me va a descongelar el congelador y no pienso <b>desperdiciar</b> tanta comida. Tengo arroz, frijoles y pollo para veinte personas. Que alguien me ayude a cocinar, porque yo solo no puedo."
+     }
+    ],
+    "pattern": "(se le estaba acabando|se le había olvidado|Se me va a descongelar)"
+   }
+  ],
+  "drop": [
+   "Commands with ustedes and usted"
+  ],
+  "drop_why": {
+   "Commands with ustedes and usted": "commands headlined in b1-06 (negative) and b1-07 (full system, already with usted/ustedes forms); third B1 slot."
+  },
+  "protected_lines": [
+   0,
+   2,
+   5,
+   8,
+   10
+  ],
+  "edit_count": 2,
+  "note": ""
+ },
+ "b1-10": {
+  "title": "La mano que toca",
+  "level": "B1",
+  "keep": [
+   "Passive and impersonal se",
+   "Por vs. para"
+  ],
+  "topics": [
+   {
+    "topic": "Passive and impersonal se",
+    "family": "Reflexives & se",
+    "group": "impersonal/passive se",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 13: Se pone sobre el aserrín",
+     "line 13: se llena de colores",
+     "line 16: no se hacen para durar"
+    ],
+    "count": 3,
+    "count_without_edits": 3,
+    "edits": []
+   },
+   {
+    "topic": "Por vs. para",
+    "family": "Por & para",
+    "group": "por/para",
+    "status": "keep",
+    "role": "recycles",
+    "new": false,
+    "evidence": [
+     "line 2: por primera vez",
+     "line 3: Por eso la llamamos Antigua",
+     "line 7: por esa calle",
+     "line 6: para que las monjas pudieran cruzar",
+     "line 9: para tocar",
+     "line 16: para durar"
+    ],
+    "count": 6,
+    "count_without_edits": 6,
+    "edits": []
+   },
+   {
+    "topic": "Future of probability: ¿será…?",
+    "family": "Conditionals & si-clauses",
+    "group": "conjecture",
+    "status": "introduces",
+    "role": "introduces",
+    "new": true,
+    "evidence": [
+     "line 8: ya no estuviera allí. —¿Y qué será «la mano que toca»? ¿Será alguien [after edit]",
+     "line 8: qué será «la mano que toca»? ¿Será alguien que toca la guitarra? [after edit]",
+     "line 10: le latía muy fuerte. ¿Quién vivirá aquí ahora? —Toca tú —dijo Bayron—. [after edit]"
+    ],
+    "count": 3,
+    "count_without_edits": 0,
+    "edits": [
+     {
+      "line": 8,
+      "old": "—¿Y qué es «la mano que toca»? ¿Alguien que toca la guitarra?",
+      "suggest_es": "—¿Y qué será «la mano que toca»? ¿Será alguien que toca la guitarra?",
+      "suggest_en": "They walked slowly. There were shops selling woven textiles, cafés and lots of wooden doors, all alike. After an hour, Itzel began to fear that the house was no longer there. \"And what can 'the hand that knocks' be? Could it be someone who plays the guitar?\"",
+      "line_after_raw": "Caminaron despacio. Había tiendas de <b>tejidos</b>, cafés y muchas puertas de madera, todas parecidas. Después de una hora, Itzel empezó a temer que la casa ya no estuviera allí. —¿Y qué será «la mano que toca»? ¿Será alguien que toca la guitarra?"
+     },
+     {
+      "line": 10,
+      "old": "A Itzel el corazón le latía muy fuerte.",
+      "suggest_es": "A Itzel el corazón le latía muy fuerte. ¿Quién vivirá aquí ahora?",
+      "suggest_en": "Three houses further on they found a green door with a bronze hand and a sign: \"Café La Pila.\" Itzel's heart was pounding. Who could be living here now? \"You knock,\" said Bayron. \"It's your story.\"",
+      "line_after_raw": "Tres casas más adelante encontraron una puerta verde con una mano de <b>bronce</b> y un letrero: «Café La Pila». A Itzel el corazón le latía muy fuerte. ¿Quién vivirá aquí ahora? —Toca tú —dijo Bayron—. Es tu historia."
+     }
+    ],
+    "pattern": "\\b([Ss]erá|vivirá)\\b"
+   }
+  ],
+  "drop": [
+   "Subjunctive after wishes and hasta que"
+  ],
+  "drop_why": {
+   "Subjunctive after wishes and hasta que": "wish-subjunctive headlined in b1-06 and b1-07; hasta que occurs only once here."
+  },
+  "protected_lines": [
+   0,
+   3,
+   6,
+   7,
+   9,
+   13,
+   16
+  ],
+  "edit_count": 2,
+  "note": "Real future (verás, mandaré, encontraremos, iré) sits next to the probability future (será, vivirá) in the same story."
+ },
+ "b2-01": {
+  "title": "La carta sin sello",
+  "level": "B2",
+  "keep": [
+   "Subjunctive after conjunctions (para que, sin que, antes de que...)",
+   "Aunque: indicative vs subjunctive",
+   "Si + imperfect subjunctive, conditional"
+  ],
+  "topics": [
+   {
+    "topic": "Subjunctive after conjunctions (para que, sin que, antes de que...)",
+    "family": "Subjunctive",
+    "group": "subjunctive: conjunctions",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 2: hasta que terminara el invierno",
+     "line 3: para que nunca llegaran a su destino",
+     "line 7: sin que le temblara la voz",
+     "line 8: para que algún futuro archivista tuviera"
+    ],
+    "count": 4,
+    "count_without_edits": 4,
+    "edits": []
+   },
+   {
+    "topic": "Aunque: indicative vs subjunctive",
+    "family": "Subjunctive",
+    "group": "concession",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 1: aunque se sentía un poco culpable",
+     "line 3: aunque nunca se puede estar seguro",
+     "line 4: aunque te advierto",
+     "line 7: Aunque él ya no esté para oírlo"
+    ],
+    "count": 4,
+    "count_without_edits": 4,
+    "edits": []
+   },
+   {
+    "topic": "Si + imperfect subjunctive, conditional",
+    "family": "Conditionals & si-clauses",
+    "group": "si + imperfect subjunctive",
+    "status": "keep",
+    "role": "recycles",
+    "new": false,
+    "evidence": [
+     "line 2: si ella aún quisiera verlo, la esperaría",
+     "line 2: Si pudiera repetir aquella tarde, no me marcharía",
+     "line 3: si él fuera el contable de entonces, tal vez actuaría",
+     "line 4: Si fuera más joven, saldría",
+     "line 4: si usted me dejara, yo podría",
+     "line 7: si pudiera hablar con él hoy"
+    ],
+    "count": 6,
+    "count_without_edits": 6,
+    "edits": []
+   }
+  ],
+  "drop": [],
+  "drop_why": {},
+  "protected_lines": [
+   1,
+   2,
+   3,
+   4,
+   7,
+   8
+  ],
+  "edit_count": 0,
+  "note": ""
+ },
+ "b2-02": {
+  "title": "El horno del patio",
+  "level": "B2",
+  "keep": [
+   "Concession: aunque, por mucho que",
+   "Verb phrases: seguir, acabar + gerund; soler",
+   "Subjunctive after no es que, temer que, a que"
+  ],
+  "topics": [
+   {
+    "topic": "Concession: aunque, por mucho que",
+    "family": "Subjunctive",
+    "group": "concession",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 0: aunque se negaba a admitirlo",
+     "line 3: por brillante que fuese",
+     "line 6: por mucho que me guste imitarla",
+     "line 9: aunque no lo diga"
+    ],
+    "count": 4,
+    "count_without_edits": 4,
+    "edits": []
+   },
+   {
+    "topic": "Verb phrases: seguir, acabar + gerund; soler",
+    "family": "Verb phrases & near future",
+    "group": "verb phrases",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 0: llevaba once años dirigiendo",
+     "line 2: si siguiéramos haciendo siempre lo mismo",
+     "line 2: el negocio acabaría cerrando",
+     "line 4: solía decir",
+     "line 9: suele salir sorprendido"
+    ],
+    "count": 5,
+    "count_without_edits": 5,
+    "edits": []
+   },
+   {
+    "topic": "Subjunctive after no es que, temer que, a que",
+    "family": "Subjunctive",
+    "group": "subjunctive: noun clauses",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 1: como si temieran que la hija pródiga volviera",
+     "line 2: no viene a que le expliquen la comida",
+     "line 2: Viene a que se la den",
+     "line 3: No era que don Leandro fuera terco"
+    ],
+    "count": 4,
+    "count_without_edits": 4,
+    "edits": []
+   }
+  ],
+  "drop": [],
+  "drop_why": {},
+  "protected_lines": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   6,
+   9
+  ],
+  "edit_count": 0,
+  "note": ""
+ },
+ "b2-03": {
+  "title": "La mochila equivocada",
+  "level": "B2",
+  "keep": [
+   "Como si + imperfect subjunctive",
+   "Passive: ser + participle and se",
+   "Imperfect subjunctive in subordinate clauses"
+  ],
+  "topics": [
+   {
+    "topic": "Como si + imperfect subjunctive",
+    "family": "Subjunctive",
+    "group": "como si / imperfect subjunctive",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 1: como si fueran a escalar el Everest",
+     "line 3: como si la mano que escribía envejeciera",
+     "line 4: como si fuera un expediente",
+     "line 7: como si llevara piedras"
+    ],
+    "count": 4,
+    "count_without_edits": 4,
+    "edits": []
+   },
+   {
+    "topic": "Passive: ser + participle and se",
+    "family": "Passive voice",
+    "group": "passive",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 3: Dentro se encontraron unos calcetines",
+     "line 3: En la primera página se leía",
+     "line 4: se celebra el Año Santo Jacobeo",
+     "line 4: el sepulcro del apóstol fue descubierto",
+     "line 5: en Santiago se vendían",
+     "line 9: que fue esculpido por el Maestro Mateo",
+     "line 9: impulsado por ocho hombres",
+     "line 9: gastada por millones de manos"
+    ],
+    "count": 8,
+    "count_without_edits": 8,
+    "edits": []
+   },
+   {
+    "topic": "Imperfect subjunctive in subordinate clauses",
+    "family": "Past tenses",
+    "group": "como si / imperfect subjunctive",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 0: le había exigido que caminara",
+     "line 1: para que le pusieran otro sello",
+     "line 9: insistió en que vieran el Pórtico",
+     "line 10: le pidió que escribiera ella la entrada"
+    ],
+    "count": 4,
+    "count_without_edits": 4,
+    "edits": []
+   }
+  ],
+  "drop": [],
+  "drop_why": {},
+  "protected_lines": [
+   0,
+   1,
+   3,
+   4,
+   5,
+   7,
+   9,
+   10
+  ],
+  "edit_count": 0,
+  "note": ""
+ },
+ "b2-04": {
+  "title": "Una frase de más",
+  "level": "B2",
+  "keep": [
+   "Indicative vs subjunctive: opinion, doubt and emotion",
+   "Discourse markers: sin embargo, en cambio, en cuanto a",
+   "Ojalá and como si with pluperfect"
+  ],
+  "topics": [
+   {
+    "topic": "Indicative vs subjunctive: opinion, doubt and emotion",
+    "family": "Subjunctive",
+    "group": "subjunctive: noun clauses",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 3: es posible que les mintiera",
+     "line 6: me temo que la frase significa",
+     "line 7: No esperaba que una traductora desconocida le hiciera",
+     "line 7: mucho menos que le produjera alivio",
+     "line 9: es posible que no fuera del todo franco"
+    ],
+    "count": 5,
+    "count_without_edits": 5,
+    "edits": []
+   },
+   {
+    "topic": "Discourse markers: sin embargo, en cambio, en cuanto a",
+    "family": "Relative clauses & connectors",
+    "group": "connectors",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 2: Aquel libro, sin embargo",
+     "line 3: el español, en cambio",
+     "line 9: Precisamente",
+     "line 10: La embajada, por su parte",
+     "line 10: En cuanto a ella"
+    ],
+    "count": 5,
+    "count_without_edits": 5,
+    "edits": []
+   },
+   {
+    "topic": "Ojalá and como si with pluperfect",
+    "family": "Subjunctive",
+    "group": "pluperfect subjunctive (ojalá/como si/aunque)",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 6: ojalá yo hubiera tenido esa libertad",
+     "line 7: como si otro hombre hubiera escrito aquellas palabras",
+     "line 8: como si le hubieran confiado una carga"
+    ],
+    "count": 3,
+    "count_without_edits": 3,
+    "edits": []
+   },
+   {
+    "topic": "Mixed conditionals: si hubiera…, ahora sería",
+    "family": "Conditionals & si-clauses",
+    "group": "mixed conditionals",
+    "status": "introduces",
+    "role": "introduces",
+    "new": true,
+    "evidence": [
+     "line 4: vecinos muy cercanos, Ramiro. Si el autor hubiera querido matizar, no estaríamos hablando de esto. [after edit]",
+     "line 5: aquellas líneas, y sabía que, si no las hubiera recibido, hoy sería una traductora muy distinta. [after edit]",
+     "line 9: queremos disimular. —Precisamente. Si hubieras leído el correo del autor, no me pedirías lo contrario. —Si lo hubiera"
+    ],
+    "count": 3,
+    "count_without_edits": 1,
+    "edits": [
+     {
+      "line": 4,
+      "old": "—Matizar y falsear son vecinos muy cercanos, Ramiro.",
+      "suggest_es": "—Matizar y falsear son vecinos muy cercanos, Ramiro. Si el autor hubiera querido matizar, no estaríamos hablando de esto.",
+      "suggest_en": "(replace the last sentence of the English paragraph) \"Nuancing and falsifying are very close neighbors, Ramiro. If the author had wanted to nuance it, we wouldn't be talking about this.\"",
+      "line_after_raw": "—No creo que sea buena idea dramatizar —dijo Ramiro, el editor, por teléfono—. La embajada apoya la edición, y si apareciera la palabra «mintió» negro sobre blanco, nos arrepentiríamos. Mejor <b>suavízalo</b>.\n—¿Y si el autor quiso decir exactamente eso? No puedo corregir a un hombre que, aunque sea discreto, ha decidido contar su verdad.\n—Nadie te pide que lo corrijas, sino que lo <b>matices</b>.\n—Matizar y falsear son vecinos muy cercanos, Ramiro. Si el autor hubiera querido matizar, no estaríamos hablando de esto."
+     },
+     {
+      "line": 5,
+      "old": "de aquellas líneas.",
+      "suggest_es": "de aquellas líneas, y sabía que, si no las hubiera recibido, hoy sería una traductora muy distinta.",
+      "suggest_en": "(replace the last sentence of the English paragraph) She could still feel the blush those lines had caused, and she knew that if she had not received them she would be a very different translator today.",
+      "line_after_raw": "Esa noche, incapaz de dormir, recordó a su maestra de la universidad, doña Berta Lozano, que repetía a sus alumnos que el traductor es un puente, y que un puente que cambia de forma según quién lo cruce deja de ser puente. Recordó también la vez en que, recién graduada, había «mejorado» un párrafo <b>torpe</b> de una novela, y el autor, un escritor chileno, le había enviado una carta cortés y <b>demoledora</b>: «Si hubiera querido que fuera elegante, lo habría escrito yo». Aún sentía el <b>rubor</b> de aquellas líneas, y sabía que, si no las hubiera recibido, hoy sería una traductora muy distinta."
+     }
+    ],
+    "pattern": "(Si hubieras leído el correo del autor, no me pedirías|Si el autor hubiera querido matizar, no estaríamos|si no las hubiera recibido, hoy sería)"
+   }
+  ],
+  "drop": [],
+  "drop_why": {},
+  "protected_lines": [
+   2,
+   3,
+   6,
+   7,
+   8,
+   10
+  ],
+  "edit_count": 2,
+  "note": "Line 9 already contrasts mixed (\"Si hubieras leído…, no me pedirías\") with third conditional (\"Si lo hubiera leído, quizá te habría pedido\"): use both in the card."
+ },
+ "b2-05": {
+  "title": "Lo que nadie vio en Corrientes",
+  "level": "B2",
+  "keep": [
+   "Si + pluperfect subjunctive, conditional perfect",
+   "Reported speech with tense shifts",
+   "Ojalá and aunque + pluperfect subjunctive"
+  ],
+  "topics": [
+   {
+    "topic": "Si + pluperfect subjunctive, conditional perfect",
+    "family": "Conditionals & si-clauses",
+    "group": "si + pluperfect subjunctive",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 2: Si alguien hubiera entrado, la habría escuchado",
+     "line 6: si yo hubiera querido robarlo, no habría ofrecido",
+     "line 7: Si el hombre del paraguas hubiera entrado, la campanita habría sonado",
+     "line 7: Si a las seis y cuarto hubiera llovido, Bernardo habría vuelto",
+     "line 8: Si me hubieras preguntado, te habría dicho"
+    ],
+    "count": 5,
+    "count_without_edits": 5,
+    "edits": []
+   },
+   {
+    "topic": "Reported speech with tense shifts",
+    "family": "Reported speech",
+    "group": "reported speech",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 1: les preguntaría a todos qué habían visto",
+     "line 2: tu abuelo me dijo que bajara al sótano",
+     "line 3: Me dijo que volvería otro día",
+     "line 4: Olivia le contó que",
+     "line 5: El pronóstico decía que llovería",
+     "line 6: Dijo que estaba allí desde el viernes y que el lunes estaría",
+     "line 9: le dijo que el libro ya no estaba a la venta",
+     "line 9: el coleccionista contaría"
+    ],
+    "count": 8,
+    "count_without_edits": 8,
+    "edits": []
+   },
+   {
+    "topic": "Ojalá and aunque + pluperfect subjunctive",
+    "family": "Subjunctive",
+    "group": "pluperfect subjunctive (ojalá/como si/aunque)",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 2: Ojalá hubiera cerrado la vitrina",
+     "line 6: aunque me lo hubieran regalado",
+     "line 8: ojalá me hubieras preguntado",
+     "line 8: Aunque me hubieran ofrecido el triple"
+    ],
+    "count": 4,
+    "count_without_edits": 4,
+    "edits": []
+   }
+  ],
+  "drop": [],
+  "drop_why": {},
+  "protected_lines": [
+   1,
+   2,
+   3,
+   6,
+   7,
+   8
+  ],
+  "edit_count": 0,
+  "note": ""
+ },
+ "b2-06": {
+  "title": "El reloj de las cuatro y diez",
+  "level": "B2",
+  "keep": [
+   "Estar + participle: resulting state",
+   "Reported speech with tense shifts",
+   "Subjunctive in time clauses: cuando, hasta que, mientras"
+  ],
+  "topics": [
+   {
+    "topic": "Estar + participle: resulting state",
+    "family": "Ser vs. estar",
+    "group": "ser/estar",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 2: Estaba parado a las cuatro y diez",
+     "line 3: ni está roto",
+     "line 8: Pensé que estaba descompuesto",
+     "line 8: mientras ese reloj estuviera parado"
+    ],
+    "count": 4,
+    "count_without_edits": 4,
+    "edits": []
+   },
+   {
+    "topic": "Reported speech with tense shifts",
+    "family": "Reported speech",
+    "group": "reported speech",
+    "status": "keep",
+    "role": "recycles",
+    "new": false,
+    "evidence": [
+     "line 0: advirtió que no me enseñaría a reparar relojes",
+     "line 3: prometió que volvería a buscarlo",
+     "line 5: Me dije que solo lo miraría",
+     "line 11: Dijo que su abuela, Salomé, había fallecido",
+     "line 12: Me pidió que no viniera",
+     "line 12: Me rogó que no lo pusiera en marcha"
+    ],
+    "count": 6,
+    "count_without_edits": 6,
+    "edits": []
+   },
+   {
+    "topic": "Subjunctive in time clauses: cuando, hasta que, mientras",
+    "family": "Subjunctive",
+    "group": "subjunctive: conjunctions",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 3: cuando estuviera listo",
+     "line 8: mientras ese reloj estuviera parado",
+     "line 12: hasta que ella ya no pudiera venir",
+     "line 12: hasta que pudiera soportar oírlo"
+    ],
+    "count": 4,
+    "count_without_edits": 4,
+    "edits": []
+   },
+   {
+    "topic": "Verb + preposition: depender de, pensar en",
+    "family": "Verb phrases & near future",
+    "group": "verb + preposition",
+    "status": "introduces",
+    "role": "introduces",
+    "new": true,
+    "evidence": [
+     "line 2: cuando una mañana de lluvia me atreví a preguntarle por él, respondió",
+     "line 3: todavía no lo está? —insistí. —Eso depende de a quién le preguntes.",
+     "line 4: durante semanas no pude dejar de pensar en ella. A mí las cosas a medias",
+     "line 6: mucho tiempo, y simplemente se negaba a ponerlo en marcha. Si yo hubiera",
+     "line 10: alguien se atreviera». No supe si hablaba del reloj o de sí mismo."
+    ],
+    "count": 5,
+    "count_without_edits": 5,
+    "edits": [],
+    "pattern": "(me atreví a|depende de|pensar en|se negaba a|hablaba del)"
+   }
+  ],
+  "drop": [],
+  "drop_why": {},
+  "protected_lines": [
+   0,
+   2,
+   3,
+   5,
+   7,
+   8,
+   11,
+   12
+  ],
+  "edit_count": 0,
+  "note": "Other verb + preposition tokens in B2 that can be recycled without a headline: b2-02 se dio cuenta de, tardaría en, se atreve a, renunció a."
+ },
+ "b2-07": {
+  "title": "Lo de siempre",
+  "level": "B2",
+  "keep": [
+   "Cleft sentences",
+   "Si + pluperfect subjunctive, conditional perfect",
+   "Verb phrases: llevar + gerund, llevar sin, ir + gerund"
+  ],
+  "topics": [
+   {
+    "topic": "Cleft sentences",
+    "family": "Relative clauses & connectors",
+    "group": "clefts",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 1: Fue una monja de Santa Rosa quien inventó el mole",
+     "line 1: es de esa cocina de donde viene",
+     "line 2: fue el viento el que tiró",
+     "line 3: fue mi familia la que lo hizo bien",
+     "line 10: fue doña Fidela la que habló"
+    ],
+    "count": 5,
+    "count_without_edits": 5,
+    "edits": []
+   },
+   {
+    "topic": "Si + pluperfect subjunctive, conditional perfect",
+    "family": "Conditionals & si-clauses",
+    "group": "si + pluperfect subjunctive",
+    "status": "keep",
+    "role": "recycles",
+    "new": false,
+    "evidence": [
+     "line 3: Si mi bisabuela no les hubiera dado de comer, no habrían ganado",
+     "line 9: si les hubiera dicho la verdad, me habrían dejado",
+     "line 10: Si no me hubiera cambiado la receta sin pedirme permiso, me habría casado"
+    ],
+    "count": 3,
+    "count_without_edits": 3,
+    "edits": []
+   },
+   {
+    "topic": "Verb phrases: llevar + gerund, llevar sin, ir + gerund",
+    "family": "Verb phrases & near future",
+    "group": "verb phrases",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 0: llevaba diez años escribiendo",
+     "line 1: llevaba cuarenta años sirviendo",
+     "line 4: llevaban más de cuarenta años sin dirigirse la palabra",
+     "line 9: le fui poniendo",
+     "line 11: llevaban décadas cocinando",
+     "line 11: sigue moliendo"
+    ],
+    "count": 6,
+    "count_without_edits": 6,
+    "edits": []
+   }
+  ],
+  "drop": [],
+  "drop_why": {},
+  "protected_lines": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   9,
+   10,
+   11
+  ],
+  "edit_count": 0,
+  "note": ""
+ },
+ "b2-08": {
+  "title": "La segunda parte del juramento",
+  "level": "B2",
+  "keep": [
+   "Verbs of change: volverse, hacerse, convertirse",
+   "Relative clauses with prepositions; cuyo",
+   "Lo + adjective and lo + adjective + que"
+  ],
+  "topics": [
+   {
+    "topic": "Verbs of change: volverse, hacerse, convertirse",
+    "family": "Reflexives & se",
+    "group": "verbs of change",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 2: convertido en un hombre ancho y calvo",
+     "line 2: se había hecho veterinario",
+     "line 3: se había vuelto «medio español»"
+    ],
+    "count": 3,
+    "count_without_edits": 3,
+    "edits": []
+   },
+   {
+    "topic": "Relative clauses with prepositions; cuyo",
+    "family": "Relative clauses & connectors",
+    "group": "relatives",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 0: al que sus mejores amigos habían dado la espalda",
+     "line 1: con quien yo había compartido banda",
+     "line 3: en el que nadie mencionó",
+     "line 6: cuya goma elástica estaba ya reseca",
+     "line 10: Brindamos por los que no habían podido venir"
+    ],
+    "count": 5,
+    "count_without_edits": 5,
+    "edits": []
+   },
+   {
+    "topic": "Lo + adjective and lo + adjective + que",
+    "family": "Relative clauses & connectors",
+    "group": "lo + adjective",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 7: Lo primero que noté fue alivio",
+     "line 7: lo segundo, una vergüenza lenta",
+     "line 10: lo curioso fue que ellos la acogieron"
+    ],
+    "count": 3,
+    "count_without_edits": 3,
+    "edits": []
+   }
+  ],
+  "drop": [],
+  "drop_why": {},
+  "protected_lines": [
+   1,
+   2,
+   3,
+   6,
+   7,
+   10
+  ],
+  "edit_count": 0,
+  "note": ""
+ },
+ "b2-09": {
+  "title": "Sin novedad en la sala siete",
+  "level": "B2",
+  "keep": [
+   "Subjunctive in relative clauses",
+   "Discourse markers: ahora bien, de modo que, por cierto",
+   "Conditional of conjecture"
+  ],
+  "topics": [
+   {
+    "topic": "Subjunctive in relative clauses",
+    "family": "Subjunctive",
+    "group": "subjunctive: relative clauses",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 9: Busco a alguien que me diga",
+     "line 11: quien lo corrija tendrá que reconocer",
+     "line 12: para todo el que quisiera oírla"
+    ],
+    "count": 3,
+    "count_without_edits": 3,
+    "edits": []
+   },
+   {
+    "topic": "Discourse markers: ahora bien, de modo que, por cierto",
+    "family": "Relative clauses & connectors",
+    "group": "connectors",
+    "status": "keep",
+    "role": "recycles",
+    "new": false,
+    "evidence": [
+     "line 0: él, en cambio",
+     "line 3: de modo que no había imágenes",
+     "line 3: o, peor aún",
+     "line 4: sin embargo",
+     "line 11: Ahora bien",
+     "line 13: por cierto"
+    ],
+    "count": 6,
+    "count_without_edits": 6,
+    "edits": []
+   },
+   {
+    "topic": "Conditional of conjecture",
+    "family": "Conditionals & si-clauses",
+    "group": "conjecture",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 1: Serían las tres de la madrugada",
+     "line 1: pensó que sería la radio",
+     "line 4: ¿qué le importaría a un guardia una caja rota?"
+    ],
+    "count": 3,
+    "count_without_edits": 3,
+    "edits": []
+   }
+  ],
+  "drop": [],
+  "drop_why": {},
+  "protected_lines": [
+   1,
+   3,
+   4,
+   9,
+   11,
+   12,
+   13
+  ],
+  "edit_count": 0,
+  "note": ""
+ },
+ "b2-10": {
+  "title": "Capitolio, 1938",
+  "level": "B2",
+  "keep": [
+   "Subjunctive: whatever, whoever",
+   "Cleft sentences",
+   "Conditional perfect of conjecture"
+  ],
+  "topics": [
+   {
+    "topic": "Subjunctive: whatever, whoever",
+    "family": "Subjunctive",
+    "group": "subjunctive: reduplicative",
+    "status": "keep",
+    "role": "introduces",
+    "new": false,
+    "evidence": [
+     "line 3: dijera yo lo que dijera",
+     "line 8: fuera quien fuera aquella pareja",
+     "line 9: costara lo que costara",
+     "line 11: Diga lo que diga la gente"
+    ],
+    "count": 4,
+    "count_without_edits": 4,
+    "edits": []
+   },
+   {
+    "topic": "Cleft sentences",
+    "family": "Relative clauses & connectors",
+    "group": "clefts",
+    "status": "keep",
+    "role": "recycles",
+    "new": false,
+    "evidence": [
+     "line 2: Fue esa máquina, y no la pareja ni la cúpula, la que",
+     "line 6: Fue el nieto de uno de ellos quien",
+     "line 7: Fue de vuelta en el archivo cuando",
+     "line 10: fue la historia de los Quintana la que"
+    ],
+    "count": 4,
+    "count_without_edits": 4,
+    "edits": []
+   },
+   {
+    "topic": "Conditional perfect of conjecture",
+    "family": "Conditionals & si-clauses",
+    "group": "conjecture",
+    "status": "keep",
+    "role": "recycles",
+    "new": false,
+    "evidence": [
+     "line 0: La foto tendría más de ochenta años",
+     "line 4: ¿Quién habría escrito aquella fecha?",
+     "line 4: la habría catalogado deprisa",
+     "line 4: la propia pareja la habría escrito",
+     "line 4: se habría equivocado de década"
+    ],
+    "count": 5,
+    "count_without_edits": 5,
+    "edits": []
+   }
+  ],
+  "drop": [],
+  "drop_why": {},
+  "protected_lines": [
+   0,
+   2,
+   3,
+   4,
+   6,
+   7,
+   8,
+   10,
+   11
+  ],
+  "edit_count": 0,
+  "note": ""
+ }
+}

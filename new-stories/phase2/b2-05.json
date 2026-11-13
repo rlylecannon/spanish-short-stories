@@ -1,0 +1,462 @@
+{
+ "story": {
+  "id": "b2-05",
+  "level": "B2",
+  "title": "Lo que nadie vio en Corrientes",
+  "titleEn": "What Nobody Saw on Corrientes",
+  "teaser": "A first edition of Borges vanishes from an old Buenos Aires bookshop two days before it is sold, and every witness swears to a slightly different story.",
+  "emoji": "📚",
+  "lines": [
+   [
+    "El sábado a las ocho de la noche, mientras bajaba la <b>persiana</b> de la Librería Ulloa, una <b>librería de viejo</b> de la avenida Corrientes, Mercedes descubrió que la <b>vitrina</b> del fondo estaba vacía. Allí, desde hacía cuarenta años, descansaba la joya de la casa: una primera edición de «Ficciones», de Borges, publicada por Sur en 1944, con una <b>dedicatoria</b> a mano. El lunes a primera hora se vendería a un coleccionista, Ricardo Ugarte, por una suma que pagaba seis meses de alquiler. Ahora solo quedaba el polvo.",
+    "On Saturday at eight in the evening, as she was pulling down the shutter of Librería Ulloa, a second-hand bookshop on Avenida Corrientes, Mercedes discovered that the display case at the back was empty. There, for forty years, the jewel of the house had rested: a first edition of Ficciones, by Borges, published by Sur in 1944, with a handwritten dedication. First thing on Monday it was going to be sold to a collector, Ricardo Ugarte, for a sum that would cover six months' rent. Now only the dust remained."
+   ],
+   [
+    "Quiso llamar a la policía, pero su abuelo, don Aníbal, le pidió que no lo hiciera.\n—Se va a armar un escándalo, <b>nena</b>. En este barrio se dice todo y no se olvida nada.\nSi la policía no iba a escuchar a los testigos, lo haría ella: les preguntaría a todos qué habían visto, qué habían oído y, sobre todo, qué les habían contado.",
+    "She wanted to call the police, but her grandfather, Don Aníbal, asked her not to.\n“It'll cause a scandal, sweetheart. In this neighborhood everything gets said and nothing gets forgotten.”\nIf the police weren't going to listen to the witnesses, she would: she would ask all of them what they had seen, what they had heard and, above all, what they had been told."
+   ],
+   [
+    "El primero fue Tobías, el empleado, un <b>pibe</b> de veinte años que estudiaba Letras.\n—Yo no vi nada, te lo juro —aseguró—. A las seis tu abuelo me dijo que bajara al <b>sótano</b> a ordenar revistas, que él atendería el mostrador. Estuve abajo casi media hora.\n—¿Y no oíste la campanita de la puerta?\n—Nada. Bueno, una sola vez, cuando tu abuelo cruzó al kiosco a pedir agua caliente para el mate, como todas las tardes. La oigo siempre, hasta desde el sótano. Si alguien hubiera entrado, la habría escuchado, seguro. Ojalá hubiera cerrado la vitrina con llave antes de bajar.",
+    "The first was Tobías, the employee, a twenty-year-old kid who studied literature.\n“I didn't see anything, I swear,” he insisted. “At six your grandfather told me to go down to the basement to sort magazines, and said he would mind the counter. I was down there almost half an hour.”\n“And you didn't hear the little bell on the door?”\n“Nothing. Well, just once, when your grandfather went across to the kiosk to ask for hot water for his mate, like every afternoon. I always hear it, even from the basement. If someone had come in, I would have heard it, for sure. I wish I had locked the display case before going down.”"
+   ],
+   [
+    "Don Aníbal contó desde su sillón que se había quedado <b>dormitando</b> un rato y que, al despertar, ya no estaba seguro de nada.\n—Pero ahora que lo <b>decís</b>, me acuerdo de un señor alto, de sombrero, que me preguntó por libros de tango. Me dijo que volvería otro día. Seguro que fue él: se lo llevó bajo el brazo, envuelto en un diario.\nMercedes anotó cada palabra en su libreta, incluso las que su abuelo no había necesitado decir.",
+    "Don Aníbal said from his armchair that he had dozed off for a while and that, when he woke up, he was no longer sure of anything.\n“But now that you mention it, I remember a tall gentleman in a hat who asked me about tango books. He told me he would come back another day. It must have been him: he took it under his arm, wrapped in a newspaper.”\nMercedes wrote down every word in her notebook, even the ones her grandfather hadn't needed to say."
+   ],
+   [
+    "Enfrente, en el <b>kiosco de diarios</b>, doña Olivia guardaba las revistas. Era amiga de don Aníbal desde hacía medio siglo: todas las mañanas tomaban mate juntos. Antes de que Mercedes le preguntara nada, Olivia le contó que, a eso de las seis y cuarto, había visto salir de la librería a un hombre alto, de sombrero, con un paraguas negro que <b>chorreaba</b> agua y un paquete envuelto en papel de diario.\n—Te lo juro, querida: caminaba ligerito, como quien se lleva algo que no es suyo.",
+    "Across the street, at the newspaper kiosk, Doña Olivia was putting away the magazines. She had been Don Aníbal's friend for half a century: every morning they drank mate together. Before Mercedes could ask her anything, Olivia told her that, at around a quarter past six, she had seen a tall man in a hat come out of the bookshop, with a black umbrella dripping water and a package wrapped in newspaper.\n“I swear to you, dear: he was walking fast, like someone carrying off something that isn't his.”"
+   ],
+   [
+    "Bernardo, el <b>cadete</b> de la pizzería de al lado, tenía otra versión del tiempo. Le contó que había hecho repartos toda la tarde sin una gota.\n—El pronóstico decía que llovería a la noche y, por una vez, acertó: empezó a las siete y diez. Lo sé porque anoto la hora en cada ticket. <b>Mirá</b>.",
+    "Bernardo, the delivery boy from the pizzeria next door, had a different version of the weather. He told her he had made deliveries all afternoon without a drop.\n“The forecast said it would rain at night and, for once, it got it right: it started at ten past seven. I know because I write the time on every ticket. Look.”"
+   ],
+   [
+    "Por último, Mercedes llamó a Ugarte, que atendió desde Mar del Plata. Dijo que estaba allí desde el viernes y que el lunes estaría en la librería con el dinero. Al oír lo del robo, se quedó callado.\n—Señorita, si yo hubiera querido robarlo, no habría ofrecido pagar el doble de lo que vale —contestó, ofendido—. Y aunque me lo hubieran regalado, jamás lo habría sacado a la calle con lluvia: el papel de 1944 no perdona.",
+    "Finally, Mercedes called Ugarte, who answered from Mar del Plata. He said he had been there since Friday and that on Monday he would be at the bookshop with the money. On hearing about the theft, he fell silent.\n“Miss, if I had wanted to steal it, I wouldn't have offered to pay twice what it's worth,” he replied, offended. “And even if they had given it to me, I would never have taken it out in the rain: paper from 1944 doesn't forgive.”"
+   ],
+   [
+    "Esa noche, Mercedes extendió sus notas sobre el mostrador como si fueran las piezas de un <b>rompecabezas</b>. Si el hombre del paraguas hubiera entrado, la campanita habría sonado dos veces, y Tobías solo la había oído una. Si a las seis y cuarto hubiera llovido, Bernardo habría vuelto <b>empapado</b> antes de las siete. Y había algo más: su abuelo, que supuestamente dormía, sabía que el libro había salido envuelto en un diario, y Olivia había dicho lo mismo, casi con las mismas palabras. Cuando una historia se repite tan igual, pensó, es porque alguien la <b>ensayó</b>.",
+    "That night, Mercedes spread her notes out on the counter as if they were the pieces of a jigsaw puzzle. If the man with the umbrella had come in, the bell would have rung twice, and Tobías had heard it only once. If it had been raining at a quarter past six, Bernardo would have come back soaked before seven. And there was something else: her grandfather, who was supposedly asleep, knew that the book had left wrapped in a newspaper, and Olivia had said the same thing, in almost the same words. When a story gets repeated so exactly, she thought, it's because someone rehearsed it."
+   ],
+   [
+    "El domingo temprano cruzó la avenida. Entre las revistas del kiosco asomaba un <b>lomo</b> gastado que Mercedes conocía de memoria.\n—¿Me lo explicás vos o le pregunto al abuelo? —dijo.\nOlivia suspiró. Don Aníbal apareció en la esquina con el <b>termo</b> bajo el brazo y no intentó defenderse. Abrió el libro y leyó en voz alta la dedicatoria: «Para Aníbal, que me leyó este libro entero una noche de invierno. Elsa, 1961».\n—Tu abuela —dijo—. Ya sé que necesitamos la <b>plata</b>, nena. Pero ojalá me hubieras preguntado antes de prometérselo a ese señor. Si me hubieras preguntado, te habría dicho que hay cosas que no se venden. Aunque me hubieran ofrecido el triple, no lo habría vendido.",
+    "Early on Sunday she crossed the avenue. Among the magazines at the kiosk, a worn spine that Mercedes knew by heart was poking out.\n“Are you going to explain it to me, or shall I ask Grandpa?” she said.\nOlivia sighed. Don Aníbal appeared at the corner with the thermos under his arm and didn't try to defend himself. He opened the book and read the dedication aloud: “For Aníbal, who read me this whole book one winter night. Elsa, 1961.”\n“Your grandmother,” he said. “I know we need the money, sweetheart. But I wish you had asked me before promising it to that man. If you had asked me, I would have told you that some things aren't for sale. Even if they had offered me three times as much, I wouldn't have sold it.”"
+   ],
+   [
+    "Mercedes pensó en el alquiler y en las cuentas; después pensó en una abuela que casi no había conocido. El lunes, cuando Ugarte llegó con su <b>maletín</b>, le dijo que el libro ya no estaba a la venta. Él se fue furioso, y Tobías comentó que, por lo que se decía, el coleccionista contaría la historia en todas las librerías de Corrientes.\n—Mejor —dijo don Aníbal—. Que vengan a ver el libro que no se vende.\nY vinieron: durante semanas entró gente preguntando por la vitrina, y casi nadie se fue sin comprar algo. En el barrio todavía se dice que lo robó un hombre de sombrero. Mercedes nunca lo <b>desmintió</b>.",
+    "Mercedes thought about the rent and the bills; then she thought about a grandmother she had barely known. On Monday, when Ugarte arrived with his briefcase, she told him the book was no longer for sale. He left furious, and Tobías remarked that, from what people were saying, the collector would tell the story in every bookshop on Corrientes.\n“All the better,” said Don Aníbal. “Let them come and see the book that isn't for sale.”\nAnd they came: for weeks people walked in asking about the display case, and hardly anyone left without buying something. In the neighborhood people still say a man in a hat stole it. Mercedes never denied it."
+   ]
+  ],
+  "vocab": [
+   [
+    "la persiana",
+    "shop shutter (roller shutter)"
+   ],
+   [
+    "la librería de viejo",
+    "second-hand bookshop"
+   ],
+   [
+    "la vitrina",
+    "display case, glass cabinet"
+   ],
+   [
+    "la dedicatoria",
+    "inscription, dedication (written in a book)"
+   ],
+   [
+    "nena",
+    "sweetheart, dear (Arg., affectionate; lit. little girl)"
+   ],
+   [
+    "el pibe",
+    "kid, young guy (Arg., colloquial)"
+   ],
+   [
+    "el sótano",
+    "basement"
+   ],
+   [
+    "dormitar",
+    "to doze"
+   ],
+   [
+    "decís",
+    "you say (vos form; tú: dices)"
+   ],
+   [
+    "el kiosco de diarios",
+    "newsstand, newspaper kiosk"
+   ],
+   [
+    "chorrear",
+    "to drip, to stream"
+   ],
+   [
+    "el cadete",
+    "delivery boy, errand runner (Arg.)"
+   ],
+   [
+    "mirá",
+    "look (vos command; tú: mira)"
+   ],
+   [
+    "el rompecabezas",
+    "jigsaw puzzle"
+   ],
+   [
+    "empapado",
+    "soaked, drenched"
+   ],
+   [
+    "ensayar",
+    "to rehearse"
+   ],
+   [
+    "el lomo",
+    "spine (of a book)"
+   ],
+   [
+    "el termo",
+    "thermos (for mate water)"
+   ],
+   [
+    "la plata",
+    "money (Lat. Am., colloquial)"
+   ],
+   [
+    "el maletín",
+    "briefcase"
+   ],
+   [
+    "desmentir",
+    "to deny, to refute"
+   ]
+  ],
+  "quiz": [
+   {
+    "q": "¿Por qué Tobías estaba en el sótano a las seis?",
+    "options": [
+     "Porque buscaba el libro de Borges",
+     "Porque don Aníbal le dijo que bajara a ordenar revistas",
+     "Porque estaba escondido leyendo",
+     "Porque había oído un ruido raro"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "¿Qué detalle del relato de Olivia no coincide con lo que contó Bernardo?",
+    "options": [
+     "El sombrero del hombre",
+     "La hora en que cerró la librería",
+     "El paraguas que chorreaba agua a las seis y cuarto",
+     "El color del paquete"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Mercedes piensa que «alguien la ensayó». ¿Qué quiere decir?",
+    "options": [
+     "Que alguien preparó y practicó la historia antes de contarla",
+     "Que alguien la escribió en un diario",
+     "Que alguien la olvidó",
+     "Que alguien la contó en un teatro de Corrientes"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "¿Por qué escondió don Aníbal el libro?",
+    "options": [
+     "Para vendérselo a otro coleccionista por más plata",
+     "Porque Ugarte lo había amenazado",
+     "Porque se lo había regalado su esposa y no quería venderlo",
+     "Porque Olivia se lo había pedido para leerlo"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "¿Qué sugiere la última frase, «Mercedes nunca lo desmintió»?",
+    "options": [
+     "Que Mercedes todavía cree que el ladrón fue un hombre de sombrero",
+     "Que Mercedes acepta, con complicidad y humor, una leyenda que protege a su abuelo y atrae clientes",
+     "Que Mercedes está enojada con el barrio",
+     "Que Mercedes no sabe la verdad"
+    ],
+    "answer": 1
+   }
+  ],
+  "prompt": "Imagine a small mystery in your building or street (a missing package, a broken window, a door left open). In Spanish (5-8 sentences), test what two witnesses told you. Use si + pluperfect subjunctive with the conditional perfect (si hubiera…, habría…) to show which story can't be true, and report their words with tense shifts (dijo que estaba…, me contó que había visto…, aseguró que volvería…). Start like this: «Si el vecino del tercero hubiera salido a las nueve, el portero lo habría visto. Pero el portero me dijo que…»",
+  "concepts": {
+   "grammar": "Si + pluperfect subjunctive with the conditional perfect to test witness statements and to reproach (si alguien hubiera entrado, la habría escuchado; si a las seis y cuarto hubiera llovido, Bernardo habría vuelto empapado; si me hubieras preguntado, te habría dicho); reported speech with tense shifts after a past verb: imperfect, pluperfect, conditional and imperfect subjunctive (dijo que estaba allí desde el viernes, qué habían visto, me dijo que volvería, me dijo que bajara al sótano); ojalá and aunque + pluperfect subjunctive (ojalá hubiera cerrado la vitrina, ojalá me hubieras preguntado, aunque me hubieran ofrecido el triple, no lo habría vendido).",
+   "vocabulary": "Bookshop and mystery vocabulary (vitrina, dedicatoria, lomo, sótano, rompecabezas, desmentir); Rioplatense Spanish: voseo (decís, mirá, explicás) and porteño words (pibe, nena, plata, cadete, kiosco de diarios, termo).",
+   "skills": "Comparing witness statements and spotting contradictions; following a chain of reported speech; drawing inferences from fair clues; reading a warm, ironic ending."
+  }
+ },
+ "grammar": [
+  {
+   "topic": "Si + pluperfect subjunctive, conditional perfect",
+   "explain": "Si + hubiera + participle, with habría + participle in the result, imagines a past that did not happen and its consequence. Mercedes uses it to test each witness: if X had happened, Y would have followed, and Y didn't. Compare b2-01: si + imperfect subjunctive (si alguien entrara, la oiría) is about now; hubiera + participle moves the condition into the past. The result can also take hubiera (te hubiera dicho). Watch out: never the conditional after si: *si me habrías preguntado.",
+   "examples": [
+    [
+     "Si alguien hubiera entrado, la habría escuchado, seguro.",
+     "If someone had come in, I would have heard it, for sure."
+    ],
+    [
+     "Si el hombre del paraguas hubiera entrado, la campanita habría sonado dos veces",
+     "If the man with the umbrella had come in, the bell would have rung twice"
+    ],
+    [
+     "Señorita, si yo hubiera querido robarlo, no habría ofrecido pagar el doble de lo que vale",
+     "Miss, if I had wanted to steal it, I wouldn't have offered to pay twice what it's worth"
+    ],
+    [
+     "Si alguien entrara ahora, la oiría.",
+     "If someone came in now, I would hear it."
+    ]
+   ]
+  },
+  {
+   "topic": "Reported speech with tense shifts",
+   "explain": "After a past reporting verb (dijo, contó, decía, preguntó) the reported clause shifts back: present → imperfect (estaba), preterite → pluperfect (habían visto), future → conditional (volvería, llovería), command → imperfect subjunctive (me dijo que bajara). Reported questions keep the question word with its accent: qué habían visto. At B1 you reported statements with little change; here every tense moves. Watch out: a reported command needs que + subjunctive, not an infinitive: me dijo que bajara, not *me dijo bajar.",
+   "examples": [
+    [
+     "A las seis tu abuelo me dijo que bajara al sótano a ordenar revistas, que él atendería el mostrador.",
+     "At six your grandfather told me to go down to the basement to sort magazines, and said he would mind the counter."
+    ],
+    [
+     "Me dijo que volvería otro día.",
+     "He told me he would come back another day."
+    ],
+    [
+     "Dijo que estaba allí desde el viernes y que el lunes estaría en la librería con el dinero.",
+     "He said he had been there since Friday and that on Monday he would be at the bookshop with the money."
+    ],
+    [
+     "les preguntaría a todos qué habían visto, qué habían oído",
+     "she would ask all of them what they had seen, what they had heard"
+    ]
+   ]
+  },
+  {
+   "topic": "Ojalá and aunque + pluperfect subjunctive",
+   "explain": "Ojalá + hubiera + participle is a regret: 'I wish I had…', about a past that can't change. Aunque + hubiera + participle, with the conditional perfect, means 'even if … had …': the imagined past would not have changed the result. You met ojalá with the pluperfect in b2-04; aunque joins it here. Watch out: aunque + indicative states a fact (aunque me ofrecieron el triple = they really did), and ojalá + imperfect subjunctive (ojalá estuviera aquí) wishes about now, not the past.",
+   "examples": [
+    [
+     "Ojalá hubiera cerrado la vitrina con llave antes de bajar.",
+     "I wish I had locked the display case before going down."
+    ],
+    [
+     "Pero ojalá me hubieras preguntado antes de prometérselo a ese señor.",
+     "But I wish you had asked me before promising it to that man."
+    ],
+    [
+     "Aunque me hubieran ofrecido el triple, no lo habría vendido.",
+     "Even if they had offered me three times as much, I wouldn't have sold it."
+    ],
+    [
+     "Y aunque me lo hubieran regalado, jamás lo habría sacado a la calle con lluvia",
+     "And even if they had given it to me, I would never have taken it out in the rain"
+    ]
+   ]
+  }
+ ],
+ "gq": [
+  {
+   "topic": "Si + pluperfect subjunctive, conditional perfect",
+   "q": "Complete Mercedes's reasoning: «Si a las seis y cuarto ___, Bernardo habría vuelto empapado antes de las siete.»",
+   "options": [
+    "habría llovido",
+    "había estado lloviendo",
+    "hubiera llovido",
+    "llovería"
+   ],
+   "answer": 2,
+   "why": "An unreal past condition takes the pluperfect subjunctive after si. Habría never follows si, había estado lloviendo states a fact, and llovería is about the present or future."
+  },
+  {
+   "topic": "Reported speech with tense shifts",
+   "q": "Ugarte on the phone: «Estoy aquí desde el viernes y el lunes estaré en la librería.» Complete the narration: «Dijo que ___ allí desde el viernes y que el lunes ___ en la librería.»",
+   "options": [
+    "estaba / estaría",
+    "estuvo / estaría",
+    "estaba / estará",
+    "estuviera / estaría"
+   ],
+   "answer": 0,
+   "why": "After dijo, present estoy becomes imperfect estaba and future estaré becomes conditional estaría. The Monday is past for the narrator, so estará doesn't fit."
+  },
+  {
+   "topic": "Reported speech with tense shifts",
+   "q": "Don Aníbal to Tobías at six: «Bajá (= baja) al sótano a ordenar revistas.» Tobías tells Mercedes: «Tu abuelo me dijo que ___ al sótano.»",
+   "options": [
+    "bajaba",
+    "bajar",
+    "bajaría",
+    "bajara"
+   ],
+   "answer": 3,
+   "why": "A reported command after a past verb takes que + imperfect subjunctive. Bajaba would report a fact, not an order; dijo bajar and bajaría are learner errors."
+  },
+  {
+   "topic": "Ojalá and aunque + pluperfect subjunctive",
+   "q": "Nobody actually offered Don Aníbal three times the price. Complete: «Aunque me ___ el triple, no lo habría vendido.»",
+   "options": [
+    "ofrecieron",
+    "hubieran ofrecido",
+    "habían ofrecido",
+    "habrían estado ofreciendo"
+   ],
+   "answer": 1,
+   "why": "An imagined past offer that wouldn't have changed anything: aunque + pluperfect subjunctive. Ofrecieron or habían ofrecido would say the offer really happened."
+  },
+  {
+   "topic": "Si + pluperfect subjunctive, conditional perfect",
+   "q": "Find the error: «Si me habrías preguntado, te hubiera dicho que hay cosas que no se venden.»",
+   "options": [
+    "te hubiera dicho → te habría dicho",
+    "no se venden → no se vende",
+    "There is no error.",
+    "habrías preguntado → hubieras preguntado"
+   ],
+   "answer": 3,
+   "x": true,
+   "why": "The si-clause needs the pluperfect subjunctive. In the result clause, hubiera dicho is as correct as habría dicho."
+  },
+  {
+   "topic": "Reported speech with tense shifts",
+   "q": "Mercedes asked Tobías: «¿Y no oíste la campanita de la puerta?» Transform: «Mercedes le preguntó a Tobías ___ la campanita.»",
+   "options": [
+    "que no oíste",
+    "si no habría oído",
+    "si no había oído",
+    "no había oído"
+   ],
+   "answer": 2,
+   "x": true,
+   "why": "A reported yes/no question is introduced by si, and the preterite shifts to the pluperfect. Habría oído would be a hypothetical, not a report."
+  },
+  {
+   "topic": "Ojalá and aunque + pluperfect subjunctive",
+   "q": "Ugarte: «Aunque me lo hubieran regalado, jamás lo habría sacado a la calle con lluvia.» What does he mean?",
+   "options": [
+    "He wishes someone had given him the book.",
+    "Even as a gift, he would never have taken it out in the rain.",
+    "Someone really gave him the book as a present, so he kept it safe at home.",
+    "He took it out because it was a gift."
+   ],
+   "answer": 1,
+   "x": true,
+   "why": "Aunque + pluperfect subjunctive imagines a past that didn't happen and says the result would be the same. It's his proof that he isn't the thief."
+  },
+  {
+   "topic": "Ojalá and aunque + pluperfect subjunctive",
+   "q": "Mercedes regrets her promise to Ugarte. Which sentence is correct?",
+   "options": [
+    "Ojalá no se lo hubiera prometido.",
+    "Ojalá no se lo habría prometido.",
+    "Ojalá no se lo había prometido.",
+    "Ojalá que no se lo he prometido."
+   ],
+   "answer": 0,
+   "x": true,
+   "why": "A regret about the past is ojalá + pluperfect subjunctive. Ojalá never takes the conditional, and the indicative forms don't express a regret."
+  }
+ ],
+ "dialogue": {
+  "steps": [
+   {
+    "say": "Hola, soy Gabriela. Leí la historia de Mercedes y el libro de Borges que desapareció en la avenida Corrientes. ¿Sospechaste de alguien al principio?",
+    "en": "Hi, I'm Gabriela. I read the story of Mercedes and the Borges book that disappeared on Avenida Corrientes. Did you suspect anyone at first?",
+    "r": [
+     [
+      "Sí, al principio sospeché del coleccionista, porque quería el libro.",
+      "Yes, at first I suspected the collector, because he wanted the book.",
+      1
+     ],
+     [
+      "Pensé en Tobías, porque dijo que estaba en el sótano y que no había visto nada.",
+      "I thought of Tobías, because he said he was in the basement and hadn't seen anything.",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "Yo también dudé. Pero Tobías dijo que solo había oído la campanita una vez. ¿Qué pista te pareció más importante?",
+    "en": "I had doubts too. But Tobías said he had only heard the bell once. Which clue seemed most important to you?",
+    "r": [
+     [
+      "La lluvia. Olivia dijo que el hombre llevaba un paraguas mojado, pero Bernardo contó que había empezado a llover a las siete y diez.",
+      "The rain. Olivia said the man had a wet umbrella, but Bernardo said it had started raining at ten past seven.",
+      2
+     ],
+     [
+      "Que el abuelo supiera que el libro iba envuelto en un diario, aunque decía que estaba dormido.",
+      "That the grandfather knew the book was wrapped in a newspaper, even though he said he was asleep.",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "Muy bien visto. Al final, don Aníbal escondió el libro en el kiosco de Olivia. ¿Crees que hizo bien?",
+    "en": "Well spotted. In the end, Don Aníbal hid the book in Olivia's kiosk. Do you think he did the right thing?",
+    "r": [
+     [
+      "No del todo. Si hubiera hablado con su nieta, se habrían ahorrado mucho estrés.",
+      "Not entirely. If he had talked to his granddaughter, they would have saved themselves a lot of stress.",
+      3
+     ],
+     [
+      "Lo entiendo. Era un recuerdo de su esposa: aunque le hubieran ofrecido el triple, no lo habría vendido.",
+      "I understand him. It was a keepsake from his wife: even if they had offered him three times as much, he wouldn't have sold it.",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "Mercedes le había prometido el libro a Ugarte para pagar el alquiler. ¿Qué habrías hecho tú en su lugar?",
+    "en": "Mercedes had promised the book to Ugarte to pay the rent. What would you have done in her place?",
+    "r": [
+     [
+      "Le habría preguntado a mi abuelo antes de prometérselo a nadie.",
+      "I would have asked my grandfather before promising it to anyone.",
+      4
+     ],
+     [
+      "Habría buscado otra solución. Ojalá Mercedes hubiera sabido antes lo de la dedicatoria.",
+      "I would have looked for another solution. I wish Mercedes had known about the dedication sooner.",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "Y cuando Ugarte llegó el lunes con su maletín, ¿qué le dijo Mercedes?",
+    "en": "And when Ugarte arrived on Monday with his briefcase, what did Mercedes tell him?",
+    "r": [
+     [
+      "Le dijo que el libro ya no estaba a la venta, y él se fue furioso.",
+      "She told him the book was no longer for sale, and he left furious.",
+      5
+     ],
+     [
+      "Que ya no lo vendían. Y Tobías comentó que Ugarte contaría la historia en todas las librerías de Corrientes.",
+      "That they weren't selling it any more. And Tobías remarked that Ugarte would tell the story in every bookshop on Corrientes.",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "Y al final esa historia atrajo clientes. A veces un misterio sin resolver vale más que un libro caro. Gracias por la charla.",
+    "en": "And in the end that story brought in customers. Sometimes an unsolved mystery is worth more than an expensive book. Thanks for the chat.",
+    "end": true
+   }
+  ]
+ },
+ "notes": [
+  "No map edits for this story; the lines, vocab and comprehension quiz are unchanged. Only concepts.grammar and prompt were rewritten.",
+  "Token counts: Si + pluperfect subjunctive, conditional perfect 5; Reported speech with tense shifts 8 (the regex finds 9, including 'contó que había hecho repartos' in line 5); Ojalá and aunque + pluperfect subjunctive 4 (2 ojalá, 2 aunque), which is borderline but over 3.",
+  "The audit's bell-clue problem is still open and outside this brief: the grandfather crossing to the kiosk and back should ring the bell twice, yet the single ring is the deduction that proves nobody entered. The grammar card example and gq use the 'habría sonado dos veces' line as it stands.",
+  "The ojalá questions avoid ojalá + indicative options, so Rioplatense usage (ojalá + preterite) cannot make a second answer defensible. The reported-command question avoids 'que baje', which is common in Latin America after a past verb.",
+  "The dropped old topic 'Impersonal and passive se' (se dice, se vendería, no se venden) is no longer taught here, although the text still has several tokens of it."
+ ]
+}

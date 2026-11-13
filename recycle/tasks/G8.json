@@ -1,0 +1,811 @@
+{
+ "patches": [
+  {
+   "file": "stories",
+   "id": "b2-06",
+   "find": "Reconozco que entonces lo juzgué mal.",
+   "replace": "Reconozco que entonces lo juzgué mal, e incluso lo menosprecié un poco.",
+   "why": "recycle menospreciar (b2-03)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-06",
+   "find": "I admit I judged him wrongly back then.",
+   "replace": "I admit I judged him wrongly back then, and even looked down on him a little.",
+   "why": "EN for menospreciar"
+  },
+  {
+   "file": "stories",
+   "id": "b2-06",
+   "find": "Sospechaba que don Eusebio había olvidado el encargo y que, por orgullo, no quería admitirlo.",
+   "replace": "Sospechaba que don Eusebio se había olvidado del encargo y que, por orgullo, lo disimulaba.",
+   "why": "recycle olvidarse de (b1-08), disimular (b2-05)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-06",
+   "find": "I suspected that don Eusebio had forgotten the commission and, out of pride, did not want to admit it.",
+   "replace": "I suspected that don Eusebio had forgotten about the commission and, out of pride, was hiding it.",
+   "why": "EN"
+  },
+  {
+   "file": "stories",
+   "id": "b2-06",
+   "find": "con el sombrero en la mano. No gritó",
+   "replace": "con el sombrero en una mano temblorosa. No gritó",
+   "why": "recycle tembloroso (b2-04)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-06",
+   "find": "with his hat in his hand. He did not shout",
+   "replace": "with his hat in a trembling hand. He did not shout",
+   "why": "EN"
+  },
+  {
+   "file": "stories",
+   "id": "b2-06",
+   "find": "antes que aceptar que la dueña del reloj",
+   "replace": "antes que rendirse y aceptar que la dueña del reloj",
+   "why": "recycle rendirse (b1-04)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-06",
+   "find": "rather than accept that the owner",
+   "replace": "rather than give up and accept that the owner",
+   "why": "EN"
+  },
+  {
+   "file": "stories",
+   "id": "b2-06",
+   "find": "A la mañana siguiente le pedí perdón",
+   "replace": "A la mañana siguiente madrugué, le pedí perdón",
+   "why": "recycle madrugar (b1-09)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-06",
+   "find": "The next morning I apologized",
+   "replace": "The next morning I got up early, apologized",
+   "why": "EN"
+  },
+  {
+   "file": "stories",
+   "id": "b2-06",
+   "find": "y yo me quedé junto a la ventana, escuchando",
+   "replace": "y yo me quedé en mi rincón junto a la ventana, escuchando",
+   "why": "recycle rincón (b1-07)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-06",
+   "find": "and I stayed by the window, listening",
+   "replace": "and I stayed in my corner by the window, listening",
+   "why": "EN"
+  },
+  {
+   "file": "stories",
+   "id": "b2-06",
+   "find": "Entonces comprendí que había aprendido a escuchar",
+   "replace": "Entonces me di cuenta de que había aprendido a escuchar",
+   "why": "recycle darse cuenta de (b1-05); also a verb + preposition token"
+  },
+  {
+   "file": "stories",
+   "id": "b2-06",
+   "find": "Then I understood that I had learned to listen",
+   "replace": "Then I realized that I had learned to listen",
+   "why": "EN"
+  },
+  {
+   "file": "stories",
+   "id": "b2-06",
+   "find": "subjunctive in time clauses in a past narrative (cuando estuviera listo, mientras estuviera parado, hasta que pudiera soportar oírlo).",
+   "replace": "subjunctive in time clauses in a past narrative (cuando estuviera listo, mientras estuviera parado, hasta que pudiera soportar oírlo); verbs with a fixed preposition (depende de, pensar en, me atreví a, se negaba a).",
+   "why": "concepts: add new map2 topic"
+  },
+  {
+   "file": "stories",
+   "id": "b2-07",
+   "find": "todo el mundo tenía una respuesta y nadie aceptaba la de los demás.",
+   "replace": "todo el mundo tenía una respuesta y era demasiado testarudo para aceptar la de los demás.",
+   "why": "recycle testarudo (b2-06)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-07",
+   "find": "y en el mercado ya nadie recordaba por qué.",
+   "replace": "y en el mercado ya nadie recordaba el motivo de tanto rencor.",
+   "why": "recycle rencor (b1-06)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-07",
+   "find": "El resultado la dejó helada: nadie supo distinguirlos.",
+   "replace": "El resultado la desconcertó: nadie supo distinguirlos.",
+   "why": "recycle desconcertar (b2-06)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-07",
+   "find": "Paloma colgó con dolor de cabeza.",
+   "replace": "Paloma colgó abatida y con dolor de cabeza.",
+   "why": "recycle abatido (b2-06)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-07",
+   "find": "escondida detrás de unos <b>costales</b>",
+   "replace": "escondida en un rincón detrás de unos <b>costales</b>",
+   "why": "recycle rincón (b1-07)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-07",
+   "find": "que mejorara su pasta para ganarle al otro.",
+   "replace": "que mejorara el sabor de su pasta para ganarle al otro.",
+   "why": "recycle sabor (a2-04)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-07",
+   "find": "Don Abundio lo <b>enmarcó</b> en su fonda",
+   "replace": "Don Abundio lo <b>enmarcó</b> con esmero en su fonda",
+   "why": "recycle esmero (b2-06)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-08",
+   "find": "el relato que pensaba contar en la reunión:",
+   "replace": "el relato, lleno de rencor, que pensaba contar en la reunión:",
+   "why": "recycle rencor (b1-06)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-08",
+   "find": "y solo reservé el pasaje cuando comprendí que no ir",
+   "replace": "y solo reservé el pasaje cuando me di cuenta de que no ir",
+   "why": "recycle darse cuenta de (b1-05)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-08",
+   "find": "Por eso me sorprendió llegar al <b>mirador</b>",
+   "replace": "Por eso me desconcertó llegar al <b>mirador</b>",
+   "why": "recycle desconcertar (b2-06)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-08",
+   "find": "y todos me miraron con una sospecha que jamás",
+   "replace": "y todos me miraron con recelo, con una sospecha que jamás",
+   "why": "recycle recelo (b2-03)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-08",
+   "find": "Me quedé mirando el sobre sin saber qué sentir.",
+   "replace": "Me quedé mirando el sobre con un nudo en la garganta, sin saber qué sentir.",
+   "why": "recycle un nudo en la garganta (b1-07)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-08",
+   "find": "la de un chico orgulloso que se equivocó",
+   "replace": "la de un chico orgulloso y testarudo que se equivocó",
+   "why": "recycle testarudo (b2-06)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-08",
+   "find": "Esa noche, en la mesa de un bar del puerto, les conté",
+   "replace": "Esa noche, en la mesa de un bar del puerto, hicimos las paces y les conté",
+   "why": "recycle hacer las paces (b2-03)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-09",
+   "find": "como cualquier jubilado.",
+   "replace": "como cualquier jubilado achacoso.",
+   "why": "recycle achacoso (b2-06)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-09",
+   "find": "Efraín tragó saliva, se ajustó",
+   "replace": "Efraín se estremeció, tragó saliva, se ajustó",
+   "why": "recycle estremecerse (b2-06)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-09",
+   "find": "Era la primera mentira de su carrera, y le supo amarga.",
+   "replace": "Era la primera mentira de su carrera; le supo amarga y le dejó un desasosiego que no se le quitó en toda la noche.",
+   "why": "recycle desasosiego (b2-06)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-09",
+   "find": "y él inventó que un visitante",
+   "replace": "y él, para disimular, inventó que un visitante",
+   "why": "recycle disimular (b2-05)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-09",
+   "find": "con una delicadeza casi religiosa",
+   "replace": "con un esmero casi religioso",
+   "why": "recycle esmero (b2-06)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-09",
+   "find": "Efraín se quedó callado un buen rato.",
+   "replace": "Efraín se quedó callado un buen rato, desconcertado.",
+   "why": "recycle desconcertar (b2-06)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-09",
+   "find": "La doctora Aguirre, para sorpresa de ambos,",
+   "replace": "La doctora Aguirre, para alivio de ambos,",
+   "why": "recycle alivio (b2-08)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-10",
+   "find": "Me gusta mi oficio porque exige paciencia:",
+   "replace": "Me gusta mi oficio porque exige paciencia y esmero:",
+   "why": "recycle esmero (b2-06)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-10",
+   "find": "apareció algo que no esperaba:",
+   "replace": "apareció algo que me desconcertó:",
+   "why": "recycle desconcertar (b2-06)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-10",
+   "find": "Migdalia suspiró y me dio hasta el viernes.",
+   "replace": "Migdalia suspiró y me dio de plazo hasta el viernes.",
+   "why": "recycle plazo (b2-05)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-10",
+   "find": "no pude pensar en otra cosa.",
+   "replace": "no pude pensar en otra cosa mientras la guagua crujía en cada curva.",
+   "why": "recycle crujir (b2-09)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-10",
+   "find": "Pero mi madre exageraba mucho.",
+   "replace": "Pero mi madre era muy fantasiosa.",
+   "why": "recycle fantasioso (b2-09)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-10",
+   "find": "y sentí un escalofrío.",
+   "replace": "y me estremecí.",
+   "why": "recycle estremecerse (b2-06)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-10",
+   "find": "dijo por fin, con la voz rota",
+   "replace": "dijo por fin, con la voz entrecortada",
+   "why": "recycle entrecortarse (b2-09)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-10",
+   "find": "no puso ninguna objeción.",
+   "replace": "no puso ninguna objeción; al contrario, nos respaldó.",
+   "why": "recycle respaldar (b2-09)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-10",
+   "find": "Se paró delante del cartel, sacó",
+   "replace": "Se paró delante del cartel, conmovido, sacó",
+   "why": "recycle conmovido (b2-02)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-07",
+   "find": "everyone had an answer and nobody accepted anyone else’s.",
+   "replace": "everyone had an answer and was too stubborn to accept anyone else’s.",
+   "why": "EN"
+  },
+  {
+   "file": "stories",
+   "id": "b2-07",
+   "find": "and nobody at the market remembered why anymore.",
+   "replace": "and nobody at the market remembered the reason for so much resentment anymore.",
+   "why": "EN"
+  },
+  {
+   "file": "stories",
+   "id": "b2-07",
+   "find": "The result stunned her: nobody could tell them apart.",
+   "replace": "The result baffled her: nobody could tell them apart.",
+   "why": "EN"
+  },
+  {
+   "file": "stories",
+   "id": "b2-07",
+   "find": "Paloma hung up with a headache.",
+   "replace": "Paloma hung up, downcast and with a headache.",
+   "why": "EN"
+  },
+  {
+   "file": "stories",
+   "id": "b2-07",
+   "find": "hidden behind some sacks",
+   "replace": "hidden in a corner behind some sacks",
+   "why": "EN"
+  },
+  {
+   "file": "stories",
+   "id": "b2-07",
+   "find": "to improve their paste so",
+   "replace": "to improve the flavor of their paste so",
+   "why": "EN"
+  },
+  {
+   "file": "stories",
+   "id": "b2-07",
+   "find": "Don Abundio framed it in his eatery",
+   "replace": "Don Abundio framed it with great care in his eatery",
+   "why": "EN"
+  },
+  {
+   "file": "stories",
+   "id": "b2-08",
+   "find": "I had perfectly rehearsed the story I planned to tell at the reunion:",
+   "replace": "I had perfectly rehearsed the story, full of resentment, that I planned to tell at the reunion:",
+   "why": "EN"
+  },
+  {
+   "file": "stories",
+   "id": "b2-08",
+   "find": "That is why I was surprised to reach the lookout",
+   "replace": "That is why it baffled me to reach the lookout",
+   "why": "EN"
+  },
+  {
+   "file": "stories",
+   "id": "b2-08",
+   "find": "and everyone looked at me with a suspicion they never dared",
+   "replace": "and everyone looked at me warily, with a suspicion they never dared",
+   "why": "EN"
+  },
+  {
+   "file": "stories",
+   "id": "b2-08",
+   "find": "I stood looking at the envelope without knowing what to feel.",
+   "replace": "I stood looking at the envelope with a lump in my throat, without knowing what to feel.",
+   "why": "EN"
+  },
+  {
+   "file": "stories",
+   "id": "b2-08",
+   "find": "that of a proud boy who picked",
+   "replace": "that of a proud, stubborn boy who picked",
+   "why": "EN"
+  },
+  {
+   "file": "stories",
+   "id": "b2-08",
+   "find": "That night, at a table in a bar by the port, I told them",
+   "replace": "That night, at a table in a bar by the port, we made peace and I told them",
+   "why": "EN"
+  },
+  {
+   "file": "stories",
+   "id": "b2-09",
+   "find": "like any retiree.",
+   "replace": "like any ailing retiree.",
+   "why": "EN"
+  },
+  {
+   "file": "stories",
+   "id": "b2-09",
+   "find": "Efraín swallowed, adjusted",
+   "replace": "Efraín shuddered, swallowed, adjusted",
+   "why": "EN"
+  },
+  {
+   "file": "stories",
+   "id": "b2-09",
+   "find": "It was the first lie of his career, and it tasted bitter.",
+   "replace": "It was the first lie of his career; it tasted bitter and left him with an unease that did not go away all night.",
+   "why": "EN"
+  },
+  {
+   "file": "stories",
+   "id": "b2-09",
+   "find": "and he made up that a visitor",
+   "replace": "and he, to cover up, made up that a visitor",
+   "why": "EN"
+  },
+  {
+   "file": "stories",
+   "id": "b2-09",
+   "find": "with an almost religious delicacy",
+   "replace": "with almost religious care",
+   "why": "EN"
+  },
+  {
+   "file": "stories",
+   "id": "b2-09",
+   "find": "Efraín stayed silent for a good while.",
+   "replace": "Efraín stayed silent for a good while, baffled.",
+   "why": "EN"
+  },
+  {
+   "file": "stories",
+   "id": "b2-09",
+   "find": "Dr. Aguirre, to the surprise of both,",
+   "replace": "Dr. Aguirre, to the relief of both,",
+   "why": "EN"
+  },
+  {
+   "file": "stories",
+   "id": "b2-10",
+   "find": "because it demands patience:",
+   "replace": "because it demands patience and great care:",
+   "why": "EN"
+  },
+  {
+   "file": "stories",
+   "id": "b2-10",
+   "find": "something appeared that I wasn't expecting:",
+   "replace": "something appeared that baffled me:",
+   "why": "EN"
+  },
+  {
+   "file": "stories",
+   "id": "b2-10",
+   "find": "Migdalia sighed and gave me until Friday.",
+   "replace": "Migdalia sighed and gave me a deadline of Friday.",
+   "why": "EN"
+  },
+  {
+   "file": "stories",
+   "id": "b2-10",
+   "find": "I couldn't think about anything else.",
+   "replace": "I couldn't think about anything else while the bus creaked at every bend.",
+   "why": "EN"
+  },
+  {
+   "file": "stories",
+   "id": "b2-10",
+   "find": "But my mother exaggerated a lot.",
+   "replace": "But my mother was very fanciful.",
+   "why": "EN"
+  },
+  {
+   "file": "stories",
+   "id": "b2-10",
+   "find": "and felt a shiver.",
+   "replace": "and shuddered.",
+   "why": "EN"
+  },
+  {
+   "file": "stories",
+   "id": "b2-10",
+   "find": "When Migdalia found out, she raised no objection.",
+   "replace": "When Migdalia found out, she raised no objection; on the contrary, she backed us.",
+   "why": "EN"
+  },
+  {
+   "file": "stories",
+   "id": "b2-10",
+   "find": "He stopped in front of the poster, took",
+   "replace": "He stopped in front of the poster, moved, took",
+   "why": "EN"
+  }
+ ],
+ "grammar_replace": {
+  "b2-06": [
+   {
+    "topic": "Estar + participle: resulting state",
+    "explain": "Estar + participle describes the state left by an earlier action; the participle works like an adjective and agrees with the noun: el reloj estaba parado, la tapa está abierta. Ser + participle (b2-03) presents the action itself: el reloj fue reparado. Ask: am I describing how something is, or what was done to it? Regional note: descompuesto is Mexican for 'out of order'; Spain says estropeado. Watch out: English 'was broken' can be either; for the state, *era roto and *fue roto are wrong: estaba roto.",
+    "examples": [
+     [
+      "Estaba parado a las cuatro y diez.",
+      "It had stopped at ten past four."
+     ],
+     [
+      "Ese no está en venta, ni está roto, ni es asunto tuyo.",
+      "That one is not for sale, it is not broken, and it is none of your business."
+     ],
+     [
+      "Pensé que estaba descompuesto.",
+      "I thought it was out of order."
+     ],
+     [
+      "La tapa fue abierta con una cuchilla; cuando volvió el maestro, todavía estaba abierta.",
+      "The lid was opened with a blade; when the master came back, it was still open."
+     ]
+    ]
+   },
+   {
+    "topic": "Reported speech with tense shifts",
+    "explain": "Reported speech returns from b2-05, now with thoughts and requests. After a past reporting verb, tenses move back: present → imperfect, preterite → pluperfect (speech often keeps the preterite), future → conditional. Thoughts too: me dije que solo lo miraría. Requests with pedir, rogar or decir take que + imperfect subjunctive: «No vengas» → me pidió que no viniera. Watch out: decir que + indicative reports information (me dijo que venía); + subjunctive, an order (me dijo que viniera 'she told me to come').",
+    "examples": [
+     [
+      "Advirtió que no me enseñaría a reparar relojes, sino a escucharlos.",
+      "He warned me that he would not teach me to repair watches, only to listen to them."
+     ],
+     [
+      "Me dije que solo lo miraría.",
+      "I told myself I would only look."
+     ],
+     [
+      "Dijo que su abuela, Salomé, había fallecido en primavera.",
+      "She said her grandmother, Salomé, had died in the spring."
+     ],
+     [
+      "Me pidió que no viniera hasta que ella ya no pudiera venir.",
+      "She asked me not to come until she could no longer come herself."
+     ]
+    ]
+   },
+   {
+    "topic": "Subjunctive in time clauses: cuando, hasta que, mientras",
+    "explain": "Cuando, hasta que and mientras take the subjunctive when the event is still pending from the viewpoint of the main clause. In a past narrative that viewpoint is past, so use the imperfect subjunctive: volvería cuando estuviera listo. For facts and habits, use the indicative: cuando regresó, el taller estaba lleno. Mientras + indicative means 'while'; + subjunctive, 'as long as'. Watch out: English says 'when it was ready', so learners write *cuando estaba listo, or a conditional (*cuando estaría listo), for a pending event.",
+    "examples": [
+     [
+      "Quien lo dejó prometió que volvería a buscarlo cuando estuviera listo.",
+      "The person who left it promised to come back for it when it was ready."
+     ],
+     [
+      "Mientras ese reloj estuviera parado, ella tendría un motivo para volver.",
+      "As long as that watch was stopped, she would have a reason to return."
+     ],
+     [
+      "Me rogó que no lo pusiera en marcha hasta que pudiera soportar oírlo.",
+      "She begged me not to set it going until she could bear to hear it."
+     ],
+     [
+      "Cuando regresó, el taller estaba lleno de aquel latido.",
+      "When he came back, the workshop was full of that heartbeat."
+     ]
+    ]
+   },
+   {
+    "topic": "Verb + preposition: depender de, pensar en",
+    "explain": "Many Spanish verbs take a fixed preposition before a noun, a clause or an infinitive, and it is often not the one English uses: depender de 'depend on', pensar en 'think about', atreverse a 'dare to', negarse a 'refuse to', hablar de 'talk about', preguntar por 'ask about'. The preposition stays even before a question word: depende de a quién le preguntes. De + el contracts to del: hablaba del reloj. Learn each verb together with its preposition. Watch out: *depende en copies English 'depends on'; and pensar en (have someone on your mind) is not pensar de (have an opinion of): ¿qué piensas de él?",
+    "examples": [
+     [
+      "Eso depende de a quién le preguntes.",
+      "That depends on whom you ask."
+     ],
+     [
+      "Aquella respuesta me desconcertó, y durante semanas no pude dejar de pensar en ella.",
+      "That answer baffled me, and for weeks I could not stop thinking about it."
+     ],
+     [
+      "lo había terminado hacía mucho tiempo, y simplemente se negaba a ponerlo en marcha.",
+      "He had finished it long ago, and he simply refused to set it going."
+     ]
+    ]
+   }
+  ]
+ },
+ "gq_replace": {
+  "b2-06": [
+   {
+    "topic": "Estar + participle: resulting state",
+    "q": "Complete: «Cuando la aprendiz abrió el cajón, el reloj todavía ___ parado a las cuatro y diez.»",
+    "options": [
+     "era",
+     "fue",
+     "estaba",
+     "estuvo"
+    ],
+    "answer": 2,
+    "why": "The watch is in a state that resulted from stopping, so estar + participle; todavía and the background description call for the imperfect: estaba."
+   },
+   {
+    "topic": "Reported speech with tense shifts",
+    "q": "The apprentice thought: «No haré nada irreparable.» Complete the report: «Me dije que no ___ nada irreparable.»",
+    "options": [
+     "haría",
+     "haré",
+     "hiciera",
+     "hice"
+    ],
+    "answer": 0,
+    "why": "A future seen from a past reporting verb becomes the conditional: haré → haría. Hiciera would turn a statement into a request."
+   },
+   {
+    "topic": "Subjunctive in time clauses: cuando, hasta que, mientras",
+    "q": "Complete: «Don Eusebio decidió que no tocaría el reloj hasta que la dueña ___.»",
+    "options": [
+     "volvería",
+     "volviera",
+     "volvía",
+     "volvió"
+    ],
+    "answer": 1,
+    "why": "Her return is still pending from the past viewpoint (decidió, tocaría), so hasta que takes the imperfect subjunctive. A conditional never follows hasta que."
+   },
+   {
+    "topic": "Verb + preposition: depender de, pensar en",
+    "q": "Complete: «Una mañana de lluvia me atreví ___ preguntarle por el reloj, pero él se negaba ___ hablar de él.»",
+    "options": [
+     "a / a",
+     "de / en",
+     "en / de",
+     "a / de"
+    ],
+    "answer": 0,
+    "why": "Both verbs take a before an infinitive: atreverse a (dare to) and negarse a (refuse to). The preposition belongs to the verb, so learn them as a unit."
+   },
+   {
+    "topic": "Estar + participle: resulting state",
+    "q": "Rewrite as the resulting state: «Alguien cerró el cajón con llave.» → «El cajón ___ con llave.»",
+    "options": [
+     "era cerrado",
+     "fue cerrado",
+     "estaba cerrada",
+     "estaba cerrado"
+    ],
+    "answer": 3,
+    "why": "State = estar + participle agreeing with el cajón: estaba cerrado. Fue cerrado describes the action, not the state.",
+    "x": true
+   },
+   {
+    "topic": "Subjunctive in time clauses: cuando, hasta que, mientras",
+    "q": "Choose the pair: «Mientras el maestro ___ en el entierro, abrí el cajón.» / «Mientras el reloj ___ parado (as long as), ella tendría un motivo para volver.»",
+    "options": [
+     "estuviera / estaba",
+     "estaba / estaba",
+     "estuviera / estuviera",
+     "estaba / estuviera"
+    ],
+    "answer": 3,
+    "why": "First: a real past fact, mientras = 'while', indicative estaba. Second: a condition, mientras = 'as long as', imperfect subjunctive estuviera.",
+    "x": true
+   },
+   {
+    "topic": "Reported speech with tense shifts",
+    "q": "Salomé told the watchmaker: «Volveré cuando pueda oírlo.» Which sentence reports her promise correctly?",
+    "options": [
+     "Le dijo que volvería cuando pudiera oírlo.",
+     "Le dijo que volvería cuando podía oírlo.",
+     "Le dijo que volvería cuando podría oírlo.",
+     "Le dijo que volviera cuando pudiera oírlo."
+    ],
+    "answer": 0,
+    "why": "Volveré → volvería; cuando pueda → cuando pudiera. Volviera would turn her promise into an order to him.",
+    "x": true
+   },
+   {
+    "topic": "Verb + preposition: depender de, pensar en",
+    "q": "Which sentence is correct?",
+    "options": [
+     "Eso depende en a quién le preguntes.",
+     "Eso depende de a quién le preguntes.",
+     "Eso depende sobre a quién le preguntes.",
+     "Eso depende por a quién le preguntes."
+    ],
+    "answer": 1,
+    "why": "Depender always takes de, even before a question word: depende de a quién le preguntes. *Depende en copies English 'depends on'.",
+    "x": true
+   }
+  ]
+ },
+ "categories_add": {
+  "Verb + preposition: depender de, pensar en": "Verb phrases & near future"
+ },
+ "dict_add": {
+  "disimulaba": [
+   [
+    "disimular",
+    "verb",
+    "to hide, to disguise"
+   ]
+  ],
+  "madrugué": [
+   [
+    "madrugar",
+    "verb",
+    "to get up early"
+   ]
+  ],
+  "menosprecié": [
+   [
+    "menospreciar",
+    "verb",
+    "to look down on, to belittle"
+   ]
+  ],
+  "abatida": [
+   [
+    "abatido",
+    "adj",
+    "dejected, downcast"
+   ]
+  ],
+  "hicimos": [
+   [
+    "hacer",
+    "verb",
+    "to make, to do"
+   ]
+  ],
+  "desconcertado": [
+   [
+    "desconcertar",
+    "verb",
+    "to baffle"
+   ]
+  ],
+  "estremeció": [
+   [
+    "estremecerse",
+    "verb",
+    "to shudder, to tremble"
+   ]
+  ],
+  "religioso": [
+   [
+    "religioso",
+    "adj",
+    "religious"
+   ]
+  ],
+  "curva": [
+   [
+    "la curva",
+    "noun",
+    "bend, curve"
+   ]
+  ],
+  "fantasiosa": [
+   [
+    "fantasioso",
+    "adj",
+    "imaginative, fanciful"
+   ]
+  ],
+  "respaldó": [
+   [
+    "respaldar",
+    "verb",
+    "to back, to support"
+   ]
+  ],
+  "curioso": [
+   [
+    "curioso",
+    "adj",
+    "curious, odd"
+   ]
+  ],
+  "importaría": [
+   [
+    "importar",
+    "verb",
+    "to matter"
+   ]
+  ],
+  "enseñarte": [
+   [
+    "enseñar",
+    "verb",
+    "to teach, to show"
+   ]
+  ]
+ },
+ "notes": "G8 (b2-06..b2-10). (A) Only b2-06 changes per map2: new card 'Verb + preposition: depender de, pensar en' (family Verb phrases & near future, added to categories_add) with 3 verbatim examples; other 3 b2-06 cards and all b2-07..b2-10 cards kept unchanged (map2 all keep, no edits, no drops). b2-06 quiz: core = estar+participle, reported speech (haría), hasta que + subj, NEW atreverse a/negarse a; extras = estado 'cajón cerrado', mientras pair (moved from core, now x:true), Salomé reported promise, NEW depende de. Dropped old extras 'Me dijo que viniera' and the error-spotting time-clause item. New questions use 4 options to match every existing gq item on the site (all 320 have 4), not 3. b2-06 concepts.grammar patched to mention the new topic. No dialogue changes needed (no topic removed; dialogue lines are paraphrases, not quotes). (B) Recycled words are NOT wrapped in <b>: site convention is <b> = this story's own vocab list (bold count == vocab count per story), recycled words resolve via dict lookup; so <b> counts unchanged. EN translations patched alongside each ES change. Recycled: b2-06 menospreciar, olvidarse de, disimular, tembloroso, rendirse, madrugar, rincón, darse cuenta de (8); b2-07 testarudo, rencor, desconcertar, abatido, rincón, sabor, esmero (7); b2-08 rencor, darse cuenta de, desconcertar, recelo, nudo en la garganta, testarudo, hacer las paces (7); b2-09 achacoso, estremecerse, desasosiego, disimular, esmero, desconcertar, alivio (7); b2-10 esmero, desconcertar, plazo, crujir, fantasioso, estremecerse, entrecortarse, respaldar, conmovido (9). No grammar example, quiz answer, dialogue or scene object touched. Pre-existing: several cards' 4th examples are invented (not in story) by design, and some kept examples differ from the text only in capitalisation/final punctuation; left as is. dict_add also covers 3 pre-existing missing forms (curioso, importaría, enseñarte)."
+}

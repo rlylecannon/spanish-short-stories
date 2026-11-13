@@ -1,0 +1,724 @@
+{
+ "c1-01": [
+  {
+   "topic": "Impersonal se with people vs pasiva refleja",
+   "explain": "With things, se + verb works as a passive and the verb agrees with the noun: se cargaron dos neveras (two boxes were loaded). With people, Spanish adds personal a and the verb stays singular, because the people are the object, not the subject: se citó a los estibadores, no se sancionará a nadie. This impersonal se suits reports, where who did it doesn't matter. Ser + participle (el zarpe fue suspendido, la carga fue recibida) sounds even more official and can name an agent with por. English uses 'were questioned' for all three. Watch out: *se citaron a los estibadores mixes the two patterns, and se interrogaron los estibadores would mean they questioned each other.",
+   "examples": [
+    [
+     "se cargaron dos neveras portátiles en la bodega del ferry",
+     "two portable cold boxes were loaded into the ferry’s hold"
+    ],
+    [
+     "se citó a los estibadores del turno de mediodía y se les interrogó uno por uno, pero no se encontró a nadie que recordara haber visto las neveras dentro del ferry",
+     "the stevedores from the midday shift were called in and questioned one by one, but nobody could be found who remembered seeing the cold boxes on board the ferry"
+    ],
+    [
+     "no se sancionará a nadie por el traslado; se amonestará por escrito al capitán",
+     "no one will be disciplined for the transfer; the captain will receive a written warning"
+    ]
+   ]
+  },
+  {
+   "topic": "Conditions without si: de + infinitive, de no ser por",
+   "explain": "Formal and literary Spanish can replace a si-clause with de + infinitive. For a past counterfactual use the compound infinitive: De haber esperado al ferry = Si hubiéramos esperado al ferry, followed by the conditional perfect (se habría echado a perder). De no ser por + noun means 'if it weren't / hadn't been for': De no ser por ese señor. At B2 you built the full si + pluperfect subjunctive; this compact version is typical of reports and careful speech. The subject is understood from context, so keep it clear. Watch out: de esperar al ferry (simple infinitive) points to the present or future; for the past you need de haber + participle, never *de haber esperando.",
+   "examples": [
+    [
+     "De haber esperado al ferry, la insulina se habría echado a perder",
+     "If we’d waited for the ferry, the insulin would have spoiled"
+    ],
+    [
+     "De no ser por ese señor, nos habríamos quedado sin vacunas para la jornada de las escuelas de mañana",
+     "If it hadn’t been for that man, we’d have been left without vaccines for tomorrow’s school vaccination day"
+    ],
+    [
+     "De haber leído aquella línea con calma el viernes, se habría ahorrado un día entero de sospechas",
+     "Had she read that line calmly on Friday, she would have spared herself a whole day of suspicion"
+    ]
+   ]
+  },
+  {
+   "topic": "Reporting verbs: negar haber, alegar, admitir",
+   "explain": "Reports need precise verbs instead of decir. Negar and admitir take an infinitive when the subject is the same, and the compound infinitive for earlier actions: negó haber perdido nada, admitió haber mandado las cajas. Alegar que (to claim, often to justify oneself) and asegurar que take the indicative, with the usual tense shifts: alegó que el manifiesto se había firmado. Advertir de que warns; exigir que demands and needs the subjunctive: exigió que se sancionara. English 'denied losing' uses -ing; Spanish never uses a gerund here. Watch out: *negó de haber perdido and *admitió que haber are wrong; and negar que takes the subjunctive (negó que las hubiera perdido).",
+   "examples": [
+    [
+     "negó haber perdido nada",
+     "denied having lost anything"
+    ],
+    [
+     "El capitán Batista alegó que el manifiesto se había firmado antes de la carga",
+     "Captain Batista claimed that the manifest had been signed before loading"
+    ],
+    [
+     "Lionel admitió haber mandado las cajas por su cuenta",
+     "Lionel admitted having sent the boxes on his own initiative"
+    ]
+   ]
+  },
+  {
+   "topic": "Idioms and sayings in dialogue",
+   "explain": "Sayings and fixed expressions carry a speaker's attitude as much as their meaning. Lionel uses aquí el juega vivo sale caro (Panama: cutting corners costs you dearly) as a warning that is also a defence of himself. Dar mucho que hablar ('to get people talking') hints at gossip and scandal, and tirar la toalla means to give up. No hay mal que por bien no venga ('every cloud has a silver lining') consoles and closes a conflict. Learn them whole: the words are fixed, and changing them sounds foreign. Watch out: don't translate English sayings word for word; *cada nube tiene un forro de plata means nothing in Spanish.",
+   "examples": [
+    [
+     "aquí el juega vivo sale caro",
+     "around here cutting corners costs you dearly"
+    ],
+    [
+     "Ese informe va a dar mucho que hablar",
+     "That report is going to get everyone talking"
+    ],
+    [
+     "No hay mal que por bien no venga, mija",
+     "Every cloud has a silver lining, mija"
+    ]
+   ]
+  }
+ ],
+ "c1-02": [
+  {
+   "topic": "Cause and consequence: de ahí que, no porque… sino porque",
+   "explain": "De ahí que ('hence', 'which is why') introduces a consequence of something already stated, and it takes the subjunctive because the consequence is presented as known, not as news: de ahí que nadie entendiera. Compare por eso, which takes the indicative. To reject a cause and give the real one, use no porque + subjunctive… sino porque + indicative: the false cause is denied, so it goes in the subjunctive; the real one is asserted. English uses 'not because… but because' with the same verb form both times. Watch out: *de ahí que nadie entendía and *no porque era malo, sino porque… are common learner errors.",
+   "examples": [
+    [
+     "de ahí que nadie, o casi nadie, entendiera cómo había desaparecido el queso",
+     "which is why nobody, or almost nobody, could understand how the cheese had disappeared"
+    ],
+    [
+     "de ahí que Nieves hablara primero de descalificación",
+     "which is why Nieves first spoke of disqualification"
+    ],
+    [
+     "no fue porque quisieran cerrarle la puerta a un forastero, sino porque no querían dejarme en evidencia",
+     "it wasn’t because they wanted to shut the door on an outsider, but because they didn’t want to show me up"
+    ]
+   ]
+  },
+  {
+   "topic": "Formal relatives: el cual, lo cual",
+   "explain": "El cual / la cual / los cuales / las cuales agree with the noun they refer to and are preferred after longer or compound prepositions: desde el cual, a raíz de la cual, de la cual. At B2 you used en el que and cuyo; el cual is more formal and typical of written prose. Lo cual is neuter and refers to a whole idea, not a single noun: Yurena no se presentó, lo cual levantó sospechas. English uses 'which' for both. Watch out: after a comma, la cual would point to a feminine noun, so *Contó lo de las cabras, la cual provocó un silencio is wrong; you need lo cual. Never use el cual without a preposition to start a defining clause.",
+   "examples": [
+    [
+     "desde el cual se veía todo el barranco",
+     "from which you could see the whole ravine"
+    ],
+    [
+     "lo cual explicaba que hasta los niños del pueblo se hubieran reído de mí",
+     "which explained why even the village children had laughed at me"
+    ],
+    [
+     "a raíz de la cual, según me contaron después, en el bar no se habló de otra cosa durante un mes",
+     "as a result of which, so I was told later, the bar talked of nothing else for a month"
+    ]
+   ]
+  },
+  {
+   "topic": "Pseudo-clefts: lo que pasó fue que",
+   "explain": "A pseudo-cleft puts the known part first with lo que / lo único que / quien and keeps the new, important information for the end, after ser: Lo único que le pido es que alguien me traduzca ese silbido. It is like English 'What I want is…' or 'All I'm asking is…'. At B2 you used clefts such as fue X quien; pseudo-clefts are common in argument and narration to build suspense. Ser normally matches the tense of the other verb (Lo que nadie me había dicho era…), and with a plural noun after it, ser agrees with that noun: Lo que me molesta son los silencios. Watch out: don't drop ser (*Lo que pido que me lo traduzca).",
+   "examples": [
+    [
+     "Lo que nadie me había dicho cuando acepté formar parte del jurado era que en La Gomera el paisaje también escucha",
+     "What nobody had told me when I agreed to sit on the jury was that on La Gomera the landscape listens too"
+    ],
+    [
+     "Lo único que le pido es que alguien me traduzca ese silbido",
+     "All I’m asking is for someone to translate that whistle for me"
+    ],
+    [
+     "Lo que yo había tomado por un código secreto era, en realidad, una gramática",
+     "What I had taken for a secret code was, in fact, a grammar"
+    ]
+   ]
+  },
+  {
+   "topic": "Idioms and sayings in dialogue",
+   "explain": "Islanders use sayings to say things indirectly. Pueblo chico, infierno grande ('small town, big hell') warns that everyone knows everyone's business, so it explains their silence. A buen entendedor, pocas palabras bastan ('a word to the wise') tells the listener to work it out himself. Dar gato por liebre means passing off something inferior or different as the real thing, and no dar su brazo a torcer means refusing to back down. Notice how speakers adapt them (aquí ni palabras hacen falta) for irony. Watch out: keep the fixed word order and articles; *dar un gato por una liebre sounds odd, and these sayings are informal, not for a report.",
+   "examples": [
+    [
+     "Pueblo chico, infierno grande, mi niño",
+     "Small town, big hell, my boy"
+    ],
+    [
+     "a buen entendedor, pocas palabras bastan",
+     "a word to the wise is enough"
+    ],
+    [
+     "Aquí nadie da gato por liebre, y yo casi lo hago",
+     "Nobody here passes off one thing for another, and I nearly did"
+    ]
+   ]
+  }
+ ],
+ "c1-03": [
+  {
+   "topic": "Present perfect subjunctive: haya + participle",
+   "explain": "Use haya + participle (haya llevado, hayas venido, hayan pesado) when the trigger needs the subjunctive (doubt, feelings, ojalá, cuando for the future) and the event is already over or will be over first. No creo que se haya llevado = I don't believe he has taken; me alegra que hayas venido = I'm glad you've come. With cuando it marks an action completed before another future one: cuando hayan pesado el último saco, me llaman. English uses a plain present perfect or present ('when you've weighed'), so learners write *cuando han pesado or *no creo que se ha llevado. After a present trigger, the indicative he/has/ha + participle becomes haya/hayas/haya + participle; the participle never changes.",
+   "examples": [
+    [
+     "No creo que Yonaiker se haya llevado ni un grano.",
+     "I don't believe Yonaiker has taken a single bean."
+    ],
+    [
+     "Me alegra que hayas venido para San Juan, mija",
+     "I'm glad you've come for San Juan, girl"
+    ],
+    [
+     "Cuando hayan pesado el último saco, me llaman",
+     "When you've weighed the last sack, call me"
+    ]
+   ]
+  },
+  {
+   "topic": "Future perfect: completion and conjecture",
+   "explain": "The future perfect (habré, habrás, habrá… + participle) does two jobs. First, completion before a future point: para el 25 el contenedor ya habrá salido = by the 25th it will have left. Second, a guess about the recent past: ¿quién se habrá llevado…? = who can have taken…?, ya habrá prendido el fogón = he'll have lit the fire by now (I suppose). The second use has no will in the meaning, which surprises English speakers; it is the past version of the conjectural future (¿dónde estará?). B2 gave you the conditional perfect (habría + participle) for things that did not happen; don't mix them up: ¿quién se habría llevado…? is not wrong, but it places the guess further back (before another past moment) or sounds hypothetical.",
+   "examples": [
+    [
+     "Para el 25, el contenedor ya habrá salido de La Guaira",
+     "By the 25th the container will have left La Guaira"
+    ],
+    [
+     "¿Quién se habrá llevado trescientos kilos de cacao en una noche?",
+     "Who on earth could have taken three hundred kilos of cacao in one night?"
+    ],
+    [
+     "A estas horas el tío ya habrá prendido el fogón",
+     "By now Uncle will have lit the wood fire"
+    ]
+   ]
+  },
+  {
+   "topic": "Venir and andar + gerund",
+   "explain": "Venir + gerund presents a process that started in the past and has been building up to the moment of speaking, often with desde: viene fermentando cacao desde antes de que tú nacieras; in the past, venía preparando ese lote desde enero. It adds a sense of steady accumulation that estar + gerund lacks. Andar + gerund describes an activity repeated here and there, often with disapproval: andan diciendo que fue Yonaiker = people are going around saying. English 'have been doing' is usually rendered by llevar + gerund (B2) or venir + gerund; a common slip is to use ir + gerund (van diciendo), which stresses gradual progress ('saying things one after another') rather than the disapproving 'here and there' of andar.",
+   "examples": [
+    [
+     "La cooperativa venía preparando ese lote desde enero",
+     "The cooperative had been preparing that lot since January"
+    ],
+    [
+     "Críspulo viene fermentando cacao en esas mismas cajas desde antes de que tú nacieras",
+     "Críspulo has been fermenting cacao in those very boxes since before you were born"
+    ],
+    [
+     "Andan diciendo que fue Yonaiker Ascanio",
+     "People are going around saying it was Yonaiker Ascanio"
+    ]
+   ]
+  },
+  {
+   "topic": "Compound infinitive and gerund: tras haber, habiendo",
+   "explain": "Haber + participle can be used without a conjugated verb to show that one action came before another: tras haber revisado (after having reviewed), por no haber informado (for not having informed), and the gerund habiendo hablado (having spoken). The subject is the same as the main verb's. These forms are typical of formal writing such as business emails and reports; in speech you would more often say después de revisar or como ya he hablado. English allows 'after reviewing', and Spanish also allows tras revisar, but the compound form stresses that the first action is finished. A common error is to conjugate haber: *tras he revisado, *por no he informado. After a preposition Spanish always uses the infinitive, never a gerund: *después de habiendo hablado.",
+   "examples": [
+    [
+     "Tras haber revisado el inventario, constatamos una diferencia de peso de 300 kilos respecto del lote contratado.",
+     "Having reviewed the inventory, we have found a weight discrepancy of 300 kilos with respect to the contracted lot."
+    ],
+    [
+     "Habiendo hablado con el fermentador, puedo confirmar que no hubo robo",
+     "Having spoken with the fermenter, I can confirm that there was no theft"
+    ],
+    [
+     "Le pido disculpas por no haber informado antes",
+     "I apologize for not having informed you sooner"
+    ]
+   ]
+  }
+ ],
+ "c1-04": [
+  {
+   "topic": "Concessives beyond aunque: si bien, aun cuando, por más que",
+   "explain": "Beyond aunque, formal Spanish concedes a point with si bien (+ indicative, used in writing and careful speech: si bien sus números eran correctos), a pesar de que (indicative for a known fact, subjunctive for a possibility), aun cuando (= even if/even though; with the subjunctive for something that may happen: aun cuando cierren el estero) and por más que (however much: por más que insista). Por más que takes the subjunctive when the insisting is hypothetical or not the point, the indicative when it is a fact you are reporting. The common error is to put the subjunctive after si bien (*si bien sean correctos): si bien always presents the concession as true.",
+   "examples": [
+    [
+     "Si bien comprar concha bajo la talla estaba prohibido, la plata llegaba entera",
+     "Although buying undersized cockles was forbidden, the money arrived in full"
+    ],
+    [
+     "Aun cuando cierren el estero, pensó, si el problema no son ellas, las conchas no van a crecer más rápido.",
+     "Even if they close the estuary, he thought, if the women aren't the problem, the cockles won't grow any faster."
+    ],
+    [
+     "Por más que insista don Leonidas, aquí no se vende concha sin medir.",
+     "However much don Leonidas insists, nobody here sells unmeasured cockles."
+    ]
+   ]
+  },
+  {
+   "topic": "Cause and consequence: de ahí que, no porque… sino porque",
+   "explain": "To reject one cause and give the real one, Spanish uses no porque + subjunctive… sino porque + indicative: no es porque saquemos de más, sino porque el estero ya no respira. The rejected cause takes the subjunctive because it is denied; the real cause stays in the indicative. De ahí que (hence, that is why) introduces a consequence of something already stated and takes the subjunctive, because the consequence is presented as known rather than as new information: de ahí que las conchas crecieran más despacio. English 'that's why' takes no special mood, so learners write *de ahí que las conchas crecían. Also avoid *no porque… pero porque: after a negative, 'but' is sino.",
+   "examples": [
+    [
+     "No es porque saquemos de más, sino porque el estero ya no respira.",
+     "It's not because we take too many, it's because the estuary can't breathe any more."
+    ],
+    [
+     "De ahí que las conchas crecieran más despacio en Guarapo que en los esteros vecinos.",
+     "That was why the cockles grew more slowly in Guarapo than in the neighbouring estuaries."
+    ],
+    [
+     "De ahí que se recomiende un esquema de rotación entre esteros en lugar de un cierre indefinido",
+     "Hence the recommendation of a rotation scheme among estuaries instead of an indefinite closure"
+    ]
+   ]
+  },
+  {
+   "topic": "Register shifts: tú, usted and vos",
+   "explain": "One speaker can use three forms of address in a day. Usted (with third-person verbs: ¿usted me deja…?) shows respect to elders and officials; tú goes to colleagues and friends in most of Latin America; and vos, in parts of the Pacific coast of Ecuador and Colombia, Central America and the River Plate, marks close friendship, with its own verb forms (vos sabés, querés, no me vengás). Switching is meaningful: Leonidas uses tú to Wilmer to claim a closeness he hasn't earned, and Wilmer answers in a pointed usted to keep his distance. The most common learner error is mixing forms inside one sentence (*usted sabes, *vos sabe): pronoun, verb and possessives must match.",
+   "examples": [
+    [
+     "¿Usted me deja medir esta tanda, doña Ermelinda?",
+     "Will you let me measure this batch, doña Ermelinda?"
+    ],
+    [
+     "Tú mándame la hoja de cálculo esta noche, la de capturas por conchera.",
+     "Send me the spreadsheet tonight, the one with catches per conchera."
+    ],
+    [
+     "Vos sabés que yo me crié en el barrio, Naza.",
+     "You know I grew up in the neighbourhood, Naza."
+    ]
+   ]
+  },
+  {
+   "topic": "Idiomatic ser and estar: estar de, estar por, ser de lo más",
+   "explain": "Some ser and estar patterns are fixed and must be learned as units. Estar de + a job or role means working as something, often for a period: estoy de conchera desde los doce años. Estar por + infinitive means 'to be about to' (in Latin America; in Spain it more often means 'to be inclined to'): el estero está por cerrarse. Ser de lo más + adjective is an informal intensifier, 'really, as… as can be', and the adjective agrees with the subject: era de lo más amable, era de lo más extraña. Ir en serio means 'to be serious': esto va en serio. A common learner error is *estoy como conchera or *es por cerrarse; the preposition and the verb are part of the expression.",
+   "examples": [
+    [
+     "Yo estoy de conchera desde los doce años",
+     "I've worked as a conchera since I was twelve"
+    ],
+    [
+     "El estero está por cerrarse y nadie les ha preguntado nada",
+     "The estuary is about to be closed and nobody has asked you anything"
+    ],
+    [
+     "El intermediario era de lo más amable cuando quería comprar",
+     "The middleman was as charming as could be when he wanted to buy"
+    ]
+   ]
+  }
+ ],
+ "c1-05": [
+  {
+   "topic": "Conditional conjunctions: siempre y cuando, a no ser que, con tal de que",
+   "explain": "These conjunctions set a precise condition or exception and always take the subjunctive. Siempre y cuando ('provided that, as long as') and con tal de que ('as long as, so long as') state the condition on which something will happen; a no ser que ('unless') names the only exception. Their mood never changes: present subjunctive after a present or future main verb (aceptamos… con tal de que no toque), imperfect subjunctive after a past or conditional one (pagaría… siempre y cuando no mencionara). They sound more contractual than si, which is why they appear in negotiations and rules. Common error: using the indicative because English does, as in *a no ser que alguien identifica la voz; it must be identifique.",
+   "examples": [
+    [
+     "Aceptamos el patrocinio con tal de que la empresa no toque el contenido.",
+     "We’ll accept the sponsorship as long as the company doesn’t touch the content."
+    ],
+    [
+     "La empresa levantaba un hotel en la playa vecina y, según ella, quería «sumarse a la celebración»: pagaría un transmisor nuevo, siempre y cuando el especial no mencionara la sentencia.",
+     "The company was building a hotel on the neighbouring beach and, according to her, wanted to “join in the celebration”: it would pay for a new transmitter, provided that the special did not mention the ruling."
+    ],
+    [
+     "La junta no lo va a aprobar —advirtió ella—, a no ser que el especial se limite a la música.",
+     "“The board won’t approve that,” she warned, “unless the special sticks to the music.”"
+    ]
+   ]
+  },
+  {
+   "topic": "Formal connectors: no obstante, a raíz de, por consiguiente",
+   "explain": "Formal writing and speeches use connectors that go beyond B2's sin embargo and en cambio. No obstante ('nevertheless, however') introduces a contrast and is followed by a comma. A raíz de + noun ('as a result of, following') gives the origin of a situation: a raíz de la propuesta. Por consiguiente ('consequently') introduces the logical result. En virtud de ('by virtue of, under') cites the rule or power that justifies a decision. In conversation they sound stiff, which is exactly why Dionisio chooses them for his public statement and why Keyla says it 'sounds like a lawyer'. Common error: *a raíz que + verb; use a raíz de + noun or a raíz de que + clause.",
+   "examples": [
+    [
+     "A raíz de la propuesta recibida, la junta de Radio Arenal ha resuelto no aceptar patrocinios que condicionen sus contenidos.",
+     "Following the proposal received, the board of Radio Arenal has resolved not to accept sponsorships that place conditions on its content."
+    ],
+    [
+     "No obstante, una emisora comunitaria no puede sobrevivir sin el respaldo de su comunidad.",
+     "Nevertheless, a community radio station cannot survive without the backing of its community."
+    ],
+    [
+     "Por consiguiente, y en virtud de nuestro reglamento, el 12 de abril transmitiremos un radiomaratón de seis horas para adquirir un transmisor nuevo",
+     "Consequently, and in accordance with our regulations, on 12 April we will broadcast a six-hour radio-thon to purchase a new transmitter."
+    ]
+   ]
+  },
+  {
+   "topic": "Reporting verbs: negar haber, alegar, admitir",
+   "explain": "At C1, instead of always reporting with dijo que, choose a verb that shows the speaker's stance. Negar and admitir take a compound infinitive when the subject is the same and the action is earlier: negó haberla grabado, admitió haber grabado (English 'denied having recorded'). Alegar que ('claim, argue') and asegurar que ('assure, insist') take the indicative, with the usual tense shift: alegó que no podía acordarse. Advertir de que warns; exigir que needs the subjunctive. Choosing alegar rather than explicar already suggests the reporter doubts the claim. Common error: *negó de haber pedido; with the same subject, the compact negó haber pedido is preferred to negó que hubiera pedido.",
+   "examples": [
+    [
+     "Al principio negó haberla grabado él: alegó que en aquellos años media comunidad le pedía prestada la grabadora y que no podía acordarse de cada fiesta.",
+     "At first he denied having recorded it himself: he claimed that in those years half the community borrowed his recorder and he couldn’t remember every party."
+    ],
+    [
+     "Mirna Zelaya negó haber pedido censura alguna, alegó que se trataba solo de una cuestión de tono y se despidió con un usted helado.",
+     "Mirna Zelaya denied having asked for any censorship whatsoever, claimed it was merely a question of tone and took her leave with an icy usted."
+    ],
+    [
+     "La licenciada aseguró que la empresa respetaba profundamente a la comunidad y que solo deseaba «un aniversario alegre, sin polémicas».",
+     "The licenciada assured him that the company deeply respected the community and only wanted “a happy anniversary, with no controversy”."
+    ]
+   ]
+  },
+  {
+   "topic": "Register shifts: tú, usted and vos",
+   "explain": "In Honduras the same speaker moves between three forms. Usted marks respect or distance (usted comprenderá, licenciada). Vos, with its own verb forms (vos sabés, mirá, respirá, cambiá), is the warm, intimate form used with family, friends and young people. Tú exists too, but here it is marked: Mirna switches to tú to fake closeness, and Dionisio refuses to follow. On air, the plural is always ustedes. Unlike English 'you', every switch carries meaning: closeness, pressure or coldness (Mirna leaves 'with an icy usted'). Common error: mixing forms in one verb, as in *vos sabes or *usted sabés; the voseo form is sabés and the usted form is sabe.",
+   "examples": [
+    [
+     "Usted comprenderá, licenciada, que eso no es negociable",
+     "You will understand, licenciada, that this is not negotiable"
+    ],
+    [
+     "Vos sabés que no podemos aceptar eso, cipota.",
+     "You know we can’t accept that, girl."
+    ],
+    [
+     "Dionisio, entre nosotros, ¿tú de verdad vas a dejar sin señal a tu gente por una sentencia que ya todo el mundo conoce?",
+     "Dionisio, just between us, are you really going to leave your people without a signal over a ruling everybody already knows about?"
+    ]
+   ]
+  }
+ ],
+ "c1-06": [
+  {
+   "topic": "Conditions without si: de + infinitive, de no ser por",
+   "explain": "Spanish can express a condition without si. De + simple infinitive works like si + imperfect subjunctive: de intentarlo = si lo intentaran. De + compound infinitive (de haber + participle) replaces si + pluperfect subjunctive for past situations that did not happen: de haberlo sabido = si lo hubiera sabido. De no ser por + noun means 'if it weren't for, but for'. The main clause takes the conditional (daría, encallaría) or the conditional perfect (habría empezado). These forms are compact and slightly formal, ideal for risk assessments. Common error: putting a conjugated verb after de (*de lo hubiera sabido) or a pronoun before the infinitive (*de lo haber sabido); attach it: de haberlo sabido.",
+   "examples": [
+    [
+     "De no ser por la marea, esa casa encallaría ahí mismo",
+     "If it weren’t for the tide, that house would run aground right there"
+    ],
+    [
+     "De intentarlo con mal tiempo, yo no le daría permiso ni a mi suegra.",
+     "If they tried it in bad weather, I wouldn’t give a permit even to my mother-in-law."
+    ],
+    [
+     "De haberlo sabido antes, habría empezado por ahí y no por los formularios.",
+     "Had she known earlier, she would have started there and not with the forms."
+    ]
+   ]
+  },
+  {
+   "topic": "Formal connectors: no obstante, a raíz de, por consiguiente",
+   "explain": "Official documents link ideas with connectors that sound stiff in conversation. A raíz de + noun ('following, as a result of') states the cause: a raíz del frente de mal tiempo. No obstante ('nevertheless, however') introduces a contrast. Por consiguiente ('consequently') presents the decision that follows logically. En virtud de ('by virtue of, under') names the legal basis. Together with impersonal se (se autoriza) and nouns instead of verbs (la navegación, la autorización), they create the nominal style that Javiera's colleagues call 'office Spanish'. Common error: using por consiguiente for contrast or no obstante for result; check whether the next idea opposes or follows from the previous one.",
+   "examples": [
+    [
+     "A raíz del frente de mal tiempo anunciado para el domingo, la Capitanía de Puerto ha suspendido la navegación de embarcaciones menores durante esa jornada.",
+     "Following the front of bad weather forecast for Sunday, the Harbour Master’s Office has suspended the sailing of small craft on that day."
+    ],
+    [
+     "No obstante, según las tablas oficiales, la pleamar del lunes al amanecer será apenas un palmo más baja que la del domingo.",
+     "However, according to the official tables, the high tide at dawn on Monday will be barely a hand’s breadth lower than Sunday’s."
+    ],
+    [
+     "Por consiguiente, y en virtud de las facultades de esta Dirección, se autoriza la minga para el lunes, siempre que se agreguen veinte tambores bajo la estructura y se cuente con la autorización de la autoridad marítima",
+     "Consequently, and by virtue of the powers of this Department, the minga is authorised for Monday, provided that twenty barrels are added beneath the structure and the maritime authority’s permission is obtained."
+    ]
+   ]
+  },
+  {
+   "topic": "Periphrases: llegar a, terminar por, dar por + participle",
+   "explain": "Verb periphrases add a nuance that a simple verb lacks. Llegar a + infinitive marks a culmination, often surprising: llegó a amenazar ('he even threatened'). Terminar por / acabar por + infinitive means 'end up doing', after resistance: terminó por aceptar. Dar por + participle means 'to take as': dar por hecho ('take for granted'), dar por perdido ('give up for lost'); the participle agrees with the object (lo dio por perdido, la dieron por perdida). At B2 you met acabar + gerund; por + infinitive is the more formal alternative. Common error: *terminó a aceptar or *llegó amenazar; the prepositions por and a are obligatory.",
+   "examples": [
+    [
+     "Llegó a amenazar con remolcar la casa él solo con su chalupa, aunque fuera de noche",
+     "He even threatened to tow the house himself with his little boat, at night if need be"
+    ],
+    [
+     "Yerko daba por hecho que su abuelo vendía.",
+     "Yerko took it for granted that his grandfather was selling."
+    ],
+    [
+     "Don Belarmino discutió, regateó, juró por todos los santos de Achao y terminó por aceptar, con una condición: que lo dejaran ir parado en el corredor de su casa.",
+     "Don Belarmino argued, haggled, swore by all the saints of Achao and ended up accepting, on one condition: that they let him ride standing on the porch of his house."
+    ]
+   ]
+  },
+  {
+   "topic": "Hedging and intensifying: al parecer, más bien, de lo más",
+   "explain": "Hedges lower your commitment or soften a disagreement: al parecer ('apparently') signals second-hand or uncertain information; digamos ('let's say') softens a judgement; más bien ('rather') corrects gently; no es que + subjunctive ('it's not that…') rejects an interpretation politely. Intensifiers do the opposite: de lo más + adjective ('extremely, most'), sumamente ('highly'), ni siquiera ('not even'). Javiera hedges with the elder and intensifies in her private thoughts. Note that no es que always takes the subjunctive, because it denies the reason. Common error: *no es que me opongo; say no es que me oponga.",
+   "examples": [
+    [
+     "Al parecer, tenía más de cien años.",
+     "Apparently it was more than a hundred years old."
+    ],
+    [
+     "No es que me oponga, don Belarmino; más bien me preocupa el viento.",
+     "It’s not that I’m against it, don Belarmino; it’s more that I’m worried about the wind."
+    ],
+    [
+     "El pronóstico, para colmo, era de lo más inoportuno: un frente de mal tiempo entraría al archipiélago justo ese fin de semana.",
+     "To make matters worse, the forecast could not have been more badly timed: a front of bad weather would reach the archipelago that very weekend."
+    ]
+   ]
+  }
+ ],
+ "c1-07": [
+  {
+   "topic": "Present perfect subjunctive: haya + participle",
+   "explain": "Haya + participle is the subjunctive of the present perfect (he vuelto, has vuelto). Use it when the main verb is in the present and triggers the subjunctive (emotion, doubt, denial: me alegra que, no creo que, no le gusta que) but the event in the subordinate clause is already over: me alegra que haya vuelto, 'I'm glad you've come back'. It also follows cuando, en cuanto and hasta que for an action that will be complete at a future moment: cuando hayan contestado los tres, 'once all three have answered'. English uses an ordinary perfect or even a present here. Common error: using the indicative after cuando for the future (*cuando han contestado) or after doubt (*no creo que se lo ha tomado).",
+   "examples": [
+    [
+     "Me alegra que haya vuelto, muchacha.",
+     "I'm glad you've come back, girl."
+    ],
+    [
+     "No creo que se lo haya tomado tan a pecho por la palabra",
+     "I don't think she took it so hard because of the word"
+    ],
+    [
+     "Cuando hayan contestado los tres",
+     "Once all three have answered"
+    ]
+   ]
+  },
+  {
+   "topic": "Venir and andar + gerund",
+   "explain": "Venir + gerund presents a process that started in the past and has been building up to now, often with desde or desde hace: venimos peleando desde hace veinte años, 'we've been fighting for twenty years (and still are)'. It adds a sense of accumulation that llevar + gerund (B2) does not stress. Andar + gerund describes an activity repeated here and there, often with a note of disapproval or irony: anda diciendo por todo el pueblo, 'he goes around telling the whole town'. English uses 'have been -ing' and 'go around -ing'. Common error: using andar + gerund for a single, neutral action (*anda comiendo ahora) when you simply mean está comiendo.",
+   "examples": [
+    [
+     "venimos peleando desde hace veinte años",
+     "we've been fighting for twenty years"
+    ],
+    [
+     "Mi nieto anda diciendo por todo el pueblo que somos afromexicanos",
+     "My grandson goes round telling the whole town that we're Afro-Mexican"
+    ],
+    [
+     "Ya andas otra vez peleándote con las casas difíciles.",
+     "There you go again, picking fights with the difficult houses."
+    ]
+   ]
+  },
+  {
+   "topic": "Hedging and intensifying: al parecer, más bien, de lo más",
+   "explain": "Advanced speakers soften what they say to stay polite and to avoid committing themselves: al parecer ('apparently'), más bien ('rather, it's more that'), digamos que ('let's say'), cabe suponer ('one may assume') and no es que + subjunctive, which rejects one explanation before offering another: no es que quiera presionarla; es que… Intensifiers do the opposite: de lo más + adjective ('really, extremely'), sumamente, ni siquiera ('not even'). Note the mood: no es que always takes the subjunctive, while the es que that follows takes the indicative. Common error: *no es que quiero, copying English 'it's not that I want'.",
+   "examples": [
+    [
+     "una señora de lo más amable a la que no vas a convencer",
+     "the nicest lady you'll ever meet, and you are not going to convince her"
+    ],
+    [
+     "No es que quiera presionarla, doña Eufemia",
+     "It's not that I want to pressure you, doña Eufemia"
+    ],
+    [
+     "Digamos que en mis tiempos esa palabra no se decía bonito.",
+     "Let's just say that in my day that word wasn't said kindly."
+    ]
+   ]
+  }
+ ],
+ "c1-08": [
+  {
+   "topic": "Pluperfect subjunctive in subordinate clauses",
+   "explain": "Hubiera + participle is the past of haya + participle. Use it when the main verb is in the past and requires the subjunctive, and the subordinate event happened before it: era improbable que alguien la hubiera falsificado, 'it was unlikely that anyone had forged it'. It appears after evaluations (era improbable que, no podía creer que), after sin que and other conjunctions, and in any past context where the present would need haya. This is not the si-clause of B2 (si lo hubiera sabido…): here hubiera sits inside an ordinary subordinate clause. Common error: using the indicative pluperfect (*no podía creer que una rayita había arruinado), which English 'had ruined' invites.",
+   "examples": [
+    [
+     "Era improbable que alguien la hubiera falsificado a propósito con una aleación tan pobre.",
+     "It was unlikely that anyone had deliberately forged it with such a poor alloy."
+    ],
+    [
+     "sin que nadie hubiera denunciado nada",
+     "without anyone having reported anything"
+    ],
+    [
+     "Gastón no podía creer que una rayita hubiera arruinado su negocio.",
+     "Gastón couldn't believe that a tiny scratch had ruined his deal."
+    ]
+   ]
+  },
+  {
+   "topic": "Impersonal se with people vs pasiva refleja",
+   "explain": "With things, se + verb agrees with the noun (pasiva refleja): se acuñaron monedas, se levantó un acta. With specific people, Spanish uses impersonal se + a, and the verb stays singular: se citó al coleccionista, se ejecutó a algunos de los culpables, never *se ejecutaron algunos culpables, which would sound as if they executed themselves. Official reports and museum labels also use ser + participle when the agent is implicit: la pieza fue acuñada en Potosí. English uses a passive in all three cases ('was summoned', 'were struck', 'was struck'). Common error: making the verb plural with people (*se citaron a los testigos).",
+   "examples": [
+    [
+     "Se levantó un acta, se fotografió la pieza por las dos caras y se citó al coleccionista para el jueves a las diez",
+     "A report was drawn up, the piece was photographed on both sides and the collector was asked to come back on Thursday at ten"
+    ],
+    [
+     "se ejecutó a algunos de los culpables",
+     "some of the culprits were executed"
+    ],
+    [
+     "La pieza fue acuñada en Potosí hacia 1649",
+     "The piece was struck in Potosí around 1649"
+    ]
+   ]
+  },
+  {
+   "topic": "Future perfect: completion and conjecture",
+   "explain": "Habrá + participle has two uses. First, completion before a future point, usually with para + time: para el jueves ya habremos terminado, 'by Thursday we'll have finished'. Second, a guess about the past, where English says 'must have' or 'I wonder': lo habrá hecho algún sobrino, 'one of my nephews must have done it'; ¿por cuántas manos habrá pasado?, 'I wonder how many hands it has passed through'. It works like the simple future of conjecture (B2: serán las diez), one step back in time. Common error: translating 'must have' with *debe haber hecho for every guess; that is possible, but the future perfect is the most natural form in speech.",
+   "examples": [
+    [
+     "Para el jueves ya habremos terminado los análisis.",
+     "By Thursday we'll have finished the tests."
+    ],
+    [
+     "Eso lo habrá hecho algún sobrino mío jugando",
+     "One of my nephews must have done that while playing"
+    ],
+    [
+     "¿Por cuántas manos habrá pasado esta, entonces?",
+     "How many hands must this one have passed through, then?"
+    ]
+   ]
+  },
+  {
+   "topic": "Periphrases: llegar a, terminar por, dar por + participle",
+   "explain": "Llegar a + infinitive marks the culmination of a scale, 'went as far as, even': el escándalo llegó a preocupar al rey. Terminar por (or acabar por) + infinitive means 'end up doing' after resistance or a long process: terminó por aceptar. Dar por + participle or adjective means 'to take as, consider': dar por sentado ('take for granted'), dar por perdido ('write off'); the participle agrees with the object: doy por perdida la venta. B2 had acabar + gerund; these are its more formal cousins. Common error: forgetting the agreement (*doy por perdido la venta) or dropping the a in llegar a.",
+   "examples": [
+    [
+     "El escándalo llegó a preocupar al mismísimo rey",
+     "The scandal came to worry the king himself"
+    ],
+    [
+     "A las malas la gente terminó por llamarlas «rochunas»",
+     "People ended up calling the bad ones “rochunas”"
+    ],
+    [
+     "O sea que doy por perdida la venta.",
+     "So I can write off the sale."
+    ]
+   ]
+  }
+ ],
+ "c1-09": [
+  {
+   "topic": "Pluperfect subjunctive in subordinate clauses",
+   "explain": "When a past main verb triggers the subjunctive (le parecía improbable que, le extrañaba que, sin que, antes de que) and the subordinate event happened BEFORE that past moment, use the pluperfect subjunctive: hubiera + participle. Ezequiel reasons in the past about things that would already have happened: that Tiburcio had vanished, that the captain had bothered to register him. At B2 you used hubiera mainly in si-clauses; here it follows evaluations and conjunctions. English simply says 'had vanished' or 'without anyone having noted it'. Common error: the indicative after sin que (*sin que nadie lo había anotado). The imperfect subjunctive (que se esfumara) is not wrong, but hubiera makes the earlier action explicit.",
+   "examples": [
+    [
+     "Le parecía improbable que un cocinero de veintiséis años se hubiera esfumado sin que nadie lo hubiera anotado en ningún sitio",
+     "It seemed unlikely to him that a twenty-six-year-old cook could have vanished without anyone having written him down anywhere"
+    ],
+    [
+     "le extrañaba que un capitán se hubiera tomado la molestia de inscribirlo con nombre, edad y señas si pensaba venderlo",
+     "he found it odd that a captain should have gone to the trouble of entering him by name, age and distinguishing marks if he meant to sell him"
+    ],
+    [
+     "sin que el capitán lo hubiera denunciado como desertor",
+     "without the captain having reported him as a deserter"
+    ]
+   ]
+  },
+  {
+   "topic": "Formal relatives: el cual, lo cual",
+   "explain": "El cual, la cual, los cuales and las cuales replace que after prepositions, especially longer ones (desde el cual, a raíz de la cual) and in formal writing; they agree with the noun they refer to. Lo cual refers back to a whole idea, not a single noun: «…lo cual llenó los archivos» means 'which (this whole situation) filled the archives'. English uses 'which' for both, so learners often write *que after a comma for a whole clause or *el cual for an idea. At B2 you used en el que and cuyo; el cual sounds more formal and is typical of archive and legal prose. Common error: *la cual coincide referring to a whole sentence; it must be lo cual.",
+   "examples": [
+    [
+     "en la cual la remitente, tras haber resumido con precisión de notaria lo que sabía, confesaba lo que no",
+     "in which the sender, having summed up what she knew with a notary’s precision, admitted what she didn’t"
+    ],
+    [
+     "lo cual llenó los archivos de papeles nuevos y, paradójicamente, hizo desaparecer a mucha gente",
+     "which filled the archives with new papers and, paradoxically, made a lot of people disappear"
+    ],
+    [
+     "un libro de tapas verdes desde el cual se podía seguir, folio a folio, la puesta en marcha de aquella libertad a medias",
+     "a green-covered book from which one could follow, page by page, how that half-freedom was put into practice"
+    ]
+   ]
+  },
+  {
+   "topic": "Nominalization in formal register",
+   "explain": "Formal Spanish packs information into nouns: instead of 'if you consult original documents, you need prior permission', the archive rules say «La consulta de documentos originales requiere autorización previa». Verbs become nouns (consultar → la consulta, desembarcar → el desembarco, abolir → la abolición, poner en marcha → la puesta en marcha), and a light verb (requerir, suponer, permitir, tener lugar, llevar a cabo) carries the sentence. English often uses -ing forms here ('consulting the lists makes it possible…'). Use it in reports and notes, not in conversation: Altagracia and Ezequiel talk with verbs. Common error: keeping the verb's direct object without de (*la consulta los roles); the noun needs de: la consulta de los roles.",
+   "examples": [
+    [
+     "La consulta de documentos originales requiere autorización previa; la manipulación sin guantes conlleva la suspensión del permiso",
+     "Consultation of original documents requires prior authorization; handling without gloves will result in suspension of the permit"
+    ],
+    [
+     "La abolición, decretada por la ley del 22 de marzo de 1873, no supuso la libertad inmediata, sino la firma de contratos obligatorios",
+     "Abolition, decreed by the law of 22 March 1873, did not mean immediate freedom but the signing of compulsory contracts"
+    ],
+    [
+     "La consulta de los roles de la Capitanía permite establecer el desembarco del liberto Tiburcio en Santo Domingo el 2 de abril de 1876, lo cual coincide con el vencimiento de su contrato",
+     "Consultation of the Harbour Master’s crew lists makes it possible to establish that the freedman Tiburcio disembarked in Santo Domingo on 2 April 1876, which coincides with the expiry of his contract"
+    ]
+   ]
+  },
+  {
+   "topic": "Compound infinitive and gerund: tras haber, habiendo",
+   "explain": "Haber + participle also has non-finite forms that mark an action as completed before the main one: tras haber firmado ('after having signed'), por haber cumplido ('for having completed'), habiendo leído ('having read'). They are typical of formal narration and documents, and they save you a full clause (después de que había firmado). The subject is normally the same as the main verb's: Habiendo leído…, Ezequiel se quitó las gafas. English uses 'having + participle' in the same way, so the trap is form, not meaning: the participle never agrees (*habiendo leída) and pronouns attach to haber (tras haberlo leído). Common error: *después haber; use después de haber or tras haber (tras de haber also exists, but sounds old-fashioned).",
+   "examples": [
+    [
+     "Habiendo leído la última palabra dos veces, Ezequiel se quitó las gafas",
+     "Having read the last word twice, Ezequiel took off his glasses"
+    ],
+    [
+     "tras haber firmado con un capitán, Tiburcio había pasado tres años en el mar",
+     "having signed with a captain, Tiburcio had spent three years at sea"
+    ],
+    [
+     "el cocinero Tiburcio, por haber cumplido su contrata",
+     "the cook Tiburcio, having completed his contract"
+    ]
+   ]
+  }
+ ],
+ "c1-10": [
+  {
+   "topic": "Conditional conjunctions: siempre y cuando, a no ser que, con tal de que",
+   "explain": "Siempre y cuando ('provided that'), con tal de que ('as long as'), a no ser que ('unless') and en caso de que ('in case, should') always take the subjunctive, because they set a condition that is not yet fact. With a present or future frame use the present subjunctive (siempre y cuando siga horneándola); after a past or conditional verb, the imperfect (a no ser que se reconociera, en caso de que quisiera). They are more precise than si and typical of wills, contracts and negotiations. English uses the indicative ('unless it is acknowledged'), which leads to errors like *a no ser que se reconoce. Note also that si never takes the present subjunctive, whereas these conjunctions always take a subjunctive.",
+   "examples": [
+    [
+     "Lego la receta de la torta negra a quien la hizo, siempre y cuando siga horneándola en Gaiman",
+     "I leave the recipe for the black cake to whoever made it, provided that they go on baking it in Gaiman"
+    ],
+    [
+     "Brígida anunció que no encendería el horno a no ser que se reconociera por escrito que la receta era suya",
+     "Brígida announced that she would not light the oven unless it was acknowledged in writing that the recipe was hers"
+    ],
+    [
+     "con tal de que pudiera imprimir en la caja «auténtica receta de la casa de té de Nesta Pugh»",
+     "provided that it could print “authentic recipe from Nesta Pugh’s tea house” on the box"
+    ]
+   ]
+  },
+  {
+   "topic": "Nominalization in formal register",
+   "explain": "Legal and notarial Spanish turns actions into nouns and lets an abstract subject carry the sentence: abrir el testamento → la apertura del testamento; redactar → la redacción; resolver → la resolución; determinar → la determinación. Light verbs such as tener lugar, admitir, exigir, llevar a cabo do the work that a lively verb would do in conversation. Lautaro writes this way in his private note and then translates himself 'into plain Spanish' (tenía que averiguar quién había cocinado qué), which shows the contrast. English legal style does the same with '-tion' nouns. Common error: *la apertura del testamento se hizo lugar; the fixed expression is tener lugar ('to take place').",
+   "examples": [
+    [
+     "La apertura del testamento de Nesta Pugh tuvo lugar un lunes de julio",
+     "The reading of Nesta Pugh’s will took place on a Monday in July"
+    ],
+    [
+     "La redacción de la cláusula cuarta admite dos lecturas.",
+     "The wording of the fourth clause admits two readings."
+    ],
+    [
+     "La resolución del conflicto exige la determinación de la autoría material",
+     "Resolving the dispute requires establishing who physically authored it"
+    ]
+   ]
+  },
+  {
+   "topic": "Pseudo-clefts: lo que pasó fue que",
+   "explain": "A pseudo-cleft splits a sentence into lo que / lo único que / quien + verb + ser + the new information, so that the key point comes last and is stressed: Lo que dice el testamento es «quien la hizo». English does the same ('What the will says is…'). At B2 you learned clefts with fue X quien; the pseudo-cleft is the natural tool for arguing about what a text actually says or what someone really did. Ser usually matches the tense of the first verb (lo que hice fue…, lo que me molesta es…). Common error: leaving out lo (*Que me molesta es la plata) or using *lo cual (*Lo cual dice el testamento es…).",
+   "examples": [
+    [
+     "Lo que dice el testamento es «quien la hizo», nene, no «quien la inventó».",
+     "What the will says is ‘whoever made it’, kid, not ‘whoever invented it’."
+    ],
+    [
+     "Lo que hice fue quemar el azúcar, como mi mamá lo quemaba para el flan",
+     "What I did was burn the sugar, the way my mum burned it for flan"
+    ],
+    [
+     "Lo único que te vino de tu bisabuela es el nombre.",
+     "The only thing that came down to you from your great-grandmother is the name."
+    ]
+   ]
+  },
+  {
+   "topic": "Idiomatic ser and estar: estar de, estar por, ser de lo más",
+   "explain": "Some fixed patterns with ser and estar are best learned as chunks. Estar de + noun means 'to work as, temporarily or in a role': estuve de ayudante, estuve de cocinera. Estar por + infinitive means 'to be about to / to be inclined to': estoy por renunciar, estuvo por recordarles. Ser de lo más + adjective is an intensifier, 'extremely': era de lo más ordenada. These are not the B1 contrasts (ser listo vs estar listo); here the verb is part of an idiom. English uses different verbs entirely ('worked as', 'I'm about ready to', 'really'). Common error: *ser de cocinera or *estar de lo más ordenada for a permanent trait; and note that with a thing as subject estar por can mean 'still to be done' (la casa está por limpiar).",
+   "examples": [
+    [
+     "Nesta, que era de lo más ordenada, había numerado las páginas a mano.",
+     "Nesta, who was extremely orderly, had numbered the pages by hand."
+    ],
+    [
+     "Estuve de ayudante un año y de cocinera treinta y uno.",
+     "I was an assistant for a year and the cook for thirty-one."
+    ],
+    [
+     "Si siguen así, estoy por renunciar al albaceazgo",
+     "If you carry on like this, I’m about ready to resign as executor"
+    ]
+   ]
+  }
+ ]
+}

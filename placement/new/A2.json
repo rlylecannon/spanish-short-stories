@@ -1,0 +1,216 @@
+[
+ {
+  "id": "P-A2-13",
+  "level": "A2",
+  "skill": "grammar",
+  "q": "Choose the correct form: Ayer nosotros ___ al cine con unos amigos.",
+  "options": [
+   "fuimos",
+   "vamos",
+   "iban",
+   "fueron"
+  ],
+  "answer": 0,
+  "why": "Ir in the preterite with nosotros is fuimos.",
+  "topic": "irregular preterite (ir)"
+ },
+ {
+  "id": "P-A2-14",
+  "level": "A2",
+  "skill": "grammar",
+  "q": "Choose the correct word: A mis padres ___ regalé un libro por su aniversario.",
+  "options": [
+   "los",
+   "les",
+   "se lo",
+   "las"
+  ],
+  "answer": 1,
+  "why": "The indirect object 'a mis padres' (plural) requires the pronoun les.",
+  "topic": "indirect object pronouns"
+ },
+ {
+  "id": "P-A2-15",
+  "level": "A2",
+  "skill": "grammar",
+  "q": "Choose the correct form: No puedo hablar ahora; mi madre ___ la cena.",
+  "options": [
+   "cocina cocinar",
+   "es cocinando",
+   "está cocinando",
+   "está cocinar"
+  ],
+  "answer": 2,
+  "why": "The present progressive uses estar + gerund (-ando).",
+  "topic": "present progressive"
+ },
+ {
+  "id": "P-A2-16",
+  "level": "A2",
+  "skill": "grammar",
+  "q": "Choose the correct word: Esta es la tienda ___ barata de la ciudad.",
+  "options": [
+   "muy",
+   "tan",
+   "mucho",
+   "más"
+  ],
+  "answer": 3,
+  "why": "The superlative is formed with el/la + más + adjective.",
+  "topic": "superlative"
+ },
+ {
+  "id": "P-A2-17",
+  "level": "A2",
+  "skill": "grammar",
+  "q": "Choose the correct form: Mañana tengo un examen. ___ estudiar esta noche.",
+  "options": [
+   "Tengo de",
+   "Tengo que",
+   "Soy que",
+   "Tengo por"
+  ],
+  "answer": 1,
+  "why": "Obligation is expressed with tener que + infinitive.",
+  "topic": "tener que"
+ },
+ {
+  "id": "P-A2-18",
+  "level": "A2",
+  "skill": "grammar",
+  "q": "Choose the correct form: A mí me ___ las películas de terror.",
+  "options": [
+   "gusta",
+   "gusto",
+   "gustan",
+   "gustamos"
+  ],
+  "answer": 2,
+  "why": "Gustar agrees with the thing liked; 'las películas' is plural.",
+  "topic": "gustar with plural nouns"
+ },
+ {
+  "id": "P-A2-19",
+  "level": "A2",
+  "skill": "grammar",
+  "q": "Choose the correct word: Ana y yo vivimos con ___ padres en el centro.",
+  "options": [
+   "nuestro",
+   "nuestras",
+   "nosotros",
+   "nuestros"
+  ],
+  "answer": 3,
+  "why": "The possessive must agree with the plural masculine noun 'padres'.",
+  "topic": "possessives (nuestro)"
+ },
+ {
+  "id": "P-A2-20",
+  "level": "A2",
+  "skill": "vocab",
+  "q": "Choose the best word: Para cortar el pan necesito un ___.",
+  "options": [
+   "cuchillo",
+   "tenedor",
+   "vaso",
+   "plato"
+  ],
+  "answer": 0,
+  "why": "A cuchillo is the knife used for cutting.",
+  "topic": "kitchen utensils"
+ },
+ {
+  "id": "P-A2-21",
+  "level": "A2",
+  "skill": "vocab",
+  "q": "Choose the best word: Para llegar a la estación, sigue todo ___ y gira a la izquierda en el semáforo.",
+  "options": [
+   "afuera",
+   "detrás",
+   "derecho",
+   "cerca"
+  ],
+  "answer": 2,
+  "why": "'Seguir todo derecho' means to go straight ahead.",
+  "topic": "giving directions"
+ },
+ {
+  "id": "P-A2-22",
+  "level": "A2",
+  "skill": "vocab",
+  "q": "Choose the best word: Hoy está nublado; hay muchas ___ en el cielo.",
+  "options": [
+   "olas",
+   "estrellas",
+   "hojas",
+   "nubes"
+  ],
+  "answer": 3,
+  "why": "Nubes are clouds, which make the sky cloudy.",
+  "topic": "weather"
+ },
+ {
+  "id": "P-A2-23",
+  "level": "A2",
+  "skill": "reading",
+  "q": "Read the text. ¿Qué hicieron Lucía y su madre después del mercado?",
+  "options": [
+   "Comieron en casa de la abuela.",
+   "Fueron al cine.",
+   "Compraron ropa nueva.",
+   "Prepararon la cena en casa."
+  ],
+  "answer": 0,
+  "why": "The text says that afterwards they ate at grandmother's house.",
+  "topic": "narrative: weekend",
+  "passage": "El sábado Lucía fue al mercado con su madre. Compraron frutas y verduras. Después comieron en casa de su abuela."
+ },
+ {
+  "id": "P-A2-24",
+  "level": "A2",
+  "skill": "reading",
+  "q": "Read the text. ¿Cuándo está cerrado el gimnasio?",
+  "options": [
+   "Los sábados.",
+   "Los domingos.",
+   "Por las mañanas.",
+   "De lunes a viernes."
+  ],
+  "answer": 1,
+  "why": "The text says it is closed on Sundays.",
+  "topic": "notice: opening hours",
+  "passage": "El gimnasio Fuerza abre de lunes a viernes de 6:00 a 22:00 y los sábados de 8:00 a 14:00. Los domingos está cerrado."
+ },
+ {
+  "id": "P-A2-25",
+  "level": "A2",
+  "skill": "reading",
+  "q": "Read the text. ¿Cómo va Pablo a la universidad?",
+  "options": [
+   "En coche.",
+   "A pie.",
+   "En autobús.",
+   "En bicicleta."
+  ],
+  "answer": 3,
+  "why": "He has no car, so he goes to class by bicycle.",
+  "topic": "email: new home",
+  "passage": "Hola, Sara: Ahora vivo en un apartamento pequeño cerca de la universidad. Tiene una habitación y una cocina nueva. No tengo coche, por eso voy a clase en bicicleta."
+ },
+ {
+  "id": "P-A2-26",
+  "level": "A2",
+  "skill": "reading",
+  "q": "Read the text. ¿Cuándo va a salir la familia a la playa?",
+  "options": [
+   "El domingo temprano.",
+   "El sábado por la tarde.",
+   "El viernes por la noche.",
+   "El domingo por la noche."
+  ],
+  "answer": 0,
+  "why": "Because of the rain on Saturday, they plan to leave early Sunday.",
+  "topic": "plans and weather",
+  "passage": "Este fin de semana vamos a la playa, pero el pronóstico dice que va a llover el sábado. Por eso mi familia piensa salir el domingo temprano."
+ }
+]

@@ -1,0 +1,718 @@
+{
+ "b1-01": [
+  {
+   "topic": "Preterite vs. imperfect",
+   "explain": "Imperfect = background: descriptions, actions in progress and habits (era, paseaba, había). Preterite = completed events that move the story forward (vio, se sentó, llegó). One sentence often has both: the imperfect sets the scene and the preterite interrupts it. Watch out: English 'was walking' and 'used to walk' are always imperfect, but the English simple past ('she walked') can be either, so ask yourself: background or event?",
+   "examples": [
+    [
+     "Era una mañana fría de noviembre en Madrid.",
+     "It was a cold November morning in Madrid."
+    ],
+    [
+     "De repente vio algo verde debajo de un banco.",
+     "Suddenly she saw something green under a bench."
+    ],
+    [
+     "Tomó el metro y, veinte minutos después, llegó a un edificio estrecho con un letrero azul.",
+     "She took the metro and, twenty minutes later, reached a narrow building with a blue sign."
+    ]
+   ]
+  },
+  {
+   "topic": "Pluperfect for earlier events",
+   "explain": "Form: imperfect of haber (había, habías, había, habíamos, habían) + past participle (nacido, marchado). It says an action was already complete before the past moment you are narrating: 'had left'. Reflexive and object pronouns go before había: se había marchado. Watch out: English often uses the simple past where Spanish prefers the pluperfect ('She told me he left' = Me dijo que se había marchado).",
+   "examples": [
+    [
+     "Explicó que su abuela había nacido en Madrid y que se había marchado a Chile cuando era niña.",
+     "He explained that his grandmother had been born in Madrid and had left for Chile as a child."
+    ],
+    [
+     "Él había viajado hasta allí para conocer la ciudad de sus historias.",
+     "He had travelled all that way to get to know the city from her stories."
+    ]
+   ]
+  },
+  {
+   "topic": "Relative clauses: que, donde",
+   "explain": "Que ('who, that, which') links a noun, person or thing, to a clause that describes it: un joven que hablaba con la dueña. Donde ('where') follows a place: el barrio donde había vivido. Watch out: English can drop 'that' ('the man I met'), but Spanish never drops que: el hombre que conocí. After nadie, nada or algo (a person or thing that may not exist), the clause takes the subjunctive: nadie que pudiera...",
+   "examples": [
+    [
+     "Después, Inés le enseñó el barrio donde había vivido su abuela.",
+     "Afterwards, Inés showed him the neighborhood where his grandmother had lived."
+    ],
+    [
+     "En la recepción había un joven que hablaba con la dueña.",
+     "At the front desk there was a young man who was talking to the owner."
+    ],
+    [
+     "Alrededor no había nadie que pudiera haberla perdido.",
+     "There was nobody around who could have lost it."
+    ]
+   ]
+  },
+  {
+   "topic": "Future in the past",
+   "explain": "To say, from a past viewpoint, what someone promised or expected would happen later, use the conditional: «Te mandaré una postal» becomes Prometió que le mandaría una postal ('would send'). Iba a + infinitive does the same job: Dijo que iba a escribir. Watch out: this 'would' is not hypothetical; it is simply the future seen from the past, so no si-clause is needed.",
+   "examples": [
+    [
+     "Tomás le prometió que le mandaría una postal desde Valparaíso, y ella sabía que lo haría.",
+     "Tomás promised to send her a postcard from Valparaíso, and she knew he would."
+    ],
+    [
+     "Dijo que volvería a Madrid algún día.",
+     "He said he would come back to Madrid someday."
+    ]
+   ]
+  }
+ ],
+ "b1-02": [
+  {
+   "topic": "Future tense",
+   "explain": "Add -é, -ás, -á, -emos, -éis, -án to the whole infinitive: enseñar → enseñaré, ser → seré. A few common verbs change the stem but keep the endings: podré, tendré, haré, diré, saldré, vendré. Ir a + infinitive (voy a poder) is the everyday alternative, especially in speech. Watch out: English 'will' in requests is not the future: 'Will you help me?' = ¿Me ayudas?",
+   "examples": [
+    [
+     "Y yo te enseñaré el té con leche. Aunque te advierto que no te gustará tanto como el mate.",
+     "And I'll show you tea with milk. Although I warn you that you won't like it as much as mate."
+    ],
+    [
+     "Lo harás muy bien.",
+     "You'll do really well."
+    ],
+    [
+     "Si quieres, ensayamos todas las semanas y yo seré tu público.",
+     "If you like, we'll rehearse every week and I'll be your audience."
+    ],
+    [
+     "No voy a poder, Ben.",
+     "I'm not going to be able to, Ben."
+    ]
+   ]
+  },
+  {
+   "topic": "Pluperfect (había + participle)",
+   "explain": "Use it for an action completed before another past moment: había propuesto, se había mudado. Only haber changes for the person (había, habían); the participle always ends in -o, whatever the subject: su jefa había propuesto (never *propuesta). Watch out for common irregular participles: propuesto (proponer), hecho, dicho, escrito, visto, puesto, vuelto.",
+   "examples": [
+    [
+     "Su jefa le había propuesto presentar un informe en inglés.",
+     "Her boss had suggested that she present a report in English."
+    ],
+    [
+     "Ben, un ingeniero inglés que se había mudado a Uruguay por su trabajo.",
+     "Ben, an English engineer who had moved to Uruguay for work."
+    ],
+    [
+     "Ben había pedido permiso en su trabajo para acompañarla.",
+     "Ben had asked for time off work to be there with her."
+    ]
+   ]
+  },
+  {
+   "topic": "Reflexive verbs",
+   "explain": "Some verbs are used with a pronoun that matches the subject (me, te, se, nos, os, se): acostumbrarse (to get used to), acordarse de (to remember), equivocarse (to make a mistake). Put it before a conjugated verb (me acuerdo) or attach it to an infinitive (tengo que acostumbrarme). In the plural, se can mean 'each other': se corregían. Watch out: keep the preposition: acordarse de, acostumbrarse a.",
+   "examples": [
+    [
+     "Pero tengo que acostumbrarme al sabor.",
+     "But I have to get used to the taste."
+    ],
+    [
+     "Ana se acordó de todos los jueves en el café.",
+     "Ana remembered all those Thursdays at the café."
+    ],
+    [
+     "Una hora hablaban en español y la otra en inglés, y se corregían sin miedo.",
+     "For one hour they spoke Spanish and for the next English, and they corrected each other without fear."
+    ]
+   ]
+  },
+  {
+   "topic": "Si-clauses with present",
+   "explain": "For real, likely conditions: si + present, then a present, a future or a command in the other clause: Si quieres, ensayamos / te ayudaré / ven. Watch out: si is never followed by the future (*si querrás) or the present subjunctive (*si quieras). Exception: when si means 'whether', the future is fine: No sé si podrá venir.",
+   "examples": [
+    [
+     "Si alguien te ofrece mate, significa que te considera de confianza.",
+     "If someone offers you mate, it means they consider you a friend."
+    ],
+    [
+     "Si quieres, ensayamos todas las semanas.",
+     "If you like, we'll rehearse every week."
+    ],
+    [
+     "Si te pones nerviosa, habla más despacio.",
+     "If you get nervous, speak more slowly."
+    ]
+   ]
+  }
+ ],
+ "b1-03": [
+  {
+   "topic": "Si + imperfect subjunctive",
+   "explain": "For unreal or unlikely situations in the present or future: si + imperfect subjunctive, then the conditional: Si yo fuera usted, pensaría... ('If I were you, I'd think...'). Form the imperfect subjunctive from the ellos preterite: fueron → fuera, prestaron → prestara. Watch out: never put the conditional after si (*si sería, *si prestaría), even though English 'if you would...' tempts you.",
+   "examples": [
+    [
+     "Si yo fuera usted, pensaría en comprar un horno eléctrico.",
+     "If I were you, I'd think about buying an electric oven."
+    ],
+    [
+     "Si cada uno de ustedes nos prestara su horno unas horas, podríamos entregar todos los pedidos a tiempo.",
+     "If each of you lent us your oven for a few hours, we could deliver all the orders on time."
+    ]
+   ]
+  },
+  {
+   "topic": "Conditional tense",
+   "explain": "Add -ía, -ías, -ía, -íamos, -íais, -ían to the infinitive: pensaría, podríamos. Irregular stems are the same as in the future: podr-, tendr-, har-, dir-. Use it for what would happen, for advice (yo pensaría en...) and for polite requests (¿Podría ayudarme?). Watch out: English 'would' for past habits ('we would play there every summer') is the imperfect in Spanish (jugábamos), not the conditional.",
+   "examples": [
+    [
+     "Podríamos entregar todos los pedidos a tiempo.",
+     "We could deliver all the orders on time."
+    ],
+    [
+     "Un horno eléctrico no haría el mismo pan.",
+     "An electric oven wouldn't make the same bread."
+    ],
+    [
+     "¿Podría revisar el horno hoy, por favor?",
+     "Could you check the oven today, please?"
+    ]
+   ]
+  },
+  {
+   "topic": "Pluperfect",
+   "explain": "Había + past participle shows an action completed before another past moment: había construido, había hecho. With nunca or ya it means 'had never / had already': nunca había hecho pan. Watch out: hacer → hecho is irregular. And don't confuse it with the imperfect: construía = was building / used to build; había construido = had (already) built.",
+   "examples": [
+    [
+     "Pensó en su difunto marido, que había construido ese horno.",
+     "She thought about her late husband, who had built that oven."
+    ],
+    [
+     "Don Chema, que nunca había hecho pan, ofreció su cocina industrial.",
+     "Don Chema, who had never made bread, offered his industrial kitchen."
+    ],
+    [
+     "Había luchado tanto por mantener el negocio.",
+     "She had fought so hard to keep the business going."
+    ]
+   ]
+  },
+  {
+   "topic": "Present perfect",
+   "explain": "He, has, ha, hemos, habéis, han + past participle: se ha agrietado, nos ha dado. Use it for past actions connected to now: a result you can see now, a time period that includes the present (hoy, este año, en mi vida) and with ya / todavía no. Watch out: nothing goes between haber and the participle (ya ha dado, never *ha ya dado). In much of Latin America the preterite is often used instead in everyday speech.",
+   "examples": [
+    [
+     "La pared de atrás se ha agrietado.",
+     "The back wall has cracked."
+    ],
+    [
+     "Usted nos ha dado pan durante cuarenta años.",
+     "You've given us bread for forty years."
+    ],
+    [
+     "Los supermercados ya me han quitado la mitad de los clientes.",
+     "The supermarkets have already taken half of my customers."
+    ]
+   ]
+  }
+ ],
+ "b1-04": [
+  {
+   "topic": "Pluperfect for background",
+   "explain": "Use había + participle to fill in backstory: what had already happened before the main events. Here it explains why don Aurelio is in hospital (se había caído) and what Marcos had never done in three years (nunca había levantado la vista). Watch out: with reflexive verbs the pronoun goes before había: se había caído, never *había caídose.",
+   "examples": [
+    [
+     "Un hombre de ochenta y dos años que se había caído en la calle y se había lastimado la cadera.",
+     "An eighty-two-year-old man who had fallen in the street and hurt his hip."
+    ],
+    [
+     "En tres años de turnos nocturnos nunca había levantado la vista.",
+     "In three years of night shifts he had never looked up."
+    ]
+   ]
+  },
+  {
+   "topic": "Si + imperfect subjunctive + conditional",
+   "explain": "For a condition that is unreal or unlikely now: si + imperfect subjunctive (pudiera, tuviera, fuera) + conditional (enseñaría, iría). Don Aurelio can't open the window, so Si pudiera... is contrary to fact. Compare a real possibility: Si puedo, te lo enseño. Watch out: English 'if I could' tempts learners to write *si podría; the conditional never goes right after si.",
+   "examples": [
+    [
+     "Si pudiera, le enseñaría algo muy bonito.",
+     "If I could, I'd show you something very beautiful."
+    ],
+    [
+     "Si tuviera un telescopio, miraría las estrellas cada noche.",
+     "If I had a telescope, I'd look at the stars every night."
+    ]
+   ]
+  },
+  {
+   "topic": "Relative clauses: donde, que, lo que",
+   "explain": "Que ('that, who, which') describes a noun; donde ('where') follows a place; lo que means 'what / the thing that' when there is no noun before it. If the noun is negative or may not exist (nada, nadie, algo), the clause is subjunctive: nada que usted pueda curar. Watch out: in statements, English 'what' is lo que, not que: No entiendo lo que dices.",
+   "examples": [
+    [
+     "Trabajé en un observatorio del norte de Chile, donde las noches son tan oscuras que se puede tocar el cielo.",
+     "I worked at an observatory in northern Chile, where the nights are so dark you can almost touch the sky."
+    ],
+    [
+     "Nada que usted pueda curar, joven.",
+     "Nothing you can cure, young man."
+    ],
+    [
+     "Lo único que me duele es no poder abrir esa ventana.",
+     "The only thing that hurts is not being able to open that window."
+    ]
+   ]
+  },
+  {
+   "topic": "Imperfect vs. preterite",
+   "explain": "The imperfect sets the scene, shows an action in progress or a habit (hacía su ronda, le contaba historias); the preterite reports a completed event (vio, entró, abrió). Typical pattern: imperfect in progress + cuando + preterite interruption. Watch out: a long period seen as finished takes the preterite (trabajé cuarenta años), so length alone doesn't mean imperfect; repetition (cada vez que, siempre) does.",
+   "examples": [
+    [
+     "Marcos hacía su ronda cuando vio la luz encendida en la habitación 12.",
+     "Marcos was making his rounds when he saw the light on in Room 12."
+    ],
+    [
+     "Cada vez que Marcos terminaba sus tareas, don Aurelio le contaba historias.",
+     "Every time Marcos finished his tasks, Don Aurelio told him stories."
+    ],
+    [
+     "Durante cuarenta años trabajé en un observatorio.",
+     "For forty years I worked at an observatory."
+    ]
+   ]
+  }
+ ],
+ "b1-05": [
+  {
+   "topic": "Pluperfect",
+   "explain": "Había + participle for events that happened before the main past action: descubrió que lo había dejado = she discovered (at that moment) that she had left it (earlier). It is essential for backstory: casi no habían hablado. Watch out: object pronouns go before había (lo había dejado), and the participle stays -o even with a female subject: Valeria había dejado, never *dejada.",
+   "examples": [
+    [
+     "Ella buscó el repuesto y descubrió que lo había dejado en el hotel.",
+     "She looked for the spare and discovered she had left it at the hotel."
+    ],
+    [
+     "Durante los últimos tres años casi no habían hablado.",
+     "For the last three years they had hardly spoken."
+    ]
+   ]
+  },
+  {
+   "topic": "Hypotheticals about the past",
+   "explain": "To imagine a different past: si + pluperfect subjunctive (hubiera + participle) and the conditional perfect (habría + participle): Si hubiera sido más paciente, no habríamos perdido tres años. It talks about something that did not happen. Watch out: never put habría after si (*si habría sido). In speech, hubiera also appears in the result clause (no hubiéramos perdido), and that is correct.",
+   "examples": [
+    [
+     "Si hubiera sido más paciente, no habríamos perdido tres años.",
+     "If I had been more patient, we wouldn't have lost three years."
+    ],
+    [
+     "Si me hubieras llamado, te habría ayudado.",
+     "If you had called me, I would have helped you."
+    ]
+   ]
+  },
+  {
+   "topic": "Deber in the conditional",
+   "explain": "Debería / deberíamos + infinitive gives soft advice: 'should'. For regret about the past use debería haber or debí haber + participle: 'should have (done)'. Watch out: English 'should have' needs haber, not tener (*debería tener hablado). And deber de + infinitive expresses a guess, not an obligation: debe de estar cansada = she must be tired.",
+   "examples": [
+    [
+     "Entonces deberíamos hacer otro viaje el año que viene.",
+     "Then we should take another trip next year."
+    ],
+    [
+     "Yo debí haber hablado contigo antes de firmar.",
+     "I should have talked to you before signing."
+    ],
+    [
+     "Y yo debí haberte llamado cuando se acabó todo.",
+     "And I should have called you when it was all over."
+    ]
+   ]
+  },
+  {
+   "topic": "Si + imperfect subjunctive",
+   "explain": "Si + imperfect subjunctive with the conditional describes an unreal or unlikely present or future. Don Walter's brother has died, so Si pudiera hablar con él... is impossible. Compare: si puedo (a real chance) vs. si pudiera (unlikely or impossible). Watch out: English 'could' after 'if' is pudiera, not podría.",
+   "examples": [
+    [
+     "Si pudiera hablar con él una hora más, no le hablaría de nada importante.",
+     "If I could talk with him for one more hour, I wouldn't talk to him about anything important."
+    ],
+    [
+     "Solo le diría que me alegro de haber crecido a su lado.",
+     "I'd only tell him I'm glad I grew up by his side."
+    ]
+   ]
+  }
+ ],
+ "b1-06": [
+  {
+   "topic": "Pluperfect",
+   "explain": "Había + participle gives events that happened before the moment being narrated: when Marisol arrives, Lupe se había mudado already, and someone had hidden the envelope long before she found it. Watch out: the participle never changes after haber, even with a feminine or plural object: alguien había escondido la foto (not *escondida).",
+   "examples": [
+    [
+     "Lupe se había mudado a un departamento más pequeño.",
+     "Lupe had moved into a smaller apartment."
+    ],
+    [
+     "Encontró un sobre de papel gris que alguien había escondido dentro de un libro de recetas.",
+     "She found a gray paper envelope that someone had hidden inside a recipe book."
+    ],
+    [
+     "Su bisabuelo las había guardado allí durante más de sesenta años.",
+     "Her great-grandfather had kept them there for more than sixty years."
+    ]
+   ]
+  },
+  {
+   "topic": "Reported speech",
+   "explain": "When the reporting verb is past (dijo, prometió), the reported verbs usually shift back: present → imperfect (me voy → se iba), future → conditional (te escribiré → me escribiría), preterite or present perfect → pluperfect (me olvidó → me había olvidado). Watch out: English can drop 'that' ('he said he was leaving'); Spanish can't: dijo que se iba.",
+   "examples": [
+    [
+     "Tomás me dijo que se iba a trabajar a Estados Unidos para ahorrar.",
+     "Tomás told me he was going to work in the United States to save money."
+    ],
+    [
+     "Prometió que me escribiría cada semana.",
+     "He promised he would write to me every week."
+    ],
+    [
+     "Con el tiempo pensé que me había olvidado.",
+     "In time I thought he had forgotten me."
+    ]
+   ]
+  },
+  {
+   "topic": "Subjunctive after opinion and wish",
+   "explain": "Hope, wishes, value judgements and doubt are followed by que + present subjunctive when the subject changes: espero que lo haga, es importante que no se haga ilusiones, no creo que conteste. Watch out: creo que and pienso que (belief) take the indicative: Creo que contestará. Only the negative no creo que expresses doubt and takes the subjunctive.",
+   "examples": [
+    [
+     "No creo que ella conteste pronto.",
+     "I don't think she'll answer soon."
+    ],
+    [
+     "Pero espero que lo haga.",
+     "But I hope she does."
+    ],
+    [
+     "Es importante que no se haga ilusiones antes de tiempo.",
+     "It's important that she doesn't get her hopes up too early."
+    ]
+   ]
+  },
+  {
+   "topic": "Negative commands",
+   "explain": "Negative tú commands use the tú form of the present subjunctive: no te rías, no vendas, no vengas (-ar verbs switch to -es, -er/-ir verbs to -as). Affirmative tú commands use a different form: ríete, vende, ven, dile. Pronouns go before the verb in negative commands and are attached in affirmative ones: no te rías / ríete. Watch out: *no vende and *no vendes are typical learner mistakes.",
+   "examples": [
+    [
+     "No te rías de mí.",
+     "Don't laugh at me."
+    ],
+    [
+     "Y tú, mija, no vendas la casa todavía.",
+     "And you, dear, don't sell the house yet."
+    ],
+    [
+     "Dile que por fin puede afinar la guitarra.",
+     "Tell him he can finally tune the guitar."
+    ]
+   ]
+  }
+ ],
+ "b1-07": [
+  {
+   "topic": "Present subjunctive after wishes",
+   "explain": "Querer que, esperar que and pedir que take the present subjunctive when the person who wants is different from the person who acts: Quiero que todo salga perfecto. With the same subject, use the infinitive: Quiero salir. Watch out: English 'I want you to come' has no 'that', but Spanish needs que + subjunctive: Quiero que vengas (never *Quiero tú venir). Para que ('so that') also always takes the subjunctive.",
+   "examples": [
+    [
+     "Quiero que todo salga perfecto.",
+     "I want everything to turn out perfectly."
+    ],
+    [
+     "Espero que por fin se tome el jugo.",
+     "I hope he finally drinks his juice."
+    ],
+    [
+     "Quiero conseguir un inversionista.",
+     "I want to get an investor."
+    ]
+   ]
+  },
+  {
+   "topic": "Commands",
+   "explain": "Affirmative tú: the él/ella present form (respira, vuelve) or a short irregular (pon, ven, haz, sal, di). Negative tú: present subjunctive (no cuentes, no salgas). Usted and ustedes use the subjunctive both ways: mire, piense / observen, imaginen. Pronouns attach to affirmative commands (ponte) and go before negative ones (no te pongas). Watch out: an extra syllable often needs a written accent: ayúdame.",
+   "examples": [
+    [
+     "Respira hondo.",
+     "Take a deep breath."
+    ],
+    [
+     "Por favor, no cuentes el chiste de la jirafa.",
+     "Please don't tell the giraffe joke."
+    ],
+    [
+     "¡Ponte la bufanda, que hoy hace frío!",
+     "Put on your scarf, it's cold today!"
+    ]
+   ]
+  },
+  {
+   "topic": "Reported commands",
+   "explain": "To report an order or request, use decir / pedir que + subjunctive: present subjunctive if the reporting verb is present (te dice que te los quites), imperfect subjunctive if it is past (le dijo que se los quitara). Watch out: English 'she told him to take them off' uses an infinitive; Spanish can't. Decir que + indicative only reports information: Dijo que hacía frío (fact) vs. Dijo que se pusiera la bufanda (order).",
+   "examples": [
+    [
+     "Daniela le dijo que se los quitara de una vez.",
+     "Daniela told him to take them off once and for all."
+    ],
+    [
+     "Su mamá le decía que se pusiera la bufanda.",
+     "His mom used to tell him to put on his scarf."
+    ],
+    [
+     "Daniela le pide que no cuente el chiste.",
+     "Daniela asks him not to tell the joke."
+    ]
+   ]
+  },
+  {
+   "topic": "Conditional for speculation",
+   "explain": "The conditional says what someone would do in an imagined situation, even when the 'if' part is left unsaid: Apuesto a que obedecería a unos zapatos (if they had his mother's voice). It also makes guesses about the past: Serían las diez = It was probably about ten. Watch out: English 'would' for repeated past actions ('he would call every day') is the imperfect (llamaba), not the conditional.",
+   "examples": [
+    [
+     "Apuesto a que obedecería a unos zapatos con la voz de su mamá.",
+     "I bet he would obey a pair of shoes with his mother's voice."
+    ],
+    [
+     "¿Qué harían ustedes con unos zapatos así?",
+     "What would you do with shoes like these?"
+    ],
+    [
+     "Serían las diez cuando entraron en la sala.",
+     "It must have been about ten when they went into the room."
+    ]
+   ]
+  }
+ ],
+ "b1-08": [
+  {
+   "topic": "Subjunctive after wishes and ojalá",
+   "explain": "Quiero que, espero que and ojalá (que) take the present subjunctive for hopes about the present or future: Ojalá pueda venir. Ojalá never changes form. Watch out: in Quiero que hoy descanse the principal is speaking to him as usted, so descanse means 'you rest'; with the same subject you'd say Quiero descansar. Aunque + subjunctive means 'even if': aunque les dé vergüenza.",
+   "examples": [
+    [
+     "Quiero que hoy descanse un poco.",
+     "I want you to rest a bit today."
+    ],
+    [
+     "Espero que no sea muy difícil.",
+     "I hope it isn't too hard."
+    ],
+    [
+     "Ojalá pueda venir los sábados a dar clases.",
+     "I hope you can come on Saturdays to teach."
+    ]
+   ]
+  },
+  {
+   "topic": "Commands with ustedes and usted",
+   "explain": "Usted and ustedes commands use the present subjunctive in both affirmative and negative: dígame, hagan, no tengan. Pronouns are attached to affirmative commands (dígame, devuélvanle) and go before negative ones (no lo olviden). In Latin America ustedes is the only plural 'you'; Spain uses vosotros with friends (haced). Watch out: adding a pronoun often needs a written accent: diga → dígame.",
+   "examples": [
+    [
+     "Hagan preguntas, aunque les dé vergüenza.",
+     "Ask questions, even if you feel embarrassed."
+    ],
+    [
+     "No tengan miedo de equivocarse.",
+     "Don't be afraid of making mistakes."
+    ],
+    [
+     "No lo olviden: devuélvanle el favor a otra persona.",
+     "Don't forget it: return the favor to someone else."
+    ],
+    [
+     "Dígame a qué hora empiezo.",
+     "Tell me what time I start."
+    ]
+   ]
+  },
+  {
+   "topic": "Pluperfect",
+   "explain": "Había + participle for things that happened before the main past moment: on his last day, don Aurelio había enseñado for 38 years. With durante it shows how long something had gone on up to that past point. Watch out for irregular participles: escribir → escrito, decir → dicho, hacer → hecho, poner → puesto.",
+   "examples": [
+    [
+     "Don Aurelio había enseñado matemáticas en el mismo colegio de Valparaíso durante treinta y ocho años.",
+     "Don Aurelio had taught math at the same school in Valparaíso for thirty-eight years."
+    ],
+    [
+     "Había pedido a la directora una despedida sencilla.",
+     "He had asked the principal for a simple farewell."
+    ],
+    [
+     "En la pizarra alguien había escrito: «Gracias por enseñarnos a pensar».",
+     "On the board someone had written: 'Thank you for teaching us to think.'"
+    ]
+   ]
+  },
+  {
+   "topic": "Reported speech",
+   "explain": "Explicó que, dijo que and respondió que report someone's words. When the reporting verb is past, tenses shift back: present → imperfect («No tengo planes» → respondió que no tenía planes); present perfect or preterite → pluperfect («Hemos encontrado la tiza» → explicó que habían encontrado la tiza). Watch out: also change pronouns and possessives to fit the new speaker (tengo → tenía, mi → su).",
+   "examples": [
+    [
+     "La directora explicó que habían encontrado la tiza en un cajón del archivo.",
+     "The principal explained that they had found the chalk in a drawer in the archive."
+    ],
+    [
+     "Aurelio respondió que todavía no tenía planes.",
+     "Aurelio answered that he had no plans yet."
+    ],
+    [
+     "Un panadero recordó que Aurelio le había enseñado a calcular las proporciones de la masa.",
+     "A baker recalled that Aurelio had taught him to calculate the proportions of the dough."
+    ]
+   ]
+  }
+ ],
+ "b1-09": [
+  {
+   "topic": "Subjunctive after quiero que",
+   "explain": "When you want someone else to do something, use quiero que + present subjunctive: Quiero que se reúnan aquí. If you want to do it yourself, use the infinitive: Quiero quedarme aquí. Watch out: English says 'I want you to...' with no 'that'; Spanish must use que + subjunctive. In a past narrative it becomes quería que + imperfect subjunctive: quería que volviera la luz.",
+   "examples": [
+    [
+     "Quiero que se reúnan aquí, donde hay velas, y que nadie salga a la calle.",
+     "I want you to gather here, where there are candles, and for no one to go out into the street."
+    ],
+    [
+     "Mateo quería que volviera la luz.",
+     "Mateo wanted the light to come back."
+    ]
+   ]
+  },
+  {
+   "topic": "Indirect commands with que",
+   "explain": "Que + present subjunctive at the start of a sentence gives an order or wish for someone you aren't addressing directly, or a good wish: Que alguien me ayude ('Somebody help me'), ¡Que descanses! ('Get some rest!'). Think of it as a shortened Quiero que... Watch out: que + indicative is not a command; it just means 'that...': (Prométanme) que no vamos a volver a ser extraños = (Promise me) that we won't...",
+   "examples": [
+    [
+     "Que alguien me ayude a cocinar, porque yo solo no puedo.",
+     "Somebody help me cook, because I can't do it alone."
+    ],
+    [
+     "Que nadie use el ascensor.",
+     "Nobody is to use the elevator."
+    ],
+    [
+     "¡Que descanses!",
+     "Get some rest! / Sleep well!"
+    ]
+   ]
+  },
+  {
+   "topic": "Cuando + subjunctive for the future",
+   "explain": "When cuando refers to something that hasn't happened yet, use the present subjunctive: Cuando vuelva la luz... ('When the light comes back...'). For past or habitual events use the indicative: cuando volvió la luz, cuando llueve. Watch out: English uses the present ('comes back'), so learners write *cuando vuelve or *cuando volverá about the future. The question word ¿cuándo? takes the normal indicative: ¿Cuándo volverá la luz?",
+   "examples": [
+    [
+     "Cuando vuelva la luz, prométanme una cosa.",
+     "When the light comes back, promise me one thing."
+    ],
+    [
+     "A las once, cuando por fin volvió la luz, todos parpadearon sorprendidos.",
+     "At eleven, when the light finally came back, everyone blinked in surprise."
+    ],
+    [
+     "Cuando llueve mucho, a veces se va la luz.",
+     "When it rains hard, the power sometimes goes out."
+    ]
+   ]
+  },
+  {
+   "topic": "Imperatives and ojalá",
+   "explain": "Ustedes commands use the subjunctive, with pronouns attached in the affirmative (cálmense, prométanme; note the written accent) and placed first in the negative (no se preocupen). Ojalá + present subjunctive expresses a hope that something will happen: Ojalá repita el arroz. Watch out: ojalá + imperfect subjunctive (Ojalá pudiera...) is a wish that is unlikely or impossible.",
+   "examples": [
+    [
+     "¡Cálmense todos!",
+     "Everyone calm down!"
+    ],
+    [
+     "No se preocupen, la luz volverá pronto.",
+     "Don't worry, the power will come back soon."
+    ],
+    [
+     "Ojalá repita el arroz el mes que viene.",
+     "I hope you make that rice again next month."
+    ]
+   ]
+  }
+ ],
+ "b1-10": [
+  {
+   "topic": "Conditional sentences (si + present)",
+   "explain": "For a real, possible condition: si + present, then a future, a present or a command: Si vendes tus cuadernos aquí, tendrás clientes nuevos. Watch out: never put the future or the present subjunctive right after si (*si vendrás, *si vengas). Save si + imperfect subjunctive + conditional (si vinieras, te enseñaría) for conditions that are unlikely or unreal.",
+   "examples": [
+    [
+     "Si vendes tus cuadernos en nuestra librería, tendrás clientes nuevos.",
+     "If you sell your notebooks in our bookshop, you'll have new customers."
+    ],
+    [
+     "Si vienes en primavera, te enseñaré dónde viven los dragones de Granada.",
+     "If you come in the spring, I'll show you where the dragons of Granada live."
+    ],
+    [
+     "Si somos desconocidos, nos presentaremos.",
+     "If we're strangers, we'll introduce ourselves."
+    ]
+   ]
+  },
+  {
+   "topic": "Subjunctive after wishes and hasta que",
+   "explain": "Espero que and quiero que take the subjunctive when the subject changes. Hasta que ('until') takes the subjunctive for events that haven't happened yet (hasta que despegue) but the indicative for past facts (esperó hasta que despegó). When the main verb is past, the subjunctive moves to the past too: esperaba que abrieras. Watch out: English 'until it takes off' uses a present; Spanish needs the subjunctive.",
+   "examples": [
+    [
+     "Espero que hoy abras la puerta con una sonrisa.",
+     "I hope you open the door with a smile today."
+    ],
+    [
+     "No lo abras hasta que despegue mi avión.",
+     "Don't open it until my plane takes off."
+    ],
+    [
+     "No quiero que lo hagas solo por pena.",
+     "I don't want you to do it just out of pity."
+    ],
+    [
+     "Te escribí que esperaba que abrieras la puerta con una sonrisa.",
+     "I wrote to you that I hoped you would open the door with a smile."
+    ]
+   ]
+  },
+  {
+   "topic": "Commands",
+   "explain": "Usted commands use the subjunctive: pase, mire. Affirmative tú commands use the él/ella present form (mira, trae) or a short irregular (ven, pon, haz, di, sal, ten). Negative tú commands use the subjunctive: no lo abras. Pronouns attach to affirmative commands (ábrelo) and go before negative ones (no lo abras). Watch out: don't mix tú and usted in one sentence (*pasa y mire); pick one form.",
+   "examples": [
+    [
+     "Pase y mire con calma.",
+     "Come in and take your time looking around."
+    ],
+    [
+     "Ven pronto, y trae la caja azul.",
+     "Come soon, and bring the blue box."
+    ],
+    [
+     "No lo abras hasta que despegue mi avión.",
+     "Don't open it until my plane takes off."
+    ]
+   ]
+  },
+  {
+   "topic": "Pluperfect and reported feeling",
+   "explain": "Había + participle gives the backstory: se habían escrito = they had written to each other. A past feeling of fear, hope or wish (temía que, esperaba que, no quería que) is followed by the imperfect subjunctive: temía que él le pidiera que no viniera. Watch out: English 'would ask' tempts learners to use the conditional (*temía que le pediría); after temer que, use the subjunctive.",
+   "examples": [
+    [
+     "Durante doce años, Joaquín y Marta se habían escrito cartas de verdad.",
+     "For twelve years, Joaquín and Marta had written each other real letters."
+    ],
+    [
+     "Marta explicó que había ahorrado durante un año.",
+     "Marta explained that she had saved up for a year."
+    ],
+    [
+     "No quiso avisarle porque temía que él le pidiera que no viniera.",
+     "She didn't want to let him know in advance because she was afraid he would ask her not to come."
+    ]
+   ]
+  }
+ ]
+}

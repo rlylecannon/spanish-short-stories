@@ -1,0 +1,1022 @@
+{
+ "b2-01": [
+  {
+   "topic": "Subjunctive after conjunctions (para que, sin que, antes de que...)",
+   "q": "Complete: «Ignacio dejó el sobre en la tapa para que otro archivista lo ___ algún día.»",
+   "options": [
+    "encontraría",
+    "encontró",
+    "encontrara",
+    "encuentra"
+   ],
+   "answer": 2,
+   "why": "Para que always takes the subjunctive; after a past main verb (dejó), the imperfect subjunctive: encontrara. The conditional and the indicative cannot follow para que."
+  },
+  {
+   "topic": "Aunque: indicative vs subjunctive",
+   "q": "Ignacio has no idea whether Elvira will remember Facundo. He decides: «Iré a verla aunque no ___ a Facundo.»",
+   "options": [
+    "recuerda",
+    "recordará",
+    "recordaba",
+    "recuerde"
+   ],
+   "answer": 3,
+   "why": "He doesn't know, so the clause is only a possibility, 'even if she doesn't remember': subjunctive. Recuerda or recordará would state it as something he knows."
+  },
+  {
+   "topic": "Aunque: indicative vs subjunctive",
+   "q": "The narrator reports a fact about Ignacio's feelings: «Rasgó el borde del sobre, aunque ___ un poco culpable.»",
+   "options": [
+    "se sintiera",
+    "se sentía",
+    "se sienta",
+    "se sentiría"
+   ],
+   "answer": 1,
+   "why": "The narrator asserts a real feeling, so aunque takes the indicative; imperfect because it is background. Se sintiera would turn it into a mere possibility."
+  },
+  {
+   "topic": "Si + imperfect subjunctive, conditional",
+   "q": "Complete Adriana's offer: «Pues si usted me ___, yo podría buscar en los registros civiles.»",
+   "options": [
+    "dejaría",
+    "dejara",
+    "deje",
+    "dejaba"
+   ],
+   "answer": 1,
+   "why": "An unlikely condition with a conditional result (podría) needs si + imperfect subjunctive. *Si dejaría copies English 'if you would'; si never takes the present subjunctive."
+  },
+  {
+   "topic": "Subjunctive after conjunctions (para que, sin que, antes de que...)",
+   "q": "Which sentence contains an error?",
+   "options": [
+    "Elvira leyó la carta sin que le temblara la voz.",
+    "Ignacio escondió el sobre antes de que llegó su jefe.",
+    "Facundo prometió esperarla hasta que terminara el invierno.",
+    "Adriana buscó en los periódicos para que Ignacio no tuviera que salir."
+   ],
+   "answer": 1,
+   "why": "Antes de que always takes the subjunctive, even for an event that really happened: antes de que llegara. The other three conjunctions are correctly followed by the subjunctive.",
+   "x": true
+  },
+  {
+   "topic": "Aunque: indicative vs subjunctive",
+   "q": "Rewrite so it means 'even if': «Aunque Adriana tiene poco tiempo, ayudará a Ignacio.»",
+   "options": [
+    "Aunque Adriana tiene poco tiempo, ayudaría a Ignacio.",
+    "Aunque Adriana tendría poco tiempo, ayudará a Ignacio.",
+    "Aunque Adriana tuvo poco tiempo, ayudará a Ignacio.",
+    "Aunque Adriana tenga poco tiempo, ayudará a Ignacio."
+   ],
+   "answer": 3,
+   "why": "Switching to the subjunctive (tenga) turns a stated fact into a possibility: 'even if she has little time'. Changing the main verb does not change the meaning of aunque.",
+   "x": true
+  },
+  {
+   "topic": "Si + imperfect subjunctive, conditional",
+   "q": "Which sentence is correct?",
+   "options": [
+    "Si Ignacio tendría tiempo, buscaría a Elvira.",
+    "Si Ignacio tuviera tiempo, buscará a Elvira.",
+    "Si Ignacio tenga tiempo, buscaría a Elvira.",
+    "Si Ignacio tuviera tiempo, buscaría a Elvira."
+   ],
+   "answer": 3,
+   "why": "Hypothetical pattern: si + imperfect subjunctive, conditional. Si never takes the conditional or the present subjunctive, and tuviera does not combine with a future result.",
+   "x": true
+  },
+  {
+   "topic": "Subjunctive after conjunctions (para que, sin que, antes de que...)",
+   "q": "Join with sin que: «Elvira leyó la carta. Nadie la interrumpió.»",
+   "options": [
+    "Elvira leyó la carta sin que nadie la interrumpió.",
+    "Elvira leyó la carta sin que nadie la interrumpiera.",
+    "Elvira leyó la carta sin que nadie la interrumpa.",
+    "Elvira leyó la carta sin nadie la interrumpiera."
+   ],
+   "answer": 1,
+   "why": "Sin que needs both words and the subjunctive; after a past verb (leyó), the imperfect subjunctive: interrumpiera. The indicative interrumpió is the typical mistake.",
+   "x": true
+  }
+ ],
+ "b2-02": [
+  {
+   "topic": "Concession: aunque, por mucho que",
+   "q": "Complete: «Por mucho que los clientes ___ (protestar) el viernes, Esperanza va a estrenar la carta nueva.»",
+   "options": [
+    "protestan",
+    "protestaran",
+    "protestarán",
+    "protesten"
+   ],
+   "answer": 3,
+   "why": "Por mucho que takes the subjunctive; the protest is still to come (el viernes, va a estrenar), so present subjunctive. The future never follows por mucho que."
+  },
+  {
+   "topic": "Verb phrases: seguir, acabar + gerund; soler",
+   "q": "Complete Esperanza's warning (would end up closing): «Si siguiéramos haciendo siempre lo mismo, el negocio acabaría ___.»",
+   "options": [
+    "cerrando",
+    "de cerrar",
+    "cerrar",
+    "a cerrar"
+   ],
+   "answer": 0,
+   "why": "Acabar + gerund means 'end up doing'. Acabar de + infinitive means 'have just done', and *acabar cerrar / *acabar a cerrar are not Spanish."
+  },
+  {
+   "topic": "Subjunctive after no es que, temer que, a que",
+   "q": "Complete don Leandro's reply: «No es que no me ___ (gustar) la carta nueva, hija; es que aquí la gente quiere lo de siempre.»",
+   "options": [
+    "gustaría",
+    "gusta",
+    "gustará",
+    "guste"
+   ],
+   "answer": 3,
+   "why": "No es que denies a reason, so the verb goes in the subjunctive: guste. The real reason, introduced by es que, stays in the indicative: quiere."
+  },
+  {
+   "topic": "Subjunctive after no es que, temer que, a que",
+   "q": "Complete: «Aquí la gente no viene a que le ___ (explicar) la comida.»",
+   "options": [
+    "explican",
+    "explicar",
+    "explicaran",
+    "expliquen"
+   ],
+   "answer": 3,
+   "why": "Venir a que + subjunctive gives the purpose with a new subject (they explain). The main verb viene is present, so present subjunctive: expliquen."
+  },
+  {
+   "topic": "Concession: aunque, por mucho que",
+   "q": "What does the subjunctive suggest in «Y su padre, aunque no lo diga, lo anota en la libreta de ventas con un asterisco»?",
+   "options": [
+    "Whether he says it or not doesn't matter: his note shows he approves.",
+    "He has never noticed the special dish.",
+    "He may start saying it openly soon.",
+    "He tells everyone he is proud of it."
+   ],
+   "answer": 0,
+   "why": "Aunque + subjunctive presents the concession as irrelevant to the point. Aunque no lo dice would simply report, as new information, that he doesn't say it.",
+   "x": true
+  },
+  {
+   "topic": "Verb phrases: seguir, acabar + gerund; soler",
+   "q": "Which sentence contains an error?",
+   "options": [
+    "Doña Chela suele sentarse en la misma mesa.",
+    "Al final, el negocio acabó cerrando.",
+    "Esperanza siguió cocinando en el pib.",
+    "La abuela solió decir que la paciencia no se compra."
+   ],
+   "answer": 3,
+   "why": "Soler is used only in the present and imperfect: 'used to say' is solía decir. Seguir and acabar + gerund work in any tense.",
+   "x": true
+  },
+  {
+   "topic": "Subjunctive after no es que, temer que, a que",
+   "q": "Which sentence is correct?",
+   "options": [
+    "No es que sea terco; es que está asustado.",
+    "No es que es terco; es que esté asustado.",
+    "No es que sea terco; es que esté asustado.",
+    "No es que es terco; es que está asustado."
+   ],
+   "answer": 0,
+   "why": "No es que (rejected reason) takes the subjunctive; es que (real reason) takes the indicative. Mixing them up, in either half, is the typical error.",
+   "x": true
+  },
+  {
+   "topic": "Subjunctive after no es que, temer que, a que",
+   "q": "Put into the past: «Los clientes tienen miedo de que Esperanza cambie la carta.» → «Aquel viernes, los clientes tenían miedo de que Esperanza ___ la carta.»",
+   "options": [
+    "cambiara",
+    "cambiaba",
+    "cambiaría",
+    "cambie"
+   ],
+   "answer": 0,
+   "why": "Tener miedo de que always takes the subjunctive; with a past main verb about a past event, use the imperfect subjunctive: cambiara.",
+   "x": true
+  }
+ ],
+ "b2-03": [
+  {
+   "topic": "Como si + imperfect subjunctive",
+   "q": "Complete: «Al principio, Begoña miraba a los peregrinos como si ___ turistas en un parque temático.»",
+   "options": [
+    "eran",
+    "serían",
+    "fueran",
+    "sean"
+   ],
+   "answer": 2,
+   "why": "Como si always takes the subjunctive, imperfect for the same time: fueran. The indicative (eran), the conditional (serían) and the present subjunctive (sean) are never used after como si."
+  },
+  {
+   "topic": "Passive: ser + participle and se",
+   "q": "Complete with the ser passive: «El Pórtico de la Gloria ___ por el Maestro Mateo en el siglo XII.»",
+   "options": [
+    "fue esculpida",
+    "fue esculpido",
+    "estuvo esculpido",
+    "fue esculpiendo"
+   ],
+   "answer": 1,
+   "why": "Ser + participle agreeing with el Pórtico (masculine singular), with por for the agent. Estar gives a state, not the action; esculpiendo is a gerund."
+  },
+  {
+   "topic": "Imperfect subjunctive in subordinate clauses",
+   "q": "Complete: «Aquella mañana, Xosé les pidió que ___ el Pórtico antes de la misa.»",
+   "options": [
+    "vieron",
+    "vean",
+    "vieran",
+    "verían"
+   ],
+   "answer": 2,
+   "why": "Pedir que + subjunctive, and the request is past (pidió, aquella mañana), so imperfect subjunctive: vieran. The indicative and the conditional don't follow a request."
+  },
+  {
+   "topic": "Imperfect subjunctive in subordinate clauses",
+   "q": "Complete: «Begoña cargó con la mochila verde hasta Ribadiso para que Rosendo no ___ que buscarla.»",
+   "options": [
+    "tuviera",
+    "tendría",
+    "tenga",
+    "tenía"
+   ],
+   "answer": 0,
+   "why": "Para que with a different subject always takes the subjunctive. The main verb (cargó) is past and the purpose is completed, so the imperfect subjunctive: tuviera."
+  },
+  {
+   "topic": "Como si + imperfect subjunctive",
+   "q": "Find the mistake: «Rosendo hablaba del cuaderno como si Amparo todavía caminaba a su lado.»",
+   "options": [
+    "caminaba should be caminara",
+    "hablaba should be hablara",
+    "como si should be como que",
+    "There is no mistake"
+   ],
+   "answer": 0,
+   "why": "After como si the verb must be in the subjunctive: como si caminara. The main verb hablaba is a normal imperfect indicative and stays.",
+   "x": true
+  },
+  {
+   "topic": "Passive: ser + participle and se",
+   "q": "Rewrite with the ser passive: «Ocho hombres impulsan el botafumeiro.»",
+   "options": [
+    "El botafumeiro se impulsa por ocho hombres.",
+    "El botafumeiro es impulsado por ocho hombres.",
+    "El botafumeiro está impulsando por ocho hombres.",
+    "El botafumeiro es impulsada por ocho hombres."
+   ],
+   "answer": 1,
+   "why": "Ser + participle agreeing with el botafumeiro (masculine): es impulsado, with por for the agent. Passive se doesn't take a por-agent.",
+   "x": true
+  },
+  {
+   "topic": "Passive: ser + participle and se",
+   "q": "Which sentence is correct?",
+   "options": [
+    "Se vendían conchas a las puertas de la catedral.",
+    "Se vendía conchas a las puertas de la catedral.",
+    "Conchas fueron vendido a las puertas de la catedral.",
+    "Se vendían conchas por los comerciantes."
+   ],
+   "answer": 0,
+   "why": "Passive se agrees with the noun (conchas, plural: se vendían) and names no agent. A ser passive needs an agreeing participle (vendidas).",
+   "x": true
+  },
+  {
+   "topic": "Imperfect subjunctive in subordinate clauses",
+   "q": "Compare «Rosendo le dijo que escribiera ella la entrada» with «Rosendo le dijo que escribía ella la entrada». What does the second one mean?",
+   "options": [
+    "Rosendo told her that she was the one writing the entry: information, not a request.",
+    "Rosendo would write the entry later.",
+    "Rosendo told her to write the entry.",
+    "Rosendo hoped she would write the entry."
+   ],
+   "answer": 0,
+   "why": "Decir que + subjunctive reports an order or request; decir que + indicative reports information. Escribiera = told her to write; escribía = said she was writing.",
+   "x": true
+  }
+ ],
+ "b2-04": [
+  {
+   "topic": "Indicative vs subjunctive: opinion, doubt and emotion",
+   "q": "Complete: «Whitcombe no esperaba que una traductora desconocida le ___ esa pregunta.»",
+   "options": [
+    "hacía",
+    "hiciera",
+    "haga",
+    "habría hecho"
+   ],
+   "answer": 1,
+   "why": "No esperaba que expresses (failed) expectation, so subjunctive; the trigger is past, so imperfect subjunctive: hiciera. Haga would need a present trigger (no espero que)."
+  },
+  {
+   "topic": "Discourse markers: sin embargo, en cambio, en cuanto a",
+   "q": "Complete: «En inglés la ambigüedad era un recurso elegante; el español, ___, la obligaba a decidirse.»",
+   "options": [
+    "en cambio",
+    "en cuanto",
+    "por lo tanto",
+    "a cambio"
+   ],
+   "answer": 0,
+   "why": "En cambio contrasts two different things (English vs Spanish). A cambio means 'in exchange', en cuanto 'as soon as', por lo tanto 'therefore'."
+  },
+  {
+   "topic": "Ojalá and como si with pluperfect",
+   "q": "Complete Whitcombe's regret: «Ojalá yo ___ esa libertad hace veinticinco años.»",
+   "options": [
+    "tuviera",
+    "hubiera tenido",
+    "haya tenido",
+    "habría tenido"
+   ],
+   "answer": 1,
+   "why": "Regret about a past that can't change: ojalá + pluperfect subjunctive. Tuviera is a wish about now; haya tenido hopes about an unknown past outcome."
+  },
+  {
+   "topic": "Mixed conditionals: si hubiera…, ahora sería",
+   "q": "Ramiro is asking Maribel right now to soften the sentence. Complete her reply: «Si hubieras leído el correo del autor, no me ___ lo contrario.»",
+   "options": [
+    "pedirías",
+    "pidieras",
+    "pediste",
+    "pedirás"
+   ],
+   "answer": 0,
+   "why": "The condition is in the past (hubieras leído) but the result is happening now, so the main clause takes the simple conditional: pedirías. The subjunctive cannot be the result clause, and the preterite and future don't express an unreal result."
+  },
+  {
+   "topic": "Indicative vs subjunctive: opinion, doubt and emotion",
+   "q": "Whitcombe writes «Me temo que la frase significa exactamente lo que usted sospecha». What does me temo que do here?",
+   "options": [
+    "It expresses fear about something that may still happen.",
+    "It politely introduces an unwelcome fact, so the indicative follows.",
+    "It shows that he doubts Maribel's reading, so significa should be signifique.",
+    "It is an order not to change the sentence."
+   ],
+   "answer": 1,
+   "why": "Me temo que works like English 'I'm afraid that': it softens news the speaker knows is true, so it takes the indicative, unlike temer que expressing real fear.",
+   "x": true
+  },
+  {
+   "topic": "Discourse markers: sin embargo, en cambio, en cuanto a",
+   "q": "Which sentence contains an error?",
+   "options": [
+    "La embajada, por su parte, no hizo ningún comentario sobre la nota.",
+    "Sin embargo que el plazo era corto, terminó a tiempo.",
+    "En cuanto a ella, aprendió una lección.",
+    "Aquel libro, sin embargo, avanzaba con fluidez."
+   ],
+   "answer": 1,
+   "why": "Sin embargo links two separate clauses and never takes que. Say Aunque el plazo era corto, … or El plazo era corto; sin embargo, terminó a tiempo.",
+   "x": true
+  },
+  {
+   "topic": "Ojalá and como si with pluperfect",
+   "q": "Which sentence is correct?",
+   "options": [
+    "Se sintió como si le habían confiado una carga.",
+    "Me miró como si yo habría mentido.",
+    "Me habla como si me conozca desde hace muchísimos años.",
+    "Se sintió como si le hubieran confiado una carga."
+   ],
+   "answer": 3,
+   "why": "Como si takes only the imperfect or pluperfect subjunctive. The conditional, the present subjunctive and the indicative are not possible after it.",
+   "x": true
+  },
+  {
+   "topic": "Mixed conditionals: si hubiera…, ahora sería",
+   "q": "Which sentence means 'If she had not received that letter, she would be a different translator today'?",
+   "options": [
+    "Si no recibiera aquella carta, hoy habría sido una traductora distinta.",
+    "Si no habría recibido aquella carta, hoy sería una traductora distinta.",
+    "Si no había recibido aquella carta, hoy es una traductora distinta.",
+    "Si no hubiera recibido aquella carta, hoy sería una traductora distinta."
+   ],
+   "answer": 3,
+   "why": "Past condition (pluperfect subjunctive hubiera recibido) + present result (conditional sería, with hoy). The conditional never goes after si, and the indicative había recibido does not express an unreal past.",
+   "x": true
+  }
+ ],
+ "b2-05": [
+  {
+   "topic": "Si + pluperfect subjunctive, conditional perfect",
+   "q": "Complete Mercedes's reasoning: «Si a las seis y cuarto ___, Bernardo habría vuelto empapado antes de las siete.»",
+   "options": [
+    "habría llovido",
+    "hubiera llovido",
+    "había estado lloviendo",
+    "llovería"
+   ],
+   "answer": 1,
+   "why": "An unreal past condition takes the pluperfect subjunctive after si. Habría never follows si, había estado lloviendo states a fact, and llovería is about the present or future."
+  },
+  {
+   "topic": "Reported speech with tense shifts",
+   "q": "Ugarte on the phone: «Estoy aquí desde el viernes y el lunes estaré en la librería.» Complete the narration: «Dijo que ___ allí desde el viernes y que el lunes ___ en la librería.»",
+   "options": [
+    "estaba / estaría",
+    "estuvo / estaría",
+    "estaba / estará",
+    "estuviera / estaría"
+   ],
+   "answer": 0,
+   "why": "After dijo, present estoy becomes imperfect estaba and future estaré becomes conditional estaría. The Monday is past for the narrator, so estará doesn't fit."
+  },
+  {
+   "topic": "Reported speech with tense shifts",
+   "q": "Don Aníbal to Tobías at six: «Bajá (= baja) al sótano a ordenar revistas.» Tobías tells Mercedes: «Tu abuelo me dijo que ___ al sótano.»",
+   "options": [
+    "bajaba",
+    "bajar",
+    "bajara",
+    "bajaría"
+   ],
+   "answer": 2,
+   "why": "A reported command after a past verb takes que + imperfect subjunctive. Bajaba would report a fact, not an order; dijo bajar and bajaría are learner errors."
+  },
+  {
+   "topic": "Ojalá and aunque + pluperfect subjunctive",
+   "q": "Nobody actually offered Don Aníbal three times the price. Complete: «Aunque me ___ el triple, no lo habría vendido.»",
+   "options": [
+    "ofrecieron",
+    "habían ofrecido",
+    "hubieran ofrecido",
+    "habrían estado ofreciendo"
+   ],
+   "answer": 2,
+   "why": "An imagined past offer that wouldn't have changed anything: aunque + pluperfect subjunctive. Ofrecieron or habían ofrecido would say the offer really happened."
+  },
+  {
+   "topic": "Si + pluperfect subjunctive, conditional perfect",
+   "q": "Find the error: «Si me habrías preguntado, te hubiera dicho que hay cosas que no se venden.»",
+   "options": [
+    "te hubiera dicho → te habría dicho",
+    "habrías preguntado → hubieras preguntado",
+    "There is no error.",
+    "no se venden → no se vende"
+   ],
+   "answer": 1,
+   "x": true,
+   "why": "The si-clause needs the pluperfect subjunctive. In the result clause, hubiera dicho is as correct as habría dicho."
+  },
+  {
+   "topic": "Reported speech with tense shifts",
+   "q": "Mercedes asked Tobías: «¿Y no oíste la campanita de la puerta?» Transform: «Mercedes le preguntó a Tobías ___ la campanita.»",
+   "options": [
+    "que no oíste",
+    "si no habría oído",
+    "si no había oído",
+    "no había oído"
+   ],
+   "answer": 2,
+   "x": true,
+   "why": "A reported yes/no question is introduced by si, and the preterite shifts to the pluperfect. Habría oído would be a hypothetical, not a report."
+  },
+  {
+   "topic": "Ojalá and aunque + pluperfect subjunctive",
+   "q": "Ugarte: «Aunque me lo hubieran regalado, jamás lo habría sacado a la calle con lluvia.» What does he mean?",
+   "options": [
+    "He wishes someone had given him the book.",
+    "Even as a gift, he would never have taken it out in the rain.",
+    "Someone really gave him the book as a present, so he kept it safe at home.",
+    "He took it out because it was a gift."
+   ],
+   "answer": 1,
+   "x": true,
+   "why": "Aunque + pluperfect subjunctive imagines a past that didn't happen and says the result would be the same. It's his proof that he isn't the thief."
+  },
+  {
+   "topic": "Ojalá and aunque + pluperfect subjunctive",
+   "q": "Mercedes regrets her promise to Ugarte. Which sentence is correct?",
+   "options": [
+    "Ojalá no se lo hubiera prometido.",
+    "Ojalá no se lo habría prometido.",
+    "Ojalá no se lo había prometido.",
+    "Ojalá que no se lo he prometido."
+   ],
+   "answer": 0,
+   "x": true,
+   "why": "A regret about the past is ojalá + pluperfect subjunctive. Ojalá never takes the conditional, and the indicative forms don't express a regret."
+  }
+ ],
+ "b2-06": [
+  {
+   "topic": "Estar + participle: resulting state",
+   "q": "Complete: «Cuando la aprendiz abrió el cajón, el reloj todavía ___ parado a las cuatro y diez.»",
+   "options": [
+    "era",
+    "fue",
+    "estaba",
+    "estuvo"
+   ],
+   "answer": 2,
+   "why": "The watch is in a state that resulted from stopping, so estar + participle; todavía and the background description call for the imperfect: estaba."
+  },
+  {
+   "topic": "Reported speech with tense shifts",
+   "q": "The apprentice thought: «No haré nada irreparable.» Complete the report: «Me dije que no ___ nada irreparable.»",
+   "options": [
+    "hice",
+    "haré",
+    "hiciera",
+    "haría"
+   ],
+   "answer": 3,
+   "why": "A future seen from a past reporting verb becomes the conditional: haré → haría. Hiciera would turn a statement into a request."
+  },
+  {
+   "topic": "Subjunctive in time clauses: cuando, hasta que, mientras",
+   "q": "Complete: «Don Eusebio decidió que no tocaría el reloj hasta que la dueña ___.»",
+   "options": [
+    "volviera",
+    "volvería",
+    "volvía",
+    "volvió"
+   ],
+   "answer": 0,
+   "why": "Her return is still pending from the past viewpoint (decidió, tocaría), so hasta que takes the imperfect subjunctive. A conditional never follows hasta que."
+  },
+  {
+   "topic": "Verb + preposition: depender de, pensar en",
+   "q": "Complete: «Una mañana de lluvia me atreví ___ preguntarle por el reloj, pero él se negaba ___ hablar de él.»",
+   "options": [
+    "a / de",
+    "de / en",
+    "en / de",
+    "a / a"
+   ],
+   "answer": 3,
+   "why": "Both verbs take a before an infinitive: atreverse a (dare to) and negarse a (refuse to). The preposition belongs to the verb, so learn them as a unit."
+  },
+  {
+   "topic": "Estar + participle: resulting state",
+   "q": "Rewrite as the resulting state: «Alguien cerró el cajón con llave.» → «El cajón ___ con llave.»",
+   "options": [
+    "era cerrado",
+    "fue cerrado",
+    "estaba cerrado",
+    "estaba cerrada"
+   ],
+   "answer": 2,
+   "why": "State = estar + participle agreeing with el cajón: estaba cerrado. Fue cerrado describes the action, not the state.",
+   "x": true
+  },
+  {
+   "topic": "Subjunctive in time clauses: cuando, hasta que, mientras",
+   "q": "Choose the pair: «Mientras el maestro ___ en el entierro, abrí el cajón.» / «Mientras el reloj ___ parado (as long as), ella tendría un motivo para volver.»",
+   "options": [
+    "estuviera / estaba",
+    "estaba / estaba",
+    "estuviera / estuviera",
+    "estaba / estuviera"
+   ],
+   "answer": 3,
+   "why": "First: a real past fact, mientras = 'while', indicative estaba. Second: a condition, mientras = 'as long as', imperfect subjunctive estuviera.",
+   "x": true
+  },
+  {
+   "topic": "Reported speech with tense shifts",
+   "q": "Salomé told the watchmaker: «Volveré cuando pueda oírlo.» Which sentence reports her promise correctly?",
+   "options": [
+    "Le dijo que volviera cuando pudiera oírlo.",
+    "Le dijo que volvería cuando podía oírlo.",
+    "Le dijo que volvería cuando podría oírlo.",
+    "Le dijo que volvería cuando pudiera oírlo."
+   ],
+   "answer": 3,
+   "why": "Volveré → volvería; cuando pueda → cuando pudiera. Volviera would turn her promise into an order to him.",
+   "x": true
+  },
+  {
+   "topic": "Verb + preposition: depender de, pensar en",
+   "q": "Which sentence is correct?",
+   "options": [
+    "Eso depende en a quién le preguntes.",
+    "Eso depende por a quién le preguntes.",
+    "Eso depende sobre a quién le preguntes.",
+    "Eso depende de a quién le preguntes."
+   ],
+   "answer": 3,
+   "why": "Depender always takes de, even before a question word: depende de a quién le preguntes. *Depende en copies English 'depends on'.",
+   "x": true
+  }
+ ],
+ "b2-07": [
+  {
+   "topic": "Cleft sentences",
+   "q": "Complete: «Paloma invitó a los dos al molino, y fue doña Fidela ___ habló.»",
+   "options": [
+    "que",
+    "la cual",
+    "lo que",
+    "la que"
+   ],
+   "answer": 3,
+   "why": "The focus is a woman, so la que (or quien). A bare que is avoided in careful Spanish, lo que is neuter, and la cual doesn't introduce a cleft."
+  },
+  {
+   "topic": "Si + pluperfect subjunctive, conditional perfect",
+   "q": "Complete doña Fidela's words: «Si les ___ la verdad, me habrían dejado de traer chiles los dos.»",
+   "options": [
+    "había dicho",
+    "habría dicho",
+    "hubiera dicho",
+    "diría"
+   ],
+   "answer": 2,
+   "why": "An unreal past condition takes the pluperfect subjunctive after si: hubiera dicho. The conditional (habría, diría) and the pluperfect indicative never follow si here."
+  },
+  {
+   "topic": "Verb phrases: llevar + gerund, llevar sin, ir + gerund",
+   "q": "Complete: «Don Abundio y doña Eulalia llevaban más de cuarenta años ___ la palabra.»",
+   "options": [
+    "sin dirigirse",
+    "no dirigiéndose",
+    "sin dirigiéndose",
+    "sin que se dirigían"
+   ],
+   "answer": 0,
+   "why": "The negative of llevar + gerund is llevar + time + sin + infinitive: sin dirigirse. Sin never takes a gerund."
+  },
+  {
+   "topic": "Cleft sentences",
+   "q": "The grandmother stresses WHERE the recipe comes from. Complete: «Es de esa cocina ___ viene nuestra receta.»",
+   "options": [
+    "que",
+    "donde",
+    "de donde",
+    "la que"
+   ],
+   "answer": 2,
+   "why": "Venir de needs its preposition in both places: es de esa cocina de donde viene. Without the second de, the relative clause is incomplete."
+  },
+  {
+   "topic": "Cleft sentences",
+   "x": true,
+   "q": "Which sentence contains a mistake?",
+   "options": [
+    "Fue una monja de Santa Rosa quien inventó el mole.",
+    "Fue mi familia la que lo hizo bien.",
+    "Fue el viento quien tiró las especias dentro de la cazuela.",
+    "Fue en el molino de la esquina donde Paloma descubrió el secreto."
+   ],
+   "answer": 2,
+   "why": "Quien refers only to people. For a thing like el viento, use el que: fue el viento el que tiró las especias."
+  },
+  {
+   "topic": "Si + pluperfect subjunctive, conditional perfect",
+   "x": true,
+   "q": "Turn the facts into an unreal past condition: «Abundio le cambió la receta; por eso Eulalia no se casó con él.»",
+   "options": [
+    "Si Abundio no le hubiera cambiado la receta, Eulalia se habría casado con él.",
+    "Si Abundio le hubiera cambiado la receta, Eulalia se habría casado con él.",
+    "Si Abundio no le cambiara la receta, Eulalia se casaría con él.",
+    "Si Abundio no le habría cambiado la receta, Eulalia se hubiera casado con él."
+   ],
+   "answer": 0,
+   "why": "Reverse both past facts: no hubiera cambiado → se habría casado. Cambiara/casaría imagines the present; habría can't follow si."
+  },
+  {
+   "topic": "Verb phrases: llevar + gerund, llevar sin, ir + gerund",
+   "x": true,
+   "q": "«A cada uno le fui poniendo un poquito de lo del otro.» What does fui poniendo tell us?",
+   "options": [
+    "She added it all at once, on one day.",
+    "She was about to add it but didn't.",
+    "She went to each of their stalls in the market to add it.",
+    "She added it gradually, a little at a time."
+   ],
+   "answer": 3,
+   "why": "Ir + gerund presents an action as gradual and progressive. It has nothing to do with movement (ir a) or intention (iba a poner)."
+  },
+  {
+   "topic": "Verb phrases: llevar + gerund, llevar sin, ir + gerund",
+   "x": true,
+   "q": "Rewrite with llevar: «Doña Eulalia sirve mole en la fonda desde hace cuarenta años.»",
+   "options": [
+    "Doña Eulalia lleva servir mole durante cuarenta años en la fonda.",
+    "Doña Eulalia está cuarenta años sirviendo mole en la fonda.",
+    "Doña Eulalia lleva cuarenta años sirviendo mole en la fonda.",
+    "Doña Eulalia hace cuarenta años sirviendo mole en la fonda."
+   ],
+   "answer": 2,
+   "why": "Llevar + time + gerund replaces desde hace: lleva cuarenta años sirviendo. Estar and hacer don't build this structure, and llevar needs the gerund."
+  }
+ ],
+ "b2-08": [
+  {
+   "topic": "Verbs of change: volverse, hacerse, convertirse",
+   "q": "Complete: «Después de seis años de estudios, Matías se había ___ veterinario.»",
+   "options": [
+    "puesto",
+    "vuelto",
+    "hecho",
+    "convertido"
+   ],
+   "answer": 2,
+   "why": "A profession reached through effort takes hacerse: se había hecho veterinario. Convertirse would need en; ponerse and volverse go with adjectives."
+  },
+  {
+   "topic": "Relative clauses with prepositions; cuyo",
+   "q": "Complete: «Sacó un sobre amarillento, ___ goma elástica estaba ya reseca.»",
+   "options": [
+    "que su",
+    "cuya",
+    "del que",
+    "cuyo"
+   ],
+   "answer": 1,
+   "why": "Cuyo agrees with the thing possessed (goma: feminine singular), not with the owner (sobre). *Que su is a frequent but non-standard shortcut."
+  },
+  {
+   "topic": "Relative clauses with prepositions; cuyo",
+   "q": "Complete: «Catalina Ibarra, ___ yo había compartido banda y pupitre, firmaba el correo.»",
+   "options": [
+    "con quien",
+    "quien",
+    "que",
+    "con que"
+   ],
+   "answer": 0,
+   "why": "'With whom' keeps the preposition before the relative: con quien (or con la que). For a person, a bare con que is not used, and que alone drops the preposition."
+  },
+  {
+   "topic": "Lo + adjective and lo + adjective + que",
+   "q": "Complete: «___ que noté fue alivio; lo segundo, una vergüenza lenta.»",
+   "options": [
+    "Lo primero",
+    "Lo primer",
+    "La primera",
+    "Primero"
+   ],
+   "answer": 0,
+   "why": "'The first thing that' is lo primero que. The ordinal shortens to primer only before a masculine noun, and la primera would need a feminine noun."
+  },
+  {
+   "topic": "Verbs of change: volverse, hacerse, convertirse",
+   "q": "Which sentence contains an error?",
+   "options": [
+    "Con los años, Renato se convirtió calvo.",
+    "Matías se hizo veterinario en Santiago.",
+    "Renato se había convertido en un hombre calvo.",
+    "Su acento se había vuelto medio español."
+   ],
+   "answer": 0,
+   "why": "Convertirse needs en + noun (se convirtió en un hombre calvo). With an adjective alone, use quedarse (se quedó calvo) for this kind of loss.",
+   "x": true
+  },
+  {
+   "topic": "Relative clauses with prepositions; cuyo",
+   "q": "Join the sentences: «Hubo un largo rato de cortesías. Durante ese rato nadie mencionó el sobre.»",
+   "options": [
+    "Hubo un largo rato de cortesías durante que nadie mencionó el sobre.",
+    "Hubo un largo rato de cortesías que nadie mencionó el sobre durante.",
+    "Hubo un largo rato de cortesías que durante nadie mencionó el sobre.",
+    "Hubo un largo rato de cortesías durante el que nadie mencionó el sobre."
+   ],
+   "answer": 3,
+   "why": "The preposition moves in front of the relative, and after most prepositions que needs its article: durante el que (or durante el cual).",
+   "x": true
+  },
+  {
+   "topic": "Lo + adjective and lo + adjective + que",
+   "q": "«Lo curioso fue que ellos la acogieron con ternura.» What does lo curioso mean here?",
+   "options": [
+    "the curious one",
+    "the odd thing",
+    "the curious people",
+    "how curious they were"
+   ],
+   "answer": 1,
+   "why": "Lo + adjective turns the quality into an idea: lo curioso = 'the odd / curious thing'. A person would be el curioso or la curiosa.",
+   "x": true
+  },
+  {
+   "topic": "Lo + adjective and lo + adjective + que",
+   "q": "Which sentence is correct?",
+   "options": [
+    "No sabes lo difícil que fueron esos años.",
+    "No sabes qué difíciles que fueron esos años.",
+    "No sabes lo difíciles que fueron esos años.",
+    "No sabes los difíciles que fueron esos años."
+   ],
+   "answer": 2,
+   "why": "In lo + adjective + que ('how'), lo never changes but the adjective agrees with its noun: años → difíciles.",
+   "x": true
+  }
+ ],
+ "b2-09": [
+  {
+   "topic": "Subjunctive in relative clauses",
+   "q": "Rosario didn't know who could help her. Complete: «Buscaba a alguien que le ___ que no hacía daño a nadie.»",
+   "options": [
+    "decía",
+    "había dicho",
+    "dijera",
+    "dice"
+   ],
+   "answer": 2,
+   "why": "The person is still unknown, so the relative clause takes the subjunctive; after a past verb (buscaba), the imperfect subjunctive: dijera."
+  },
+  {
+   "topic": "Subjunctive in relative clauses",
+   "q": "Nobody knows yet who will fix the placard. Complete: «Quien lo ___ tendrá que reconocer que la caja tenía familia.»",
+   "options": [
+    "corregirá",
+    "corrigiera",
+    "corrija",
+    "corrige"
+   ],
+   "answer": 2,
+   "why": "Quien = 'whoever', a person not yet identified, in a future context: present subjunctive corrija. The future never goes after quien here."
+  },
+  {
+   "topic": "Discourse markers: ahora bien, de modo que, por cierto",
+   "q": "Complete: «La cámara llevaba una semana averiada, ___ no había imágenes que consultar.»",
+   "options": [
+    "ahora bien",
+    "sin embargo",
+    "de modo que",
+    "en cambio"
+   ],
+   "answer": 2,
+   "why": "The second clause is a result of the first, so de modo que ('so'). The other three introduce a contrast or a limit, which makes no sense here."
+  },
+  {
+   "topic": "Conditional of conjecture",
+   "q": "Efraín, the next day: «No miré el reloj, pero ___ las tres cuando empezó la música.»",
+   "options": [
+    "serán",
+    "fueran",
+    "eran",
+    "serían"
+   ],
+   "answer": 3,
+   "why": "He didn't check the time, so he is guessing about the past: conditional serían. Serán guesses about the present; eran states it as a known fact."
+  },
+  {
+   "topic": "Subjunctive in relative clauses",
+   "q": "Error spotting: which sentence contains a mistake?",
+   "options": [
+    "No hay nadie en el museo que sepa arreglar la caja de música.",
+    "No había nadie que conocía la melodía.",
+    "Busco un relojero que me ayude con el mecanismo de la caja.",
+    "Rosario es la señora que limpia la sala siete por las noches."
+   ],
+   "answer": 1,
+   "why": "No había nadie que… denies the antecedent exists, so it needs the subjunctive: conociera. A known person (la señora) takes the indicative.",
+   "x": true
+  },
+  {
+   "topic": "Discourse markers: ahora bien, de modo que, por cierto",
+   "q": "«La cámara de la sala siete, por cierto, nunca llegó a repararse.» What does por cierto do in this sentence?",
+   "options": [
+    "It insists that the fact is certain and proven.",
+    "It opens a side remark.",
+    "It introduces the result of the previous sentence.",
+    "It contrasts this with what was said before."
+   ],
+   "answer": 1,
+   "why": "Por cierto = 'by the way': it opens an aside. It does not mean 'certainly', and results or contrasts need de modo que or sin embargo.",
+   "x": true
+  },
+  {
+   "topic": "Conditional of conjecture",
+   "q": "Rewrite with the conditional of conjecture: «Probablemente era la radio de un limpiador.» → «___ la radio de un limpiador.»",
+   "options": [
+    "Será",
+    "Fuera",
+    "Sería",
+    "Es"
+   ],
+   "answer": 2,
+   "why": "A guess about the past (probablemente era) becomes the conditional: sería. Será guesses about the present; es and fuera express no guess.",
+   "x": true
+  },
+  {
+   "topic": "Conditional of conjecture",
+   "q": "Which sentence is correct?",
+   "options": [
+    "Cuando llegó la doctora, serán las nueve.",
+    "Cuando llegó la doctora, habrían las nueve.",
+    "Cuando llegaría la doctora, eran las nueve.",
+    "Cuando llegó la doctora, serían las nueve."
+   ],
+   "answer": 3,
+   "why": "A past guess about the time uses the conditional of ser: serían las nueve. The conditional never follows cuando, and the time uses ser, not haber.",
+   "x": true
+  }
+ ],
+ "b2-10": [
+  {
+   "topic": "Subjunctive: whatever, whoever",
+   "q": "Complete: Migdalia había decidido que el cartel saldría con «1938», ___ yo lo que ___.",
+   "options": [
+    "diga / diga",
+    "dijera / dije",
+    "dijera / dijera",
+    "dije / dijera"
+   ],
+   "answer": 2,
+   "why": "The frame is past (había decidido, saldría), so both halves take the same imperfect subjunctive: dijera... dijera. Diga... diga fits present frames."
+  },
+  {
+   "topic": "Subjunctive: whatever, whoever",
+   "q": "Eliseo makes a promise to his granddaughter today: «___ lo que ___, esta foto no sale de la familia.» Complete.",
+   "options": [
+    "Pasa / pasa",
+    "Pase / pase",
+    "Pasara / pasara",
+    "Pase / pasará"
+   ],
+   "answer": 1,
+   "why": "A promise about now and the future takes the present subjunctive, repeated: pase lo que pase. Pasara belongs to past frames; the indicative states a fact."
+  },
+  {
+   "topic": "Cleft sentences",
+   "q": "Complete: «Al final, fue la historia de los Quintana ___ más gente atrajo a la exposición.»",
+   "options": [
+    "donde",
+    "quien",
+    "lo que",
+    "la que"
+   ],
+   "answer": 3,
+   "why": "The focus is a thing (la historia), so the cleft uses the article that agrees with it: la que. Quien is for people, donde for places."
+  },
+  {
+   "topic": "Conditional perfect of conjecture",
+   "q": "Complete: Aquella noche, en la guagua, Daylín se preguntaba quién ___ aquella fecha años atrás.",
+   "options": [
+    "habrá escrito",
+    "ha escrito",
+    "habría escrito",
+    "hubiera escrito"
+   ],
+   "answer": 2,
+   "why": "A guess about an earlier action, seen from a past moment (se preguntaba), takes the conditional perfect: habría escrito. Habrá escrito guesses from the present; hubiera is subjunctive."
+  },
+  {
+   "topic": "Cleft sentences",
+   "q": "Find the mistake: «Fue esa máquina, y no la pareja, el que no me dejó dormir.»",
+   "options": [
+    "el que → la que",
+    "Fue → Era",
+    "me dejó → me dejaba",
+    "There is no mistake."
+   ],
+   "answer": 0,
+   "why": "In a cleft the article agrees with the focused thing: la máquina, so la que. Changing the tense of ser doesn't fix the agreement.",
+   "x": true
+  },
+  {
+   "topic": "Conditional perfect of conjecture",
+   "q": "The date on the photo really was written by someone. What does «Quizás algún archivero anterior la habría catalogado deprisa» express?",
+   "options": [
+    "Something the archivist would do later",
+    "A guess about what had happened earlier",
+    "A condition that was never met",
+    "A fact Daylín had already checked in the archive's files"
+   ],
+   "answer": 1,
+   "why": "With quizás and a real past event, habría catalogado is a guess ('had probably catalogued'), not an unreal 'would have'.",
+   "x": true
+  },
+  {
+   "topic": "Subjunctive: whatever, whoever",
+   "q": "Rewrite with a 'whoever' structure: «No importaba quién era aquella pareja: yo necesitaba saberlo.»",
+   "options": [
+    "Fuera quien fuera aquella pareja, yo necesitaba saberlo.",
+    "Sea quien sea aquella pareja, yo necesitaba saberlo.",
+    "Fuera quien era aquella pareja, yo necesitaba saberlo.",
+    "Era quien era aquella pareja, yo necesitaba saberlo."
+   ],
+   "answer": 0,
+   "why": "Past frame (necesitaba), so repeat the imperfect subjunctive: fuera quien fuera. Sea quien sea is for present frames; never mix moods.",
+   "x": true
+  },
+  {
+   "topic": "Cleft sentences",
+   "q": "Which sentence is correct?",
+   "options": [
+    "Fue los minuteros quienes revelaban las fotos frente al Capitolio.",
+    "Fueron los minuteros quienes revelaban las fotos frente al Capitolio.",
+    "Fueron los minuteros quien revelaban las fotos frente al Capitolio.",
+    "Fueron los minuteros los cuales revelaban las fotos frente al Capitolio."
+   ],
+   "answer": 1,
+   "why": "Ser and the relative agree with a plural focus: fueron... quienes (or los que). Los cuales is not used to build a cleft.",
+   "x": true
+  }
+ ]
+}

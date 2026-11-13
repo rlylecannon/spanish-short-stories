@@ -1,0 +1,699 @@
+{
+ "story": {
+  "id": "a1-07",
+  "level": "A1",
+  "title": "La llama del camino",
+  "titleEn": "The Llama on the Path",
+  "teaser": "Marina has come all the way to Machu Picchu for the perfect view, but the clouds won't move, and neither will a white llama.",
+  "emoji": "🦙",
+  "lines": [
+   [
+    "Marina y su papá están en el <b>tren</b> de Cusco.",
+    "Marina and her dad are on the train from Cusco."
+   ],
+   [
+    "Papá lee un <b>libro</b> sobre Machu Picchu.",
+    "Dad is reading a book about Machu Picchu."
+   ],
+   [
+    "—Arriba hay una <b>vista</b> perfecta —lee él.",
+    "\"At the top there is a perfect view,\" he reads."
+   ],
+   [
+    "Arriba está la <b>guía</b>. Se llama Killa.",
+    "Up at the top is the guide. Her name is Killa."
+   ],
+   [
+    "—¿Vives aquí? —pregunta Marina.",
+    "\"Do you live here?\" asks Marina."
+   ],
+   [
+    "—Sí, vivo <b>abajo</b>, en Aguas Calientes.",
+    "\"Yes, I live down below, in Aguas Calientes.\""
+   ],
+   [
+    "—Esta es una ciudad <b>inca</b> del <b>siglo</b> quince —dice Killa.",
+    "\"This is an Inca city from the fifteenth century,\" says Killa."
+   ],
+   [
+    "Pero hoy hay muchas <b>nubes</b>. Marina está <b>triste</b>.",
+    "But today there are lots of clouds. Marina is sad."
+   ],
+   [
+    "—Muchas mañanas hay nubes, pero al <b>mediodía</b> hay sol.",
+    "\"On a lot of mornings there are clouds, but at midday the sun comes out.\""
+   ],
+   [
+    "A las once y media, una <b>llama</b> blanca está en el <b>camino</b>.",
+    "At half past eleven, a white llama is standing on the path."
+   ],
+   [
+    "La llama se sienta en el centro y no se mueve.",
+    "The llama sits down in the middle and won't move."
+   ],
+   [
+    "—Se llama Pelusa y vive aquí —dice Killa.",
+    "\"Her name is Pelusa, and she lives here,\" says Killa."
+   ],
+   [
+    "Marina se sienta en una <b>piedra</b> y lee.",
+    "Marina sits down on a stone and reads."
+   ],
+   [
+    "«Intihuatana: una piedra inca. <i>Inti</i> es “sol” en <b>quechua</b>.»",
+    "\"Intihuatana: an Inca stone. Inti means 'sun' in Quechua.\""
+   ],
+   [
+    "A las doce, Pelusa se <b>levanta</b>.",
+    "At twelve o'clock, Pelusa gets up."
+   ],
+   [
+    "Las nubes ya no están. ¡Hay sol!",
+    "The clouds are gone. The sun is out!"
+   ],
+   [
+    "Delante está la ciudad, entre <b>montañas</b> verdes.",
+    "The city is right in front of them, among green mountains."
+   ],
+   [
+    "—Pelusa no lee libros —dice Killa—, pero sabe cuándo hay sol.",
+    "\"Pelusa doesn't read books,\" says Killa, \"but she knows when the sun will come out.\""
+   ]
+  ],
+  "vocab": [
+   [
+    "el tren",
+    "train"
+   ],
+   [
+    "el libro",
+    "book"
+   ],
+   [
+    "la vista",
+    "view"
+   ],
+   [
+    "la guía",
+    "guide (a woman; a man is el guía; also 'guidebook')"
+   ],
+   [
+    "abajo",
+    "down below, downstairs"
+   ],
+   [
+    "arriba",
+    "up, at the top"
+   ],
+   [
+    "inca",
+    "Inca (adjective: una ciudad inca)"
+   ],
+   [
+    "los incas",
+    "the Incas (the people)"
+   ],
+   [
+    "el siglo",
+    "century (el siglo quince = the 15th century, the 1400s)"
+   ],
+   [
+    "la nube",
+    "cloud"
+   ],
+   [
+    "triste",
+    "sad"
+   ],
+   [
+    "el mediodía",
+    "midday, noon"
+   ],
+   [
+    "la llama",
+    "llama (the animal); careful: se llama = is called"
+   ],
+   [
+    "el camino",
+    "path, trail"
+   ],
+   [
+    "la piedra",
+    "stone, rock"
+   ],
+   [
+    "el quechua",
+    "Quechua (the language of the Incas, still spoken in Peru)"
+   ],
+   [
+    "levantarse",
+    "to get up (se levanta = gets up)"
+   ],
+   [
+    "la montaña",
+    "mountain"
+   ],
+   [
+    "sentarse",
+    "to sit down (se sienta = sits down)"
+   ],
+   [
+    "moverse",
+    "to move (no se mueve = doesn't move)"
+   ],
+   [
+    "el sol",
+    "sun (hay sol = it's sunny)"
+   ]
+  ],
+  "quiz": [
+   {
+    "q": "¿Qué lee papá en el tren?",
+    "options": [
+     "Un libro sobre Machu Picchu",
+     "Un libro sobre llamas",
+     "Un mapa de Cusco",
+     "Un libro en quechua"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "¿Por qué Marina está triste?",
+    "options": [
+     "Porque la llama no se mueve",
+     "Porque hay muchas nubes y no hay vista",
+     "Porque papá no lee el libro",
+     "Porque Killa no vive aquí"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "«Vivo abajo, en Aguas Calientes.» ¿Dónde está Aguas Calientes?",
+    "options": [
+     "Arriba, en la ciudad inca",
+     "En el tren",
+     "Más bajo, al pie de la montaña",
+     "Lejos, en otro país"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "¿Por qué Pelusa se levanta a las doce?",
+    "options": [
+     "Porque Marina le da comida",
+     "Porque papá lee en voz alta",
+     "Porque Killa la llama",
+     "Porque sabe que al mediodía las nubes se van"
+    ],
+    "answer": 3
+   }
+  ],
+  "prompt": "Imagine you are visiting a famous place. Where are you, what is there, and what is the weather like? Write 4-5 simple sentences in Spanish in the present tense with estoy / está and hay (for example: Estoy en Machu Picchu. Hay muchas nubes. La guía se llama...).",
+  "concepts": {
+   "grammar": "estar + location and state (están en el tren, está triste, las nubes ya no están); hay (hay nubes, hay sol); reflexive se sienta, se llama, se levanta; present of vivir and leer (vives, vivo, vive; lee).",
+   "vocabulary": "Travel, nature and weather words: tren, guía, montaña, nube, piedra, camino, mediodía, llama.",
+   "skills": "Following a short story with a time clue; talking about places, weather and where people live."
+  }
+ },
+ "grammar": [
+  {
+   "topic": "Estar for place and state",
+   "explain": "'Estar' tells where someone or something is and how they are now: está en el camino, está triste. Use 'está' for one, 'están' for more than one: Marina y su papá están en el tren. Watch out: English says 'on the train', but Spanish uses 'en': están en el tren.",
+   "examples": [
+    [
+     "Marina y su papá están en el tren de Cusco.",
+     "Marina and her dad are on the train from Cusco."
+    ],
+    [
+     "Pero hoy hay muchas nubes. Marina está triste.",
+     "But today there are lots of clouds. Marina is sad."
+    ],
+    [
+     "Las nubes ya no están. ¡Hay sol!",
+     "The clouds are gone. The sun is out!"
+    ]
+   ]
+  },
+  {
+   "topic": "Hay: there is / there are",
+   "explain": "'Hay' (there is / there are) says that something exists, often something new: hay una vista perfecta, hay muchas nubes. It never changes for plural. Watch out: for a specific thing we already know, use estar: Delante está la ciudad (not 'hay la ciudad'). 'Hay sol' means 'it's sunny'.",
+   "examples": [
+    [
+     "—Arriba hay una vista perfecta —lee él.",
+     "\"At the top there is a perfect view,\" he reads."
+    ],
+    [
+     "—Muchas mañanas hay nubes, pero al mediodía hay sol.",
+     "\"On a lot of mornings there are clouds, but at midday the sun comes out.\""
+    ],
+    [
+     "Delante está la ciudad, entre montañas verdes.",
+     "The city is right in front of them, among green mountains."
+    ]
+   ]
+  },
+  {
+   "topic": "Reflexive: se sienta, se llama",
+   "explain": "'Se' before a verb marks a reflexive verb in the he/she form: se sienta (sits down), se llama (is called), se levanta (gets up). With 'yo' it is 'me': me siento, me llamo. Watch out: 'la llama sienta' is wrong; you need 'se'. And enjoy the joke: la llama se llama Pelusa!",
+   "examples": [
+    [
+     "La llama se sienta en el centro y no se mueve.",
+     "The llama sits down in the middle and won't move."
+    ],
+    [
+     "—Se llama Pelusa y vive aquí —dice Killa.",
+     "\"Her name is Pelusa, and she lives here,\" says Killa."
+    ],
+    [
+     "A las doce, Pelusa se levanta.",
+     "At twelve o'clock, Pelusa gets up."
+    ]
+   ]
+  },
+  {
+   "topic": "Present tense with vivir and leer",
+   "explain": "Regular -er and -ir verbs share these endings: -o (yo), -es (tú), -e (él/ella): leo, lees, lee; vivo, vives, vive. Watch out: the simple present also covers English 'is reading': Papá lee un libro = Dad is reading a book. You don't need a separate -ing form.",
+   "examples": [
+    [
+     "—¿Vives aquí? —pregunta Marina.",
+     "\"Do you live here?\" asks Marina."
+    ],
+    [
+     "—Sí, vivo abajo, en Aguas Calientes.",
+     "\"Yes, I live down below, in Aguas Calientes.\""
+    ],
+    [
+     "Papá lee un libro sobre Machu Picchu.",
+     "Dad is reading a book about Machu Picchu."
+    ]
+   ]
+  }
+ ],
+ "gq": [
+  {
+   "topic": "Estar for place and state",
+   "q": "Fill in the blank: Las nubes ya no ___.",
+   "options": [
+    "hay",
+    "está",
+    "están",
+    "son"
+   ],
+   "answer": 2,
+   "why": "We are talking about where specific things are (las nubes), so use estar; 'nubes' is plural, so 'están'. 'Ya no están' = they are not there any more."
+  },
+  {
+   "topic": "Hay: there is / there are",
+   "q": "Which sentence means 'There are a lot of clouds'?",
+   "options": [
+    "Están muchas nubes.",
+    "Hay muchas nubes.",
+    "Hay mucha nubes.",
+    "Son muchas nubes."
+   ],
+   "answer": 1,
+   "why": "'Hay' introduces things that exist and never changes for plural. 'Mucha nubes' is wrong because 'muchas' must agree with 'nubes'."
+  },
+  {
+   "topic": "Reflexive: se sienta, se llama",
+   "q": "What does 'A las doce, Pelusa se levanta' mean?",
+   "options": [
+    "At twelve, Pelusa gets up.",
+    "At twelve, Pelusa sits down.",
+    "At twelve, Pelusa lifts Marina.",
+    "At twelve, Pelusa is called."
+   ],
+   "answer": 0,
+   "why": "'Levantarse' is reflexive: she lifts herself up, so she gets up. 'Se sienta' is 'sits down'; 'levantar' without 'se' means to lift something."
+  },
+  {
+   "topic": "Present tense with vivir and leer",
+   "q": "Marina asks Killa where she lives. Which question is correct?",
+   "options": [
+    "¿Dónde vive tú?",
+    "¿Dónde vivo?",
+    "¿Dónde vivir?",
+    "¿Dónde vives?"
+   ],
+   "answer": 3,
+   "why": "For tú, -ir verbs end in -es: vives. 'Vive' is for él/ella, 'vivo' for yo, and 'vivir' is the infinitive."
+  },
+  {
+   "topic": "Estar for place and state",
+   "q": "Why does the story say 'Marina está triste' and not 'Marina es triste'?",
+   "options": [
+    "Because 'triste' is feminine.",
+    "Because she is sad right now, a temporary state.",
+    "Because 'es' is only for things.",
+    "Because Marina is a child."
+   ],
+   "answer": 1,
+   "why": "Estar describes how someone is at the moment. 'Marina es triste' would mean she is a sad person in general.",
+   "x": true
+  },
+  {
+   "topic": "Hay: there is / there are",
+   "q": "Complete: Delante ___ la ciudad, entre montañas verdes.",
+   "options": [
+    "hay",
+    "está",
+    "es",
+    "tiene"
+   ],
+   "answer": 1,
+   "why": "'La ciudad' is a specific, known place, so use estar for its location. 'Hay' only introduces something new: hay una ciudad.",
+   "x": true
+  },
+  {
+   "topic": "Reflexive: se sienta, se llama",
+   "q": "Killa introduces herself. Complete: Hola, ___ Killa.",
+   "options": [
+    "me llamo",
+    "se llama",
+    "llamo",
+    "me llama"
+   ],
+   "answer": 0,
+   "why": "Llamarse is reflexive: me llamo (my name is). 'Se llama' is for he/she; 'llamo' alone means 'I call'.",
+   "x": true
+  },
+  {
+   "topic": "Present tense with vivir and leer",
+   "q": "Translate: 'Dad is reading a book.'",
+   "options": [
+    "Papá leyendo un libro.",
+    "Papá es leer un libro.",
+    "Papá lee un libro.",
+    "Papá lees un libro."
+   ],
+   "answer": 2,
+   "why": "The simple present 'lee' (él/ella form of leer) already means 'is reading'. 'Lees' is the tú form.",
+   "x": true
+  }
+ ],
+ "dialogue": {
+  "steps": [
+   {
+    "say": "¡Hola! Me llamo Killa. Soy guía en Machu Picchu y vivo en Aguas Calientes.",
+    "en": "Hi! My name is Killa. I'm a guide at Machu Picchu and I live in Aguas Calientes.",
+    "r": [
+     [
+      "Hola, Killa. Mucho gusto.",
+      "Hi, Killa. Nice to meet you.",
+      1
+     ],
+     [
+      "Hola. ¿Dónde está Machu Picchu?",
+      "Hi. Where is Machu Picchu?",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "Machu Picchu está en Perú, en las montañas. Es una ciudad inca del siglo quince.",
+    "en": "Machu Picchu is in Peru, in the mountains. It is an Inca city from the fifteenth century.",
+    "r": [
+     [
+      "¡Qué interesante!",
+      "How interesting!",
+      2
+     ],
+     [
+      "¿Hay muchos turistas?",
+      "Are there a lot of tourists?",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "Sí, hay muchos turistas. Hoy hay nubes, pero al mediodía hay sol. ¿Y tú, dónde vives?",
+    "en": "Yes, there are a lot of tourists. Today there are clouds, but at midday the sun comes out. And you, where do you live?",
+    "r": [
+     [
+      "Vivo en una ciudad grande.",
+      "I live in a big city.",
+      3
+     ],
+     [
+      "Vivo cerca de las montañas.",
+      "I live near the mountains.",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "¡Qué bien! Mira, una llama está en el camino. Se sienta y no se mueve.",
+    "en": "How nice! Look, a llama is on the path. She sits down and doesn't move.",
+    "r": [
+     [
+      "¿Cómo se llama?",
+      "What is her name?",
+      4
+     ],
+     [
+      "¡Qué bonita! Es blanca.",
+      "How pretty! She is white.",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "Se llama Pelusa y vive aquí. Marina lee un libro sobre Machu Picchu. ¿Tú lees mucho?",
+    "en": "Her name is Pelusa and she lives here. Marina is reading a book about Machu Picchu. Do you read a lot?",
+    "r": [
+     [
+      "Sí, leo mucho.",
+      "Yes, I read a lot.",
+      5
+     ],
+     [
+      "No, no leo mucho.",
+      "No, I don't read much.",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "Pelusa no lee libros, pero sabe cuándo hay sol. ¡Mira, ya no hay nubes! ¡Adiós!",
+    "en": "Pelusa doesn't read books, but she knows when the sun will come out. Look, there are no more clouds! Bye!",
+    "end": true
+   }
+  ]
+ },
+ "scene": {
+  "items": [
+   {
+    "t": "obj",
+    "n": "mountain",
+    "x": 150,
+    "y": 252,
+    "s": 1.9
+   },
+   {
+    "t": "obj",
+    "n": "mountain",
+    "x": 300,
+    "y": 252,
+    "s": 1.4
+   },
+   {
+    "t": "obj",
+    "n": "sun",
+    "x": 340,
+    "y": 118,
+    "s": 0.7
+   },
+   {
+    "t": "obj",
+    "n": "cloud",
+    "x": 225,
+    "y": 100,
+    "s": 0.9
+   },
+   {
+    "t": "person",
+    "x": 85,
+    "y": 250,
+    "s": 0.85,
+    "skin": "c",
+    "hair": "ponytail",
+    "outfit": "coat",
+    "pose": "sit",
+    "acc": [
+     "backpack"
+    ]
+   },
+   {
+    "t": "obj",
+    "n": "book",
+    "x": 95,
+    "y": 236,
+    "s": 0.42
+   },
+   {
+    "t": "svg",
+    "x": 200,
+    "y": 250,
+    "s": 1.1,
+    "svg": "<ellipse cx=\"0\" cy=\"-20\" rx=\"36\" ry=\"19\" fill=\"#fff\"/><path d=\"M18,-30 Q22,-70 24,-86 L38,-86 Q36,-62 34,-26Z\" fill=\"#fff\"/><ellipse cx=\"36\" cy=\"-90\" rx=\"14\" ry=\"9\" fill=\"#fff\"/><path d=\"M27,-96 L25,-112 L33,-98Z M37,-97 L37,-113 L43,-98Z\" fill=\"#fff\"/><path d=\"M18,-35 Q8,-40 0,-39 Q-36,-39 -36,-20 Q-36,-1 0,-1 Q36,-1 36,-20 Q36,-24 34,-28 Q36,-62 38,-84 Q50,-86 50,-91 Q48,-99 42,-98 L37,-113 L35,-99 L31,-98 L25,-112 L26,-95 Q22,-92 24,-86 Q22,-70 18,-35\" fill=\"none\"/><circle cx=\"40\" cy=\"-92\" r=\"2\" fill=\"#1d1d1d\"/><path d=\"M-36,-24 Q-46,-30 -40,-40\" fill=\"none\"/><path d=\"M-20,-2 H-4 M10,-2 H26 M-10,-24 Q0,-16 12,-22\" fill=\"none\"/>"
+   },
+   {
+    "t": "person",
+    "x": 325,
+    "y": 250,
+    "s": 0.85,
+    "flip": true,
+    "skin": "d",
+    "hair": "braids",
+    "outfit": "vest",
+    "pose": "point",
+    "acc": [
+     "hat"
+    ]
+   }
+  ],
+  "vb": [
+   20,
+   30,
+   370,
+   270
+  ],
+  "country": "Peru",
+  "ink": [
+   "#2d3a1f",
+   "#c8102e"
+  ]
+ },
+ "culture": {
+  "country": "Peru",
+  "city": "Aguas Calientes",
+  "landmark": "Machu Picchu",
+  "caption": "Machu Picchu, an Inca citadel built in the 1400s, sits on a mountain ridge high above the Urubamba River.",
+  "culture": "Peruvian (Andean)",
+  "prompt": "Peruvian (Andean) setting. Location: Machu Picchu, near Aguas Calientes, Cusco region, Peru. The famous landmark Machu Picchu must be clearly visible and recognizable in the image. The Inca citadel of Machu Picchu at about midday, just as the morning clouds lift: grey stone terraces and walls on a green ridge, the steep peak of Huayna Picchu behind, wisps of white cloud drifting off the green Andes, blue sky breaking through; a white llama resting on a grassy stone path in the foreground. No people. Keep the lower-left third of the frame open (clear grass or stone path) so a drawn character can be added. Photorealistic photograph, natural light, soft warm color grade, slightly muted colors, eye-level camera, shallow depth of field, 4:3 landscape, high resolution. No text, no logos, no watermarks. Landmark to show: Machu Picchu.",
+  "use": "Hybrid (drawn characters added)"
+ },
+ "gen": "f",
+ "dict": {
+  "aguas": [
+   [
+    "el agua",
+    "noun",
+    "water (Aguas Calientes = a town below Machu Picchu)"
+   ]
+  ],
+  "calientes": [
+   [
+    "caliente",
+    "adj",
+    "hot (Aguas Calientes = a town below Machu Picchu)"
+   ]
+  ],
+  "cusco": [
+   [
+    "Cusco",
+    "name",
+    "Cusco (city in Peru, the old Inca capital)"
+   ]
+  ],
+  "inca": [
+   [
+    "inca",
+    "adj",
+    "Inca"
+   ],
+   [
+    "el inca",
+    "noun",
+    "Inca (person)"
+   ]
+  ],
+  "inti": [
+   [
+    "inti",
+    "noun",
+    "sun (in Quechua)"
+   ]
+  ],
+  "intihuatana": [
+   [
+    "Intihuatana",
+    "name",
+    "Intihuatana (carved Inca stone at Machu Picchu)"
+   ]
+  ],
+  "killa": [
+   [
+    "Killa",
+    "name",
+    "Killa (girl's name; 'moon' in Quechua)"
+   ]
+  ],
+  "machu": [
+   [
+    "Machu Picchu",
+    "name",
+    "Machu Picchu (Inca citadel in Peru)"
+   ]
+  ],
+  "picchu": [
+   [
+    "Machu Picchu",
+    "name",
+    "Machu Picchu (Inca citadel in Peru)"
+   ]
+  ],
+  "marina": [
+   [
+    "Marina",
+    "name",
+    "Marina (girl's name)"
+   ]
+  ],
+  "mueve": [
+   [
+    "moverse",
+    "verb",
+    "to move (oneself)"
+   ],
+   [
+    "mover",
+    "verb",
+    "to move"
+   ]
+  ],
+  "nubes": [
+   [
+    "la nube",
+    "noun",
+    "cloud"
+   ]
+  ],
+  "pelusa": [
+   [
+    "Pelusa",
+    "name",
+    "Pelusa (the llama's name; 'fluff')"
+   ]
+  ],
+  "perfecta": [
+   [
+    "perfecto",
+    "adj",
+    "perfect"
+   ]
+  ],
+  "quechua": [
+   [
+    "el quechua",
+    "noun",
+    "Quechua (language)"
+   ],
+   [
+    "quechua",
+    "adj",
+    "Quechua"
+   ]
+  ]
+ }
+}

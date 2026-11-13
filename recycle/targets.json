@@ -1,0 +1,3321 @@
+{
+ "a1-01": [],
+ "a1-02": [
+  {
+   "word": "el flan",
+   "gloss": "flan (caramel custard)",
+   "story": "a1-01",
+   "later_tokens": 0
+  },
+  {
+   "word": "tener sueño",
+   "gloss": "to be sleepy",
+   "story": "a1-01",
+   "later_tokens": 0
+  },
+  {
+   "word": "el caramelo",
+   "gloss": "caramel (sauce)",
+   "story": "a1-01",
+   "later_tokens": 0
+  },
+  {
+   "word": "el bigote",
+   "gloss": "mustache",
+   "story": "a1-01",
+   "later_tokens": 0
+  },
+  {
+   "word": "los lentes",
+   "gloss": "glasses (Mexico)",
+   "story": "a1-01",
+   "later_tokens": 1
+  },
+  {
+   "word": "la perra",
+   "gloss": "dog (female)",
+   "story": "a1-01",
+   "later_tokens": 1
+  },
+  {
+   "word": "la pista",
+   "gloss": "clue",
+   "story": "a1-01",
+   "later_tokens": 2
+  },
+  {
+   "word": "la cuchara",
+   "gloss": "spoon",
+   "story": "a1-01",
+   "later_tokens": 2
+  }
+ ],
+ "a1-03": [
+  {
+   "word": "la cocinera",
+   "gloss": "cook (woman); el cocinero = cook (man)",
+   "story": "a1-02",
+   "later_tokens": 0
+  },
+  {
+   "word": "la parrilla",
+   "gloss": "steakhouse (grill restaurant); grill",
+   "story": "a1-02",
+   "later_tokens": 0
+  },
+  {
+   "word": "el bife",
+   "gloss": "steak (Argentina)",
+   "story": "a1-02",
+   "later_tokens": 0
+  },
+  {
+   "word": "la ensalada",
+   "gloss": "salad",
+   "story": "a1-02",
+   "later_tokens": 0
+  },
+  {
+   "word": "el jefe",
+   "gloss": "boss; head chef",
+   "story": "a1-02",
+   "later_tokens": 0
+  },
+  {
+   "word": "el mozo",
+   "gloss": "waiter (Argentina)",
+   "story": "a1-02",
+   "later_tokens": 0
+  },
+  {
+   "word": "la comanda",
+   "gloss": "order ticket (in a restaurant kitchen)",
+   "story": "a1-02",
+   "later_tokens": 0
+  },
+  {
+   "word": "el flan",
+   "gloss": "flan (caramel custard)",
+   "story": "a1-01",
+   "later_tokens": 0
+  },
+  {
+   "word": "tener sueño",
+   "gloss": "to be sleepy",
+   "story": "a1-01",
+   "later_tokens": 0
+  },
+  {
+   "word": "el caramelo",
+   "gloss": "caramel (sauce)",
+   "story": "a1-01",
+   "later_tokens": 0
+  },
+  {
+   "word": "el bigote",
+   "gloss": "mustache",
+   "story": "a1-01",
+   "later_tokens": 0
+  },
+  {
+   "word": "serio",
+   "gloss": "serious, stern",
+   "story": "a1-02",
+   "later_tokens": 1
+  },
+  {
+   "word": "los lentes",
+   "gloss": "glasses (Mexico)",
+   "story": "a1-01",
+   "later_tokens": 1
+  },
+  {
+   "word": "la perra",
+   "gloss": "dog (female)",
+   "story": "a1-01",
+   "later_tokens": 1
+  }
+ ],
+ "a1-04": [
+  {
+   "word": "el bocadillo",
+   "gloss": "sandwich",
+   "story": "a1-03",
+   "later_tokens": 0
+  },
+  {
+   "word": "la manzana",
+   "gloss": "apple",
+   "story": "a1-03",
+   "later_tokens": 0
+  },
+  {
+   "word": "el hambre",
+   "gloss": "hunger (feminine noun: mucha hambre)",
+   "story": "a1-03",
+   "later_tokens": 0
+  },
+  {
+   "word": "la cocinera",
+   "gloss": "cook (woman); el cocinero = cook (man)",
+   "story": "a1-02",
+   "later_tokens": 0
+  },
+  {
+   "word": "la parrilla",
+   "gloss": "steakhouse (grill restaurant); grill",
+   "story": "a1-02",
+   "later_tokens": 0
+  },
+  {
+   "word": "el bife",
+   "gloss": "steak (Argentina)",
+   "story": "a1-02",
+   "later_tokens": 0
+  },
+  {
+   "word": "la ensalada",
+   "gloss": "salad",
+   "story": "a1-02",
+   "later_tokens": 0
+  },
+  {
+   "word": "el jefe",
+   "gloss": "boss; head chef",
+   "story": "a1-02",
+   "later_tokens": 0
+  },
+  {
+   "word": "el mozo",
+   "gloss": "waiter (Argentina)",
+   "story": "a1-02",
+   "later_tokens": 0
+  },
+  {
+   "word": "la comanda",
+   "gloss": "order ticket (in a restaurant kitchen)",
+   "story": "a1-02",
+   "later_tokens": 0
+  },
+  {
+   "word": "el flan",
+   "gloss": "flan (caramel custard)",
+   "story": "a1-01",
+   "later_tokens": 0
+  },
+  {
+   "word": "tener sueño",
+   "gloss": "to be sleepy",
+   "story": "a1-01",
+   "later_tokens": 0
+  },
+  {
+   "word": "el caramelo",
+   "gloss": "caramel (sauce)",
+   "story": "a1-01",
+   "later_tokens": 0
+  },
+  {
+   "word": "el bigote",
+   "gloss": "mustache",
+   "story": "a1-01",
+   "later_tokens": 0
+  }
+ ],
+ "a1-05": [
+  {
+   "word": "la chaqueta",
+   "gloss": "jacket",
+   "story": "a1-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "la fresa",
+   "gloss": "strawberry",
+   "story": "a1-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "el domiciliario",
+   "gloss": "delivery man/rider (Colombia)",
+   "story": "a1-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "el bocadillo",
+   "gloss": "sandwich",
+   "story": "a1-03",
+   "later_tokens": 0
+  },
+  {
+   "word": "la manzana",
+   "gloss": "apple",
+   "story": "a1-03",
+   "later_tokens": 0
+  },
+  {
+   "word": "el hambre",
+   "gloss": "hunger (feminine noun: mucha hambre)",
+   "story": "a1-03",
+   "later_tokens": 0
+  },
+  {
+   "word": "la cocinera",
+   "gloss": "cook (woman); el cocinero = cook (man)",
+   "story": "a1-02",
+   "later_tokens": 0
+  },
+  {
+   "word": "la parrilla",
+   "gloss": "steakhouse (grill restaurant); grill",
+   "story": "a1-02",
+   "later_tokens": 0
+  },
+  {
+   "word": "el bife",
+   "gloss": "steak (Argentina)",
+   "story": "a1-02",
+   "later_tokens": 0
+  },
+  {
+   "word": "la ensalada",
+   "gloss": "salad",
+   "story": "a1-02",
+   "later_tokens": 0
+  },
+  {
+   "word": "el jefe",
+   "gloss": "boss; head chef",
+   "story": "a1-02",
+   "later_tokens": 0
+  },
+  {
+   "word": "el mozo",
+   "gloss": "waiter (Argentina)",
+   "story": "a1-02",
+   "later_tokens": 0
+  },
+  {
+   "word": "la comanda",
+   "gloss": "order ticket (in a restaurant kitchen)",
+   "story": "a1-02",
+   "later_tokens": 0
+  },
+  {
+   "word": "el flan",
+   "gloss": "flan (caramel custard)",
+   "story": "a1-01",
+   "later_tokens": 0
+  }
+ ],
+ "a1-06": [
+  {
+   "word": "la chocolatería",
+   "gloss": "café that serves hot chocolate",
+   "story": "a1-05",
+   "later_tokens": 0
+  },
+  {
+   "word": "el churro",
+   "gloss": "churro (fried dough stick)",
+   "story": "a1-05",
+   "later_tokens": 0
+  },
+  {
+   "word": "¿Cuánto es?",
+   "gloss": "How much is it?",
+   "story": "a1-05",
+   "later_tokens": 0
+  },
+  {
+   "word": "la chaqueta",
+   "gloss": "jacket",
+   "story": "a1-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "la fresa",
+   "gloss": "strawberry",
+   "story": "a1-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "el domiciliario",
+   "gloss": "delivery man/rider (Colombia)",
+   "story": "a1-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "el bocadillo",
+   "gloss": "sandwich",
+   "story": "a1-03",
+   "later_tokens": 0
+  },
+  {
+   "word": "la manzana",
+   "gloss": "apple",
+   "story": "a1-03",
+   "later_tokens": 0
+  },
+  {
+   "word": "el hambre",
+   "gloss": "hunger (feminine noun: mucha hambre)",
+   "story": "a1-03",
+   "later_tokens": 0
+  },
+  {
+   "word": "la cocinera",
+   "gloss": "cook (woman); el cocinero = cook (man)",
+   "story": "a1-02",
+   "later_tokens": 0
+  },
+  {
+   "word": "la parrilla",
+   "gloss": "steakhouse (grill restaurant); grill",
+   "story": "a1-02",
+   "later_tokens": 0
+  },
+  {
+   "word": "el bife",
+   "gloss": "steak (Argentina)",
+   "story": "a1-02",
+   "later_tokens": 0
+  },
+  {
+   "word": "la ensalada",
+   "gloss": "salad",
+   "story": "a1-02",
+   "later_tokens": 0
+  },
+  {
+   "word": "el jefe",
+   "gloss": "boss; head chef",
+   "story": "a1-02",
+   "later_tokens": 0
+  }
+ ],
+ "a1-07": [
+  {
+   "word": "el salón",
+   "gloss": "reception hall, function room",
+   "story": "a1-06",
+   "later_tokens": 0
+  },
+  {
+   "word": "pelear",
+   "gloss": "to fight, to argue (pelean)",
+   "story": "a1-06",
+   "later_tokens": 0
+  },
+  {
+   "word": "el dominó",
+   "gloss": "dominoes (the game)",
+   "story": "a1-06",
+   "later_tokens": 0
+  },
+  {
+   "word": "la suegra",
+   "gloss": "mother-in-law",
+   "story": "a1-06",
+   "later_tokens": 0
+  },
+  {
+   "word": "los gandules",
+   "gloss": "pigeon peas (arroz con gandules = Puerto Rico's classic rice dish)",
+   "story": "a1-06",
+   "later_tokens": 0
+  },
+  {
+   "word": "el cuñado",
+   "gloss": "brother-in-law",
+   "story": "a1-06",
+   "later_tokens": 0
+  },
+  {
+   "word": "el bizcocho",
+   "gloss": "cake (Puerto Rico; party or wedding cake)",
+   "story": "a1-06",
+   "later_tokens": 0
+  },
+  {
+   "word": "el padrino",
+   "gloss": "best man, wedding sponsor; also godfather",
+   "story": "a1-06",
+   "later_tokens": 0
+  },
+  {
+   "word": "la chocolatería",
+   "gloss": "café that serves hot chocolate",
+   "story": "a1-05",
+   "later_tokens": 0
+  },
+  {
+   "word": "el churro",
+   "gloss": "churro (fried dough stick)",
+   "story": "a1-05",
+   "later_tokens": 0
+  },
+  {
+   "word": "¿Cuánto es?",
+   "gloss": "How much is it?",
+   "story": "a1-05",
+   "later_tokens": 0
+  },
+  {
+   "word": "la chaqueta",
+   "gloss": "jacket",
+   "story": "a1-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "la fresa",
+   "gloss": "strawberry",
+   "story": "a1-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "el domiciliario",
+   "gloss": "delivery man/rider (Colombia)",
+   "story": "a1-04",
+   "later_tokens": 0
+  }
+ ],
+ "a1-08": [
+  {
+   "word": "inca",
+   "gloss": "Inca (adjective: una ciudad inca)",
+   "story": "a1-07",
+   "later_tokens": 0
+  },
+  {
+   "word": "los incas",
+   "gloss": "the Incas (the people)",
+   "story": "a1-07",
+   "later_tokens": 0
+  },
+  {
+   "word": "el quechua",
+   "gloss": "Quechua (the language of the Incas, still spoken in Peru)",
+   "story": "a1-07",
+   "later_tokens": 0
+  },
+  {
+   "word": "la montaña",
+   "gloss": "mountain",
+   "story": "a1-07",
+   "later_tokens": 0
+  },
+  {
+   "word": "moverse",
+   "gloss": "to move (no se mueve = doesn't move)",
+   "story": "a1-07",
+   "later_tokens": 0
+  },
+  {
+   "word": "el salón",
+   "gloss": "reception hall, function room",
+   "story": "a1-06",
+   "later_tokens": 0
+  },
+  {
+   "word": "pelear",
+   "gloss": "to fight, to argue (pelean)",
+   "story": "a1-06",
+   "later_tokens": 0
+  },
+  {
+   "word": "el dominó",
+   "gloss": "dominoes (the game)",
+   "story": "a1-06",
+   "later_tokens": 0
+  },
+  {
+   "word": "la suegra",
+   "gloss": "mother-in-law",
+   "story": "a1-06",
+   "later_tokens": 0
+  },
+  {
+   "word": "los gandules",
+   "gloss": "pigeon peas (arroz con gandules = Puerto Rico's classic rice dish)",
+   "story": "a1-06",
+   "later_tokens": 0
+  },
+  {
+   "word": "el cuñado",
+   "gloss": "brother-in-law",
+   "story": "a1-06",
+   "later_tokens": 0
+  },
+  {
+   "word": "el bizcocho",
+   "gloss": "cake (Puerto Rico; party or wedding cake)",
+   "story": "a1-06",
+   "later_tokens": 0
+  },
+  {
+   "word": "el padrino",
+   "gloss": "best man, wedding sponsor; also godfather",
+   "story": "a1-06",
+   "later_tokens": 0
+  },
+  {
+   "word": "la chocolatería",
+   "gloss": "café that serves hot chocolate",
+   "story": "a1-05",
+   "later_tokens": 0
+  }
+ ],
+ "a1-09": [
+  {
+   "word": "el pirata",
+   "gloss": "pirate",
+   "story": "a1-08",
+   "later_tokens": 0
+  },
+  {
+   "word": "el coco",
+   "gloss": "coconut",
+   "story": "a1-08",
+   "later_tokens": 0
+  },
+  {
+   "word": "el castillo",
+   "gloss": "castle, fort",
+   "story": "a1-08",
+   "later_tokens": 0
+  },
+  {
+   "word": "la Torre del Reloj",
+   "gloss": "the Clock Tower (main gate of Cartagena's old city)",
+   "story": "a1-08",
+   "later_tokens": 0
+  },
+  {
+   "word": "el oro",
+   "gloss": "gold",
+   "story": "a1-08",
+   "later_tokens": 0
+  },
+  {
+   "word": "la muralla",
+   "gloss": "city wall",
+   "story": "a1-08",
+   "later_tokens": 0
+  },
+  {
+   "word": "el dibujo",
+   "gloss": "drawing",
+   "story": "a1-08",
+   "later_tokens": 0
+  },
+  {
+   "word": "la cocada",
+   "gloss": "cocada (coconut sweet from Colombia's Caribbean coast)",
+   "story": "a1-08",
+   "later_tokens": 0
+  },
+  {
+   "word": "inca",
+   "gloss": "Inca (adjective: una ciudad inca)",
+   "story": "a1-07",
+   "later_tokens": 0
+  },
+  {
+   "word": "los incas",
+   "gloss": "the Incas (the people)",
+   "story": "a1-07",
+   "later_tokens": 0
+  },
+  {
+   "word": "el quechua",
+   "gloss": "Quechua (the language of the Incas, still spoken in Peru)",
+   "story": "a1-07",
+   "later_tokens": 0
+  },
+  {
+   "word": "la montaña",
+   "gloss": "mountain",
+   "story": "a1-07",
+   "later_tokens": 0
+  },
+  {
+   "word": "moverse",
+   "gloss": "to move (no se mueve = doesn't move)",
+   "story": "a1-07",
+   "later_tokens": 0
+  },
+  {
+   "word": "el salón",
+   "gloss": "reception hall, function room",
+   "story": "a1-06",
+   "later_tokens": 0
+  }
+ ],
+ "a1-10": [
+  {
+   "word": "la película",
+   "gloss": "movie",
+   "story": "a1-09",
+   "later_tokens": 0
+  },
+  {
+   "word": "aburrido",
+   "gloss": "boring",
+   "story": "a1-09",
+   "later_tokens": 0
+  },
+  {
+   "word": "el pirata",
+   "gloss": "pirate",
+   "story": "a1-08",
+   "later_tokens": 0
+  },
+  {
+   "word": "el coco",
+   "gloss": "coconut",
+   "story": "a1-08",
+   "later_tokens": 0
+  },
+  {
+   "word": "el castillo",
+   "gloss": "castle, fort",
+   "story": "a1-08",
+   "later_tokens": 0
+  },
+  {
+   "word": "la Torre del Reloj",
+   "gloss": "the Clock Tower (main gate of Cartagena's old city)",
+   "story": "a1-08",
+   "later_tokens": 0
+  },
+  {
+   "word": "el oro",
+   "gloss": "gold",
+   "story": "a1-08",
+   "later_tokens": 0
+  },
+  {
+   "word": "la muralla",
+   "gloss": "city wall",
+   "story": "a1-08",
+   "later_tokens": 0
+  },
+  {
+   "word": "el dibujo",
+   "gloss": "drawing",
+   "story": "a1-08",
+   "later_tokens": 0
+  },
+  {
+   "word": "la cocada",
+   "gloss": "cocada (coconut sweet from Colombia's Caribbean coast)",
+   "story": "a1-08",
+   "later_tokens": 0
+  },
+  {
+   "word": "inca",
+   "gloss": "Inca (adjective: una ciudad inca)",
+   "story": "a1-07",
+   "later_tokens": 0
+  },
+  {
+   "word": "los incas",
+   "gloss": "the Incas (the people)",
+   "story": "a1-07",
+   "later_tokens": 0
+  },
+  {
+   "word": "el quechua",
+   "gloss": "Quechua (the language of the Incas, still spoken in Peru)",
+   "story": "a1-07",
+   "later_tokens": 0
+  },
+  {
+   "word": "la montaña",
+   "gloss": "mountain",
+   "story": "a1-07",
+   "later_tokens": 0
+  }
+ ],
+ "a2-01": [
+  {
+   "word": "el pescado",
+   "gloss": "fish (as food)",
+   "story": "a1-10",
+   "later_tokens": 0
+  },
+  {
+   "word": "la arena",
+   "gloss": "sand",
+   "story": "a1-10",
+   "later_tokens": 0
+  },
+  {
+   "word": "la toalla",
+   "gloss": "towel",
+   "story": "a1-10",
+   "later_tokens": 0
+  },
+  {
+   "word": "la fruta",
+   "gloss": "fruit",
+   "story": "a1-10",
+   "later_tokens": 0
+  },
+  {
+   "word": "la película",
+   "gloss": "movie",
+   "story": "a1-09",
+   "later_tokens": 0
+  },
+  {
+   "word": "aburrido",
+   "gloss": "boring",
+   "story": "a1-09",
+   "later_tokens": 0
+  },
+  {
+   "word": "el pirata",
+   "gloss": "pirate",
+   "story": "a1-08",
+   "later_tokens": 0
+  },
+  {
+   "word": "el coco",
+   "gloss": "coconut",
+   "story": "a1-08",
+   "later_tokens": 0
+  },
+  {
+   "word": "el castillo",
+   "gloss": "castle, fort",
+   "story": "a1-08",
+   "later_tokens": 0
+  },
+  {
+   "word": "la Torre del Reloj",
+   "gloss": "the Clock Tower (main gate of Cartagena's old city)",
+   "story": "a1-08",
+   "later_tokens": 0
+  },
+  {
+   "word": "el oro",
+   "gloss": "gold",
+   "story": "a1-08",
+   "later_tokens": 0
+  },
+  {
+   "word": "la muralla",
+   "gloss": "city wall",
+   "story": "a1-08",
+   "later_tokens": 0
+  },
+  {
+   "word": "el dibujo",
+   "gloss": "drawing",
+   "story": "a1-08",
+   "later_tokens": 0
+  },
+  {
+   "word": "la cocada",
+   "gloss": "cocada (coconut sweet from Colombia's Caribbean coast)",
+   "story": "a1-08",
+   "later_tokens": 0
+  }
+ ],
+ "a2-02": [
+  {
+   "word": "la estación",
+   "gloss": "station",
+   "story": "a2-01",
+   "later_tokens": 0
+  },
+  {
+   "word": "la boda",
+   "gloss": "wedding",
+   "story": "a2-01",
+   "later_tokens": 0
+  },
+  {
+   "word": "el andén",
+   "gloss": "platform",
+   "story": "a2-01",
+   "later_tokens": 0
+  },
+  {
+   "word": "el tren",
+   "gloss": "train",
+   "story": "a2-01",
+   "later_tokens": 0
+  },
+  {
+   "word": "la avería",
+   "gloss": "breakdown",
+   "story": "a2-01",
+   "later_tokens": 0
+  },
+  {
+   "word": "el billete",
+   "gloss": "ticket",
+   "story": "a2-01",
+   "later_tokens": 1
+  },
+  {
+   "word": "la maleta",
+   "gloss": "suitcase",
+   "story": "a2-01",
+   "later_tokens": 1
+  },
+  {
+   "word": "el autobús",
+   "gloss": "bus",
+   "story": "a2-01",
+   "later_tokens": 2
+  },
+  {
+   "word": "el pescado",
+   "gloss": "fish (as food)",
+   "story": "a1-10",
+   "later_tokens": 0
+  },
+  {
+   "word": "la arena",
+   "gloss": "sand",
+   "story": "a1-10",
+   "later_tokens": 0
+  },
+  {
+   "word": "la toalla",
+   "gloss": "towel",
+   "story": "a1-10",
+   "later_tokens": 0
+  },
+  {
+   "word": "la fruta",
+   "gloss": "fruit",
+   "story": "a1-10",
+   "later_tokens": 0
+  },
+  {
+   "word": "la película",
+   "gloss": "movie",
+   "story": "a1-09",
+   "later_tokens": 0
+  },
+  {
+   "word": "aburrido",
+   "gloss": "boring",
+   "story": "a1-09",
+   "later_tokens": 0
+  }
+ ],
+ "a2-03": [
+  {
+   "word": "el cachorro",
+   "gloss": "puppy",
+   "story": "a2-02",
+   "later_tokens": 0
+  },
+  {
+   "word": "la estación",
+   "gloss": "station",
+   "story": "a2-01",
+   "later_tokens": 0
+  },
+  {
+   "word": "la boda",
+   "gloss": "wedding",
+   "story": "a2-01",
+   "later_tokens": 0
+  },
+  {
+   "word": "el andén",
+   "gloss": "platform",
+   "story": "a2-01",
+   "later_tokens": 0
+  },
+  {
+   "word": "el tren",
+   "gloss": "train",
+   "story": "a2-01",
+   "later_tokens": 0
+  },
+  {
+   "word": "la avería",
+   "gloss": "breakdown",
+   "story": "a2-01",
+   "later_tokens": 0
+  },
+  {
+   "word": "el panadero",
+   "gloss": "baker",
+   "story": "a2-02",
+   "later_tokens": 1
+  },
+  {
+   "word": "saltar",
+   "gloss": "to jump",
+   "story": "a2-02",
+   "later_tokens": 1
+  },
+  {
+   "word": "el billete",
+   "gloss": "ticket",
+   "story": "a2-01",
+   "later_tokens": 1
+  },
+  {
+   "word": "la maleta",
+   "gloss": "suitcase",
+   "story": "a2-01",
+   "later_tokens": 1
+  },
+  {
+   "word": "el regalo",
+   "gloss": "gift",
+   "story": "a2-02",
+   "later_tokens": 2
+  },
+  {
+   "word": "la panadería",
+   "gloss": "bakery",
+   "story": "a2-02",
+   "later_tokens": 2
+  },
+  {
+   "word": "el autobús",
+   "gloss": "bus",
+   "story": "a2-01",
+   "later_tokens": 2
+  },
+  {
+   "word": "el pescado",
+   "gloss": "fish (as food)",
+   "story": "a1-10",
+   "later_tokens": 0
+  }
+ ],
+ "a2-04": [
+  {
+   "word": "la sartén",
+   "gloss": "frying pan",
+   "story": "a2-03",
+   "later_tokens": 0
+  },
+  {
+   "word": "el sabor",
+   "gloss": "flavor",
+   "story": "a2-03",
+   "later_tokens": 0
+  },
+  {
+   "word": "el cachorro",
+   "gloss": "puppy",
+   "story": "a2-02",
+   "later_tokens": 0
+  },
+  {
+   "word": "la estación",
+   "gloss": "station",
+   "story": "a2-01",
+   "later_tokens": 0
+  },
+  {
+   "word": "la boda",
+   "gloss": "wedding",
+   "story": "a2-01",
+   "later_tokens": 0
+  },
+  {
+   "word": "el andén",
+   "gloss": "platform",
+   "story": "a2-01",
+   "later_tokens": 0
+  },
+  {
+   "word": "el tren",
+   "gloss": "train",
+   "story": "a2-01",
+   "later_tokens": 0
+  },
+  {
+   "word": "la avería",
+   "gloss": "breakdown",
+   "story": "a2-01",
+   "later_tokens": 0
+  },
+  {
+   "word": "el supermercado",
+   "gloss": "supermarket",
+   "story": "a2-03",
+   "later_tokens": 1
+  },
+  {
+   "word": "rico",
+   "gloss": "tasty",
+   "story": "a2-03",
+   "later_tokens": 1
+  },
+  {
+   "word": "el ingrediente",
+   "gloss": "ingredient",
+   "story": "a2-03",
+   "later_tokens": 1
+  },
+  {
+   "word": "el panadero",
+   "gloss": "baker",
+   "story": "a2-02",
+   "later_tokens": 1
+  },
+  {
+   "word": "saltar",
+   "gloss": "to jump",
+   "story": "a2-02",
+   "later_tokens": 1
+  },
+  {
+   "word": "el billete",
+   "gloss": "ticket",
+   "story": "a2-01",
+   "later_tokens": 1
+  }
+ ],
+ "a2-05": [
+  {
+   "word": "el portero",
+   "gloss": "goalkeeper (in Colombia also el arquero)",
+   "story": "a2-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "el balón",
+   "gloss": "ball",
+   "story": "a2-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "el estadio",
+   "gloss": "stadium",
+   "story": "a2-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "el gol",
+   "gloss": "goal",
+   "story": "a2-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "el árbitro",
+   "gloss": "referee",
+   "story": "a2-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "el penalti",
+   "gloss": "penalty kick (in Colombia people usually say el penal)",
+   "story": "a2-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "patear",
+   "gloss": "to kick",
+   "story": "a2-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "el público",
+   "gloss": "crowd",
+   "story": "a2-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "el compañero",
+   "gloss": "teammate",
+   "story": "a2-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "la sartén",
+   "gloss": "frying pan",
+   "story": "a2-03",
+   "later_tokens": 0
+  },
+  {
+   "word": "el sabor",
+   "gloss": "flavor",
+   "story": "a2-03",
+   "later_tokens": 0
+  },
+  {
+   "word": "el cachorro",
+   "gloss": "puppy",
+   "story": "a2-02",
+   "later_tokens": 0
+  },
+  {
+   "word": "la estación",
+   "gloss": "station",
+   "story": "a2-01",
+   "later_tokens": 0
+  },
+  {
+   "word": "la boda",
+   "gloss": "wedding",
+   "story": "a2-01",
+   "later_tokens": 0
+  }
+ ],
+ "a2-06": [
+  {
+   "word": "el portero",
+   "gloss": "goalkeeper (in Colombia also el arquero)",
+   "story": "a2-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "el balón",
+   "gloss": "ball",
+   "story": "a2-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "el estadio",
+   "gloss": "stadium",
+   "story": "a2-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "el gol",
+   "gloss": "goal",
+   "story": "a2-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "el árbitro",
+   "gloss": "referee",
+   "story": "a2-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "el penalti",
+   "gloss": "penalty kick (in Colombia people usually say el penal)",
+   "story": "a2-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "patear",
+   "gloss": "to kick",
+   "story": "a2-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "el público",
+   "gloss": "crowd",
+   "story": "a2-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "el compañero",
+   "gloss": "teammate",
+   "story": "a2-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "la sartén",
+   "gloss": "frying pan",
+   "story": "a2-03",
+   "later_tokens": 0
+  },
+  {
+   "word": "el sabor",
+   "gloss": "flavor",
+   "story": "a2-03",
+   "later_tokens": 0
+  },
+  {
+   "word": "el cachorro",
+   "gloss": "puppy",
+   "story": "a2-02",
+   "later_tokens": 0
+  },
+  {
+   "word": "la estación",
+   "gloss": "station",
+   "story": "a2-01",
+   "later_tokens": 0
+  },
+  {
+   "word": "la boda",
+   "gloss": "wedding",
+   "story": "a2-01",
+   "later_tokens": 0
+  }
+ ],
+ "a2-07": [
+  {
+   "word": "la camioneta",
+   "gloss": "van",
+   "story": "a2-06",
+   "later_tokens": 0
+  },
+  {
+   "word": "la lámpara",
+   "gloss": "lamp",
+   "story": "a2-06",
+   "later_tokens": 0
+  },
+  {
+   "word": "la bombilla",
+   "gloss": "light bulb (in Chile people say la ampolleta; there, a bombilla is the metal straw for mate)",
+   "story": "a2-06",
+   "later_tokens": 0
+  },
+  {
+   "word": "el hogar",
+   "gloss": "home",
+   "story": "a2-06",
+   "later_tokens": 0
+  },
+  {
+   "word": "el portero",
+   "gloss": "goalkeeper (in Colombia also el arquero)",
+   "story": "a2-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "el balón",
+   "gloss": "ball",
+   "story": "a2-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "el estadio",
+   "gloss": "stadium",
+   "story": "a2-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "el gol",
+   "gloss": "goal",
+   "story": "a2-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "el árbitro",
+   "gloss": "referee",
+   "story": "a2-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "el penalti",
+   "gloss": "penalty kick (in Colombia people usually say el penal)",
+   "story": "a2-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "patear",
+   "gloss": "to kick",
+   "story": "a2-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "el público",
+   "gloss": "crowd",
+   "story": "a2-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "el compañero",
+   "gloss": "teammate",
+   "story": "a2-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "la sartén",
+   "gloss": "frying pan",
+   "story": "a2-03",
+   "later_tokens": 0
+  }
+ ],
+ "a2-08": [
+  {
+   "word": "el tambor",
+   "gloss": "drum",
+   "story": "a2-07",
+   "later_tokens": 0
+  },
+  {
+   "word": "el trato",
+   "gloss": "deal",
+   "story": "a2-07",
+   "later_tokens": 0
+  },
+  {
+   "word": "bailar",
+   "gloss": "to dance",
+   "story": "a2-07",
+   "later_tokens": 0
+  },
+  {
+   "word": "la camioneta",
+   "gloss": "van",
+   "story": "a2-06",
+   "later_tokens": 0
+  },
+  {
+   "word": "la lámpara",
+   "gloss": "lamp",
+   "story": "a2-06",
+   "later_tokens": 0
+  },
+  {
+   "word": "la bombilla",
+   "gloss": "light bulb (in Chile people say la ampolleta; there, a bombilla is the metal straw for mate)",
+   "story": "a2-06",
+   "later_tokens": 0
+  },
+  {
+   "word": "el hogar",
+   "gloss": "home",
+   "story": "a2-06",
+   "later_tokens": 0
+  },
+  {
+   "word": "el portero",
+   "gloss": "goalkeeper (in Colombia also el arquero)",
+   "story": "a2-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "el balón",
+   "gloss": "ball",
+   "story": "a2-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "el estadio",
+   "gloss": "stadium",
+   "story": "a2-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "el gol",
+   "gloss": "goal",
+   "story": "a2-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "el árbitro",
+   "gloss": "referee",
+   "story": "a2-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "el penalti",
+   "gloss": "penalty kick (in Colombia people usually say el penal)",
+   "story": "a2-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "patear",
+   "gloss": "to kick",
+   "story": "a2-04",
+   "later_tokens": 0
+  }
+ ],
+ "a2-09": [
+  {
+   "word": "la montaña",
+   "gloss": "mountain",
+   "story": "a2-08",
+   "later_tokens": 0
+  },
+  {
+   "word": "el sendero",
+   "gloss": "trail",
+   "story": "a2-08",
+   "later_tokens": 0
+  },
+  {
+   "word": "el río",
+   "gloss": "river",
+   "story": "a2-08",
+   "later_tokens": 0
+  },
+  {
+   "word": "el paisaje",
+   "gloss": "scenery",
+   "story": "a2-08",
+   "later_tokens": 0
+  },
+  {
+   "word": "el almuerzo",
+   "gloss": "lunch",
+   "story": "a2-08",
+   "later_tokens": 0
+  },
+  {
+   "word": "la niebla",
+   "gloss": "fog",
+   "story": "a2-08",
+   "later_tokens": 0
+  },
+  {
+   "word": "la bota",
+   "gloss": "boot",
+   "story": "a2-08",
+   "later_tokens": 0
+  },
+  {
+   "word": "el tambor",
+   "gloss": "drum",
+   "story": "a2-07",
+   "later_tokens": 0
+  },
+  {
+   "word": "el trato",
+   "gloss": "deal",
+   "story": "a2-07",
+   "later_tokens": 0
+  },
+  {
+   "word": "bailar",
+   "gloss": "to dance",
+   "story": "a2-07",
+   "later_tokens": 0
+  },
+  {
+   "word": "la camioneta",
+   "gloss": "van",
+   "story": "a2-06",
+   "later_tokens": 0
+  },
+  {
+   "word": "la lámpara",
+   "gloss": "lamp",
+   "story": "a2-06",
+   "later_tokens": 0
+  },
+  {
+   "word": "la bombilla",
+   "gloss": "light bulb (in Chile people say la ampolleta; there, a bombilla is the metal straw for mate)",
+   "story": "a2-06",
+   "later_tokens": 0
+  },
+  {
+   "word": "el hogar",
+   "gloss": "home",
+   "story": "a2-06",
+   "later_tokens": 0
+  }
+ ],
+ "a2-10": [
+  {
+   "word": "la entrevista",
+   "gloss": "interview",
+   "story": "a2-09",
+   "later_tokens": 0
+  },
+  {
+   "word": "el currículum",
+   "gloss": "résumé",
+   "story": "a2-09",
+   "later_tokens": 0
+  },
+  {
+   "word": "la alarma",
+   "gloss": "alarm",
+   "story": "a2-09",
+   "later_tokens": 0
+  },
+  {
+   "word": "la camisa",
+   "gloss": "shirt",
+   "story": "a2-09",
+   "later_tokens": 0
+  },
+  {
+   "word": "la mancha",
+   "gloss": "stain",
+   "story": "a2-09",
+   "later_tokens": 0
+  },
+  {
+   "word": "la jefa",
+   "gloss": "boss",
+   "story": "a2-09",
+   "later_tokens": 0
+  },
+  {
+   "word": "el diseño",
+   "gloss": "design",
+   "story": "a2-09",
+   "later_tokens": 0
+  },
+  {
+   "word": "la noticia",
+   "gloss": "news",
+   "story": "a2-09",
+   "later_tokens": 0
+  },
+  {
+   "word": "vestirse",
+   "gloss": "to get dressed",
+   "story": "a2-09",
+   "later_tokens": 0
+  },
+  {
+   "word": "chocar",
+   "gloss": "to bump into",
+   "story": "a2-09",
+   "later_tokens": 0
+  },
+  {
+   "word": "la montaña",
+   "gloss": "mountain",
+   "story": "a2-08",
+   "later_tokens": 0
+  },
+  {
+   "word": "el sendero",
+   "gloss": "trail",
+   "story": "a2-08",
+   "later_tokens": 0
+  },
+  {
+   "word": "el río",
+   "gloss": "river",
+   "story": "a2-08",
+   "later_tokens": 0
+  },
+  {
+   "word": "el paisaje",
+   "gloss": "scenery",
+   "story": "a2-08",
+   "later_tokens": 0
+  }
+ ],
+ "b1-01": [
+  {
+   "word": "el farol",
+   "gloss": "lantern",
+   "story": "a2-10",
+   "later_tokens": 0
+  },
+  {
+   "word": "el alcalde",
+   "gloss": "mayor",
+   "story": "a2-10",
+   "later_tokens": 0
+  },
+  {
+   "word": "el toro",
+   "gloss": "bull",
+   "story": "a2-10",
+   "later_tokens": 0
+  },
+  {
+   "word": "el granero",
+   "gloss": "barn",
+   "story": "a2-10",
+   "later_tokens": 0
+  },
+  {
+   "word": "el pegamento",
+   "gloss": "glue",
+   "story": "a2-10",
+   "later_tokens": 0
+  },
+  {
+   "word": "la pata",
+   "gloss": "leg (of an animal)",
+   "story": "a2-10",
+   "later_tokens": 0
+  },
+  {
+   "word": "el carpintero",
+   "gloss": "carpenter",
+   "story": "a2-10",
+   "later_tokens": 0
+  },
+  {
+   "word": "la panadera",
+   "gloss": "baker",
+   "story": "a2-10",
+   "later_tokens": 0
+  },
+  {
+   "word": "mojar",
+   "gloss": "to soak",
+   "story": "a2-10",
+   "later_tokens": 0
+  },
+  {
+   "word": "el anochecer",
+   "gloss": "dusk",
+   "story": "a2-10",
+   "later_tokens": 0
+  },
+  {
+   "word": "la entrevista",
+   "gloss": "interview",
+   "story": "a2-09",
+   "later_tokens": 0
+  },
+  {
+   "word": "el currículum",
+   "gloss": "résumé",
+   "story": "a2-09",
+   "later_tokens": 0
+  },
+  {
+   "word": "la alarma",
+   "gloss": "alarm",
+   "story": "a2-09",
+   "later_tokens": 0
+  },
+  {
+   "word": "la camisa",
+   "gloss": "shirt",
+   "story": "a2-09",
+   "later_tokens": 0
+  }
+ ],
+ "b1-02": [
+  {
+   "word": "el carnet",
+   "gloss": "ID card",
+   "story": "b1-01",
+   "later_tokens": 0
+  },
+  {
+   "word": "la comisaría",
+   "gloss": "police station",
+   "story": "b1-01",
+   "later_tokens": 0
+  },
+  {
+   "word": "la recompensa",
+   "gloss": "reward",
+   "story": "b1-01",
+   "later_tokens": 0
+  },
+  {
+   "word": "la postal",
+   "gloss": "postcard",
+   "story": "b1-01",
+   "later_tokens": 0
+  },
+  {
+   "word": "el hostal",
+   "gloss": "small hotel, hostel",
+   "story": "b1-01",
+   "later_tokens": 0
+  },
+  {
+   "word": "la cartera",
+   "gloss": "wallet",
+   "story": "b1-01",
+   "later_tokens": 1
+  },
+  {
+   "word": "el banco",
+   "gloss": "bench",
+   "story": "b1-01",
+   "later_tokens": 1
+  },
+  {
+   "word": "la dirección",
+   "gloss": "address",
+   "story": "b1-01",
+   "later_tokens": 2
+  },
+  {
+   "word": "jubilado/a",
+   "gloss": "retired",
+   "story": "b1-01",
+   "later_tokens": 2
+  },
+  {
+   "word": "devolver",
+   "gloss": "to give back",
+   "story": "b1-01",
+   "later_tokens": 2
+  },
+  {
+   "word": "acompañar",
+   "gloss": "to accompany, join",
+   "story": "b1-01",
+   "later_tokens": 2
+  },
+  {
+   "word": "el farol",
+   "gloss": "lantern",
+   "story": "a2-10",
+   "later_tokens": 0
+  },
+  {
+   "word": "el alcalde",
+   "gloss": "mayor",
+   "story": "a2-10",
+   "later_tokens": 0
+  },
+  {
+   "word": "el toro",
+   "gloss": "bull",
+   "story": "a2-10",
+   "later_tokens": 0
+  }
+ ],
+ "b1-03": [
+  {
+   "word": "arrancar",
+   "gloss": "to tear off, to pull off",
+   "story": "b1-02",
+   "later_tokens": 0
+  },
+  {
+   "word": "cebar (un mate)",
+   "gloss": "to prepare and serve (a mate)",
+   "story": "b1-02",
+   "later_tokens": 0
+  },
+  {
+   "word": "gurisa / gurí",
+   "gloss": "girl / boy, kid (Uruguay)",
+   "story": "b1-02",
+   "later_tokens": 0
+  },
+  {
+   "word": "la parrillita",
+   "gloss": "small portable grill",
+   "story": "b1-02",
+   "later_tokens": 0
+  },
+  {
+   "word": "la plancha",
+   "gloss": "griddle, hot plate",
+   "story": "b1-02",
+   "later_tokens": 0
+  },
+  {
+   "word": "encargarse de",
+   "gloss": "to take care of, to make sure to",
+   "story": "b1-02",
+   "later_tokens": 0
+  },
+  {
+   "word": "finito/a",
+   "gloss": "nice and thin",
+   "story": "b1-02",
+   "later_tokens": 0
+  },
+  {
+   "word": "la panceta",
+   "gloss": "bacon",
+   "story": "b1-02",
+   "later_tokens": 0
+  },
+  {
+   "word": "la carpa",
+   "gloss": "tent, marquee",
+   "story": "b1-02",
+   "later_tokens": 0
+  },
+  {
+   "word": "portarse bien",
+   "gloss": "to behave",
+   "story": "b1-02",
+   "later_tokens": 0
+  },
+  {
+   "word": "la pizca",
+   "gloss": "pinch",
+   "story": "b1-02",
+   "later_tokens": 0
+  },
+  {
+   "word": "revolver",
+   "gloss": "to stir",
+   "story": "b1-02",
+   "later_tokens": 0
+  },
+  {
+   "word": "el chivito",
+   "gloss": "Uruguayan steak sandwich; literally, a young goat (kid)",
+   "story": "b1-02",
+   "later_tokens": 0
+  },
+  {
+   "word": "el carnet",
+   "gloss": "ID card",
+   "story": "b1-01",
+   "later_tokens": 0
+  }
+ ],
+ "b1-04": [
+  {
+   "word": "el despertador",
+   "gloss": "alarm clock",
+   "story": "b1-03",
+   "later_tokens": 0
+  },
+  {
+   "word": "el pan de muerto",
+   "gloss": "Day of the Dead bread",
+   "story": "b1-03",
+   "later_tokens": 0
+  },
+  {
+   "word": "la bandeja",
+   "gloss": "tray",
+   "story": "b1-03",
+   "later_tokens": 0
+  },
+  {
+   "word": "agrietarse",
+   "gloss": "to crack",
+   "story": "b1-03",
+   "later_tokens": 0
+  },
+  {
+   "word": "luchar",
+   "gloss": "to fight, struggle",
+   "story": "b1-03",
+   "later_tokens": 0
+  },
+  {
+   "word": "amasar",
+   "gloss": "to knead",
+   "story": "b1-03",
+   "later_tokens": 0
+  },
+  {
+   "word": "la víspera",
+   "gloss": "eve",
+   "story": "b1-03",
+   "later_tokens": 0
+  },
+  {
+   "word": "rendirse",
+   "gloss": "to give up",
+   "story": "b1-03",
+   "later_tokens": 0
+  },
+  {
+   "word": "prestar",
+   "gloss": "to lend",
+   "story": "b1-03",
+   "later_tokens": 0
+  },
+  {
+   "word": "arrancar",
+   "gloss": "to tear off, to pull off",
+   "story": "b1-02",
+   "later_tokens": 0
+  },
+  {
+   "word": "cebar (un mate)",
+   "gloss": "to prepare and serve (a mate)",
+   "story": "b1-02",
+   "later_tokens": 0
+  },
+  {
+   "word": "gurisa / gurí",
+   "gloss": "girl / boy, kid (Uruguay)",
+   "story": "b1-02",
+   "later_tokens": 0
+  },
+  {
+   "word": "la parrillita",
+   "gloss": "small portable grill",
+   "story": "b1-02",
+   "later_tokens": 0
+  },
+  {
+   "word": "la plancha",
+   "gloss": "griddle, hot plate",
+   "story": "b1-02",
+   "later_tokens": 0
+  }
+ ],
+ "b1-05": [
+  {
+   "word": "el enfermero",
+   "gloss": "nurse (male)",
+   "story": "b1-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "el suero",
+   "gloss": "IV drip (plural: los sueros)",
+   "story": "b1-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "caerse",
+   "gloss": "to fall",
+   "story": "b1-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "lastimarse",
+   "gloss": "to hurt oneself",
+   "story": "b1-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "el cometa",
+   "gloss": "comet",
+   "story": "b1-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "el regalo",
+   "gloss": "gift",
+   "story": "b1-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "darse cuenta de",
+   "gloss": "to realize",
+   "story": "b1-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "preocupado/a",
+   "gloss": "worried",
+   "story": "b1-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "el despertador",
+   "gloss": "alarm clock",
+   "story": "b1-03",
+   "later_tokens": 0
+  },
+  {
+   "word": "el pan de muerto",
+   "gloss": "Day of the Dead bread",
+   "story": "b1-03",
+   "later_tokens": 0
+  },
+  {
+   "word": "la bandeja",
+   "gloss": "tray",
+   "story": "b1-03",
+   "later_tokens": 0
+  },
+  {
+   "word": "agrietarse",
+   "gloss": "to crack",
+   "story": "b1-03",
+   "later_tokens": 0
+  },
+  {
+   "word": "luchar",
+   "gloss": "to fight, struggle",
+   "story": "b1-03",
+   "later_tokens": 0
+  },
+  {
+   "word": "amasar",
+   "gloss": "to knead",
+   "story": "b1-03",
+   "later_tokens": 0
+  }
+ ],
+ "b1-06": [
+  {
+   "word": "enojarse",
+   "gloss": "to get angry (Spain: enfadarse)",
+   "story": "b1-05",
+   "later_tokens": 0
+  },
+  {
+   "word": "el acantilado",
+   "gloss": "cliff",
+   "story": "b1-05",
+   "later_tokens": 0
+  },
+  {
+   "word": "las alforjas",
+   "gloss": "panniers (bike bags)",
+   "story": "b1-05",
+   "later_tokens": 0
+  },
+  {
+   "word": "el rencor",
+   "gloss": "resentment",
+   "story": "b1-05",
+   "later_tokens": 0
+  },
+  {
+   "word": "limitarse a",
+   "gloss": "to just, to limit oneself to",
+   "story": "b1-05",
+   "later_tokens": 0
+  },
+  {
+   "word": "pincharse",
+   "gloss": "to get a flat (tire)",
+   "story": "b1-05",
+   "later_tokens": 0
+  },
+  {
+   "word": "el repuesto",
+   "gloss": "spare (here, a spare inner tube)",
+   "story": "b1-05",
+   "later_tokens": 0
+  },
+  {
+   "word": "el ceviche",
+   "gloss": "marinated seafood dish",
+   "story": "b1-05",
+   "later_tokens": 0
+  },
+  {
+   "word": "agotado/a",
+   "gloss": "exhausted",
+   "story": "b1-05",
+   "later_tokens": 0
+  },
+  {
+   "word": "extrañar",
+   "gloss": "to miss (Spain: echar de menos)",
+   "story": "b1-05",
+   "later_tokens": 0
+  },
+  {
+   "word": "darse cuenta de",
+   "gloss": "to realize",
+   "story": "b1-05",
+   "later_tokens": 0
+  },
+  {
+   "word": "el enfermero",
+   "gloss": "nurse (male)",
+   "story": "b1-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "el suero",
+   "gloss": "IV drip (plural: los sueros)",
+   "story": "b1-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "caerse",
+   "gloss": "to fall",
+   "story": "b1-04",
+   "later_tokens": 0
+  }
+ ],
+ "b1-07": [
+  {
+   "word": "el desván",
+   "gloss": "attic",
+   "story": "b1-06",
+   "later_tokens": 0
+  },
+  {
+   "word": "vaciar",
+   "gloss": "to empty",
+   "story": "b1-06",
+   "later_tokens": 0
+  },
+  {
+   "word": "el pedazo",
+   "gloss": "piece",
+   "story": "b1-06",
+   "later_tokens": 0
+  },
+  {
+   "word": "la serenata",
+   "gloss": "serenade",
+   "story": "b1-06",
+   "later_tokens": 0
+  },
+  {
+   "word": "un nudo en la garganta",
+   "gloss": "a lump in the throat",
+   "story": "b1-06",
+   "later_tokens": 0
+  },
+  {
+   "word": "hacerse ilusiones",
+   "gloss": "to get one's hopes up",
+   "story": "b1-06",
+   "later_tokens": 0
+  },
+  {
+   "word": "el rincón",
+   "gloss": "corner",
+   "story": "b1-06",
+   "later_tokens": 0
+  },
+  {
+   "word": "el cordel",
+   "gloss": "string",
+   "story": "b1-06",
+   "later_tokens": 0
+  },
+  {
+   "word": "el baúl",
+   "gloss": "trunk",
+   "story": "b1-06",
+   "later_tokens": 0
+  },
+  {
+   "word": "enojarse",
+   "gloss": "to get angry (Spain: enfadarse)",
+   "story": "b1-05",
+   "later_tokens": 0
+  },
+  {
+   "word": "el acantilado",
+   "gloss": "cliff",
+   "story": "b1-05",
+   "later_tokens": 0
+  },
+  {
+   "word": "las alforjas",
+   "gloss": "panniers (bike bags)",
+   "story": "b1-05",
+   "later_tokens": 0
+  },
+  {
+   "word": "el rencor",
+   "gloss": "resentment",
+   "story": "b1-05",
+   "later_tokens": 0
+  },
+  {
+   "word": "limitarse a",
+   "gloss": "to just, to limit oneself to",
+   "story": "b1-05",
+   "later_tokens": 0
+  }
+ ],
+ "b1-08": [
+  {
+   "word": "el inversionista",
+   "gloss": "investor",
+   "story": "b1-07",
+   "later_tokens": 0
+  },
+  {
+   "word": "los ahorros",
+   "gloss": "savings",
+   "story": "b1-07",
+   "later_tokens": 0
+  },
+  {
+   "word": "carraspear",
+   "gloss": "to clear one's throat",
+   "story": "b1-07",
+   "later_tokens": 0
+  },
+  {
+   "word": "enredado/a",
+   "gloss": "tangled",
+   "story": "b1-07",
+   "later_tokens": 0
+  },
+  {
+   "word": "apostar",
+   "gloss": "to bet",
+   "story": "b1-07",
+   "later_tokens": 0
+  },
+  {
+   "word": "el aparato",
+   "gloss": "gadget, device",
+   "story": "b1-07",
+   "later_tokens": 0
+  },
+  {
+   "word": "olvidarse de",
+   "gloss": "to forget to",
+   "story": "b1-07",
+   "later_tokens": 0
+  },
+  {
+   "word": "intercambiar una mirada",
+   "gloss": "to exchange a look",
+   "story": "b1-07",
+   "later_tokens": 0
+  },
+  {
+   "word": "el desván",
+   "gloss": "attic",
+   "story": "b1-06",
+   "later_tokens": 0
+  },
+  {
+   "word": "vaciar",
+   "gloss": "to empty",
+   "story": "b1-06",
+   "later_tokens": 0
+  },
+  {
+   "word": "el pedazo",
+   "gloss": "piece",
+   "story": "b1-06",
+   "later_tokens": 0
+  },
+  {
+   "word": "la serenata",
+   "gloss": "serenade",
+   "story": "b1-06",
+   "later_tokens": 0
+  },
+  {
+   "word": "un nudo en la garganta",
+   "gloss": "a lump in the throat",
+   "story": "b1-06",
+   "later_tokens": 0
+  },
+  {
+   "word": "hacerse ilusiones",
+   "gloss": "to get one's hopes up",
+   "story": "b1-06",
+   "later_tokens": 0
+  }
+ ],
+ "b1-09": [
+  {
+   "word": "acariciar",
+   "gloss": "to stroke, to run one's hand over",
+   "story": "b1-08",
+   "later_tokens": 0
+  },
+  {
+   "word": "madrugar",
+   "gloss": "to get up early",
+   "story": "b1-08",
+   "later_tokens": 0
+  },
+  {
+   "word": "la despedida",
+   "gloss": "farewell",
+   "story": "b1-08",
+   "later_tokens": 0
+  },
+  {
+   "word": "secarse (los ojos)",
+   "gloss": "to dry (one's eyes)",
+   "story": "b1-08",
+   "later_tokens": 0
+  },
+  {
+   "word": "la tiza",
+   "gloss": "chalk",
+   "story": "b1-08",
+   "later_tokens": 0
+  },
+  {
+   "word": "quebrado/a",
+   "gloss": "broken (voice)",
+   "story": "b1-08",
+   "later_tokens": 0
+  },
+  {
+   "word": "el timbre",
+   "gloss": "bell (school bell here; also doorbell)",
+   "story": "b1-08",
+   "later_tokens": 0
+  },
+  {
+   "word": "afortunado/a",
+   "gloss": "fortunate",
+   "story": "b1-08",
+   "later_tokens": 0
+  },
+  {
+   "word": "el inversionista",
+   "gloss": "investor",
+   "story": "b1-07",
+   "later_tokens": 0
+  },
+  {
+   "word": "los ahorros",
+   "gloss": "savings",
+   "story": "b1-07",
+   "later_tokens": 0
+  },
+  {
+   "word": "carraspear",
+   "gloss": "to clear one's throat",
+   "story": "b1-07",
+   "later_tokens": 0
+  },
+  {
+   "word": "enredado/a",
+   "gloss": "tangled",
+   "story": "b1-07",
+   "later_tokens": 0
+  },
+  {
+   "word": "apostar",
+   "gloss": "to bet",
+   "story": "b1-07",
+   "later_tokens": 0
+  },
+  {
+   "word": "el aparato",
+   "gloss": "gadget, device",
+   "story": "b1-07",
+   "later_tokens": 0
+  }
+ ],
+ "b1-10": [
+  {
+   "word": "el trueno",
+   "gloss": "thunder",
+   "story": "b1-09",
+   "later_tokens": 0
+  },
+  {
+   "word": "tantear",
+   "gloss": "to feel one's way",
+   "story": "b1-09",
+   "later_tokens": 0
+  },
+  {
+   "word": "el apagón",
+   "gloss": "blackout",
+   "story": "b1-09",
+   "later_tokens": 0
+  },
+  {
+   "word": "la portera",
+   "gloss": "doorwoman, building caretaker",
+   "story": "b1-09",
+   "later_tokens": 0
+  },
+  {
+   "word": "gruñón/gruñona",
+   "gloss": "grumpy",
+   "story": "b1-09",
+   "later_tokens": 0
+  },
+  {
+   "word": "distraer",
+   "gloss": "to distract",
+   "story": "b1-09",
+   "later_tokens": 0
+  },
+  {
+   "word": "el hornillo",
+   "gloss": "portable stove",
+   "story": "b1-09",
+   "later_tokens": 0
+  },
+  {
+   "word": "desperdiciar",
+   "gloss": "to waste",
+   "story": "b1-09",
+   "later_tokens": 0
+  },
+  {
+   "word": "descongelarse",
+   "gloss": "to thaw",
+   "story": "b1-09",
+   "later_tokens": 0
+  },
+  {
+   "word": "improvisado/a",
+   "gloss": "improvised",
+   "story": "b1-09",
+   "later_tokens": 0
+  },
+  {
+   "word": "parpadear",
+   "gloss": "to blink",
+   "story": "b1-09",
+   "later_tokens": 0
+  },
+  {
+   "word": "el hechizo",
+   "gloss": "spell",
+   "story": "b1-09",
+   "later_tokens": 0
+  },
+  {
+   "word": "acariciar",
+   "gloss": "to stroke, to run one's hand over",
+   "story": "b1-08",
+   "later_tokens": 0
+  },
+  {
+   "word": "madrugar",
+   "gloss": "to get up early",
+   "story": "b1-08",
+   "later_tokens": 0
+  }
+ ],
+ "b2-01": [
+  {
+   "word": "arrodillado/a",
+   "gloss": "kneeling",
+   "story": "b1-10",
+   "later_tokens": 0
+  },
+  {
+   "word": "la alfombra",
+   "gloss": "(here) street carpet made for a Holy Week procession",
+   "story": "b1-10",
+   "later_tokens": 0
+  },
+  {
+   "word": "el terremoto",
+   "gloss": "earthquake",
+   "story": "b1-10",
+   "later_tokens": 0
+  },
+  {
+   "word": "trasladar",
+   "gloss": "to move, to relocate",
+   "story": "b1-10",
+   "later_tokens": 0
+  },
+  {
+   "word": "el humo",
+   "gloss": "smoke",
+   "story": "b1-10",
+   "later_tokens": 0
+  },
+  {
+   "word": "el tejido",
+   "gloss": "woven textile, weaving",
+   "story": "b1-10",
+   "later_tokens": 0
+  },
+  {
+   "word": "la aldaba",
+   "gloss": "door knocker",
+   "story": "b1-10",
+   "later_tokens": 0
+  },
+  {
+   "word": "el bronce",
+   "gloss": "bronze",
+   "story": "b1-10",
+   "later_tokens": 0
+  },
+  {
+   "word": "los rellenitos",
+   "gloss": "sweet plantain dumplings filled with black beans (Guatemala)",
+   "story": "b1-10",
+   "later_tokens": 0
+  },
+  {
+   "word": "los lentes",
+   "gloss": "glasses (Latin America)",
+   "story": "b1-10",
+   "later_tokens": 0
+  },
+  {
+   "word": "descolgar",
+   "gloss": "to take down (from a wall or hook)",
+   "story": "b1-10",
+   "later_tokens": 0
+  },
+  {
+   "word": "el molde",
+   "gloss": "stencil, mold",
+   "story": "b1-10",
+   "later_tokens": 0
+  },
+  {
+   "word": "el aserrín",
+   "gloss": "sawdust",
+   "story": "b1-10",
+   "later_tokens": 0
+  },
+  {
+   "word": "el quetzal",
+   "gloss": "quetzal (Guatemala's national bird)",
+   "story": "b1-10",
+   "later_tokens": 0
+  }
+ ],
+ "b2-02": [
+  {
+   "word": "el hallazgo",
+   "gloss": "discovery, find",
+   "story": "b2-01",
+   "later_tokens": 0
+  },
+  {
+   "word": "la encuadernación",
+   "gloss": "binding (of a book)",
+   "story": "b2-01",
+   "later_tokens": 0
+  },
+  {
+   "word": "el destinatario",
+   "gloss": "addressee, recipient",
+   "story": "b2-01",
+   "later_tokens": 0
+  },
+  {
+   "word": "el remitente",
+   "gloss": "sender",
+   "story": "b2-01",
+   "later_tokens": 0
+  },
+  {
+   "word": "rasgar",
+   "gloss": "to tear open",
+   "story": "b2-01",
+   "later_tokens": 0
+  },
+  {
+   "word": "la reliquia",
+   "gloss": "relic",
+   "story": "b2-01",
+   "later_tokens": 0
+  },
+  {
+   "word": "cobarde",
+   "gloss": "cowardly; coward",
+   "story": "b2-01",
+   "later_tokens": 0
+  },
+  {
+   "word": "conmovido",
+   "gloss": "moved, touched",
+   "story": "b2-01",
+   "later_tokens": 0
+  },
+  {
+   "word": "arreglárselas",
+   "gloss": "to manage, get by",
+   "story": "b2-01",
+   "later_tokens": 0
+  },
+  {
+   "word": "rastrear",
+   "gloss": "to track down, trace",
+   "story": "b2-01",
+   "later_tokens": 0
+  },
+  {
+   "word": "el padrón",
+   "gloss": "census, municipal register",
+   "story": "b2-01",
+   "later_tokens": 0
+  },
+  {
+   "word": "la esquela",
+   "gloss": "obituary notice",
+   "story": "b2-01",
+   "later_tokens": 0
+  },
+  {
+   "word": "reabrir",
+   "gloss": "to reopen",
+   "story": "b2-01",
+   "later_tokens": 0
+  },
+  {
+   "word": "despierto",
+   "gloss": "alert, sharp",
+   "story": "b2-01",
+   "later_tokens": 0
+  }
+ ],
+ "b2-03": [
+  {
+   "word": "la excedencia",
+   "gloss": "leave of absence",
+   "story": "b2-02",
+   "later_tokens": 0
+  },
+  {
+   "word": "chirriante",
+   "gloss": "squeaky, creaking",
+   "story": "b2-02",
+   "later_tokens": 0
+  },
+  {
+   "word": "el fogón",
+   "gloss": "stove, hearth (traditional cooking fire)",
+   "story": "b2-02",
+   "later_tokens": 0
+  },
+  {
+   "word": "el recelo",
+   "gloss": "wariness, distrust",
+   "story": "b2-02",
+   "later_tokens": 0
+  },
+  {
+   "word": "desencaminado",
+   "gloss": "mistaken, off track",
+   "story": "b2-02",
+   "later_tokens": 0
+  },
+  {
+   "word": "postrado",
+   "gloss": "laid up, confined (by illness or injury)",
+   "story": "b2-02",
+   "later_tokens": 0
+  },
+  {
+   "word": "el fracaso",
+   "gloss": "failure",
+   "story": "b2-02",
+   "later_tokens": 0
+  },
+  {
+   "word": "tallar",
+   "gloss": "to scrub (Mexico; Spain: fregar)",
+   "story": "b2-02",
+   "later_tokens": 0
+  },
+  {
+   "word": "menospreciar",
+   "gloss": "to look down on, belittle",
+   "story": "b2-02",
+   "later_tokens": 0
+  },
+  {
+   "word": "encurtido",
+   "gloss": "pickled",
+   "story": "b2-02",
+   "later_tokens": 0
+  },
+  {
+   "word": "afinar",
+   "gloss": "to fine-tune, refine",
+   "story": "b2-02",
+   "later_tokens": 0
+  },
+  {
+   "word": "el acierto",
+   "gloss": "good move, stroke of insight",
+   "story": "b2-02",
+   "later_tokens": 0
+  },
+  {
+   "word": "hacer las paces",
+   "gloss": "to make peace",
+   "story": "b2-02",
+   "later_tokens": 0
+  },
+  {
+   "word": "el hallazgo",
+   "gloss": "discovery, find",
+   "story": "b2-01",
+   "later_tokens": 0
+  }
+ ],
+ "b2-04": [
+  {
+   "word": "la apuesta",
+   "gloss": "bet, wager",
+   "story": "b2-03",
+   "later_tokens": 0
+  },
+  {
+   "word": "la Compostela",
+   "gloss": "certificate given to pilgrims who complete the Camino",
+   "story": "b2-03",
+   "later_tokens": 0
+  },
+  {
+   "word": "el bastón",
+   "gloss": "walking pole, walking stick",
+   "story": "b2-03",
+   "later_tokens": 0
+  },
+  {
+   "word": "el mojón",
+   "gloss": "stone waymarker (with the distance to Santiago)",
+   "story": "b2-03",
+   "later_tokens": 0
+  },
+  {
+   "word": "cojear",
+   "gloss": "to limp",
+   "story": "b2-03",
+   "later_tokens": 0
+  },
+  {
+   "word": "el sello",
+   "gloss": "stamp (ink stamp)",
+   "story": "b2-03",
+   "later_tokens": 0
+  },
+  {
+   "word": "la credencial",
+   "gloss": "pilgrim passport (stamped along the Camino)",
+   "story": "b2-03",
+   "later_tokens": 0
+  },
+  {
+   "word": "el pulpo a feira",
+   "gloss": "Galician-style octopus (boiled, with paprika and olive oil)",
+   "story": "b2-03",
+   "later_tokens": 0
+  },
+  {
+   "word": "remendado",
+   "gloss": "patched, mended",
+   "story": "b2-03",
+   "later_tokens": 0
+  },
+  {
+   "word": "el hospitalero",
+   "gloss": "host who runs a pilgrims' hostel (often a volunteer)",
+   "story": "b2-03",
+   "later_tokens": 0
+  },
+  {
+   "word": "la concha de vieira",
+   "gloss": "scallop shell",
+   "story": "b2-03",
+   "later_tokens": 0
+  },
+  {
+   "word": "tembloroso",
+   "gloss": "shaky, trembling",
+   "story": "b2-03",
+   "later_tokens": 0
+  },
+  {
+   "word": "el expediente",
+   "gloss": "case file, dossier",
+   "story": "b2-03",
+   "later_tokens": 0
+  },
+  {
+   "word": "el jubileo",
+   "gloss": "jubilee (special pardon granted in a Holy Year)",
+   "story": "b2-03",
+   "later_tokens": 0
+  }
+ ],
+ "b2-05": [
+  {
+   "word": "el plazo",
+   "gloss": "deadline, time limit",
+   "story": "b2-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "angustioso",
+   "gloss": "distressing, agonizing",
+   "story": "b2-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "toparse con",
+   "gloss": "to come across, bump into",
+   "story": "b2-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "inocuo",
+   "gloss": "harmless",
+   "story": "b2-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "el homólogo",
+   "gloss": "counterpart",
+   "story": "b2-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "la coartada",
+   "gloss": "alibi, pretext",
+   "story": "b2-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "suavizar",
+   "gloss": "to soften",
+   "story": "b2-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "matizar",
+   "gloss": "to add nuance, qualify",
+   "story": "b2-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "demoledor",
+   "gloss": "devastating, crushing",
+   "story": "b2-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "el rubor",
+   "gloss": "blush, embarrassment",
+   "story": "b2-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "la aclaración",
+   "gloss": "clarification",
+   "story": "b2-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "desarmar",
+   "gloss": "to disarm",
+   "story": "b2-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "disimular",
+   "gloss": "to conceal, disguise",
+   "story": "b2-04",
+   "later_tokens": 0
+  },
+  {
+   "word": "tachar de",
+   "gloss": "to label as, dismiss as",
+   "story": "b2-04",
+   "later_tokens": 0
+  }
+ ],
+ "b2-06": [
+  {
+   "word": "la persiana",
+   "gloss": "shop shutter (roller shutter)",
+   "story": "b2-05",
+   "later_tokens": 0
+  },
+  {
+   "word": "la librería de viejo",
+   "gloss": "second-hand bookshop",
+   "story": "b2-05",
+   "later_tokens": 0
+  },
+  {
+   "word": "la dedicatoria",
+   "gloss": "inscription, dedication (written in a book)",
+   "story": "b2-05",
+   "later_tokens": 0
+  },
+  {
+   "word": "nena",
+   "gloss": "sweetheart, dear (Arg., affectionate; lit. little girl)",
+   "story": "b2-05",
+   "later_tokens": 0
+  },
+  {
+   "word": "el pibe",
+   "gloss": "kid, young guy (Arg., colloquial)",
+   "story": "b2-05",
+   "later_tokens": 0
+  },
+  {
+   "word": "el sótano",
+   "gloss": "basement",
+   "story": "b2-05",
+   "later_tokens": 0
+  },
+  {
+   "word": "dormitar",
+   "gloss": "to doze",
+   "story": "b2-05",
+   "later_tokens": 0
+  },
+  {
+   "word": "el kiosco de diarios",
+   "gloss": "newsstand, newspaper kiosk",
+   "story": "b2-05",
+   "later_tokens": 0
+  },
+  {
+   "word": "chorrear",
+   "gloss": "to drip, to stream",
+   "story": "b2-05",
+   "later_tokens": 0
+  },
+  {
+   "word": "el cadete",
+   "gloss": "delivery boy, errand runner (Arg.)",
+   "story": "b2-05",
+   "later_tokens": 0
+  },
+  {
+   "word": "el rompecabezas",
+   "gloss": "jigsaw puzzle",
+   "story": "b2-05",
+   "later_tokens": 0
+  },
+  {
+   "word": "empapado",
+   "gloss": "soaked, drenched",
+   "story": "b2-05",
+   "later_tokens": 0
+  },
+  {
+   "word": "el lomo",
+   "gloss": "spine (of a book)",
+   "story": "b2-05",
+   "later_tokens": 0
+  },
+  {
+   "word": "el maletín",
+   "gloss": "briefcase",
+   "story": "b2-05",
+   "later_tokens": 0
+  }
+ ],
+ "b2-07": [
+  {
+   "word": "advertir",
+   "gloss": "to warn; to notice, point out",
+   "story": "b2-06",
+   "later_tokens": 0
+  },
+  {
+   "word": "achacoso",
+   "gloss": "ailing, frail",
+   "story": "b2-06",
+   "later_tokens": 0
+  },
+  {
+   "word": "testarudo",
+   "gloss": "stubborn, headstrong",
+   "story": "b2-06",
+   "later_tokens": 0
+  },
+  {
+   "word": "apegado",
+   "gloss": "attached, devoted",
+   "story": "b2-06",
+   "later_tokens": 0
+  },
+  {
+   "word": "desconcertar",
+   "gloss": "to baffle, to disconcert",
+   "story": "b2-06",
+   "later_tokens": 0
+  },
+  {
+   "word": "el desasosiego",
+   "gloss": "unease, restlessness",
+   "story": "b2-06",
+   "later_tokens": 0
+  },
+  {
+   "word": "abatido",
+   "gloss": "downcast, dejected",
+   "story": "b2-06",
+   "later_tokens": 0
+  },
+  {
+   "word": "el afán",
+   "gloss": "eagerness, zeal",
+   "story": "b2-06",
+   "later_tokens": 0
+  },
+  {
+   "word": "el esmero",
+   "gloss": "great care",
+   "story": "b2-06",
+   "later_tokens": 0
+  },
+  {
+   "word": "cobrar vida",
+   "gloss": "to come to life",
+   "story": "b2-06",
+   "later_tokens": 0
+  },
+  {
+   "word": "estremecerse",
+   "gloss": "to shudder",
+   "story": "b2-06",
+   "later_tokens": 0
+  },
+  {
+   "word": "el umbral",
+   "gloss": "threshold",
+   "story": "b2-06",
+   "later_tokens": 0
+  },
+  {
+   "word": "descompuesto",
+   "gloss": "broken down (Mexico)",
+   "story": "b2-06",
+   "later_tokens": 0
+  },
+  {
+   "word": "la maceta",
+   "gloss": "flowerpot",
+   "story": "b2-06",
+   "later_tokens": 0
+  }
+ ],
+ "b2-08": [
+  {
+   "word": "la fonda",
+   "gloss": "small family restaurant, eatery",
+   "story": "b2-07",
+   "later_tokens": 0
+  },
+  {
+   "word": "el comal",
+   "gloss": "flat griddle (for tortillas and toasting chiles)",
+   "story": "b2-07",
+   "later_tokens": 0
+  },
+  {
+   "word": "la antepasada",
+   "gloss": "(female) ancestor",
+   "story": "b2-07",
+   "later_tokens": 0
+  },
+  {
+   "word": "el metate",
+   "gloss": "grinding stone (traditional Mexican)",
+   "story": "b2-07",
+   "later_tokens": 0
+  },
+  {
+   "word": "espeso",
+   "gloss": "thick (of a liquid)",
+   "story": "b2-07",
+   "later_tokens": 0
+  },
+  {
+   "word": "la cazuela",
+   "gloss": "clay cooking pot",
+   "story": "b2-07",
+   "later_tokens": 0
+  },
+  {
+   "word": "derrotar",
+   "gloss": "to defeat",
+   "story": "b2-07",
+   "later_tokens": 0
+  },
+  {
+   "word": "dirigirse la palabra",
+   "gloss": "to speak to each other, be on speaking terms",
+   "story": "b2-07",
+   "later_tokens": 0
+  },
+  {
+   "word": "el guajolote",
+   "gloss": "turkey (Mexico)",
+   "story": "b2-07",
+   "later_tokens": 0
+  },
+  {
+   "word": "el ajonjolí",
+   "gloss": "sesame seeds",
+   "story": "b2-07",
+   "later_tokens": 0
+  },
+  {
+   "word": "la talavera",
+   "gloss": "talavera (hand-painted glazed pottery and tiles)",
+   "story": "b2-07",
+   "later_tokens": 0
+  },
+  {
+   "word": "la capa",
+   "gloss": "layer",
+   "story": "b2-07",
+   "later_tokens": 0
+  },
+  {
+   "word": "decepcionar",
+   "gloss": "to disappoint",
+   "story": "b2-07",
+   "later_tokens": 0
+  },
+  {
+   "word": "el molino",
+   "gloss": "mill (here: a shop that grinds chiles, corn, etc.)",
+   "story": "b2-07",
+   "later_tokens": 0
+  }
+ ],
+ "b2-09": [
+  {
+   "word": "ensayar",
+   "gloss": "to rehearse",
+   "story": "b2-08",
+   "later_tokens": 0
+  },
+  {
+   "word": "dar la espalda",
+   "gloss": "to turn one's back on",
+   "story": "b2-08",
+   "later_tokens": 0
+  },
+  {
+   "word": "el juramento",
+   "gloss": "oath, vow",
+   "story": "b2-08",
+   "later_tokens": 0
+  },
+  {
+   "word": "tibio",
+   "gloss": "lukewarm, noncommittal",
+   "story": "b2-08",
+   "later_tokens": 0
+  },
+  {
+   "word": "el mirador",
+   "gloss": "lookout, viewpoint",
+   "story": "b2-08",
+   "later_tokens": 0
+  },
+  {
+   "word": "las canas",
+   "gloss": "gray hairs",
+   "story": "b2-08",
+   "later_tokens": 0
+  },
+  {
+   "word": "la falta de tacto",
+   "gloss": "tactlessness",
+   "story": "b2-08",
+   "later_tokens": 0
+  },
+  {
+   "word": "echar",
+   "gloss": "to throw out, to expel",
+   "story": "b2-08",
+   "later_tokens": 0
+  },
+  {
+   "word": "la maqueta",
+   "gloss": "demo recording",
+   "story": "b2-08",
+   "later_tokens": 0
+  },
+  {
+   "word": "cortar por lo sano",
+   "gloss": "to make a clean break",
+   "story": "b2-08",
+   "later_tokens": 0
+  },
+  {
+   "word": "el recado",
+   "gloss": "message (left for someone)",
+   "story": "b2-08",
+   "later_tokens": 0
+  },
+  {
+   "word": "reseco",
+   "gloss": "dried out, brittle",
+   "story": "b2-08",
+   "later_tokens": 0
+  },
+  {
+   "word": "el descuido",
+   "gloss": "carelessness, oversight",
+   "story": "b2-08",
+   "later_tokens": 0
+  },
+  {
+   "word": "el alivio",
+   "gloss": "relief",
+   "story": "b2-08",
+   "later_tokens": 0
+  }
+ ],
+ "b2-10": [
+  {
+   "word": "crujir",
+   "gloss": "to creak",
+   "story": "b2-09",
+   "later_tokens": 0
+  },
+  {
+   "word": "desperezarse",
+   "gloss": "to stretch (oneself) awake",
+   "story": "b2-09",
+   "later_tokens": 0
+  },
+  {
+   "word": "quebradizo",
+   "gloss": "brittle, fragile",
+   "story": "b2-09",
+   "later_tokens": 0
+  },
+  {
+   "word": "entrecortarse",
+   "gloss": "to break off, to falter",
+   "story": "b2-09",
+   "later_tokens": 0
+  },
+  {
+   "word": "cesar",
+   "gloss": "to cease, to stop",
+   "story": "b2-09",
+   "later_tokens": 0
+  },
+  {
+   "word": "la garita",
+   "gloss": "guard booth",
+   "story": "b2-09",
+   "later_tokens": 0
+  },
+  {
+   "word": "fantasioso",
+   "gloss": "overimaginative",
+   "story": "b2-09",
+   "later_tokens": 0
+  },
+  {
+   "word": "el chasquido",
+   "gloss": "click, snap",
+   "story": "b2-09",
+   "later_tokens": 0
+  },
+  {
+   "word": "el delantal",
+   "gloss": "apron",
+   "story": "b2-09",
+   "later_tokens": 0
+  },
+  {
+   "word": "la manivela",
+   "gloss": "crank, handle",
+   "story": "b2-09",
+   "later_tokens": 0
+  },
+  {
+   "word": "brotar",
+   "gloss": "to spring forth, to pour out",
+   "story": "b2-09",
+   "later_tokens": 0
+  },
+  {
+   "word": "tambalearse",
+   "gloss": "to wobble, to totter",
+   "story": "b2-09",
+   "later_tokens": 0
+  },
+  {
+   "word": "tararear",
+   "gloss": "to hum",
+   "story": "b2-09",
+   "later_tokens": 0
+  },
+  {
+   "word": "la errata",
+   "gloss": "misprint, typo",
+   "story": "b2-09",
+   "later_tokens": 0
+  }
+ ]
+}

@@ -1,0 +1,347 @@
+{
+ "patches": [
+  {
+   "file": "stories",
+   "id": "c1-01",
+   "find": "De no ser por ese señor, el lunes no habríamos tenido vacunas para la jornada de las escuelas.",
+   "replace": "De no ser por ese señor, nos habríamos quedado sin vacunas para la jornada de las escuelas de mañana.",
+   "why": "Nidia speaks on Sunday about Monday: 'el lunes no habríamos tenido' puts a not-yet-happened event in a past counterfactual; now a past counterfactual with a present-relevant result (keeps de no ser por + conditional perfect)."
+  },
+  {
+   "file": "stories",
+   "id": "c1-01",
+   "find": "If it weren’t for that man, we wouldn’t have had vaccines for the school vaccination day on Monday.",
+   "replace": "If it hadn’t been for that man, we’d have been left without vaccines for tomorrow’s school vaccination day.",
+   "why": "EN follows ES fix."
+  },
+  {
+   "file": "stories",
+   "id": "c1-01",
+   "find": "De no ser por ese señor, el lunes no habríamos tenido vacunas;",
+   "replace": "De no ser por ese señor, nos habríamos quedado sin vacunas;",
+   "why": "concepts quote follows the text."
+  },
+  {
+   "file": "grammar",
+   "id": "c1-01",
+   "find": "De no ser por ese señor, el lunes no habríamos tenido vacunas para la jornada de las escuelas",
+   "replace": "De no ser por ese señor, nos habríamos quedado sin vacunas para la jornada de las escuelas de mañana",
+   "why": "Card example kept verbatim with the patched text."
+  },
+  {
+   "file": "grammar",
+   "id": "c1-01",
+   "find": "If it weren’t for that man, we wouldn’t have had vaccines for the school vaccination day on Monday",
+   "replace": "If it hadn’t been for that man, we’d have been left without vaccines for tomorrow’s school vaccination day",
+   "why": "Card EN follows."
+  },
+  {
+   "file": "stories",
+   "id": "c1-01",
+   "find": "ante el aviso de tormenta, las neveras fueron trasladadas",
+   "replace": "ante la tormenta que se avecinaba, las neveras fueron trasladadas",
+   "why": "Plot precision: Lionel sent the boxes before the 13:30 warning (refuel 13:20; role-play says 'antes del aviso'); a report praised for precision should not say 'ante el aviso'."
+  },
+  {
+   "file": "stories",
+   "id": "c1-01",
+   "find": "in view of the storm warning, the cold boxes",
+   "replace": "in view of the approaching storm, the cold boxes",
+   "why": "EN follows ES fix."
+  },
+  {
+   "file": "stories",
+   "id": "c1-02",
+   "find": "Las sospechas cayeron enseguida sobre Ayoze, lo cual era previsible",
+   "replace": "Entre los de fuera, las sospechas cayeron enseguida sobre Ayoze, lo cual era previsible",
+   "why": "Plot hole: the whole village understood the whistle (Yurena's name + 'devuélvelo'), so 'everyone' suspecting Ayoze contradicts the story; suspicion is now the outsiders'."
+  },
+  {
+   "file": "stories",
+   "id": "c1-02",
+   "find": "Suspicion fell on Ayoze at once, which was predictable",
+   "replace": "Among us outsiders, suspicion fell on Ayoze at once, which was predictable",
+   "why": "EN follows ES fix."
+  },
+  {
+   "file": "stories",
+   "id": "c1-02",
+   "find": "¿Por qué sospecha todo el mundo, al principio, de Ayoze?",
+   "replace": "¿Por qué sospechan de Ayoze, al principio, los de fuera?",
+   "why": "Quiz stem follows the plot fix."
+  },
+  {
+   "file": "stories",
+   "id": "c1-02",
+   "find": "de la cual solo ella tenía copia.",
+   "replace": "de la cual solo ella tenía llave.",
+   "why": "'tener copia' of a classroom is unidiomatic (copia de la llave); 'tener llave de' is the natural collocation."
+  },
+  {
+   "file": "stories",
+   "id": "c1-02",
+   "find": "de la cual solo ella tenía copia;",
+   "replace": "de la cual solo ella tenía llave;",
+   "why": "concepts quote follows the text."
+  },
+  {
+   "file": "stories",
+   "id": "c1-03",
+   "find": "en una Barlovento cuyas",
+   "replace": "en un Barlovento cuyas",
+   "why": "Agreement: the region name Barlovento is masculine ('un Barlovento')."
+  },
+  {
+   "file": "stories",
+   "id": "c1-03",
+   "find": "En el patio de la casa colgaba de un clavo la olla grande",
+   "replace": "En casa del tío, recordó, colgaba de un clavo la olla grande",
+   "why": "Plot hole: if she saw his yard on the 19th she would have seen the missing sacks that are in the same yard in line 7; now she remembers the pot."
+  },
+  {
+   "file": "stories",
+   "id": "c1-03",
+   "find": "In the yard of his house, the big pot",
+   "replace": "At her uncle's house, she remembered, the big pot",
+   "why": "EN follows ES fix."
+  },
+  {
+   "file": "stories",
+   "id": "c1-03",
+   "find": "A las cinco de la mañana del 22 caminaron",
+   "replace": "A las cinco de la mañana del 20 caminaron",
+   "why": "Timeline: the cut test is 'esa noche' and she says 'Ahora madrugamos', so the dawn visit is the next day (20th), not three days later; also leaves a plausible time to roast before the 23rd."
+  },
+  {
+   "file": "stories",
+   "id": "c1-03",
+   "find": "At five in the morning on the 22nd",
+   "replace": "At five in the morning on the 20th",
+   "why": "EN follows ES fix."
+  },
+  {
+   "file": "grammar",
+   "id": "c1-03",
+   "find": "don't mix them up: *¿quién se habría llevado…? sounds hypothetical rather than like a guess about a fact.",
+   "replace": "don't mix them up: ¿quién se habría llevado…? is not wrong, but it places the guess further back (before another past moment) or sounds hypothetical.",
+   "why": "Wrong claim: '¿quién se habría llevado…?' (conditional of conjecture) is grammatical, so it must not be starred."
+  },
+  {
+   "file": "grammar",
+   "id": "c1-03",
+   "find": "the common error is translating 'going around saying' with *van diciendo, which means 'saying things one after another along the way'.",
+   "replace": "a common slip is to use ir + gerund (van diciendo), which stresses gradual progress ('saying things one after another') rather than the disapproving 'here and there' of andar.",
+   "why": "Misleading star: 'van diciendo (por ahí)' is grammatical; the contrast is one of meaning."
+  },
+  {
+   "file": "gq",
+   "id": "c1-03",
+   "find": "Van diciendo que el muchacho vendió los sacos.",
+   "replace": "Acaban de decir que el muchacho vendió los sacos.",
+   "why": "Ambiguity: 'van diciendo (por ahí)' can also mean spreading a rumour around; replaced with a clearly different distractor."
+  },
+  {
+   "file": "stories",
+   "id": "c1-04",
+   "find": "y las sacaban de las mismas tallas que en los esteros vecinos, donde no pasaba nada",
+   "replace": "y trabajaban allí los mismos días que en los esteros vecinos, donde no pasaba nada",
+   "why": "Logic: Guarapo sizes are below 4.4 cm (line 0, report), so 'they took them at the same sizes as elsewhere' contradicts the data; the catch sheet now shows effort did not increase."
+  },
+  {
+   "file": "stories",
+   "id": "c1-04",
+   "find": "and they were taking them at the same sizes as in the neighbouring estuaries",
+   "replace": "and they worked there the same number of days as in the neighbouring estuaries",
+   "why": "EN follows ES fix."
+  },
+  {
+   "file": "stories",
+   "id": "c1-04",
+   "find": "y de las mismas tallas que en otros esteros",
+   "replace": "y trabajaban allí los mismos días que en otros esteros",
+   "why": "Quiz option follows the text fix."
+  },
+  {
+   "file": "stories",
+   "id": "c1-04",
+   "find": "Nadie las estaba sacando chiquitas: simplemente tardaban más en llegar a la talla.",
+   "replace": "Nadie estaba esquilmando el estero: las conchas simplemente tardaban más en llegar a la talla.",
+   "why": "Logic: the measured cockles ARE small; the point is that they were not overharvested."
+  },
+  {
+   "file": "stories",
+   "id": "c1-04",
+   "find": "Nobody was taking them small: they were simply taking longer to reach legal size.",
+   "replace": "Nobody was stripping the estuary: the cockles were simply taking longer to reach legal size.",
+   "why": "EN follows ES fix."
+  },
+  {
+   "file": "stories",
+   "id": "c1-04",
+   "find": "Yo estuve de conchera desde los doce años",
+   "replace": "Yo estoy de conchera desde los doce años",
+   "why": "Grammar: preterite 'estuve' + 'desde' for a still-ongoing activity is ungrammatical (writer flagged it); present + desde is the norm."
+  },
+  {
+   "file": "stories",
+   "id": "c1-04",
+   "find": "yo estuve de conchera;",
+   "replace": "yo estoy de conchera;",
+   "why": "concepts quote follows the text."
+  },
+  {
+   "file": "grammar",
+   "id": "c1-04",
+   "find": "Yo estuve de conchera desde los doce años",
+   "replace": "Yo estoy de conchera desde los doce años",
+   "why": "Card example verbatim with the patched text."
+  },
+  {
+   "file": "grammar",
+   "id": "c1-04",
+   "find": "often for a period: estuve de conchera.",
+   "replace": "often for a period: estoy de conchera desde los doce años.",
+   "why": "Card explain follows the fix."
+  },
+  {
+   "file": "grammar",
+   "id": "c1-04",
+   "find": "*estuve como conchera",
+   "replace": "*estoy como conchera",
+   "why": "Card explain follows the fix."
+  },
+  {
+   "file": "dialogues",
+   "id": "c1-04",
+   "find": "Yo estuve de conchera desde los doce años",
+   "replace": "Yo estoy de conchera desde los doce años",
+   "why": "Same grammar fix in the role-play."
+  },
+  {
+   "file": "stories",
+   "id": "c1-05",
+   "find": "se acercó al micrófono y se le quebró la voz",
+   "replace": "se acercó al micrófono para traducirlo y se le quebró la voz",
+   "why": "Clarity of the climax: the quoted line is Celestino's live translation of what Paulina says to the baby, not his own order to Dionisio."
+  },
+  {
+   "file": "stories",
+   "id": "c1-05",
+   "find": "leaned towards the microphone and his voice broke",
+   "replace": "leaned towards the microphone to translate it and his voice broke",
+   "why": "EN follows ES fix."
+  },
+  {
+   "file": "stories",
+   "id": "c1-05",
+   "find": "un <b>título colectivo</b> sobre su <b>territorio ancestral</b>",
+   "replace": "un <b>título colectivo</b> sobre una parte de su <b>territorio ancestral</b>",
+   "why": "Fact precision: Serie C 305 ordered a collective title over the area 'Lote A1' and demarcation of already titled lands, not title to the whole ancestral territory."
+  },
+  {
+   "file": "stories",
+   "id": "c1-05",
+   "find": "grant the community collective title to its ancestral territory",
+   "replace": "grant the community collective title to part of its ancestral territory",
+   "why": "EN follows ES fix."
+  },
+  {
+   "file": "stories",
+   "id": "c1-05",
+   "find": "as if they were old school friends",
+   "replace": "as if they were old friends",
+   "why": "EN adds 'school' not in the Spanish ('viejos amigos')."
+  },
+  {
+   "file": "grammar",
+   "id": "c1-05",
+   "find": "Common error: *negó de haber pedido or *negó que había pedido for the same subject; say negó haber pedido.",
+   "replace": "Common error: *negó de haber pedido; with the same subject, the compact negó haber pedido is preferred to negó que hubiera pedido.",
+   "why": "Wrong claim: 'negó que + indicative/subjunctive' is grammatical; only the preposition is an error."
+  },
+  {
+   "file": "gq",
+   "id": "c1-05",
+   "find": "Mirna negó que pidió censura alguna.",
+   "replace": "Mirna negó haber pidiendo censura alguna.",
+   "why": "Distractor 'negó que pidió' is defensible in real usage (two arguable answers); replaced with an unambiguous error."
+  }
+ ],
+ "report": {
+  "c1-01": {
+   "grade": "A- : solid C1 (impersonal se vs pasiva refleja, de + compound infinitive, reporting verbs all well spread), good fuel-log clue; census figures verified (31.7% 2023 vs 9.2% 2010); two time-logic slips fixed",
+   "issues_fixed": [
+    "'De no ser por ese señor, el lunes no habríamos tenido vacunas' said on Sunday about Monday -> 'nos habríamos quedado sin vacunas para la jornada de las escuelas de mañana' (+EN, card example, concepts)",
+    "report says 'ante el aviso de tormenta' but Lionel acted before the 13:30 warning -> 'ante la tormenta que se avecinaba' (+EN)"
+   ],
+   "issues_open": [
+    "'Nidia tardó veinte minutos en abrir la nevera de Urgencias' reads oddly (why 20 min?); left unchanged because of the 1,300-word cap (now 1,295)",
+    "Abrupt jump from Friday evening (line 3) to 'Aquel sábado' (line 4): owner may want a time marker",
+    "Panamanian lexicon and Guari-guari 'Wa'appin' / 'Miss Archbold' (writer's list); 'repostar' may be Spain-leaning for Panama (tanquear)",
+    "'tirar la toalla' is listed as a dialogue idiom but appears only in narration (card says idioms 'in dialogue')",
+    "Cold-box insulin waiting until Saturday 'se habría echado a perder' is plausible but stylised"
+   ]
+  },
+  "c1-02": {
+   "grade": "A- : elegant first-person journalistic C1 (el cual after prepositions, pseudo-clefts, no porque…sino porque), silbo facts verified (UNESCO 2009, schools 1999); one plot hole fixed",
+   "issues_fixed": [
+    "plot hole: the whole village understood the whistle, so 'Las sospechas cayeron [en todos] sobre Ayoze' contradicted the story -> 'Entre los de fuera, las sospechas…' (+EN, quiz Q1 stem)",
+    "'de la cual solo ella tenía copia' (copy of a classroom) -> 'tenía llave' (+concepts)"
+   ],
+   "issues_open": [
+    "EN 'Small town, big hell' is a literal gloss (also in the card); owner may prefer an idiomatic EN rendering",
+    "'lo cual explicaba que hasta los niños del pueblo se hubieran reído de mí': children laughing were never shown (only 'varios se rieron')",
+    "'Pueblo chico, infierno grande' is more Latin American than Canarian; native Gomeran check",
+    "Whether Nieves (jury president, local) understood the whistle is left implicit",
+    "Silbo decoding feasibility for a beginner overnight (silbador check)"
+   ]
+  },
+  "c1-03": {
+   "grade": "A- : warm, well-plotted (guava-and-panela tasting note pays off twice), all four perfect-tense topics demonstrated 3+ times; timeline/location slips and two card over-claims fixed",
+   "issues_fixed": [
+    "'en una Barlovento' -> 'en un Barlovento'",
+    "plot hole: on the 19th she sees the pot in Críspulo's yard, where the missing sacks are found later -> 'En casa del tío, recordó, colgaba…' (+EN)",
+    "timeline: 'Ahora madrugamos' after the cut test, but the dawn visit was 'del 22' -> 'del 20' (+EN)",
+    "card: '*¿quién se habría llevado…?' starred as an error although it is grammatical (conditional of conjecture)",
+    "card + gq: 'van diciendo' starred/used as a distractor although 'van diciendo (por ahí)' can mean spreading a rumour -> card reworded, distractor replaced with 'Acaban de decir…' (also in all-gq)"
+   ],
+   "issues_open": [
+    "Plausibility of 300 kg roasted on a budare for one night's chocolate (logline figure; owner decision)",
+    "'Échale bolas' is mildly vulgar in Venezuela (owner decision; alternative 'métele el pecho')",
+    "Order of drums at the 23 June velorio (mina/curbata vs culo e' puya) for a Curiepe speaker",
+    "'Cuando hayan pesado el último saco, me llaman' in the plaza is slightly unmotivated (which sacks?)",
+    "Role-play scene says 'eve of the festival' at night while the story's reveal is at dawn on the 20th; harmless"
+   ]
+  },
+  "c1-04": {
+   "grade": "B+ : strong ecology plot and register play, but the data logic was self-contradictory and the model 'estuve de… desde' was ungrammatical (both fixed); good décima (octosyllables check)",
+   "issues_fixed": [
+    "logic: catch sheet said women took cockles 'de las mismas tallas que en los esteros vecinos' although Guarapo sizes are 4.4 cm -> effort comparison 'trabajaban allí los mismos días' (+EN, quiz Q2 option)",
+    "logic: 'Nadie las estaba sacando chiquitas' contradicted the small sizes -> 'Nadie estaba esquilmando el estero: las conchas simplemente tardaban más…' (+EN)",
+    "'Yo estuve de conchera desde los doce años' (preterite + desde, ongoing) -> 'Yo estoy de conchera…' in story, card example/explain, concepts and role-play"
+   ],
+   "issues_open": [
+    "Esmeraldas voseo forms (sabés/querés/vengás vs vos sabes): native check; card says 'vos… with its own verb forms (vos sabés)'",
+    "'estar de conchera' for a lifelong occupation (vs 'soy conchera') still mildly marked: native check",
+    "Average-size drop 5.1 -> 4.4 cm in five months is stylised",
+    "Current legality of the 4.5 cm minimum: Acuerdos 149/005 found but current text not confirmed",
+    "Ermelinda using usted with a young biologist (writer's note)"
+   ]
+  },
+  "c1-05": {
+   "grade": "A- : moving, tightly plotted (P. G. initials + 'bautizado con tambores' payoff), excellent usted/tú/vos dynamics; Court ruling verified (8 Oct 2015, Serie C 305) with one overstatement softened",
+   "issues_fixed": [
+    "fact: the Court ordered a collective title over 'Lote A1', not the whole ancestral territory -> 'sobre una parte de su territorio ancestral' (+EN)",
+    "climax ambiguity: 'Callate, Dionisio…' read as Celestino's own order -> 'se acercó al micrófono para traducirlo' (+EN)",
+    "EN 'old school friends' -> 'old friends'",
+    "card claimed '*negó que había pedido' is an error; gq distractor 'negó que pidió' arguably acceptable (two defensible answers) -> card reworded, distractor replaced (also in all-gq)"
+   ],
+   "issues_open": [
+    "Garifuna items (buiti binafi, garaón) and Honduran lexicon: Garifuna speaker",
+    "Keyla mixes usted ('Ni lo piense') and vos ('vos sabés') in one turn: deliberate per narration, native check",
+    "Two sayings stacked in one line ('más vale solo…' + 'lo barato sale caro'): stylistic",
+    "'el radiomaratón' gender/term in Honduras"
+   ]
+  }
+ }
+}

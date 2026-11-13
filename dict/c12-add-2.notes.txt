@@ -1,0 +1,9 @@
+Unsure / special handling (c12-add-2):
+bo, pe, d, w: snippet is truncated and does not show the token; glossed as unclear fragments / letters.
+cargás, sabés, sentate, fueres, vieres, mándemelo, piénselo: voseo, archaic future subjunctive, or imperative+clitic forms the conjugation engine does not identify; pos set to 'other' with explanatory gloss.
+Feminine/plural participles (descolgada, envuelta, extraída, etc.) given as adj with masculine lemma because C.identify matches only masculine singular participles.
+ansina: dialectal 'así' plus Uruguayan figure Ansina (two readings).
+cholo, tito, curro, yari, nazareno: nicknames treated as names.
+cerralvo, gamboa, arenal, ñanga, cimavilla, barlovento, chipude, tocaña: place glosses from context/general knowledge, not web-verified.
+mina, requinto, pujao, guloya, curanto, nalca: regional music/food terms glossed from context.
+dha, quilla, maje, mijo, neñín, mio: abbreviations/dialect forms.

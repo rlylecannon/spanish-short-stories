@@ -1,0 +1,1079 @@
+{
+ "patches": [
+  {
+   "file": "stories",
+   "id": "a2-01",
+   "find": "[\"Ana se sentó en un banco y <b>lloró</b> un poco.\", \"Ana sat on a bench and cried a little.\"]",
+   "replace": "[\"Ana, muy nerviosa, se sentó en un banco y <b>lloró</b> un poco.\", \"Ana, very nervous, sat on a bench and cried a little.\"]",
+   "why": "recycle nervioso (a1-03) [line 6]"
+  },
+  {
+   "file": "stories",
+   "id": "a2-01",
+   "find": "[\"—Nada. ¡Es un regalo! Vamos.\", \"\\\"Nothing. It's a gift! Let's go.\\\"\"]",
+   "replace": "[\"—Nada. ¡Es un regalo! ¿Lista? Vamos.\", \"\\\"Nothing. It's a gift! Ready? Let's go.\\\"\"]",
+   "why": "recycle listo (a1-02) [line 13]"
+  },
+  {
+   "file": "stories",
+   "id": "a2-01",
+   "find": "[\"Durante el viaje, Pablo tocó la guitarra y Ana sonrió.\", \"During the trip, Pablo played the guitar and Ana smiled.\"]",
+   "replace": "[\"El viaje no fue aburrido: Pablo tocó la guitarra y Ana sonrió.\", \"The trip wasn't boring: Pablo played the guitar and Ana smiled.\"]",
+   "why": "recycle aburrido (a1-09) [line 15]"
+  },
+  {
+   "file": "stories",
+   "id": "a2-01",
+   "find": "[\"Después, el autobús paró en un pueblo.\", \"Afterwards, the bus stopped in a small town.\"]",
+   "replace": "[\"Después, el autobús paró en un pueblo con un castillo, y Ana compró fruta.\", \"Afterwards, the bus stopped in a small town with a castle, and Ana bought some fruit.\"]",
+   "why": "recycle castillo (a1-08), fruta (a1-10) [line 16]"
+  },
+  {
+   "file": "stories",
+   "id": "a2-01",
+   "find": "[\"A las tres, el autobús llegó a Valencia.\", \"At three o'clock, the bus arrived in Valencia.\"]",
+   "replace": "[\"A las tres, el autobús llegó temprano a Valencia.\", \"At three o'clock, the bus arrived early in Valencia.\"]",
+   "why": "recycle temprano (a1-10) [line 20]"
+  },
+  {
+   "file": "stories",
+   "id": "a2-01",
+   "find": "[\"Ana miró a Pablo y sonrió. Perdió el tren, pero encontró un buen amigo.\", \"Ana looked at Pablo and smiled. She missed the train, but she found a good friend.\"]",
+   "replace": "[\"Ana miró a Pablo y sonrió. Perdió el tren, pero encontró un buen amigo, como en una película.\", \"Ana looked at Pablo and smiled. She missed the train, but she found a good friend, just like in a movie.\"]",
+   "why": "recycle película (a1-09) [line 24]"
+  },
+  {
+   "file": "stories",
+   "id": "a2-02",
+   "find": "[\"—¿Qué es esto, abuelo? —preguntó ella.\", \"\\\"What is this, Grandpa?\\\" she asked.\"]",
+   "replace": "[\"—¿Qué es esto, abuelo? ¿Un mapa del tesoro? —preguntó ella.\", \"\\\"What is this, Grandpa? A treasure map?\\\" she asked.\"]",
+   "why": "recycle mapa, tesoro (a1-08) [line 5]"
+  },
+  {
+   "file": "stories",
+   "id": "a2-02",
+   "find": "[\"Sofía salió de casa y <b>caminó</b> hasta el mercado.\", \"Sofía left the house and walked to the market.\"]",
+   "replace": "[\"Sofía salió de casa y <b>caminó</b> hasta el mercado, lleno de fruta y flores.\", \"Sofía left the house and walked to the market, full of fruit and flowers.\"]",
+   "why": "recycle fruta (a1-10), flor (a1-09) [line 7]"
+  },
+  {
+   "file": "stories",
+   "id": "a2-02",
+   "find": "[\"Dentro del pan, Sofía encontró un papelito: «Calle Hidalgo, número 12».\", \"Inside the bread, Sofía found a little note: \\\"Hidalgo Street, number 12.\\\"\"]",
+   "replace": "[\"Dentro del pan, Sofía encontró un papelito con otra pista: «Calle Hidalgo, número 12».\", \"Inside the bread, Sofía found a little note with another clue: \\\"Hidalgo Street, number 12.\\\"\"]",
+   "why": "recycle pista (a1-01) [line 11]"
+  },
+  {
+   "file": "stories",
+   "id": "a2-02",
+   "find": "[\"Después, toda su familia salió de la casa.\", \"Then her whole family came out of the house.\"]",
+   "replace": "[\"Después, toda su familia salió de la casa: sus padres, su tía y sus primas.\", \"Then her whole family came out of the house: her parents, her aunt and her cousins.\"]",
+   "why": "recycle tía, prima (a1-06) [line 19]"
+  },
+  {
+   "file": "stories",
+   "id": "a2-03",
+   "find": "[\"El domingo pasado, en Lima, fue el primer almuerzo familiar sin la abuela, que ahora vive lejos.\", \"Last Sunday, in Lima, was the first family lunch without Grandma, who now lives far away.\"]",
+   "replace": "[\"El domingo pasado, en Lima, fue el primer almuerzo familiar sin la abuela, que ahora vive lejos, en las montañas.\", \"Last Sunday, in Lima, was the first family lunch without Grandma, who now lives far away, in the mountains.\"]",
+   "why": "recycle montaña (a1-07) [line 0]"
+  },
+  {
+   "file": "stories",
+   "id": "a2-03",
+   "find": "[\"Mateo abrió la puerta. Josefina tenía una bolsa y una gran sonrisa.\", \"Mateo opened the door. Josefina had a bag and a big smile.\"]",
+   "replace": "[\"Mateo abrió la puerta. Josefina tenía una maleta, una bolsa y una gran sonrisa.\", \"Mateo opened the door. Josefina had a suitcase, a bag and a big smile.\"]",
+   "why": "recycle maleta (a1-09, a2-01) [line 15]"
+  },
+  {
+   "file": "stories",
+   "id": "a2-03",
+   "find": "[\"—¡Abuela! ¿Cómo llegaste?\", \"\\\"Grandma! How did you get here?\\\"\"]",
+   "replace": "[\"—¡Abuela! ¿Cómo llegaste tan temprano?\", \"\\\"Grandma! How did you get here so early?\\\"\"]",
+   "why": "recycle temprano (a1-10) [line 16]"
+  },
+  {
+   "file": "stories",
+   "id": "a2-03",
+   "find": "[\"—Tomé el autobús de las seis de la mañana —dijo ella—. Es domingo, y los domingos comemos juntos.\", \"\\\"I took the six o'clock bus this morning,\\\" she said. \\\"It's Sunday, and on Sundays we eat together.\\\"\"]",
+   "replace": "[\"—Tuve que tomar el autobús de las seis de la mañana —dijo ella—. Es domingo, y los domingos comemos juntos.\", \"\\\"I had to take the six o'clock bus this morning,\\\" she said. \\\"It's Sunday, and on Sundays we eat together.\\\"\"]",
+   "why": "map2 edit: Tomé > Tuve que tomar (irregular stem tuv-) [line 17]"
+  },
+  {
+   "file": "stories",
+   "id": "a2-03",
+   "find": "[\"La abuela <b>probó</b> la carne y miró a su nieto.\", \"Grandma tasted the meat and looked at her grandson.\"]",
+   "replace": "[\"La abuela <b>probó</b> la carne con una cuchara y miró a su nieto.\", \"Grandma tasted the meat with a spoon and looked at her grandson.\"]",
+   "why": "recycle cuchara (a1-01) [line 19]"
+  },
+  {
+   "file": "stories",
+   "id": "a2-03",
+   "find": "[\"Mateo probó otra vez. —¡Ahora sí es igual! —gritó.\", \"Mateo tasted it again. \\\"Now it's the same!\\\" he shouted.\"]",
+   "replace": "[\"Mateo probó otra vez y saltó de alegría. —¡Ahora sí es igual! —gritó.\", \"Mateo tasted it again and jumped for joy. \\\"Now it's the same!\\\" he shouted.\"]",
+   "why": "recycle saltar (a2-02) [line 23]"
+  },
+  {
+   "file": "stories",
+   "id": "a2-03",
+   "find": "[\"Esa tarde, toda la familia almorzó junta alrededor de la <b>mesa</b>.\", \"That afternoon, the whole family had lunch together around the table.\"]",
+   "replace": "[\"Esa tarde, toda la familia almorzó junta alrededor de la <b>mesa</b>: lomo saltado, ensalada y pan de la panadería.\", \"That afternoon, the whole family had lunch together around the table: lomo saltado, salad and bread from the bakery.\"]",
+   "why": "recycle ensalada (a1-02), panadería (a2-02) [line 26]"
+  },
+  {
+   "file": "stories",
+   "id": "a2-03",
+   "find": "[\"La madre de Mateo probó el plato y <b>lloró</b> de alegría.\", \"Mateo's mother tasted the dish and cried with joy.\"]",
+   "replace": "[\"La madre de Mateo probó el plato. —¡Me encanta! —dijo, y <b>lloró</b> de alegría.\", \"Mateo's mother tasted the dish. \\\"I love it!\\\" she said, and cried with joy.\"]",
+   "why": "map2 edit: add ¡Me encanta! (gustar-type) [line 27]"
+  },
+  {
+   "file": "stories",
+   "id": "a2-04",
+   "find": "[\"El sábado pasado, sus equipos jugaron la <b>final</b> del campeonato del barrio.\", \"Last Saturday, their teams played the final of the neighborhood championship.\"]",
+   "replace": "[\"El sábado pasado, al mediodía, sus equipos jugaron la <b>final</b> del campeonato del barrio. Todos conocían a los dos hermanos.\", \"Last Saturday, at noon, their teams played the final of the neighborhood championship. Everybody knew the two siblings.\"]",
+   "why": "map2 edit: add Todos conocían a los dos hermanos (saber vs conocer); recycle mediodía (a1-07) [line 5]"
+  },
+  {
+   "file": "stories",
+   "id": "a2-04",
+   "find": "[\"Los padres y los abuelos estaban gritando y cantando.\", \"The parents and grandparents were shouting and singing.\"]",
+   "replace": "[\"Los padres, los tíos y los abuelos estaban gritando y cantando.\", \"The parents, aunts and uncles, and grandparents were shouting and singing.\"]",
+   "why": "recycle tío/tía (a1-06) [line 7]"
+  },
+  {
+   "file": "stories",
+   "id": "a2-04",
+   "find": "[\"Natalia puso el balón en el punto blanco.\", \"Natalia put the ball on the white spot.\"]",
+   "replace": "[\"Natalia, muy seria, puso el balón en el punto blanco.\", \"Natalia, looking very serious, put the ball on the white spot.\"]",
+   "why": "recycle serio (a1-02) [line 11]"
+  },
+  {
+   "file": "stories",
+   "id": "a2-04",
+   "find": "[\"«Cuando éramos pequeños, ella siempre tiraba a la izquierda», pensó.\", \"\\\"When we were little, she always kicked to the left,\\\" he thought.\"]",
+   "replace": "[\"«Yo sé adónde va a tirar: cuando éramos pequeños, ella siempre tiraba a la izquierda», pensó.\", \"\\\"I know where she's going to kick: when we were little, she always kicked to the left,\\\" he thought.\"]",
+   "why": "map2 edit: add Yo sé adónde va a tirar (saber vs conocer) [line 13]"
+  },
+  {
+   "file": "stories",
+   "id": "a2-04",
+   "find": "[\"El público gritó. Sus compañeros corrieron hacia él.\", \"The crowd shouted. His teammates ran toward him.\"]",
+   "replace": "[\"El público gritó. Sus compañeros corrieron hacia él y lo abrazaron.\", \"The crowd shouted. His teammates ran toward him and hugged him.\"]",
+   "why": "recycle abrazar (a2-02) [line 16]"
+  },
+  {
+   "file": "stories",
+   "id": "a2-04",
+   "find": "[\"Los dos <b>rieron</b> y caminaron a casa. Su abuela los estaba esperando con un chocolate caliente.\", \"They both laughed and walked home. Their grandmother was waiting for them with hot chocolate.\"]",
+   "replace": "[\"Los dos <b>rieron</b> y caminaron a casa con mucha hambre. Su abuela los estaba esperando con un chocolate caliente con queso. ¡Qué rico!\", \"They both laughed and walked home very hungry. Their grandmother was waiting for them with hot chocolate and cheese. Yum!\"]",
+   "why": "recycle hambre, queso (a1-03), rico (a2-03) [line 23]"
+  },
+  {
+   "file": "stories",
+   "id": "a2-05",
+   "find": "[\"Valentina leyó el mensaje dos veces.\", \"Valentina read the message twice.\"]",
+   "replace": "[\"Valentina paró la serie, que era un poco aburrida, y leyó el mensaje dos veces.\", \"Valentina stopped the series, which was a bit boring, and read the message twice.\"]",
+   "why": "recycle parar (a2-04), aburrido (a1-09) [line 5]"
+  },
+  {
+   "file": "stories",
+   "id": "a2-05",
+   "find": "[\"«¡Perdón! Mi mamá <b>cambió</b> de número ayer y creo que lo anoté mal. Ahora estoy solo en la calle y mi teléfono casi no tiene <b>batería</b>».\", \"\\\"Sorry! My mom changed her number yesterday and I think I wrote it down wrong. Now I'm alone in the street and my phone is almost out of battery.\\\"\"]",
+   "replace": "[\"«¡Perdón! Mi mamá <b>cambió</b> de número ayer y creo que lo anoté mal. ¿Me podría ayudar? Ahora estoy esperando solo en la calle y mi teléfono casi no tiene <b>batería</b>».\", \"\\\"Sorry! My mom changed her number yesterday and I think I wrote it down wrong. Could you help me? I'm waiting alone in the street now and my phone is almost out of battery.\\\"\"]",
+   "why": "map2 edit: add ¿Me podría ayudar? + estoy esperando [line 9]"
+  },
+  {
+   "file": "stories",
+   "id": "a2-05",
+   "find": "[\"¡Era su nuevo <b>vecino</b>!\", \"He was her new neighbor!\"]",
+   "replace": "[\"¡Era su nuevo <b>vecino</b>, con el pelo muy mojado!\", \"He was her new neighbor, with very wet hair!\"]",
+   "why": "recycle pelo (a1-03) [line 14]"
+  },
+  {
+   "file": "stories",
+   "id": "a2-05",
+   "find": "[\"Salió de casa y caminó hasta la puerta azul.\", \"She left the house and walked to the blue door.\"]",
+   "replace": "[\"Salió de casa con una toalla y caminó hasta la puerta azul.\", \"She left the house with a towel and walked to the blue door.\"]",
+   "why": "recycle toalla (a1-10) [line 16]"
+  },
+  {
+   "file": "stories",
+   "id": "a2-05",
+   "find": "[\"El chico <b>rio</b>. Se llamaba Lisandro y tenía trece años.\", \"The boy laughed. His name was Lisandro and he was thirteen years old.\"]",
+   "replace": "[\"El chico <b>rio</b>. Se llamaba Lisandro y tenía trece años. Era el portero de su equipo de fútbol.\", \"The boy laughed. His name was Lisandro and he was thirteen years old. He was the goalkeeper of his soccer team.\"]",
+   "why": "recycle portero, equipo, fútbol (a2-04) [line 18]"
+  },
+  {
+   "file": "stories",
+   "id": "a2-05",
+   "find": "[\"La madre miró a Valentina y sonrió. —Muchas gracias. ¿Quieres cenar con nosotros?\", \"His mother looked at Valentina and smiled. \\\"Thank you so much. Would you like to have dinner with us?\\\"\"]",
+   "replace": "[\"La madre miró a Valentina y sonrió. —Muchas gracias. ¿Te gustaría cenar con nosotros? Podríamos pedir unas empanadas.\", \"His mother looked at Valentina and smiled. \\\"Thank you so much. Would you like to have dinner with us? We could order some empanadas.\\\"\"]",
+   "why": "map2 edit: ¿Quieres...? > ¿Te gustaría...? Podríamos... (courtesy conditional) [line 25]"
+  },
+  {
+   "file": "stories",
+   "id": "a2-03",
+   "find": "(cortó, cocinó, probó, tomé, entraron) and irregular ones (fue, puso, hice, dijo)",
+   "replace": "(cortó, cocinó, probó, entraron) and irregular ones (fue, puso, hice, dijo, tuve)",
+   "why": "concepts blurb: tomé no longer in text after map2 edit (now tuve que tomar)"
+  }
+ ],
+ "grammar_replace": {
+  "a2-01": [
+   {
+    "topic": "Regular preterite: -ó and -ió",
+    "explain": "The preterite tells what happened: finished actions, one after another. He/she form: -ar verbs add -ó (llegar > llegó, mirar > miró); -er/-ir verbs add -ió (correr > corrió, subir > subió). They form: -aron / -ieron (llegaron, corrieron). I and you (tú) forms: -é / -aste (llegué, llegaste) and -í / -iste (perdí, perdiste). Watch out: the accent changes the meaning. Llegó = she arrived; llego = I arrive.",
+    "examples": [
+     [
+      "Ana llegó tarde a la estación de Madrid.",
+      "Ana arrived late at the Madrid station."
+     ],
+     [
+      "Luego miró el andén número cuatro.",
+      "Then she looked at platform number four."
+     ],
+     [
+      "Los dos corrieron a la calle y subieron al autobús.",
+      "The two of them ran to the street and got on the bus."
+     ]
+    ]
+   },
+   {
+    "topic": "Irregular preterite: vio, dijo",
+    "explain": "Some very common verbs are irregular in the preterite. Ver > vio: like other one-syllable forms (dio, fue), it has no written accent. Decir changes its stem to dij- and ends in -o, not -ió: dijo; they: dijeron (not 'dijieron'). Learn these as whole words. Watch out: 'vió' and 'dició' are typical learner mistakes.",
+    "examples": [
+     [
+      "Ana miró su teléfono y vio un mensaje de su madre.",
+      "Ana looked at her phone and saw a message from her mother."
+     ],
+     [
+      "—Perdí el tren de las nueve —dijo Ana—.",
+      "\"I missed the nine o'clock train,\" said Ana."
+     ],
+     [
+      "—¡Qué suerte! —dijo Ana—.",
+      "\"What luck!\" said Ana."
+     ]
+    ]
+   },
+   {
+    "topic": "Ir a + infinitive, and ir a + place",
+    "explain": "Ir a + infinitive talks about the near future: voy a llegar = I'm going to arrive. Ir a + place is simple movement: voy a Valencia = I'm going to Valencia. Check what follows the a: a verb means a plan, a place means a destination. Watch out: never drop the a ('voy llegar' is wrong), and a + el = al: vamos al pueblo.",
+    "examples": [
+     [
+      "Perdí el tren, pero voy a llegar primero.",
+      "I missed the train, but I'm going to arrive first."
+     ],
+     [
+      "Me llamo Pablo y también voy a Valencia.",
+      "My name is Pablo and I'm going to Valencia too."
+     ],
+     [
+      "Hoy voy a tocar la guitarra en la boda.",
+      "Today I'm going to play the guitar at the wedding."
+     ]
+    ]
+   }
+  ],
+  "a2-02": [
+   {
+    "topic": "Tú commands: ve, busca, lleva",
+    "explain": "To tell a friend to do something (positive tú command), use the he/she present form: busca (buscar), lleva (llevar), camina (caminar). A few common verbs have short irregular commands: ir > ve, venir > ven, hacer > haz, poner > pon, salir > sal, decir > di, tener > ten. Watch out: 'go!' is ve, not vas or va.",
+    "examples": [
+     [
+      "Primero, ve al mercado y busca a doña Fabiola",
+      "First, go to the market and look for Doña Fabiola."
+     ],
+     [
+      "Luego, lleva los mangos a la panadería de la plaza",
+      "Then take the mangoes to the bakery on the square."
+     ],
+     [
+      "¡Ve!",
+      "Go!"
+     ]
+    ]
+   },
+   {
+    "topic": "Object pronouns: le dio, te lo regala",
+    "explain": "Indirect pronouns say to/for whom: me, te, le (to him/her/you), nos, les. They go before a conjugated verb: le dio = gave (to) her. With two pronouns, the indirect one comes first, then the direct one: te lo regala = gives it to you (lo = the puppy, el cachorro). Watch out: 'gave her a bag' is le dio, not la dio, because she receives the bag.",
+    "examples": [
+     [
+      "Doña Fabiola le dio una bolsa de mangos y otro papel.",
+      "Doña Fabiola gave her a bag of mangoes and another note."
+     ],
+     [
+      "Ella te lo regala.",
+      "She's giving him to you (as a gift)."
+     ],
+     [
+      "En la panadería, el panadero tomó los mangos y le dio un pan dulce.",
+      "At the bakery, the baker took the mangoes and gave her a sweet bun."
+     ]
+    ]
+   },
+   {
+    "topic": "Sequence and time words",
+    "explain": "Time words put events in order: primero (first), luego / después (then, afterwards), entonces (then, at that moment), al final (in the end). Ayer = yesterday; por la mañana / por la tarde = in the morning / in the afternoon. Watch out: de la mañana is only used after a clock time: a las seis de la mañana = at six in the morning.",
+    "examples": [
+     [
+      "Por la mañana, su abuelo Ramón llegó con una caja azul.",
+      "In the morning, her grandfather Ramón came with a blue box."
+     ],
+     [
+      "Después, corrió por la calle Hidalgo con la llave en la mano.",
+      "After that, she ran along Hidalgo Street with the key in her hand."
+     ],
+     [
+      "Entonces, un perro pequeño salió y saltó a sus brazos.",
+      "Then a small dog came out and jumped into her arms."
+     ]
+    ]
+   }
+  ],
+  "a2-03": [
+   {
+    "topic": "Irregular preterite: fue, puso, hice, dijo",
+    "explain": "Some key verbs have an irregular stem in the preterite and take no written accent: poner > pus- (puso), hacer > hic- (hice; he/she hizo, c becomes z), decir > dij- (dijo), tener > tuv- (tuve). On these stems the endings are -e for yo and -o for he/she: hice, tuve; puso, dijo. Ir and ser share fue: fue al supermercado (went), ¿Cuál fue el secreto? (was). Tuve que + infinitive = I had to. Watch out: hice, not 'hací' or 'hicé'.",
+    "examples": [
+     [
+      "Luego fue al supermercado y compró carne, cebolla, tomates y papas.",
+      "Then he went to the supermarket and bought meat, onion, tomatoes and potatoes."
+     ],
+     [
+      "Después, puso aceite en la sartén y cocinó la carne.",
+      "After that, he put oil in the pan and cooked the meat."
+     ],
+     [
+      "Abuela, hice tu receta, pero el sabor no es igual.",
+      "Grandma, I made your recipe, but the taste isn't the same."
+     ]
+    ]
+   },
+   {
+    "topic": "Ser vs estar",
+    "explain": "Both mean 'to be', but they aren't interchangeable. Estar: location and states or impressions right now: está rico (it tastes good), estoy en la puerta. Ser: identity, characteristics and comparisons such as no es igual (it isn't the same). Watch out: some adjectives change meaning. La comida está rica = the food tastes good; el señor es rico = the man is rich.",
+    "examples": [
+     [
+      "Está rico, pero no es igual.",
+      "It's tasty, but it's not the same."
+     ],
+     [
+      "Porque estoy en la puerta de tu casa",
+      "Because I'm at the door of your house"
+     ],
+     [
+      "¿Por qué no está en el cuaderno?",
+      "Why isn't it in the notebook?"
+     ]
+    ]
+   },
+   {
+    "topic": "Gustar-type verbs: faltar, encantar",
+    "explain": "Faltar and encantar work like gustar: the thing that is missing or that you love is the subject, so the verb agrees with it. The person goes in front as me, te, le, nos, les. Falta algo = something is missing; faltan dos ingredientes = two ingredients are missing. Me encanta = I love it (lit. it delights me); me encantan los tomates = I love tomatoes. Watch out: 'I love it' is me encanta, not 'yo encanto'.",
+    "examples": [
+     [
+      "¿Qué ingrediente falta, hijo?",
+      "What ingredient is missing, dear?"
+     ],
+     [
+      "Solo falta un secreto.",
+      "Only one secret is missing."
+     ],
+     [
+      "¡Me encanta!",
+      "I love it!"
+     ]
+    ]
+   }
+  ],
+  "a2-04": [
+   {
+    "topic": "Imperfect for description and habit",
+    "explain": "The imperfect describes how things were and what used to happen: era, vivía, jugaba, tenía, tiraba. Endings: -aba for -ar verbs, -ía for -er/-ir verbs; ser is irregular (era). Siempre, todos los días and cuando era pequeño often signal it. Watch out: English 'played' can be one event or a habit; if 'used to' or 'would' fits, use the imperfect.",
+    "examples": [
+     [
+      "Cuando Tomás era pequeño, vivía en un barrio de Medellín.",
+      "When Tomás was little, he lived in a neighborhood in Medellín."
+     ],
+     [
+      "Todos los días jugaba al fútbol en la calle con su hermana Natalia.",
+      "Every day he played soccer in the street with his sister Natalia."
+     ],
+     [
+      "Siempre tiraba el balón a la izquierda.",
+      "She always kicked the ball to the left."
+     ]
+    ]
+   },
+   {
+    "topic": "Background plus interruption",
+    "explain": "The imperfect sets the scene: what was going on, the weather, how people felt. The preterite gives the event that happened within it: Faltaban dos minutos (background) cuando el árbitro pitó (event). Weather uses hacer: hacía sol = it was sunny. Watch out: English 'was + -ing' or 'was' describing a scene usually means imperfect; a single action ('he blew') means preterite.",
+    "examples": [
+     [
+      "Faltaban dos minutos cuando el árbitro pitó un penalti.",
+      "Two minutes were left when the referee blew his whistle for a penalty."
+     ],
+     [
+      "Hacía mucho sol y el estadio estaba lleno de gente.",
+      "It was very sunny and the stadium was full of people."
+     ],
+     [
+      "Tomás estaba muy nervioso, pero recordó algo.",
+      "Tomás was very nervous, but he remembered something."
+     ]
+    ]
+   },
+   {
+    "topic": "Saber vs conocer",
+    "explain": "Both mean 'to know'. Saber is for facts and information: sé adónde va a tirar = I know where she's going to kick (with an infinitive it means 'know how to': sé nadar). Conocer is for people, places and things you are familiar with, and takes a before a person: conocían a los dos hermanos. Both have irregular yo forms: sé, conozco. In the preterite, saber means 'found out': ¿Cómo lo supiste? Watch out: 'I know Natalia' is conozco a Natalia, not 'sé a Natalia'.",
+    "examples": [
+     [
+      "Todos conocían a los dos hermanos.",
+      "Everybody knew the two siblings."
+     ],
+     [
+      "Yo sé adónde va a tirar",
+      "I know where she's going to kick"
+     ],
+     [
+      "Conozco todos tus secretos.",
+      "I know all your secrets."
+     ]
+    ]
+   }
+  ],
+  "a2-05": [
+   {
+    "topic": "Imperfect for scene-setting",
+    "explain": "The imperfect paints the background before the action starts: time, weather, places, what existed. Era una tarde fría, llovía, vivía, había. Había means 'there was' and 'there were', and it stays singular: había un chico, había muchas cajas (not 'habían'). Watch out: weather and time in a description go in the imperfect (llovía, era de noche), not the preterite.",
+    "examples": [
+     [
+      "Era una tarde fría de invierno en Santiago de Chile.",
+      "It was a cold winter afternoon in Santiago, Chile."
+     ],
+     [
+      "Llovía mucho y el viento golpeaba las ventanas.",
+      "It was raining a lot and the wind was beating against the windows."
+     ],
+     [
+      "Ella vivía en el número 7, y en la calle había un chico con una mochila roja.",
+      "She lived at number 7, and in the street there was a boy with a red backpack."
+     ]
+    ]
+   },
+   {
+    "topic": "Estar + gerund",
+    "explain": "Form: estar + gerund (-ar > -ando, -er/-ir > -iendo; leer > leyendo). It describes an action in progress; with estaba, it was in progress at that past moment. A gerund can also show how someone did something: bajó corriendo = she hurried out (lit. got out running). Watch out: Spanish doesn't use this form for plans: 'I'm working tomorrow' = trabajo mañana.",
+    "examples": [
+     [
+      "Valentina estaba en su sala, tomando té y mirando una serie.",
+      "Valentina was in her living room, drinking tea and watching a series."
+     ],
+     [
+      "Estaba trabajando y mi teléfono nuevo no tenía batería.",
+      "I was working and my new phone had no battery."
+     ],
+     [
+      "La mamá de Lisandro bajó corriendo con las llaves en la mano.",
+      "Lisandro's mother hurried out of the car with the keys in her hand."
+     ]
+    ]
+   },
+   {
+    "topic": "Courtesy conditional: podría, te gustaría",
+    "explain": "The conditional makes requests and offers softer and more polite. Most verbs add -ía endings to the infinitive (gustaría); poder uses the short stem podr- (podría, podríamos). ¿Me podría ayudar? = Could you help me? (more polite than ¿Me puede ayudar?). ¿Te gustaría...? = Would you like...? (softer than ¿Quieres...?). Podríamos + infinitive = we could, for a suggestion. Watch out: write the accent on the í, and with gustaría the person goes in front: me, te, le gustaría.",
+    "examples": [
+     [
+      "¿Me podría ayudar?",
+      "Could you help me?"
+     ],
+     [
+      "¿Te gustaría cenar con nosotros?",
+      "Would you like to have dinner with us?"
+     ],
+     [
+      "Podríamos pedir unas empanadas.",
+      "We could order some empanadas."
+     ]
+    ]
+   }
+  ]
+ },
+ "gq_replace": {
+  "a2-01": [
+   {
+    "topic": "Regular preterite: -ó and -ió",
+    "q": "Fill in the blanks: El sábado Ana ___ tarde a la estación y después ___ por el andén.",
+    "options": [
+     "llegió / corrió",
+     "llegó / corrió",
+     "llegó / corró",
+     "llegué / corrí"
+    ],
+    "answer": 1,
+    "why": "Ana is 'she': -ar verbs take -ó (llegó) and -er verbs take -ió (corrió). Llegió and corró mix up the two endings; llegué and corrí are the 'I' forms."
+   },
+   {
+    "topic": "Irregular preterite: vio, dijo",
+    "q": "Which sentence correctly says 'Ana saw a message and said \"What luck!\"'?",
+    "options": [
+     "Ana vio un mensaje y dijo: «¡Qué suerte!».",
+     "Ana vio un mensaje y dició: «¡Qué suerte!».",
+     "Ana vió un mensaje y dijo: «¡Qué suerte!».",
+     "Ana veyó un mensaje y dijo: «¡Qué suerte!»."
+    ],
+    "answer": 0,
+    "why": "Ver gives vio, with no written accent (like dio and fue). Decir has the irregular stem dij- and ends in plain -o: dijo, not dició. Veyó doesn't exist."
+   },
+   {
+    "topic": "Ir a + infinitive, and ir a + place",
+    "q": "What does 'Voy a llegar primero' mean, compared with 'Voy a Valencia'?",
+    "options": [
+     "Both are future plans with a verb after 'a'.",
+     "Both mean that I already went somewhere.",
+     "The first is a destination; the second is a future plan.",
+     "The first is a future plan (I'm going to arrive first); the second is a destination (I'm going to Valencia)."
+    ],
+    "answer": 3,
+    "why": "After a, an infinitive (llegar) signals a near-future plan, while a place (Valencia) tells you where you are going."
+   },
+   {
+    "topic": "Regular preterite: -ó and -ió",
+    "q": "Pablo says he bought two bus tickets yesterday. Fill in the blank: Ayer ___ dos billetes de autobús.",
+    "options": [
+     "compré",
+     "compró",
+     "comprí",
+     "compre"
+    ],
+    "answer": 0,
+    "why": "For yo, -ar verbs end in -é with a written accent: compré. Compró is he/she, -í is the yo ending for -er/-ir verbs, and compre without the accent is not the preterite."
+   },
+   {
+    "topic": "Regular preterite: -ó and -ió",
+    "q": "Which sentence has a mistake in the preterite?",
+    "options": [
+     "Pablo tocó la guitarra.",
+     "Ana y Pablo llegaron a Valencia.",
+     "Ana corrió por la estación.",
+     "Los dos subaron al autobús."
+    ],
+    "answer": 3,
+    "why": "Subir is an -ir verb, so the 'they' form ends in -ieron: subieron. The -aron ending is only for -ar verbs (llegaron).",
+    "x": true
+   },
+   {
+    "topic": "Irregular preterite: vio, dijo",
+    "q": "Fill in the blank: Los padres de Ana ___ que el tren tenía una avería.",
+    "options": [
+     "dijieron",
+     "decieron",
+     "dijeron",
+     "dijon"
+    ],
+    "answer": 2,
+    "why": "After the j of the stem dij-, the 'they' ending is -eron, not -ieron: dijeron. Decir never uses a regular stem in the preterite, so decieron is wrong.",
+    "x": true
+   },
+   {
+    "topic": "Ir a + infinitive, and ir a + place",
+    "q": "Fill in the blank: Mañana yo ___ tocar la guitarra en la boda.",
+    "options": [
+     "voy a",
+     "va a",
+     "voy",
+     "voy al"
+    ],
+    "answer": 0,
+    "why": "The near future is ir + a + infinitive: voy a tocar. 'Voy tocar' drops the a, va a is the wrong person, and al (a + el) only goes before a masculine noun: voy al pueblo.",
+    "x": true
+   },
+   {
+    "topic": "Ir a + infinitive, and ir a + place",
+    "q": "Fill in the blank: Ana y Pablo van ___ pueblo.",
+    "options": [
+     "al",
+     "a el",
+     "a la",
+     "en el"
+    ],
+    "answer": 0,
+    "why": "A destination takes ir a + place, and a + el always becomes al: van al pueblo. 'A el' is never written, pueblo is masculine (not a la), and ir uses a, not en, for where you are going.",
+    "x": true
+   }
+  ],
+  "a2-02": [
+   {
+    "topic": "Tú commands: ve, busca, lleva",
+    "q": "The note in the box tells Sofía to go to the market. Which tú command completes it? 'Primero, ___ al mercado.'",
+    "options": [
+     "va",
+     "vas",
+     "ve",
+     "ves"
+    ],
+    "answer": 2,
+    "why": "Ir has an irregular tú command: ve. Va and vas are present-tense statements ('goes', 'you go'), and ves comes from ver ('you see')."
+   },
+   {
+    "topic": "Object pronouns: le dio, te lo regala",
+    "q": "In 'Ella te lo regala', what does lo stand for, and why does te come first?",
+    "options": [
+     "Lo means 'to him', so it should really go before te.",
+     "Lo is the thing given (the puppy); te is the person receiving, and the indirect pronoun always goes first.",
+     "Lo is the person receiving; te is the thing given.",
+     "Lo is the puppy, but the order is free, so 'lo te regala' is also correct."
+    ],
+    "answer": 1,
+    "why": "With two pronouns, the indirect one (to whom: te) goes first and the direct one (what: lo = el cachorro) second: te lo = it to you. 'Lo te' is never correct."
+   },
+   {
+    "topic": "Sequence and time words",
+    "q": "Put the story events in order: 'Entonces, el perro saltó a sus brazos. Primero, Sofía abrió la caja. Después, corrió por la calle.'",
+    "options": [
+     "Después, corrió por la calle. Primero, abrió la caja. Entonces, el perro saltó.",
+     "Primero, el perro saltó. Entonces, abrió la caja. Después, corrió.",
+     "Primero, Sofía abrió la caja. Después, corrió por la calle. Entonces, el perro saltó.",
+     "Entonces, el perro saltó. Después, corrió. Primero, abrió la caja."
+    ],
+    "answer": 2,
+    "why": "Primero starts the sequence, después (afterwards) continues it, and entonces (then, at that moment) introduces what happened next."
+   },
+   {
+    "topic": "Object pronouns: le dio, te lo regala",
+    "q": "In 'El panadero tomó los mangos y le dio un pan dulce', who receives the sweet bread?",
+    "options": [
+     "The baker",
+     "Sofía",
+     "Doña Fabiola",
+     "The grandfather"
+    ],
+    "answer": 1,
+    "why": "Le is the indirect object pronoun: it shows who receives (to her). In the story the baker gives the sweet bread to Sofía; le never refers to the subject (the baker)."
+   },
+   {
+    "topic": "Tú commands: ve, busca, lleva",
+    "q": "Turn the statement into a tú command for Sofía: 'Sofía lleva los mangos a la panadería' > '___ los mangos a la panadería, Sofía.'",
+    "options": [
+     "Llevas",
+     "Lleve",
+     "Llevar",
+     "Lleva"
+    ],
+    "answer": 3,
+    "why": "For regular verbs, the tú command looks like the he/she present: lleva. Llevas is a statement ('you take'), lleve is the formal usted command, and llevar is the infinitive.",
+    "x": true
+   },
+   {
+    "topic": "Object pronouns: le dio, te lo regala",
+    "q": "Fill in the blank: Doña Fabiola ___ dio una bolsa de mangos (a Sofía).",
+    "options": [
+     "la",
+     "lo",
+     "le",
+     "se"
+    ],
+    "answer": 2,
+    "why": "Sofía receives the bag, so she is the indirect object: le = to her. La would make Sofía the thing given, and se is not used alone here.",
+    "x": true
+   },
+   {
+    "topic": "Sequence and time words",
+    "q": "Fill in the blank: El abuelo llegó a las nueve ___ mañana.",
+    "options": [
+     "por la",
+     "a la",
+     "en el",
+     "de la"
+    ],
+    "answer": 3,
+    "why": "After a clock time, Spanish uses de la mañana (at nine in the morning). Without a clock time it's por la mañana: Por la mañana, el abuelo llegó.",
+    "x": true
+   },
+   {
+    "topic": "Tú commands: ve, busca, lleva",
+    "q": "What is the tú command of venir (to come)?",
+    "options": [
+     "Ven",
+     "Vienes",
+     "Viene",
+     "Venga"
+    ],
+    "answer": 0,
+    "why": "Venir has a short irregular tú command: ven (like ve, pon, sal). Vienes and viene are statements, and venga is the formal usted command.",
+    "x": true
+   }
+  ],
+  "a2-03": [
+   {
+    "topic": "Irregular preterite: fue, puso, hice, dijo",
+    "q": "Fill in the blank: Abuela, ayer yo ___ tu receta.",
+    "options": [
+     "hice",
+     "hací",
+     "hicé",
+     "hizo"
+    ],
+    "answer": 0,
+    "why": "Hacer has the irregular stem hic-, and the yo form ends in -e with no accent: hice. Hizo is he/she (c becomes z); hací and hicé don't exist."
+   },
+   {
+    "topic": "Ser vs estar",
+    "q": "Mateo tastes the dish (el plato) he has just cooked. How does he say 'It tastes good'?",
+    "options": [
+     "Es rico.",
+     "Son ricos.",
+     "Está rico.",
+     "Hay rico."
+    ],
+    "answer": 2,
+    "why": "Estar describes how food tastes as you experience it: está rico. Es rico would describe a general quality (and with a person, ser rico means 'to be rich'). Hay means 'there is'."
+   },
+   {
+    "topic": "Irregular preterite: fue, puso, hice, dijo",
+    "q": "Fill in the blank: —___ que tomar el autobús de las seis —dijo la abuela.",
+    "options": [
+     "Tuve",
+     "Tení",
+     "Tuvé",
+     "Tuvo"
+    ],
+    "answer": 0,
+    "why": "Tener has the irregular preterite stem tuv-, and the yo form ends in -e with no accent: tuve. Tuvo is he/she; tení and tuvé don't exist."
+   },
+   {
+    "topic": "Gustar-type verbs: faltar, encantar",
+    "q": "Mateo's mother tastes the dish and says '¡Me encanta!'. What does she mean?",
+    "options": [
+     "I love it!",
+     "Something is missing!",
+     "I made it!",
+     "I don't like it!"
+    ],
+    "answer": 0,
+    "why": "Encantar works like gustar: the dish is the subject and me shows who loves it. Me encanta = I love it (lit. it delights me)."
+   },
+   {
+    "topic": "Irregular preterite: fue, puso, hice, dijo",
+    "q": "Which sentence has a mistake?",
+    "options": [
+     "Mateo fue al supermercado.",
+     "Mateo hizó la receta.",
+     "La abuela dijo: «Muy bien».",
+     "Mateo puso aceite en la sartén."
+    ],
+    "answer": 1,
+    "why": "Irregular preterites never take a written accent: hizo, puso, dijo, fue. 'Hizó' is wrong.",
+    "x": true
+   },
+   {
+    "topic": "Ser vs estar",
+    "q": "Fill in the blanks: —¿Dónde ___ la receta? —En el cuaderno. ___ una receta muy vieja.",
+    "options": [
+     "es / Es",
+     "es / Está",
+     "está / Está",
+     "está / Es"
+    ],
+    "answer": 3,
+    "why": "Location uses estar (¿Dónde está?), and saying what something is (identity) uses ser: Es una receta muy vieja.",
+    "x": true
+   },
+   {
+    "topic": "Gustar-type verbs: faltar, encantar",
+    "q": "Fill in the blank: Para la receta, ___ dos ingredientes.",
+    "options": [
+     "falta",
+     "faltan",
+     "falto",
+     "faltamos"
+    ],
+    "answer": 1,
+    "why": "Faltar works like gustar: the missing things are the subject, so the verb agrees with them. Dos ingredientes is plural, so faltan; falta is for one thing (falta algo).",
+    "x": true
+   },
+   {
+    "topic": "Gustar-type verbs: faltar, encantar",
+    "q": "Fill in the blank: A Mateo le ___ los tomates.",
+    "options": [
+     "encanta",
+     "encantan",
+     "encanto",
+     "encantas"
+    ],
+    "answer": 1,
+    "why": "With encantar the verb agrees with the thing that is loved. Los tomates is plural, so encantan; le shows the person (to Mateo).",
+    "x": true
+   }
+  ],
+  "a2-04": [
+   {
+    "topic": "Imperfect for description and habit",
+    "q": "Which sentence describes a childhood habit?",
+    "options": [
+     "Ayer jugó al fútbol en la calle.",
+     "Todos los días jugaba al fútbol en la calle.",
+     "Jugué una vez al fútbol en la calle.",
+     "Va a jugar al fútbol en la calle."
+    ],
+    "answer": 1,
+    "why": "The imperfect (jugaba) with todos los días describes a regular habit in the past. Jugó and jugué are single events, and va a jugar is the future."
+   },
+   {
+    "topic": "Background plus interruption",
+    "q": "Fill in the blank: Faltaban dos minutos cuando el árbitro ___ un penalti.",
+    "options": [
+     "pitaba",
+     "pitará",
+     "pitó",
+     "pitando"
+    ],
+    "answer": 2,
+    "why": "The referee's whistle is the event that interrupts the background (faltaban dos minutos), so it takes the preterite: pitó."
+   },
+   {
+    "topic": "Saber vs conocer",
+    "q": "Fill in the blank: Todos ___ a los dos hermanos.",
+    "options": [
+     "conocían",
+     "sabían",
+     "conocía",
+     "sabía"
+    ],
+    "answer": 0,
+    "why": "People take conocer, with a before the person: conocían a los dos hermanos. Saber is for facts, and todos is plural, so the singular forms conocía and sabía don't fit."
+   },
+   {
+    "topic": "Saber vs conocer",
+    "q": "Fill in the blanks: Tomás ___ adónde va a tirar Natalia porque ___ muy bien a su hermana.",
+    "options": [
+     "sabe / conoce",
+     "conoce / sabe",
+     "sabe / sabe",
+     "conoce / conoce"
+    ],
+    "answer": 0,
+    "why": "Where she will kick is a fact, so saber: sabe adónde. Knowing a person is conocer: conoce a su hermana."
+   },
+   {
+    "topic": "Imperfect for description and habit",
+    "q": "Fill in the blank: Cuando Tomás ___ pequeño, vivía en Medellín.",
+    "options": [
+     "fue",
+     "estuvo",
+     "era",
+     "es"
+    ],
+    "answer": 2,
+    "why": "Describing a stage of life (cuando era pequeño) is background, so it takes the imperfect of ser: era. Fue and estuvo present it as a finished event, and es is present.",
+    "x": true
+   },
+   {
+    "topic": "Saber vs conocer",
+    "q": "Natalia asks Tomás: '¿Cómo lo supiste?' What does she mean?",
+    "options": [
+     "How do you know it?",
+     "How did you find out (know) it?",
+     "How did you use to know it?",
+     "How will you know?"
+    ],
+    "answer": 1,
+    "why": "Supiste is the irregular preterite of saber (stem sup-). In the preterite, saber means 'found out' or 'knew' at that moment.",
+    "x": true
+   },
+   {
+    "topic": "Background plus interruption",
+    "q": "Which sentence correctly says 'Tomás was very nervous, but he remembered something'?",
+    "options": [
+     "Tomás estuvo muy nervioso, pero recordaba algo.",
+     "Tomás fue muy nervioso, pero recordó algo.",
+     "Tomás está muy nervioso, pero recordó algo.",
+     "Tomás estaba muy nervioso, pero recordó algo."
+    ],
+    "answer": 3,
+    "why": "His nervousness is the background (imperfect of estar: estaba), and remembering is the event (preterite: recordó). Ser is not used for a temporary feeling.",
+    "x": true
+   },
+   {
+    "topic": "Imperfect for description and habit",
+    "q": "Fill in the blank: Cuando eran pequeños, Natalia siempre ___ el balón a la izquierda.",
+    "options": [
+     "tiraba",
+     "tiró",
+     "tira",
+     "va a tirar"
+    ],
+    "answer": 0,
+    "why": "Siempre and cuando eran pequeños describe a past habit, so the imperfect: tiraba. Tiró is a single event, tira is present and va a tirar is future.",
+    "x": true
+   }
+  ],
+  "a2-05": [
+   {
+    "topic": "Imperfect for scene-setting",
+    "q": "Which sentence sets the scene (weather and time) at the start of a story?",
+    "options": [
+     "Llovió mucho y fue de noche.",
+     "Llovía mucho y era de noche.",
+     "De repente llovió.",
+     "Va a llover y es de noche."
+    ],
+    "answer": 1,
+    "why": "Weather and time of day are background, so the imperfect is used: llovía, era. Llovió and fue present them as completed events."
+   },
+   {
+    "topic": "Estar + gerund",
+    "q": "How do you say 'I was working' (at that moment)?",
+    "options": [
+     "Estaba trabajando.",
+     "Estaba trabajaba.",
+     "Estoy trabajar.",
+     "Estaba trabajado."
+    ],
+    "answer": 0,
+    "why": "Imperfect of estar + gerund (-ando) describes an action in progress at a past moment. Trabajado is the participle."
+   },
+   {
+    "topic": "Courtesy conditional: podría, te gustaría",
+    "q": "Lisandro writes to a stranger. Which is the most polite way to ask for help?",
+    "options": [
+     "¡Ayúdeme ahora!",
+     "¿Me podría ayudar?",
+     "Tienes que ayudarme.",
+     "¡Ayuda!"
+    ],
+    "answer": 1,
+    "why": "The conditional softens a request: ¿Me podría ayudar? = Could you help me? The other options are orders or demands."
+   },
+   {
+    "topic": "Courtesy conditional: podría, te gustaría",
+    "q": "What does '¿Te gustaría cenar con nosotros?' mean?",
+    "options": [
+     "Would you like to have dinner with us?",
+     "Did you like having dinner with us?",
+     "Do you have to have dinner with us?",
+     "You liked dinner with us."
+    ],
+    "answer": 0,
+    "why": "Gustaría is the conditional of gustar: ¿Te gustaría...? = Would you like...? It is a polite invitation, not a past event (gustó) or an obligation (tener que)."
+   },
+   {
+    "topic": "Imperfect for scene-setting",
+    "q": "Fill in the blank: Ella vivía en el número 7, y en la calle ___ un chico con una mochila roja.",
+    "options": [
+     "era",
+     "habían",
+     "había",
+     "hay"
+    ],
+    "answer": 2,
+    "why": "Había (the past of hay) introduces what existed in the scene: 'there was'. It stays singular even with plural nouns, era can't mean 'there was', and hay is present.",
+    "x": true
+   },
+   {
+    "topic": "Estar + gerund",
+    "q": "What does 'La mamá de Lisandro bajó corriendo' mean?",
+    "options": [
+     "Lisandro's mother used to run downstairs every day.",
+     "Lisandro's mother got out of the car in a hurry (running).",
+     "Lisandro's mother got out of the car and stopped running.",
+     "Lisandro's mother is going to run."
+    ],
+    "answer": 1,
+    "why": "A gerund after a movement verb says how the action was done: bajó corriendo = she got out running, in a hurry. Bajó is one preterite event, not a habit.",
+    "x": true
+   },
+   {
+    "topic": "Courtesy conditional: podría, te gustaría",
+    "q": "Fill in the blank: ___ pedir unas empanadas. (We could order some empanadas.)",
+    "options": [
+     "Podríamos",
+     "Podemos",
+     "Poderíamos",
+     "Pudimos"
+    ],
+    "answer": 0,
+    "why": "The conditional of poder uses the short stem podr- + -íamos: podríamos = we could. Podemos is 'we can', pudimos is preterite, and poderíamos doesn't exist.",
+    "x": true
+   },
+   {
+    "topic": "Estar + gerund",
+    "q": "Fill in the blank: Ahora estoy ___ solo en la calle.",
+    "options": [
+     "esperando",
+     "esperado",
+     "espero",
+     "esperar"
+    ],
+    "answer": 0,
+    "why": "Estar + gerund (-ando) describes an action in progress right now: estoy esperando. Esperado is the participle, and espero/esperar can't follow estoy.",
+    "x": true
+   }
+  ]
+ },
+ "categories_add": {
+  "Gustar-type verbs: faltar, encantar": "Verb phrases & near future",
+  "Saber vs conocer": "Present tense & basics",
+  "Courtesy conditional: podría, te gustaría": "Conditionals & si-clauses"
+ },
+ "dict_add": {
+  "lista": [
+   [
+    "listo",
+    "adj",
+    "ready"
+   ]
+  ],
+  "primas": [
+   [
+    "la prima",
+    "noun",
+    "cousin (female)"
+   ]
+  ],
+  "ensalada": [
+   [
+    "la ensalada",
+    "noun",
+    "salad"
+   ]
+  ],
+  "seria": [
+   [
+    "serio",
+    "adj",
+    "serious"
+   ]
+  ],
+  "aburrida": [
+   [
+    "aburrido",
+    "adj",
+    "boring, bored"
+   ]
+  ],
+  "encanta": [
+   [
+    "encantar",
+    "verb",
+    "to love (me encanta = I love it)"
+   ]
+  ],
+  "gustaría": [
+   [
+    "gustar",
+    "verb",
+    "to like (te gustaría = would you like)"
+   ]
+  ],
+  "conocían": [
+   [
+    "conocer",
+    "verb",
+    "to know (people, places)"
+   ]
+  ]
+ },
+ "notes": "G3 (a2-01..a2-05). Grammar: cards now equal map2 topics; dropped a2-01 Reflexive, a2-02 Preterite, a2-03 Regular preterite + 'Falta, lo siento, decirlo', a2-04 Preterite for events + Estar+gerund, a2-05 Preterite for sudden events + Reflexive; new cards: a2-03 Gustar-type verbs: faltar, encantar; a2-04 Saber vs conocer; a2-05 Courtesy conditional: podría, te gustaría. a2-03 irregular-preterite card explanation extended with the stem rule (pus-/hic-/dij-/tuv-). Kept-card examples that were not exact substrings of the text were minimally re-quoted to be verbatim (a2-01 dijo Ana examples, a2-02 commands x2 + 'En la panadería, el panadero...', a2-03 'Porque estoy en la puerta de tu casa'). All 6 map2 edits applied (a2-03 L17,L27; a2-04 L5,L13; a2-05 L9,L25), merged with recycling into one whole-line [es,en] patch per line. Quizzes: 8 q each, 4 core + 4 x, every topic has a core q; reused all still-valid q (a2-03 'faltan' and a2-04 'supiste' re-topiced to the new cards). New questions use 4 options, not 3, to match all 322 existing questions and tools/validate_gquiz.py (requires 4 distinct options). Recycling: 7 words per story, no new <b> (story <b> is highlighting, glosses come from dict.json tap lookup; vocab lists untouched). dict_add covers surface forms missing from dict.json. No protected line, story-quiz answer, dialogue answer or scene object/colour touched; dialogues need no change (a2-03 role-play 'Tomó el autobús' remains true). Verified: finds unique, line and <b> counts unchanged, all examples verbatim, map2 topic patterns >=3 per topic."
+}

@@ -1,0 +1,302 @@
+{
+ "a1-01": {
+  "name": "Xóchitl",
+  "g": "f",
+  "role": "the girl detective"
+ },
+ "a1-02": {
+  "name": "Delfina",
+  "g": "f",
+  "role": "the steakhouse cook"
+ },
+ "a1-03": {
+  "name": "Cristina",
+  "g": "f",
+  "role": "the friendly classmate"
+ },
+ "a1-04": {
+  "name": "Marleny",
+  "g": "f",
+  "role": "the Bogotá baker"
+ },
+ "a1-05": {
+  "name": "Nerea",
+  "g": "f",
+  "role": "Hilario's granddaughter"
+ },
+ "a1-06": {
+  "name": "Yadira",
+  "g": "f",
+  "role": "the bride's cousin"
+ },
+ "a1-07": {
+  "name": "Killa",
+  "g": "f",
+  "role": "the Machu Picchu guide"
+ },
+ "a1-08": {
+  "name": "Julián",
+  "g": "m",
+  "role": "Lina's younger cousin"
+ },
+ "a1-09": {
+  "name": "Marta",
+  "g": "f",
+  "role": "Javier's Sevilla friend"
+ },
+ "a1-10": {
+  "name": "Raúl",
+  "g": "m",
+  "role": "Grandpa's helpful grandson"
+ },
+ "a2-01": {
+  "name": "Ana",
+  "g": "f",
+  "role": "the bride's sister"
+ },
+ "a2-02": {
+  "name": "Sofía",
+  "g": "f",
+  "role": "the birthday girl"
+ },
+ "a2-03": {
+  "name": "Mateo",
+  "g": "m",
+  "role": "Josefina's cooking grandson"
+ },
+ "a2-04": {
+  "name": "Tomás",
+  "g": "m",
+  "role": "young neighborhood goalkeeper"
+ },
+ "a2-05": {
+  "name": "Valentina",
+  "g": "f",
+  "role": "helpful new neighbor"
+ },
+ "a2-06": {
+  "name": "Camila",
+  "g": "f",
+  "role": "woman moving house"
+ },
+ "a2-07": {
+  "name": "Rodrigo",
+  "g": "m",
+  "role": "street guitar player"
+ },
+ "a2-08": {
+  "name": "Valeria",
+  "g": "f",
+  "role": "Andrés's hiking cousin"
+ },
+ "a2-09": {
+  "name": "Daniela",
+  "g": "f",
+  "role": "design job candidate"
+ },
+ "a2-10": {
+  "name": "Dolores",
+  "g": "f",
+  "role": "lantern-making art student"
+ },
+ "b1-01": {
+  "name": "Pilar",
+  "g": "f",
+  "role": "Lavapiés hostel owner"
+ },
+ "b1-02": {
+  "name": "Agustina",
+  "g": "f",
+  "role": "Montevideo chivito cook"
+ },
+ "b1-03": {
+  "name": "Chema",
+  "g": "m",
+  "role": "Oaxaca neighbourhood butcher"
+ },
+ "b1-04": {
+  "name": "Silvestre",
+  "g": "m",
+  "role": "retired astronomer patient"
+ },
+ "b1-05": {
+  "name": "Yolanda",
+  "g": "f",
+  "role": "generous bike-gifting aunt"
+ },
+ "b1-06": {
+  "name": "Ximena",
+  "g": "f",
+  "role": "Marisol's journalist cousin"
+ },
+ "b1-07": {
+  "name": "Camilo",
+  "g": "m",
+  "role": "PasoSeguro shoe inventor"
+ },
+ "b1-08": {
+  "name": "Aurelio",
+  "g": "m",
+  "role": "retiring maths teacher"
+ },
+ "b1-09": {
+  "name": "Rosa",
+  "g": "f",
+  "role": "Los Guarumos caretaker"
+ },
+ "b1-10": {
+  "name": "Bayron",
+  "g": "m",
+  "role": "Antigua history guide"
+ },
+ "b2-01": {
+  "name": "Ignacio",
+  "g": "m",
+  "role": "veteran port archivist"
+ },
+ "b2-02": {
+  "name": "Esperanza",
+  "g": "f",
+  "role": "returning Yucatecan chef"
+ },
+ "b2-03": {
+  "name": "Begoña",
+  "g": "f",
+  "role": "sceptical insurance adjuster"
+ },
+ "b2-04": {
+  "name": "Maribel",
+  "g": "f",
+  "role": "Bogotá literary translator"
+ },
+ "b2-05": {
+  "name": "Mercedes",
+  "g": "f",
+  "role": "amateur bookshop sleuth"
+ },
+ "b2-06": {
+  "name": "Eusebio",
+  "g": "m",
+  "role": "Guanajuato master watchmaker"
+ },
+ "b2-07": {
+  "name": "Paloma",
+  "g": "f",
+  "role": "Poblana food writer"
+ },
+ "b2-08": {
+  "name": "Joaquín",
+  "g": "m",
+  "role": "returning old friend"
+ },
+ "b2-09": {
+  "name": "Efraín",
+  "g": "m",
+  "role": "veteran night guard"
+ },
+ "b2-10": {
+  "name": "Daylín",
+  "g": "f",
+  "role": "Havana photo restorer"
+ },
+ "c1-01": {
+  "name": "Lionel",
+  "g": "m",
+  "role": "the veteran stevedore"
+ },
+ "c1-02": {
+  "name": "Chano",
+  "g": "m",
+  "role": "the retired teacher who whistles"
+ },
+ "c2-09": {
+  "name": "Covadonga",
+  "g": "f",
+  "role": "ICU nurse in Gijón who found her great-aunt's tapes"
+ },
+ "c2-10": {
+  "name": "Don Anselmo",
+  "g": "m",
+  "role": "88-year-old Afro-Peruvian singer from El Carmen"
+ },
+ "c1-03": {
+  "name": "Críspulo",
+  "g": "m",
+  "role": "cacao fermenter and great-uncle in Curiepe"
+ },
+ "c1-04": {
+  "name": "Ermelinda",
+  "g": "f",
+  "role": "conchera, decimera and president of the cockle-diggers' association"
+ },
+ "c1-05": {
+  "name": "Mirna",
+  "g": "f",
+  "role": "hotel developer's representative"
+ },
+ "c1-06": {
+  "name": "Belarmino",
+  "g": "m",
+  "role": "81-year-old house owner on Quinchao"
+ },
+ "c1-07": {
+  "name": "Eufemia",
+  "g": "f",
+  "role": "the 93-year-old grandmother in Cuajinicuilapa"
+ },
+ "c1-08": {
+  "name": "Gastón",
+  "g": "m",
+  "role": "the coin collector from La Paz"
+ },
+ "c1-09": {
+  "name": "Altagracia",
+  "g": "f",
+  "role": "Dominican lawyer tracing her ancestor"
+ },
+ "c1-10": {
+  "name": "Brígida",
+  "g": "f",
+  "role": "tea-house cook in Gaiman"
+ },
+ "c2-01": {
+  "name": "Fali",
+  "g": "m",
+  "role": "Rival chirigota lyricist from Cádiz"
+ },
+ "c2-02": {
+  "name": "Obdulio",
+  "g": "m",
+  "role": "Retired typographer and candombe drummer from Montevideo"
+ },
+ "c2-03": {
+  "name": "Courtney",
+  "g": "f",
+  "role": "academy nutritionist from Arizona"
+ },
+ "c2-04": {
+  "name": "Doña Jacinta",
+  "g": "f",
+  "role": "elder copla singer in Tocaña"
+ },
+ "c2-05": {
+  "name": "Neftalí",
+  "g": "m",
+  "role": "archaeological site custodian"
+ },
+ "c2-06": {
+  "name": "Omar",
+  "g": "m",
+  "role": "municipal culture director"
+ },
+ "c2-07": {
+  "name": "Osmar",
+  "g": "m",
+  "role": "Prosecutor in an arson trial in Asunción"
+ },
+ "c2-08": {
+  "name": "Evaristo",
+  "g": "m",
+  "role": "Respected elder of a Palenque kuagro"
+ }
+}

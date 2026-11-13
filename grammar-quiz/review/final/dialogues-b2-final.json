@@ -1,0 +1,892 @@
+{
+ "b2-01": {
+  "steps": [
+   {
+    "say": "Hola, soy Tomás. Acabo de leer la historia de Ignacio, el archivista de Valparaíso. ¿Crees que hizo bien en rasgar el sobre de la carta?",
+    "en": "Hi, I'm Tomás. I just read the story of Ignacio, the archivist in Valparaíso. Do you think he was right to tear open the envelope?",
+    "r": [
+     [
+      "Creo que no, porque el reglamento exige archivar cualquier documento ajeno a las cuentas sin abrirlo.",
+      "I think not, because the rules require filing any document unrelated to the accounts without opening it.",
+      1
+     ],
+     [
+      "Yo habría hecho lo mismo, porque la curiosidad es natural y la carta llevaba setenta años olvidada.",
+      "I would have done the same, because curiosity is natural and the letter had been forgotten for seventy years.",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "Entiendo. Yo me pongo en su lugar: llevaba veintidós años respetando las normas. ¿Qué te parece el contenido de la carta, tan breve y tan triste?",
+    "en": "I see. I put myself in his place: he had followed the rules for twenty-two years. What do you think of the letter's content, so short and so sad?",
+    "r": [
+     [
+      "Me conmovió que el remitente se llamara cobarde por no haberse despedido en persona.",
+      "It moved me that the sender called himself a coward for not saying goodbye in person.",
+      2
+     ],
+     [
+      "Me pregunto quién escondió la carta en la encuadernación y por qué lo hizo.",
+      "I wonder who hid the letter in the binding and why they did it.",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "Yo pienso que alguien quiso que nunca llegara al destinatario. ¿Y tú qué harías con ese hallazgo si fueras Ignacio?",
+    "en": "I think someone wanted it never to reach the addressee. And what would you do with that find if you were Ignacio?",
+    "r": [
+     [
+      "Si yo fuera él, buscaría a Elvira Santander, aunque me costara semanas de trabajo.",
+      "If I were him, I would look for Elvira Santander, even if it cost me weeks of work.",
+      3
+     ],
+     [
+      "Yo la guardaría en el archivo como una reliquia, porque ya es demasiado tarde para entregarla.",
+      "I would keep it in the archive as a relic, because it is too late to deliver it now.",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "La joven Marta se ofrece a rastrear los registros civiles. ¿Te parece buena idea que ayude, aunque eso complique las cosas con la empresa?",
+    "en": "Young Marta offers to trace the civil registries. Do you think it's a good idea for her to help, even if that complicates things with the company?",
+    "r": [
+     [
+      "Sí, la ayuda de alguien joven sería muy útil, y la empresa no tiene por qué enterarse.",
+      "Yes, a young person's help would be very useful, and the company doesn't need to find out.",
+      5
+     ],
+     [
+      "Prefiero que primero hablen con el jefe, para no romper el reglamento por segunda vez.",
+      "I would rather they talk to the boss first, so as not to break the rules a second time.",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "Tienes razón en dudar. A veces las normas protegen, pero otras veces impiden que algo importante llegue a su destino. ¿Dónde pondrías el límite?",
+    "en": "You're right to hesitate. Sometimes rules protect, but other times they stop something important from reaching its destination. Where would you draw the line?",
+    "r": [
+     [
+      "Pondría el límite en el daño: si nadie sale perjudicado, vale la pena romper la regla.",
+      "I would draw the line at harm: if nobody gets hurt, breaking the rule is worth it.",
+      5
+     ],
+     [
+      "Creo que las reglas se cumplen siempre, y que se pueden cambiar, pero no ignorar.",
+      "I think rules are always followed, and they can be changed, but not ignored.",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "Gracias por la conversación. Quizá Elvira esté viva y esperando esa carta. Ojalá Ignacio la encuentre a tiempo.",
+    "en": "Thanks for the chat. Maybe Elvira is alive and waiting for that letter. I hope Ignacio finds her in time.",
+    "end": true
+   }
+  ]
+ },
+ "b2-02": {
+  "steps": [
+   {
+    "say": "Hola, soy Sofía. Acabo de leer sobre Camila, la chef que volvió a Mérida. ¿Qué opinas de su nuevo menú con espuma de achiote?",
+    "en": "Hi, I'm Sofía. I just read about Camila, the chef who went back to Mérida. What do you think of her new menu with achiote foam?",
+    "r": [
+     [
+      "Me parece una idea valiente, pero debió probarla poco a poco antes de cambiarlo todo.",
+      "I think it's a brave idea, but she should have tried it gradually before changing everything.",
+      1
+     ],
+     [
+      "Creo que fue una falta de respeto hacia su familia y hacia los clientes de toda la vida.",
+      "I think it was disrespectful to her family and to the lifelong customers.",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "Yo creo que Camila confundió la ambición con el ingenio. Su padre dijo que la gente no va a que le expliquen la comida. ¿Tenía razón?",
+    "en": "I think Camila mistook ambition for ingenuity. Her father said people don't come to have the food explained to them. Was he right?",
+    "r": [
+     [
+      "En parte sí, aunque los números también importan: sin clientes, el restaurante podría cerrar.",
+      "Partly yes, although the numbers matter too: without customers, the restaurant could close.",
+      2
+     ],
+     [
+      "Sí, tenía razón, porque un restaurante familiar vende costumbre y cariño, no solo comida.",
+      "Yes, he was right, because a family restaurant sells tradition and affection, not just food.",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "Es verdad. Don Aurelio no era terco, estaba asustado por su cadera y por el negocio. ¿Cómo te sentirías tú si fueras su hija?",
+    "en": "True. Don Aurelio wasn't stubborn, he was frightened about his hip and the business. How would you feel if you were his daughter?",
+    "r": [
+     [
+      "Me sentiría frustrada, pero intentaría escucharlo más antes de lanzar ninguna idea nueva.",
+      "I would feel frustrated, but I would try to listen to him more before launching any new idea.",
+      3
+     ],
+     [
+      "Probablemente me habría enojado igual, porque cuesta aceptar que no confíen en tu experiencia.",
+      "I would probably have gotten angry too, because it's hard to accept that they don't trust your experience.",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "El menú fue un fracaso rotundo. Esa noche Camila recordó el horno de tierra de su abuela. ¿Qué crees que quería decirle Remedios con 'la paciencia no se compra'?",
+    "en": "The menu was a resounding failure. That night Camila remembered her grandmother's earth oven. What do you think Remedios meant by 'patience can't be bought'?",
+    "r": [
+     [
+      "Creo que quería decir que la buena cocina necesita tiempo, igual que cambiar una tradición.",
+      "I think she meant that good cooking needs time, just like changing a tradition.",
+      4
+     ],
+     [
+      "Quizá hablaba de la vida en general: nada valioso se consigue con prisa.",
+      "Maybe she was talking about life in general: nothing valuable is achieved in a hurry.",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "Yo también lo veo así. Entonces, ¿cuál sería la mejor solución: volver al menú antiguo o combinar lo tradicional con algo nuevo?",
+    "en": "I see it that way too. So what would be the best solution: going back to the old menu or combining the traditional with something new?",
+    "r": [
+     [
+      "Combinaría las dos cosas: cocinar en el pib y añadir un toque moderno sin asustar a nadie.",
+      "I would combine both: cook in the pib and add a modern touch without scaring anyone.",
+      5
+     ],
+     [
+      "Volvería al menú de siempre, porque el cliente de La Ceiba pide exactamente eso.",
+      "I would go back to the usual menu, because La Ceiba's customers ask for exactly that.",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "Me gusta tu punto de vista. A veces hay que volver a casa para entender lo que valía la pena conservar.",
+    "en": "I like your point of view. Sometimes you have to go home to understand what was worth keeping.",
+    "end": true
+   }
+  ]
+ },
+ "b2-03": {
+  "steps": [
+   {
+    "say": "Hola, soy Tomás. Vengo de leer lo de Valdelobos y los doce aerogeneradores. ¿Qué te parece el proyecto de la empresa energética?",
+    "en": "Hi, I'm Tomás. I just read about Valdelobos and the twelve wind turbines. What do you think of the energy company's project?",
+    "r": [
+     [
+      "Me parece una oportunidad, porque el pueblo necesita empleo, ingresos y reabrir su escuela cerrada.",
+      "I think it's an opportunity, because the village needs jobs, income and to reopen its closed school.",
+      1
+     ],
+     [
+      "Me da desconfianza: las empresas prometen mucho cuando necesitan firmas y luego no cumplen.",
+      "It makes me wary: companies promise a lot when they need signatures and then don't deliver.",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "Entiendo ambas posturas. Anselmo, el pastor, dice que perdería el pasto y su razón de ser. ¿Es justo que una persona pague ese precio?",
+    "en": "I understand both positions. Anselmo, the shepherd, says he would lose his pasture and his reason for being. Is it fair for one person to pay that price?",
+    "r": [
+     [
+      "No es justo, pero se podría compensar a los pastores con dinero o con otros terrenos.",
+      "It isn't fair, but shepherds could be compensated with money or other land.",
+      2
+     ],
+     [
+      "No, el bienestar de una persona no debería sacrificarse por el beneficio de la mayoría.",
+      "No, one person's wellbeing shouldn't be sacrificed for the majority's benefit.",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "Sergio, el hijo del panadero, avisa de que sin cambios el pueblo será una postal para turistas. ¿Crees que tiene razón o es una exageración?",
+    "en": "Sergio, the baker's son, warns that without changes the village will be a postcard for tourists. Do you think he's right or is it an exaggeration?",
+    "r": [
+     [
+      "Tiene parte de razón: si no llegan jóvenes, el pueblo se quedará vacío en pocos años.",
+      "He's partly right: if young people don't arrive, the village will be empty in a few years.",
+      3
+     ],
+     [
+      "Lo veo exagerado: hay otras formas de atraer gente sin llenar la loma de molinos.",
+      "I think it's exaggerated: there are other ways of attracting people without filling the ridge with turbines.",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "La alcaldesa Pilar pidió visitar un parque eólico en Soria antes de votar. Yo creo que es lo más sensato. ¿Tú qué harías si fueras ella?",
+    "en": "Mayor Pilar asked to visit a wind farm in Soria before voting. I think it's the wisest thing. What would you do if you were her?",
+    "r": [
+     [
+      "Si yo fuera ella, también visitaría el parque y hablaría con los vecinos de allí.",
+      "If I were her, I would also visit the farm and talk to the neighbors there.",
+      4
+     ],
+     [
+      "Yo exigiría a la empresa garantías por escrito antes de aceptar cualquier visita o votación.",
+      "I would demand written guarantees from the company before accepting any visit or vote.",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "Pilar recuerda que su padre cerró el cine por una decisión 'sensata'. ¿Crees que muchas decisiones prudentes son en realidad pequeñas rendiciones?",
+    "en": "Pilar remembers that her father closed the cinema as a 'sensible' decision. Do you think many prudent decisions are really small surrenders?",
+    "r": [
+     [
+      "A veces sí, porque la prudencia puede ser una excusa para no arriesgarse a perder algo.",
+      "Sometimes yes, because prudence can be an excuse for not risking losing something.",
+      5
+     ],
+     [
+      "No siempre: a veces ser prudente es proteger lo que se tiene frente a promesas vacías.",
+      "Not always: sometimes being prudent is protecting what you have against empty promises.",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "Es una pregunta difícil, y no hay respuesta perfecta. Ojalá Valdelobos decida pensando en quienes viven allí. Gracias por hablar.",
+    "en": "It's a hard question, and there's no perfect answer. I hope Valdelobos decides thinking of those who live there. Thanks for talking.",
+    "end": true
+   }
+  ]
+ },
+ "b2-04": {
+  "steps": [
+   {
+    "say": "Hola, soy Sofía. Acabo de leer sobre Daniela, la traductora de Bogotá. ¿Qué harías tú con la frase ambigua de las memorias del diplomático?",
+    "en": "Hi, I'm Sofía. I just read about Daniela, the translator in Bogotá. What would you do with the ambiguous sentence in the diplomat's memoirs?",
+    "r": [
+     [
+      "Elegiría la versión suave, porque el autor dejó la ambigüedad como una coartada elegante.",
+      "I would choose the softer version, because the author left the ambiguity as an elegant alibi.",
+      1
+     ],
+     [
+      "Traduciría 'es posible que les mintiera', porque el español obliga a decidir y la confesión es clara.",
+      "I would translate 'it is possible that I lied to them', because Spanish forces a decision and the confession is clear.",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "Es un dilema difícil. Ramiro, el editor, dice que matizar no es falsificar. ¿Estás de acuerdo con él?",
+    "en": "It's a hard dilemma. Ramiro, the editor, says that adding nuance isn't falsifying. Do you agree with him?",
+    "r": [
+     [
+      "Hasta cierto punto sí, pero si matizas demasiado, cambias lo que el autor quiso decir.",
+      "Up to a point yes, but if you add too much nuance, you change what the author meant.",
+      2
+     ],
+     [
+      "No del todo: la presión de la embajada no debería decidir cómo se traduce un libro.",
+      "Not entirely: the embassy's pressure shouldn't decide how a book is translated.",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "Daniela dice que matizar y falsear son vecinos muy cercanos. ¿Qué significa para ti ser fiel a un texto?",
+    "en": "Daniela says that nuancing and falsifying are very close neighbors. What does being faithful to a text mean to you?",
+    "r": [
+     [
+      "Para mí, ser fiel es respetar la intención del autor, aunque el resultado resulte incómodo.",
+      "To me, being faithful is respecting the author's intention, even if the result is uncomfortable.",
+      3
+     ],
+     [
+      "Para mí, ser fiel es lograr que el lector sienta lo mismo que el lector original.",
+      "To me, being faithful is making the reader feel the same as the original reader.",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "Interesante. El plazo es angustioso y la editorial presiona. ¿Crees que el miedo al fracaso puede hacer que una traductora sea menos honesta?",
+    "en": "Interesting. The deadline is agonizing and the publisher is pressing. Do you think fear of failure can make a translator less honest?",
+    "r": [
+     [
+      "Sí, es fácil ceder cuando estás cansada, aunque eso no justifica traicionar al autor.",
+      "Yes, it's easy to give in when you're tired, although that doesn't justify betraying the author.",
+      4
+     ],
+     [
+      "No necesariamente: una profesional seria defiende su decisión, aunque eso le cueste el contrato.",
+      "Not necessarily: a serious professional defends her decision, even if it costs her the contract.",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "Quizá la mejor opción sea una nota a pie de página explicando la ambigüedad. ¿Te parece una solución justa?",
+    "en": "Maybe the best option is a footnote explaining the ambiguity. Does that seem like a fair solution?",
+    "r": [
+     [
+      "Sí, es honesta con el lector y no obliga al autor a decir lo que no dijo.",
+      "Yes, it's honest with the reader and doesn't force the author to say what he didn't say.",
+      5
+     ],
+     [
+      "No me convence: una nota rompe la lectura y pondría en un apuro a la editorial.",
+      "I'm not convinced: a note interrupts the reading and would put the publisher in a spot.",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "Buen argumento. Traducir es hacer elecciones pequeñas con grandes consecuencias. Gracias por pensarlo conmigo.",
+    "en": "Good point. Translating is making small choices with big consequences. Thanks for thinking it through with me.",
+    "end": true
+   }
+  ]
+ },
+ "b2-05": {
+  "steps": [
+   {
+    "say": "Hola, soy Tomás. Leí la historia de Esteban, el contador de Lima, y su comentario sobre los turnos. ¿Crees que fue culpa suya?",
+    "en": "Hi, I'm Tomás. I read the story of Esteban, the accountant in Lima, and his remark about the shifts. Do you think it was his fault?",
+    "r": [
+     [
+      "En parte sí, porque un jefe debería elegir mejor las palabras cuando todos temen una reestructuración.",
+      "Partly yes, because a boss should choose his words more carefully when everyone fears a restructuring.",
+      1
+     ],
+     [
+      "No, él no tiene la culpa de que los demás exageraran y adornaran lo que dijo.",
+      "No, it isn't his fault that others exaggerated and embellished what he said.",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "Yo también lo veo complicado. El comentario pasó de TI a recepción y llegó muy distorsionado. ¿Por qué crees que los rumores se propagan tan rápido en las oficinas?",
+    "en": "I see it as complicated too. The remark went from IT to reception and arrived very distorted. Why do you think rumors spread so fast in offices?",
+    "r": [
+     [
+      "Porque la gente tiene miedo a perder el trabajo y busca información donde sea.",
+      "Because people are afraid of losing their jobs and look for information wherever they can.",
+      2
+     ],
+     [
+      "Porque contar algo secreto hace sentir importante a quien lo cuenta, aunque no esté seguro.",
+      "Because telling something secret makes the teller feel important, even if they aren't sure.",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "Carla, la mejor analista, dejó de compartir sus archivos y empezó a actualizar su currículum. ¿Habrías reaccionado como ella?",
+    "en": "Carla, the best analyst, stopped sharing her files and started updating her résumé. Would you have reacted like her?",
+    "r": [
+     [
+      "Probablemente sí, porque prefiero prepararme para lo peor que quedarme esperando sin hacer nada.",
+      "Probably yes, because I'd rather prepare for the worst than wait around doing nothing.",
+      3
+     ],
+     [
+      "No, yo habría preguntado directamente a mi jefe antes de creerme un rumor.",
+      "No, I would have asked my boss directly before believing a rumor.",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "Rocío, de Recursos Humanos, dice que las empresas no soportan el silencio y lo llenan con lo primero que encuentran. ¿Tiene razón?",
+    "en": "Rocío, from Human Resources, says companies can't stand silence and fill it with the first thing they find. Is she right?",
+    "r": [
+     [
+      "Tiene razón: si la dirección no informa con claridad, los empleados inventan sus propias historias.",
+      "She's right: if management doesn't inform clearly, employees invent their own stories.",
+      4
+     ],
+     [
+      "Solo en parte: a veces el silencio es prudente y el problema es la falta de confianza.",
+      "Only in part: sometimes silence is prudent and the problem is a lack of trust.",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "Esteban descubrió que desmentir el rumor lo alimentaría. Si fueras él, ¿qué harías ahora para recuperar la confianza del equipo?",
+    "en": "Esteban realized that denying the rumor would feed it. If you were him, what would you do now to regain the team's trust?",
+    "r": [
+     [
+      "Convocaría una reunión formal para explicar con calma la auditoría y los cambios reales de turnos.",
+      "I would call a formal meeting to calmly explain the audit and the real shift changes.",
+      5
+     ],
+     [
+      "Hablaría primero con Carla en privado, porque no quiero perder a una analista tan valiosa.",
+      "I would talk to Carla privately first, because I don't want to lose such a valuable analyst.",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "Buena idea. Una palabra dicha sin pensar puede pesar mucho. Gracias por la charla.",
+    "en": "Good idea. A word said without thinking can weigh a lot. Thanks for the chat.",
+    "end": true
+   }
+  ]
+ },
+ "b2-06": {
+  "steps": [
+   {
+    "say": "Hola, soy Sofía. Acabo de leer la historia del reloj parado a las cuatro y diez. ¿Qué piensas de la aprendiz, que abrió el cajón de don Eusebio?",
+    "en": "Hi, I'm Sofía. I just read the story of the watch stopped at ten past four. What do you think of the apprentice, who opened don Eusebio's drawer?",
+    "r": [
+     [
+      "Creo que actuó mal: él le había dicho claramente que ese reloj no era asunto suyo.",
+      "I think she acted wrongly: he had told her clearly that watch was none of her business.",
+      1
+     ],
+     [
+      "La entiendo: la curiosidad y el afán de aprender son difíciles de controlar a su edad.",
+      "I understand her: curiosity and eagerness to learn are hard to control at her age.",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "Yo creo que su desasosiego tenía un origen noble, pero la falta de respeto fue real. ¿Por qué crees que el maestro, que ya lo había reparado, nunca lo puso en marcha?",
+    "en": "I think her unease had a noble origin, but the lack of respect was real. Why do you think the master, who had already repaired it, never set it going?",
+    "r": [
+     [
+      "Quizá no estaba roto, y el reloj era un recuerdo de alguien que no volvió.",
+      "Maybe it wasn't broken, and the watch was a memory of someone who never came back.",
+      2
+     ],
+     [
+      "Tal vez esperaba a la dueña, porque había prometido guardarlo exactamente como estaba.",
+      "Perhaps he was waiting for the owner, because he had promised to keep it exactly as it was.",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "Ella dijo que lo había mirado con sumo cuidado y que el mecanismo estaba limpio. ¿Eso cambia tu opinión sobre lo que hizo?",
+    "en": "She said she had looked at it with great care and the mechanism was clean. Does that change your opinion about what she did?",
+    "r": [
+     [
+      "Un poco, porque no causó ningún daño, aunque traicionó su confianza.",
+      "A little, because she caused no damage, although she betrayed his trust.",
+      3
+     ],
+     [
+      "No, porque lo importante no es el daño, sino que él se lo había prohibido.",
+      "No, because the important thing is not the damage, but that he had forbidden it.",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "Yo pienso que don Eusebio llevaba treinta y un años esperando algo más que un reloj reparado. ¿Qué habrías hecho tú si fueras él al volver?",
+    "en": "I think don Eusebio had been waiting thirty-one years for more than a repaired watch. What would you have done if you were him on returning?",
+    "r": [
+     [
+      "Si yo fuera él, estaría muy abatido, pero hablaría con ella con calma y sin gritar.",
+      "If I were him, I would be very downcast, but I would talk to her calmly without shouting.",
+      4
+     ],
+     [
+      "Yo la habría despedido, porque sin confianza no se puede enseñar un oficio como este.",
+      "I would have fired her, because without trust you can't teach a trade like this.",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "Quizá el maestro quería enseñarle que algunas cosas no se ponen en marcha antes de tiempo, por respeto. ¿Qué lección sacarías tú de esta historia?",
+    "en": "Maybe the master wanted to teach her that some things shouldn't be set going before their time, out of respect. What lesson would you take from this story?",
+    "r": [
+     [
+      "Aprendería que la paciencia es parte del oficio y que no todo se resuelve con prisa.",
+      "I would learn that patience is part of the craft and not everything is solved in a hurry.",
+      5
+     ],
+     [
+      "Aprendería que hay cosas con valor sentimental que no se miden con la lógica del taller.",
+      "I would learn that some things have sentimental value that can't be measured by workshop logic.",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "Qué bonita lección. A veces escuchar es más importante que arreglar. Gracias por conversar conmigo.",
+    "en": "What a lovely lesson. Sometimes listening matters more than fixing. Thanks for talking with me.",
+    "end": true
+   }
+  ]
+ },
+ "b2-07": {
+  "steps": [
+   {
+    "say": "Hola, soy Sofía. Acabo de leer sobre Leonor, la periodista de Arequipa y las facturas falsas de doña Matilde. ¿Tú publicarías la noticia?",
+    "en": "Hi, I'm Sofía. I just read about Leonor, the reporter in Arequipa, and doña Matilde's fake invoices. Would you publish the story?",
+    "r": [
+     [
+      "Sí, la publicaría, porque el periodismo existe para contar lo que alguien prefiere ocultar.",
+      "Yes, I would publish it, because journalism exists to tell what someone would rather hide.",
+      1
+     ],
+     [
+      "No todavía: antes necesito saber adónde fue el dinero, porque faltar y embolsarse no es lo mismo.",
+      "Not yet: first I need to know where the money went, because missing and pocketing are not the same.",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "Yo creo que la duda de Leonor es razonable: faltaban cuarenta mil soles, pero nadie sabía quién se los había quedado. ¿Qué te parece la actitud de su editor?",
+    "en": "I think Leonor's doubt is reasonable: forty thousand soles were missing, but nobody knew who had kept them. What do you think of her editor's attitude?",
+    "r": [
+     [
+      "Me parece muy fría: llamar 'detalle' a lo más importante es una falta de rigor.",
+      "I think it's very cold: calling the most important thing a 'detail' is a lack of rigor.",
+      2
+     ],
+     [
+      "Entiendo que quiera la noticia, porque si ellos no la publican, otro medio lo hará.",
+      "I understand that he wants the story, because if they don't publish it, another outlet will.",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "Doña Matilde alimentaba a trescientas personas al día y Leonor comió allí de niña. ¿Influye eso en lo que ella debe hacer?",
+    "en": "Doña Matilde fed three hundred people a day and Leonor ate there as a child. Does that influence what she should do?",
+    "r": [
+     [
+      "Debería influir en cómo lo cuenta, pero no en si lo cuenta o no.",
+      "It should influence how she tells it, but not whether she tells it.",
+      3
+     ],
+     [
+      "Sí, creo que la gratitud importa, y por eso debería investigar más a fondo antes de acusar.",
+      "Yes, I think gratitude matters, and that's why she should investigate more deeply before accusing.",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "Hay un riesgo: si el periódico publica, podrían cerrar el grifo a los donativos y los comensales se quedarían sin comida. ¿Qué pesa más, la verdad o las consecuencias?",
+    "en": "There's a risk: if the paper publishes, donations could dry up and the diners would go hungry. What weighs more, the truth or the consequences?",
+    "r": [
+     [
+      "La verdad pesa más, pero hay que contarla completa, incluyendo el trabajo real de doña Matilde.",
+      "The truth weighs more, but it must be told in full, including doña Matilde's real work.",
+      4
+     ],
+     [
+      "Las consecuencias importan mucho: no se puede dañar a trescientas personas por un titular.",
+      "The consequences matter a lot: you can't harm three hundred people for a headline.",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "Quizá Leonor debería hablar primero con doña Matilde para que ella explique su versión. ¿Tú lo harías?",
+    "en": "Maybe Leonor should talk to doña Matilde first so she can explain her side. Would you do that?",
+    "r": [
+     [
+      "Sí, es lo justo: toda persona merece la oportunidad de responder antes de ser acusada.",
+      "Yes, it's only fair: everyone deserves a chance to respond before being accused.",
+      5
+     ],
+     [
+      "Lo haría con cuidado, porque ella podría destruir pruebas o presionar al periódico.",
+      "I would do it carefully, because she could destroy evidence or pressure the paper.",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "Buen punto. Decir la verdad también exige cuidado, no solo valentía. Gracias por compartir tu opinión.",
+    "en": "Good point. Telling the truth also takes care, not just courage. Thanks for sharing your opinion.",
+    "end": true
+   }
+  ]
+ },
+ "b2-08": {
+  "steps": [
+   {
+    "say": "Hola, soy Tomás. Acabo de leer la historia de Joaquín, que vuelve a Valparaíso después de veinte años. ¿Por qué crees que ensayó su versión de lo ocurrido?",
+    "en": "Hi, I'm Tomás. I just read the story of Joaquín, who returns to Valparaíso after twenty years. Why do you think he rehearsed his version of what happened?",
+    "r": [
+     [
+      "Creo que quería protegerse, porque admitir su parte de culpa le dolía demasiado.",
+      "I think he wanted to protect himself, because admitting his share of the blame hurt too much.",
+      1
+     ],
+     [
+      "Probablemente tenía miedo de que sus amigos lo juzgaran y quería controlar la conversación.",
+      "He was probably afraid his friends would judge him and wanted to control the conversation.",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "Yo también lo creo. Él dijo que lo habían echado del grupo por el dinero de la maqueta. ¿Tú habrías hecho lo mismo en su lugar?",
+    "en": "I think so too. He said they had thrown him out of the group over the demo money. Would you have done the same in his place?",
+    "r": [
+     [
+      "Si yo hubiera estado en su lugar, quizá me habría ido igual, herido por la desconfianza.",
+      "If I had been in his place, I might have left too, hurt by the mistrust.",
+      2
+     ],
+     [
+      "Yo habría intentado aclarar las cosas antes de cortar por lo sano y desaparecer veinte años.",
+      "I would have tried to clear things up before making a clean break and vanishing for twenty years.",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "Renato rompió el hielo con su falta de tacto de siempre. ¿Es mejor una pregunta directa o esperar a que la otra persona hable?",
+    "en": "Renato broke the ice with his usual tactlessness. Is a direct question better, or waiting for the other person to speak?",
+    "r": [
+     [
+      "Una pregunta directa es mejor, aunque incomode, porque evita años de malentendidos.",
+      "A direct question is better, even if it's uncomfortable, because it avoids years of misunderstandings.",
+      3
+     ],
+     [
+      "Prefiero esperar, porque una pregunta brusca puede hacer que alguien se cierre más.",
+      "I prefer to wait, because a blunt question can make someone close up more.",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "Después de veinte años, todos recordaban aquel episodio de forma distinta. ¿Crees que existe una sola verdad de lo que pasó?",
+    "en": "After twenty years, everyone remembered that episode differently. Do you think there is a single truth about what happened?",
+    "r": [
+     [
+      "Creo que hay hechos objetivos, pero cada persona los recuerda según lo que sintió.",
+      "I think there are objective facts, but each person remembers them according to what they felt.",
+      4
+     ],
+     [
+      "No creo que haya una sola verdad: el recuerdo cambia con el tiempo y con el dolor.",
+      "I don't think there's a single truth: memory changes with time and pain.",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "Joaquín se dio cuenta de que quizá su historia no era toda la verdad. Si fueras él, ¿qué dirías esa noche?",
+    "en": "Joaquín realized that maybe his story wasn't the whole truth. If you were him, what would you say that night?",
+    "r": [
+     [
+      "Les diría que me equivoqué con lo del dinero y que ya no quiero seguir enojado.",
+      "I would tell them I was wrong about the money, and that I no longer want to stay angry.",
+      5
+     ],
+     [
+      "Les pediría perdón por haber desaparecido y les preguntaría cómo vivieron ellos aquel momento.",
+      "I would apologize for disappearing and ask them how they lived through that moment.",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "Me gusta eso. A veces la parte más difícil del juramento es cumplirlo con honestidad. Gracias por la charla.",
+    "en": "I like that. Sometimes the hardest part of the oath is keeping it honestly. Thanks for the chat.",
+    "end": true
+   }
+  ]
+ },
+ "b2-09": {
+  "steps": [
+   {
+    "say": "Hola, soy Tomás. Acabo de leer la historia de Efraín, el guardia nocturno del museo de Quito. ¿Qué habrías hecho tú al oír la melodía en la sala siete?",
+    "en": "Hi, I'm Tomás. I just read the story of Efraín, the night guard at the Quito museum. What would you have done on hearing the tune in room seven?",
+    "r": [
+     [
+      "Habría ido a mirar enseguida, aunque tuviera miedo, porque es mi responsabilidad.",
+      "I would have gone to look right away, even if I was scared, because it's my responsibility.",
+      1
+     ],
+     [
+      "Me habría quedado en la garita llamando a un compañero, porque no me gustan los riesgos.",
+      "I would have stayed in the booth calling a colleague, because I don't like taking risks.",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "Efraín entró y vio la caja de música abierta, aunque debía estar cerrada. Luego escribió 'sin novedad' en el registro. ¿Por qué crees que mintió?",
+    "en": "Efraín went in and saw the music box open when it should have been closed. Then he wrote 'nothing to report' in the log. Why do you think he lied?",
+    "r": [
+     [
+      "Creo que tuvo miedo de que lo tomaran por loco o por una persona fantasiosa.",
+      "I think he was afraid they would take him for crazy or for an overimaginative person.",
+      2
+     ],
+     [
+      "Tal vez su orgullo pesó más: siempre decía que nunca se asustaba de nada.",
+      "Perhaps his pride weighed more: he always said he was never frightened of anything.",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "Ese fue su primer engaño en veintitrés años. ¿Crees que una mentira pequeña como esa es grave en un trabajo así?",
+    "en": "That was his first lie in twenty-three years. Do you think a small lie like that is serious in a job like his?",
+    "r": [
+     [
+      "Sí, en un museo todo registro importa, y un guardia debe informar lo que ve.",
+      "Yes, in a museum every record matters, and a guard must report what he sees.",
+      3
+     ],
+     [
+      "No tanto: no había cámara ni pruebas, y el informe lo habría dejado en ridículo.",
+      "Not so much: there was no camera or proof, and the report would have made him look ridiculous.",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "Al día siguiente la conservadora le dijo que la caja llevaba décadas rota. ¿Cómo explicarías tú lo ocurrido, sin hablar de fantasmas?",
+    "en": "The next day the curator told him the box had been broken for decades. How would you explain what happened, without talking about ghosts?",
+    "r": [
+     [
+      "Quizá alguien la arregló en secreto, o el edificio se movió y activó el mecanismo.",
+      "Maybe someone fixed it in secret, or the building shifted and set off the mechanism.",
+      4
+     ],
+     [
+      "Yo no sabría explicarlo, y me gusta la idea de que haya misterios sin solución.",
+      "I wouldn't know how to explain it, and I like the idea that some mysteries have no solution.",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "A mí me gusta pensar que la caja quiso volver a sonar. Si fueras Efraín, ¿le contarías todo a la doctora Aguirre?",
+    "en": "I like to think the box wanted to play again. If you were Efraín, would you tell Dr. Aguirre everything?",
+    "r": [
+     [
+      "Sí, se lo contaría todo, porque ocultar algo así sería peor que parecer ridículo.",
+      "Yes, I would tell her everything, because hiding something like that would be worse than seeming ridiculous.",
+      5
+     ],
+     [
+      "Le contaría solo lo esencial y pediría reparar la cámara antes de seguir investigando.",
+      "I would tell her only the essentials and ask to repair the camera before investigating further.",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "Buena decisión. Un buen guardia protege el museo, pero también su propia honestidad. Gracias por la conversación.",
+    "en": "Good decision. A good guard protects the museum, but also his own honesty. Thanks for the conversation.",
+    "end": true
+   }
+  ]
+ },
+ "b2-10": {
+  "steps": [
+   {
+    "say": "Hola, soy Tomás. Acabo de leer la historia del secretario de Valdelanuza, con el empate de setenta y una papeletas. ¿Crees que la imparcialidad es una virtud?",
+    "en": "Hi, I'm Tomás. I just read the story of the secretary of Valdelanuza, with the tie of seventy-one ballots. Do you think impartiality is a virtue?",
+    "r": [
+     [
+      "Sí, para un funcionario es esencial: su trabajo es que todo se haga bien, no elegir bando.",
+      "Yes, for an official it's essential: his job is making sure things are done properly, not taking sides.",
+      1
+     ],
+     [
+      "Depende: ser imparcial puede ser solo una forma cómoda de no comprometerse con nada.",
+      "It depends: being impartial can just be a comfortable way of not committing to anything.",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "Él mismo reconoce que su neutralidad era más un hábito que una virtud. ¿Por qué crees que respondía siempre que su opinión no importaba?",
+    "en": "He admits his neutrality was more a habit than a virtue. Why do you think he always answered that his opinion didn't matter?",
+    "r": [
+     [
+      "Creo que tenía miedo de equivocarse o de perder el respeto de los vecinos.",
+      "I think he was afraid of being wrong or losing his neighbors' respect.",
+      2
+     ],
+     [
+      "Quizá creía sinceramente que su papel era ser un muro y no mojarse.",
+      "Maybe he sincerely believed his role was to be a wall and not take a stand.",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "Recuerda el verano de 1994, cuando se secó el pozo y todo el pueblo se unió. ¿Qué aprendió de aquella experiencia?",
+    "en": "He remembers the summer of 1994, when the well ran dry and the whole village pulled together. What did he learn from that experience?",
+    "r": [
+     [
+      "Aprendió que un pueblo pequeño no se gobierna solo, sino que todos lo sostienen juntos.",
+      "He learned that a small village isn't governed by one person, but held up by everyone together.",
+      3
+     ],
+     [
+      "Aprendió que la gente puede dividirse en política pero unirse cuando hay una emergencia.",
+      "He learned that people can be divided in politics but unite when there's an emergency.",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "Remedios quiere reabrir la escuela, y Anselmo prefiere alquilar terrenos para paneles solares. ¿Cuál de los dos proyectos te parece mejor?",
+    "en": "Remedios wants to reopen the school, and Anselmo prefers to lease land for solar panels. Which of the two projects seems better to you?",
+    "r": [
+     [
+      "Me inclino por el de Remedios, porque atraer familias jóvenes puede salvar al pueblo.",
+      "I lean toward Remedios's, because attracting young families could save the village.",
+      4
+     ],
+     [
+      "Prefiero el de Anselmo, porque es más cauteloso y ofrece ingresos más seguros.",
+      "I prefer Anselmo's, because it's more cautious and offers more secure income.",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "Al final son dos formas legítimas de querer el mismo lugar. Si fueras el secretario, ¿te atreverías a opinar antes de abrir el sobre de Buenos Aires?",
+    "en": "In the end they're two legitimate ways of loving the same place. If you were the secretary, would you dare to give your opinion before opening the Buenos Aires envelope?",
+    "r": [
+     [
+      "No, mantendría la imparcialidad hasta el final, porque mi cargo exige confianza de todos.",
+      "No, I would remain impartial to the end, because my position requires everyone's trust.",
+      5
+     ],
+     [
+      "Sí, creo que debería mojarse y decir lo que piensa, pero sin influir en el recuento.",
+      "Yes, I think he should take a stand and say what he thinks, but without influencing the count.",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "Es una distinción muy fina, y me gusta cómo la defiendes. Gracias por pensar en esto conmigo.",
+    "en": "That's a very fine distinction, and I like how you defend it. Thanks for thinking this through with me.",
+    "end": true
+   }
+  ]
+ }
+}

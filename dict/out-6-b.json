@@ -1,0 +1,2235 @@
+{
+"tibio": [
+[
+"tibio",
+"adj",
+"warm, mild"
+]
+],
+"tictac": [
+[
+"el tictac",
+"noun",
+"ticking"
+]
+],
+"tiempo": [
+[
+"el tiempo",
+"noun",
+"half, time"
+]
+],
+"tienda": [
+[
+"la tienda",
+"noun",
+"shop"
+]
+],
+"tiendas": [
+[
+"la tienda",
+"noun",
+"shop"
+]
+],
+"tiene": [
+[
+"tener",
+"verb",
+"to have"
+]
+],
+"tienen": [
+[
+"tener",
+"verb",
+"to have"
+]
+],
+"tienes": [
+[
+"tener",
+"verb",
+"to have"
+]
+],
+"tierra": [
+[
+"la tierra",
+"noun",
+"earth, soil"
+]
+],
+"timbre": [
+[
+"el timbre",
+"noun",
+"bell"
+]
+],
+"tinteros": [
+[
+"el tintero",
+"noun",
+"inkwell"
+]
+],
+"tiraba": [
+[
+"tirar",
+"verb",
+"to throw, to kick"
+]
+],
+"tirar": [
+[
+"tirar",
+"verb",
+"to shoot, to throw"
+]
+],
+"titular": [
+[
+"el titular",
+"noun",
+"headline"
+]
+],
+"tiza": [
+[
+"la tiza",
+"noun",
+"chalk"
+]
+],
+"toalla": [
+[
+"la toalla",
+"noun",
+"towel"
+]
+],
+"toca": [
+[
+"tocar",
+"verb",
+"to play"
+]
+],
+"tocaba": [
+[
+"tocar",
+"verb",
+"to play"
+]
+],
+"tocaban": [
+[
+"tocar",
+"verb",
+"to play"
+]
+],
+"tocar": [
+[
+"tocar",
+"verb",
+"to knock on, to touch"
+]
+],
+"tocas": [
+[
+"tocar",
+"verb",
+"to play"
+]
+],
+"toco": [
+[
+"tocar",
+"verb",
+"to play"
+]
+],
+"tocándole": [
+[
+"tocar",
+"verb",
+"to touch"
+]
+],
+"tocó": [
+[
+"tocar",
+"verb",
+"to play"
+]
+],
+"toda": [
+[
+"todo",
+"det",
+"all, whole"
+]
+],
+"todas": [
+[
+"todo",
+"det",
+"all, every"
+]
+],
+"todavía": [
+[
+"todavía",
+"adv",
+"still, yet"
+]
+],
+"todo": [
+[
+"todo",
+"pron",
+"everything, all"
+]
+],
+"todos": [
+[
+"todo",
+"pron",
+"everyone, all"
+]
+],
+"toma": [
+[
+"tomar",
+"verb",
+"to take"
+]
+],
+"tomaba": [
+[
+"tomar",
+"verb",
+"to take"
+]
+],
+"tomado": [
+[
+"tomar",
+"verb",
+"to take"
+]
+],
+"tomando": [
+[
+"tomar",
+"verb",
+"to drink, to have"
+]
+],
+"tomar": [
+[
+"tomar",
+"verb",
+"to take"
+]
+],
+"tomara": [
+[
+"tomar",
+"verb",
+"to take"
+]
+],
+"tomaron": [
+[
+"tomar",
+"verb",
+"to have, to drink"
+]
+],
+"tomarían": [
+[
+"tomar",
+"verb",
+"to take"
+]
+],
+"tomaste": [
+[
+"tomarse",
+"verb",
+"to drink, to have"
+]
+],
+"tomates": [
+[
+"el tomate",
+"noun",
+"tomato"
+]
+],
+"tome": [
+[
+"tomarse",
+"verb",
+"to drink, to have"
+]
+],
+"tomillo": [
+[
+"el tomillo",
+"noun",
+"thyme"
+]
+],
+"tomo": [
+[
+"tomar",
+"verb",
+"to drink, to have"
+]
+],
+"tomás": [
+[
+"Tomás",
+"name",
+"boy's name"
+]
+],
+"tomé": [
+[
+"tomar",
+"verb",
+"to take"
+]
+],
+"tomó": [
+[
+"tomar",
+"verb",
+"to take"
+]
+],
+"tontería": [
+[
+"la tontería",
+"noun",
+"silly thing, nonsense"
+]
+],
+"topes": [
+[
+"el tope",
+"noun",
+"limit, brim"
+]
+],
+"topó": [
+[
+"toparse",
+"verb",
+"to come across"
+]
+],
+"toque": [
+[
+"el toque",
+"noun",
+"touch"
+]
+],
+"tormenta": [
+[
+"la tormenta",
+"noun",
+"storm"
+]
+],
+"toro": [
+[
+"el toro",
+"noun",
+"bull"
+]
+],
+"torpe": [
+[
+"torpe",
+"adj",
+"clumsy, awkward"
+]
+],
+"torres": [
+[
+"la torre",
+"noun",
+"tower"
+]
+],
+"tortilla": [
+[
+"la tortilla",
+"noun",
+"omelette, tortilla"
+]
+],
+"tortillas": [
+[
+"la tortilla",
+"noun",
+"tortilla"
+]
+],
+"tos": [
+[
+"la tos",
+"noun",
+"cough"
+]
+],
+"toser": [
+[
+"toser",
+"verb",
+"to cough"
+]
+],
+"total": [
+[
+"total",
+"noun",
+"total",
+"?"
+]
+],
+"tozudez": [
+[
+"la tozudez",
+"noun",
+"stubbornness"
+]
+],
+"trababa": [
+[
+"trabarse",
+"verb",
+"to get stuck, to stumble"
+]
+],
+"trabaja": [
+[
+"trabajar",
+"verb",
+"to work"
+]
+],
+"trabajaba": [
+[
+"trabajar",
+"verb",
+"to work"
+]
+],
+"trabajado": [
+[
+"trabajar",
+"verb",
+"to work"
+]
+],
+"trabajan": [
+[
+"trabajar",
+"verb",
+"to work"
+]
+],
+"trabajando": [
+[
+"trabajar",
+"verb",
+"to work"
+]
+],
+"trabajar": [
+[
+"trabajar",
+"verb",
+"to work"
+]
+],
+"trabajaron": [
+[
+"trabajar",
+"verb",
+"to work"
+]
+],
+"trabajas": [
+[
+"trabajar",
+"verb",
+"to work"
+]
+],
+"trabajo": [
+[
+"el trabajo",
+"noun",
+"work, job"
+]
+],
+"trabajos": [
+[
+"el trabajo",
+"noun",
+"job, work"
+]
+],
+"trabajé": [
+[
+"trabajar",
+"verb",
+"to work"
+]
+],
+"trabas": [
+[
+"la traba",
+"noun",
+"obstacle"
+]
+],
+"tractor": [
+[
+"el tractor",
+"noun",
+"tractor"
+]
+],
+"tradicional": [
+[
+"tradicional",
+"adj",
+"traditional"
+]
+],
+"traducción": [
+[
+"la traducción",
+"noun",
+"translation"
+]
+],
+"traducir": [
+[
+"traducir",
+"verb",
+"to translate"
+]
+],
+"traducirse": [
+[
+"traducirse",
+"verb",
+"to be translated"
+]
+],
+"traductor": [
+[
+"el traductor",
+"noun",
+"translator"
+]
+],
+"traductora": [
+[
+"la traductora",
+"noun",
+"translator"
+]
+],
+"trae": [
+[
+"traer",
+"verb",
+"to bring"
+]
+],
+"tragó": [
+[
+"tragar",
+"verb",
+"to swallow"
+]
+],
+"traición": [
+[
+"la traición",
+"noun",
+"betrayal"
+]
+],
+"traidores": [
+[
+"el traidor",
+"noun",
+"traitor"
+]
+],
+"traje": [
+[
+"traer",
+"verb",
+"to bring"
+],
+[
+"el traje",
+"noun",
+"suit"
+]
+],
+"trajo": [
+[
+"traer",
+"verb",
+"to bring"
+]
+],
+"tranquila": [
+[
+"tranquilo",
+"adj",
+"calm"
+]
+],
+"tranquiliza": [
+[
+"tranquilizar",
+"verb",
+"to calm"
+]
+],
+"tranquilo": [
+[
+"tranquilo",
+"adj",
+"calm"
+]
+],
+"tras": [
+[
+"tras",
+"prep",
+"after"
+]
+],
+"trasera": [
+[
+"trasero",
+"adj",
+"rear, back"
+]
+],
+"trasladar": [
+[
+"trasladar",
+"verb",
+"to move, to relocate"
+]
+],
+"trataba": [
+[
+"tratarse",
+"verb",
+"to be a matter of"
+]
+],
+"tratado": [
+[
+"tratar",
+"verb",
+"to treat, to try"
+]
+],
+"tratan": [
+[
+"tratar",
+"verb",
+"to treat"
+]
+],
+"trato": [
+[
+"el trato",
+"noun",
+"deal"
+]
+],
+"trató": [
+[
+"tratar",
+"verb",
+"to try, to treat"
+]
+],
+"traían": [
+[
+"traer",
+"verb",
+"to bring"
+]
+],
+"traído": [
+[
+"traer",
+"verb",
+"to bring"
+]
+],
+"trece": [
+[
+"trece",
+"num",
+"thirteen"
+]
+],
+"treinta": [
+[
+"treinta",
+"num",
+"thirty"
+]
+],
+"tren": [
+[
+"el tren",
+"noun",
+"train"
+]
+],
+"tres": [
+[
+"tres",
+"num",
+"three"
+]
+],
+"trescientas": [
+[
+"trescientos",
+"num",
+"three hundred"
+]
+],
+"trimestre": [
+[
+"el trimestre",
+"noun",
+"quarter, term"
+]
+],
+"triste": [
+[
+"triste",
+"adj",
+"sad"
+]
+],
+"tristeza": [
+[
+"la tristeza",
+"noun",
+"sadness"
+]
+],
+"trueno": [
+[
+"el trueno",
+"noun",
+"thunder"
+]
+],
+"tráfico": [
+[
+"el tráfico",
+"noun",
+"traffic"
+]
+],
+"trámite": [
+[
+"el trámite",
+"noun",
+"procedure, formality"
+]
+],
+"tu": [
+[
+"tu",
+"det",
+"your"
+]
+],
+"tucson": [
+[
+"Tucson",
+"name",
+"city in Arizona"
+]
+],
+"turistas": [
+[
+"el turista",
+"noun",
+"tourist"
+]
+],
+"turnaban": [
+[
+"turnarse",
+"verb",
+"to take turns"
+]
+],
+"turno": [
+[
+"el turno",
+"noun",
+"shift"
+]
+],
+"turnos": [
+[
+"el turno",
+"noun",
+"shift"
+]
+],
+"turolense": [
+[
+"turolense",
+"adj",
+"from Teruel"
+]
+],
+"tus": [
+[
+"tu",
+"det",
+"your"
+]
+],
+"tuve": [
+[
+"tener",
+"verb",
+"to have"
+]
+],
+"tuviera": [
+[
+"tener",
+"verb",
+"to have"
+]
+],
+"tuvo": [
+[
+"tener",
+"verb",
+"to have"
+]
+],
+"tuya": [
+[
+"tuyo",
+"pron",
+"yours"
+]
+],
+"tuyas": [
+[
+"tuyo",
+"pron",
+"yours"
+]
+],
+"tuyo": [
+[
+"tuyo",
+"pron",
+"yours"
+]
+],
+"té": [
+[
+"el té",
+"noun",
+"tea"
+]
+],
+"técnicas": [
+[
+"la técnica",
+"noun",
+"technique"
+]
+],
+"técnico": [
+[
+"el técnico",
+"noun",
+"technician"
+]
+],
+"tía": [
+[
+"la tía",
+"noun",
+"aunt"
+]
+],
+"tímida": [
+[
+"tímido",
+"adj",
+"shy"
+]
+],
+"tímido": [
+[
+"tímido",
+"adj",
+"shy, timid"
+]
+],
+"tío": [
+[
+"el tío",
+"noun",
+"uncle"
+]
+],
+"tú": [
+[
+"tú",
+"pron",
+"you"
+]
+],
+"umbral": [
+[
+"el umbral",
+"noun",
+"threshold"
+]
+],
+"un": [
+[
+"un",
+"det",
+"a, an"
+]
+],
+"una": [
+[
+"una",
+"det",
+"a, an"
+]
+],
+"unas": [
+[
+"unos",
+"det",
+"some"
+]
+],
+"undécimo": [
+[
+"undécimo",
+"adj",
+"eleventh"
+]
+],
+"unido": [
+[
+"unido",
+"adj",
+"united"
+]
+],
+"unidos": [
+[
+"unido",
+"adj",
+"united"
+]
+],
+"uniforme": [
+[
+"el uniforme",
+"noun",
+"uniform"
+]
+],
+"universidad": [
+[
+"la universidad",
+"noun",
+"university"
+]
+],
+"uno": [
+[
+"uno",
+"pron",
+"one"
+]
+],
+"unos": [
+[
+"unos",
+"det",
+"some, about"
+]
+],
+"urnas": [
+[
+"la urna",
+"noun",
+"ballot box"
+]
+],
+"uruguay": [
+[
+"Uruguay",
+"name",
+"country in South America"
+]
+],
+"usado": [
+[
+"usar",
+"verb",
+"to use"
+]
+],
+"usar": [
+[
+"usar",
+"verb",
+"to use"
+]
+],
+"usaran": [
+[
+"usar",
+"verb",
+"to use"
+]
+],
+"usarían": [
+[
+"usar",
+"verb",
+"to use"
+]
+],
+"usted": [
+[
+"usted",
+"pron",
+"you (formal)"
+]
+],
+"ustedes": [
+[
+"ustedes",
+"pron",
+"you (plural)"
+]
+],
+"usó": [
+[
+"usar",
+"verb",
+"to use"
+]
+],
+"uvas": [
+[
+"la uva",
+"noun",
+"grape"
+]
+],
+"va": [
+[
+"ir",
+"verb",
+"to go"
+]
+],
+"vacas": [
+[
+"la vaca",
+"noun",
+"cow"
+]
+],
+"vaciar": [
+[
+"vaciar",
+"verb",
+"to empty"
+]
+],
+"vacías": [
+[
+"vacío",
+"adj",
+"empty"
+]
+],
+"vacío": [
+[
+"vacío",
+"adj",
+"empty"
+]
+],
+"vago": [
+[
+"vago",
+"adj",
+"vague"
+]
+],
+"valdelanuza": [
+[
+"Valdelanuza",
+"name",
+"village name"
+]
+],
+"valdelobos": [
+[
+"Valdelobos",
+"name",
+"village name"
+]
+],
+"valdeluna": [
+[
+"Valdeluna",
+"name",
+"village name"
+]
+],
+"valdivia": [
+[
+"Valdivia",
+"name",
+"surname"
+]
+],
+"vale": [
+[
+"valer",
+"verb",
+"to be worth"
+]
+],
+"valencia": [
+[
+"Valencia",
+"name",
+"city in Spain"
+]
+],
+"valentina": [
+[
+"Valentina",
+"name",
+"girl's name"
+]
+],
+"valeria": [
+[
+"Valeria",
+"name",
+"girl's name"
+]
+],
+"valioso": [
+[
+"valioso",
+"adj",
+"valuable"
+]
+],
+"valle": [
+[
+"el valle",
+"noun",
+"valley"
+]
+],
+"valor": [
+[
+"el valor",
+"noun",
+"value"
+]
+],
+"valparaíso": [
+[
+"Valparaíso",
+"name",
+"port city in Chile"
+]
+],
+"vamos": [
+[
+"ir",
+"verb",
+"to go"
+]
+],
+"van": [
+[
+"ir",
+"verb",
+"to go"
+]
+],
+"varias": [
+[
+"varios",
+"adj",
+"several"
+]
+],
+"varios": [
+[
+"varios",
+"adj",
+"several"
+]
+],
+"vas": [
+[
+"ir",
+"verb",
+"to go"
+]
+],
+"vasos": [
+[
+"el vaso",
+"noun",
+"glass"
+]
+],
+"vayamos": [
+[
+"ir",
+"verb",
+"to go"
+]
+],
+"ve": [
+[
+"ver",
+"verb",
+"to see"
+]
+],
+"vea": [
+[
+"ver",
+"verb",
+"to see"
+]
+],
+"veces": [
+[
+"la vez",
+"noun",
+"time, occasion"
+]
+],
+"vecina": [
+[
+"la vecina",
+"noun",
+"neighbor"
+]
+],
+"vecino": [
+[
+"el vecino",
+"noun",
+"neighbor"
+]
+],
+"vecinos": [
+[
+"el vecino",
+"noun",
+"neighbor"
+]
+],
+"veinte": [
+[
+"veinte",
+"num",
+"twenty"
+]
+],
+"veinticinco": [
+[
+"veinticinco",
+"num",
+"twenty-five"
+]
+],
+"veinticuatro": [
+[
+"veinticuatro",
+"num",
+"twenty-four"
+]
+],
+"veintidós": [
+[
+"veintidós",
+"num",
+"twenty-two"
+]
+],
+"veintiocho": [
+[
+"veintiocho",
+"num",
+"twenty-eight"
+]
+],
+"veintiséis": [
+[
+"veintiséis",
+"num",
+"twenty-six"
+]
+],
+"veintitrés": [
+[
+"veintitrés",
+"num",
+"twenty-three"
+]
+],
+"vela": [
+[
+"la vela",
+"noun",
+"candle, vigil"
+]
+],
+"velas": [
+[
+"la vela",
+"noun",
+"candle"
+]
+],
+"vemos": [
+[
+"ver",
+"verb",
+"to see"
+]
+],
+"ven": [
+[
+"venir",
+"verb",
+"to come"
+]
+],
+"vendas": [
+[
+"vender",
+"verb",
+"to sell"
+]
+],
+"vende": [
+[
+"vender",
+"verb",
+"to sell"
+]
+],
+"vender": [
+[
+"vender",
+"verb",
+"to sell"
+]
+],
+"vendes": [
+[
+"vender",
+"verb",
+"to sell"
+]
+],
+"vendía": [
+[
+"vender",
+"verb",
+"to sell"
+]
+],
+"venido": [
+[
+"venir",
+"verb",
+"to come"
+]
+],
+"venir": [
+[
+"venir",
+"verb",
+"to come"
+]
+],
+"venta": [
+[
+"la venta",
+"noun",
+"sale"
+]
+],
+"ventana": [
+[
+"la ventana",
+"noun",
+"window"
+]
+],
+"ventanas": [
+[
+"la ventana",
+"noun",
+"window"
+]
+],
+"ventas": [
+[
+"la venta",
+"noun",
+"sale"
+]
+],
+"ventilador": [
+[
+"el ventilador",
+"noun",
+"fan"
+]
+],
+"venía": [
+[
+"venir",
+"verb",
+"to come"
+]
+],
+"veo": [
+[
+"ver",
+"verb",
+"to see"
+]
+],
+"ver": [
+[
+"ver",
+"verb",
+"to see, to watch"
+]
+],
+"verano": [
+[
+"el verano",
+"noun",
+"summer"
+]
+],
+"veranos": [
+[
+"el verano",
+"noun",
+"summer"
+]
+],
+"verdad": [
+[
+"la verdad",
+"noun",
+"truth"
+]
+],
+"verdadero": [
+[
+"verdadero",
+"adj",
+"true, real"
+]
+],
+"verde": [
+[
+"verde",
+"adj",
+"green"
+]
+],
+"verdes": [
+[
+"verde",
+"adj",
+"green"
+]
+],
+"verduras": [
+[
+"la verdura",
+"noun",
+"vegetable"
+]
+],
+"veremos": [
+[
+"ver",
+"verb",
+"to see"
+]
+],
+"vergüenza": [
+[
+"la vergüenza",
+"noun",
+"shame, embarrassment"
+]
+],
+"verla": [
+[
+"ver",
+"verb",
+"to see"
+]
+],
+"verlo": [
+[
+"ver",
+"verb",
+"to see"
+]
+],
+"verse": [
+[
+"verse",
+"verb",
+"to see each other"
+]
+],
+"versiones": [
+[
+"la versión",
+"noun",
+"version"
+]
+],
+"versión": [
+[
+"la versión",
+"noun",
+"version"
+]
+],
+"ves": [
+[
+"ver",
+"verb",
+"to see"
+]
+],
+"vestido": [
+[
+"el vestido",
+"noun",
+"dress"
+]
+],
+"vestíbulo": [
+[
+"el vestíbulo",
+"noun",
+"lobby"
+]
+],
+"veterinario": [
+[
+"el veterinario",
+"noun",
+"vet"
+]
+],
+"vez": [
+[
+"la vez",
+"noun",
+"time, occasion"
+]
+],
+"veía": [
+[
+"ver",
+"verb",
+"to see"
+]
+],
+"vi": [
+[
+"ver",
+"verb",
+"to see"
+]
+],
+"viajaba": [
+[
+"viajar",
+"verb",
+"to travel"
+]
+],
+"viajado": [
+[
+"viajar",
+"verb",
+"to travel"
+]
+],
+"viaje": [
+[
+"el viaje",
+"noun",
+"trip"
+]
+],
+"vibraciones": [
+[
+"la vibración",
+"noun",
+"vibration"
+]
+],
+"victoria": [
+[
+"la victoria",
+"noun",
+"victory"
+]
+],
+"vida": [
+[
+"la vida",
+"noun",
+"life"
+]
+],
+"vidrios": [
+[
+"el vidrio",
+"noun",
+"glass pane"
+]
+],
+"vieja": [
+[
+"viejo",
+"adj",
+"old"
+]
+],
+"viejas": [
+[
+"viejo",
+"adj",
+"old"
+]
+],
+"viejo": [
+[
+"viejo",
+"adj",
+"old"
+]
+],
+"viejos": [
+[
+"viejo",
+"adj",
+"old"
+]
+],
+"viene": [
+[
+"venir",
+"verb",
+"to come"
+]
+],
+"vienes": [
+[
+"venir",
+"verb",
+"to come"
+]
+],
+"viento": [
+[
+"el viento",
+"noun",
+"wind"
+]
+],
+"viera": [
+[
+"ver",
+"verb",
+"to see"
+]
+],
+"viernes": [
+[
+"el viernes",
+"noun",
+"Friday"
+]
+],
+"vieron": [
+[
+"ver",
+"verb",
+"to see"
+]
+],
+"vigilarlos": [
+[
+"vigilar",
+"verb",
+"to watch over"
+]
+],
+"viniera": [
+[
+"venir",
+"verb",
+"to come"
+]
+],
+"vio": [
+[
+"ver",
+"verb",
+"to see"
+]
+],
+"violines": [
+[
+"el violín",
+"noun",
+"violin"
+]
+],
+"virtud": [
+[
+"la virtud",
+"noun",
+"virtue"
+]
+],
+"virus": [
+[
+"el virus",
+"noun",
+"virus"
+]
+],
+"visita": [
+[
+"la visita",
+"noun",
+"visit"
+]
+],
+"visitan": [
+[
+"visitar",
+"verb",
+"to visit"
+]
+],
+"visitante": [
+[
+"el visitante",
+"noun",
+"visitor"
+]
+],
+"vista": [
+[
+"la vista",
+"noun",
+"gaze, sight"
+]
+],
+"vistas": [
+[
+"la vista",
+"noun",
+"view"
+]
+],
+"vistió": [
+[
+"vestirse",
+"verb",
+"to get dressed"
+]
+],
+"visto": [
+[
+"ver",
+"verb",
+"to see"
+]
+],
+"vitrina": [
+[
+"la vitrina",
+"noun",
+"display case"
+]
+],
+"viva": [
+[
+"vivo",
+"adj",
+"alive"
+]
+],
+"vive": [
+[
+"vivir",
+"verb",
+"to live"
+]
+],
+"viven": [
+[
+"vivir",
+"verb",
+"to live"
+]
+],
+"vives": [
+[
+"vivir",
+"verb",
+"to live"
+]
+],
+"vivido": [
+[
+"vivir",
+"verb",
+"to live"
+]
+],
+"vivir": [
+[
+"vivir",
+"verb",
+"to live"
+]
+],
+"vivo": [
+[
+"vivir",
+"verb",
+"to live"
+]
+],
+"vivía": [
+[
+"vivir",
+"verb",
+"to live"
+]
+],
+"vivían": [
+[
+"vivir",
+"verb",
+"to live"
+]
+],
+"viña": [
+[
+"la viña",
+"noun",
+"vineyard",
+"?"
+]
+],
+"vocación": [
+[
+"la vocación",
+"noun",
+"vocation, calling"
+]
+],
+"voluntaria": [
+[
+"la voluntaria",
+"noun",
+"volunteer"
+]
+],
+"voluntario": [
+[
+"voluntario",
+"adj",
+"voluntary"
+]
+],
+"volver": [
+[
+"volver",
+"verb",
+"to return, to go back"
+]
+],
+"volvería": [
+[
+"volver",
+"verb",
+"to return"
+]
+],
+"volviera": [
+[
+"volver",
+"verb",
+"to come back"
+]
+],
+"volvieron": [
+[
+"volverse",
+"verb",
+"to become"
+]
+],
+"volvió": [
+[
+"volver",
+"verb",
+"to return"
+]
+],
+"votación": [
+[
+"la votación",
+"noun",
+"vote"
+]
+],
+"votado": [
+[
+"votar",
+"verb",
+"to vote"
+]
+],
+"votar": [
+[
+"votar",
+"verb",
+"to vote"
+]
+],
+"voto": [
+[
+"el voto",
+"noun",
+"vote"
+]
+],
+"voy": [
+[
+"ir",
+"verb",
+"to go"
+]
+],
+"voz": [
+[
+"la voz",
+"noun",
+"voice"
+]
+],
+"vueltas": [
+[
+"la vuelta",
+"noun",
+"turn"
+]
+],
+"vuelto": [
+[
+"volver",
+"verb",
+"to return"
+]
+],
+"vuelva": [
+[
+"volver",
+"verb",
+"to return"
+]
+],
+"vuelve": [
+[
+"volver",
+"verb",
+"to return"
+]
+],
+"víctima": [
+[
+"la víctima",
+"noun",
+"victim"
+]
+],
+"víspera": [
+[
+"la víspera",
+"noun",
+"eve"
+]
+],
+"walter": [
+[
+"Walter",
+"name",
+"boy's name"
+]
+],
+"whitcombe": [
+[
+"Whitcombe",
+"name",
+"surname"
+]
+],
+"wilmer": [
+[
+"Wilmer",
+"name",
+"boy's name"
+]
+],
+"with": [
+[
+"with",
+"other",
+"English word: with"
+]
+],
+"ximena": [
+[
+"Ximena",
+"name",
+"girl's name"
+]
+],
+"xix": [
+[
+"XIX",
+"num",
+"nineteenth (Roman numeral)"
+]
+],
+"y": [
+[
+"y",
+"conj",
+"and"
+]
+],
+"ya": [
+[
+"ya",
+"adv",
+"already, now"
+]
+],
+"yendo": [
+[
+"ir",
+"verb",
+"to go"
+]
+],
+"yo": [
+[
+"yo",
+"pron",
+"I"
+]
+],
+"york": [
+[
+"York",
+"name",
+"part of New York"
+]
+],
+"zapatos": [
+[
+"el zapato",
+"noun",
+"shoe"
+]
+],
+"áncora": [
+[
+"el áncora",
+"noun",
+"anchor, escapement"
+]
+],
+"árbitro": [
+[
+"el árbitro",
+"noun",
+"referee"
+]
+],
+"árboles": [
+[
+"el árbol",
+"noun",
+"tree"
+]
+],
+"él": [
+[
+"él",
+"pron",
+"he, him"
+]
+],
+"épica": [
+[
+"épico",
+"adj",
+"epic"
+]
+],
+"época": [
+[
+"la época",
+"noun",
+"season, period"
+]
+],
+"éramos": [
+[
+"ser",
+"verb",
+"to be"
+]
+],
+"órdenes": [
+[
+"la orden",
+"noun",
+"order, command"
+]
+],
+"última": [
+[
+"último",
+"adj",
+"last"
+]
+],
+"último": [
+[
+"último",
+"adj",
+"last"
+]
+],
+"últimos": [
+[
+"último",
+"adj",
+"last"
+]
+],
+"única": [
+[
+"único",
+"adj",
+"only, unique"
+]
+],
+"únicamente": [
+[
+"únicamente",
+"adv",
+"only"
+]
+],
+"único": [
+[
+"único",
+"adj",
+"only, unique"
+]
+],
+"útil": [
+[
+"útil",
+"adj",
+"useful"
+]
+]
+}

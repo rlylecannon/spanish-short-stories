@@ -1,0 +1,362 @@
+lookup.js | spelling-change verb
+lookup.js | (best guess: not in this story’s word list)
+lookup.js | That doesn’t look like a Spanish verb. Try the form ending in -ar, -er or -ir, such as hablar.
+lookup.js | Regular with spelling changes
+speak.js | The microphone is blocked here. Allow it in your browser (lock icon in the address bar) and in your system privacy settings. You can still listen and tap replies.
+speak.js | I did not hear anything. Tap the mic and try again.
+speak.js | Speech recognition needs an internet connection.
+speak.js | No microphone found.
+speak.js | Speech recognition did not start (
+speak.js | ¡Buenos días! Soy Roberto. Hoy yo preparo el desayuno. ¿Tienes hambre?
+speak.js | Good morning! I’m Roberto. Today I’m making breakfast. Are you hungry?
+speak.js | No, no tengo hambre.
+speak.js | No, I’m not hungry.
+speak.js | ¡Muy bien! Hay café, huevos, pan y leche. ¿Qué quieres?
+speak.js | Great! There is coffee, eggs, bread and milk. What do you want?
+speak.js | Quiero café, por favor.
+speak.js | I want coffee, please.
+speak.js | Quiero huevos y pan.
+speak.js | I want eggs and bread.
+speak.js | ¿No tienes hambre? Pero hay un olor muy bueno. ¿Quieres un café?
+speak.js | You’re not hungry? But there is a very nice smell. Do you want a coffee?
+speak.js | Sí, quiero un café.
+speak.js | ¡Perfecto! Aquí tienes. El desayuno está en la mesa. ¿Está rico?
+speak.js | Perfect! Here you go. Breakfast is on the table. Is it tasty?
+speak.js | Sí, está muy rico.
+speak.js | Yes, it’s very tasty.
+speak.js | Thank you, Roberto.
+speak.js | ¡Gracias a ti! Mamá está cansada, pero ahora sonríe. ¡Buen día!
+speak.js | Thanks to you! Mom is tired, but now she’s smiling. Have a good day!
+speak.js | Hi! My name is …. How are you?
+speak.js | Estoy bien, gracias.
+speak.js | Estoy muy contento.
+speak.js | Me gusta leer cuentos en español. ¿Y a ti?
+speak.js | I like reading stories in Spanish. And you?
+speak.js | Sí, me gusta mucho.
+speak.js | Yes, I like it a lot.
+speak.js | I like it a little.
+speak.js | ¿Qué hay en la historia de hoy?
+speak.js | What is in today’s story?
+speak.js | There is a family.
+speak.js | There is a lot of food.
+speak.js | I don’t know. I’m going to read.
+speak.js | ¡Muy bien! Hablas muy bien español. ¡Hasta luego!
+speak.js | Very good! You speak Spanish very well. See you later!
+speak.js | Tell what happened in the story in 2–3 simple sentences.
+speak.js | Retell the story in your own words. Aim for 30–60 seconds.
+speak.js | Retell the story and explain what it shows about its characters and setting. Aim for about a minute and a half.
+speak.js | Retell the story, then give your reading of what it implies. Aim for two minutes.
+speak.js | Summarize the story, then say what you think about it. Aim for about a minute.
+speak.js | Note: this device has no
+speak.js | Spanish voice, so the voice may sound slightly different. Install one in your system settings for a more natural voice.
+speak.js | Tip: use headphones, speak clearly, and allow the microphone when your browser asks.
+speak.js | Your browser does not support voice recognition (try Chrome, Edge or Safari). You can still listen and tap replies.
+speak.js | … ✓ You read all … … aloud. Read again
+speak.js | : tap Say it , read, then tap Stop
+speak.js | Tap to hear this word
+speak.js | Almost. Listen, then try again.
+speak.js | All words matched. Nice! Tap › for the next one.
+speak.js | Feedback is not available right now. Try again in a moment.
+speak.js | Listening… tap Stop when you finish.
+speak.js | … … … … … Hear again
+speak.js | ¡Muy bien! You finished the conversation. Start over
+speak.js | ”. Try saying one of the answers above.
+speak.js | Have a short conversation with
+speak.js | Hola. ¿Qué te gusta de la historia?
+speak.js | Hi. What do you like about the story?
+speak.js | A friendly character from the story.
+speak.js | Conversation so far:
+speak.js | ✓ Goal complete. ¡Muy bien!
+speak.js | Too many messages. Wait a moment and try again.
+speak.js | Chat needs your permission. Reload and choose Allow when asked.
+speak.js | did not reply. Send your message again, or use the scripted Role-play tab.
+notebook.js | In your notebook (tap to remove)
+notebook.js | ✓ Grammar note saved
+notebook.js | ＋ Save grammar note
+notebook.js | Removed from notebook
+notebook.js | Grammar note saved
+notebook.js | ” to your notebook
+notebook.js | Let’s try the ones you missed once more.
+notebook.js | … Type the Spanish word … Check I don’t know
+notebook.js | … Fill in the missing word … … Check I don’t know
+notebook.js | … / …… … End session
+notebook.js | 🎉 Session done You reviewed … cards and got … right. Cards you know come back later. Cards you miss come back sooner. Back to notebook
+notebook.js | 📓 Your notebook is empty It fills up as you read. There are three ways to add things yourself: Words: tap a bold word in a story, then “Save word”. Sentences: tap any sentence, then “Save sentence”. Great for learning sentence structure. Grammar: open “Key Spanish concepts” and save the grammar note. Missed flashcards are added automatically. Your notebook is saved on this device only.
+notebook.js | Nothing saved yet.
+notebook.js | Press Ctrl/Cmd+C to copy the selected text.
+conj.js | pensar cerrar empezar comenzar despertar sentar recomendar atravesar confesar negar regar acertar calentar temblar apretar gobernar nevar fregar segar sembrar tropezar tentar mentar serrar helar merendar manifestar plegar quebrar renegar enterrar enmendar entender perder querer defender encender atender extender descender ascender tender contender cegar sentir preferir mentir divertir convertir advertir sugerir herir hervir referir transferir invertir requerir consentir arrepentir discernir diferir inferir conferir interferir
+conj.js | contar costar encontrar mostrar probar recordar volar sonar soñar rodar rogar colgar forzar almorzar acordar acostar apostar aprobar comprobar demostrar renovar tostar volcar torcer cocer mover poder volver devolver envolver resolver disolver doler llover morder soler dormir morir soltar esforzar avergonzar trocar degollar holgar amoblar engrosar consolar
+conj.js | pedir servir seguir repetir elegir vestir medir competir conseguir corregir despedir impedir perseguir reñir teñir gemir concebir derretir rendir proseguir regir expedir embestir ceñir constreñir freír
+conj.js | enviar guiar confiar fiar esquiar variar vaciar enfriar ampliar criar resfriar espiar liar desviar extraviar fotografiar contrariar ansiar rociar repatriar expatriar aliar porfiar desafiar amnistiar vaciar telegrafiar
+conj.js | continuar actuar graduar situar efectuar acentuar evaluar insinuar habituar puntuar valuar redituar atenuar fluctuar devaluar conceptuar
+conj.js | mecer remecer cocer recocer escocer
+conj.js | Completely irregular: ser is one of the most irregular verbs in Spanish.
+conj.js | Completely irregular. The preterite of ir is identical to the preterite of ser.
+conj.js | Irregular yo form (estoy), written accents on most present forms, and the irregular preterite stem estuv-.
+conj.js | Irregular yo form (doy) and an -er/-ir style preterite (di, diste, dio…).
+conj.js | Auxiliary verb for the perfect tenses (he comido). Irregular present, preterite stem hub-, future stem habr-.
+conj.js | Irregular yo form (sé), preterite stem sup-, future stem sabr-, subjunctive stem sep-.
+conj.js | Irregular yo form (quepo), preterite stem cup-, future stem cabr-.
+conj.js | Irregular preterite stem pud-, future stem podr-, and the gerund pudiendo.
+conj.js | Irregular preterite stem quis-, future stem querr-.
+conj.js | Irregular preterite stem anduv-.
+conj.js | Irregular yo form (tengo), preterite stem tuv-, future stem tendr-, irregular tú command (ten).
+conj.js | Irregular yo form (vengo), preterite stem vin-, future stem vendr-, irregular tú command (ven).
+conj.js | Irregular yo form (pongo), preterite stem pus-, future stem pondr-, participle puesto.
+conj.js | Irregular yo form (hago), irregular preterite (hice, hizo…), future stem har-, participle hecho.
+conj.js | Like decir in the present and preterite, but regular in the future, conditional, command and participle.
+conj.js | Stem change e → i, irregular yo form (digo), preterite stem dij-, future stem dir-, participle dicho.
+conj.js | Irregular yo form (salgo), future stem saldr-, irregular tú command (sal).
+conj.js | Irregular yo form (valgo) and future stem valdr-.
+conj.js | Irregular yo form (traigo), preterite stem traj-, gerund trayendo.
+conj.js | Irregular yo form (veo), irregular imperfect (veía…), participle visto.
+conj.js | Irregular yo form (oigo), y in several forms (oyes, oyó, oyendo), accents on oí, oíste, oímos.
+conj.js | Stem change e → i with written accents (río, ríes…).
+conj.js | Verbs in -ducir: irregular yo form (-zco), preterite stem -duj-.
+conj.js | Irregular yo form (asgo).
+conj.js | Conditional perfect
+conj.js | Present subjunctive
+conj.js | Imperfect subjunctive
+conj.js | Present perfect subjunctive
+conj.js | Pluperfect subjunctive
+conj.js | Stem change …: the vowel in the stem changes when it is stressed (yo, tú, él/ella/usted, ellos).
+conj.js | Because it is an -ir verb, the stem also changes to … in the él/ellos preterite, the gerund and the nosotros/vosotros subjunctive.
+conj.js | Irregular yo form: -zco (also used in the whole present subjunctive).
+conj.js | Spelling change: c → qu before e (to keep the k sound), e.g. yo form of the preterite.
+conj.js | Spelling change: g → gu before e (to keep the hard g sound).
+conj.js | Spelling change: z → c before e.
+conj.js | Spelling change: gu → gü before e (so the u is pronounced).
+conj.js | Spelling change: g → j before o and a (to keep the soft Spanish j sound).
+conj.js | Spelling change: gu → g before o and a.
+conj.js | Spelling change: c → z before o and a.
+conj.js | -uir verbs add a y before a, e, o (construyo) and change i → y between vowels (construyó, construyendo).
+conj.js | Written accent on the í/ú in the yo, tú, él and ellos forms of the present (envío, continúo).
+conj.js | i → y between vowels (leyó, leyeron, leyendo), with a written accent on leí, leíste…
+conj.js | The i of -ió / -ieron / -iendo is dropped after ñ and ll (tañó, bulleron).
+conj.js | Irregular participle: ….
+conj.js | Present (impersonal “there is / there are”)
+conj.js | Imperfect subjunctive (-se form)
+progress.js | Welcome! You are just starting out, and that is the perfect place to begin. Our first story uses very simple Spanish with an English line under every sentence, so turn on the translations and the audio.
+progress.js | Nice work! You know the Spanish basics: present tense, ser and estar, numbers and time. Start with our A1 stories to build speed and vocabulary.
+progress.js | You have some of the basics, and a few gaps are normal. Start at A1 and use the grammar notes under each story.
+progress.js | Great! You can handle everyday Spanish and you are ready for stories told in the past. Begin with A2.
+progress.js | You are between A1 and A2. Try the first A2 story. If it feels hard, go back to a few A1 stories first.
+progress.js | Impressive! You can follow real narratives with different tenses and the subjunctive. B1 stories will stretch you just enough.
+progress.js | You are close to B1. Start the first B1 story with translations on, and check the grammar notes when a structure feels new.
+progress.js | Excellent! You are reading at an upper-intermediate level and picking up tone and implication. Jump into the B2 stories.
+progress.js | You are close to B2. Start with the first B2 story and use the grammar notes when a structure feels new.
+progress.js | Outstanding! You read demanding texts, follow shifts of register and catch implied meaning. The C1 stories will challenge you with real documents, regional voices and layered plots.
+progress.js | You are close to C1. Begin with the first C1 story, keep the translation handy, and check the grammar notes after each story.
+progress.js | Exceptional! You handle literary, legal and journalistic Spanish, irony and dialect. The C2 stories are written for you.
+progress.js | Saved on this device
+progress.js | Synced to your Claude account
+progress.js | Saved on this device (sync unavailable)
+progress.js | What should we call you? (optional, saved on your device…) Save
+progress.js | A short quiz is only a guide, and some days go differently. Your story work matters more.
+progress.js | ✓ Level checkpoint reached
+progress.js | Checkpoint: read … stories with a …% quiz average
+warmup.js | Notice patterns, don’t memorize words
+warmup.js | You do not need to cram lists. Spanish and English share thousands of word roots, and Spanish follows regular patterns. Your job is to notice the pattern, then rebuild the word in your head.
+warmup.js | Look for pieces you recognize
+warmup.js | When you meet a word you do not know, scan its spelling for a familiar beginning or ending. “Importante” starts like “important”. “Información” ends like “-ation”. Then check the words around it for clues.
+warmup.js | looks like: important
+warmup.js | looks like: information
+warmup.js | Smart guessing is a skill
+warmup.js | Guessing from clues is a real language skill, not cheating. Strong readers do it all the time. Try it now.
+warmup.js | What do you think “importante” means?
+warmup.js | Yes. You just read a Spanish word you had never studied.
+warmup.js | Right. The spelling and the context did the work.
+warmup.js | Vowels: five pure sounds
+warmup.js | Five vowels, five steady sounds
+warmup.js | Spanish has five vowel sounds and each one never changes. Say them short, clean and steady. Try the pad first, then tap each word below to hear it. You will also see marks over some letters, like the one in sí. Unit 3 explains what they do.
+warmup.js | Say every vowel fully
+warmup.js | In English, a vowel in a weak syllable gets muffled into a short “uh”. Spanish never does this. Every vowel is pronounced in full, even in syllables that are not stressed.
+warmup.js | English muffles it: AN-uh-mul. Spanish: a-ni-MAL, with a full “ah”, “ee” and “ah”.
+warmup.js | English: NOR-mul. Spanish: nor-MAL, with a full “ah” at the end.
+warmup.js | Say it: every vowel clear.
+warmup.js | Say it: a-ni-MAL, every vowel in full.
+warmup.js | How many different sounds can the letter “a” make in Spanish?
+warmup.js | It depends on the stress
+warmup.js | Spanish vowels never change.
+warmup.js | Which way is “normal” said in Spanish?
+warmup.js | nor-MAL, with a full “ah” at the end
+warmup.js | NOR-mul, with a muffled “uh” at the end
+warmup.js | Yes. Spanish pronounces the last vowel in full.
+warmup.js | One vowel can change the meaning
+warmup.js | Because vowels are steady, a single vowel can carry meaning: it can show gender or who is doing the action (he or she).
+warmup.js | Which one means “she speaks”?
+warmup.js | The ending -a points to he or she.
+warmup.js | Which one means “girl”?
+warmup.js | The vowel -a often marks the feminine.
+warmup.js | Stress and accent marks
+warmup.js | If a word ends in a vowel, -n or -s, the stress falls on the second-to-last syllable.
+warmup.js | Rule 2: any other consonant
+warmup.js | If a word ends in any other consonant, the stress falls on the last syllable.
+warmup.js | It ends in a vowel, so the stress is on the second-to-last syllable: CA-sa.
+warmup.js | It ends in n, so HA-blan.
+warmup.js | It ends in d, so the stress is on the last syllable: ciu-DAD.
+warmup.js | It ends in l, so ho-TEL.
+warmup.js | It ends in r, so ha-BLAR.
+warmup.js | It ends in n, so OR-den.
+warmup.js | The accent mark shows an exception
+warmup.js | If a word does not follow the rule, it wears an accent mark, and you stress that vowel. The mark is a map for your voice.
+warmup.js | Why does “canción” need an accent mark?
+warmup.js | Its stress is on the last syllable, which breaks the rule for words ending in n
+warmup.js | Because it is a noun
+warmup.js | Because it is long
+warmup.js | Yes. Without the mark you would say CAN-cion.
+warmup.js | Where is the stress in “teléfono”?
+warmup.js | The accent mark tells you: te-LÉ-fo-no.
+warmup.js | Does “hotel” need an accent mark?
+warmup.js | No: it ends in l, so stress on the last syllable is natural
+warmup.js | No mark is needed, because the stress already follows the rule.
+warmup.js | Accent marks have other jobs
+warmup.js | Besides showing stress, an accent mark can tell two look-alike words apart, and it marks question words.
+warmup.js | Which one means “he”?
+warmup.js | Yes. “Él” with the mark means he. “El” without it means the.
+warmup.js | Which one means “yes”?
+warmup.js | Yes. “Sí” with the mark means yes. “Si” without it means if.
+warmup.js | Say it with the stress on lé.
+warmup.js | Say it with the stress on the last syllable.
+warmup.js | Pick any Spanish word you know and tell me where the stress goes. I will tell you if it needs an accent mark.
+warmup.js | stress rules and accent marks
+warmup.js | Words ending in a vowel, n or s are stressed on the second-to-last syllable. Words ending in any other consonant are stressed on the last syllable. A written accent mark shows that the word breaks the rule and marks the stressed vowel.
+warmup.js | Word keys 1: -ción, -dad, -encia
+warmup.js | You already know thousands of words
+warmup.js | English -tion becomes Spanish -ción. These nouns are all feminine: la nación, la acción.
+warmup.js | station (an e is added in front)
+warmup.js | Spanish for “action”?
+warmup.js | Change -tion to -ción.
+warmup.js | Spanish for “tradition”?
+warmup.js | Spanish for “education”?
+warmup.js | Spanish for “situation”?
+warmup.js | English -ty becomes -dad. These nouns are feminine too.
+warmup.js | Spanish for “community”?
+warmup.js | Spanish for “identity”?
+warmup.js | Spanish for “activity”?
+warmup.js | -ence and -ance become -encia and -ancia
+warmup.js | Swap the final -e for -ia. These are feminine as well.
+warmup.js | Spanish for “experience”?
+warmup.js | Change -ence to -encia.
+warmup.js | Spanish for “tolerance”?
+warmup.js | Change -ance to -ancia.
+warmup.js | Which is right? ___ diferencia
+warmup.js | These nouns are feminine: la diferencia.
+warmup.js | Which is right? ___ ciudad
+warmup.js | Nouns ending in -dad are feminine: la ciudad.
+warmup.js | Say it: in-for-ma-CIÓN.
+warmup.js | Give me an English word ending in -tion, -ty or -ence, and tell me how you would say it in Spanish. I will check it.
+warmup.js | turning English -tion, -ty, -ence/-ance into Spanish -ción, -dad, -encia/-ancia
+warmup.js | English -tion becomes -ción. English -ty becomes -dad. English -ence or -ance becomes -encia or -ancia. These nouns are all feminine (la). Sometimes a double letter becomes a single letter, and sometimes an e is added in front (station becomes estación).
+warmup.js | Word keys 2: -al, -ible, -ico, false friends
+warmup.js | -al stays the same
+warmup.js | Words ending in -al keep their spelling. Say them with the stress on the last syllable.
+warmup.js | -ible and -able keep their endings
+warmup.js | They keep the ending. Double letters often become single.
+warmup.js | possible: only one s
+warmup.js | -ic and -ical become -ico and -ica
+warmup.js | Use -ico for masculine and -ica for feminine. An accent mark often appears, to keep the English stress.
+warmup.js | Spanish for “possible”?
+warmup.js | Yes: posible, with one s.
+warmup.js | Keep the ending, but drop one s.
+warmup.js | Spanish for “romantic”?
+warmup.js | Spanish for “electric”?
+warmup.js | Spanish for “normal”?
+warmup.js | Yes: normal. Nothing changes.
+warmup.js | It keeps its spelling.
+warmup.js | Careful: false friends
+warmup.js | A few words look similar but mean something different. Learn these early.
+warmup.js | pregnant (not embarrassed)
+warmup.js | currently (not actually)
+warmup.js | bookstore (not library: biblioteca)
+warmup.js | success (not exit: salida)
+warmup.js | sensitive (not sensible: sensato)
+warmup.js | folder (not carpet: alfombra)
+warmup.js | You see “librería”. What is it?
+warmup.js | A library is una biblioteca.
+warmup.js | The exit is la salida.
+warmup.js | For “actually” say en realidad.
+warmup.js | A carpet is una alfombra.
+warmup.js | Try me: give me an English word ending in -al, -ible or -ic, and tell me its Spanish form. Or ask about a false friend.
+warmup.js | words that look alike in English and Spanish (-al, -ible/-able, -ic endings), and false friends
+warmup.js | Verb anatomy 1: the infinitive and -o
+warmup.js | Verb anatomy 2: he, she, they, we, you
+warmup.js | Hook words: quiero, puedo, tengo que, voy a
+warmup.js | Pronoun ping-pong: lo, la, me, te
+warmup.js | The opposite vowel: commands
+warmup.js | The opposite vowel: the subjunctive
+warmup.js | btn ghost sm wu-skip
+warmup.js | You are all caught up. …
+warmup.js | ‹ All units … · … / …
+warmup.js | I could not hear that. Check your microphone, or just say it aloud.
+warmup.js | ✓ Clear and steady. That is
+warmup.js | ”. Listen again, keep the sound short and steady, and retry.
+warmup.js | Your tutor is thinking…
+warmup.js | Reply as the tutor now. JSON only.
+warmup.js | card wu-panel wu-page
+app.js | Dominican Republic
+app.js | … Culture corner · …… …
+app.js | Present tense, everyday words, very short sentences.
+app.js | Past tenses and short stories about what happened.
+app.js | Longer stories, subjunctive basics, opinions and feelings.
+app.js | Complex sentences, nuance, idioms and implied meaning.
+app.js | Long, layered texts, formal and informal registers, regional voices and implied meaning.
+app.js | Literary, legal and journalistic registers, irony, ellipsis and the finest shades of meaning.
+app.js | Your browser has not listed a Spanish voice yet, so it uses its default voice. Check again You can also install a Spanish voice in your system settings.
+app.js | Use the player to play, pause and jump. Tap any sentence to start from there.
+app.js | Audio isn’t supported in this browser.
+app.js | No stories match your search.
+app.js | Mi amigo se llama…
+app.js | Cuando era niño/a…
+app.js | Mi día favorito fue…
+app.js | Si hubiera sabido…
+app.js | Lo que me llamó la atención fue…
+app.js | De no haber sido por…
+app.js | Lo que ocurrió fue que…
+app.js | Habría que preguntarse si…
+app.js | Ni que decir tiene que…
+app.js | there is are a an the and or of to it in on he she they we you i my your his her have has be am was were do does not no yes that this one two for with at by from
+app.js | Perfect score! Great work.
+app.js | Good start. Check the answers below.
+app.js | Keep going! Review the answers below and try again.
+app.js | Comprehension retry
+app.js | Retrying what you missed
+app.js | Retry what you missed Save
+app.js | missed to your notebook
+app.js | Retry comprehension
+app.js | Practice weak spots
+app.js | Already in your notebook
+app.js | … Tap the card to see the rule
+app.js | : 'All cards correct!') :
+app.js | Draft saved on this device
+app.js | Tap again to clear
+app.js | Write a few sentences first, then check them. Try a sentence starter on the left.
+app.js | You wrote … sentences. Goal reached.
+app.js | Try to write at least … sentences (you have …).
+app.js | You used … words from the story. Nice work reusing them!
+app.js | Use at least … words from the word bank (you used …).
+app.js | Spanish questions need both ¿ and ?. Check your question marks.
+app.js | Exclamations need both ¡ and !. Check your exclamation marks.
+app.js | Start each sentence with a capital letter.
+app.js | End your last sentence with punctuation (. ? !).
+app.js | Accent check: “…” is usually written “…”.
+app.js | You used “…” … times. Can you vary it?
+app.js | Try joining two ideas with a connector such as “porque”, “pero” or “cuando”.
+app.js | Words you could still use: ….
+app.js | Great job! No common mistakes found. Read it aloud with “Hear it”, then post it below.
+app.js | Quick check (an automatic check for common issues, not a full grammar review)
+app.js | Write a few sentences first, then ask for feedback.
+app.js | Reading your writing…
+app.js | Too many requests. Wait a moment and try again.
+app.js | Detailed feedback isn’t available right now. “Check my writing” still works.
+app.js | No answers yet. Write one above and post it.
+app.js | Posted to the board below
+app.js | Stories first. Fluency follows. – Free Spanish short stories
+app.js | – Free Spanish Stories
+app.js | Warm up – Free Spanish Stories
+build_site.py | Assemble the free Spanish stories site. usage: build_site.py OUT_DIR (writes OUT_DIR/index.html)
+build_site.py | Upper intermediate
+build_site.py | 60 free Spanish short stories from A1 to C2 with audio, translation, quizzes, flashcards, writing practice and free PDFs.
+build_site.py | Attributed to Frederick Douglass
+build_site.py | If you are signed in to Claude, your progress also follows you across devices.
+build_site.py | Free Spanish Stories

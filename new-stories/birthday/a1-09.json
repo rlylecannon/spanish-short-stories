@@ -1,0 +1,576 @@
+{
+ "story": {
+  "id": "a1-09",
+  "level": "A1",
+  "title": "Una llamada de viernes",
+  "titleEn": "A Friday Phone Call",
+  "teaser": "Marta thinks her weekend is going to be quiet and lonely, until her phone rings.",
+  "emoji": "📞",
+  "lines": [
+   [
+    "Es viernes por la tarde y <b>suena</b> el <b>teléfono</b>.",
+    "It is Friday afternoon and the phone rings."
+   ],
+   [
+    "Marta mira la <b>pantalla</b> y sonríe.",
+    "Marta looks at the screen and smiles."
+   ],
+   [
+    "Es su amigo Javier, de Madrid.",
+    "It is her friend Javier, from Madrid."
+   ],
+   [
+    "—¡Hola, Marta! ¿Qué tal estás?",
+    "\"Hi, Marta! How are you?\""
+   ],
+   [
+    "—Hola, Javier. Estoy bien, pero un poco triste.",
+    "\"Hi, Javier. I'm fine, but a little sad.\""
+   ],
+   [
+    "—¿Por qué estás triste? —pregunta él.",
+    "\"Why are you sad?\" he asks."
+   ],
+   [
+    "—Este <b>fin de semana</b> no tengo planes y voy a estar sola.",
+    "\"This weekend I have no plans and I'm going to be alone.\""
+   ],
+   [
+    "—¿Sola? ¿Y tu <b>familia</b>?",
+    "\"Alone? What about your family?\""
+   ],
+   [
+    "—Mi familia vive <b>lejos</b> y mis amigas trabajan.",
+    "\"My family lives far away and my friends are working.\""
+   ],
+   [
+    "—Entonces, ¿qué vas a hacer el sábado?",
+    "\"So, what are you going to do on Saturday?\""
+   ],
+   [
+    "—Voy a <b>cocinar</b> una <b>tortilla</b> y ver una <b>película</b>.",
+    "\"I'm going to cook a tortilla and watch a movie.\""
+   ],
+   [
+    "—Suena <b>aburrido</b> —dice Javier con una sonrisa.",
+    "\"That sounds boring,\" says Javier with a smile."
+   ],
+   [
+    "—Sí, un poco —contesta ella.",
+    "\"Yes, a little,\" she answers."
+   ],
+   [
+    "—Marta, ¿tienes pan y <b>queso</b> en casa?",
+    "\"Marta, do you have bread and cheese at home?\""
+   ],
+   [
+    "—Sí, tengo un poco. ¿Por qué?",
+    "\"Yes, I have a little. Why?\""
+   ],
+   [
+    "—Porque voy a comer contigo el sábado.",
+    "\"Because I'm going to eat with you on Saturday.\""
+   ],
+   [
+    "—¿Qué dices? ¡Tú vives en Madrid!",
+    "\"What are you saying? You live in Madrid!\""
+   ],
+   [
+    "—Sí, pero ahora estoy en Sevilla, <b>delante de</b> tu <b>edificio</b>.",
+    "\"Yes, but right now I'm in Seville, in front of your building.\""
+   ],
+   [
+    "Marta corre a la <b>ventana</b> y ve a Javier.",
+    "Marta runs to the window and sees Javier."
+   ],
+   [
+    "Él tiene una <b>maleta</b> y unas <b>flores</b> en las manos.",
+    "He has a suitcase and some flowers in his hands."
+   ],
+   [
+    "—¡Sorpresa! Voy a pasar el fin de semana aquí —dice.",
+    "\"Surprise! I'm going to spend the weekend here,\" he says."
+   ],
+   [
+    "Ella se ríe y baja a abrir la puerta.",
+    "She laughs and goes down to open the door."
+   ],
+   [
+    "El sábado no va a estar sola.",
+    "On Saturday she is not going to be alone."
+   ]
+  ],
+  "vocab": [
+   [
+    "el teléfono",
+    "phone"
+   ],
+   [
+    "sonar",
+    "to ring; to sound"
+   ],
+   [
+    "el fin de semana",
+    "weekend"
+   ],
+   [
+    "la familia",
+    "family"
+   ],
+   [
+    "lejos",
+    "far away"
+   ],
+   [
+    "cocinar",
+    "to cook"
+   ],
+   [
+    "la tortilla",
+    "Spanish omelet (egg and potato)"
+   ],
+   [
+    "el queso",
+    "cheese"
+   ],
+   [
+    "el edificio",
+    "building"
+   ],
+   [
+    "la ventana",
+    "window"
+   ],
+   [
+    "la maleta",
+    "suitcase"
+   ],
+   [
+    "la flor (las flores)",
+    "flower"
+   ],
+   [
+    "la puerta",
+    "door"
+   ],
+   [
+    "el viernes",
+    "Friday"
+   ],
+   [
+    "la pantalla",
+    "screen"
+   ],
+   [
+    "la película",
+    "movie"
+   ],
+   [
+    "aburrido",
+    "boring"
+   ],
+   [
+    "delante de",
+    "in front of"
+   ]
+  ],
+  "quiz": [
+   {
+    "q": "¿Qué día llama Javier?",
+    "options": [
+     "El sábado",
+     "El domingo",
+     "El viernes",
+     "El lunes"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "¿Por qué Marta está triste?",
+    "options": [
+     "Va a estar sola el fin de semana",
+     "No tiene teléfono",
+     "Javier no vive en Madrid",
+     "No tiene pan"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "¿Qué va a hacer Marta el sábado?",
+    "options": [
+     "Ir a Madrid",
+     "Ver una película y cocinar",
+     "Trabajar con sus amigas",
+     "Comer con su familia"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "¿Dónde está Javier cuando llama?",
+    "options": [
+     "En Madrid",
+     "En su casa",
+     "En la cocina de Marta",
+     "Delante del edificio de Marta"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "¿Qué lleva Javier en las manos?",
+    "options": [
+     "Una maleta y unas flores",
+     "Pan y queso",
+     "Una tortilla",
+     "Un teléfono nuevo"
+    ],
+    "answer": 0
+   }
+  ],
+  "prompt": "Imagine you call a friend. Write a short dialogue in Spanish: ask what your friend is going to do on Saturday and answer with ir a + infinitive (for example: —¿Qué vas a hacer el sábado? —Voy a ver una película. ¿Y tú?).",
+  "concepts": {
+   "grammar": "ir a + infinitive for near plans (voy a cocinar, vas a hacer); time expressions: el sábado, ahora, mañana.",
+   "vocabulary": "Phone, weekend and food words: teléfono, fin de semana, tortilla, queso, maleta.",
+   "skills": "Following a two-speaker dialogue; talking about plans for the weekend."
+  }
+ },
+ "grammar": [
+  {
+   "topic": "Ir a + infinitive: the near future",
+   "explain": "'Ir a' + infinitive talks about the future, like English 'going to': voy a cocinar, vas a hacer, va a estar. Pattern: voy/vas/va/vamos/van + a + infinitive. Watch out: don't drop the 'a' ('vas hacer' is wrong), and don't conjugate the second verb ('vas a haces' is wrong).",
+   "examples": [
+    [
+     "—Este fin de semana no tengo planes y voy a estar sola.",
+     "\"This weekend I have no plans and I'm going to be alone.\""
+    ],
+    [
+     "—Entonces, ¿qué vas a hacer el sábado?",
+     "\"So, what are you going to do on Saturday?\""
+    ],
+    [
+     "—Voy a cocinar una tortilla y ver una película.",
+     "\"I'm going to cook a tortilla and watch a movie.\""
+    ]
+   ]
+  },
+  {
+   "topic": "Question words",
+   "explain": "Question words carry a written accent: ¿qué? (what), ¿por qué? (why), ¿dónde? (where), ¿cómo? (how), ¿cuándo? (when), ¿quién? (who). Written questions open with ¿ and close with ?. '¿Qué tal estás?' = How are you? Watch out: '¿Qué dices?' literally asks 'What are you saying?', but often shows surprise, like 'What?!'",
+   "examples": [
+    [
+     "—¡Hola, Marta! ¿Qué tal estás?",
+     "\"Hi, Marta! How are you?\""
+    ],
+    [
+     "—¿Por qué estás triste? —pregunta él.",
+     "\"Why are you sad?\" he asks."
+    ],
+    [
+     "—¿Qué dices? ¡Tú vives en Madrid!",
+     "\"What are you saying? You live in Madrid!\""
+    ]
+   ]
+  },
+  {
+   "topic": "Ser for time, estar for feelings",
+   "explain": "Use 'ser' for the day and the time: Es viernes, Son las dos. Use 'estar' for how you feel and where you are: Estoy bien, Estoy en Sevilla. 'Estoy' is the 'I' form of estar. Watch out: 'I'm fine' is always 'Estoy bien'; 'Soy bien' is wrong.",
+   "examples": [
+    [
+     "Es viernes por la tarde y suena el teléfono.",
+     "It is Friday afternoon and the phone rings."
+    ],
+    [
+     "—Hola, Javier. Estoy bien, pero un poco triste.",
+     "\"Hi, Javier. I'm fine, but a little sad.\""
+    ],
+    [
+     "—Sí, pero ahora estoy en Sevilla, delante de tu edificio.",
+     "\"Yes, but right now I'm in Seville, in front of your building.\""
+    ]
+   ]
+  },
+  {
+   "topic": "El sábado: on Saturday",
+   "explain": "With days of the week, Spanish uses 'el' where English uses 'on': el sábado = on Saturday. 'Los sábados' = on Saturdays (every week). Days are written in lowercase. Watch out: don't add 'en': 'en el sábado' is wrong.",
+   "examples": [
+    [
+     "—Entonces, ¿qué vas a hacer el sábado?",
+     "\"So, what are you going to do on Saturday?\""
+    ],
+    [
+     "El sábado no va a estar sola.",
+     "On Saturday she is not going to be alone."
+    ],
+    [
+     "Los sábados como con mi familia.",
+     "On Saturdays I eat with my family."
+    ]
+   ]
+  }
+ ],
+ "gq": [
+  {
+   "topic": "Ir a + infinitive: the near future",
+   "q": "Which sentence means 'What are you going to do on Saturday?'",
+   "options": [
+    "¿Qué vas hacer el sábado?",
+    "¿Qué vas a hacer el sábado?",
+    "¿Qué haces a el sábado?",
+    "¿Qué vas a haces el sábado?"
+   ],
+   "answer": 1,
+   "why": "Ir + a + infinitive: vas a hacer. Don't drop 'a', and don't conjugate the second verb."
+  },
+  {
+   "topic": "Question words",
+   "q": "Marta answers: 'Estoy bien, pero un poco triste.' What did Javier ask?",
+   "options": [
+    "¿Qué vas a hacer?",
+    "¿Quién eres?",
+    "¿Dónde estás?",
+    "¿Qué tal estás?"
+   ],
+   "answer": 3,
+   "why": "'¿Qué tal estás?' (How are you?) asks how someone is, so 'Estoy bien' answers it. ¿Dónde? asks where; ¿Quién? asks who."
+  },
+  {
+   "topic": "Ser for time, estar for feelings",
+   "q": "Fill in the blank: Hoy ___ viernes y yo ___ bien.",
+   "options": [
+    "es / estoy",
+    "estoy / es",
+    "soy / estoy",
+    "es / soy"
+   ],
+   "answer": 0,
+   "why": "Ser gives the day (es viernes), and estar gives how you feel (estoy bien)."
+  },
+  {
+   "topic": "El sábado: on Saturday",
+   "q": "What does 'El sábado no va a estar sola' mean?",
+   "options": [
+    "The Saturday is not alone.",
+    "She was not alone on Saturday.",
+    "On Saturday she is not going to be alone.",
+    "She is alone on Saturdays."
+   ],
+   "answer": 2,
+   "why": "'El' before a day means 'on' (this one Saturday; 'los sábados' would be every Saturday), and 'va a estar' is the near future."
+  },
+  {
+   "topic": "Ir a + infinitive: the near future",
+   "q": "Complete: Mañana nosotros ___ cocinar una tortilla.",
+   "options": [
+    "vamos de",
+    "vamos",
+    "vamos a",
+    "van a"
+   ],
+   "answer": 2,
+   "why": "Near future = ir + a + infinitive; with nosotros: vamos a cocinar.",
+   "x": true
+  },
+  {
+   "topic": "Question words",
+   "q": "Complete: —¿___ vive tu familia? —Mi familia vive lejos.",
+   "options": [
+    "Dónde",
+    "Qué",
+    "Quién",
+    "Cuándo"
+   ],
+   "answer": 0,
+   "why": "The answer 'lejos' (far away) gives a place, so the question word is ¿Dónde? (where), with an accent.",
+   "x": true
+  },
+  {
+   "topic": "Ser for time, estar for feelings",
+   "q": "Which sentence is correct?",
+   "options": [
+    "Está viernes y soy en Sevilla.",
+    "Es viernes y soy en Sevilla.",
+    "Soy bien, gracias.",
+    "Es viernes y estoy en Sevilla."
+   ],
+   "answer": 3,
+   "why": "Day of the week → ser (es viernes). Where you are → estar (estoy en Sevilla). 'I'm fine' is 'Estoy bien'.",
+   "x": true
+  },
+  {
+   "topic": "El sábado: on Saturday",
+   "q": "Complete: ___ sábado voy a comer con Marta. (On Saturday…)",
+   "options": [
+    "En el",
+    "El",
+    "En",
+    "A el"
+   ],
+   "answer": 1,
+   "why": "Spanish uses just 'el' for 'on' with days: el sábado. 'En el sábado' is a typical English-speaker mistake.",
+   "x": true
+  }
+ ],
+ "dialogue": {
+  "steps": [
+   {
+    "say": "¡Hola! Soy Sofía. Es viernes y suena el teléfono. ¡Es mi amigo Javier!",
+    "en": "Hi! I'm Sofía. It's Friday and the phone rings. It's my friend Javier!",
+    "r": [
+     [
+      "Hola, Sofía. ¿Estás bien?",
+      "Hi, Sofía. Are you okay?",
+      1
+     ],
+     [
+      "¡Qué bien! Me gusta el teléfono.",
+      "Great! I like the phone.",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "Estoy bien, pero un poco triste. No tengo planes para el fin de semana.",
+    "en": "I'm fine, but a little sad. I have no plans for the weekend.",
+    "r": [
+     [
+      "¿Por qué estás triste?",
+      "Why are you sad?",
+      2
+     ],
+     [
+      "¿Y tus amigas?",
+      "What about your friends?",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "Voy a estar sola. Mi familia vive lejos.",
+    "en": "I'm going to be alone. My family lives far away.",
+    "r": [
+     [
+      "Quiero ir a tu casa.",
+      "I want to go to your house.",
+      3
+     ],
+     [
+      "Puedes cocinar una tortilla.",
+      "You can cook an omelet.",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "Voy a cocinar una tortilla. Javier dice: ¿Tienes pan y queso?",
+    "en": "I'm going to cook an omelet. Javier says: Do you have bread and cheese?",
+    "r": [
+     [
+      "Sí, tengo queso.",
+      "Yes, I have cheese.",
+      4
+     ],
+     [
+      "No, no hay queso.",
+      "No, there is no cheese.",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "¡Javier está delante de mi edificio! Tiene una maleta y unas flores.",
+    "en": "Javier is in front of my building! He has a suitcase and some flowers.",
+    "r": [
+     [
+      "¡Qué sorpresa!",
+      "What a surprise!",
+      5
+     ],
+     [
+      "¡Abre la puerta!",
+      "Open the door!",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "¡Sí! Bajo a abrir la puerta. Javier va a pasar el fin de semana aquí.",
+    "en": "Yes! I go down to open the door. Javier is going to spend the weekend here.",
+    "end": true
+   }
+  ]
+ },
+ "culture": {
+  "story": null,
+  "prompt": "Spanish (Sevillian) setting. Location: Seville, Spain. The famous landmark La Giralda must be clearly visible and recognizable in the image. A small apartment living room in Seville, Spain on a Friday afternoon: a ringing smartphone on a table, a plate with bread and cheese and a Spanish omelette (tortilla) ready, a small vase of flowers, a window with orange trees and a whitewashed building across the street. Through the window, the Giralda bell tower of Seville Cathedral is visible over the rooftops. No people. Keep the lower-left third of the frame open (clear floor, ground or table space) so a drawn character can be added. Photorealistic photograph, natural light, soft warm color grade, slightly muted colors, eye-level camera, shallow depth of field, 4:3 landscape, high resolution. No text, no logos, no watermarks. Landmark to show: La Giralda.",
+  "caption": null
+ },
+ "scene": {
+  "items": [
+   {
+    "t": "obj",
+    "n": "window",
+    "x": 90,
+    "y": 235,
+    "s": 1.7
+   },
+   {
+    "t": "person",
+    "x": 90,
+    "y": 250,
+    "s": 1,
+    "skin": "c",
+    "hair": "hijab",
+    "outfit": "dress",
+    "pose": "wave"
+   },
+   {
+    "t": "obj",
+    "n": "suitcase",
+    "x": 240,
+    "y": 250,
+    "s": 0.85
+   },
+   {
+    "t": "person",
+    "x": 310,
+    "y": 250,
+    "s": 1,
+    "flip": true,
+    "skin": "a",
+    "hair": "short",
+    "hc": "b",
+    "outfit": "tie",
+    "pose": "hold",
+    "acc": [
+     "beard"
+    ]
+   },
+   {
+    "t": "obj",
+    "n": "flowers",
+    "x": 318,
+    "y": 182,
+    "s": 0.55
+   }
+  ],
+  "vb": [
+   0,
+   0,
+   400,
+   300
+  ],
+  "country": "Spain",
+  "ink": [
+   "#6b1424",
+   "#f2b705"
+  ]
+ },
+ "dict": {
+  "flor": [
+   [
+    "la flor",
+    "noun",
+    "flower"
+   ]
+  ]
+ }
+}

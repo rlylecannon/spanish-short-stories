@@ -1,0 +1,531 @@
+{
+ "story": {
+  "id": "a2-03",
+  "level": "A2",
+  "title": "El secreto de la abuela",
+  "titleEn": "Grandma's Secret",
+  "teaser": "Grandma has moved away, so Mateo tries to cook her famous dish for the family's Sunday lunch, but something is missing.",
+  "emoji": "🍲",
+  "lines": [
+   [
+    "El domingo pasado fue el primer almuerzo familiar sin la abuela, que ahora vive lejos.",
+    "Last Sunday was the first family lunch without Grandma, who now lives far away."
+   ],
+   [
+    "Mateo <b>decidió</b> preparar el famoso lomo saltado de su abuela Josefina.",
+    "Mateo decided to make his grandmother Josefina's famous lomo saltado."
+   ],
+   [
+    "Primero, buscó la <b>receta</b> en un cuaderno viejo.",
+    "First, he looked for the recipe in an old notebook."
+   ],
+   [
+    "Luego fue al <b>supermercado</b> y compró carne, cebolla, tomates y papas.",
+    "Then he went to the supermarket and bought meat, onion, tomatoes and potatoes."
+   ],
+   [
+    "En casa, Mateo <b>cortó</b> la carne y la cebolla.",
+    "At home, Mateo cut the meat and the onion."
+   ],
+   [
+    "Después, puso aceite en la sartén y <b>cocinó</b> la carne.",
+    "After that, he put oil in the pan and cooked the meat."
+   ],
+   [
+    "Mateo probó el plato y dijo: —Está <b>rico</b>, pero no es igual.",
+    "Mateo tasted the dish and said, \"It's tasty, but it's not the same.\""
+   ],
+   [
+    "—Falta algo —pensó—. ¡Necesito ayuda!",
+    "\"Something is missing,\" he thought. \"I need help!\""
+   ],
+   [
+    "Mateo llamó a su abuela por teléfono.",
+    "Mateo called his grandmother on the phone."
+   ],
+   [
+    "—Abuela, hice tu receta, pero el sabor no es igual.",
+    "\"Grandma, I made your recipe, but the taste isn't the same.\""
+   ],
+   [
+    "—¿Qué <b>ingrediente</b> falta, hijo? —preguntó ella.",
+    "\"What ingredient is missing, dear?\" she asked."
+   ],
+   [
+    "—No sé. Tu cuaderno no dice nada más.",
+    "\"I don't know. Your notebook doesn't say anything else.\""
+   ],
+   [
+    "—Lo siento, pero no puedo decirlo por teléfono —contestó ella.",
+    "\"I'm sorry, but I can't say it over the phone,\" she answered."
+   ],
+   [
+    "—¿Por qué no? —preguntó Mateo.",
+    "\"Why not?\" asked Mateo."
+   ],
+   [
+    "—Porque estoy en la puerta de tu casa —rió la abuela.",
+    "\"Because I'm at the door of your house,\" laughed his grandmother."
+   ],
+   [
+    "Mateo abrió la puerta. Josefina tenía una bolsa y una gran sonrisa.",
+    "Mateo opened the door. Josefina had a bag and a big smile."
+   ],
+   [
+    "—¡Abuela! ¿Cómo llegaste?",
+    "\"Grandma! How did you get here?\""
+   ],
+   [
+    "—Tomé el autobús de las seis de la mañana —dijo ella—. Es domingo, y los domingos comemos juntos.",
+    "\"I took the six o'clock bus this morning,\" she said. \"It's Sunday, and on Sundays we eat together.\""
+   ],
+   [
+    "Los dos <b>entraron</b> en la cocina.",
+    "The two of them went into the kitchen."
+   ],
+   [
+    "La abuela <b>probó</b> la carne y miró a su nieto.",
+    "Grandma tasted the meat and looked at her grandson."
+   ],
+   [
+    "—Muy bien, Mateo —dijo—. Solo falta un secreto.",
+    "\"Very good, Mateo,\" she said. \"Only one secret is missing.\""
+   ],
+   [
+    "Mateo salió un minuto a buscar los vasos.",
+    "Mateo went out for a minute to get the glasses."
+   ],
+   [
+    "Cuando volvió, la abuela <b>cerró</b> un frasco pequeño.",
+    "When he came back, Grandma closed a small jar."
+   ],
+   [
+    "Mateo probó otra vez. —¡Ahora sí es igual! —gritó.",
+    "Mateo tasted it again. \"Now it's the same!\" he shouted."
+   ],
+   [
+    "—¿Cuál fue el secreto? ¿Por qué no está en el cuaderno?",
+    "\"What was the secret? Why isn't it in the notebook?\""
+   ],
+   [
+    "—Porque así mis nietos siempre me visitan —contestó la abuela con una sonrisa.",
+    "\"Because that way my grandchildren always visit me,\" Grandma answered with a smile."
+   ],
+   [
+    "Esa tarde, toda la familia almorzó junta alrededor de la <b>mesa</b>.",
+    "That afternoon, the whole family had lunch together around the table."
+   ],
+   [
+    "La madre de Mateo probó el plato y <b>lloró</b> de alegría.",
+    "Mateo's mother tasted the dish and cried with joy."
+   ]
+  ],
+  "vocab": [
+   [
+    "decidir",
+    "to decide"
+   ],
+   [
+    "la receta",
+    "recipe"
+   ],
+   [
+    "el supermercado",
+    "supermarket"
+   ],
+   [
+    "cortar",
+    "to cut"
+   ],
+   [
+    "cocinar",
+    "to cook"
+   ],
+   [
+    "rico",
+    "tasty"
+   ],
+   [
+    "el ingrediente",
+    "ingredient"
+   ],
+   [
+    "el secreto",
+    "secret"
+   ],
+   [
+    "probar",
+    "to taste, to try"
+   ],
+   [
+    "la cocina",
+    "kitchen"
+   ],
+   [
+    "el cuaderno",
+    "notebook"
+   ],
+   [
+    "la sartén",
+    "frying pan"
+   ],
+   [
+    "la mesa",
+    "table"
+   ],
+   [
+    "el sabor",
+    "flavor"
+   ],
+   [
+    "el nieto",
+    "grandson"
+   ],
+   [
+    "llorar",
+    "to cry"
+   ]
+  ],
+  "quiz": [
+   {
+    "q": "¿Por qué cocina Mateo?",
+    "options": [
+     "Es el almuerzo familiar del domingo",
+     "Su madre está enferma",
+     "Tiene mucha hambre",
+     "Es Navidad"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "¿Qué problema tiene la comida de Mateo?",
+    "options": [
+     "Está fría",
+     "No tiene carne",
+     "Tiene el sabor diferente",
+     "Está quemada"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "¿Cómo llega la abuela a casa de Mateo?",
+    "options": [
+     "En taxi",
+     "En coche",
+     "A pie",
+     "En autobús"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "¿Qué hizo la abuela cuando Mateo salió a buscar los vasos?",
+    "options": [
+     "Llamó a la madre de Mateo",
+     "Cerró un frasco pequeño",
+     "Escribió el secreto en el cuaderno",
+     "Cortó más cebolla"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "¿Por qué la abuela no escribe el secreto en el cuaderno?",
+    "options": [
+     "Se le olvidó escribirlo",
+     "Es un ingrediente muy caro",
+     "Mateo no sabe leer su letra",
+     "Así sus nietos siempre la visitan"
+    ],
+    "answer": 3
+   }
+  ],
+  "prompt": "Write about a time you cooked something for someone. What did you make, what did you buy, what did you do first, and how did it taste? Write 4-6 sentences in Spanish in the past tense. Starter: «El domingo pasado preparé… para… Primero compré… Luego corté…»",
+  "concepts": {
+   "grammar": "Preterite of regular verbs (cortó, cocinó, probó, tomé, entraron) and irregular ones (fue, puso, hice, dijo); ser vs estar (está rico / no es igual / estoy en la puerta); falta + noun; sequence words primero, luego, después, cuando.",
+   "vocabulary": "Cooking and family: receta, ingrediente, sartén, cocina, abuela, nieto.",
+   "skills": "Following step-by-step actions; understanding a surprise ending; using context to guess meaning."
+  }
+ },
+ "grammar": [
+  {
+   "topic": "Regular preterite: cortó, cocinó, probó",
+   "explain": "Mateo's cooking steps are regular preterites. -ar verbs: yo -é (tomé), he/she -ó (cortó, cocinó, probó). -er/-ir verbs: yo -í (comí), he/she -ió (decidió). Probar changes in the present (pruebo) but not in the preterite (probó). Watch out: the written accent changes the meaning. Cocinó = he cooked, cocino = I cook; tomé = I took, tomo = I take.",
+   "examples": [
+    [
+     "Mateo cortó la carne y la cebolla.",
+     "Mateo cut the meat and the onion."
+    ],
+    [
+     "Mateo probó el plato.",
+     "Mateo tasted the dish."
+    ],
+    [
+     "Tomé el autobús de las seis de la mañana.",
+     "I took the six a.m. bus."
+    ]
+   ]
+  },
+  {
+   "topic": "Irregular preterite: fue, puso, hice, dijo",
+   "explain": "Some key verbs have irregular preterite stems and no written accent: ir/ser > fue, poner > puso, hacer > hice (I) and hizo (he/she: c becomes z), decir > dijo. Fue can mean 'went' or 'was': fue al supermercado (went), ¿Cuál fue el secreto? (What was the secret?). Watch out: hice, not 'hací' or 'hicé'.",
+   "examples": [
+    [
+     "Luego fue al supermercado y compró carne, cebolla, tomates y papas.",
+     "Then he went to the supermarket and bought meat, onion, tomatoes and potatoes."
+    ],
+    [
+     "Después, puso aceite en la sartén y cocinó la carne.",
+     "After that, he put oil in the pan and cooked the meat."
+    ],
+    [
+     "Abuela, hice tu receta, pero el sabor no es igual.",
+     "Grandma, I made your recipe, but the taste isn't the same."
+    ]
+   ]
+  },
+  {
+   "topic": "Ser vs estar",
+   "explain": "Both mean 'to be', but they aren't interchangeable. Estar: location and states or impressions right now: está rico (it tastes good), estoy en la puerta. Ser: identity, characteristics and comparisons such as no es igual (it isn't the same). Watch out: some adjectives change meaning. La comida está rica = the food tastes good; el señor es rico = the man is rich.",
+   "examples": [
+    [
+     "Está rico, pero no es igual.",
+     "It's tasty, but it's not the same."
+    ],
+    [
+     "Estoy en la puerta de tu casa.",
+     "I'm at the door of your house."
+    ],
+    [
+     "¿Por qué no está en el cuaderno?",
+     "Why isn't it in the notebook?"
+    ]
+   ]
+  },
+  {
+   "topic": "Falta, lo siento, decirlo",
+   "explain": "Faltar works like gustar: the missing thing is the subject. Falta algo = something is missing; for plurals use faltan: faltan dos ingredientes. Lo siento = I'm sorry (lit. I feel it). Object pronouns can attach to an infinitive: no puedo decirlo = no lo puedo decir = I can't say it. Watch out: 'I'm missing salt' is me falta sal.",
+   "examples": [
+    [
+     "Falta algo.",
+     "Something is missing."
+    ],
+    [
+     "Lo siento, pero no puedo decirlo por teléfono.",
+     "I'm sorry, but I can't say it over the phone."
+    ],
+    [
+     "Solo falta un secreto.",
+     "Only one secret is missing."
+    ]
+   ]
+  }
+ ],
+ "gq": [
+  {
+   "topic": "Regular preterite: cortó, cocinó, probó",
+   "q": "How do you say 'I took the bus' in the preterite?",
+   "options": [
+    "Tomé el autobús.",
+    "Tomó el autobús.",
+    "Tomí el autobús.",
+    "Tomo el autobús."
+   ],
+   "answer": 0,
+   "why": "For yo, -ar verbs end in -é: tomé. Tomó is he/she, tomo (no accent) is the present 'I take', and -í is the yo ending for -er/-ir verbs."
+  },
+  {
+   "topic": "Irregular preterite: fue, puso, hice, dijo",
+   "q": "Fill in the blank: Abuela, ayer yo ___ tu receta.",
+   "options": [
+    "hice",
+    "hací",
+    "hicé",
+    "hizo"
+   ],
+   "answer": 0,
+   "why": "Hacer has the irregular stem hic-, and the yo form ends in -e with no accent: hice. Hizo is he/she (c becomes z); hací and hicé don't exist."
+  },
+  {
+   "topic": "Ser vs estar",
+   "q": "Mateo tastes the dish (el plato) he has just cooked. How does he say 'It tastes good'?",
+   "options": [
+    "Es rico.",
+    "Son ricos.",
+    "Está rico.",
+    "Hay rico."
+   ],
+   "answer": 2,
+   "why": "Estar describes how food tastes as you experience it: está rico. Es rico would describe a general quality (and with a person, ser rico means 'to be rich'). Hay means 'there is'."
+  },
+  {
+   "topic": "Falta, lo siento, decirlo",
+   "q": "What does 'No puedo decirlo' mean?",
+   "options": [
+    "I can't tell him.",
+    "I can't say it.",
+    "I didn't say it.",
+    "I can't say you."
+   ],
+   "answer": 1,
+   "why": "Lo (it) attaches to the infinitive: decirlo = to say it. 'Tell him' would be decirle, and puedo is present, so it isn't 'didn't'."
+  },
+  {
+   "topic": "Regular preterite: cortó, cocinó, probó",
+   "q": "What is the difference between 'cocino' and 'cocinó'?",
+   "options": [
+    "None; the accent is optional.",
+    "Cocino = I cook (present); cocinó = he/she cooked (preterite).",
+    "Cocino = I cooked; cocinó = he/she cooks.",
+    "Cocino is used in Spain, cocinó in Latin America."
+   ],
+   "answer": 1,
+   "why": "The written accent moves the stress and changes the tense and person: cocino (I cook, present) vs cocinó (he/she cooked, preterite).",
+   "x": true
+  },
+  {
+   "topic": "Irregular preterite: fue, puso, hice, dijo",
+   "q": "Which sentence has a mistake?",
+   "options": [
+    "Mateo fue al supermercado.",
+    "Mateo hizó la receta.",
+    "La abuela dijo: «Muy bien».",
+    "Mateo puso aceite en la sartén."
+   ],
+   "answer": 1,
+   "why": "Irregular preterites never take a written accent: hizo, puso, dijo, fue. 'Hizó' is wrong.",
+   "x": true
+  },
+  {
+   "topic": "Ser vs estar",
+   "q": "Fill in the blanks: —¿Dónde ___ la receta? —En el cuaderno. ___ una receta muy vieja.",
+   "options": [
+    "es / Es",
+    "es / Está",
+    "está / Está",
+    "está / Es"
+   ],
+   "answer": 3,
+   "why": "Location uses estar (¿Dónde está?), and saying what something is (identity) uses ser: Es una receta muy vieja.",
+   "x": true
+  },
+  {
+   "topic": "Falta, lo siento, decirlo",
+   "q": "Fill in the blank: Para la receta, ___ dos ingredientes.",
+   "options": [
+    "falta",
+    "faltan",
+    "falto",
+    "faltamos"
+   ],
+   "answer": 1,
+   "why": "Faltar works like gustar: the missing things are the subject, so the verb agrees with them. Dos ingredientes is plural, so faltan; falta is for one thing (falta algo).",
+   "x": true
+  }
+ ],
+ "dialogue": {
+  "steps": [
+   {
+    "say": "¡Hola! Me llamo Tomás. Leí la historia de Mateo y su abuela. ¿La conoces?",
+    "en": "Hi! I'm Tomás. I read the story of Mateo and his grandmother. Do you know it?",
+    "r": [
+     [
+      "Sí, Mateo cocinó para su familia.",
+      "Yes, Mateo cooked for his family.",
+      1
+     ],
+     [
+      "No mucho. ¿Qué pasó?",
+      "Not really. What happened?",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "Mateo buscó la receta, compró carne y cebolla y cocinó. Pero no era igual. ¿Cocinas tú?",
+    "en": "Mateo looked for the recipe, bought meat and onion and cooked. But it wasn't the same. Do you cook?",
+    "r": [
+     [
+      "Sí, cocino casi todos los días.",
+      "Yes, I cook almost every day.",
+      2
+     ],
+     [
+      "No, cocino muy poco.",
+      "No, I hardly cook.",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "Entonces la abuela llegó a la puerta. ¡Qué sorpresa! ¿Qué piensas del secreto?",
+    "en": "Then the grandmother arrived at the door. What a surprise! What do you think of the secret?",
+    "r": [
+     [
+      "Es un ingrediente especial.",
+      "It's a special ingredient.",
+      3
+     ],
+     [
+      "Es una idea muy simpática.",
+      "It's a very nice idea.",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "La abuela dijo: «Así mis nietos siempre me visitan». ¿Visitas a tu abuela?",
+    "en": "The grandmother said, \"That way my grandchildren always visit me.\" Do you visit your grandmother?",
+    "r": [
+     [
+      "Sí, la visito los domingos.",
+      "Yes, I visit her on Sundays.",
+      4
+     ],
+     [
+      "No, vive muy lejos.",
+      "No, she lives very far away.",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "Ese domingo la madre de Mateo probó el plato y lloró de alegría. ¿Cuál es tu plato favorito?",
+    "en": "That Sunday Mateo's mother tasted the dish and cried with joy. What is your favorite dish?",
+    "r": [
+     [
+      "Mi plato favorito es la pizza.",
+      "My favorite dish is pizza.",
+      5
+     ],
+     [
+      "Me gusta el arroz con pollo.",
+      "I like rice with chicken.",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "¡Qué rico! Ahora tengo hambre. Gracias por hablar conmigo.",
+    "en": "How tasty! Now I'm hungry. Thanks for talking with me.",
+    "end": true
+   }
+  ]
+ },
+ "culture": null,
+ "scene": null,
+ "dict": {
+  "comemos": [
+   [
+    "comer",
+    "verb",
+    "to eat"
+   ]
+  ],
+  "almorzó": [
+   [
+    "almorzar",
+    "verb",
+    "to have lunch"
+   ]
+  ]
+ }
+}

@@ -1,0 +1,2301 @@
+{
+"juego": [
+[
+"el juego",
+"noun",
+"game"
+]
+],
+"jueves": [
+[
+"el jueves",
+"noun",
+"Thursday"
+]
+],
+"jugaba": [
+[
+"jugar",
+"verb",
+"to play"
+]
+],
+"jugamos": [
+[
+"jugar",
+"verb",
+"to play"
+]
+],
+"jugaron": [
+[
+"jugar",
+"verb",
+"to play"
+]
+],
+"jugo": [
+[
+"el jugo",
+"noun",
+"juice"
+]
+],
+"juguete": [
+[
+"el juguete",
+"noun",
+"toy"
+]
+],
+"julia": [
+[
+"Julia",
+"name",
+"girl's name"
+]
+],
+"julieta": [
+[
+"Julieta",
+"name",
+"girl's name"
+]
+],
+"julio": [
+[
+"Julio",
+"name",
+"man's name"
+],
+[
+"julio",
+"noun",
+"July"
+]
+],
+"junta": [
+[
+"la junta",
+"noun",
+"board, committee"
+]
+],
+"juntas": [
+[
+"junto",
+"adj",
+"together"
+]
+],
+"junto": [
+[
+"junto a",
+"prep",
+"next to, beside"
+]
+],
+"juntos": [
+[
+"junto",
+"adj",
+"together"
+]
+],
+"juraban": [
+[
+"jurar",
+"verb",
+"to swear"
+]
+],
+"juramento": [
+[
+"el juramento",
+"noun",
+"oath"
+]
+],
+"juramentos": [
+[
+"el juramento",
+"noun",
+"oath"
+]
+],
+"jurar": [
+[
+"jurar",
+"verb",
+"to swear"
+]
+],
+"justa": [
+[
+"justo",
+"adj",
+"fair, just"
+]
+],
+"justamente": [
+[
+"justamente",
+"adv",
+"precisely"
+]
+],
+"justificaba": [
+[
+"justificar",
+"verb",
+"to justify"
+]
+],
+"justo": [
+[
+"justo",
+"adv",
+"just, right"
+],
+[
+"justo",
+"adj",
+"fair, just"
+]
+],
+"juvenil": [
+[
+"juvenil",
+"adj",
+"youthful"
+]
+],
+"juventud": [
+[
+"la juventud",
+"noun",
+"youth"
+]
+],
+"juzgado": [
+[
+"juzgar",
+"verb",
+"to judge"
+]
+],
+"juzgué": [
+[
+"juzgar",
+"verb",
+"to judge"
+]
+],
+"jóvenes": [
+[
+"el joven",
+"noun",
+"young person"
+],
+[
+"joven",
+"adj",
+"young"
+]
+],
+"kilo": [
+[
+"el kilo",
+"noun",
+"kilo"
+]
+],
+"kilómetros": [
+[
+"el kilómetro",
+"noun",
+"kilometer"
+]
+],
+"la": [
+[
+"la",
+"det",
+"the"
+],
+[
+"la",
+"pron",
+"her, it"
+]
+],
+"lado": [
+[
+"el lado",
+"noun",
+"side"
+]
+],
+"ladrona": [
+[
+"la ladrona",
+"noun",
+"thief"
+]
+],
+"ladrón": [
+[
+"el ladrón",
+"noun",
+"thief"
+]
+],
+"laica": [
+[
+"laico",
+"adj",
+"secular, lay"
+]
+],
+"lana": [
+[
+"la lana",
+"noun",
+"wool"
+]
+],
+"lanas": [
+[
+"la lana",
+"noun",
+"wool, (slang) money",
+"?"
+]
+],
+"lanzado": [
+[
+"lanzar",
+"verb",
+"to launch, to throw"
+]
+],
+"larga": [
+[
+"largo",
+"adj",
+"long"
+]
+],
+"largo": [
+[
+"largo",
+"adj",
+"long"
+]
+],
+"largos": [
+[
+"largo",
+"adj",
+"long"
+]
+],
+"las": [
+[
+"la",
+"det",
+"the"
+],
+[
+"la",
+"pron",
+"them"
+]
+],
+"lasheras": [
+[
+"Lasheras",
+"name",
+"surname"
+]
+],
+"lastimado": [
+[
+"lastimarse",
+"verb",
+"to hurt oneself"
+]
+],
+"latido": [
+[
+"el latido",
+"noun",
+"heartbeat"
+]
+],
+"latiendo": [
+[
+"latir",
+"verb",
+"to beat"
+]
+],
+"lavapiés": [
+[
+"Lavapiés",
+"name",
+"neighborhood in Madrid"
+]
+],
+"lazo": [
+[
+"el lazo",
+"noun",
+"bow, tie"
+]
+],
+"le": [
+[
+"le",
+"pron",
+"him, her, to him/her"
+]
+],
+"leche": [
+[
+"la leche",
+"noun",
+"milk"
+]
+],
+"lector": [
+[
+"el lector",
+"noun",
+"reader"
+]
+],
+"lectores": [
+[
+"el lector",
+"noun",
+"reader"
+]
+],
+"lectura": [
+[
+"la lectura",
+"noun",
+"reading"
+]
+],
+"lee": [
+[
+"leer",
+"verb",
+"to read"
+]
+],
+"leer": [
+[
+"leer",
+"verb",
+"to read"
+]
+],
+"leerlas": [
+[
+"leer",
+"verb",
+"to read"
+]
+],
+"leerlo": [
+[
+"leer",
+"verb",
+"to read"
+]
+],
+"leerse": [
+[
+"leerse",
+"verb",
+"to be read"
+]
+],
+"legendaria": [
+[
+"legendario",
+"adj",
+"legendary"
+]
+],
+"legítima": [
+[
+"legítimo",
+"adj",
+"legitimate"
+]
+],
+"legítimas": [
+[
+"legítimo",
+"adj",
+"legitimate"
+]
+],
+"lejano": [
+[
+"lejano",
+"adj",
+"distant"
+]
+],
+"lejos": [
+[
+"lejos",
+"adv",
+"far"
+]
+],
+"lengua": [
+[
+"la lengua",
+"noun",
+"tongue, language"
+]
+],
+"lenta": [
+[
+"lento",
+"adj",
+"slow"
+]
+],
+"lentamente": [
+[
+"lentamente",
+"adv",
+"slowly"
+]
+],
+"leo": [
+[
+"leer",
+"verb",
+"to read"
+]
+],
+"leonor": [
+[
+"Leonor",
+"name",
+"woman's name"
+]
+],
+"les": [
+[
+"les",
+"pron",
+"them, to them"
+]
+],
+"lesionado": [
+[
+"lesionarse",
+"verb",
+"to injure oneself"
+]
+],
+"less": [
+[
+"less",
+"other",
+"English word \"less\""
+]
+],
+"letra": [
+[
+"la letra",
+"noun",
+"handwriting, letter"
+]
+],
+"letras": [
+[
+"la letra",
+"noun",
+"letter"
+]
+],
+"letrero": [
+[
+"el letrero",
+"noun",
+"sign"
+]
+],
+"levanta": [
+[
+"levantar",
+"verb",
+"to raise"
+]
+],
+"levantaba": [
+[
+"levantarse",
+"verb",
+"to get up"
+]
+],
+"levantado": [
+[
+"levantar",
+"verb",
+"to raise"
+]
+],
+"levantar": [
+[
+"levantar",
+"verb",
+"to raise"
+]
+],
+"levantaran": [
+[
+"levantarse",
+"verb",
+"to rise, to be built"
+]
+],
+"levantarnos": [
+[
+"levantarse",
+"verb",
+"to get up"
+]
+],
+"levantaron": [
+[
+"levantar",
+"verb",
+"to raise"
+]
+],
+"levanto": [
+[
+"levantarse",
+"verb",
+"to get up"
+]
+],
+"levantó": [
+[
+"levantarse",
+"verb",
+"to get up"
+]
+],
+"ley": [
+[
+"la ley",
+"noun",
+"law"
+]
+],
+"leyó": [
+[
+"leer",
+"verb",
+"to read"
+]
+],
+"leí": [
+[
+"leer",
+"verb",
+"to read"
+]
+],
+"leía": [
+[
+"leer",
+"verb",
+"to read"
+]
+],
+"leído": [
+[
+"leer",
+"verb",
+"to read"
+]
+],
+"leña": [
+[
+"la leña",
+"noun",
+"firewood"
+]
+],
+"libertad": [
+[
+"la libertad",
+"noun",
+"freedom"
+]
+],
+"libre": [
+[
+"libre",
+"adj",
+"free"
+]
+],
+"librería": [
+[
+"la librería",
+"noun",
+"bookstore"
+]
+],
+"libres": [
+[
+"libre",
+"adj",
+"free"
+]
+],
+"libreta": [
+[
+"la libreta",
+"noun",
+"notebook"
+]
+],
+"libro": [
+[
+"el libro",
+"noun",
+"book"
+]
+],
+"libros": [
+[
+"el libro",
+"noun",
+"book"
+]
+],
+"liceo": [
+[
+"el liceo",
+"noun",
+"high school"
+]
+],
+"ligero": [
+[
+"ligero",
+"adj",
+"light"
+]
+],
+"lima": [
+[
+"Lima",
+"name",
+"capital of Peru"
+]
+],
+"limitaba": [
+[
+"limitarse",
+"verb",
+"to limit oneself"
+]
+],
+"limitó": [
+[
+"limitarse",
+"verb",
+"to limit oneself"
+]
+],
+"limosna": [
+[
+"la limosna",
+"noun",
+"alms, charity"
+]
+],
+"limpiaba": [
+[
+"limpiar",
+"verb",
+"to clean"
+]
+],
+"limpiador": [
+[
+"el limpiador",
+"noun",
+"cleaner"
+]
+],
+"limpiara": [
+[
+"limpiar",
+"verb",
+"to clean"
+]
+],
+"limpiarla": [
+[
+"limpiar",
+"verb",
+"to clean"
+]
+],
+"limpieza": [
+[
+"la limpieza",
+"noun",
+"cleaning"
+]
+],
+"limpio": [
+[
+"limpio",
+"adj",
+"clean"
+]
+],
+"linterna": [
+[
+"la linterna",
+"noun",
+"flashlight"
+]
+],
+"listas": [
+[
+"la lista",
+"noun",
+"list"
+]
+],
+"listo": [
+[
+"listo",
+"adj",
+"ready, clever"
+]
+],
+"listos": [
+[
+"listo",
+"adj",
+"ready, clever"
+]
+],
+"literalidad": [
+[
+"la literalidad",
+"noun",
+"literalness"
+]
+],
+"llama": [
+[
+"llamarse",
+"verb",
+"to be called"
+],
+[
+"llamar",
+"verb",
+"to call"
+]
+],
+"llamaba": [
+[
+"llamarse",
+"verb",
+"to be called"
+]
+],
+"llamada": [
+[
+"llamado",
+"adj",
+"called, named"
+],
+[
+"la llamada",
+"noun",
+"call"
+]
+],
+"llamado": [
+[
+"llamado",
+"adj",
+"called, named"
+]
+],
+"llamados": [
+[
+"llamado",
+"adj",
+"called, named"
+]
+],
+"llamamos": [
+[
+"llamar",
+"verb",
+"to call"
+]
+],
+"llaman": [
+[
+"llamar",
+"verb",
+"to call"
+]
+],
+"llamar": [
+[
+"llamar",
+"verb",
+"to call"
+]
+],
+"llames": [
+[
+"llamar",
+"verb",
+"to call"
+]
+],
+"llamo": [
+[
+"llamarse",
+"verb",
+"to be called"
+]
+],
+"llamé": [
+[
+"llamar",
+"verb",
+"to call"
+]
+],
+"llamó": [
+[
+"llamar",
+"verb",
+"to call"
+]
+],
+"llanto": [
+[
+"el llanto",
+"noun",
+"crying"
+]
+],
+"llave": [
+[
+"la llave",
+"noun",
+"key"
+]
+],
+"llaves": [
+[
+"la llave",
+"noun",
+"key"
+]
+],
+"llega": [
+[
+"llegar",
+"verb",
+"to arrive"
+]
+],
+"llegaba": [
+[
+"llegar",
+"verb",
+"to arrive"
+]
+],
+"llegaban": [
+[
+"llegar",
+"verb",
+"to arrive"
+]
+],
+"llegado": [
+[
+"llegar",
+"verb",
+"to arrive"
+]
+],
+"llegan": [
+[
+"llegar",
+"verb",
+"to arrive"
+]
+],
+"llegando": [
+[
+"llegar",
+"verb",
+"to arrive"
+]
+],
+"llegar": [
+[
+"llegar",
+"verb",
+"to arrive"
+]
+],
+"llegaran": [
+[
+"llegar",
+"verb",
+"to arrive"
+]
+],
+"llegaron": [
+[
+"llegar",
+"verb",
+"to arrive"
+]
+],
+"llegaré": [
+[
+"llegar",
+"verb",
+"to arrive"
+]
+],
+"llegaste": [
+[
+"llegar",
+"verb",
+"to arrive"
+]
+],
+"llegué": [
+[
+"llegar",
+"verb",
+"to arrive"
+]
+],
+"llegó": [
+[
+"llegar",
+"verb",
+"to arrive"
+]
+],
+"llena": [
+[
+"lleno",
+"adj",
+"full"
+]
+],
+"llenarse": [
+[
+"llenarse",
+"verb",
+"to fill up"
+]
+],
+"llenas": [
+[
+"lleno",
+"adj",
+"full"
+]
+],
+"lleno": [
+[
+"lleno",
+"adj",
+"full"
+]
+],
+"llenos": [
+[
+"lleno",
+"adj",
+"full"
+]
+],
+"llenó": [
+[
+"llenarse",
+"verb",
+"to fill up"
+]
+],
+"lleva": [
+[
+"llevar",
+"verb",
+"to carry, to take"
+]
+],
+"llevaba": [
+[
+"llevar",
+"verb",
+"to carry, to have"
+]
+],
+"llevaban": [
+[
+"llevar",
+"verb",
+"to carry"
+]
+],
+"llevar": [
+[
+"llevar",
+"verb",
+"to carry, to take"
+]
+],
+"llevarla": [
+[
+"llevar",
+"verb",
+"to carry, to take"
+]
+],
+"llevarme": [
+[
+"llevar",
+"verb",
+"to carry, to take"
+]
+],
+"llevas": [
+[
+"llevar",
+"verb",
+"to carry"
+]
+],
+"llevo": [
+[
+"llevar",
+"verb",
+"to bring, to take"
+]
+],
+"llevó": [
+[
+"llevar",
+"verb",
+"to take"
+]
+],
+"llora": [
+[
+"llorar",
+"verb",
+"to cry"
+]
+],
+"lloraba": [
+[
+"llorar",
+"verb",
+"to cry"
+]
+],
+"llorar": [
+[
+"llorar",
+"verb",
+"to cry"
+]
+],
+"llores": [
+[
+"llorar",
+"verb",
+"to cry"
+]
+],
+"lloró": [
+[
+"llorar",
+"verb",
+"to cry"
+]
+],
+"llover": [
+[
+"llover",
+"verb",
+"to rain"
+]
+],
+"llovió": [
+[
+"llover",
+"verb",
+"to rain"
+]
+],
+"llovía": [
+[
+"llover",
+"verb",
+"to rain"
+]
+],
+"llueve": [
+[
+"llover",
+"verb",
+"to rain"
+]
+],
+"lluvia": [
+[
+"la lluvia",
+"noun",
+"rain"
+]
+],
+"lluvioso": [
+[
+"lluvioso",
+"adj",
+"rainy"
+]
+],
+"lo": [
+[
+"lo",
+"pron",
+"him, it"
+],
+[
+"lo",
+"det",
+"the (neuter)"
+]
+],
+"loco": [
+[
+"loco",
+"adj",
+"crazy"
+]
+],
+"lograba": [
+[
+"lograr",
+"verb",
+"to manage, to achieve"
+]
+],
+"lograra": [
+[
+"lograr",
+"verb",
+"to manage, to achieve"
+]
+],
+"lograrlo": [
+[
+"lograr",
+"verb",
+"to achieve"
+]
+],
+"logística": [
+[
+"la logística",
+"noun",
+"logistics"
+]
+],
+"loma": [
+[
+"la loma",
+"noun",
+"hill"
+]
+],
+"lomo": [
+[
+"el lomo",
+"noun",
+"loin, back"
+]
+],
+"londres": [
+[
+"Londres",
+"name",
+"London"
+]
+],
+"los": [
+[
+"el",
+"det",
+"the"
+],
+[
+"los",
+"pron",
+"them"
+]
+],
+"lozano": [
+[
+"Lozano",
+"name",
+"surname"
+]
+],
+"luces": [
+[
+"la luz",
+"noun",
+"light"
+]
+],
+"luchado": [
+[
+"luchar",
+"verb",
+"to fight, to struggle"
+]
+],
+"lucidez": [
+[
+"la lucidez",
+"noun",
+"clarity"
+]
+],
+"lucía": [
+[
+"Lucía",
+"name",
+"girl's name"
+]
+],
+"luego": [
+[
+"luego",
+"adv",
+"then, later"
+]
+],
+"lugar": [
+[
+"el lugar",
+"noun",
+"place"
+]
+],
+"luis": [
+[
+"Luis",
+"name",
+"man's name"
+]
+],
+"lunes": [
+[
+"el lunes",
+"noun",
+"Monday"
+]
+],
+"lupa": [
+[
+"la lupa",
+"noun",
+"magnifying glass"
+]
+],
+"lupe": [
+[
+"Lupe",
+"name",
+"woman's name"
+]
+],
+"luz": [
+[
+"la luz",
+"noun",
+"light"
+]
+],
+"lágrimas": [
+[
+"la lágrima",
+"noun",
+"tear"
+]
+],
+"lámpara": [
+[
+"la lámpara",
+"noun",
+"lamp"
+]
+],
+"lástima": [
+[
+"la lástima",
+"noun",
+"pity, shame"
+]
+],
+"línea": [
+[
+"la línea",
+"noun",
+"line"
+]
+],
+"líneas": [
+[
+"la línea",
+"noun",
+"line"
+]
+],
+"lópez": [
+[
+"López",
+"name",
+"surname, in a town name"
+]
+],
+"maceta": [
+[
+"la maceta",
+"noun",
+"flowerpot"
+]
+],
+"madera": [
+[
+"la madera",
+"noun",
+"wood"
+]
+],
+"madre": [
+[
+"la madre",
+"noun",
+"mother"
+]
+],
+"madres": [
+[
+"la madre",
+"noun",
+"mother"
+]
+],
+"madrid": [
+[
+"Madrid",
+"name",
+"capital of Spain"
+]
+],
+"madrugada": [
+[
+"la madrugada",
+"noun",
+"early morning"
+]
+],
+"madrugar": [
+[
+"madrugar",
+"verb",
+"to get up early"
+]
+],
+"maestra": [
+[
+"la maestra",
+"noun",
+"teacher"
+]
+],
+"maestro": [
+[
+"el maestro",
+"noun",
+"teacher"
+]
+],
+"maestros": [
+[
+"el maestro",
+"noun",
+"teacher"
+]
+],
+"mal": [
+[
+"mal",
+"adv",
+"badly, poorly"
+]
+],
+"mala": [
+[
+"malo",
+"adj",
+"bad"
+]
+],
+"maleta": [
+[
+"la maleta",
+"noun",
+"suitcase"
+]
+],
+"maletas": [
+[
+"la maleta",
+"noun",
+"suitcase"
+]
+],
+"maletín": [
+[
+"el maletín",
+"noun",
+"briefcase"
+]
+],
+"malo": [
+[
+"malo",
+"adj",
+"bad"
+]
+],
+"mamá": [
+[
+"la mamá",
+"noun",
+"mom"
+]
+],
+"mamásabe": [
+[
+"MamáSabe",
+"name",
+"company name"
+]
+],
+"mancha": [
+[
+"la mancha",
+"noun",
+"stain"
+]
+],
+"manchada": [
+[
+"manchado",
+"adj",
+"stained"
+]
+],
+"mandar": [
+[
+"mandar",
+"verb",
+"to command, to send"
+]
+],
+"mandaría": [
+[
+"mandar",
+"verb",
+"to send"
+]
+],
+"manejado": [
+[
+"manejar",
+"verb",
+"to handle"
+]
+],
+"manera": [
+[
+"la manera",
+"noun",
+"way"
+]
+],
+"maneras": [
+[
+"la manera",
+"noun",
+"way"
+]
+],
+"mango": [
+[
+"Mango",
+"name",
+"pet's name"
+],
+[
+"el mango",
+"noun",
+"mango"
+]
+],
+"mangos": [
+[
+"el mango",
+"noun",
+"mango"
+]
+],
+"manipulado": [
+[
+"manipular",
+"verb",
+"to tamper with"
+]
+],
+"manivela": [
+[
+"la manivela",
+"noun",
+"crank"
+]
+],
+"mano": [
+[
+"la mano",
+"noun",
+"hand"
+]
+],
+"manos": [
+[
+"la mano",
+"noun",
+"hand"
+]
+],
+"manta": [
+[
+"Manta",
+"name",
+"port city in Ecuador"
+]
+],
+"mantener": [
+[
+"mantener",
+"verb",
+"to keep, to maintain"
+]
+],
+"mantenerlo": [
+[
+"mantener",
+"verb",
+"to keep, to maintain"
+]
+],
+"mantenimiento": [
+[
+"el mantenimiento",
+"noun",
+"maintenance"
+]
+],
+"manzana": [
+[
+"la manzana",
+"noun",
+"apple"
+]
+],
+"manzanas": [
+[
+"la manzana",
+"noun",
+"apple"
+]
+],
+"manías": [
+[
+"la manía",
+"noun",
+"quirk, habit"
+]
+],
+"mapa": [
+[
+"el mapa",
+"noun",
+"map"
+]
+],
+"mapas": [
+[
+"el mapa",
+"noun",
+"map"
+]
+],
+"maqueta": [
+[
+"la maqueta",
+"noun",
+"scale model"
+]
+],
+"mar": [
+[
+"el mar",
+"noun",
+"sea"
+]
+],
+"maravilloso": [
+[
+"maravilloso",
+"adj",
+"wonderful"
+]
+],
+"marcado": [
+[
+"marcado",
+"adj",
+"marked, strong"
+]
+],
+"marcha": [
+[
+"la marcha",
+"noun",
+"motion, march"
+]
+],
+"marchado": [
+[
+"marcharse",
+"verb",
+"to leave"
+]
+],
+"marcharse": [
+[
+"marcharse",
+"verb",
+"to leave"
+]
+],
+"marcharía": [
+[
+"marcharse",
+"verb",
+"to leave"
+]
+],
+"marchó": [
+[
+"marcharse",
+"verb",
+"to leave"
+]
+],
+"marcos": [
+[
+"Marcos",
+"name",
+"man's name"
+]
+],
+"marcó": [
+[
+"marcar",
+"verb",
+"to score, to mark"
+]
+],
+"marea": [
+[
+"la marea",
+"noun",
+"tide"
+]
+],
+"mareo": [
+[
+"el mareo",
+"noun",
+"dizziness"
+]
+],
+"marido": [
+[
+"el marido",
+"noun",
+"husband"
+]
+],
+"marisol": [
+[
+"Marisol",
+"name",
+"girl's name"
+]
+],
+"marrón": [
+[
+"marrón",
+"adj",
+"brown"
+]
+],
+"marta": [
+[
+"Marta",
+"name",
+"woman's name"
+]
+],
+"martes": [
+[
+"el martes",
+"noun",
+"Tuesday"
+]
+],
+"marzo": [
+[
+"marzo",
+"noun",
+"March"
+]
+],
+"masa": [
+[
+"la masa",
+"noun",
+"dough"
+]
+],
+"mate": [
+[
+"el mate",
+"noun",
+"mate (herbal tea)"
+]
+],
+"matemáticas": [
+[
+"las matemáticas",
+"noun",
+"mathematics"
+]
+],
+"mateo": [
+[
+"Mateo",
+"name",
+"boy's name"
+]
+],
+"maternas": [
+[
+"materno",
+"adj",
+"maternal"
+]
+],
+"matices": [
+[
+"matizar",
+"verb",
+"to nuance, to soften"
+],
+[
+"el matiz",
+"noun",
+"nuance"
+]
+],
+"matilde": [
+[
+"Matilde",
+"name",
+"woman's name"
+]
+],
+"matiz": [
+[
+"el matiz",
+"noun",
+"nuance"
+]
+],
+"matizar": [
+[
+"matizar",
+"verb",
+"to nuance, to soften"
+]
+],
+"matías": [
+[
+"Matías",
+"name",
+"man's name"
+]
+],
+"may": [
+[
+"may",
+"other",
+"English word \"may\""
+]
+],
+"mayo": [
+[
+"mayo",
+"noun",
+"May"
+]
+],
+"mayor": [
+[
+"mayor",
+"adj",
+"older, elderly"
+]
+],
+"mayores": [
+[
+"mayor",
+"adj",
+"older, elderly"
+]
+],
+"mayoría": [
+[
+"la mayoría",
+"noun",
+"majority"
+]
+],
+"mañana": [
+[
+"la mañana",
+"noun",
+"morning"
+],
+[
+"mañana",
+"adv",
+"tomorrow"
+]
+],
+"mañanas": [
+[
+"la mañana",
+"noun",
+"morning"
+]
+],
+"me": [
+[
+"me",
+"pron",
+"me, to me, myself"
+]
+],
+"mecanismo": [
+[
+"el mecanismo",
+"noun",
+"mechanism"
+]
+],
+"medellín": [
+[
+"Medellín",
+"name",
+"city in Colombia"
+]
+],
+"media": [
+[
+"medio",
+"adj",
+"half"
+]
+],
+"medias": [
+[
+"medio",
+"adj",
+"half"
+],
+[
+"la media",
+"noun",
+"sock, stocking"
+]
+],
+"medicinas": [
+[
+"la medicina",
+"noun",
+"medicine"
+]
+],
+"medida": [
+[
+"la medida",
+"noun",
+"measure, extent"
+]
+],
+"medio": [
+[
+"medio",
+"adj",
+"half, middle"
+]
+],
+"mediodía": [
+[
+"el mediodía",
+"noun",
+"noon"
+]
+],
+"medía": [
+[
+"medir",
+"verb",
+"to measure"
+]
+],
+"mejillas": [
+[
+"la mejilla",
+"noun",
+"cheek"
+]
+],
+"mejor": [
+[
+"mejor",
+"adj",
+"better, best"
+]
+],
+"mejorado": [
+[
+"mejorar",
+"verb",
+"to improve"
+]
+],
+"mejores": [
+[
+"mejor",
+"adj",
+"better, best"
+]
+],
+"melodía": [
+[
+"la melodía",
+"noun",
+"melody"
+]
+],
+"memorable": [
+[
+"memorable",
+"adj",
+"memorable"
+]
+],
+"memoria": [
+[
+"la memoria",
+"noun",
+"memory"
+]
+],
+"memorias": [
+[
+"la memoria",
+"noun",
+"memory, memoir"
+]
+],
+"mencionó": [
+[
+"mencionar",
+"verb",
+"to mention"
+]
+],
+"menos": [
+[
+"menos",
+"adv",
+"less, minus"
+]
+],
+"menospreciar": [
+[
+"menospreciar",
+"verb",
+"to underestimate"
+]
+],
+"mensaje": [
+[
+"el mensaje",
+"noun",
+"message"
+]
+],
+"mensual": [
+[
+"mensual",
+"adj",
+"monthly"
+]
+],
+"mentira": [
+[
+"la mentira",
+"noun",
+"lie"
+]
+],
+"menuda": [
+[
+"menudo",
+"adj",
+"small, slight"
+]
+],
+"menú": [
+[
+"el menú",
+"noun",
+"menu"
+]
+],
+"mercado": [
+[
+"el mercado",
+"noun",
+"market"
+]
+],
+"merecía": [
+[
+"merecer",
+"verb",
+"to deserve"
+]
+],
+"mes": [
+[
+"el mes",
+"noun",
+"month"
+]
+],
+"mesa": [
+[
+"la mesa",
+"noun",
+"table"
+]
+],
+"mesas": [
+[
+"la mesa",
+"noun",
+"table"
+]
+],
+"meses": [
+[
+"el mes",
+"noun",
+"month"
+]
+],
+"metió": [
+[
+"meter",
+"verb",
+"to put in"
+]
+],
+"metro": [
+[
+"el metro",
+"noun",
+"subway"
+]
+],
+"metros": [
+[
+"el metro",
+"noun",
+"meter"
+]
+],
+"mezcla": [
+[
+"la mezcla",
+"noun",
+"mixture"
+]
+],
+"mi": [
+[
+"mi",
+"det",
+"my"
+]
+],
+"mide": [
+[
+"medir",
+"verb",
+"to measure"
+]
+],
+"miedo": [
+[
+"el miedo",
+"noun",
+"fear"
+]
+],
+"miedos": [
+[
+"el miedo",
+"noun",
+"fear"
+]
+],
+"mienten": [
+[
+"mentir",
+"verb",
+"to lie"
+]
+],
+"mientras": [
+[
+"mientras",
+"conj",
+"while"
+]
+],
+"mija": [
+[
+"mija",
+"noun",
+"my dear (to a girl)"
+]
+],
+"mil": [
+[
+"mil",
+"num",
+"thousand"
+]
+],
+"miles": [
+[
+"mil",
+"num",
+"thousand"
+]
+],
+"mintiera": [
+[
+"mentir",
+"verb",
+"to lie"
+]
+],
+"mintió": [
+[
+"mentir",
+"verb",
+"to lie"
+]
+],
+"minuciosidad": [
+[
+"la minuciosidad",
+"noun",
+"thoroughness"
+]
+],
+"minuto": [
+[
+"el minuto",
+"noun",
+"minute"
+]
+]
+}

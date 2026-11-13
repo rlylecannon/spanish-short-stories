@@ -1,0 +1,2235 @@
+{
+"pasillos": [
+[
+"el pasillo",
+"noun",
+"corridor, hallway"
+]
+],
+"pasión": [
+[
+"la pasión",
+"noun",
+"passion"
+]
+],
+"paso": [
+[
+"el paso",
+"noun",
+"step"
+]
+],
+"pasos": [
+[
+"el paso",
+"noun",
+"step"
+]
+],
+"pasoseguro": [
+[
+"PasoSeguro",
+"name",
+"smart-shoe brand"
+]
+],
+"pastaban": [
+[
+"pastar",
+"verb",
+"to graze"
+]
+],
+"pastel": [
+[
+"el pastel",
+"noun",
+"cake"
+]
+],
+"pastillas": [
+[
+"la pastilla",
+"noun",
+"pill"
+]
+],
+"pasto": [
+[
+"el pasto",
+"noun",
+"pasture, grass"
+]
+],
+"pastor": [
+[
+"el pastor",
+"noun",
+"shepherd"
+]
+],
+"pastos": [
+[
+"el pasto",
+"noun",
+"pasture, grass"
+]
+],
+"pasé": [
+[
+"pasar",
+"verb",
+"to spend, to pass"
+]
+],
+"pasó": [
+[
+"pasar",
+"verb",
+"to happen, to pass"
+]
+],
+"pata": [
+[
+"la pata",
+"noun",
+"leg (of animal or furniture)"
+]
+],
+"pateó": [
+[
+"patear",
+"verb",
+"to kick"
+]
+],
+"patio": [
+[
+"el patio",
+"noun",
+"yard, courtyard"
+]
+],
+"país": [
+[
+"el país",
+"noun",
+"country"
+]
+],
+"países": [
+[
+"el país",
+"noun",
+"country"
+]
+],
+"paño": [
+[
+"el paño",
+"noun",
+"cloth"
+]
+],
+"pañuelo": [
+[
+"el pañuelo",
+"noun",
+"handkerchief"
+]
+],
+"pech": [
+[
+"Pech",
+"name",
+"surname"
+]
+],
+"pecho": [
+[
+"el pecho",
+"noun",
+"chest"
+]
+],
+"pedaleaban": [
+[
+"pedalear",
+"verb",
+"to pedal"
+]
+],
+"pedantería": [
+[
+"la pedantería",
+"noun",
+"pedantry"
+]
+],
+"pedazo": [
+[
+"el pedazo",
+"noun",
+"piece"
+]
+],
+"pedido": [
+[
+"pedir",
+"verb",
+"to ask for, to request"
+]
+],
+"pedidos": [
+[
+"el pedido",
+"noun",
+"order"
+]
+],
+"pedir": [
+[
+"pedir",
+"verb",
+"to ask for, to request"
+]
+],
+"pedirle": [
+[
+"pedir",
+"verb",
+"to ask for, to request"
+]
+],
+"pedirlo": [
+[
+"pedir",
+"verb",
+"to order, to ask for"
+]
+],
+"pedirías": [
+[
+"pedir",
+"verb",
+"to ask for, to request"
+]
+],
+"pedí": [
+[
+"pedir",
+"verb",
+"to ask for, to request"
+]
+],
+"pedía": [
+[
+"pedir",
+"verb",
+"to ask for, to request"
+]
+],
+"pegado": [
+[
+"pegado",
+"adj",
+"stuck, glued"
+]
+],
+"pegamento": [
+[
+"el pegamento",
+"noun",
+"glue"
+]
+],
+"pelar": [
+[
+"pelar",
+"verb",
+"to peel"
+]
+],
+"pelea": [
+[
+"la pelea",
+"noun",
+"fight, quarrel"
+]
+],
+"peligrosa": [
+[
+"peligroso",
+"adj",
+"dangerous"
+]
+],
+"pelo": [
+[
+"el pelo",
+"noun",
+"hair"
+]
+],
+"película": [
+[
+"la película",
+"noun",
+"movie, film"
+]
+],
+"pena": [
+[
+"la pena",
+"noun",
+"sorrow, shame, pity"
+]
+],
+"penalti": [
+[
+"el penalti",
+"noun",
+"penalty kick"
+]
+],
+"pendientes": [
+[
+"pendiente",
+"adj",
+"waiting, anxious about"
+]
+],
+"pensaba": [
+[
+"pensar",
+"verb",
+"to think"
+]
+],
+"pensaban": [
+[
+"pensar",
+"verb",
+"to think"
+]
+],
+"pensado": [
+[
+"pensar",
+"verb",
+"to think"
+]
+],
+"pensando": [
+[
+"pensar",
+"verb",
+"to think"
+]
+],
+"pensar": [
+[
+"pensar",
+"verb",
+"to think"
+]
+],
+"pensara": [
+[
+"pensar",
+"verb",
+"to think"
+]
+],
+"pensaré": [
+[
+"pensar",
+"verb",
+"to think"
+]
+],
+"pensaría": [
+[
+"pensar",
+"verb",
+"to think"
+]
+],
+"pensaste": [
+[
+"pensar",
+"verb",
+"to think"
+]
+],
+"pensé": [
+[
+"pensar",
+"verb",
+"to think"
+]
+],
+"pensó": [
+[
+"pensar",
+"verb",
+"to think"
+]
+],
+"peor": [
+[
+"peor",
+"adj",
+"worse, worst"
+]
+],
+"peores": [
+[
+"peor",
+"adj",
+"worse, worst"
+]
+],
+"pequeña": [
+[
+"pequeño",
+"adj",
+"small, little"
+]
+],
+"pequeñas": [
+[
+"pequeño",
+"adj",
+"small, little"
+]
+],
+"pequeño": [
+[
+"pequeño",
+"adj",
+"small, little"
+]
+],
+"perderme": [
+[
+"perder",
+"verb",
+"to lose"
+]
+],
+"perdería": [
+[
+"perder",
+"verb",
+"to lose"
+]
+],
+"perderían": [
+[
+"perder",
+"verb",
+"to lose"
+]
+],
+"perdida": [
+[
+"perdido",
+"adj",
+"lost"
+]
+],
+"perdido": [
+[
+"perdido",
+"adj",
+"lost"
+]
+],
+"perdidos": [
+[
+"perdido",
+"adj",
+"lost"
+]
+],
+"perdiera": [
+[
+"perder",
+"verb",
+"to lose"
+]
+],
+"perdió": [
+[
+"perder",
+"verb",
+"to lose, to miss"
+]
+],
+"perdona": [
+[
+"perdonar",
+"verb",
+"to forgive, to excuse"
+]
+],
+"perdone": [
+[
+"perdonar",
+"verb",
+"to forgive, to excuse"
+]
+],
+"perdono": [
+[
+"perdonar",
+"verb",
+"to forgive"
+]
+],
+"perdí": [
+[
+"perder",
+"verb",
+"to lose, to miss"
+]
+],
+"perdón": [
+[
+"el perdón",
+"noun",
+"pardon, forgiveness"
+]
+],
+"perdóname": [
+[
+"perdonar",
+"verb",
+"to forgive"
+]
+],
+"perfectamente": [
+[
+"perfectamente",
+"adv",
+"perfectly"
+]
+],
+"perfecto": [
+[
+"perfecto",
+"adj",
+"perfect"
+]
+],
+"periódico": [
+[
+"el periódico",
+"noun",
+"newspaper"
+]
+],
+"periódicos": [
+[
+"el periódico",
+"noun",
+"newspaper"
+]
+],
+"permanecer": [
+[
+"permanecer",
+"verb",
+"to remain, to stay"
+]
+],
+"permanecido": [
+[
+"permanecer",
+"verb",
+"to remain, to stay"
+]
+],
+"permanecieran": [
+[
+"permanecer",
+"verb",
+"to remain, to stay"
+]
+],
+"permiso": [
+[
+"el permiso",
+"noun",
+"permission, leave"
+]
+],
+"permitió": [
+[
+"permitir",
+"verb",
+"to allow"
+]
+],
+"permitía": [
+[
+"permitir",
+"verb",
+"to allow"
+]
+],
+"pero": [
+[
+"pero",
+"conj",
+"but"
+]
+],
+"perra": [
+[
+"la perra",
+"noun",
+"dog (female)"
+]
+],
+"perro": [
+[
+"el perro",
+"noun",
+"dog"
+]
+],
+"persiana": [
+[
+"la persiana",
+"noun",
+"shutter, blind"
+]
+],
+"persona": [
+[
+"la persona",
+"noun",
+"person"
+]
+],
+"personal": [
+[
+"el personal",
+"noun",
+"staff, personnel"
+]
+],
+"personas": [
+[
+"la persona",
+"noun",
+"person"
+]
+],
+"perspectiva": [
+[
+"la perspectiva",
+"noun",
+"perspective"
+]
+],
+"pesaba": [
+[
+"pesar",
+"verb",
+"to weigh, to weigh down"
+]
+],
+"pesadas": [
+[
+"pesado",
+"adj",
+"heavy"
+]
+],
+"pesados": [
+[
+"pesado",
+"adj",
+"heavy"
+]
+],
+"pescado": [
+[
+"el pescado",
+"noun",
+"fish (as food)"
+]
+],
+"pescador": [
+[
+"el pescador",
+"noun",
+"fisherman"
+]
+],
+"pescadores": [
+[
+"el pescador",
+"noun",
+"fisherman"
+]
+],
+"pesos": [
+[
+"el peso",
+"noun",
+"peso (currency)"
+]
+],
+"pestañear": [
+[
+"pestañear",
+"verb",
+"to blink"
+]
+],
+"piano": [
+[
+"el piano",
+"noun",
+"piano"
+]
+],
+"pib": [
+[
+"el pib",
+"noun",
+"underground oven"
+]
+],
+"pide": [
+[
+"pedir",
+"verb",
+"to ask for, to order"
+]
+],
+"pidiera": [
+[
+"pedir",
+"verb",
+"to ask for"
+]
+],
+"pidieron": [
+[
+"pedir",
+"verb",
+"to ask for, to order"
+]
+],
+"pidiéndole": [
+[
+"pedir",
+"verb",
+"to ask for"
+]
+],
+"pidió": [
+[
+"pedir",
+"verb",
+"to ask for"
+]
+],
+"pido": [
+[
+"pedir",
+"verb",
+"to ask for"
+]
+],
+"pie": [
+[
+"el pie",
+"noun",
+"foot"
+]
+],
+"piedra": [
+[
+"la piedra",
+"noun",
+"stone"
+]
+],
+"piedras": [
+[
+"la piedra",
+"noun",
+"stone"
+]
+],
+"piensa": [
+[
+"pensar",
+"verb",
+"to think, to intend"
+]
+],
+"piense": [
+[
+"pensar",
+"verb",
+"to think"
+]
+],
+"pienso": [
+[
+"pensar",
+"verb",
+"to think, to intend"
+]
+],
+"pierde": [
+[
+"perder",
+"verb",
+"to lose"
+]
+],
+"pierna": [
+[
+"la pierna",
+"noun",
+"leg"
+]
+],
+"piernas": [
+[
+"la pierna",
+"noun",
+"leg"
+]
+],
+"pies": [
+[
+"el pie",
+"noun",
+"foot"
+]
+],
+"pieza": [
+[
+"la pieza",
+"noun",
+"piece"
+]
+],
+"pilar": [
+[
+"Pilar",
+"name",
+"woman's name"
+]
+],
+"pincharía": [
+[
+"pinchar",
+"verb",
+"to puncture"
+]
+],
+"pinchó": [
+[
+"pincharse",
+"verb",
+"to get punctured"
+]
+],
+"pintaron": [
+[
+"pintar",
+"verb",
+"to paint"
+]
+],
+"piso": [
+[
+"el piso",
+"noun",
+"floor, apartment"
+]
+],
+"pitido": [
+[
+"el pitido",
+"noun",
+"beep, whistle"
+]
+],
+"pitó": [
+[
+"pitar",
+"verb",
+"to whistle, to blow the whistle"
+]
+],
+"pizarra": [
+[
+"la pizarra",
+"noun",
+"blackboard"
+]
+],
+"pizza": [
+[
+"la pizza",
+"noun",
+"pizza"
+]
+],
+"plan": [
+[
+"el plan",
+"noun",
+"plan"
+]
+],
+"planchas": [
+[
+"la plancha",
+"noun",
+"iron (for clothes)"
+]
+],
+"planes": [
+[
+"el plan",
+"noun",
+"plan"
+]
+],
+"planta": [
+[
+"la planta",
+"noun",
+"floor, ward"
+]
+],
+"plantas": [
+[
+"la planta",
+"noun",
+"plant"
+]
+],
+"plata": [
+[
+"la plata",
+"noun",
+"silver"
+]
+],
+"plato": [
+[
+"el plato",
+"noun",
+"dish, plate"
+]
+],
+"platos": [
+[
+"el plato",
+"noun",
+"dish, plate"
+]
+],
+"playa": [
+[
+"la playa",
+"noun",
+"beach"
+]
+],
+"playas": [
+[
+"la playa",
+"noun",
+"beach"
+]
+],
+"plaza": [
+[
+"la plaza",
+"noun",
+"square, plaza"
+]
+],
+"plazo": [
+[
+"el plazo",
+"noun",
+"deadline, time limit"
+]
+],
+"plena": [
+[
+"pleno",
+"adj",
+"full, complete"
+]
+],
+"pleno": [
+[
+"el pleno",
+"noun",
+"plenary session"
+]
+],
+"plenos": [
+[
+"el pleno",
+"noun",
+"plenary session"
+]
+],
+"pliego": [
+[
+"el pliego",
+"noun",
+"list of terms, sheet"
+]
+],
+"pluma": [
+[
+"la pluma",
+"noun",
+"pen, feather"
+]
+],
+"plátanos": [
+[
+"el plátano",
+"noun",
+"banana"
+]
+],
+"pobre": [
+[
+"pobre",
+"adj",
+"poor"
+]
+],
+"pobres": [
+[
+"el pobre",
+"noun",
+"poor person"
+]
+],
+"poca": [
+[
+"poco",
+"det",
+"little, few"
+]
+],
+"pocas": [
+[
+"poco",
+"det",
+"few"
+]
+],
+"poco": [
+[
+"poco",
+"adv",
+"a little"
+]
+],
+"pocos": [
+[
+"poco",
+"det",
+"few"
+]
+],
+"podemos": [
+[
+"poder",
+"verb",
+"to be able to, can"
+]
+],
+"poder": [
+[
+"poder",
+"verb",
+"to be able to, can"
+]
+],
+"podido": [
+[
+"poder",
+"verb",
+"to be able to, can"
+]
+],
+"podría": [
+[
+"poder",
+"verb",
+"to be able to, can"
+]
+],
+"podríamos": [
+[
+"poder",
+"verb",
+"to be able to, can"
+]
+],
+"podía": [
+[
+"poder",
+"verb",
+"to be able to, can"
+]
+],
+"podían": [
+[
+"poder",
+"verb",
+"to be able to, can"
+]
+],
+"pollo": [
+[
+"el pollo",
+"noun",
+"chicken"
+]
+],
+"pondría": [
+[
+"poner",
+"verb",
+"to put, to place"
+]
+],
+"pone": [
+[
+"poner",
+"verb",
+"to put, to place"
+]
+],
+"ponerlo": [
+[
+"poner",
+"verb",
+"to put, to set"
+]
+],
+"ponerse": [
+[
+"ponerse",
+"verb",
+"to put on, to become"
+]
+],
+"pongo": [
+[
+"poner",
+"verb",
+"to put, to play"
+]
+],
+"ponte": [
+[
+"ponerse",
+"verb",
+"to put on"
+]
+],
+"ponía": [
+[
+"poner",
+"verb",
+"to put, to place"
+]
+],
+"poquito": [
+[
+"poquito",
+"adv",
+"a little bit"
+]
+],
+"por": [
+[
+"por",
+"prep",
+"for, by, through"
+]
+],
+"porche": [
+[
+"el porche",
+"noun",
+"porch"
+]
+],
+"porque": [
+[
+"porque",
+"conj",
+"because"
+]
+],
+"portada": [
+[
+"la portada",
+"noun",
+"cover"
+]
+],
+"portera": [
+[
+"la portera",
+"noun",
+"concierge, doorwoman"
+]
+],
+"portero": [
+[
+"el portero",
+"noun",
+"goalkeeper"
+]
+],
+"posibilidad": [
+[
+"la posibilidad",
+"noun",
+"possibility"
+]
+],
+"posible": [
+[
+"posible",
+"adj",
+"possible"
+]
+],
+"postal": [
+[
+"la postal",
+"noun",
+"postcard"
+]
+],
+"postrado": [
+[
+"postrado",
+"adj",
+"laid up, prostrate"
+]
+],
+"pozo": [
+[
+"el pozo",
+"noun",
+"well"
+]
+],
+"precio": [
+[
+"el precio",
+"noun",
+"price"
+]
+],
+"precioso": [
+[
+"precioso",
+"adj",
+"beautiful, precious"
+]
+],
+"precipitarte": [
+[
+"precipitar",
+"verb",
+"to throw, to hurl"
+]
+],
+"precisamente": [
+[
+"precisamente",
+"adv",
+"precisely, exactly"
+]
+],
+"preferido": [
+[
+"preferir",
+"verb",
+"to prefer"
+]
+],
+"prefería": [
+[
+"preferir",
+"verb",
+"to prefer"
+]
+],
+"preferían": [
+[
+"preferir",
+"verb",
+"to prefer"
+]
+],
+"preferías": [
+[
+"preferir",
+"verb",
+"to prefer"
+]
+],
+"prefieren": [
+[
+"preferir",
+"verb",
+"to prefer"
+]
+],
+"prefiero": [
+[
+"preferir",
+"verb",
+"to prefer"
+]
+],
+"prefirió": [
+[
+"preferir",
+"verb",
+"to prefer"
+]
+],
+"pregunta": [
+[
+"preguntar",
+"verb",
+"to ask"
+]
+],
+"preguntaba": [
+[
+"preguntarse",
+"verb",
+"to wonder"
+]
+],
+"preguntaban": [
+[
+"preguntar",
+"verb",
+"to ask"
+]
+],
+"preguntado": [
+[
+"preguntar",
+"verb",
+"to ask"
+]
+],
+"preguntar": [
+[
+"preguntar",
+"verb",
+"to ask"
+]
+],
+"preguntaran": [
+[
+"preguntar",
+"verb",
+"to ask"
+]
+],
+"preguntarle": [
+[
+"preguntar",
+"verb",
+"to ask"
+]
+],
+"preguntas": [
+[
+"la pregunta",
+"noun",
+"question"
+]
+],
+"preguntes": [
+[
+"preguntar",
+"verb",
+"to ask"
+]
+],
+"pregunté": [
+[
+"preguntar",
+"verb",
+"to ask"
+]
+],
+"preguntó": [
+[
+"preguntar",
+"verb",
+"to ask"
+]
+],
+"preocupaciones": [
+[
+"la preocupación",
+"noun",
+"worry, concern"
+]
+],
+"preocupada": [
+[
+"preocupado",
+"adj",
+"worried"
+]
+],
+"preocupado": [
+[
+"preocupado",
+"adj",
+"worried"
+]
+],
+"preocupe": [
+[
+"preocuparse",
+"verb",
+"to worry"
+]
+],
+"preocupes": [
+[
+"preocuparse",
+"verb",
+"to worry"
+]
+],
+"prepara": [
+[
+"prepararse",
+"verb",
+"to get ready"
+]
+],
+"preparaba": [
+[
+"preparar",
+"verb",
+"to prepare"
+]
+],
+"preparado": [
+[
+"preparado",
+"adj",
+"prepared, freshly made"
+]
+],
+"preparan": [
+[
+"preparar",
+"verb",
+"to prepare, to pack"
+]
+],
+"preparar": [
+[
+"preparar",
+"verb",
+"to prepare"
+]
+],
+"prepararse": [
+[
+"prepararse",
+"verb",
+"to get ready"
+]
+],
+"preparo": [
+[
+"preparar",
+"verb",
+"to prepare"
+]
+],
+"preparó": [
+[
+"preparar",
+"verb",
+"to prepare, to make"
+]
+],
+"presentación": [
+[
+"la presentación",
+"noun",
+"presentation"
+]
+],
+"presentado": [
+[
+"presentar",
+"verb",
+"to present"
+]
+],
+"presentar": [
+[
+"presentar",
+"verb",
+"to present"
+]
+],
+"presentaremos": [
+[
+"presentarse",
+"verb",
+"to introduce oneself"
+]
+],
+"presentarse": [
+[
+"presentarse",
+"verb",
+"to show up, to appear"
+]
+],
+"presente": [
+[
+"presente",
+"adj",
+"present"
+]
+],
+"presentó": [
+[
+"presentar",
+"verb",
+"to present, to submit"
+]
+],
+"presión": [
+[
+"la presión",
+"noun",
+"pressure"
+]
+],
+"prestado": [
+[
+"prestar",
+"verb",
+"to lend, to pay (attention)"
+]
+],
+"prestara": [
+[
+"prestar",
+"verb",
+"to lend"
+]
+],
+"presumido": [
+[
+"presumir",
+"verb",
+"to boast"
+]
+],
+"prever": [
+[
+"prever",
+"verb",
+"to foresee"
+]
+],
+"prima": [
+[
+"la prima",
+"noun",
+"cousin (female), bonus"
+]
+],
+"primavera": [
+[
+"la primavera",
+"noun",
+"spring"
+]
+],
+"primer": [
+[
+"primero",
+"num",
+"first"
+]
+],
+"primera": [
+[
+"primero",
+"num",
+"first"
+]
+],
+"primeras": [
+[
+"primero",
+"num",
+"first"
+]
+],
+"primero": [
+[
+"primero",
+"adv",
+"first"
+]
+],
+"primeros": [
+[
+"primero",
+"num",
+"first"
+]
+],
+"primo": [
+[
+"el primo",
+"noun",
+"cousin"
+]
+],
+"primos": [
+[
+"el primo",
+"noun",
+"cousin"
+]
+],
+"principal": [
+[
+"principal",
+"adj",
+"main"
+]
+],
+"principio": [
+[
+"el principio",
+"noun",
+"beginning"
+]
+],
+"prisa": [
+[
+"la prisa",
+"noun",
+"hurry, rush"
+]
+],
+"probando": [
+[
+"probar",
+"verb",
+"to try, to taste"
+]
+],
+"probar": [
+[
+"probar",
+"verb",
+"to try, to taste"
+]
+],
+"problema": [
+[
+"el problema",
+"noun",
+"problem"
+]
+],
+"problemas": [
+[
+"el problema",
+"noun",
+"problem"
+]
+],
+"probó": [
+[
+"probar",
+"verb",
+"to try, to taste"
+]
+],
+"proclamado": [
+[
+"proclamar",
+"verb",
+"to proclaim"
+]
+],
+"procurando": [
+[
+"procurar",
+"verb",
+"to try, to make sure"
+]
+],
+"productividad": [
+[
+"la productividad",
+"noun",
+"productivity"
+]
+],
+"producían": [
+[
+"producir",
+"verb",
+"to cause, to produce"
+]
+],
+"produjera": [
+[
+"producir",
+"verb",
+"to produce, to cause"
+]
+],
+"profesional": [
+[
+"profesional",
+"adj",
+"professional"
+]
+],
+"profesor": [
+[
+"el profesor",
+"noun",
+"teacher, professor"
+]
+],
+"profesora": [
+[
+"la profesora",
+"noun",
+"teacher, professor"
+]
+],
+"profunda": [
+[
+"profundo",
+"adj",
+"deep"
+]
+],
+"programa": [
+[
+"el programa",
+"noun",
+"program"
+]
+],
+"programas": [
+[
+"el programa",
+"noun",
+"program"
+]
+],
+"progreso": [
+[
+"el progreso",
+"noun",
+"progress"
+]
+],
+"promesa": [
+[
+"la promesa",
+"noun",
+"promise"
+]
+],
+"promesas": [
+[
+"la promesa",
+"noun",
+"promise"
+]
+],
+"prometen": [
+[
+"prometer",
+"verb",
+"to promise"
+]
+],
+"prometerle": [
+[
+"prometer",
+"verb",
+"to promise"
+]
+],
+"prometido": [
+[
+"prometer",
+"verb",
+"to promise"
+]
+],
+"prometimos": [
+[
+"prometer",
+"verb",
+"to promise"
+]
+],
+"prometió": [
+[
+"prometer",
+"verb",
+"to promise"
+]
+],
+"prometía": [
+[
+"prometer",
+"verb",
+"to promise"
+]
+],
+"prométanme": [
+[
+"prometer",
+"verb",
+"to promise"
+]
+],
+"pronto": [
+[
+"pronto",
+"adv",
+"soon, quickly"
+]
+],
+"pronunciación": [
+[
+"la pronunciación",
+"noun",
+"pronunciation"
+]
+],
+"pronunciada": [
+[
+"pronunciar",
+"verb",
+"to pronounce, to utter"
+]
+],
+"pronunciar": [
+[
+"pronunciar",
+"verb",
+"to say, to pronounce"
+]
+],
+"pronunció": [
+[
+"pronunciar",
+"verb",
+"to say, to pronounce"
+]
+],
+"propaga": [
+[
+"propagarse",
+"verb",
+"to spread"
+]
+],
+"propia": [
+[
+"propio",
+"adj",
+"own, typical of"
+]
+],
+"propio": [
+[
+"propio",
+"adj",
+"own"
+]
+],
+"proponer": [
+[
+"proponer",
+"verb",
+"to propose"
+]
+],
+"proponérmelo": [
+[
+"proponerse",
+"verb",
+"to intend, to set out"
+]
+],
+"proponérselo": [
+[
+"proponerse",
+"verb",
+"to intend, to set out"
+]
+],
+"proponía": [
+[
+"proponer",
+"verb",
+"to propose"
+]
+],
+"proporciones": [
+[
+"la proporción",
+"noun",
+"proportion"
+]
+],
+"propuesta": [
+[
+"la propuesta",
+"noun",
+"proposal"
+]
+],
+"propuesto": [
+[
+"proponer",
+"verb",
+"to propose"
+]
+],
+"propuso": [
+[
+"proponer",
+"verb",
+"to propose, to suggest"
+]
+],
+"protegerme": [
+[
+"proteger",
+"verb",
+"to protect"
+]
+],
+"protestó": [
+[
+"protestar",
+"verb",
+"to protest, to complain"
+]
+],
+"prototipo": [
+[
+"el prototipo",
+"noun",
+"prototype"
+]
+],
+"proveedores": [
+[
+"el proveedor",
+"noun",
+"supplier"
+]
+],
+"proyecto": [
+[
+"el proyecto",
+"noun",
+"project"
+]
+],
+"proyectos": [
+[
+"el proyecto",
+"noun",
+"project"
+]
+],
+"prudencia": [
+[
+"la prudencia",
+"noun",
+"caution, prudence"
+]
+],
+"prudente": [
+[
+"prudente",
+"adj",
+"prudent, sensible"
+]
+],
+"prueba": [
+[
+"la prueba",
+"noun",
+"test, proof"
+]
+],
+"pruébala": [
+[
+"probar",
+"verb",
+"to try, to taste"
+]
+],
+"pruébalo": [
+[
+"probar",
+"verb",
+"to try, to taste"
+]
+],
+"pródiga": [
+[
+"pródigo",
+"adj",
+"prodigal"
+]
+],
+"próxima": [
+[
+"próximo",
+"adj",
+"next"
+]
+],
+"publicamos": [
+[
+"publicar",
+"verb",
+"to publish"
+]
+],
+"publicará": [
+[
+"publicar",
+"verb",
+"to publish"
+]
+],
+"pude": [
+[
+"poder",
+"verb",
+"to be able to, can"
+]
+],
+"pudiera": [
+[
+"poder",
+"verb",
+"to be able to, can"
+]
+],
+"pudo": [
+[
+"poder",
+"verb",
+"to be able to, can"
+]
+],
+"pueblo": [
+[
+"el pueblo",
+"noun",
+"town, village"
+]
+],
+"pueblos": [
+[
+"el pueblo",
+"noun",
+"town, village"
+]
+],
+"pueda": [
+[
+"poder",
+"verb",
+"to be able to, can"
+]
+],
+"puede": [
+[
+"poder",
+"verb",
+"to be able to, can"
+]
+],
+"puedes": [
+[
+"poder",
+"verb",
+"to be able to, can"
+]
+],
+"puedo": [
+[
+"poder",
+"verb",
+"to be able to, can"
+]
+],
+"puente": [
+[
+"el puente",
+"noun",
+"bridge"
+]
+],
+"puerta": [
+[
+"la puerta",
+"noun",
+"door"
+]
+],
+"puertas": [
+[
+"la puerta",
+"noun",
+"door"
+]
+],
+"puerto": [
+[
+"el puerto",
+"noun",
+"port, harbor"
+]
+],
+"pues": [
+[
+"pues",
+"conj",
+"well, since, then"
+]
+],
+"puesto": [
+[
+"el puesto",
+"noun",
+"stall, stand"
+]
+],
+"pulgar": [
+[
+"el pulgar",
+"noun",
+"thumb"
+]
+],
+"pulsó": [
+[
+"pulsar",
+"verb",
+"to press, to tap"
+]
+],
+"punta": [
+[
+"la punta",
+"noun",
+"tip, point"
+]
+],
+"punto": [
+[
+"el punto",
+"noun",
+"point, spot"
+]
+],
+"punzada": [
+[
+"la punzada",
+"noun",
+"pang, stab"
+]
+],
+"pupitre": [
+[
+"el pupitre",
+"noun",
+"school desk"
+]
+],
+"puso": [
+[
+"poner",
+"verb",
+"to put, to place"
+]
+],
+"página": [
+[
+"la página",
+"noun",
+"page"
+]
+],
+"páginas": [
+[
+"la página",
+"noun",
+"page"
+]
+],
+"pájaros": [
+[
+"el pájaro",
+"noun",
+"bird"
+]
+]
+}

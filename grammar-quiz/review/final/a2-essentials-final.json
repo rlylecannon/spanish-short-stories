@@ -1,0 +1,256 @@
+{
+ "topics": [
+  {
+   "topic": "Por vs para",
+   "explain": "Both can mean 'for', but they aren't interchangeable. Para points ahead to a goal: purpose (para aprender), recipient (es para ti), destination (salgo para Madrid), deadline (para el lunes). Por points to the cause or the route: reason (gracias por venir), through/along (por la calle), exchange (por diez euros), parts of the day (por la mañana). Watch out: 'thanks for' is always gracias por.",
+   "examples": [
+    [
+     "Esta bombilla es para ti.",
+     "This bulb is for you."
+    ],
+    [
+     "Gracias por venir.",
+     "Thank you for coming."
+    ],
+    [
+     "Estudio español para hablar con mi familia.",
+     "I study Spanish (in order) to talk to my family."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "Fill in the blank: Estudio español ___ hablar con mi familia de México.",
+     "options": [
+      "para",
+      "por",
+      "de",
+      "a"
+     ],
+     "answer": 0,
+     "why": "Purpose ('in order to') is para + infinitive. Por + infinitive would give a reason ('because of'), not a goal."
+    },
+    {
+     "q": "Which sentence is correct?",
+     "options": [
+      "Gracias para el regalo.",
+      "Gracias de el regalo.",
+      "Gracias por el regalo.",
+      "Gracias a el regalo."
+     ],
+     "answer": 2,
+     "why": "Thanking someone for something always uses por: gracias por el regalo. Para marks a goal or recipient, not the reason for thanks."
+    }
+   ]
+  },
+  {
+   "topic": "Gustar-type verbs: encantar, interesar, doler",
+   "explain": "Gustar, encantar (to love), interesar and doler (to hurt) work 'backwards': the thing is the subject and the person is an indirect pronoun (me, te, le, nos, les). Use a singular verb for one thing or an infinitive (me gusta bailar), a plural verb for plural things (me duelen los pies). Add a + person for clarity: a Ana le encanta. Watch out: 'I like' is me gusta, never 'yo gusto'.",
+   "examples": [
+    [
+     "Me encanta tu música.",
+     "I love your music."
+    ],
+    [
+     "A mis padres les gustan las montañas.",
+     "My parents like the mountains."
+    ],
+    [
+     "Me duele la cabeza.",
+     "I have a headache. (lit. My head hurts me.)"
+    ]
+   ],
+   "questions": [
+    {
+     "q": "Fill in the blank: A nosotros ___ encantan los faroles.",
+     "options": [
+      "les",
+      "nosotros",
+      "nos",
+      "me"
+     ],
+     "answer": 2,
+     "why": "The indirect pronoun matches the person: a nosotros > nos. The verb (encantan) agrees with los faroles."
+    },
+    {
+     "q": "Which sentence means 'My feet hurt'?",
+     "options": [
+      "Me duele los pies.",
+      "Me duelen los pies.",
+      "Yo duelo los pies.",
+      "Mis pies me duele."
+     ],
+     "answer": 1,
+     "why": "With doler the body part is the subject, so the verb agrees with it: los pies (plural) > duelen. Spanish uses the article (los pies), not 'mis'."
+    }
+   ]
+  },
+  {
+   "topic": "Irregular preterite stems: tuve, estuve, pude, vine",
+   "explain": "Many everyday verbs have an irregular preterite stem and special endings with no accent: -e, -iste, -o, -imos, -ieron. Tener > tuv-, estar > estuv-, poder > pud-, poner > pus-, querer > quis-, venir > vin-, hacer > hic- (hizo). After j, -ieron becomes -eron: dijeron, trajeron. Watch out: 'tuvó' and 'pudó' are wrong; these forms never take a written accent.",
+   "examples": [
+    [
+     "Ayer tuve un examen.",
+     "I had an exam yesterday."
+    ],
+    [
+     "Estuvimos en Valencia dos días.",
+     "We were in Valencia for two days."
+    ],
+    [
+     "Daniela no pudo hablar.",
+     "Daniela couldn't speak."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "Fill in the blank: El sábado mis primos ___ a la boda.",
+     "options": [
+      "venieron",
+      "vinaron",
+      "vinon",
+      "vinieron"
+     ],
+     "answer": 3,
+     "why": "Venir has the irregular stem vin- and takes -ieron for 'they': vinieron."
+    },
+    {
+     "q": "Which sentence has a mistake?",
+     "options": [
+      "Ayer estuve en casa.",
+      "Pablo tuvó un problema.",
+      "No pudimos llegar a tiempo.",
+      "¿Qué hiciste el sábado?"
+     ],
+     "answer": 1,
+     "why": "Irregular preterites with special stems never take a written accent: tuvo, not 'tuvó'."
+    }
+   ]
+  },
+  {
+   "topic": "Obligation: tener que, hay que, deber",
+   "explain": "Tener que + infinitive = to have to (a personal obligation): tengo que trabajar. Hay que + infinitive = one has to / it's necessary (general, no subject): hay que reservar. Deber + infinitive = should / must (advice or duty): debes descansar. Watch out: don't drop the que after tener ('tengo trabajar' is wrong), and hay que never changes for the person.",
+   "examples": [
+    [
+     "Tengo que comprar una bombilla.",
+     "I have to buy a light bulb."
+    ],
+    [
+     "Si hay niebla, hay que caminar despacio.",
+     "If there's fog, you have to walk slowly."
+    ],
+    [
+     "Debes llamar a tu abuela.",
+     "You should call your grandmother."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "Fill in the blank: Mañana yo ___ levantarme a las seis.",
+     "options": [
+      "tengo",
+      "tengo que",
+      "hay que",
+      "debo que"
+     ],
+     "answer": 1,
+     "why": "A personal obligation is tener que + infinitive. Tengo without que is wrong, hay que has no personal subject (so not with levantarme), and deber takes no que."
+    },
+    {
+     "q": "What does 'Hay que llegar a las ocho' mean?",
+     "options": [
+      "There are eight people arriving.",
+      "I have arrived at eight.",
+      "One has to (you have to) arrive at eight.",
+      "There is someone who arrives at eight."
+     ],
+     "answer": 2,
+     "why": "Hay que + infinitive expresses a general obligation without naming who: 'you have to / it's necessary to'."
+    }
+   ]
+  },
+  {
+   "topic": "Negative words: no ... nada, nadie, nunca",
+   "explain": "Spanish uses double negatives. If nada, nadie or nunca comes after the verb, put no before the verb: no veo a nadie (I don't see anyone), no dice nada (it doesn't say anything). If the negative word comes first, drop the no: nadie respondió, nunca llego tarde. Watch out: 'I don't see anything' is no veo nada, not 'no veo algo'.",
+   "examples": [
+    [
+     "No vieron a nadie.",
+     "They didn't see anyone."
+    ],
+    [
+     "Nadie respondió.",
+     "Nobody answered."
+    ],
+    [
+     "Tu cuaderno no dice nada más.",
+     "Your notebook doesn't say anything else."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "Fill in the blank: En la calle no había ___.",
+     "options": [
+      "alguien",
+      "algo de nadie",
+      "nadie",
+      "nunca"
+     ],
+     "answer": 2,
+     "why": "After no + verb, Spanish uses the negative word: no había nadie (there wasn't anyone). Alguien is for positive sentences."
+    },
+    {
+     "q": "Which sentence correctly says 'I never arrive late'?",
+     "options": [
+      "Nunca llego tarde.",
+      "Nunca no llego tarde.",
+      "Llego nunca tarde.",
+      "No nunca llego tarde."
+     ],
+     "answer": 0,
+     "why": "When nunca comes before the verb, there is no 'no'. (No llego nunca tarde is also correct, with no before the verb and nunca after it.)"
+    }
+   ]
+  },
+  {
+   "topic": "Hace + time: 'ago' and 'for'",
+   "explain": "Hace + time with the preterite means 'ago': llegué hace dos años = I arrived two years ago. For something that started in the past and is still true, Spanish normally uses the present with desde hace or hace ... que: vivo aquí desde hace dos años = I've lived here for two years. Watch out: English uses 'have lived'; Spanish prefers the present here, and 'ago' is never 'antes'.",
+   "examples": [
+    [
+     "Mi mamá cambió de número hace dos días.",
+     "My mom changed her number two days ago."
+    ],
+    [
+     "Vivo en Santiago desde hace un año.",
+     "I've lived in Santiago for a year."
+    ],
+    [
+     "Hace diez minutos que te espero.",
+     "I've been waiting for you for ten minutes."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "Fill in the blank: Llegué a Madrid ___ tres semanas.",
+     "options": [
+      "desde",
+      "hace",
+      "hay",
+      "antes"
+     ],
+     "answer": 1,
+     "why": "Hace + time after a preterite means 'ago': llegué hace tres semanas. Desde means 'since', and 'antes tres semanas' is not Spanish ('three weeks earlier' would be tres semanas antes)."
+    },
+    {
+     "q": "What does 'Estudio español desde hace un año' mean?",
+     "options": [
+      "I studied Spanish a year ago.",
+      "I will study Spanish for a year.",
+      "I studied Spanish for a year, but I stopped.",
+      "I have been studying Spanish for a year."
+     ],
+     "answer": 3,
+     "why": "Present tense + desde hace = an action that started in the past and continues now: 'I have been studying ... for a year'."
+    }
+   ]
+  }
+ ]
+}

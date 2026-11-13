@@ -1,0 +1,942 @@
+{
+ "b2-01": {
+  "name": "Ignacio",
+  "g": "m",
+  "role": "veteran port archivist",
+  "dialogue": {
+   "steps": [
+    {
+     "say": "Hola, soy Ignacio Barrientos, archivista de la Compañía Naviera del Pacífico, aquí en Valparaíso. Llevo veintidós años catalogando libros viejos, y hace poco encontré algo que no esperaba. ¿Te lo cuento?",
+     "en": "Hi, I'm Ignacio Barrientos, archivist at the Pacific Shipping Company, here in Valparaíso. I've spent twenty-two years cataloguing old books, and recently I found something I didn't expect. Shall I tell you about it?",
+     "r": [
+      [
+       "¡Claro! ¿Qué encontró usted dentro de esos libros?",
+       "Of course! What did you find inside those books?",
+       1
+      ],
+      [
+       "Sí, por favor. Cuénteme antes de que me muera de curiosidad.",
+       "Yes, please. Tell me before I die of curiosity.",
+       1
+      ]
+     ]
+    },
+    {
+     "say": "Dentro de la tapa de un libro de contabilidad de 1953 había un sobre sin sello, dirigido a una tal Elvira Santander. El reglamento me obligaba a archivarlo sin más trámite, pero lo abrí. ¿Qué habrías hecho tú?",
+     "en": "Inside the cover of a 1953 account ledger there was an unstamped envelope, addressed to a certain Elvira Santander. The regulations required me to file it without further ado, but I opened it. What would you have done?",
+     "r": [
+      [
+       "Lo habría abierto también, sin que nadie se enterara, claro.",
+       "I'd have opened it too, without anyone finding out, of course.",
+       2
+      ],
+      [
+       "Habría seguido el reglamento, aunque me costara mucho.",
+       "I'd have followed the regulations, even if it was really hard for me.",
+       2
+      ]
+     ]
+    },
+    {
+     "say": "La carta la firmaba un tal Facundo, el 3 de marzo de 1953. Se embarcaba esa noche rumbo a Punta Arenas y prometía esperarla cada domingo junto al faro hasta que terminara el invierno. Alguien la escondió en aquel libro. ¿Por qué crees que lo hizo?",
+     "en": "The letter was signed by a certain Facundo, on 3 March 1953. He was setting sail that night for Punta Arenas and promised to wait for her every Sunday by the lighthouse until the winter was over. Someone hid it in that ledger. Why do you think they did it?",
+     "r": [
+      [
+       "Quizá la escondió para que nunca llegara a manos de Elvira.",
+       "Perhaps they hid it so that it would never reach Elvira.",
+       3
+      ],
+      [
+       "Tal vez no supo cómo entregarla y la guardó para que no se perdiera.",
+       "Maybe they didn't know how to deliver it and kept it so it wouldn't get lost.",
+       3
+      ]
+     ]
+    },
+    {
+     "say": "Adriana, la practicante, se ofreció a buscar en los registros. Yo le dije que, si fuera más joven, saldría a preguntar por todo el puerto, pero me duelen las rodillas. Si estuvieras en mi lugar, ¿qué harías?",
+     "en": "Adriana, the intern, offered to search the records. I told her that if I were younger I'd go out and ask all over the port, but my knees hurt. If you were in my place, what would you do?",
+     "r": [
+      [
+       "Si estuviera en su lugar, buscaría en los periódicos antiguos y en las esquelas.",
+       "If I were in your place, I'd search old newspapers and obituaries.",
+       4
+      ],
+      [
+       "Si yo fuera usted, aceptaría la ayuda de Adriana sin dudarlo.",
+       "If I were you, I'd accept Adriana's help without hesitation.",
+       4
+      ]
+     ]
+    },
+    {
+     "say": "Tras tres semanas de padrones y esquelas, encontramos a Elvira en Viña del Mar. Leyó la carta sin que le temblara la voz. Nos dijo que lo había esperado tres domingos, y que fue feliz y lo perdona, aunque él ya no esté para oírlo. ¿Qué te parece su respuesta?",
+     "en": "After three weeks of census records and obituaries, we found Elvira in Viña del Mar. She read the letter without her voice trembling. She told us she had waited for him three Sundays, and that she was happy and forgives him, even if he's no longer around to hear it. What do you think of her answer?",
+     "r": [
+      [
+       "Me parece muy generosa, aunque también un poco triste.",
+       "I find it very generous, although a bit sad too.",
+       5
+      ],
+      [
+       "Creo que la carta le dio paz antes de que fuera demasiado tarde.",
+       "I think the letter gave her peace before it was too late.",
+       5
+      ]
+     ]
+    },
+    {
+     "say": "Eso pienso yo también. Por cierto, infringí el reglamento por gusto: dejé el sobre vacío dentro de la tapa, para que algún futuro archivista tenga también su pequeña sorpresa. Gracias por escucharme.",
+     "en": "That's what I think too. By the way, I broke the rules on purpose: I left the empty envelope inside the cover, so that some future archivist gets a little surprise too. Thanks for listening.",
+     "end": true
+    }
+   ]
+  }
+ },
+ "b2-02": {
+  "name": "Esperanza",
+  "g": "f",
+  "role": "returning Yucatecan chef",
+  "dialogue": {
+   "steps": [
+    {
+     "say": "¡Hola! Soy Esperanza Pech. Llevaba once años dirigiendo la cocina de un restaurante con estrella en Barcelona cuando tuve que regresar a Mérida, porque mi papá se había lesionado la cadera. ¿Tú has vuelto alguna vez a un lugar donde nada había cambiado?",
+     "en": "Hi! I'm Esperanza Pech. I'd been running the kitchen of a starred restaurant in Barcelona for eleven years when I had to come back to Mérida, because my dad had injured his hip. Have you ever gone back to a place where nothing had changed?",
+     "r": [
+      [
+       "Sí, al pueblo de mis abuelos: todo seguía igual, y eso me sorprendió.",
+       "Yes, to my grandparents' village: everything was the same, and that surprised me.",
+       1
+      ],
+      [
+       "No, pero me imagino que eso desconcierta más que cualquier reforma.",
+       "No, but I imagine that's more unsettling than any renovation.",
+       1
+      ]
+     ]
+    },
+    {
+     "say": "Al principio quise modernizar La Ceiba: espuma de achiote, cochinita deconstruida, tacos sobre pizarra. Mi papá me dijo que aquí la gente no viene a que le expliquen la comida, sino a que se la den. ¿Qué opinas?",
+     "en": "At first I wanted to modernize La Ceiba: achiote foam, deconstructed cochinita, tacos on slate. My dad told me that people here don't come to have the food explained to them, but to be given it. What do you think?",
+     "r": [
+      [
+       "No es que tu idea fuera mala, pero los clientes buscaban lo de siempre.",
+       "It's not that your idea was bad, but the customers wanted the usual.",
+       2
+      ],
+      [
+       "Creo que tenía razón: los clientes temían que cambiaras demasiado.",
+       "I think he was right: the customers were afraid you'd change too much.",
+       2
+      ]
+     ]
+    },
+    {
+     "say": "El viernes que estrené la carta nueva fue un fracaso rotundo. Esa noche, mientras tallaba las ollas sola, entendí que mi formación, por brillante que fuera, no me daba derecho a menospreciar lo que habían construido mis padres. ¿Te ha pasado algo parecido?",
+     "en": "The Friday I launched the new menu was a total failure. That night, scrubbing the pots alone, I understood that my training, however brilliant, didn't give me the right to look down on what my parents had built. Has something similar happened to you?",
+     "r": [
+      [
+       "Sí. Por mucho que estudies, a veces la experiencia de otros vale más.",
+       "Yes. However much you study, sometimes other people's experience is worth more.",
+       3
+      ],
+      [
+       "Me pasó en el trabajo: aunque tenía buenas ideas, no escuché a nadie.",
+       "It happened to me at work: although I had good ideas, I didn't listen to anyone.",
+       3
+      ]
+     ]
+    },
+    {
+     "say": "Volví al pib, el horno de tierra del patio, como hacía mi abuela Regina. Ella solía decir: «La paciencia es el ingrediente que no se compra». ¿Hay algo que tu familia suela hacer igual desde siempre?",
+     "en": "I went back to the pib, the earth oven in the courtyard, the way my grandmother Regina did. She used to say: 'Patience is the ingredient you can't buy.' Is there something your family usually does the same way as always?",
+     "r": [
+      [
+       "Sí, en mi casa solemos preparar el mismo plato cada Navidad, y seguimos haciéndolo igual.",
+       "Yes, at home we usually make the same dish every Christmas, and we keep making it the same way.",
+       4
+      ],
+      [
+       "Mi abuela solía hacer pan los domingos, y mi madre sigue haciéndolo.",
+       "My grandmother used to make bread on Sundays, and my mother still does.",
+       4
+      ]
+     ]
+    },
+    {
+     "say": "A la cebolla morada encurtida le di un toque de naranja agria. Los clientes no notaron la novedad, pero mi papá sí. Le contesté: si no cambiara nada, no sería cocina, sería nostalgia. ¿Estás de acuerdo?",
+     "en": "I gave the pickled red onion a touch of sour orange. The customers didn't notice the change, but my dad did. I told him: if nothing changed, it wouldn't be cooking, it would be nostalgia. Do you agree?",
+     "r": [
+      [
+       "Sí. Aunque la tradición sea importante, tiene que evolucionar un poquito.",
+       "Yes. Even if tradition is important, it has to evolve a little.",
+       5
+      ],
+      [
+       "Totalmente: si siguiéramos cocinando siempre igual, acabaríamos aburriéndonos.",
+       "Totally: if we kept cooking the same way forever, we'd end up getting bored.",
+       5
+      ]
+     ]
+    },
+    {
+     "say": "Me alegra oírlo. Por eso no regresé a Barcelona: cada jueves la fonda ofrece un plato del día distinto, y quien se atreve a pedirlo suele salir sorprendido. ¡Ven a probarlo cuando quieras!",
+     "en": "I'm glad to hear it. That's why I didn't go back to Barcelona: every Thursday the eatery offers a different dish of the day, and whoever dares to order it usually leaves surprised. Come and try it whenever you like!",
+     "end": true
+    }
+   ]
+  }
+ },
+ "b2-03": {
+  "name": "Begoña",
+  "g": "f",
+  "role": "sceptical insurance adjuster",
+  "dialogue": {
+   "steps": [
+    {
+     "say": "Hola, soy Begoña Larrea, perita de seguros en Valladolid. Empecé el Camino en Sarria por una sola razón: había perdido una apuesta con mi hermano. ¿Tú has hecho alguna vez algo solo por orgullo?",
+     "en": "Hi, I'm Begoña Larrea, an insurance adjuster in Valladolid. I started the Camino in Sarria for one reason only: I'd lost a bet with my brother. Have you ever done something just out of pride?",
+     "r": [
+      [
+       "Sí, una vez corrí una media maratón solo para ganar una apuesta.",
+       "Yes, I once ran a half marathon just to win a bet.",
+       1
+      ],
+      [
+       "Creo que sí, pero nunca cien kilómetros a pie.",
+       "I think so, but never a hundred kilometres on foot.",
+       1
+      ]
+     ]
+    },
+    {
+     "say": "Mi hermano me exigió que caminara los últimos cien kilómetros, lo mínimo para obtener la Compostela. Al principio lo criticaba todo: a los que llevaban bastones como si fueran a escalar el Everest, a los que se hacían una foto con cada mojón… ¿Tú cómo habrías mirado a los peregrinos?",
+     "en": "My brother demanded that I walk the last hundred kilometres, the minimum to earn the Compostela. At first I criticized everything: the people who carried poles as if they were about to climb Everest, the ones who took a photo with every waymarker… How would you have looked at the pilgrims?",
+     "r": [
+      [
+       "Supongo que los habría mirado como si todos fueran turistas, igual que tú.",
+       "I suppose I'd have looked at them as if they were all tourists, just like you.",
+       2
+      ],
+      [
+       "Habría intentado no juzgarlos, como si cada uno tuviera su propia historia.",
+       "I'd have tried not to judge them, as if each one had a story of their own.",
+       2
+      ]
+     ]
+    },
+    {
+     "say": "En Melide, en lugar de mi mochila roja, llegó una verde y remendada. Xosé, el hospitalero, me animó a abrirla. Dentro había un cuaderno con fechas: 1971, 1976, 1982, 1993… Yo no les veía ningún patrón. ¿Sabes qué eran?",
+     "en": "In Melide, instead of my red backpack, a green patched one arrived. Xosé, the hostel host, encouraged me to open it. Inside there was a notebook with dates: 1971, 1976, 1982, 1993… I couldn't see any pattern. Do you know what they were?",
+     "r": [
+      [
+       "¿Eran años santos, cuando el 25 de julio cae en domingo?",
+       "Were they holy years, when the 25th of July falls on a Sunday?",
+       3
+      ],
+      [
+       "Ni idea. ¿Eran los viajes de alguna pareja?",
+       "No idea. Were they some couple's trips?",
+       3
+      ]
+     ]
+    },
+    {
+     "say": "Eran años santos, en los que se celebra el jubileo. Xosé me contó que el sepulcro del apóstol fue descubierto en el siglo IX y que el Pórtico de la Gloria fue esculpido por el Maestro Mateo. ¿Qué te interesa más del Camino, la historia o la gente?",
+     "en": "They were holy years, when the jubilee is celebrated. Xosé told me that the apostle's tomb was discovered in the ninth century and that the Portico of Glory was sculpted by Master Mateo. What interests you more about the Camino, the history or the people?",
+     "r": [
+      [
+       "La historia: me encantaría ver la columna del Pórtico, gastada por millones de manos.",
+       "The history: I'd love to see the Portico's column, worn down by millions of hands.",
+       4
+      ],
+      [
+       "La gente, sin duda. Los monumentos se visitan, pero las historias se escuchan.",
+       "The people, no doubt. Monuments are visited, but stories are listened to.",
+       4
+      ]
+     ]
+    },
+    {
+     "say": "El dueño era Rosendo, el anciano del sombrero de paja al que yo había criticado durante tres días. Me colgué su mochila y caminé hasta encontrarlo en Ribadiso. Él me dijo que la mía pesaba como si llevara piedras. ¿Qué crees que llevaba?",
+     "en": "The owner was Rosendo, the old man in the straw hat I'd been criticizing for three days. I put his backpack on and walked until I found him in Ribadiso. He told me mine weighed as if I were carrying stones. What do you think I had in it?",
+     "r": [
+      [
+       "¿Libros, por si el Camino te aburría?",
+       "Books, in case the Camino bored you?",
+       5
+      ],
+      [
+       "No sé… ¿Algo inútil, como si fueras de vacaciones a la playa?",
+       "I don't know… Something useless, as if you were going on a beach holiday?",
+       5
+      ]
+     ]
+    },
+    {
+     "say": "¡Libros! En la plaza del Obradoiro, Rosendo me pidió que escribiera yo la entrada de este año. Escribí que había venido por una apuesta y seguía sin creer en casi nada, pero que la vida de otro pesaba menos que mis libros. Gracias por escucharme, y buen Camino.",
+     "en": "Books! In the Plaza del Obradoiro, Rosendo asked me to write this year's entry myself. I wrote that I'd come because of a bet and still didn't believe in much, but that someone else's life weighed less than my books. Thanks for listening, and buen Camino.",
+     "end": true
+    }
+   ]
+  }
+ },
+ "b2-04": {
+  "name": "Maribel",
+  "g": "f",
+  "role": "Bogotá literary translator",
+  "dialogue": {
+   "steps": [
+    {
+     "say": "Hola, mucho gusto. Soy Maribel Ospina, traductora, y vivo en La Candelaria, aquí en Bogotá. Mis amigos me preguntan si de verdad se puede vivir de «copiar libros en otro idioma». ¿Usted qué cree?",
+     "en": "Hello, nice to meet you. I'm Maribel Ospina, a translator, and I live in La Candelaria, here in Bogotá. My friends ask me whether you can really make a living 'copying books into another language'. What do you think?",
+     "r": [
+      [
+       "Creo que traducir es mucho más que copiar: exige decidir cada palabra.",
+       "I think translating is much more than copying: it means deciding every word.",
+       1
+      ],
+      [
+       "No creo que sea copiar; me parece un oficio muy difícil.",
+       "I don't think it's copying; it seems a very difficult job to me.",
+       1
+      ]
+     ]
+    },
+    {
+     "say": "Estaba traduciendo las memorias de sir Alan Whitcombe, un diplomático británico, y encontré esta frase: «I may have been less than candid with my counterparts». En inglés es ambigua; el español, en cambio, me obligaba a decidirme. ¿Usted cómo la traduciría?",
+     "en": "I was translating the memoirs of Sir Alan Whitcombe, a British diplomat, and I came across this sentence: 'I may have been less than candid with my counterparts'. In English it's ambiguous; Spanish, on the other hand, forced me to make up my mind. How would you translate it?",
+     "r": [
+      [
+       "Diría «quizá no fui del todo sincero», aunque suena muy suave.",
+       "I'd say 'perhaps I wasn't entirely sincere', although it sounds very soft.",
+       2
+      ],
+      [
+       "Yo pondría «es posible que les mintiera»: me parece más honesto.",
+       "I'd put 'it's possible I lied to them': it seems more honest to me.",
+       2
+      ]
+     ]
+    },
+    {
+     "say": "Ramiro, mi editor, me pidió que lo suavizara, porque la embajada apoyaba la edición. Yo le contesté que matizar y falsear son vecinos muy cercanos. ¿Le parece que yo exageraba?",
+     "en": "Ramiro, my publisher, asked me to soften it, because the embassy was backing the edition. I answered that nuancing and falsifying are very close neighbours. Do you think I was exaggerating?",
+     "r": [
+      [
+       "No me parece que exagerara; el traductor no debe corregir al autor.",
+       "I don't think you were exaggerating; the translator shouldn't correct the author.",
+       3
+      ],
+      [
+       "Entiendo a Ramiro; sin embargo, creo que usted tenía razón.",
+       "I understand Ramiro; however, I think you were right.",
+       3
+      ]
+     ]
+    },
+    {
+     "say": "Le escribí a Whitcombe, y me respondió en pocas horas: la frase significaba exactamente lo que yo sospechaba. Añadió: «ojalá yo hubiera tenido esa libertad hace veinticinco años». Me sentí como si me hubieran confiado una carga. ¿Usted qué habría sentido?",
+     "en": "I wrote to Whitcombe, and he replied within a few hours: the sentence meant exactly what I suspected. He added: 'I wish I had had that freedom twenty-five years ago.' I felt as if I'd been entrusted with a burden. What would you have felt?",
+     "r": [
+      [
+       "Me habría sentido como si el autor me hubiera pedido un favor muy personal.",
+       "I'd have felt as if the author had asked me a very personal favour.",
+       4
+      ],
+      [
+       "Ojalá me hubiera pasado algo así: es una carga, pero también un honor.",
+       "I wish something like that had happened to me: it's a burden, but also an honour.",
+       4
+      ]
+     ]
+    },
+    {
+     "say": "Al final propuse una solución intermedia: «es posible que no fuera del todo franco con mis interlocutores, y no por descuido», con una nota al pie firmada por mí. ¿Le parece una buena solución?",
+     "en": "In the end I proposed a middle way: 'it's possible I wasn't entirely frank with my counterparts, and not through carelessness', with a footnote signed by me. Do you think it's a good solution?",
+     "r": [
+      [
+       "Sí. En cuanto a la nota, me parece necesaria para explicar la ambigüedad.",
+       "Yes. As for the note, I think it's necessary to explain the ambiguity.",
+       5
+      ],
+      [
+       "Me gusta; sin embargo, entiendo que a algunos lectores les pareciera innecesaria.",
+       "I like it; however, I understand that some readers found it unnecessary.",
+       5
+      ]
+     ]
+    },
+    {
+     "say": "Eso pasó, efectivamente: unos críticos elogiaron la «audacia» de la nota y otros la tacharon de innecesaria. La embajada, por su parte, no hizo comentario alguno. Yo aprendí que fidelidad no es sinónimo de literalidad. Gracias por la conversación.",
+     "en": "That's exactly what happened: some critics praised the 'boldness' of the note and others dismissed it as unnecessary. The embassy, for its part, made no comment at all. I learned that faithfulness is not the same as literalness. Thank you for the conversation.",
+     "end": true
+    }
+   ]
+  }
+ },
+ "b2-05": {
+  "name": "Mercedes",
+  "g": "f",
+  "role": "amateur bookshop sleuth",
+  "dialogue": {
+   "steps": [
+    {
+     "say": "Hola, soy Mercedes. Trabajo con mi abuelo, don Aníbal, en la Librería Ulloa, una librería de viejo de la avenida Corrientes. Un sábado a las ocho, al bajar la persiana, vi que la vitrina del fondo estaba vacía. ¿Sabés qué faltaba?",
+     "en": "Hi, I'm Mercedes. I work with my grandfather, don Aníbal, at the Librería Ulloa, a second-hand bookshop on Avenida Corrientes. One Saturday at eight, as I pulled down the shutter, I saw that the display case at the back was empty. Do you know what was missing?",
+     "r": [
+      [
+       "¿Un libro muy valioso? ¿Una primera edición, quizás?",
+       "A very valuable book? A first edition, perhaps?",
+       1
+      ],
+      [
+       "Ni idea. ¿Qué había en la vitrina?",
+       "No idea. What was in the case?",
+       1
+      ]
+     ]
+    },
+    {
+     "say": "Una primera edición de «Ficciones», de Borges, publicada por Sur en 1944, con una dedicatoria a mano. El lunes iba a vendérsela a un coleccionista, Ricardo Ugarte. Mi abuelo me pidió que no llamara a la policía. ¿Vos qué habrías hecho?",
+     "en": "A first edition of Borges's 'Ficciones', published by Sur in 1944, with a handwritten dedication. On Monday I was going to sell it to a collector, Ricardo Ugarte. My grandfather asked me not to call the police. What would you have done?",
+     "r": [
+      [
+       "Yo habría llamado a la policía igual, aunque tu abuelo no quisiera.",
+       "I'd have called the police anyway, even if your grandfather didn't want me to.",
+       2
+      ],
+      [
+       "Les habría preguntado a los testigos qué habían visto y oído.",
+       "I'd have asked the witnesses what they had seen and heard.",
+       2
+      ]
+     ]
+    },
+    {
+     "say": "Eso hice yo. Tobías, el empleado, me dijo que mi abuelo le había pedido que bajara al sótano y que solo había oído la campanita una vez. Doña Olivia, la del kiosco, me contó que a las seis y cuarto había visto salir a un hombre alto, de sombrero, con un paraguas que chorreaba agua. ¿Notás algo raro?",
+     "en": "That's what I did. Tobías, the shop assistant, told me my grandfather had asked him to go down to the basement and that he'd only heard the little bell once. Doña Olivia, from the news-stand, told me that at a quarter past six she'd seen a tall man in a hat come out, with an umbrella dripping water. Do you notice anything odd?",
+     "r": [
+      [
+       "Sí: si ese hombre hubiera entrado, la campanita habría sonado dos veces.",
+       "Yes: if that man had come in, the bell would have rung twice.",
+       3
+      ],
+      [
+       "Tobías dijo que solo la había oído una vez; eso no encaja.",
+       "Tobías said he'd only heard it once; that doesn't fit.",
+       3
+      ]
+     ]
+    },
+    {
+     "say": "¡Exacto! Y Bernardo, el cadete de la pizzería, me dijo que había empezado a llover a las siete y diez. Si a las seis y cuarto hubiera llovido, habría vuelto empapado. ¿Quién creés que mentía?",
+     "en": "Exactly! And Bernardo, the pizzeria's delivery boy, told me it had started raining at ten past seven. If it had rained at a quarter past six, he'd have come back soaked. Who do you think was lying?",
+     "r": [
+      [
+       "Creo que doña Olivia mentía, y quizás tu abuelo también.",
+       "I think doña Olivia was lying, and maybe your grandfather too.",
+       4
+      ],
+      [
+       "Si los dos contaron lo mismo, casi con las mismas palabras, lo habían ensayado.",
+       "If they both told the same story, almost word for word, they'd rehearsed it.",
+       4
+      ]
+     ]
+    },
+    {
+     "say": "El domingo vi el libro entre las revistas del kiosco. La dedicatoria decía: «Para Aníbal, que me leyó este libro entero una noche de invierno. Elsa, 1961». Era de mi abuela. Mi abuelo me dijo: ojalá me hubieras preguntado antes de prometérselo a ese señor. ¿Lo entendés?",
+     "en": "On Sunday I saw the book among the magazines at the news-stand. The dedication said: 'For Aníbal, who read me this whole book one winter night. Elsa, 1961.' It was my grandmother's. My grandfather told me: I wish you'd asked me before promising it to that man. Do you understand him?",
+     "r": [
+      [
+       "Sí. Aunque le hubieran ofrecido el triple, era un recuerdo de su esposa.",
+       "Yes. Even if they'd offered him three times as much, it was a keepsake from his wife.",
+       5
+      ],
+      [
+       "Lo entiendo, aunque ojalá te lo hubiera dicho antes de esconderlo.",
+       "I understand, although I wish he'd told you before hiding it.",
+       5
+      ]
+     ]
+    },
+    {
+     "say": "Por eso, cuando Ugarte llegó el lunes con su maletín, le dije que el libro ya no estaba a la venta. Ahora la gente viene a ver el libro que no se vende, y en el barrio todavía se dice que lo robó un hombre de sombrero. Yo nunca lo desmentí. ¡Gracias por escucharme!",
+     "en": "So when Ugarte arrived on Monday with his briefcase, I told him the book was no longer for sale. Now people come to see the book that isn't for sale, and in the neighbourhood they still say a man in a hat stole it. I never denied it. Thanks for listening!",
+     "end": true
+    }
+   ]
+  }
+ },
+ "b2-06": {
+  "name": "Eusebio",
+  "g": "m",
+  "role": "Guanajuato master watchmaker",
+  "dialogue": {
+   "steps": [
+    {
+     "say": "Buenas tardes. Soy Eusebio, relojero, y tengo mi taller en una callejuela empinada de Guanajuato. A mis aprendices les advierto que no les enseñaré a reparar relojes, sino a escucharlos. ¿A usted le gustaría aprender así?",
+     "en": "Good afternoon. I'm Eusebio, a watchmaker, and I have my workshop on a steep little street in Guanajuato. I warn my apprentices that I won't teach them to repair watches, but to listen to them. Would you like to learn that way?",
+     "r": [
+      [
+       "Me gustaría, aunque creo que me faltaría paciencia.",
+       "I'd like to, although I think I'd lack the patience.",
+       1
+      ],
+      [
+       "Sí, aunque me sorprende: pensaba que primero se aprendía con las herramientas.",
+       "Yes, although it surprises me: I thought you learned with the tools first.",
+       1
+      ]
+     ]
+    },
+    {
+     "say": "En el último cajón de mi mesa guardaba un reloj de bolsillo de plata, con unas iniciales casi borradas. Estaba parado a las cuatro y diez. Me lo habían dejado treinta y un años antes, y quien lo dejó prometió volver por él cuando estuviera listo. ¿Por qué cree que no lo ponía en marcha?",
+     "en": "In the bottom drawer of my desk I kept a silver pocket watch, with some almost worn-away initials. It was stopped at ten past four. It had been left with me thirty-one years earlier, and the person who left it promised to come back for it when it was ready. Why do you think I didn't set it going?",
+     "r": [
+      [
+       "Quizá pensaba que, mientras estuviera parado, la dueña tendría un motivo para volver.",
+       "Perhaps you thought that as long as it was stopped, the owner would have a reason to come back.",
+       2
+      ],
+      [
+       "¿Estaba roto, o usted no quería que funcionara hasta que ella volviera?",
+       "Was it broken, or did you not want it to work until she came back?",
+       2
+      ]
+     ]
+    },
+    {
+     "say": "No estaba roto: lo había terminado hacía mucho. Pero un jueves de noviembre, mientras yo estaba en un entierro, mi aprendiz abrió el cajón y le dio cuerda. Cuando regresé, el taller estaba lleno de aquel latido. Me dijo que pensaba que estaba descompuesto. ¿Usted qué le habría dicho?",
+     "en": "It wasn't broken: I'd finished it long before. But one Thursday in November, while I was at a funeral, my apprentice opened the drawer and wound it. When I came back, the workshop was full of that heartbeat. I was told they thought it was broken. What would you have said?",
+     "r": [
+      [
+       "Le habría preguntado quién le había dado permiso.",
+       "I'd have asked who had given permission.",
+       3
+      ],
+      [
+       "Le habría explicado que el reloj no estaba descompuesto, sino esperando.",
+       "I'd have explained that the watch wasn't broken, but waiting.",
+       3
+      ]
+     ]
+    },
+    {
+     "say": "Al día siguiente me pidieron perdón y se ofrecieron a detenerlo otra vez, pero ya no se podía dar marcha atrás. A lo mejor yo llevaba años esperando que alguien se atreviera. ¿Cree que hice bien en no pararlo?",
+     "en": "The next day I got an apology and an offer to stop it again, but there was no going back. Perhaps I'd been waiting for years for someone to dare. Do you think I was right not to stop it?",
+     "r": [
+      [
+       "Sí. Mientras siguiera parado, usted tampoco podía seguir adelante.",
+       "Yes. As long as it stayed stopped, you couldn't move on either.",
+       4
+      ],
+      [
+       "Creo que sí; a veces hace falta que alguien rompa una costumbre.",
+       "I think so; sometimes someone needs to break a habit.",
+       4
+      ]
+     ]
+    },
+    {
+     "say": "Tres semanas después vino una joven. Me dijo que su abuela, Salomé, había fallecido en primavera y le había pedido que no viniera hasta que ella ya no pudiera venir. A mí Salomé me había rogado que no lo pusiera en marcha hasta que pudiera soportar oírlo. ¿Qué siente al oír eso?",
+     "en": "Three weeks later a young woman came in. She told me her grandmother, Salomé, had died in the spring and had asked her not to come until she herself could no longer come. Salomé had begged me not to start it until she could bear to hear it. How do you feel hearing that?",
+     "r": [
+      [
+       "Me parece triste, pero también bonito que el reloj ya estuviera funcionando cuando ella llegó.",
+       "It seems sad, but also beautiful that the watch was already running when she arrived.",
+       5
+      ],
+      [
+       "Me conmueve: es como si el reloj hubiera esperado a la persona correcta.",
+       "It moves me: it's as if the watch had waited for the right person.",
+       5
+      ]
+     ]
+    },
+    {
+     "say": "Así lo siento yo. Le puse el reloj en las manos, todavía latiendo, y ese día le dije a mi aprendiz: «Mañana empiezo a enseñarte a reparar». A escuchar ya había aprendido. Gracias por su visita.",
+     "en": "That's how I feel too. I put the watch in her hands, still ticking, and that day I told my apprentice: 'Tomorrow I start teaching you to repair.' The listening had already been learned. Thank you for your visit.",
+     "end": true
+    }
+   ]
+  }
+ },
+ "b2-07": {
+  "name": "Paloma",
+  "g": "f",
+  "role": "Poblana food writer",
+  "dialogue": {
+   "steps": [
+    {
+     "say": "¡Hola! Soy Paloma Zenteno, poblana de nacimiento. Llevaba diez años escribiendo sobre comida en la capital cuando mi editora me pidió que descubriera quién inventó el mole poblano. ¿Tú sabes quién fue?",
+     "en": "Hi! I'm Paloma Zenteno, born in Puebla. I'd been writing about food in the capital for ten years when my editor asked me to find out who invented mole poblano. Do you know who it was?",
+     "r": [
+      [
+       "Dicen que fue una monja de Santa Rosa la que lo inventó, ¿no?",
+       "They say it was a nun from Santa Rosa who invented it, right?",
+       1
+      ],
+      [
+       "Ni idea, pero sospecho que cada familia tiene su propia respuesta.",
+       "No idea, but I suspect every family has its own answer.",
+       1
+      ]
+     ]
+    },
+    {
+     "say": "Mi abuela, doña Eulalia, dice que fue una monja de Santa Rosa quien inventó el mole. Pero don Abundio, el de la fonda de enfrente, asegura que su bisabuela les dio de comer mole a los soldados de Zaragoza el 5 de mayo de 1862. ¿A quién le creerías tú?",
+     "en": "My grandmother, doña Eulalia, says it was a nun from Santa Rosa who invented mole. But don Abundio, who runs the eatery opposite, claims his great-grandmother fed mole to Zaragoza's soldiers on 5 May 1862. Who would you believe?",
+     "r": [
+      [
+       "A tu abuela: la leyenda del convento es casi dos siglos más antigua.",
+       "Your grandmother: the convent legend is almost two centuries older.",
+       2
+      ],
+      [
+       "A ninguno de los dos; si fuera tan fácil, no habría tantas versiones.",
+       "Neither of them; if it were that easy, there wouldn't be so many versions.",
+       2
+      ]
+     ]
+    },
+    {
+     "say": "Lo curioso es que mi abuela y don Abundio llevaban más de cuarenta años sin dirigirse la palabra. Hice una prueba a ciegas con seis vecinos, y nadie supo distinguir los dos moles. ¿Qué habrías pensado tú?",
+     "en": "The odd thing is that my grandmother and don Abundio hadn't spoken to each other for more than forty years. I did a blind tasting with six neighbours, and nobody could tell the two moles apart. What would you have thought?",
+     "r": [
+      [
+       "Habría pensado que alguien llevaba años preparando la misma pasta para los dos.",
+       "I'd have thought someone had been making the same paste for both of them for years.",
+       3
+      ],
+      [
+       "Si yo hubiera hecho la prueba, habría sospechado de quien muele los chiles.",
+       "If I'd done the test, I'd have suspected whoever grinds the chiles.",
+       3
+      ]
+     ]
+    },
+    {
+     "say": "¡Eso fue! Doña Fidela, la molinera, a cada uno le fue poniendo un poquito de lo del otro. Me dijo que, si les hubiera dicho la verdad, le habrían dejado de traer chiles los dos. ¿Tú se lo habrías dicho?",
+     "en": "That was it! Doña Fidela, who runs the mill, gradually added a little of each one's recipe to the other's. She told me that if she'd told them the truth, they'd both have stopped bringing her chiles. Would you have told them?",
+     "r": [
+      [
+       "Yo tampoco se lo habría dicho; era mejor que siguieran contentos.",
+       "I wouldn't have told them either; it was better that they stayed happy.",
+       4
+      ],
+      [
+       "Sí, se lo habría dicho, aunque se enojaran conmigo.",
+       "Yes, I'd have told them, even if they got angry with me.",
+       4
+      ]
+     ]
+    },
+    {
+     "say": "Al final mi abuela sacó su cuaderno negro: «Mole de Santa Rosa» y, debajo, «Corregido por Abundio, 1983». ¡Habían sido novios! Me dijo que, si él no le hubiera cambiado la receta sin pedirle permiso, se habría casado con él. ¿Qué te parece?",
+     "en": "In the end my grandmother brought out her black notebook: 'Mole de Santa Rosa' and, underneath, 'Corrected by Abundio, 1983'. They'd been sweethearts! She told me that if he hadn't changed her recipe without asking, she'd have married him. What do you think?",
+     "r": [
+      [
+       "Me parece que fue el orgullo, y no el mole, lo que los separó.",
+       "I think it was pride, not mole, that drove them apart.",
+       5
+      ],
+      [
+       "¡Qué historia! Llevaban décadas cocinando el mismo mole sin saberlo.",
+       "What a story! They'd spent decades cooking the same mole without knowing it.",
+       5
+      ]
+     ]
+    },
+    {
+     "say": "Por eso mi artículo se tituló «Nadie inventó el mole: lo inventaron todos». A mi editora no le gustó nada, pero don Abundio lo enmarcó en su fonda, y mi abuela, en la suya. ¡Gracias por platicar conmigo!",
+     "en": "That's why my article was titled 'Nobody invented mole: everyone did'. My editor didn't like it at all, but don Abundio framed it in his eatery, and my grandmother in hers. Thanks for chatting with me!",
+     "end": true
+    }
+   ]
+  }
+ },
+ "b2-08": {
+  "name": "Joaquín",
+  "g": "m",
+  "role": "returning old friend",
+  "dialogue": {
+   "steps": [
+    {
+     "say": "Hola, soy Joaquín. Después de veinte años en España, volví a Valparaíso para cumplir un juramento que hicimos cinco amigos, una noche de diciembre, en lo alto del cerro. ¿Tú has vuelto a ver a gente de la que te alejaste?",
+     "en": "Hi, I'm Joaquín. After twenty years in Spain, I went back to Valparaíso to keep an oath five of us friends made one December night, at the top of the hill. Have you ever met up again with people you'd drifted away from?",
+     "r": [
+      [
+       "Sí, a unos compañeros del colegio con los que no hablaba desde hacía años.",
+       "Yes, some schoolmates I hadn't talked to in years.",
+       1
+      ],
+      [
+       "No, pero hay una persona a la que me gustaría volver a ver.",
+       "No, but there's someone I'd like to see again.",
+       1
+      ]
+     ]
+    },
+    {
+     "say": "Lo primero que noté fue cuánto habíamos cambiado: Renato se había convertido en un hombre ancho y calvo, y Matías se había hecho veterinario. Según ellos, mi acento se había vuelto «medio español». ¿Tú has cambiado mucho en los últimos años?",
+     "en": "The first thing I noticed was how much we'd changed: Renato had turned into a broad, bald man, and Matías had become a vet. According to them, my accent had become 'half Spanish'. Have you changed much in recent years?",
+     "r": [
+      [
+       "Bastante: mi vida se ha vuelto mucho más tranquila.",
+       "Quite a lot: my life has become much calmer.",
+       2
+      ],
+      [
+       "Creo que sí; lo más curioso es que mis gustos han cambiado por completo.",
+       "I think so; the oddest thing is that my tastes have changed completely.",
+       2
+      ]
+     ]
+    },
+    {
+     "say": "Yo llevaba un relato ensayado: el de un muchacho al que sus amigos habían dado la espalda. Habíamos reunido ciento ochenta mil pesos para grabar una maqueta, el sobre en el que yo los guardaba desapareció, y me fui convencido de que me tomaban por ladrón. ¿Qué crees que pasó?",
+     "en": "I had a rehearsed story: that of a young man whose friends had turned their backs on him. We'd raised one hundred and eighty thousand pesos to record a demo, the envelope I kept them in disappeared, and I left convinced they took me for a thief. What do you think happened?",
+     "r": [
+      [
+       "Quizá nadie pensó eso, y fuiste tú quien se marchó.",
+       "Maybe nobody thought that, and you were the one who left.",
+       3
+      ],
+      [
+       "Tal vez el sobre apareció después, cuando ya no estabas.",
+       "Maybe the envelope turned up later, when you were gone.",
+       3
+      ]
+     ]
+    },
+    {
+     "say": "Las dos cosas. Matías sacó un sobre amarillento, cuya goma elástica estaba ya reseca: dentro estaban los billetes y una nota con mi letra. Yo mismo lo había guardado en un cajón de la sala de ensayo. ¿Qué habrías sentido tú?",
+     "en": "Both. Matías took out a yellowed envelope, whose rubber band had dried out: inside were the banknotes and a note in my handwriting. I'd put it in a drawer in the rehearsal room myself. What would you have felt?",
+     "r": [
+      [
+       "Lo primero, alivio; lo segundo, bastante vergüenza.",
+       "First, relief; second, quite a lot of shame.",
+       4
+      ],
+      [
+       "Lo más difícil habría sido aceptar que la ofensa no era real.",
+       "The hardest thing would have been accepting that the offence wasn't real.",
+       4
+      ]
+     ]
+    },
+    {
+     "say": "Eso mismo sentí. Después bajamos en el Ascensor Reina Victoria para cumplir la segunda parte del juramento: quien hubiera ido más lejos pagaría la primera ronda. ¿Quién crees que pagó?",
+     "en": "That's just what I felt. Then we went down in the Reina Victoria funicular to keep the second part of the oath: whoever had gone furthest would pay for the first round. Who do you think paid?",
+     "r": [
+      [
+       "¡Tú, claro! Vives al otro lado del océano.",
+       "You, of course! You live on the other side of the ocean.",
+       5
+      ],
+      [
+       "Supongo que la persona que vivía más lejos, es decir, tú.",
+       "I suppose the person who lived furthest away, in other words, you.",
+       5
+      ]
+     ]
+    },
+    {
+     "say": "Exacto, pagué yo. Esa noche, en un bar del puerto, les conté la versión nueva: la de un chico orgulloso que se equivocó de enemigo. Hoy guardo el sobre en un cajón de mi escritorio, en Barcelona, y la próxima cita ya está anotada en el calendario. Gracias por escucharme.",
+     "en": "Exactly, I paid. That night, in a bar by the port, I told them the new version: that of a proud young man who picked the wrong enemy. Today I keep the envelope in a drawer of my desk in Barcelona, and the next reunion is already in my calendar. Thanks for listening.",
+     "end": true
+    }
+   ]
+  }
+ },
+ "b2-09": {
+  "name": "Efraín",
+  "g": "m",
+  "role": "veteran night guard",
+  "dialogue": {
+   "steps": [
+    {
+     "say": "Buenas noches. Soy Efraín Calderón, guardia nocturno del Museo de la Ciudad, aquí en el centro histórico de Quito. En veintitrés años nunca me han asustado los pasillos a oscuras. ¿Y a usted?",
+     "en": "Good evening. I'm Efraín Calderón, night guard at the City Museum, here in Quito's historic centre. In twenty-three years the dark corridors have never frightened me. What about you?",
+     "r": [
+      [
+       "A mí sí, un poco; un edificio viejo de noche impresiona.",
+       "They do frighten me a bit; an old building at night is unsettling.",
+       1
+      ],
+      [
+       "Tampoco. Para mí, un edificio viejo no hace más que crujir.",
+       "Nor me. For me, an old building just creaks.",
+       1
+      ]
+     ]
+    },
+    {
+     "say": "Pues un martes de octubre, serían las tres de la madrugada, oí una melodía de caja de música que venía de la sala siete. La sala estaba cerrada con llave. ¿Usted qué pensaría que era?",
+     "en": "Well, one Tuesday in October, it must have been three in the morning, I heard a music-box tune coming from room seven. The room was locked. What would you think it was?",
+     "r": [
+      [
+       "Pensaría que sería la radio de algún limpiador despistado.",
+       "I'd think it must be some absent-minded cleaner's radio.",
+       2
+      ],
+      [
+       "¿Un fantasma? O alguien que tuviera una llave que no debería tener.",
+       "A ghost? Or someone who had a key they shouldn't have.",
+       2
+      ]
+     ]
+    },
+    {
+     "say": "La cámara de la sala llevaba una semana averiada, de modo que no había imágenes. En el libro de incidencias anoté «Sin novedad». Fue la primera mentira de mi carrera. ¿Usted habría escrito la verdad?",
+     "en": "The room's camera had been broken for a week, so there was no footage. In the incident log I wrote 'Nothing to report'. It was the first lie of my career. Would you have written the truth?",
+     "r": [
+      [
+       "Sí. Ahora bien, entiendo que temiera que lo tomaran por loco.",
+       "Yes. That said, I understand you were afraid they'd think you were crazy.",
+       3
+      ],
+      [
+       "Creo que no: no hay nadie que le crea a un guardia que oye música a las tres.",
+       "I don't think so: there's nobody who'd believe a guard who hears music at three.",
+       3
+      ]
+     ]
+    },
+    {
+     "say": "La noche siguiente monté guardia detrás del vestido de novia. A eso de las tres entró Rosario, la señora de la limpieza, abrió la vitrina y grabó la música con el teléfono para su madre, doña Noemí. Me dijo: «Busco a alguien que me diga que no le hago daño a nadie». ¿Usted qué le habría dicho?",
+     "en": "The next night I kept watch behind the wedding dress. At around three, Rosario, the cleaning lady, came in, opened the case and recorded the music on her phone for her mother, doña Noemí. She told me: 'I'm looking for someone who'll tell me I'm not hurting anyone.' What would you have told her?",
+     "r": [
+      [
+       "Le habría dicho que no conozco a nadie que cuide esa caja con más cariño.",
+       "I'd have told her I don't know anyone who looks after that box more lovingly.",
+       4
+      ],
+      [
+       "Que no le hacía daño a nadie, pero que necesitaba un permiso oficial.",
+       "That she wasn't hurting anyone, but she needed official permission.",
+       4
+      ]
+     ]
+    },
+    {
+     "say": "Le dije que yo no había visto nada. Ahora bien, desde el día siguiente la llave la tuvo ella de forma oficial, y la doctora Aguirre corrigió la errata del cartel. Ahora la caja suena una vez al día, a las doce. ¿Qué le parece?",
+     "en": "I told her I hadn't seen a thing. That said, from the next day on she had the key officially, and Dr Aguirre corrected the misprint on the label. Now the box plays once a day, at twelve. What do you think?",
+     "r": [
+      [
+       "Me parece perfecto: por fin la caja tiene familia.",
+       "I think it's perfect: at last the box has a family.",
+       5
+      ],
+      [
+       "Me encanta. Por cierto, ¿doña Noemí llegó a oírla en el museo?",
+       "I love it. By the way, did doña Noemí get to hear it at the museum?",
+       5
+      ]
+     ]
+    },
+    {
+     "say": "Lo mejor fue la visita nocturna: doña Noemí vino en silla de ruedas y, cuando empezó la melodía, sonrió y dijo el nombre de su hija. Esa noche escribí: «Se ha resuelto un misterio sin culpables». La cámara, por cierto, nunca llegó a repararse. Gracias por la compañía.",
+     "en": "The best part was the night tour: doña Noemí came in a wheelchair and, when the tune began, she smiled and said her daughter's name. That night I wrote: 'A mystery has been solved with no culprits.' The camera, by the way, never got fixed. Thanks for the company.",
+     "end": true
+    }
+   ]
+  }
+ },
+ "b2-10": {
+  "name": "Daylín",
+  "g": "f",
+  "role": "Havana photo restorer",
+  "dialogue": {
+   "steps": [
+    {
+     "say": "¡Hola! Soy Daylín, restauradora en un archivo municipal de La Habana Vieja. ¿Quieres un buchito de café? Te cuento lo que me pasó con una foto del Capitolio.",
+     "en": "Hi! I'm Daylín, a restorer at a municipal archive in Old Havana. Would you like a little shot of coffee? Let me tell you what happened to me with a photo of the Capitolio.",
+     "r": [
+      [
+       "¡Claro que sí! ¿Qué le pasaba a la foto?",
+       "Of course! What was wrong with the photo?",
+       1
+      ],
+      [
+       "Gracias. ¿Era una foto muy antigua?",
+       "Thanks. Was it a very old photo?",
+       1
+      ]
+     ]
+    },
+    {
+     "say": "En el reverso decía «Capitolio, 1938»: una pareja joven riéndose al pie de la escalinata. Pero al limpiar la esquina apareció una máquina, como decimos aquí a los carros, con aletas de los años cincuenta. ¿Qué habría pasado, según tú?",
+     "en": "On the back it said 'Capitolio, 1938': a young couple laughing at the foot of the steps. But as I cleaned the corner a 'máquina', as we call cars here, appeared, with fins from the fifties. What could have happened, in your view?",
+     "r": [
+      [
+       "Alguien se habría equivocado de década al escribir la fecha.",
+       "Someone must have got the decade wrong when writing the date.",
+       2
+      ],
+      [
+       "Quizás algún archivero la habría catalogado deprisa, sin mirar bien.",
+       "Perhaps some archivist had catalogued it in a hurry, without looking properly.",
+       2
+      ]
+     ]
+    },
+    {
+     "say": "Eso pensé yo. Migdalia, la directora, me dio hasta el viernes: si no encontraba una explicación, el cartel saldría con «1938», dijera yo lo que dijera. ¿Tú habrías insistido?",
+     "en": "That's what I thought. Migdalia, the director, gave me until Friday: if I didn't find an explanation, the poster would go out with '1938', whatever I said. Would you have insisted?",
+     "r": [
+      [
+       "Sí, costara lo que costara; es una cuestión de rigor.",
+       "Yes, whatever it took; it's a question of rigour.",
+       3
+      ],
+      [
+       "Creo que sí. Fuera quien fuera la pareja, merecía la fecha correcta.",
+       "I think so. Whoever the couple were, they deserved the right date.",
+       3
+      ]
+     ]
+    },
+    {
+     "say": "Fui a la Plaza de Armas a ver a Eliseo, el librero que nos vendió la caja de fotos. Me explicó que era de un minutero, un fotógrafo con cámara de cajón. Y fue de vuelta en el archivo cuando lo entendí: «1938» no era una fecha. ¿Qué crees que era?",
+     "en": "I went to the Plaza de Armas to see Eliseo, the bookseller who sold us the box of photos. He explained it had belonged to a 'minutero', a photographer with a box camera. And it was back at the archive that I understood: '1938' wasn't a date. What do you think it was?",
+     "r": [
+      [
+       "¿El número del cliente, para entregarle después las copias?",
+       "The customer's number, to hand over the prints later?",
+       4
+      ],
+      [
+       "¿Un número de serie? Fue el minutero quien lo escribió, ¿no?",
+       "A serial number? It was the minutero who wrote it, right?",
+       4
+      ]
+     ]
+    },
+    {
+     "say": "¡El número del cliente! Al lado decía «Sres. Quintana. Sábado». Y fue Eliseo quien reconoció a la pareja: eran sus padres. Aquel sábado, caminando por el Malecón, su padre le pidió matrimonio a su madre. ¿Qué te parece?",
+     "en": "The customer's number! Next to it, it said 'Mr and Mrs Quintana. Saturday.' And it was Eliseo who recognized the couple: they were his parents. That Saturday, walking along the Malecón, his father proposed to his mother. What do you think?",
+     "r": [
+      [
+       "¡Qué casualidad! Fue la foto la que encontró a su familia.",
+       "What a coincidence! It was the photo that found its family.",
+       5
+      ],
+      [
+       "Me emociona. Si no hubieras vuelto a la plaza, nunca lo habrías descubierto.",
+       "It moves me. If you hadn't gone back to the square, you'd never have found out.",
+       5
+      ]
+     ]
+    },
+    {
+     "say": "Al final cambiamos el cartel: «Foto de minutero, cliente número 1938». El día de la inauguración, Eliseo me dio el recibo viejo de su madre, con el número 1938. Más de sesenta años después, el cliente 1938 había vuelto a recoger su foto. ¡Gracias por escucharme!",
+     "en": "In the end we changed the poster: 'Minutero photo, customer number 1938'. On opening day, Eliseo gave me his mother's old receipt, with the number 1938. More than sixty years later, customer 1938 had come back to collect their photo. Thanks for listening!",
+     "end": true
+    }
+   ]
+  }
+ }
+}

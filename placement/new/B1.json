@@ -1,0 +1,215 @@
+[
+  {
+    "id": "P-B1-13",
+    "level": "B1",
+    "skill": "grammar",
+    "q": "Choose the correct form: Cuando ___ a casa, te llamo.",
+    "options": [
+      "llegar",
+      "llegue",
+      "llegaré",
+      "llegaba"
+    ],
+    "answer": 1,
+    "why": "Cuando referring to a future action takes the present subjunctive.",
+    "topic": "subjunctive after cuando (future)"
+  },
+  {
+    "id": "P-B1-14",
+    "level": "B1",
+    "skill": "grammar",
+    "q": "Choose the correct form: Ese libro es mío. No lo ___, por favor.",
+    "options": [
+      "tomas",
+      "toma",
+      "tomar",
+      "tomes"
+    ],
+    "answer": 3,
+    "why": "The negative tú command uses the present subjunctive (no tomes).",
+    "topic": "negative imperative"
+  },
+  {
+    "id": "P-B1-15",
+    "level": "B1",
+    "skill": "grammar",
+    "q": "Choose the correct form: Mientras yo ___ la cena, sonó el teléfono.",
+    "options": [
+      "cocinaba",
+      "cociné",
+      "he cocinado",
+      "cocinaría"
+    ],
+    "answer": 0,
+    "why": "The imperfect describes the ongoing action interrupted by the preterite sonó.",
+    "topic": "imperfect vs preterite"
+  },
+  {
+    "id": "P-B1-16",
+    "level": "B1",
+    "skill": "grammar",
+    "q": "Choose the correct word: Tuvimos que cancelar el picnic ___ la lluvia.",
+    "options": [
+      "para",
+      "de",
+      "por",
+      "con"
+    ],
+    "answer": 2,
+    "why": "Por introduces the cause or reason.",
+    "topic": "por vs para (cause)"
+  },
+  {
+    "id": "P-B1-17",
+    "level": "B1",
+    "skill": "grammar",
+    "q": "Choose the correct form: Ana dijo que ___ cansada, por eso se fue temprano.",
+    "options": [
+      "estar",
+      "estaba",
+      "estará",
+      "estuviera"
+    ],
+    "answer": 1,
+    "why": "In reported speech after a past verb of saying, the present shifts to the imperfect.",
+    "topic": "reported speech"
+  },
+  {
+    "id": "P-B1-18",
+    "level": "B1",
+    "skill": "grammar",
+    "q": "Choose the correct form: Yo en tu lugar ___ al médico.",
+    "options": [
+      "iría",
+      "iba",
+      "voy",
+      "fui"
+    ],
+    "answer": 0,
+    "why": "The conditional is used to give advice with 'en tu lugar'.",
+    "topic": "conditional for advice"
+  },
+  {
+    "id": "P-B1-19",
+    "level": "B1",
+    "skill": "grammar",
+    "q": "Choose the correct form: No creo que Pablo ___ la verdad.",
+    "options": [
+      "dice",
+      "decía",
+      "dirá",
+      "diga"
+    ],
+    "answer": 3,
+    "why": "Expressing doubt with no creer que requires the present subjunctive.",
+    "topic": "subjunctive after doubt"
+  },
+  {
+    "id": "P-B1-20",
+    "level": "B1",
+    "skill": "vocab",
+    "q": "Choose the correct verb: ¿Puedo ___ esta camisa en el probador?",
+    "options": [
+      "intentar",
+      "tratar",
+      "probarme",
+      "ensayar"
+    ],
+    "answer": 2,
+    "why": "Probarse means to try on clothes.",
+    "topic": "clothes shopping"
+  },
+  {
+    "id": "P-B1-21",
+    "level": "B1",
+    "skill": "vocab",
+    "q": "Choose the correct word: Perdí mi trabajo, así que estoy buscando ___.",
+    "options": [
+      "empleo",
+      "empleado",
+      "empleador",
+      "emplear"
+    ],
+    "answer": 0,
+    "why": "Empleo is the noun for a job; empleado is a person who works.",
+    "topic": "work vocabulary"
+  },
+  {
+    "id": "P-B1-22",
+    "level": "B1",
+    "skill": "vocab",
+    "q": "Choose the correct word: El mecánico dijo que el coche tiene una ___ en el motor.",
+    "options": [
+      "herida",
+      "enfermedad",
+      "pérdida",
+      "avería"
+    ],
+    "answer": 3,
+    "why": "Avería means a mechanical breakdown or fault.",
+    "topic": "car problems"
+  },
+  {
+    "id": "P-B1-23",
+    "level": "B1",
+    "skill": "vocab",
+    "q": "Choose the correct verb: Tengo que ___ este libro a la biblioteca antes del lunes.",
+    "options": [
+      "prestar",
+      "devolver",
+      "perder",
+      "cobrar"
+    ],
+    "answer": 1,
+    "why": "Devolver means to return something to its owner.",
+    "topic": "library / everyday verbs"
+  },
+  {
+    "id": "P-B1-24",
+    "level": "B1",
+    "skill": "reading",
+    "passage": "Hola, Lucía: Te escribo porque no podré ir a tu cumpleaños el sábado. Mi tía llegó de visita sin avisar y tengo que quedarme con ella. Si quieres, el domingo podemos salir a comer. Un abrazo, Marta.",
+    "q": "Read the text. ¿Por qué Marta no irá a la fiesta?",
+    "options": [
+      "Porque está enferma",
+      "Porque tiene que trabajar",
+      "Porque su tía está en su casa",
+      "Porque no quiere ver a Lucía"
+    ],
+    "answer": 2,
+    "why": "Marta says her aunt arrived unannounced and she must stay with her.",
+    "topic": "reading email details"
+  },
+  {
+    "id": "P-B1-25",
+    "level": "B1",
+    "skill": "reading",
+    "passage": "Los vecinos de la calle Sol están molestos. Desde hace un mes, un bar nuevo pone música alta hasta las dos de la mañana. Ayer, el dueño prometió que bajará el volumen después de medianoche, aunque algunos no le creen.",
+    "q": "Read the text. ¿Qué prometió el dueño del bar?",
+    "options": [
+      "Bajar la música después de medianoche",
+      "Cerrar a las dos de la mañana",
+      "Pagar una multa",
+      "Cambiar de calle"
+    ],
+    "answer": 0,
+    "why": "The text says he promised to lower the volume after midnight.",
+    "topic": "reading news detail"
+  },
+  {
+    "id": "P-B1-26",
+    "level": "B1",
+    "skill": "reading",
+    "passage": "Daniel estudia medicina, pero este año decidió hacer un curso de cocina por las tardes. Dice que cocinar lo relaja después de pasar el día en el hospital. Sus padres no entienden por qué pierde tiempo, pero él piensa seguir con ambas cosas.",
+    "q": "Read the text. ¿Por qué Daniel hace el curso de cocina?",
+    "options": [
+      "Quiere dejar la medicina",
+      "Porque lo ayuda a relajarse",
+      "Porque sus padres se lo pidieron",
+      "Porque busca trabajo en un restaurante"
+    ],
+    "answer": 1,
+    "why": "He says cooking relaxes him after a day at the hospital.",
+    "topic": "reading reason"
+  }
+]

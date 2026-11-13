@@ -1,0 +1,156 @@
+[
+ {
+  "id": "a1-02",
+  "old": [
+   "el niño",
+   "boy"
+  ],
+  "new": [
+   "el niño",
+   "boy, child"
+  ]
+ },
+ {
+  "id": "a1-03",
+  "old": [
+   "la profesora",
+   "teacher"
+  ],
+  "new": [
+   "la profesora",
+   "teacher (female)"
+  ]
+ },
+ {
+  "id": "a1-03",
+  "old": [
+   "la amiga",
+   "friend"
+  ],
+  "new": [
+   "la amiga",
+   "friend (female)"
+  ]
+ },
+ {
+  "id": "a1-03",
+  "old": [
+   "el hambre",
+   "hunger"
+  ],
+  "new": [
+   "el hambre",
+   "hunger (feminine noun: mucha hambre)"
+  ]
+ },
+ {
+  "id": "a1-06",
+  "old": [
+   "la librería",
+   "bookstore"
+  ],
+  "new": [
+   "la librería",
+   "bookstore (not 'library' = la biblioteca)"
+  ]
+ },
+ {
+  "id": "a1-07",
+  "old": [
+   "el chocolate",
+   "hot chocolate"
+  ],
+  "new": [
+   "el chocolate",
+   "chocolate (chocolate caliente = hot chocolate)"
+  ]
+ },
+ {
+  "id": "a1-07",
+  "old": [
+   "la portada",
+   "cover"
+  ],
+  "new": [
+   "la portada",
+   "(book) cover"
+  ]
+ },
+ {
+  "id": "a1-08",
+  "old": [
+   "el vecino",
+   "neighbor"
+  ],
+  "new": [
+   "la vecina",
+   "neighbor (female)"
+  ]
+ },
+ {
+  "id": "a1-08",
+  "old": [
+   "el peso",
+   "peso"
+  ],
+  "new": [
+   "el peso",
+   "peso (Mexican currency)"
+  ]
+ },
+ {
+  "id": "a1-09",
+  "old": [
+   "sonar",
+   "to ring"
+  ],
+  "new": [
+   "sonar",
+   "to ring; to sound"
+  ]
+ },
+ {
+  "id": "a1-09",
+  "old": [
+   "la tortilla",
+   "omelet"
+  ],
+  "new": [
+   "la tortilla",
+   "Spanish omelet (egg and potato)"
+  ]
+ },
+ {
+  "id": "a1-10",
+  "old": [
+   "el pescado",
+   "fish"
+  ],
+  "new": [
+   "el pescado",
+   "fish (as food)"
+  ]
+ },
+ {
+  "id": "a1-10",
+  "old": [
+   "el billete",
+   "ticket"
+  ],
+  "new": [
+   "el billete",
+   "ticket (Latin America: el boleto)"
+  ]
+ },
+ {
+  "id": "a1-10",
+  "old": [
+   "preparar",
+   "to prepare"
+  ],
+  "new": [
+   "preparar",
+   "to prepare; to pack (a bag)"
+  ]
+ }
+]

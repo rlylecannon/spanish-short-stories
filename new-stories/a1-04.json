@@ -1,0 +1,628 @@
+{
+ "story": {
+  "id": "a1-04",
+  "level": "A1",
+  "title": "La torta de la ventana",
+  "titleEn": "The Cake in the Window",
+  "teaser": "A strawberry cake vanishes from a Bogotá bakery window, and the only witness swears the thief was short, in a red jacket and white shoes.",
+  "emoji": "🍰",
+  "lines": [
+   [
+    "Doña Marleny tiene una <b>panadería</b> en Bogotá y un perro, Tinto.",
+    "Doña Marleny has a bakery in Bogotá and a dog, Tinto."
+   ],
+   [
+    "Tinto es negro, con las <b>patas</b> blancas.",
+    "Tinto is black, with white paws."
+   ],
+   [
+    "Tiene una <b>chaqueta</b> roja porque hace <b>frío</b>.",
+    "He wears a red jacket because it's cold."
+   ],
+   [
+    "En la <b>ventana</b> hay una <b>torta</b> blanca con <b>fresas</b> rojas.",
+    "In the window there is a white cake with red strawberries."
+   ],
+   [
+    "— ¿Dónde está mi torta? —<b>grita</b> Marleny.",
+    "\"Where is my cake?\" shouts Marleny."
+   ],
+   [
+    "No está en la ventana. No está en la cocina.",
+    "It isn't in the window. It isn't in the kitchen."
+   ],
+   [
+    "Marleny va a la <b>esquina</b>, donde está Edwin, el <b>policía</b>.",
+    "Marleny goes to the corner, where Edwin, the police officer, is."
+   ],
+   [
+    "— Quiero <b>encontrar</b> mi torta. ¿Me puede <b>ayudar</b>?",
+    "\"I want to find my cake. Can you help me?\""
+   ],
+   [
+    "Una señora dice: — Es un <b>chico</b> <b>bajo</b>.",
+    "A woman says, \"It's a short boy.\""
+   ],
+   [
+    "— Pelo negro, chaqueta roja, <b>zapatos</b> blancos. Va al <b>parque</b>.",
+    "\"Black hair, red jacket, white shoes. He's going to the park.\""
+   ],
+   [
+    "Allí hay un <b>domiciliario</b> con chaqueta roja.",
+    "Over there is a delivery man in a red jacket."
+   ],
+   [
+    "— No es él, porque es <b>alto</b> —dice Edwin—. Podemos ir al parque.",
+    "\"It isn't him, because he's tall,\" says Edwin. \"We can go to the park.\""
+   ],
+   [
+    "¡Allí está la torta!",
+    "There's the cake!"
+   ],
+   [
+    "Y allí está el chico bajo: ¡Tinto!",
+    "And there's the short boy: Tinto!"
+   ],
+   [
+    "— ¿Y los zapatos blancos?",
+    "\"And the white shoes?\""
+   ],
+   [
+    "Marleny ríe: — ¡No son zapatos, son patas!",
+    "Marleny laughs, \"They aren't shoes, they're paws!\""
+   ]
+  ],
+  "vocab": [
+   [
+    "la panadería",
+    "bakery"
+   ],
+   [
+    "la pata",
+    "paw, leg (of an animal)"
+   ],
+   [
+    "la chaqueta",
+    "jacket"
+   ],
+   [
+    "hace frío",
+    "it's cold (weather)"
+   ],
+   [
+    "la ventana",
+    "window (here: the shop window)"
+   ],
+   [
+    "la torta",
+    "cake (in Colombia and much of Latin America)"
+   ],
+   [
+    "la fresa",
+    "strawberry"
+   ],
+   [
+    "gritar",
+    "to shout (grita)"
+   ],
+   [
+    "la esquina",
+    "corner (of a street)"
+   ],
+   [
+    "el policía",
+    "police officer"
+   ],
+   [
+    "encontrar",
+    "to find"
+   ],
+   [
+    "ayudar",
+    "to help (¿Me puede ayudar? = Can you help me?)"
+   ],
+   [
+    "el chico",
+    "boy, young guy"
+   ],
+   [
+    "bajo",
+    "short (person)"
+   ],
+   [
+    "los zapatos",
+    "shoes"
+   ],
+   [
+    "el parque",
+    "park"
+   ],
+   [
+    "el domiciliario",
+    "delivery man/rider (Colombia)"
+   ],
+   [
+    "alto",
+    "tall"
+   ]
+  ],
+  "quiz": [
+   {
+    "q": "¿Qué hay en la ventana de la panadería?",
+    "options": [
+     "Una torta roja con fresas blancas",
+     "Una torta blanca con fresas rojas",
+     "Una chaqueta roja",
+     "Pan con chocolate"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "¿Por qué Tinto tiene una chaqueta?",
+    "options": [
+     "Porque llueve",
+     "Porque es policía",
+     "Porque hace frío",
+     "Porque va a la panadería"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Según la señora, ¿cómo es el «chico»?",
+    "options": [
+     "Alto, con el pelo rubio",
+     "Bajo, con el pelo negro y zapatos blancos",
+     "Alto, con una chaqueta azul",
+     "Bajo, con zapatos negros"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "¿Por qué el domiciliario no es el ladrón?",
+    "options": [
+     "Porque es alto",
+     "Porque no tiene chaqueta",
+     "Porque está en el parque",
+     "Porque es policía"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "¿Qué son los «zapatos blancos» del chico bajo?",
+    "options": [
+     "Los zapatos de Edwin",
+     "Las fresas de la torta",
+     "La chaqueta del domiciliario",
+     "Las patas blancas de Tinto"
+    ],
+    "answer": 3
+   }
+  ],
+  "prompt": "Something of yours is missing! Write 3-4 sentences in Spanish in the present tense with ¿Dónde está…?, no está en…, quiero or puedo, and a color that agrees with the noun (for example: ¿Dónde está mi chaqueta roja? No está en la sala. No está en el carro. Quiero ir al parque porque mi perro está allí.).",
+  "concepts": {
+   "grammar": "querer and poder + infinitive (quiero encontrar, podemos ir); ir a + place (va a la esquina, va al parque); negatives with no (no está, no es él); ¿Dónde está…? / ¡Allí está! and porque.",
+   "vocabulary": "Colors with agreement (chaqueta roja, zapatos blancos, fresas rojas), clothes, describing people (alto, bajo, pelo negro), places in town.",
+   "skills": "Understanding a simple description of a person; following clues to solve a light mystery."
+  }
+ },
+ "grammar": [
+  {
+   "topic": "Querer and poder + infinitive",
+   "explain": "'Querer' (to want) and 'poder' (can, to be able to) are followed directly by an infinitive: quiero encontrar, podemos ir. Both change their stem: quiero, quieres, quiere; puedo, puedes, puede (but podemos). Querer can also take a noun: quiero mi torta. Watch out: no extra word for 'to': 'quiero encontrar', not 'quiero a encontrar'.",
+   "examples": [
+    [
+     "— Quiero encontrar mi torta.",
+     "\"I want to find my cake.\""
+    ],
+    [
+     "¿Me puede ayudar?",
+     "Can you help me?"
+    ],
+    [
+     "— Podemos ir al parque —dice Edwin.",
+     "\"We can go to the park,\" says Edwin."
+    ]
+   ]
+  },
+  {
+   "topic": "Ir a + place",
+   "explain": "'Ir' (to go) is irregular: voy, vas, va, vamos, van. Put 'a' (to) before the place: va a la esquina. Watch out: a + el contracts to 'al' (va al parque, never 'a el parque'), and 'home' is just 'a casa', with no article. 'Va' can mean 'goes' or 'is going'.",
+   "examples": [
+    [
+     "Marleny va a la esquina, donde está Edwin, el policía.",
+     "Marleny goes to the corner, where Edwin, the police officer, is."
+    ],
+    [
+     "— Pelo negro, chaqueta roja, zapatos blancos. Va al parque.",
+     "\"Black hair, red jacket, white shoes. He's going to the park.\""
+    ],
+    [
+     "Podemos ir al parque.",
+     "We can go to the park."
+    ]
+   ]
+  },
+  {
+   "topic": "Negatives with no",
+   "explain": "To make a sentence negative, put 'no' right before the verb: no está, no es, no son. If there is a small pronoun such as 'lo' (it), 'no' goes before the pronoun: no lo tengo. Watch out: Spanish has no helper verb like 'don't/doesn't', so 'it isn't him' is simply 'no es él'.",
+   "examples": [
+    [
+     "No está en la ventana. No está en la cocina.",
+     "It isn't in the window. It isn't in the kitchen."
+    ],
+    [
+     "— No es él, porque es alto —dice Edwin.",
+     "\"It isn't him, because he's tall,\" says Edwin."
+    ],
+    [
+     "— ¡No son zapatos, son patas!",
+     "\"They aren't shoes, they're paws!\""
+    ]
+   ]
+  },
+  {
+   "topic": "¿Dónde está…? and porque",
+   "explain": "'¿Dónde está…?' asks where one specific thing or person is ('¿Dónde están…?' for plural). It uses estar, never ser or hay. '¡Allí está!' = There it is! 'Porque' (one word, no accent) means 'because'; the question 'why?' is '¿Por qué?' (two words, accent). Watch out: 'allí hay' introduces something new.",
+   "examples": [
+    [
+     "— ¿Dónde está mi torta? —grita Marleny.",
+     "\"Where is my cake?\" shouts Marleny."
+    ],
+    [
+     "¡Allí está la torta!",
+     "There's the cake!"
+    ],
+    [
+     "Tiene una chaqueta roja porque hace frío.",
+     "He wears a red jacket because it's cold."
+    ],
+    [
+     "— No es él, porque es alto.",
+     "\"It isn't him, because he's tall.\""
+    ]
+   ]
+  }
+ ],
+ "gq": [
+  {
+   "topic": "Querer and poder + infinitive",
+   "q": "Which sentence means 'I want to find my cake'?",
+   "options": [
+    "Quiero a encontrar mi torta.",
+    "Quiero encuentro mi torta.",
+    "Quiero encontrar mi torta.",
+    "Quero encontrar mi torta."
+   ],
+   "answer": 2,
+   "why": "Querer is followed directly by the infinitive (encontrar), with no 'a'. The 'I' form has the stem change e → ie: quiero."
+  },
+  {
+   "topic": "Ir a + place",
+   "q": "Fill in the blank: El chico bajo va ___ parque.",
+   "options": [
+    "a el",
+    "al",
+    "en el",
+    "a"
+   ],
+   "answer": 1,
+   "why": "Going to a place uses 'a', and a + el must contract to 'al': va al parque. 'En el parque' means 'in the park', not 'to the park'."
+  },
+  {
+   "topic": "Negatives with no",
+   "q": "How do you say 'It isn't in the kitchen'?",
+   "options": [
+    "No está en la cocina.",
+    "Está no en la cocina.",
+    "No es en la cocina.",
+    "No hay en la cocina."
+   ],
+   "answer": 0,
+   "why": "'No' goes right before the verb, and location of a specific thing uses estar: no está en la cocina."
+  },
+  {
+   "topic": "¿Dónde está…? and porque",
+   "q": "Complete: —¿___ mi torta? … Tinto tiene una chaqueta roja ___ hace frío.",
+   "options": [
+    "Dónde es / porque",
+    "Dónde hay / por qué",
+    "Dónde está / por qué",
+    "Dónde está / porque"
+   ],
+   "answer": 3,
+   "why": "Where a specific thing is uses estar: ¿Dónde está…? A reason is 'porque' (one word, no accent); '¿por qué?' is the question 'why?'."
+  },
+  {
+   "topic": "Querer and poder + infinitive",
+   "q": "Edwin and Marleny want to go to the park together. Complete: ___ ir al parque. (We can…)",
+   "options": [
+    "Puedemos",
+    "Podemos",
+    "Pueden",
+    "Poder"
+   ],
+   "answer": 1,
+   "why": "Poder changes o → ue in puedo, puedes, puede, pueden, but NOT in the 'we' form: podemos.",
+   "x": true
+  },
+  {
+   "topic": "Ir a + place",
+   "q": "Marleny is talking about herself. Complete: Yo ___ a la esquina.",
+   "options": [
+    "va",
+    "vas",
+    "voy",
+    "ir"
+   ],
+   "answer": 2,
+   "why": "'Ir' is irregular: yo voy, tú vas, ella va. 'Ir' is the infinitive and cannot follow 'yo'.",
+   "x": true
+  },
+  {
+   "topic": "Negatives with no",
+   "q": "Make this sentence negative: 'Son zapatos.'",
+   "options": [
+    "Son no zapatos.",
+    "No son zapatos.",
+    "Son zapatos no.",
+    "No zapatos son."
+   ],
+   "answer": 1,
+   "why": "'No' goes directly before the verb: No son zapatos. There is no helper verb like 'don't'.",
+   "x": true
+  },
+  {
+   "topic": "¿Dónde está…? and porque",
+   "q": "What is the difference? 'Allí hay un domiciliario' / 'Allí está la torta'",
+   "options": [
+    "There is no difference.",
+    "'Allí hay' points out something new (a delivery man); 'allí está' finds a specific thing we already know (the cake).",
+    "'Allí hay' is for people; 'allí está' is for things.",
+    "'Allí está' is plural; 'allí hay' is singular."
+   ],
+   "answer": 1,
+   "why": "Use hay for something new or unknown (un domiciliario); use estar for a specific thing you are looking for (la torta): ¡Allí está!",
+   "x": true
+  }
+ ],
+ "dialogue": {
+  "steps": [
+   {
+    "say": "¡Hola! Soy Marleny. Tengo una panadería en Bogotá y un perro negro, Tinto.",
+    "en": "Hi! I'm Marleny. I have a bakery in Bogotá and a black dog, Tinto.",
+    "r": [
+     [
+      "¡Hola, Marleny! ¿Qué vende usted?",
+      "Hi, Marleny! What do you sell?",
+      1
+     ],
+     [
+      "¡Qué bien! Me gustan los perros.",
+      "How nice! I like dogs.",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "Vendo pan y tortas. Hoy hay una torta blanca con fresas rojas en la ventana. Pero, ¿dónde está? ¡No está!",
+    "en": "I sell bread and cakes. Today there's a white cake with red strawberries in the window. But where is it? It isn't there!",
+    "r": [
+     [
+      "¿Está en la cocina?",
+      "Is it in the kitchen?",
+      2
+     ],
+     [
+      "¡Qué problema! ¿Qué hace usted?",
+      "What a problem! What do you do?",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "No está en la cocina. Voy a la esquina, donde está Edwin, el policía. Una señora dice: es un chico bajo con chaqueta roja.",
+    "en": "It isn't in the kitchen. I go to the corner, where Edwin, the police officer, is. A woman says: it's a short boy with a red jacket.",
+    "r": [
+     [
+      "¿Y de qué color es el pelo?",
+      "And what color is his hair?",
+      3
+     ],
+     [
+      "¿Adónde va el chico?",
+      "Where is the boy going?",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "Tiene el pelo negro y zapatos blancos. Va al parque. Allí hay un domiciliario con chaqueta roja. ¿Es él?",
+    "en": "He has black hair and white shoes. He's going to the park. There's a delivery man in a red jacket. Is it him?",
+    "r": [
+     [
+      "No, porque es alto.",
+      "No, because he's tall.",
+      4
+     ],
+     [
+      "Sí, ¡es él!",
+      "Yes, it's him!",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "No es él, porque es alto. Edwin y yo vamos al parque. ¡Allí está la torta! ¿Y quién es el chico bajo?",
+    "en": "It isn't him, because he's tall. Edwin and I go to the park. There's the cake! And who is the short boy?",
+    "r": [
+     [
+      "¿Es Tinto?",
+      "Is it Tinto?",
+      5
+     ],
+     [
+      "No sé. ¿Quién es?",
+      "I don't know. Who is it?",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "¡Es Tinto! Tiene una chaqueta roja porque hace frío, y las patas blancas. ¡No son zapatos, son patas!",
+    "en": "It's Tinto! He wears a red jacket because it's cold, and he has white paws. They aren't shoes, they're paws!",
+    "end": true
+   }
+  ]
+ },
+ "scene": {
+  "items": [
+   {
+    "t": "obj",
+    "n": "tree",
+    "x": 378,
+    "y": 250,
+    "s": 1.0
+   },
+   {
+    "t": "obj",
+    "n": "bench",
+    "x": 215,
+    "y": 250,
+    "s": 1.2
+   },
+   {
+    "t": "obj",
+    "n": "dog",
+    "x": 192,
+    "y": 250,
+    "s": 0.6
+   },
+   {
+    "t": "obj",
+    "n": "cake",
+    "x": 243,
+    "y": 250,
+    "s": 0.65
+   },
+   {
+    "t": "person",
+    "x": 95,
+    "y": 250,
+    "s": 0.85,
+    "skin": "c",
+    "hair": "bun",
+    "outfit": "apron",
+    "pose": "point",
+    "acc": [
+     "glasses"
+    ]
+   },
+   {
+    "t": "person",
+    "x": 330,
+    "y": 250,
+    "s": 0.85,
+    "flip": true,
+    "skin": "d",
+    "hair": "cap",
+    "outfit": "coat",
+    "shirt": "#3A4A5C",
+    "pose": "think",
+    "acc": [
+     "badge"
+    ]
+   }
+  ],
+  "vb": [
+   0,
+   0,
+   400,
+   300
+  ],
+  "country": "Colombia",
+  "ink": [
+   "#1f3f8f",
+   "#d9a41b"
+  ]
+ },
+ "culture": {
+  "country": "Colombia",
+  "city": "Bogotá",
+  "landmark": "Monserrate, seen from La Candelaria",
+  "caption": "Monserrate, a mountain topped by a white church, rises above Bogotá's old La Candelaria district.",
+  "culture": "Colombian (Bogotá)",
+  "prompt": "Colombian (Bogotá) setting. Location: Bogotá, Colombia. The famous landmark Monserrate, seen from La Candelaria must be clearly visible and recognizable in the image. A cool, cloudy morning on a street corner in La Candelaria, Bogotá: brightly painted colonial houses with wooden balconies and red-tiled roofs, a steep cobbled street, a small neighborhood bakery (panadería) with a glass shop window showing bread rolls, almojábanas and an empty cake stand with a few red strawberries left on it, a small dog lead and a tiny red dog jacket hanging by the door. A corner with a bench and a few trees at the end of the street. Behind the rooftops, the green mountain of Monserrate with the white church at its summit is visible under low clouds. No people. Keep the lower-left third of the frame open (clear floor, ground or table space) so a drawn character can be added. Photorealistic photograph, natural light, soft warm color grade, slightly muted colors, eye-level camera, shallow depth of field, 4:3 landscape, high resolution. No text, no logos, no watermarks. Landmark to show: Monserrate, seen from La Candelaria.",
+  "use": "Hybrid (drawn characters added)"
+ },
+ "gen": "f",
+ "dict": {
+  "ayudar": [
+   [
+    "ayudar",
+    "verb",
+    "to help"
+   ]
+  ],
+  "blancas": [
+   [
+    "blanco",
+    "adj",
+    "white (feminine plural)"
+   ]
+  ],
+  "domiciliario": [
+   [
+    "domiciliario",
+    "noun",
+    "delivery man, delivery rider (Colombia)"
+   ]
+  ],
+  "edwin": [
+   [
+    "Edwin",
+    "name",
+    "Edwin (man's name)"
+   ]
+  ],
+  "fresas": [
+   [
+    "fresa",
+    "noun",
+    "strawberries"
+   ]
+  ],
+  "marleny": [
+   [
+    "Marleny",
+    "name",
+    "Marleny (woman's name, common in Colombia)"
+   ]
+  ],
+  "patas": [
+   [
+    "pata",
+    "noun",
+    "paws, legs (of an animal)"
+   ]
+  ],
+  "tinto": [
+   [
+    "Tinto",
+    "name",
+    "Tinto (dog's name; in Colombia un tinto is a small black coffee)"
+   ],
+   [
+    "tinto",
+    "adj",
+    "red (wine); in Colombia: black coffee"
+   ]
+  ],
+  "torta": [
+   [
+    "torta",
+    "noun",
+    "cake"
+   ]
+  ]
+ }
+}

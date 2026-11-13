@@ -1,0 +1,768 @@
+{
+ "story": {
+  "id": "a1-06",
+  "level": "A1",
+  "title": "Una mesa para todos",
+  "titleEn": "One Table for Everyone",
+  "teaser": "Two feuding uncles, a picky mother-in-law and a cake-loving brother-in-law: can Yadira's wedding seating plan survive Saturday?",
+  "emoji": "💒",
+  "lines": [
+   [
+    "Me llamo Yadira y vivo en San Juan.",
+    "My name is Yadira and I live in San Juan."
+   ],
+   [
+    "Mi <b>prima</b> Kiara <b>se casa</b> el sábado.",
+    "My cousin Kiara is getting married on Saturday."
+   ],
+   [
+    "Yo preparo las mesas de la <b>boda</b>.",
+    "I'm doing the seating plan for the wedding."
+   ],
+   [
+    "El <b>salón</b> está cerca del Morro.",
+    "The reception hall is near El Morro."
+   ],
+   [
+    "El tío Wilfredo no se sienta con su hermano Héctor.",
+    "Uncle Wilfredo won't sit with his brother Héctor."
+   ],
+   [
+    "Siempre <b>pelean</b> por el <b>dominó</b>.",
+    "They always fight over dominoes."
+   ],
+   [
+    "La <b>suegra</b> de Kiara no se sienta cerca de la <b>tía</b> Nilda.",
+    "Kiara's mother-in-law won't sit near Aunt Nilda."
+   ],
+   [
+    "— No me gusta su arroz con <b>gandules</b>.",
+    "\"I don't like her rice with pigeon peas.\""
+   ],
+   [
+    "Mi <b>cuñado</b> Edwin quiere la mesa al lado del <b>bizcocho</b>.",
+    "My brother-in-law Edwin wants the table next to the cake."
+   ],
+   [
+    "— ¡Me gusta mucho el bizcocho!",
+    "\"I really like cake!\""
+   ],
+   [
+    "El <b>padrino</b> canta, y su mesa está cerca del micrófono.",
+    "The best man sings, so his table is near the microphone."
+   ],
+   [
+    "Me levanto a las cinco. ¡Qué problema!",
+    "I get up at five. What a problem!"
+   ],
+   [
+    "La abuela Cuca, la <b>reina</b> del dominó, sonríe.",
+    "Grandma Cuca, the queen of dominoes, smiles."
+   ],
+   [
+    "— <b>Mija</b>, una mesa para todos: <b>novios</b>, tíos, primos...",
+    "\"Sweetheart, one table for everyone: the bride and groom, aunts and uncles, cousins...\""
+   ],
+   [
+    "— Héctor y Wilfredo juegan <b>juntos</b>, <b>contra</b> mí.",
+    "\"Héctor and Wilfredo play together, against me.\""
+   ],
+   [
+    "El sábado, los hermanos <b>pierden</b>... y se ríen juntos.",
+    "On Saturday, the brothers lose... and laugh together."
+   ],
+   [
+    "La suegra <b>prueba</b> el arroz: — Mmm... me gusta.",
+    "The mother-in-law tries the rice: \"Mmm... I like it.\""
+   ],
+   [
+    "¿Y la abuela? Está en el centro y <b>gana</b> todo.",
+    "And Grandma? She's in the middle, and she wins everything."
+   ]
+  ],
+  "vocab": [
+   [
+    "la prima",
+    "cousin (female); el primo = male cousin"
+   ],
+   [
+    "casarse",
+    "to get married (se casa)"
+   ],
+   [
+    "la boda",
+    "wedding"
+   ],
+   [
+    "el salón",
+    "reception hall, function room"
+   ],
+   [
+    "pelear",
+    "to fight, to argue (pelean)"
+   ],
+   [
+    "el dominó",
+    "dominoes (the game)"
+   ],
+   [
+    "la suegra",
+    "mother-in-law"
+   ],
+   [
+    "la tía",
+    "aunt; el tío = uncle (los tíos = aunts and uncles)"
+   ],
+   [
+    "los gandules",
+    "pigeon peas (arroz con gandules = Puerto Rico's classic rice dish)"
+   ],
+   [
+    "el cuñado",
+    "brother-in-law"
+   ],
+   [
+    "el bizcocho",
+    "cake (Puerto Rico; party or wedding cake)"
+   ],
+   [
+    "el padrino",
+    "best man, wedding sponsor; also godfather"
+   ],
+   [
+    "la reina",
+    "queen"
+   ],
+   [
+    "mija",
+    "sweetheart, dear (from 'mi hija'; affectionate)"
+   ],
+   [
+    "los novios",
+    "the bride and groom; el novio = groom, boyfriend"
+   ],
+   [
+    "juntos",
+    "together"
+   ],
+   [
+    "contra",
+    "against"
+   ],
+   [
+    "perder",
+    "to lose (pierden)"
+   ],
+   [
+    "probar",
+    "to taste, to try (prueba)"
+   ],
+   [
+    "ganar",
+    "to win (gana)"
+   ],
+   [
+    "el hermano",
+    "brother"
+   ],
+   [
+    "sentarse",
+    "to sit (down) (se sienta)"
+   ],
+   [
+    "levantarse",
+    "to get up (me levanto)"
+   ],
+   [
+    "reírse",
+    "to laugh (se ríen)"
+   ]
+  ],
+  "quiz": [
+   {
+    "q": "¿Por qué el tío Wilfredo no se sienta con su hermano?",
+    "options": [
+     "Por el dominó",
+     "Por el bizcocho",
+     "Por el arroz con gandules",
+     "Por el micrófono"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "¿Dónde quiere la mesa Edwin?",
+    "options": [
+     "Cerca del micrófono",
+     "Al lado del bizcocho",
+     "Lejos de la abuela",
+     "Cerca del Morro"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "En «La suegra de Kiara», ¿qué significa «suegra»?",
+    "options": [
+     "Sister-in-law",
+     "Aunt",
+     "Mother-in-law",
+     "Grandmother"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "¿Por qué los hermanos se ríen juntos el sábado?",
+    "options": [
+     "El padrino canta",
+     "Comen mucho bizcocho",
+     "La suegra prueba el arroz",
+     "Juegan juntos contra la abuela"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "Al final, ¿qué dice la suegra del arroz de Nilda?",
+    "options": [
+     "Que le gusta",
+     "Que no le gusta",
+     "Que quiere bizcocho",
+     "Que es de la abuela"
+    ],
+    "answer": 0
+   }
+  ],
+  "prompt": "Imagine you are planning a family party. Who sits where, and who likes what? Write 4-5 sentences in the present tense using a reflexive verb, estar for location and me gusta (for example: Me llamo Ana. Mi tío se sienta con mi abuela. La mesa está cerca de la puerta. Me gusta el bizcocho.).",
+  "concepts": {
+   "grammar": "Reflexive verbs in the present (me llamo, se casa, se sienta, me levanto, se ríen); yo form of the present; estar for location (cerca de, al lado de, en el centro); me gusta.",
+   "vocabulary": "Extended family and wedding words: prima, tía, hermano, suegra, cuñado, padrino, novios, boda, bizcocho.",
+   "skills": "Following a short comic narrative with lines of dialogue; describing family members and where people sit."
+  }
+ },
+ "grammar": [
+  {
+   "topic": "Reflexive verbs",
+   "explain": "Reflexive verbs use a pronoun that matches the subject: me levanto (I get up), te sientas (you sit), se sienta (he/she sits), se sientan (they sit). It goes before the verb: llamarse, sentarse, casarse, reírse. Watch out: English often has no 'myself' here, but Spanish needs the pronoun: 'Kiara se casa' = Kiara is getting married.",
+   "examples": [
+    [
+     "El tío Wilfredo no se sienta con su hermano Héctor.",
+     "Uncle Wilfredo won't sit with his brother Héctor."
+    ],
+    [
+     "Me levanto a las cinco.",
+     "I get up at five."
+    ],
+    [
+     "Los hermanos se ríen juntos.",
+     "The brothers laugh together."
+    ]
+   ]
+  },
+  {
+   "topic": "Present tense: yo form",
+   "explain": "For 'I', regular present verbs end in -o: preparar → preparo, vivir → vivo, levantarse → me levanto. Because the -o already shows 'I', Spanish usually leaves out 'yo' (use it for emphasis or contrast). Watch out: some very common verbs are irregular in the yo form: soy, estoy, voy, tengo.",
+   "examples": [
+    [
+     "Me llamo Yadira y vivo en San Juan.",
+     "My name is Yadira and I live in San Juan."
+    ],
+    [
+     "Yo preparo las mesas de la boda.",
+     "I'm doing the seating plan for the wedding."
+    ],
+    [
+     "Tengo un problema con las mesas.",
+     "I have a problem with the tables."
+    ]
+   ]
+  },
+  {
+   "topic": "Estar for location",
+   "explain": "Use 'estar' to say where a person or thing is: El salón está cerca del Morro. Useful partners: cerca de (near), lejos de (far from), al lado de (next to), en el centro (in the middle). Watch out: for where a known thing is, use estar, not ser or hay. And de + el = del: cerca del micrófono.",
+   "examples": [
+    [
+     "El salón está cerca del Morro.",
+     "The reception hall is near El Morro."
+    ],
+    [
+     "Su mesa está cerca del micrófono.",
+     "His table is near the microphone."
+    ],
+    [
+     "La abuela está en el centro.",
+     "Grandma is in the middle."
+    ]
+   ]
+  },
+  {
+   "topic": "Me gusta",
+   "explain": "'Me gusta' = I like (literally 'it pleases me'). Use 'gusta' with one thing or an infinitive and 'gustan' with plural things. 'Mucho' (a lot) goes after the verb: me gusta mucho. Watch out: 'I like it' is just 'me gusta', with no word for 'it', and 'I don't like' is 'no me gusta'.",
+   "examples": [
+    [
+     "— No me gusta su arroz con gandules.",
+     "\"I don't like her rice with pigeon peas.\""
+    ],
+    [
+     "— ¡Me gusta mucho el bizcocho!",
+     "\"I really like cake!\""
+    ],
+    [
+     "Me gustan las bodas grandes.",
+     "I like big weddings."
+    ]
+   ]
+  }
+ ],
+ "gq": [
+  {
+   "topic": "Reflexive verbs",
+   "q": "Which sentence means 'Uncle Wilfredo doesn't sit with his brother'?",
+   "options": [
+    "El tío Wilfredo no sienta se con su hermano.",
+    "El tío Wilfredo se no sienta con su hermano.",
+    "El tío Wilfredo no se sienta con su hermano.",
+    "El tío Wilfredo no me sienta con su hermano."
+   ],
+   "answer": 2,
+   "why": "'No' comes first, then the pronoun, then the verb: no se sienta. With he/she the pronoun is 'se', not 'me'."
+  },
+  {
+   "topic": "Present tense: yo form",
+   "q": "Fill in the blank: Yo ___ las mesas de la boda.",
+   "options": [
+    "prepara",
+    "preparo",
+    "preparas",
+    "preparar"
+   ],
+   "answer": 1,
+   "why": "With 'yo', regular verbs end in -o: preparo. 'Prepara' is he/she, 'preparas' is you, and 'preparar' is the infinitive."
+  },
+  {
+   "topic": "Estar for location",
+   "q": "Which sentence correctly says 'The hall is near El Morro'?",
+   "options": [
+    "El salón es cerca del Morro.",
+    "El salón hay cerca del Morro.",
+    "El salón tiene cerca del Morro.",
+    "El salón está cerca del Morro."
+   ],
+   "answer": 3,
+   "why": "Where a specific thing is uses estar: El salón está cerca del Morro. And de + el becomes del."
+  },
+  {
+   "topic": "Me gusta",
+   "q": "What does '— ¡Me gusta mucho el bizcocho!' mean?",
+   "options": [
+    "\"I really like cake!\"",
+    "\"I make a lot of cake!\"",
+    "\"He really likes cake!\"",
+    "\"I want a lot of cake!\""
+   ],
+   "answer": 0,
+   "why": "'Me gusta' = I like; 'mucho' after the verb = a lot. 'He likes' would be 'le gusta'."
+  },
+  {
+   "topic": "Reflexive verbs",
+   "q": "Complete: Kiara y Joel ___ el sábado.",
+   "options": [
+    "se casa",
+    "me caso",
+    "se casan",
+    "casan se"
+   ],
+   "answer": 2,
+   "why": "Two people = they, so the verb ends in -an and the pronoun is 'se': se casan. The pronoun goes before the verb.",
+   "x": true
+  },
+  {
+   "topic": "Present tense: yo form",
+   "q": "How do you say 'I have a problem'?",
+   "options": [
+    "Tengo un problema.",
+    "Teno un problema.",
+    "Tiene un problema.",
+    "Tieno un problema."
+   ],
+   "answer": 0,
+   "why": "Tener is irregular in the yo form: tengo. 'Tiene' is he/she.",
+   "x": true
+  },
+  {
+   "topic": "Estar for location",
+   "q": "Complete: Edwin quiere la mesa al lado ___ bizcocho.",
+   "options": [
+    "de el",
+    "del",
+    "al",
+    "en el"
+   ],
+   "answer": 1,
+   "why": "'Al lado de' = next to, and de + el always joins to make del: al lado del bizcocho.",
+   "x": true
+  },
+  {
+   "topic": "Me gusta",
+   "q": "Choose the correct sentence: 'I like the cousins' tables.'",
+   "options": [
+    "Me gusta las mesas de los primos.",
+    "Me gustan las mesas de los primos.",
+    "Me gusto las mesas de los primos.",
+    "Yo gusta las mesas de los primos."
+   ],
+   "answer": 1,
+   "why": "Gustar agrees with the thing liked: las mesas is plural, so use 'gustan'.",
+   "x": true
+  }
+ ],
+ "dialogue": {
+  "steps": [
+   {
+    "say": "¡Hola! Me llamo Yadira y vivo en San Juan. Mi prima Kiara se casa el sábado.",
+    "en": "Hi! My name is Yadira and I live in San Juan. My cousin Kiara is getting married on Saturday.",
+    "r": [
+     [
+      "¡Qué bien! ¿Dónde está el salón?",
+      "How nice! Where is the reception hall?",
+      1
+     ],
+     [
+      "¡Felicidades a tu prima!",
+      "Congratulations to your cousin!",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "El salón está cerca del Morro. Yo preparo las mesas, y tengo un problema. El tío Wilfredo no se sienta con su hermano Héctor.",
+    "en": "The hall is near El Morro. I'm doing the tables, and I have a problem. Uncle Wilfredo won't sit with his brother Héctor.",
+    "r": [
+     [
+      "¿Por qué?",
+      "Why?",
+      2
+     ],
+     [
+      "¡Uf! Un problema grande.",
+      "Ugh! A big problem.",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "Siempre pelean por el dominó. Y la suegra de Kiara no se sienta cerca de la tía Nilda. No le gusta su arroz con gandules. ¿Te gusta el arroz con gandules?",
+    "en": "They always fight over dominoes. And Kiara's mother-in-law won't sit near Aunt Nilda. She doesn't like her rice with pigeon peas. Do you like rice with pigeon peas?",
+    "r": [
+     [
+      "Sí, me gusta mucho.",
+      "Yes, I like it a lot.",
+      3
+     ],
+     [
+      "No sé. No como arroz con gandules.",
+      "I don't know. I don't eat rice with pigeon peas.",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "Mi cuñado Edwin quiere la mesa al lado del bizcocho. Y el padrino canta, su mesa está cerca del micrófono. ¿Qué hago?",
+    "en": "My brother-in-law Edwin wants the table next to the cake. And the best man sings, his table is near the microphone. What do I do?",
+    "r": [
+     [
+      "¿Y tu abuela? ¿Qué dice?",
+      "And your grandma? What does she say?",
+      4
+     ],
+     [
+      "Una mesa para todos.",
+      "One table for everyone.",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "Mi abuela Cuca es la reina del dominó. Ella dice: una mesa para todos. Héctor y Wilfredo juegan juntos, contra ella.",
+    "en": "My grandma Cuca is the queen of dominoes. She says: one table for everyone. Héctor and Wilfredo play together, against her.",
+    "r": [
+     [
+      "¡Qué buena idea!",
+      "What a good idea!",
+      5
+     ],
+     [
+      "¿Y quién gana?",
+      "And who wins?",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "Los hermanos pierden, pero se ríen juntos. La suegra prueba el arroz de Nilda y dice: me gusta. ¡Y la abuela gana todo!",
+    "en": "The brothers lose, but they laugh together. The mother-in-law tries Nilda's rice and says: I like it. And Grandma wins everything!",
+    "end": true
+   }
+  ]
+ },
+ "scene": {
+  "items": [
+   {
+    "t": "person",
+    "x": 200,
+    "y": 250,
+    "s": 0.9,
+    "skin": "d",
+    "hair": "bun",
+    "hc": "g",
+    "outfit": "dress",
+    "pose": "cheer",
+    "acc": [
+     "glasses"
+    ]
+   },
+   {
+    "t": "person",
+    "x": 105,
+    "y": 250,
+    "s": 0.85,
+    "skin": "c",
+    "hair": "bald",
+    "hc": "g",
+    "outfit": "tie",
+    "pose": "sit",
+    "acc": [
+     "mustache"
+    ]
+   },
+   {
+    "t": "person",
+    "x": 295,
+    "y": 250,
+    "s": 0.85,
+    "flip": true,
+    "skin": "c",
+    "hair": "short",
+    "hc": "g",
+    "outfit": "vest",
+    "pose": "sit",
+    "acc": [
+     "beard"
+    ]
+   },
+   {
+    "t": "obj",
+    "n": "table",
+    "x": 200,
+    "y": 252,
+    "s": 1.3
+   },
+   {
+    "t": "obj",
+    "n": "cake",
+    "x": 245,
+    "y": 190,
+    "s": 0.55
+   },
+   {
+    "t": "obj",
+    "n": "flowers",
+    "x": 160,
+    "y": 190,
+    "s": 0.45
+   },
+   {
+    "t": "person",
+    "x": 360,
+    "y": 250,
+    "s": 0.75,
+    "flip": true,
+    "skin": "b",
+    "hair": "ponytail",
+    "outfit": "dress",
+    "pose": "hold"
+   },
+   {
+    "t": "obj",
+    "n": "paper",
+    "x": 345,
+    "y": 190,
+    "s": 0.4
+   }
+  ],
+  "vb": [
+   40,
+   40,
+   350,
+   262.5
+  ],
+  "country": "Puerto Rico",
+  "ink": [
+   "#0b3d6e",
+   "#e03a3e"
+  ]
+ },
+ "culture": {
+  "country": "Puerto Rico",
+  "city": "San Juan",
+  "landmark": "Castillo San Felipe del Morro",
+  "caption": "El Morro, a Spanish fortress begun in the 16th century, guards the entrance to San Juan Bay at the tip of Old San Juan.",
+  "culture": "Puerto Rican",
+  "prompt": "Puerto Rican setting. Location: San Juan, Puerto Rico. The famous landmark Castillo San Felipe del Morro must be clearly visible and recognizable in the image. An elegant wedding reception hall in Old San Juan in the late afternoon: one long table with a white tablecloth, white chairs, small vases of tropical flowers, a tray of arroz con gandules, a tiered white wedding cake on a side table, a microphone on a stand, a box of dominoes on the table, string lights, colonial arches and pastel walls. Through the open arched windows, the massive stone walls and sentry box (garita) of Castillo San Felipe del Morro and the blue Atlantic Ocean are visible. No people. Keep the lower-left third of the frame open (clear floor, ground or table space) so a drawn character can be added. Photorealistic photograph, natural light, soft warm color grade, slightly muted colors, eye-level camera, shallow depth of field, 4:3 landscape, high resolution. No text, no logos, no watermarks. Landmark to show: Castillo San Felipe del Morro.",
+  "use": "Hybrid (drawn characters added)"
+ },
+ "gen": "f",
+ "dict": {
+  "bizcocho": [
+   [
+    "el bizcocho",
+    "noun",
+    "cake (Puerto Rico)"
+   ]
+  ],
+  "canta": [
+   [
+    "cantar",
+    "verb",
+    "sings"
+   ]
+  ],
+  "cuca": [
+   [
+    "Cuca",
+    "name",
+    "Cuca (woman's nickname)"
+   ]
+  ],
+  "cuñado": [
+   [
+    "el cuñado",
+    "noun",
+    "brother-in-law"
+   ]
+  ],
+  "edwin": [
+   [
+    "Edwin",
+    "name",
+    "Edwin (man's name)"
+   ]
+  ],
+  "gana": [
+   [
+    "ganar",
+    "verb",
+    "wins"
+   ]
+  ],
+  "gandules": [
+   [
+    "el gandul",
+    "noun",
+    "pigeon peas"
+   ]
+  ],
+  "héctor": [
+   [
+    "Héctor",
+    "name",
+    "Héctor (man's name)"
+   ]
+  ],
+  "juan": [
+   [
+    "Juan",
+    "name",
+    "Juan (San Juan, capital of Puerto Rico)"
+   ]
+  ],
+  "kiara": [
+   [
+    "Kiara",
+    "name",
+    "Kiara (woman's name)"
+   ]
+  ],
+  "micrófono": [
+   [
+    "el micrófono",
+    "noun",
+    "microphone"
+   ]
+  ],
+  "mmm": [
+   [
+    "mmm",
+    "interj",
+    "mmm (sound of tasting or thinking)"
+   ]
+  ],
+  "morro": [
+   [
+    "Morro",
+    "name",
+    "El Morro (fortress in San Juan)"
+   ]
+  ],
+  "nilda": [
+   [
+    "Nilda",
+    "name",
+    "Nilda (woman's name)"
+   ]
+  ],
+  "padrino": [
+   [
+    "el padrino",
+    "noun",
+    "best man, wedding sponsor; godfather"
+   ]
+  ],
+  "pelean": [
+   [
+    "pelear",
+    "verb",
+    "they fight, they argue"
+   ]
+  ],
+  "pierden": [
+   [
+    "perder",
+    "verb",
+    "they lose"
+   ]
+  ],
+  "ríen": [
+   [
+    "reírse",
+    "verb",
+    "(se ríen) they laugh"
+   ]
+  ],
+  "suegra": [
+   [
+    "la suegra",
+    "noun",
+    "mother-in-law"
+   ]
+  ],
+  "tíos": [
+   [
+    "el tío",
+    "noun",
+    "uncles; aunts and uncles"
+   ]
+  ],
+  "wilfredo": [
+   [
+    "Wilfredo",
+    "name",
+    "Wilfredo (man's name)"
+   ]
+  ],
+  "yadira": [
+   [
+    "Yadira",
+    "name",
+    "Yadira (woman's name)"
+   ]
+  ]
+ }
+}

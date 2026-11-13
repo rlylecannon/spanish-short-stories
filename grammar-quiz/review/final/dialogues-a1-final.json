@@ -1,0 +1,803 @@
+{
+  "a1-02": {
+    "steps": [
+      {
+        "say": "¡Hola! Soy Tomás. Trabajo en el mercado.",
+        "en": "Hi! I'm Tomás. I work at the market.",
+        "r": [
+          [
+            "Hola, Tomás. Me gusta la fruta.",
+            "Hi, Tomás. I like fruit.",
+            1
+          ],
+          [
+            "Hola. ¿Hay uvas en el puesto?",
+            "Hi. Are there grapes at the stall?",
+            2
+          ]
+        ]
+      },
+      {
+        "say": "Mi abuela tiene un puesto. Hay manzanas y naranjas. ¿Qué quieres?",
+        "en": "My grandmother has a stall. There are apples and oranges. What do you want?",
+        "r": [
+          [
+            "Quiero naranjas.",
+            "I want oranges.",
+            3
+          ],
+          [
+            "Quiero uvas.",
+            "I want grapes.",
+            2
+          ]
+        ]
+      },
+      {
+        "say": "Sí, hay uvas rojas. Pero un niño no tiene dinero.",
+        "en": "Yes, there are red grapes. But a boy has no money.",
+        "r": [
+          [
+            "¡Qué triste!",
+            "How sad!",
+            4
+          ],
+          [
+            "¿Tu abuela le da uvas al niño?",
+            "Does your grandmother give grapes to the boy?",
+            4
+          ]
+        ]
+      },
+      {
+        "say": "¿Naranjas? Son tres soles el kilo. ¿Quieres un kilo?",
+        "en": "Oranges? They're three soles a kilo. Do you want a kilo?",
+        "r": [
+          [
+            "Sí, quiero un kilo.",
+            "Yes, I want a kilo.",
+            5
+          ],
+          [
+            "No tengo dinero.",
+            "I have no money.",
+            4
+          ]
+        ]
+      },
+      {
+        "say": "No pasa nada. Mi abuela le da las uvas al niño.",
+        "en": "No problem. My grandmother gives the boy the grapes.",
+        "r": [
+          [
+            "¡Qué bien!",
+            "How nice!",
+            5
+          ],
+          [
+            "Me gusta tu abuela.",
+            "I like your grandmother.",
+            5
+          ]
+        ]
+      },
+      {
+        "say": "¡Y el niño está muy contento! Hasta luego.",
+        "en": "And the boy is very happy! See you later.",
+        "end": true
+      }
+    ]
+  },
+  "a1-03": {
+    "steps": [
+      {
+        "say": "¡Hola! Soy Sofía. Hoy hay una niña nueva en mi clase.",
+        "en": "Hi! I'm Sofía. Today there is a new girl in my class.",
+        "r": [
+          [
+            "Hola, Sofía. ¿Cómo se llama?",
+            "Hi, Sofía. What's her name?",
+            1
+          ],
+          [
+            "Hola. ¿Está nerviosa?",
+            "Hi. Is she nervous?",
+            2
+          ]
+        ]
+      },
+      {
+        "say": "Se llama Camila. Es de Chile y tiene el pelo largo.",
+        "en": "Her name is Camila. She is from Chile and has long hair.",
+        "r": [
+          [
+            "¿Está nerviosa?",
+            "Is she nervous?",
+            2
+          ],
+          [
+            "¿Le gusta el fútbol?",
+            "Does she like soccer?",
+            3
+          ]
+        ]
+      },
+      {
+        "say": "Sí, está muy nerviosa. Es su primer día en la clase.",
+        "en": "Yes, she is very nervous. It is her first day in the class.",
+        "r": [
+          [
+            "Quiero ser su amiga.",
+            "I want to be her friend.",
+            4
+          ],
+          [
+            "¿Le gusta el fútbol?",
+            "Does she like soccer?",
+            3
+          ]
+        ]
+      },
+      {
+        "say": "No, a Camila le gusta dibujar. A mí también me gusta.",
+        "en": "No, Camila likes to draw. I like it too.",
+        "r": [
+          [
+            "A mí también me gusta dibujar.",
+            "I like drawing too.",
+            4
+          ],
+          [
+            "Me gusta el fútbol.",
+            "I like soccer.",
+            4
+          ]
+        ]
+      },
+      {
+        "say": "A las doce comemos juntas. Tengo un bocadillo de queso. ¿Y tú?",
+        "en": "At twelve we eat together. I have a cheese sandwich. And you?",
+        "r": [
+          [
+            "Tengo una manzana roja.",
+            "I have a red apple.",
+            5
+          ],
+          [
+            "Tengo hambre. Quiero queso.",
+            "I'm hungry. I want cheese.",
+            5
+          ]
+        ]
+      },
+      {
+        "say": "¡Qué bien! Ahora Camila tiene una amiga. ¡Y tú también!",
+        "en": "Great! Now Camila has a friend. And you too!",
+        "end": true
+      }
+    ]
+  },
+  "a1-04": {
+    "steps": [
+      {
+        "say": "¡Hola! Soy Sofía. Hoy llueve mucho en la ciudad.",
+        "en": "Hi! I'm Sofía. Today it rains a lot in the city.",
+        "r": [
+          [
+            "Hola, Sofía. No tengo paraguas.",
+            "Hi, Sofía. I don't have an umbrella.",
+            1
+          ],
+          [
+            "Hola. Me gusta la lluvia.",
+            "Hi. I like the rain.",
+            2
+          ]
+        ]
+      },
+      {
+        "say": "Mi amiga Julia busca su paraguas rojo. Es su favorito.",
+        "en": "My friend Julia is looking for her red umbrella. It is her favorite.",
+        "r": [
+          [
+            "¿Dónde está el paraguas?",
+            "Where is the umbrella?",
+            2
+          ],
+          [
+            "Quiero un paraguas azul.",
+            "I want a blue umbrella.",
+            3
+          ]
+        ]
+      },
+      {
+        "say": "No está en la sala. No está en la cocina. ¿Dónde está?",
+        "en": "It is not in the living room. It is not in the kitchen. Where is it?",
+        "r": [
+          [
+            "¿Está en la tienda?",
+            "Is it in the shop?",
+            3
+          ],
+          [
+            "¿Está en la mochila?",
+            "Is it in the backpack?",
+            4
+          ]
+        ]
+      },
+      {
+        "say": "Su tío tiene un paraguas azul. Julia puede tomar el azul.",
+        "en": "Her uncle has a blue umbrella. Julia can take the blue one.",
+        "r": [
+          [
+            "Quiero el paraguas rojo.",
+            "I want the red umbrella.",
+            4
+          ],
+          [
+            "Sí, el azul es bonito.",
+            "Yes, the blue one is nice.",
+            4
+          ]
+        ]
+      },
+      {
+        "say": "En la escuela, Julia abre la mochila. ¡Allí está el paraguas rojo!",
+        "en": "At school, Julia opens her backpack. The red umbrella is there!",
+        "r": [
+          [
+            "¡Qué sorpresa!",
+            "What a surprise!",
+            5
+          ],
+          [
+            "¡Qué bien! Está contenta.",
+            "Great! She is happy.",
+            5
+          ]
+        ]
+      },
+      {
+        "say": "Sí, ¡qué sorpresa! Y Sara tiene el paraguas azul. ¡Todas contentas!",
+        "en": "Yes, what a surprise! And Sara has the blue umbrella. Everyone is happy!",
+        "end": true
+      }
+    ]
+  },
+  "a1-05": {
+    "steps": [
+      {
+        "say": "¡Hola! Soy Tomás. Hoy es el cumpleaños de mi abuela.",
+        "en": "Hi! I'm Tomás. Today is my grandmother's birthday.",
+        "r": [
+          [
+            "¡Feliz cumpleaños a tu abuela!",
+            "Happy birthday to your grandmother!",
+            1
+          ],
+          [
+            "¿Quieres hacer un pastel?",
+            "Do you want to make a cake?",
+            1
+          ]
+        ]
+      },
+      {
+        "say": "Quiero hacer un pastel. Hay leche y azúcar, pero no hay huevos.",
+        "en": "I want to make a cake. There is milk and sugar, but there are no eggs.",
+        "r": [
+          [
+            "Voy a la tienda contigo.",
+            "I'll go to the store with you.",
+            2
+          ],
+          [
+            "Tengo huevos en casa.",
+            "I have eggs at home.",
+            4
+          ]
+        ]
+      },
+      {
+        "say": "En la tienda, los huevos cuestan cuatro euros. Tengo tres euros.",
+        "en": "At the store, the eggs cost four euros. I have three euros.",
+        "r": [
+          [
+            "Tengo un euro. Toma.",
+            "I have one euro. Here.",
+            3
+          ],
+          [
+            "No puedo comprar los huevos.",
+            "I can't buy the eggs.",
+            3
+          ]
+        ]
+      },
+      {
+        "say": "¡Gracias! Compro los huevos y corro a casa.",
+        "en": "Thank you! I buy the eggs and run home.",
+        "r": [
+          [
+            "¡Vamos a hacer el pastel!",
+            "Let's make the cake!",
+            4
+          ],
+          [
+            "Me gusta el pastel.",
+            "I like cake.",
+            4
+          ]
+        ]
+      },
+      {
+        "say": "Hacemos el pastel con mucho amor. A las seis, la abuela abre la puerta.",
+        "en": "We make the cake with lots of love. At six, my grandmother opens the door.",
+        "r": [
+          [
+            "¡Feliz cumpleaños, abuela!",
+            "Happy birthday, grandma!",
+            5
+          ],
+          [
+            "¿Está contenta la abuela?",
+            "Is grandma happy?",
+            5
+          ]
+        ]
+      },
+      {
+        "say": "¡Sí! Llora porque está muy feliz. ¡Gracias por tu ayuda!",
+        "en": "Yes! She cries because she is very happy. Thanks for your help!",
+        "end": true
+      }
+    ]
+  },
+  "a1-06": {
+    "steps": [
+      {
+        "say": "¡Hola! Soy Sofía. Todos los días tomo el autobús de las siete.",
+        "en": "Hi! I'm Sofía. Every day I take the seven o'clock bus.",
+        "r": [
+          [
+            "Hola, Sofía. ¿Está lejos tu trabajo?",
+            "Hi, Sofía. Is your work far?",
+            1
+          ],
+          [
+            "Hola. Me gusta el autobús.",
+            "Hi. I like the bus.",
+            2
+          ]
+        ]
+      },
+      {
+        "say": "Sí, está muy lejos. La parada está cerca de mi calle.",
+        "en": "Yes, it is very far. The bus stop is near my street.",
+        "r": [
+          [
+            "¿Hay mucho tráfico hoy?",
+            "Is there a lot of traffic today?",
+            2
+          ],
+          [
+            "Quiero un café.",
+            "I want a coffee.",
+            3
+          ]
+        ]
+      },
+      {
+        "say": "Sí, hoy hay mucho tráfico. El autobús llega tarde.",
+        "en": "Yes, today there is a lot of traffic. The bus is late.",
+        "r": [
+          [
+            "¡Qué mal!",
+            "How bad!",
+            3
+          ],
+          [
+            "Tengo un libro. Leo.",
+            "I have a book. I read.",
+            3
+          ]
+        ]
+      },
+      {
+        "say": "Un señor se sienta a mi lado. Se llama don Julio y tiene un libro grande.",
+        "en": "A man sits next to me. His name is Don Julio and he has a big book.",
+        "r": [
+          [
+            "¿Qué libro es?",
+            "What book is it?",
+            4
+          ],
+          [
+            "Me gusta el libro.",
+            "I like the book.",
+            4
+          ]
+        ]
+      },
+      {
+        "say": "Don Julio me da un pan dulce. Su esposa lo hace cada mañana.",
+        "en": "Don Julio gives me a sweet roll. His wife makes it every morning.",
+        "r": [
+          [
+            "¡Qué rico! Gracias.",
+            "How tasty! Thank you.",
+            5
+          ],
+          [
+            "Quiero un pan dulce también.",
+            "I want a sweet roll too.",
+            5
+          ]
+        ]
+      },
+      {
+        "say": "Estoy muy feliz. Mañana le llevo un café a don Julio.",
+        "en": "I am very happy. Tomorrow I'm bringing Don Julio a coffee.",
+        "end": true
+      }
+    ]
+  },
+  "a1-07": {
+    "steps": [
+      {
+        "say": "¡Hola! Soy Sofía. Estoy en un café en Bogotá. Llueve mucho.",
+        "en": "Hi! I'm Sofía. I'm in a café in Bogotá. It rains a lot.",
+        "r": [
+          [
+            "Hola, Sofía. Estoy mojado.",
+            "Hi, Sofía. I'm wet.",
+            1
+          ],
+          [
+            "Hola. Quiero un chocolate caliente.",
+            "Hi. I want a hot chocolate.",
+            2
+          ]
+        ]
+      },
+      {
+        "say": "Hay una mesa libre cerca de la ventana. ¿Quieres sentarte?",
+        "en": "There is a free table near the window. Do you want to sit?",
+        "r": [
+          [
+            "Sí, ¿está libre la silla?",
+            "Yes, is the chair free?",
+            2
+          ],
+          [
+            "No tengo paraguas.",
+            "I don't have an umbrella.",
+            2
+          ]
+        ]
+      },
+      {
+        "say": "Sí, hay mucho espacio. Pido un chocolate. ¿Y tú?",
+        "en": "Yes, there is a lot of space. I'm ordering a hot chocolate. And you?",
+        "r": [
+          [
+            "Yo también quiero chocolate.",
+            "I want hot chocolate too.",
+            3
+          ],
+          [
+            "Quiero un café, por favor.",
+            "I want a coffee, please.",
+            3
+          ]
+        ]
+      },
+      {
+        "say": "Un chico llega con un libro. Es el mismo libro que yo leo.",
+        "en": "A boy arrives with a book. It is the same book I'm reading.",
+        "r": [
+          [
+            "¿Te gusta el libro?",
+            "Do you like the book?",
+            4
+          ],
+          [
+            "¡Qué sorpresa!",
+            "What a surprise!",
+            4
+          ]
+        ]
+      },
+      {
+        "say": "Sí, me gusta mucho. Hablamos del libro una hora. Estamos contentos.",
+        "en": "Yes, I like it a lot. We talk about the book for an hour. We are happy.",
+        "r": [
+          [
+            "¿Dónde vives?",
+            "Where do you live?",
+            5
+          ],
+          [
+            "Me gusta la lluvia.",
+            "I like the rain.",
+            5
+          ]
+        ]
+      },
+      {
+        "say": "Vivo cerca del parque. El chico vive al lado de mi edificio. ¡Qué sorpresa!",
+        "en": "I live near the park. The boy lives next to my building. What a surprise!",
+        "end": true
+      }
+    ]
+  },
+  "a1-08": {
+    "steps": [
+      {
+        "say": "¡Hola! Soy Tomás. Vivo en Oaxaca. Mañana es el cumpleaños de mi mamá.",
+        "en": "Hi! I'm Tomás. I live in Oaxaca. Tomorrow is my mom's birthday.",
+        "r": [
+          [
+            "¡Qué bien! ¿Quieres flores?",
+            "Nice! Do you want flowers?",
+            1
+          ],
+          [
+            "Hola, Tomás. Me gusta Oaxaca.",
+            "Hi, Tomás. I like Oaxaca.",
+            1
+          ]
+        ]
+      },
+      {
+        "say": "Sí, quiero flores para ella. Voy al mercado, pero cuestan cuarenta pesos.",
+        "en": "Yes, I want flowers for her. I go to the market, but they cost forty pesos.",
+        "r": [
+          [
+            "¿Cuánto dinero tienes?",
+            "How much money do you have?",
+            2
+          ],
+          [
+            "Las flores son bonitas.",
+            "The flowers are pretty.",
+            2
+          ]
+        ]
+      },
+      {
+        "say": "Solo tengo veinte pesos. Estoy triste.",
+        "en": "I only have twenty pesos. I'm sad.",
+        "r": [
+          [
+            "No estés triste, Tomás.",
+            "Don't be sad, Tomás.",
+            3
+          ],
+          [
+            "Tu vecina tiene un jardín.",
+            "Your neighbor has a garden.",
+            3
+          ]
+        ]
+      },
+      {
+        "say": "Sí, la señora Elena tiene un jardín. Dice: riega las plantas conmigo y las flores son tuyas.",
+        "en": "Yes, Mrs. Elena has a garden. She says: water the plants with me and the flowers are yours.",
+        "r": [
+          [
+            "¡Buena idea!",
+            "Good idea!",
+            4
+          ],
+          [
+            "¿Tienes una regadera?",
+            "Do you have a watering can?",
+            4
+          ]
+        ]
+      },
+      {
+        "say": "Trabajo una hora con la regadera. Estoy cansado, pero contento. Ella corta diez rosas.",
+        "en": "I work an hour with the watering can. I'm tired but happy. She cuts ten roses.",
+        "r": [
+          [
+            "¡Qué bonitas rosas!",
+            "What pretty roses!",
+            5
+          ],
+          [
+            "¿Te gusta el jardín?",
+            "Do you like the garden?",
+            5
+          ]
+        ]
+      },
+      {
+        "say": "Sí, me gusta tener un amigo en el jardín. ¡Mi mamá va a estar muy feliz!",
+        "en": "Yes, I like having a friend in the garden. My mom is going to be very happy!",
+        "end": true
+      }
+    ]
+  },
+  "a1-09": {
+    "steps": [
+      {
+        "say": "¡Hola! Soy Sofía. Es viernes y suena el teléfono. ¡Es mi amigo Javier!",
+        "en": "Hi! I'm Sofía. It's Friday and the phone rings. It's my friend Javier!",
+        "r": [
+          [
+            "Hola, Sofía. ¿Estás bien?",
+            "Hi, Sofía. Are you okay?",
+            1
+          ],
+          [
+            "¡Qué bien! Me gusta el teléfono.",
+            "Great! I like the phone.",
+            1
+          ]
+        ]
+      },
+      {
+        "say": "Estoy bien, pero un poco triste. El sábado es mi cumpleaños.",
+        "en": "I'm fine, but a little sad. Saturday is my birthday.",
+        "r": [
+          [
+            "¿Por qué estás triste?",
+            "Why are you sad?",
+            2
+          ],
+          [
+            "¡Feliz cumpleaños!",
+            "Happy birthday!",
+            2
+          ]
+        ]
+      },
+      {
+        "say": "Voy a estar sola. Mi familia vive lejos.",
+        "en": "I'm going to be alone. My family lives far away.",
+        "r": [
+          [
+            "Quiero ir a tu casa.",
+            "I want to go to your house.",
+            3
+          ],
+          [
+            "Puedes cocinar una tortilla.",
+            "You can cook an omelet.",
+            3
+          ]
+        ]
+      },
+      {
+        "say": "Voy a cocinar una tortilla. Javier dice: ¿Tienes pan y queso?",
+        "en": "I'm going to cook an omelet. Javier says: Do you have bread and cheese?",
+        "r": [
+          [
+            "Sí, tengo queso.",
+            "Yes, I have cheese.",
+            4
+          ],
+          [
+            "No, no hay queso.",
+            "No, there is no cheese.",
+            4
+          ]
+        ]
+      },
+      {
+        "say": "¡Javier está delante de mi edificio! Tiene un pastel y un globo.",
+        "en": "Javier is in front of my building! He has a cake and a balloon.",
+        "r": [
+          [
+            "¡Qué sorpresa!",
+            "What a surprise!",
+            5
+          ],
+          [
+            "¡Abre la puerta!",
+            "Open the door!",
+            5
+          ]
+        ]
+      },
+      {
+        "say": "¡Sí! Bajo a abrir la puerta. El sábado no voy a estar sola.",
+        "en": "Yes! I go down to open the door. On Saturday I won't be alone.",
+        "end": true
+      }
+    ]
+  },
+  "a1-10": {
+    "steps": [
+      {
+        "say": "¡Hola! Soy Tomás. El sábado voy a la playa con mi hermana y mi abuelo.",
+        "en": "Hi! I'm Tomás. On Saturday I'm going to the beach with my sister and my grandfather.",
+        "r": [
+          [
+            "¡Qué bien! Me gusta la playa.",
+            "Great! I like the beach.",
+            1
+          ],
+          [
+            "¿Adónde van?",
+            "Where are you going?",
+            1
+          ]
+        ]
+      },
+      {
+        "say": "Vamos a Cádiz en tren. El abuelo quiere ver el mar.",
+        "en": "We're going to Cádiz by train. Grandpa wants to see the sea.",
+        "r": [
+          [
+            "¿A qué hora sale el tren?",
+            "What time does the train leave?",
+            2
+          ],
+          [
+            "¿Hay pescado en la playa?",
+            "Is there fish at the beach?",
+            3
+          ]
+        ]
+      },
+      {
+        "say": "El tren sale a las ocho. El viernes preparamos las mochilas.",
+        "en": "The train leaves at eight. On Friday we prepare the backpacks.",
+        "r": [
+          [
+            "¿Tienes una toalla?",
+            "Do you have a towel?",
+            3
+          ],
+          [
+            "¿Dónde están los billetes?",
+            "Where are the tickets?",
+            4
+          ]
+        ]
+      },
+      {
+        "say": "Sí, tenemos agua, fruta y una toalla grande. ¡Y pescado en la playa!",
+        "en": "Yes, we have water, fruit and a big towel. And fish at the beach!",
+        "r": [
+          [
+            "¡Qué rico!",
+            "How tasty!",
+            5
+          ],
+          [
+            "Quiero caminar por la arena.",
+            "I want to walk on the sand.",
+            5
+          ]
+        ]
+      },
+      {
+        "say": "Mi hermana tiene los billetes en su bolsa. Yo no los tengo.",
+        "en": "My sister has the tickets in her bag. I don't have them.",
+        "r": [
+          [
+            "¡Qué bien!",
+            "Great!",
+            5
+          ],
+          [
+            "Ella es muy buena.",
+            "She is very good.",
+            5
+          ]
+        ]
+      },
+      {
+        "say": "En el tren, el abuelo mira por la ventana. ¡Ve el mar azul! Va a ser un día perfecto.",
+        "en": "On the train, grandpa looks out the window. He sees the blue sea! It's going to be a perfect day.",
+        "end": true
+      }
+    ]
+  }
+}

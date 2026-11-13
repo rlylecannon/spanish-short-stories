@@ -1,0 +1,14 @@
+Unsure / judgment calls (c12-add-4):
+kusungá - Palenquero word spoken by a dying grandmother; meaning not established, glossed as "Palenquero word (unclear meaning)".
+negros - glossed "Black person" (historical context: free Black founders of a town).
+sazón - "yo, el sazón": Dominican use of masculine article; glossed "seasoning".
+angola - surname in context (Simona Angola); also the country.
+ho - interjection (Caribbean Colombian); gloss approximate.
+garaón - Garífuna drum (garawoun); machuca - Garífuna mashed plantain dish (hudutu).
+yaniqueque - Dominican fried dough (johnnycake); domplín - Afro-Caribbean dumpling.
+ipor/pete/chéve/aguyje - Guaraní (iporã, peteĩ, chéve, aguyje) keyed by truncated tokens.
+gwell - Welsh "better"; guari - from "guari-guari" Bocas Creole English.
+defendés, vení, incumpliere - verb forms the conjugation engine cannot match (voseo imperative/-és, future subjunctive); stored as pos 'other' with lemma in gloss.
+Past participles used as adjectives (consultadas, hecha, puesta, etc.) stored as masculine-singular adj.
+tiradura (Chiloé house-moving), tiro (al tiro = right away, Chilean), togadas (chirigota name Las Togadas), mama (mama vieja festival figure), culo (culo e' puya drum): gloss from context, not verified externally.
+Places (Cuajinicuilapa, Curiepe, Zaña, Gaiman, Teide, Capurro, Chiclayo, Yungas, Potosí) glossed from general knowledge without web check.

@@ -1,0 +1,1022 @@
+{
+ "a2-01": [
+  {
+   "topic": "Regular preterite: -ó and -ió",
+   "q": "Fill in the blanks: El sábado Ana ___ tarde a la estación y después ___ por el andén.",
+   "options": [
+    "llegió / corrió",
+    "llegó / corrió",
+    "llegó / corró",
+    "llegué / corrí"
+   ],
+   "answer": 1,
+   "why": "Ana is 'she': -ar verbs take -ó (llegó) and -er verbs take -ió (corrió). Llegió and corró mix up the two endings; llegué and corrí are the 'I' forms."
+  },
+  {
+   "topic": "Irregular preterite: vio, dijo",
+   "q": "Which sentence correctly says 'Ana saw a message and said \"What luck!\"'?",
+   "options": [
+    "Ana vió un mensaje y dijo: «¡Qué suerte!».",
+    "Ana vio un mensaje y dició: «¡Qué suerte!».",
+    "Ana vio un mensaje y dijo: «¡Qué suerte!».",
+    "Ana veyó un mensaje y dijo: «¡Qué suerte!»."
+   ],
+   "answer": 2,
+   "why": "Ver gives vio, with no written accent (like dio and fue). Decir has the irregular stem dij- and ends in plain -o: dijo, not dició. Veyó doesn't exist."
+  },
+  {
+   "topic": "Ir a + infinitive, and ir a + place",
+   "q": "What does 'Voy a llegar primero' mean, compared with 'Voy a Valencia'?",
+   "options": [
+    "Both are future plans with a verb after 'a'.",
+    "Both mean that I already went somewhere.",
+    "The first is a destination; the second is a future plan.",
+    "The first is a future plan (I'm going to arrive first); the second is a destination (I'm going to Valencia)."
+   ],
+   "answer": 3,
+   "why": "After a, an infinitive (llegar) signals a near-future plan, while a place (Valencia) tells you where you are going."
+  },
+  {
+   "topic": "Regular preterite: -ó and -ió",
+   "q": "Pablo says he bought two bus tickets yesterday. Fill in the blank: Ayer ___ dos billetes de autobús.",
+   "options": [
+    "compró",
+    "compré",
+    "comprí",
+    "compre"
+   ],
+   "answer": 1,
+   "why": "For yo, -ar verbs end in -é with a written accent: compré. Compró is he/she, -í is the yo ending for -er/-ir verbs, and compre without the accent is not the preterite."
+  },
+  {
+   "topic": "Regular preterite: -ó and -ió",
+   "q": "Which sentence has a mistake in the preterite?",
+   "options": [
+    "Pablo tocó la guitarra.",
+    "Los dos subaron al autobús.",
+    "Ana corrió por la estación.",
+    "Ana y Pablo llegaron a Valencia."
+   ],
+   "answer": 1,
+   "why": "Subir is an -ir verb, so the 'they' form ends in -ieron: subieron. The -aron ending is only for -ar verbs (llegaron).",
+   "x": true
+  },
+  {
+   "topic": "Irregular preterite: vio, dijo",
+   "q": "Fill in the blank: Los padres de Ana ___ que el tren tenía una avería.",
+   "options": [
+    "dijeron",
+    "decieron",
+    "dijieron",
+    "dijon"
+   ],
+   "answer": 0,
+   "why": "After the j of the stem dij-, the 'they' ending is -eron, not -ieron: dijeron. Decir never uses a regular stem in the preterite, so decieron is wrong.",
+   "x": true
+  },
+  {
+   "topic": "Ir a + infinitive, and ir a + place",
+   "q": "Fill in the blank: Mañana yo ___ tocar la guitarra en la boda.",
+   "options": [
+    "voy a",
+    "va a",
+    "voy",
+    "voy al"
+   ],
+   "answer": 0,
+   "why": "The near future is ir + a + infinitive: voy a tocar. 'Voy tocar' drops the a, va a is the wrong person, and al (a + el) only goes before a masculine noun: voy al pueblo.",
+   "x": true
+  },
+  {
+   "topic": "Ir a + infinitive, and ir a + place",
+   "q": "Fill in the blank: Ana y Pablo van ___ pueblo.",
+   "options": [
+    "al",
+    "a el",
+    "a la",
+    "en el"
+   ],
+   "answer": 0,
+   "why": "A destination takes ir a + place, and a + el always becomes al: van al pueblo. 'A el' is never written, pueblo is masculine (not a la), and ir uses a, not en, for where you are going.",
+   "x": true
+  }
+ ],
+ "a2-02": [
+  {
+   "topic": "Tú commands: ve, busca, lleva",
+   "q": "The note in the box tells Sofía to go to the market. Which tú command completes it? 'Primero, ___ al mercado.'",
+   "options": [
+    "va",
+    "ve",
+    "vas",
+    "ves"
+   ],
+   "answer": 1,
+   "why": "Ir has an irregular tú command: ve. Va and vas are present-tense statements ('goes', 'you go'), and ves comes from ver ('you see')."
+  },
+  {
+   "topic": "Object pronouns: le dio, te lo regala",
+   "q": "In 'Ella te lo regala', what does lo stand for, and why does te come first?",
+   "options": [
+    "Lo is the thing given (the puppy); te is the person receiving, and the indirect pronoun always goes first.",
+    "Lo means 'to him', so it should really go before te.",
+    "Lo is the person receiving; te is the thing given.",
+    "Lo is the puppy, but the order is free, so 'lo te regala' is also correct."
+   ],
+   "answer": 0,
+   "why": "With two pronouns, the indirect one (to whom: te) goes first and the direct one (what: lo = el cachorro) second: te lo = it to you. 'Lo te' is never correct."
+  },
+  {
+   "topic": "Sequence and time words",
+   "q": "Put the story events in order: 'Entonces, el perro saltó a sus brazos. Primero, Sofía abrió la caja. Después, corrió por la calle.'",
+   "options": [
+    "Después, corrió por la calle. Primero, abrió la caja. Entonces, el perro saltó.",
+    "Primero, el perro saltó. Entonces, abrió la caja. Después, corrió.",
+    "Primero, Sofía abrió la caja. Después, corrió por la calle. Entonces, el perro saltó.",
+    "Entonces, el perro saltó. Después, corrió. Primero, abrió la caja."
+   ],
+   "answer": 2,
+   "why": "Primero starts the sequence, después (afterwards) continues it, and entonces (then, at that moment) introduces what happened next."
+  },
+  {
+   "topic": "Object pronouns: le dio, te lo regala",
+   "q": "In 'El panadero tomó los mangos y le dio un pan dulce', who receives the sweet bread?",
+   "options": [
+    "Sofía",
+    "The baker",
+    "Doña Fabiola",
+    "The grandfather"
+   ],
+   "answer": 0,
+   "why": "Le is the indirect object pronoun: it shows who receives (to her). In the story the baker gives the sweet bread to Sofía; le never refers to the subject (the baker)."
+  },
+  {
+   "topic": "Tú commands: ve, busca, lleva",
+   "q": "Turn the statement into a tú command for Sofía: 'Sofía lleva los mangos a la panadería' > '___ los mangos a la panadería, Sofía.'",
+   "options": [
+    "Lleva",
+    "Lleve",
+    "Llevar",
+    "Llevas"
+   ],
+   "answer": 0,
+   "why": "For regular verbs, the tú command looks like the he/she present: lleva. Llevas is a statement ('you take'), lleve is the formal usted command, and llevar is the infinitive.",
+   "x": true
+  },
+  {
+   "topic": "Object pronouns: le dio, te lo regala",
+   "q": "Fill in the blank: Doña Fabiola ___ dio una bolsa de mangos (a Sofía).",
+   "options": [
+    "la",
+    "lo",
+    "se",
+    "le"
+   ],
+   "answer": 3,
+   "why": "Sofía receives the bag, so she is the indirect object: le = to her. La would make Sofía the thing given, and se is not used alone here.",
+   "x": true
+  },
+  {
+   "topic": "Sequence and time words",
+   "q": "Fill in the blank: El abuelo llegó a las nueve ___ mañana.",
+   "options": [
+    "de la",
+    "a la",
+    "en el",
+    "por la"
+   ],
+   "answer": 0,
+   "why": "After a clock time, Spanish uses de la mañana (at nine in the morning). Without a clock time it's por la mañana: Por la mañana, el abuelo llegó.",
+   "x": true
+  },
+  {
+   "topic": "Tú commands: ve, busca, lleva",
+   "q": "What is the tú command of venir (to come)?",
+   "options": [
+    "Viene",
+    "Vienes",
+    "Ven",
+    "Venga"
+   ],
+   "answer": 2,
+   "why": "Venir has a short irregular tú command: ven (like ve, pon, sal). Vienes and viene are statements, and venga is the formal usted command.",
+   "x": true
+  }
+ ],
+ "a2-03": [
+  {
+   "topic": "Irregular preterite: fue, puso, hice, dijo",
+   "q": "Fill in the blank: Abuela, ayer yo ___ tu receta.",
+   "options": [
+    "hicé",
+    "hací",
+    "hice",
+    "hizo"
+   ],
+   "answer": 2,
+   "why": "Hacer has the irregular stem hic-, and the yo form ends in -e with no accent: hice. Hizo is he/she (c becomes z); hací and hicé don't exist."
+  },
+  {
+   "topic": "Ser vs estar",
+   "q": "Mateo tastes the dish (el plato) he has just cooked. How does he say 'It tastes good'?",
+   "options": [
+    "Es rico.",
+    "Son ricos.",
+    "Hay rico.",
+    "Está rico."
+   ],
+   "answer": 3,
+   "why": "Estar describes how food tastes as you experience it: está rico. Es rico would describe a general quality (and with a person, ser rico means 'to be rich'). Hay means 'there is'."
+  },
+  {
+   "topic": "Irregular preterite: fue, puso, hice, dijo",
+   "q": "Fill in the blank: —___ que tomar el autobús de las seis —dijo la abuela.",
+   "options": [
+    "Tuvo",
+    "Tení",
+    "Tuvé",
+    "Tuve"
+   ],
+   "answer": 3,
+   "why": "Tener has the irregular preterite stem tuv-, and the yo form ends in -e with no accent: tuve. Tuvo is he/she; tení and tuvé don't exist."
+  },
+  {
+   "topic": "Gustar-type verbs: faltar, encantar",
+   "q": "Mateo's mother tastes the dish and says '¡Me encanta!'. What does she mean?",
+   "options": [
+    "I don't like it!",
+    "Something is missing!",
+    "I made it!",
+    "I love it!"
+   ],
+   "answer": 3,
+   "why": "Encantar works like gustar: the dish is the subject and me shows who loves it. Me encanta = I love it (lit. it delights me)."
+  },
+  {
+   "topic": "Irregular preterite: fue, puso, hice, dijo",
+   "q": "Which sentence has a mistake?",
+   "options": [
+    "Mateo fue al supermercado.",
+    "Mateo puso aceite en la sartén.",
+    "La abuela dijo: «Muy bien».",
+    "Mateo hizó la receta."
+   ],
+   "answer": 3,
+   "why": "Irregular preterites never take a written accent: hizo, puso, dijo, fue. 'Hizó' is wrong.",
+   "x": true
+  },
+  {
+   "topic": "Ser vs estar",
+   "q": "Fill in the blanks: —¿Dónde ___ la receta? —En el cuaderno. ___ una receta muy vieja.",
+   "options": [
+    "es / Es",
+    "está / Es",
+    "está / Está",
+    "es / Está"
+   ],
+   "answer": 1,
+   "why": "Location uses estar (¿Dónde está?), and saying what something is (identity) uses ser: Es una receta muy vieja.",
+   "x": true
+  },
+  {
+   "topic": "Gustar-type verbs: faltar, encantar",
+   "q": "Fill in the blank: Para la receta, ___ dos ingredientes.",
+   "options": [
+    "falta",
+    "faltan",
+    "falto",
+    "faltamos"
+   ],
+   "answer": 1,
+   "why": "Faltar works like gustar: the missing things are the subject, so the verb agrees with them. Dos ingredientes is plural, so faltan; falta is for one thing (falta algo).",
+   "x": true
+  },
+  {
+   "topic": "Gustar-type verbs: faltar, encantar",
+   "q": "Fill in the blank: A Mateo le ___ los tomates.",
+   "options": [
+    "encanta",
+    "encantas",
+    "encanto",
+    "encantan"
+   ],
+   "answer": 3,
+   "why": "With encantar the verb agrees with the thing that is loved. Los tomates is plural, so encantan; le shows the person (to Mateo).",
+   "x": true
+  }
+ ],
+ "a2-04": [
+  {
+   "topic": "Imperfect for description and habit",
+   "q": "Which sentence describes a childhood habit?",
+   "options": [
+    "Todos los días jugaba al fútbol en la calle.",
+    "Ayer jugó al fútbol en la calle.",
+    "Jugué una vez al fútbol en la calle.",
+    "Va a jugar al fútbol en la calle."
+   ],
+   "answer": 0,
+   "why": "The imperfect (jugaba) with todos los días describes a regular habit in the past. Jugó and jugué are single events, and va a jugar is the future."
+  },
+  {
+   "topic": "Background plus interruption",
+   "q": "Fill in the blank: Faltaban dos minutos cuando el árbitro ___ un penalti.",
+   "options": [
+    "pitaba",
+    "pitará",
+    "pitó",
+    "pitando"
+   ],
+   "answer": 2,
+   "why": "The referee's whistle is the event that interrupts the background (faltaban dos minutos), so it takes the preterite: pitó."
+  },
+  {
+   "topic": "Saber vs conocer",
+   "q": "Fill in the blank: Todos ___ a los dos hermanos.",
+   "options": [
+    "sabían",
+    "conocían",
+    "conocía",
+    "sabía"
+   ],
+   "answer": 1,
+   "why": "People take conocer, with a before the person: conocían a los dos hermanos. Saber is for facts, and todos is plural, so the singular forms conocía and sabía don't fit."
+  },
+  {
+   "topic": "Saber vs conocer",
+   "q": "Fill in the blanks: Tomás ___ adónde va a tirar Natalia porque ___ muy bien a su hermana.",
+   "options": [
+    "conoce / conoce",
+    "conoce / sabe",
+    "sabe / sabe",
+    "sabe / conoce"
+   ],
+   "answer": 3,
+   "why": "Where she will kick is a fact, so saber: sabe adónde. Knowing a person is conocer: conoce a su hermana."
+  },
+  {
+   "topic": "Imperfect for description and habit",
+   "q": "Fill in the blank: Cuando Tomás ___ pequeño, vivía en Medellín.",
+   "options": [
+    "fue",
+    "estuvo",
+    "era",
+    "es"
+   ],
+   "answer": 2,
+   "why": "Describing a stage of life (cuando era pequeño) is background, so it takes the imperfect of ser: era. Fue and estuvo present it as a finished event, and es is present.",
+   "x": true
+  },
+  {
+   "topic": "Saber vs conocer",
+   "q": "Natalia asks Tomás: '¿Cómo lo supiste?' What does she mean?",
+   "options": [
+    "How do you know it?",
+    "How did you use to know it?",
+    "How did you find out (know) it?",
+    "How will you know?"
+   ],
+   "answer": 2,
+   "why": "Supiste is the irregular preterite of saber (stem sup-). In the preterite, saber means 'found out' or 'knew' at that moment.",
+   "x": true
+  },
+  {
+   "topic": "Background plus interruption",
+   "q": "Which sentence correctly says 'Tomás was very nervous, but he remembered something'?",
+   "options": [
+    "Tomás estuvo muy nervioso, pero recordaba algo.",
+    "Tomás fue muy nervioso, pero recordó algo.",
+    "Tomás estaba muy nervioso, pero recordó algo.",
+    "Tomás está muy nervioso, pero recordó algo."
+   ],
+   "answer": 2,
+   "why": "His nervousness is the background (imperfect of estar: estaba), and remembering is the event (preterite: recordó). Ser is not used for a temporary feeling.",
+   "x": true
+  },
+  {
+   "topic": "Imperfect for description and habit",
+   "q": "Fill in the blank: Cuando eran pequeños, Natalia siempre ___ el balón a la izquierda.",
+   "options": [
+    "tiró",
+    "tiraba",
+    "tira",
+    "va a tirar"
+   ],
+   "answer": 1,
+   "why": "Siempre and cuando eran pequeños describe a past habit, so the imperfect: tiraba. Tiró is a single event, tira is present and va a tirar is future.",
+   "x": true
+  }
+ ],
+ "a2-05": [
+  {
+   "topic": "Imperfect for scene-setting",
+   "q": "Which sentence sets the scene (weather and time) at the start of a story?",
+   "options": [
+    "Llovió mucho y fue de noche.",
+    "Va a llover y es de noche.",
+    "De repente llovió.",
+    "Llovía mucho y era de noche."
+   ],
+   "answer": 3,
+   "why": "Weather and time of day are background, so the imperfect is used: llovía, era. Llovió and fue present them as completed events."
+  },
+  {
+   "topic": "Estar + gerund",
+   "q": "How do you say 'I was working' (at that moment)?",
+   "options": [
+    "Estaba trabajado.",
+    "Estaba trabajaba.",
+    "Estoy trabajar.",
+    "Estaba trabajando."
+   ],
+   "answer": 3,
+   "why": "Imperfect of estar + gerund (-ando) describes an action in progress at a past moment. Trabajado is the participle."
+  },
+  {
+   "topic": "Courtesy conditional: podría, te gustaría",
+   "q": "Lisandro writes to a stranger. Which is the most polite way to ask for help?",
+   "options": [
+    "¿Me podría ayudar?",
+    "¡Ayúdeme ahora!",
+    "Tienes que ayudarme.",
+    "¡Ayuda!"
+   ],
+   "answer": 0,
+   "why": "The conditional softens a request: ¿Me podría ayudar? = Could you help me? The other options are orders or demands."
+  },
+  {
+   "topic": "Courtesy conditional: podría, te gustaría",
+   "q": "What does '¿Te gustaría cenar con nosotros?' mean?",
+   "options": [
+    "Did you like having dinner with us?",
+    "Would you like to have dinner with us?",
+    "Do you have to have dinner with us?",
+    "You liked dinner with us."
+   ],
+   "answer": 1,
+   "why": "Gustaría is the conditional of gustar: ¿Te gustaría...? = Would you like...? It is a polite invitation, not a past event (gustó) or an obligation (tener que)."
+  },
+  {
+   "topic": "Imperfect for scene-setting",
+   "q": "Fill in the blank: Ella vivía en el número 7, y en la calle ___ un chico con una mochila roja.",
+   "options": [
+    "había",
+    "habían",
+    "era",
+    "hay"
+   ],
+   "answer": 0,
+   "why": "Había (the past of hay) introduces what existed in the scene: 'there was'. It stays singular even with plural nouns, era can't mean 'there was', and hay is present.",
+   "x": true
+  },
+  {
+   "topic": "Estar + gerund",
+   "q": "What does 'La mamá de Lisandro bajó corriendo' mean?",
+   "options": [
+    "Lisandro's mother used to run downstairs every day.",
+    "Lisandro's mother got out of the car and stopped running.",
+    "Lisandro's mother got out of the car in a hurry (running).",
+    "Lisandro's mother is going to run."
+   ],
+   "answer": 2,
+   "why": "A gerund after a movement verb says how the action was done: bajó corriendo = she got out running, in a hurry. Bajó is one preterite event, not a habit.",
+   "x": true
+  },
+  {
+   "topic": "Courtesy conditional: podría, te gustaría",
+   "q": "Fill in the blank: ___ pedir unas empanadas. (We could order some empanadas.)",
+   "options": [
+    "Poderíamos",
+    "Podemos",
+    "Podríamos",
+    "Pudimos"
+   ],
+   "answer": 2,
+   "why": "The conditional of poder uses the short stem podr- + -íamos: podríamos = we could. Podemos is 'we can', pudimos is preterite, and poderíamos doesn't exist.",
+   "x": true
+  },
+  {
+   "topic": "Estar + gerund",
+   "q": "Fill in the blank: Ahora estoy ___ solo en la calle.",
+   "options": [
+    "esperar",
+    "esperado",
+    "espero",
+    "esperando"
+   ],
+   "answer": 3,
+   "why": "Estar + gerund (-ando) describes an action in progress right now: estoy esperando. Esperado is the participle, and espero/esperar can't follow estoy.",
+   "x": true
+  }
+ ],
+ "a2-06": [
+  {
+   "topic": "Tú commands with pronouns",
+   "q": "How do you say 'Try it' (la bombilla) as a tú command?",
+   "options": [
+    "Pruebala.",
+    "Prueba la.",
+    "La prueba.",
+    "Pruébala."
+   ],
+   "answer": 3,
+   "why": "An affirmative command attaches the pronoun to the end, and a written accent keeps the stress on prue-: pruébala. La prueba means 'she tries it' (or 'the test')."
+  },
+  {
+   "topic": "Por vs para: por la tarde, para ti",
+   "q": "Don Rafael gives Camila a bulb. Fill in the blank: Es ___ ti.",
+   "options": [
+    "por",
+    "para",
+    "de",
+    "en"
+   ],
+   "answer": 1,
+   "why": "Para marks the person who receives something: es para ti = it's for you. Por ti would mean 'because of you'."
+  },
+  {
+   "topic": "Por vs para: por la tarde, para ti",
+   "q": "Which phrase means 'in the afternoon'?",
+   "options": [
+    "para la tarde",
+    "con la tarde",
+    "en tarde",
+    "por la tarde"
+   ],
+   "answer": 3,
+   "why": "Parts of the day take por: por la mañana, por la tarde, por la noche."
+  },
+  {
+   "topic": "Simple future: dará, seré",
+   "q": "What does 'Esta lámpara te dará luz' mean?",
+   "options": [
+    "This lamp will give you light.",
+    "This lamp gave you light.",
+    "This lamp is giving you light.",
+    "This lamp gives you no light."
+   ],
+   "answer": 0,
+   "why": "Dará is the simple future of dar (dar + á): it will give. Te comes before the verb."
+  },
+  {
+   "topic": "Tú commands with pronouns",
+   "q": "What does 'dímelo' mean?",
+   "options": [
+    "I told him.",
+    "Tell him.",
+    "Give it to me.",
+    "Tell me (it)."
+   ],
+   "answer": 3,
+   "why": "Di is the irregular tú command of decir; me (to me) and lo (it) attach to the end, indirect first: dímelo. 'Give it to me' would be dámelo.",
+   "x": true
+  },
+  {
+   "topic": "Por vs para: por la tarde, para ti",
+   "q": "In 'Vamos a subir todo por la escalera', what does por show?",
+   "options": [
+    "the person who gets something",
+    "the way they move: up the stairs",
+    "a goal or purpose",
+    "the price of something"
+   ],
+   "answer": 1,
+   "why": "Por is used for movement through or along a place: por la escalera = up/by the stairs.",
+   "x": true
+  },
+  {
+   "topic": "Simple future: dará, seré",
+   "q": "Fill in the blank (I will be): Aquí ___ feliz.",
+   "options": [
+    "seré",
+    "soy",
+    "era",
+    "seró"
+   ],
+   "answer": 0,
+   "why": "The future adds -é to the whole infinitive: ser > seré. Soy is present and era is imperfect.",
+   "x": true
+  },
+  {
+   "topic": "Simple future: dará, seré",
+   "q": "Which sentence is a plan with ir a + infinitive, not the simple future?",
+   "options": [
+    "Voy a comprar una ahora mismo.",
+    "Yo siempre estaré contigo.",
+    "Esta lámpara te dará luz.",
+    "Aquí seré feliz."
+   ],
+   "answer": 0,
+   "why": "Voy a comprar is ir a + infinitive, the usual way to talk about a plan. Dará, estaré and seré are simple future forms.",
+   "x": true
+  }
+ ],
+ "a2-07": [
+  {
+   "topic": "Imperfect habit vs preterite event",
+   "q": "Fill in the blank: Todas las tardes Rodrigo tocaba la guitarra, pero un jueves se ___ una cuerda.",
+   "options": [
+    "rompió",
+    "rompía",
+    "rompiendo",
+    "rompe"
+   ],
+   "answer": 0,
+   "why": "The routine is imperfect (tocaba), and the one-time event on a Thursday is preterite: se rompió."
+  },
+  {
+   "topic": "Indirect and double pronouns",
+   "q": "Rodrigo showed the guitar to Ernesto. Which is correct, replacing 'la guitarra' with a pronoun?",
+   "options": [
+    "Rodrigo le la mostró.",
+    "Rodrigo se la mostró.",
+    "Rodrigo la se mostró.",
+    "Rodrigo se lo mostró."
+   ],
+   "answer": 1,
+   "why": "Le becomes se before lo/la, the indirect pronoun comes first, and la is feminine to match la guitarra."
+  },
+  {
+   "topic": "Comparatives: más ... que",
+   "q": "Fill in the blank: Es muy bonita, pero es más vieja que ___.",
+   "options": [
+    "mí",
+    "yo",
+    "me",
+    "conmigo"
+   ],
+   "answer": 1,
+   "why": "After que in a comparison, use the subject pronoun: más vieja que yo (older than me / than I am). Mí is only used after prepositions such as para (para mí)."
+  },
+  {
+   "topic": "Indirect and double pronouns",
+   "q": "Rodrigo says to Ernesto: 'Quiero pagártelo.' What do te and lo mean?",
+   "options": [
+    "te = the shop, lo = the money",
+    "te = Rodrigo himself, lo = Ernesto",
+    "te = Ernesto (to you), lo = it (the new string)",
+    "te = Julieta, lo = the guitar"
+   ],
+   "answer": 2,
+   "why": "Pronouns can attach to an infinitive, indirect first: pagar + te (to you, Ernesto) + lo (it, the string): I want to pay you for it."
+  },
+  {
+   "topic": "Imperfect habit vs preterite event",
+   "q": "Which time phrase goes with the imperfect in this story?",
+   "options": [
+    "Todas las tardes",
+    "Un jueves",
+    "De repente",
+    "Diez minutos después"
+   ],
+   "answer": 0,
+   "why": "Todas las tardes describes a routine, so it goes with the imperfect (tocaba). The others point to one moment and go with the preterite.",
+   "x": true
+  },
+  {
+   "topic": "Indirect and double pronouns",
+   "q": "In 'Ernesto le cambió la cuerda', who or what is le?",
+   "options": [
+    "the string",
+    "Ernesto himself",
+    "Rodrigo: Ernesto changed the string for him",
+    "the music shop"
+   ],
+   "answer": 2,
+   "why": "Le is an indirect pronoun: the person who benefits (for him = Rodrigo). The string is the direct object, la cuerda.",
+   "x": true
+  },
+  {
+   "topic": "Comparatives: más ... que",
+   "q": "Which sentence correctly says 'Julieta is his best student'?",
+   "options": [
+    "Julieta es mejor alumna que él.",
+    "Julieta es su más buena alumna.",
+    "Julieta es su alumna más mejor.",
+    "Julieta es su mejor alumna."
+   ],
+   "answer": 3,
+   "why": "Bueno has the irregular form mejor; with a possessive it means 'best': su mejor alumna. 'Más buena' and 'más mejor' are wrong here.",
+   "x": true
+  },
+  {
+   "topic": "Imperfect habit vs preterite event",
+   "q": "Fill in the blank: Julieta nunca hablaba, pero siempre ___ un poquito.",
+   "options": [
+    "bailó",
+    "bailaba",
+    "baila",
+    "bailará"
+   ],
+   "answer": 1,
+   "why": "Siempre and the habit in the sentence (nunca hablaba) call for the imperfect: bailaba.",
+   "x": true
+  }
+ ],
+ "a2-08": [
+  {
+   "topic": "Negative words: nadie, nada",
+   "q": "How do you say 'They didn't see anybody'?",
+   "options": [
+    "Vieron a nadie.",
+    "Nadie no vieron.",
+    "No vieron nadie a.",
+    "No vieron a nadie."
+   ],
+   "answer": 3,
+   "why": "When nadie comes after the verb, no goes before the verb: no vieron a nadie. The a is needed because nadie is a person they see."
+  },
+  {
+   "topic": "Obligation: hay que, tener que, deber",
+   "q": "What does 'Si hay niebla, hay que caminar despacio' mean?",
+   "options": [
+    "If there is fog, there is a slow path.",
+    "If there is fog, you can't walk.",
+    "If there is fog, he walked slowly.",
+    "If there is fog, you have to walk slowly."
+   ],
+   "answer": 3,
+   "why": "Hay que + infinitive is a general obligation: one has to / you have to walk slowly."
+  },
+  {
+   "topic": "Ustedes for \"you all\"",
+   "q": "The woman says to Valeria and Andrés: '___ son los turistas.' Which word fits?",
+   "options": [
+    "Ustedes",
+    "Tú",
+    "Usted",
+    "Vosotros"
+   ],
+   "answer": 0,
+   "why": "Two people, so plural 'you'. In Colombia that is ustedes, with the they-form son. Vosotros (sois) is only used in Spain."
+  },
+  {
+   "topic": "Obligation: hay que, tener que, deber",
+   "q": "Fill in the blank (we): ¿Qué ___ que hacer?",
+   "options": [
+    "hay",
+    "tenemos",
+    "debemos",
+    "tienen"
+   ],
+   "answer": 1,
+   "why": "Tener que is for a specific person and changes: nosotros tenemos que. Deber does not take que, and hay que does not take a person."
+  },
+  {
+   "topic": "Negative words: nadie, nada",
+   "q": "Fill in the blank: Andrés dice: «No veo ___».",
+   "options": [
+    "nadie",
+    "alguien",
+    "algo",
+    "nada"
+   ],
+   "answer": 3,
+   "why": "Nada = nothing (things); nadie = nobody (people). With no before the verb, Spanish uses nada, not algo.",
+   "x": true
+  },
+  {
+   "topic": "Negative words: nadie, nada",
+   "q": "Why is there no 'no' in 'Nadie respondió'?",
+   "options": [
+    "Because it is in the preterite.",
+    "Because responder is never negative.",
+    "Because nadie comes before the verb.",
+    "It's a mistake; it should be 'Nadie no respondió'."
+   ],
+   "answer": 2,
+   "why": "When the negative word starts the sentence, it is enough on its own: Nadie respondió. After the verb you need no: No respondió nadie.",
+   "x": true
+  },
+  {
+   "topic": "Ustedes for \"you all\"",
+   "q": "In 'Jairo los está buscando', who are los?",
+   "options": [
+    "the mountains",
+    "Jairo himself",
+    "Valeria and Andrés: 'you all'",
+    "the woman's family"
+   ],
+   "answer": 2,
+   "why": "The woman is talking to Valeria and Andrés, so los means 'you all': Jairo is looking for you.",
+   "x": true
+  },
+  {
+   "topic": "Obligation: hay que, tener que, deber",
+   "q": "Which sentence correctly says 'You must follow the river' to one friend?",
+   "options": [
+    "Hay que sigues el río.",
+    "Debes que seguir el río.",
+    "Debes seguir el río.",
+    "Debe a seguir el río."
+   ],
+   "answer": 2,
+   "why": "Deber + infinitive, with no que and no a: debes seguir. Hay que is followed by an infinitive, not a conjugated verb.",
+   "x": true
+  }
+ ],
+ "a2-09": [
+  {
+   "topic": "Present perfect: he/has/ha + participle",
+   "q": "How do you say 'I have never been late'?",
+   "options": [
+    "Nunca he llegado tarde.",
+    "Nunca he llegando tarde.",
+    "Nunca llegué tarde he.",
+    "Nunca soy llegado tarde."
+   ],
+   "answer": 0,
+   "why": "Present perfect = he + participle (-ado for -ar verbs): he llegado. Nunca goes before he, and nothing goes between he and the participle. Llegando is the gerund."
+  },
+  {
+   "topic": "Reflexives: se despertó, se vistió",
+   "q": "What does 'Se vistió rápidamente' mean?",
+   "options": [
+    "She dressed someone else quickly.",
+    "She saw herself quickly.",
+    "She got dressed quickly.",
+    "She is going to get dressed quickly."
+   ],
+   "answer": 2,
+   "why": "Vestirse (reflexive) means to get dressed: the se refers back to Daniela. Dressing someone else would be vistió a alguien, se vio would be 'saw herself', and se vistió is preterite, not future."
+  },
+  {
+   "topic": "Usted vs tú",
+   "q": "Mrs. Ortega says to Daniela in the interview: 'Llega tarde.' What does the verb form show?",
+   "options": [
+    "It is a command to arrive.",
+    "Usted is used (formal), with the he/she verb form.",
+    "She is talking about herself.",
+    "Tú is used (informal); llega is the tú form."
+   ],
+   "answer": 1,
+   "why": "Formal usted takes the he/she verb form (llega, tiene). With tú it would be llegas, tienes. Mrs. Ortega uses usted with Daniela throughout the interview."
+  },
+  {
+   "topic": "Usted vs tú",
+   "q": "Mrs. Ortega tells Daniela: 'El puesto es suyo.' What does suyo mean here?",
+   "options": [
+    "yours (usted)",
+    "his",
+    "mine",
+    "ours"
+   ],
+   "answer": 0,
+   "why": "With usted, the possessive is suyo/suya: el puesto es suyo = the job is yours. Context shows she is talking to Daniela."
+  },
+  {
+   "topic": "Present perfect: he/has/ha + participle",
+   "q": "Fill in the blank: Mrs. Ortega asks Daniela (usted): ¿Ha ___ antes con clientes?",
+   "options": [
+    "trabajando",
+    "trabajado",
+    "trabajo",
+    "trabajada"
+   ],
+   "answer": 1,
+   "why": "Present perfect = haber + participle (-ado/-ido); with usted, haber is ha. The participle doesn't change for gender (not trabajada), trabajando is the gerund, and trabajo is the present.",
+   "x": true
+  },
+  {
+   "topic": "Reflexives: se despertó, se vistió",
+   "q": "What is the difference between 'Daniela se despertó' and 'Daniela despertó a su hermana'?",
+   "options": [
+    "Both mean that Daniela woke up.",
+    "The first: she woke up; the second: she woke her sister up.",
+    "The first: she woke her sister up; the second: she woke up.",
+    "The first is present, the second is past."
+   ],
+   "answer": 1,
+   "why": "With se the action falls back on the subject: se despertó = she woke up. Without se the verb takes an object: despertó a su hermana = she woke her sister up. Both are preterite.",
+   "x": true
+  },
+  {
+   "topic": "Usted vs tú",
+   "q": "The older woman asks with tú: '¿Sabes dónde está la oficina?' How would she ask with usted?",
+   "options": [
+    "¿Sabes usted dónde está la oficina?",
+    "¿Sabe usted dónde está la oficina?",
+    "¿Sabéis dónde está la oficina?",
+    "¿Saben tú dónde está la oficina?"
+   ],
+   "answer": 1,
+   "why": "Usted uses the he/she form: (usted) sabe. Sabes is the tú form, and sabéis is vosotros (plural, Spain).",
+   "x": true
+  },
+  {
+   "topic": "Reflexives: se despertó, se vistió",
+   "q": "Fill in the blank: La señora mayor entró en la sala y ___ junto a la jefa.",
+   "options": [
+    "sentó",
+    "se sienta a",
+    "sentarse",
+    "se sentó"
+   ],
+   "answer": 3,
+   "why": "Sentarse (to sit down) is reflexive, and the story tells finished events in the preterite: se sentó.",
+   "x": true
+  }
+ ],
+ "a2-10": [
+  {
+   "topic": "Comparatives and superlatives",
+   "q": "Which sentence means 'It's the biggest lantern in the village'?",
+   "options": [
+    "Es el farol más grande que el pueblo.",
+    "Es farol el más grande en pueblo.",
+    "Es el farol más grande del pueblo.",
+    "Es el farol grande más del pueblo."
+   ],
+   "answer": 2,
+   "why": "The superlative is el + noun + más + adjective + de (del = de + el), where English uses 'in'."
+  },
+  {
+   "topic": "Perfect tenses: he visto, había aprendido",
+   "q": "Fill in the blank: Cuando Dolores llegó al granero, la lluvia ya ___ el papel.",
+   "options": [
+    "ha mojado",
+    "había mojar",
+    "moja",
+    "había mojado"
+   ],
+   "answer": 3,
+   "why": "The rain soaked the paper before another past moment (when Dolores arrived), so use the past perfect: había + participle. Ha mojado connects to now, not to a past moment."
+  },
+  {
+   "topic": "Demonstratives: este, ese, aquel",
+   "q": "Fill in the blank (that year): ___ año, Dolores tenía una misión especial.",
+   "options": [
+    "Esa",
+    "Esto",
+    "Ese",
+    "Esta"
+   ],
+   "answer": 2,
+   "why": "Año is masculine, so 'that' is ese. Esa and esta are feminine, and esto is neuter (not used before a noun)."
+  },
+  {
+   "topic": "Demonstratives: este, ese, aquel",
+   "q": "Why does the story say 'aquella fue la mejor noche de su vida'?",
+   "options": [
+    "Aquella is for things close to the speaker.",
+    "Aquella points to a night far back in time.",
+    "Aquella means 'this'.",
+    "Aquella is a verb meaning 'was'."
+   ],
+   "answer": 1,
+   "why": "Aquel/aquella = that (far away), often for a moment in the distant past. Este/esta is for near things or now."
+  },
+  {
+   "topic": "Comparatives and superlatives",
+   "q": "Fill in the blanks: Después de la lluvia, el toro era ___ bonito ___ antes.",
+   "options": [
+    "más / que",
+    "más / de",
+    "tan / que",
+    "muy / que"
+   ],
+   "answer": 0,
+   "why": "To compare two things: más + adjective + que. Más de is used before numbers (más de cien personas), and tan pairs with como.",
+   "x": true
+  },
+  {
+   "topic": "Perfect tenses: he visto, había aprendido",
+   "q": "Which sentence is correct?",
+   "options": [
+    "Nunca he veído trabajar tan rápido a este pueblo.",
+    "Nunca visto he trabajar tan rápido a este pueblo.",
+    "Nunca he visto trabajar tan rápido a este pueblo.",
+    "Nunca he vista trabajar tan rápido a este pueblo."
+   ],
+   "answer": 2,
+   "why": "Ver has an irregular participle, visto, which never changes for gender; he and the participle always stay together.",
+   "x": true
+  },
+  {
+   "topic": "Demonstratives: este, ese, aquel",
+   "q": "Which phrase is correct?",
+   "options": [
+    "este pueblo",
+    "esta pueblo",
+    "ese vez",
+    "aquel noche"
+   ],
+   "answer": 0,
+   "why": "Demonstratives agree with the noun: este pueblo (m.), esta vez (f.), aquella noche (f.).",
+   "x": true
+  },
+  {
+   "topic": "Comparatives and superlatives",
+   "q": "Fill in the blank: Es la fiesta más importante ___ pueblo.",
+   "options": [
+    "en el",
+    "del",
+    "que el",
+    "de la"
+   ],
+   "answer": 1,
+   "why": "In superlatives Spanish uses de where English says 'in': la fiesta más importante del pueblo.",
+   "x": true
+  }
+ ]
+}

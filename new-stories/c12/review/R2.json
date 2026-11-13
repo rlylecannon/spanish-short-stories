@@ -1,0 +1,460 @@
+{
+ "patches": [
+  {
+   "file": "stories",
+   "id": "c1-06",
+   "find": "hasta Chiloé Grande se haría",
+   "replace": "hasta la Isla Grande se haría",
+   "why": "Locals call the main island 'la Isla Grande (de Chiloé)'; 'Chiloé Grande' is unidiomatic."
+  },
+  {
+   "file": "stories",
+   "id": "c1-06",
+   "find": "to the Big Island would",
+   "replace": "to the Isla Grande, Chiloé’s main island, would",
+   "why": "EN follows ES fix; 'Big Island' is opaque."
+  },
+  {
+   "file": "stories",
+   "id": "c1-06",
+   "find": "yellow and red larch shingles",
+   "replace": "yellow and red alerce shingles",
+   "why": "Mistranslation: alerce (Fitzroya cupressoides) is not larch."
+  },
+  {
+   "file": "stories",
+   "id": "c1-06",
+   "find": "That night Yerko called her, don Belarmino’s grandson,",
+   "replace": "That night she got a call from Yerko, don Belarmino’s grandson,",
+   "why": "Misplaced appositive in EN ('called her, don Belarmino's grandson')."
+  },
+  {
+   "file": "stories",
+   "id": "c1-06",
+   "find": "tenía decenas de <b>muescas</b>",
+   "replace": "tenía una docena larga de <b>muescas</b>",
+   "why": "Logic: he measures every summer since his wife died (Yerko), so 'decenas' of yearly notches is inconsistent."
+  },
+  {
+   "file": "stories",
+   "id": "c1-06",
+   "find": "it had dozens of notches",
+   "replace": "it had a good dozen notches",
+   "why": "EN follows ES fix."
+  },
+  {
+   "file": "stories",
+   "id": "c1-06",
+   "find": "los tambores pasaron rozando, con un palmo de agua de sobra",
+   "replace": "los tambores pasaron por encima, con un palmo de agua de sobra",
+   "why": "Contradiction: 'rozando' (scraping) vs 'a hand's breadth to spare'."
+  },
+  {
+   "file": "stories",
+   "id": "c1-06",
+   "find": "the barrels scraped past with a hand’s breadth",
+   "replace": "the barrels cleared it with a hand’s breadth",
+   "why": "EN follows ES fix."
+  },
+  {
+   "file": "stories",
+   "id": "c1-06",
+   "find": "Era la <b>escritura</b> del terreno, comprado de vuelta a los primos de Edelmira, a nombre de Yerko Cárcamo.",
+   "replace": "Era la <b>escritura</b> del terreno donde había nacido Edelmira, recuperado tras décadas en manos ajenas y puesto a nombre de Yerko Cárcamo.",
+   "why": "Calque 'comprado de vuelta' (bought back) + plot hole: the cousins had sold the plot decades ago, so it can't be bought back from them."
+  },
+  {
+   "file": "stories",
+   "id": "c1-06",
+   "find": "It was the deed to the plot, bought back from Edelmira’s cousins, in the name of Yerko Cárcamo.",
+   "replace": "It was the deed to the plot where Edelmira had been born, recovered after decades in other hands and put in Yerko Cárcamo’s name.",
+   "why": "EN follows ES fix."
+  },
+  {
+   "file": "dialogues",
+   "id": "c1-06",
+   "find": "Yerko me contó que usted sale todos los veranos a medir.",
+   "replace": "Yerko me contó que usted sale todos los veranos hasta la laja.",
+   "why": "Consistency: Yerko never knew he was measuring (and Belarmino says nobody, not even his grandson, knew)."
+  },
+  {
+   "file": "dialogues",
+   "id": "c1-06",
+   "find": "Yerko told me you go out measuring every summer.",
+   "replace": "Yerko told me you go out to the slab every summer.",
+   "why": "EN follows ES fix."
+  },
+  {
+   "file": "dialogues",
+   "id": "c1-06",
+   "find": "Cincuenta y ocho años midiendo esa piedra…",
+   "replace": "Tantos veranos midiendo esa piedra…",
+   "why": "Consistency: 58 years is since the wedding crossing; he has measured the reef only since his wife died."
+  },
+  {
+   "file": "dialogues",
+   "id": "c1-06",
+   "find": "Fifty-eight years measuring that rock…",
+   "replace": "So many summers measuring that rock…",
+   "why": "EN follows ES fix."
+  },
+  {
+   "file": "stories",
+   "id": "c1-07",
+   "find": "Más bien no le gustó que lo haya hecho sin preguntarle.",
+   "replace": "Más bien le sigue doliendo que lo haya hecho sin preguntarle.",
+   "why": "Sequence of tenses: preterite main clause (no le gustó) normally requires hubiera/hiciera; as a model sentence for haya + participle it must have a present main verb."
+  },
+  {
+   "file": "stories",
+   "id": "c1-07",
+   "find": "It's more that she didn't like me doing it without asking her.",
+   "replace": "It's more that it still hurts her that I did it without asking her.",
+   "why": "EN follows ES fix."
+  },
+  {
+   "file": "stories",
+   "id": "c1-07",
+   "find": "no le gustó que lo haya hecho;",
+   "replace": "le sigue doliendo que lo haya hecho;",
+   "why": "concepts quote updated to match the text."
+  },
+  {
+   "file": "stories",
+   "id": "c1-07",
+   "find": "—Cabe suponer que no —dijo Itandehui despacio,",
+   "replace": "—Cabe suponer, entonces, que no era la palabra —dijo Itandehui despacio,",
+   "why": "'Cabe suponer que no' replying to a statement of fact was illogical; now a real hedge that also prepares the insight."
+  },
+  {
+   "file": "stories",
+   "id": "c1-07",
+   "find": "“One can only assume she didn't,” Itandehui said slowly,",
+   "replace": "“So one might suppose it wasn't the word,” Itandehui said slowly,",
+   "why": "EN follows ES fix."
+  },
+  {
+   "file": "stories",
+   "id": "c1-07",
+   "find": "the count had been dragging delays along since the very first day, and the deadline ran out on Friday, 27 March",
+   "replace": "the count had been running behind since the very first day, and the deadline was Friday, 27 March",
+   "why": "Unnatural EN calques."
+  },
+  {
+   "file": "stories",
+   "id": "c1-07",
+   "find": "with the Minga leaping along behind",
+   "replace": "with the Minga, the devil’s wife, leaping along behind",
+   "why": "Gloss: 'Minga' is a dance character here; c1-06 uses 'minga' = collective work, so EN readers need the gloss."
+  },
+  {
+   "file": "stories",
+   "id": "c1-08",
+   "find": "—Justamente. ¿Y por qué iba a usar plata mala, si lo que quiere es que su moneda pase cualquier prueba? —Ofelia se quitó los guantes—. Era improbable que alguien la hubiera falsificado a propósito con una aleación tan pobre. Una copia habría intentado sonar bien; esta suena exactamente como sonaban las monedas malas de 1649.",
+   "replace": "—Justamente. ¿Y por qué iba a usar plata mala, si lo que quiere es que su moneda pase cualquier prueba?\\nOfelia se quitó los guantes. Era improbable que alguien la hubiera falsificado a propósito con una aleación tan pobre. Una copia habría intentado sonar bien; esta sonaba exactamente como sonaban las monedas malas de 1649.",
+   "why": "Tense error: in present-time direct speech Ofelia would say 'Es improbable que la haya falsificado'; moved the grammar-card sentence into narration (free indirect thought), where era…hubiera is correct. Card example stays verbatim."
+  },
+  {
+   "file": "stories",
+   "id": "c1-08",
+   "find": "“Exactly. So why would he use bad silver, if what he wants is for his coin to pass any test?” Ofelia took off her gloves. “It was unlikely that anyone had deliberately forged it with such a poor alloy. A copy would have tried to sound right; this one sounds exactly the way the bad coins of 1649 sounded.”",
+   "replace": "“Exactly. So why would he use bad silver, if what he wants is for his coin to pass any test?”\\nOfelia took off her gloves. It was unlikely that anyone had deliberately forged it with such a poor alloy. A copy would have tried to sound right; this one sounded exactly the way the bad coins of 1649 had sounded.",
+   "why": "EN follows ES fix."
+  },
+  {
+   "file": "stories",
+   "id": "c1-08",
+   "find": "Cuando Ofelia dice que «una copia habría intentado sonar bien»",
+   "replace": "Cuando Ofelia piensa que «una copia habría intentado sonar bien»",
+   "why": "Quiz stem follows the move from speech to narration."
+  },
+  {
+   "file": "stories",
+   "id": "c1-08",
+   "find": "deciphering legal handwriting",
+   "replace": "deciphering court-hand script",
+   "why": "'letra procesal' = court hand (palaeography term)."
+  },
+  {
+   "file": "dialogues",
+   "id": "c1-08",
+   "find": "y ustedes me van a pagar con la misma moneda, en buenos informes.",
+   "replace": "y ustedes me van a devolver el favor con buenos informes.",
+   "why": "Idiom misuse: 'pagar con la misma moneda' means to retaliate, not to repay a favour (and the story uses it correctly)."
+  },
+  {
+   "file": "dialogues",
+   "id": "c1-08",
+   "find": "and you'll pay me back in kind, with good reports.",
+   "replace": "and you'll return the favour with good reports.",
+   "why": "EN follows ES fix."
+  },
+  {
+   "file": "stories",
+   "id": "c1-09",
+   "find": "«Y la de la paciencia, también»",
+   "replace": "«Y paciencia, también»",
+   "why": "The pencilled joke was syntactically unclear ('la de la paciencia' has no clear antecedent); EN already read it as 'requires patience too'."
+  },
+  {
+   "file": "stories",
+   "id": "c1-09",
+   "find": "“And so does patience.”",
+   "replace": "“And patience, too.”",
+   "why": "EN follows ES fix."
+  },
+  {
+   "file": "stories",
+   "id": "c1-09",
+   "find": "antes de que nadie a bordo lo hubiera sospechado",
+   "replace": "sin que nadie a bordo lo sospechara",
+   "why": "'antes de que + pluperfect subjunctive' is forced and semantically odd here."
+  },
+  {
+   "file": "stories",
+   "id": "c1-09",
+   "find": "before anyone on board had suspected it",
+   "replace": "without anyone on board suspecting it",
+   "why": "EN follows ES fix."
+  },
+  {
+   "file": "stories",
+   "id": "c1-09",
+   "find": "was the note of the inspection in Santo Domingo",
+   "replace": "was the endorsement made in Santo Domingo",
+   "why": "'visado' = endorsement, not inspection."
+  },
+  {
+   "file": "stories",
+   "id": "c1-09",
+   "find": "Pertenece a D. Cayetano Sabater",
+   "replace": "Pertenece a D. Severiano Sabater",
+   "why": "Name uniqueness: 'Cayetano' already appears in c2-01; renamed to Severiano (all occurrences)."
+  },
+  {
+   "file": "stories",
+   "id": "c1-09",
+   "find": "que Cayetano Sabater había firmado",
+   "replace": "que Severiano Sabater había firmado",
+   "why": "Name uniqueness: 'Cayetano' already appears in c2-01; renamed to Severiano (all occurrences)."
+  },
+  {
+   "file": "stories",
+   "id": "c1-09",
+   "find": "que fue de D. Cayetano Sabater",
+   "replace": "que fue de D. Severiano Sabater",
+   "why": "Name uniqueness: 'Cayetano' already appears in c2-01; renamed to Severiano (all occurrences)."
+  },
+  {
+   "file": "stories",
+   "id": "c1-09",
+   "find": "Belongs to Don Cayetano Sabater",
+   "replace": "Belongs to Don Severiano Sabater",
+   "why": "Name uniqueness: 'Cayetano' already appears in c2-01; renamed to Severiano (all occurrences)."
+  },
+  {
+   "file": "stories",
+   "id": "c1-09",
+   "find": "contracts that Cayetano Sabater had signed",
+   "replace": "contracts that Severiano Sabater had signed",
+   "why": "Name uniqueness: 'Cayetano' already appears in c2-01; renamed to Severiano (all occurrences)."
+  },
+  {
+   "file": "stories",
+   "id": "c1-09",
+   "find": "formerly the property of Don Cayetano Sabater",
+   "replace": "formerly the property of Don Severiano Sabater",
+   "why": "Name uniqueness: 'Cayetano' already appears in c2-01; renamed to Severiano (all occurrences)."
+  },
+  {
+   "file": "stories",
+   "id": "c1-09",
+   "find": "Con su antiguo dueño, D. Cayetano Sabater",
+   "replace": "Con su antiguo dueño, D. Severiano Sabater",
+   "why": "Name uniqueness: 'Cayetano' already appears in c2-01; renamed to Severiano (all occurrences)."
+  },
+  {
+   "file": "grammar",
+   "id": "c1-09",
+   "find": "Common error: using the imperfect subjunctive (*que se esfumara) when the action is clearly earlier, or the indicative after sin que (*sin que nadie lo había anotado).",
+   "replace": "Common error: the indicative after sin que (*sin que nadie lo había anotado). The imperfect subjunctive (que se esfumara) is not wrong, but hubiera makes the earlier action explicit.",
+   "why": "Wrong claim: 'le parecía improbable que se esfumara' is correct Spanish and must not be starred."
+  },
+  {
+   "file": "grammar",
+   "id": "c1-09",
+   "find": "Common error: *tras de haber or *después haber; use tras haber or después de haber.",
+   "replace": "Common error: *después haber; use después de haber or tras haber (tras de haber also exists, but sounds old-fashioned).",
+   "why": "Wrong claim: 'tras de + infinitive' is accepted by the RAE (DPD)."
+  },
+  {
+   "file": "gq",
+   "id": "c1-09",
+   "find": "\"Tras de haber\"",
+   "replace": "\"Tras\"",
+   "why": "'Tras de haber revisado' is grammatical (DPD), so the item had two correct answers."
+  },
+  {
+   "file": "gq",
+   "id": "c1-09",
+   "find": "tras would need haber without de (tras haber revisado).",
+   "replace": "tras alone would need haber (tras haber revisado), and Haber/Habido cannot open the clause.",
+   "why": "'why' updated to new distractor and corrected."
+  },
+  {
+   "file": "dialogues",
+   "id": "c1-09",
+   "find": "Es probable que lo hubiera planeado durante meses",
+   "replace": "Es probable que lo planeara durante meses",
+   "why": "Present main clause (es probable) + hubiera is a poor model; planeara/haya planeado."
+  },
+  {
+   "file": "dialogues",
+   "id": "c1-09",
+   "find": "Es el mismo hombre, eso es seguro.",
+   "replace": "Todo indica que es el mismo hombre, aunque solo coincide el nombre.",
+   "why": "Ezequiel's whole point is hedging: identity rests only on the name; 'eso es seguro' contradicts the goal (proven vs probable)."
+  },
+  {
+   "file": "dialogues",
+   "id": "c1-09",
+   "find": "It's the same man, that much is certain.",
+   "replace": "Everything suggests it's the same man, though only the name matches.",
+   "why": "EN follows ES fix."
+  },
+  {
+   "file": "stories",
+   "id": "c1-10",
+   "find": "y que Brígida juraba no haber visto nunca",
+   "replace": "y del que Brígida, curiosamente, nunca había dicho una palabra",
+   "why": "Plot hole: Brígida wrote her recipe in this notebook (para 7), so she can't swear she never saw it."
+  },
+  {
+   "file": "stories",
+   "id": "c1-10",
+   "find": "and which Brígida swore she had never seen",
+   "replace": "and which Brígida, curiously, had never said a word about",
+   "why": "EN follows ES fix."
+  },
+  {
+   "file": "stories",
+   "id": "c1-10",
+   "find": "El problema no era sólo jurídico.",
+   "replace": "El problema no era solo jurídico.",
+   "why": "RAE 2010 norm and site convention (solo without accent)."
+  },
+  {
+   "file": "grammar",
+   "id": "c1-10",
+   "find": "but these conjunctions always do.",
+   "replace": "whereas these conjunctions always take a subjunctive.",
+   "why": "Misleading: the conjunctions take the imperfect subjunctive too, not 'always the present'."
+  },
+  {
+   "file": "gq",
+   "id": "c1-10",
+   "find": "\"Fui de ayudante un año.\"",
+   "replace": "\"Era de ayudante un año.\"",
+   "why": "'Fui de ayudante' (ir de = go as) is arguably acceptable, giving two possible answers; replaced with a clearly wrong distractor."
+  },
+  {
+   "file": "dialogues",
+   "id": "c1-10",
+   "find": "Yo estuve de ayudante un año antes de animarme a tocar nada.",
+   "replace": "Yo estaba de ayudante, recién llegada, y aun así me animé a tocarla.",
+   "why": "Contradiction with the story: her version is dated March 1994, weeks after she started."
+  },
+  {
+   "file": "dialogues",
+   "id": "c1-10",
+   "find": "I worked as an assistant for a year before I dared to touch anything.",
+   "replace": "I was the assistant, just arrived, and even so I dared to change it.",
+   "why": "EN follows ES fix."
+  }
+ ],
+ "report": {
+  "c1-06": {
+   "grade": "A- : genuine C1 (compact conditionals, nominal resolution, Chilean voseo well handled), strong clue/payoff; a few logic slips fixed",
+   "issues_fixed": [
+    "'Chiloé Grande' -> 'la Isla Grande' (+EN)",
+    "EN 'larch' mistranslation of alerce",
+    "plot hole: deed 'comprado de vuelta a los primos' (calque + the cousins had sold the plot long ago)",
+    "'decenas de muescas' inconsistent with measuring only since the wife's death",
+    "'pasaron rozando' vs 'un palmo de sobra' contradiction",
+    "EN misplaced appositive (Yerko called her, don Belarmino's grandson)",
+    "role-play: Yerko could not have known about measuring; '58 years measuring' contradicts story"
+   ],
+   "issues_open": [
+    "Formal connectors are all in one paragraph (the resolution): owner may want one more a raíz de / no obstante elsewhere for spread",
+    "'hacer de tripas corazón' used for self-restraint (borderline; native check)",
+    "Chilote/Chilean slang list from W3 review_notes (firmís, cachái, po, mijita, harto) for a Chilote speaker",
+    "Institutional realism: a municipal 'Dirección' signing, rank 'sargento' at Capitanía de Puerto de Castro",
+    "Tide logic is fictionally tuned (highest tide 'unos centímetros' above others; Monday 'un palmo' lower + 20 barrels) - acceptable but stylised"
+   ]
+  },
+  "c1-07": {
+   "grade": "A- : moving, respectful, well-planted 'nadie más' clue; haya + participle model sentence had a tense-sequence problem (fixed)",
+   "issues_fixed": [
+    "'no le gustó que lo haya hecho' (preterite + haya) used as model -> 'le sigue doliendo que lo haya hecho' (+concepts)",
+    "illogical 'Cabe suponer que no' reply rewritten as a real hedge",
+    "EN calques ('dragging delays along', 'deadline ran out')",
+    "EN gloss for 'la Minga' (devil's wife), avoiding confusion with c1-06's minga"
+   ],
+   "issues_open": [
+    "Vest colour: press reports describe INEGI 2020 vests as 'color hueso' (off-white); 'chaleco blanco' is close enough but owner may prefer 'color hueso' (story + dialogue D0)",
+    "Itandehui 'sent as reinforcement from Oaxaca city' to Guerrero: INEGI hired by state; plausibility check",
+    "Doña Eufemia switches from usted to tú with Itandehui at the end (deliberate warmth?) - native Costa Chica check",
+    "Sensitive 'negra' framing: Costa Chica native/Afro-Mexican reader should confirm it rings true",
+    "Museum interior (wall of masks) unverified"
+   ]
+  },
+  "c1-08": {
+   "grade": "A : tight numismatic mystery, facts check out (Nestares Marín ex-inquisitor, late 1648; corregidor jailed; Gómez de la Rocha executed 1650; new type 1652), excellent clue payoff",
+   "issues_fixed": [
+    "Tense error in direct speech ('Era improbable que… hubiera' said in the present) moved to narration so the card example stays verbatim and correct; quiz stem updated",
+    "EN 'legal handwriting' -> 'court-hand script'",
+    "role-play misuse of 'pagar con la misma moneda' (= retaliate) as 'repay a favour'"
+   ],
+   "issues_open": [
+    "Ley 530: whether a privately held colonial coin becomes registrable/protected heritage via a legajo link - Bolivian heritage lawyer",
+    "'Aramayo' surname evokes the tin-baron family; owner decision",
+    "Fictional X-mark on confiscated coins and 1650 assayer statement: consider a teacher note",
+    "'una aspa' in the 1650 quotation (DPD admits it; 'un aspa' more usual)"
+   ]
+  },
+  "c1-09": {
+   "grade": "A- : rich formal C1 (el cual, nominalisation, compound non-finites), careful sensitive history, good godfather clue; card/gq had wrong grammar claims",
+   "issues_fixed": [
+    "card wrongly starred 'que se esfumara' (imperfect subjunctive is correct)",
+    "card/gq wrongly treated 'tras de haber' as an error -> gq item had two correct answers; distractor replaced, why corrected",
+    "forced 'antes de que nadie lo hubiera sospechado' -> 'sin que nadie lo sospechara'",
+    "unclear pencil joke 'Y la de la paciencia, también' (EN mismatch)",
+    "EN 'note of the inspection' -> 'endorsement'",
+    "name clash: Cayetano (c2-01) -> Severiano Sabater (7 occurrences incl. quiz)",
+    "role-play: 'Es probable que lo hubiera planeado' (present + hubiera) and over-certain 'eso es seguro' contradicting the hedging goal"
+   ],
+   "issues_open": [
+    "19th-c. documentary pastiche and abbreviations (D., dha., izqda.) for a Puerto Rican archivist",
+    "Whether 1870s crew lists carried port-of-call endorsements / a liberto could contract with a ship's captain (historian)",
+    "'archivero' vs 'archivista' in PR",
+    "'la víspera de que + subj.' (colloquial; 'la víspera del día en que zarpó' is more standard) - taste"
+   ]
+  },
+  "c1-10": {
+   "grade": "A- : lively, well-plotted (1991 wedding-cake clue), all four topics demonstrated naturally; one plot hole fixed",
+   "issues_fixed": [
+    "plot hole: Brígida 'swore she had never seen' the notebook she herself wrote in",
+    "'sólo' -> 'solo' (site convention)",
+    "card claim that the conjunctions 'always' take the present subjunctive",
+    "gq distractor 'Fui de ayudante' arguably acceptable (two answers)",
+    "role-play: 'a year as assistant before touching anything' contradicts the March 1994 entry"
+   ],
+   "issues_open": [
+    "Welsh items (Cacen ddu; 'Gwell. Diolch, B.'; nain) for a Welsh speaker",
+    "Legal licence: will read aloud in a tea house; whether a recipe can be a legado; forced heirs",
+    "Card 4 stars '*estar de lo más ordenada' (fine as a temporary state) - consider softening",
+    "'nene' to a 41-year-old, 'albaceazgo' (Rioplatense check)"
+   ]
+  }
+ }
+}

@@ -1,0 +1,16 @@
+c12-add-3 notes (all 828 forms covered)
+
+Verb readings the conjugation engine (C.identify) cannot match (forms it does not support; entries kept for accuracy):
+- alegare (alegar), publicare (publicar), oyeres (oír): future subjunctive
+- cachái (cachar), tenés (tener), traés (traer), vengás (venir): Rioplatense/Chilean voseo forms
+
+Feminine/plural past participles used as adjectives were glossed as masculine adj (acuñada, convertida, leída, marcada, etc.) because the engine does not match them as verb forms.
+
+Unsure / tokenizer fragments or non-standard items:
+- ea (fragment of "Crimea", ship name), fide (fragment of "Fidencio"), p, s, u, po (isolated fragments; u glossed as conj 'or', po as Chilean 'pues'), wa / appin (from Creole "Wa'appin" = what's happening), yuh, mind, mister, meal, monday, two, swing, dumpling, company (English code-switching)
+- ekue, rembe, ndaje: Guaraní particles/words (-kue past, rembe'ý edge, ndaje reportative)
+- buiti: Garifuna "good" (from "buiti binafi")
+- hudutu (Garifuna fish and plantain stew), lumbalú, kuagro, curbata, panalivio (Palenque/Afro-Colombian cultural terms), gramillero (candombe comparsa character), culín (Asturian cider glass), torito (drink; exact kind unclear), tefra, macuquina
+- Place names glossed from knowledge, not web-verified: Quinchao and Rilán (Chiloé, Chile), Castro, Cuareim (Montevideo street), Cimadevilla (Gijón neighborhood), El Musel (Gijón port), Manga (Cartagena neighborhood), Opico (El Salvador), Higuerote (Venezuela), Triunfo de la Cruz (Garifuna community, Honduras), Xalapa, Trelew, Uppsala, Miraflores/San Isidro (Lima)
+- Fictional entities glossed generically: Ondamar (record label), El Vigía (newspaper), Guarapo (estuary name), Cházaro, Corzo etc. as surnames
+- cuente (contar "count on"), juega ("el juega vivo" sly person), pasada ("pasada la medianoche"), señorías (court address)

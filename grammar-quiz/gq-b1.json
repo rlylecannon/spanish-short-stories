@@ -1,0 +1,1022 @@
+{
+ "b1-01": [
+  {
+   "topic": "Preterite vs. imperfect",
+   "q": "Complete: Cuando Inés ___ al hostal veinte minutos después, un joven ___ con la dueña desde hacía un rato.",
+   "options": [
+    "llegaba / habló",
+    "llegó / hablaba",
+    "llegó / habló",
+    "llegaba / hablaba"
+   ],
+   "answer": 1,
+   "why": "Llegó is the next event in the sequence (veinte minutos después). Hablaba is a conversation already in progress (desde hacía un rato), so it is background."
+  },
+  {
+   "topic": "Present perfect vs. preterite",
+   "q": "Inés, a madrileña, is talking about this morning: «Esta mañana ___ una cartera en el Retiro.»",
+   "options": [
+    "encontraba",
+    "había encontrado",
+    "he encontrado",
+    "encontraría"
+   ],
+   "answer": 2,
+   "why": "In Spain, a time that includes today (esta mañana) takes the present perfect. Encontraba is background, había encontrado needs a later past moment, encontraría means 'would find'."
+  },
+  {
+   "topic": "Pluperfect for earlier events",
+   "q": "Complete: Gustavo explicó que su abuela ___ a Chile muchos años antes.",
+   "options": [
+    "se ha marchado",
+    "se marcharía",
+    "se marchaba",
+    "se había marchado"
+   ],
+   "answer": 3,
+   "why": "Muchos años antes points to an action finished before explicó, so the pluperfect: se había marchado. Se marcharía would put her departure after the explanation."
+  },
+  {
+   "topic": "Preterite vs. imperfect",
+   "q": "Put into the past: «Es una mañana fría. Inés pasea por el Retiro cuando de repente ve algo verde.»",
+   "options": [
+    "Era una mañana fría. Inés paseó por el Retiro cuando de repente vio algo verde.",
+    "Era una mañana fría. Inés paseaba por el Retiro cuando de repente veía algo verde.",
+    "Era una mañana fría. Inés había paseado por el Retiro cuando de repente vio algo verde.",
+    "Era una mañana fría. Inés paseaba por el Retiro cuando de repente vio algo verde."
+   ],
+   "answer": 3,
+   "why": "The walk is in progress (paseaba) when one sudden event cuts in (vio). Cuando de repente never introduces background, and había paseado would end the walk first."
+  },
+  {
+   "topic": "Present perfect vs. preterite",
+   "q": "Which sentence is NOT correct in any variety of Spanish?",
+   "options": [
+    "Hoy he encontrado una cartera.",
+    "Ayer he encontrado una cartera.",
+    "Ayer encontré una cartera.",
+    "Hoy encontré una cartera."
+   ],
+   "answer": 1,
+   "why": "Ayer is a finished time, so it needs the preterite everywhere. Hoy encontré is normal in Latin America and common in Spain too.",
+   "x": true
+  },
+  {
+   "topic": "Pluperfect for earlier events",
+   "q": "Which sentence is correct?",
+   "options": [
+    "Su abuela se había marchada a Chile cuando era niña.",
+    "Su abuela había se marchado a Chile cuando era niña.",
+    "Su abuela se había marchado a Chile cuando era niña.",
+    "Su abuela se habían marchado a Chile cuando era niña."
+   ],
+   "answer": 2,
+   "why": "The pronoun goes before había, había agrees with the subject (singular), and the participle after haber never changes: marchado.",
+   "x": true
+  },
+  {
+   "topic": "Present perfect vs. preterite",
+   "q": "Inés tells Gustavo: «He venido en persona porque quería devolvérsela hoy mismo.» Why does she use he venido?",
+   "options": [
+    "The visit happened many years ago",
+    "Venir has no preterite form in Spanish",
+    "She is from Spain, and the visit happened today (hoy mismo), a time that includes now",
+    "She is talking about a habit she had in the past"
+   ],
+   "answer": 2,
+   "why": "In Spain the present perfect is used for a time that includes now (hoy, esta mañana). Vine exists, the visit is not long ago and it is not a habit.",
+   "x": true
+  },
+  {
+   "topic": "Preterite vs. imperfect",
+   "q": "In «un joven pálido hablaba con la dueña y casi lloraba», why are hablaba and lloraba in the imperfect?",
+   "options": [
+    "They are completed events that move the story on",
+    "They are polite forms for talking to the owner",
+    "They happened before another past action",
+    "They were already in progress when Inés arrived: background"
+   ],
+   "answer": 3,
+   "why": "The imperfect describes what was going on when Inés walked in (background). Completed events take the preterite, and an earlier action would take the pluperfect.",
+   "x": true
+  }
+ ],
+ "b1-02": [
+  {
+   "topic": "Future tense",
+   "q": "Complete Bruno's prediction (you will have): «El año que viene ___ más experiencia.»",
+   "options": [
+    "tenerás",
+    "tendrías",
+    "tuvieras",
+    "tendrás"
+   ],
+   "answer": 3,
+   "why": "Tener has the irregular stem tendr- + -ás: tendrás (same for tú and vos). *Tenerás doesn't exist, tendrías means 'you would have', tuvieras is subjunctive."
+  },
+  {
+   "topic": "Si-clauses with present",
+   "q": "Complete Nélida's rule: «Si el pan ___ frío, el chivito está triste.»",
+   "options": [
+    "estará",
+    "está",
+    "esté",
+    "sea"
+   ],
+   "answer": 1,
+   "why": "A real condition or general truth takes si + present indicative. Never the future or the present subjunctive after si, and a temporary state like frío takes estar."
+  },
+  {
+   "topic": "Object pronoun order: se lo, te la",
+   "q": "The judge asks for the secret. Complete Nélida's answer (usted): «___ digo: leche, azúcar…»",
+   "options": [
+    "Se lo",
+    "Le lo",
+    "Lo le",
+    "Se le"
+   ],
+   "answer": 0,
+   "why": "Indirect (to you) comes before direct (it), and le becomes se before lo: se lo digo. Le lo and lo le never occur; se le leaves out 'it'."
+  },
+  {
+   "topic": "Object pronoun order: se lo, te la",
+   "q": "Bruno asks for the mayonnaise recipe. Nélida speaks to him with vos: «Si venís todos los jueves, a lo mejor ___ cuento.»",
+   "options": [
+    "la te",
+    "te la",
+    "te lo",
+    "se la"
+   ],
+   "answer": 1,
+   "why": "Te (to you) goes before la (la receta, feminine). Lo doesn't agree with receta; se la would mean to him, her or usted, not vos."
+  },
+  {
+   "topic": "Future tense",
+   "q": "Find the mistake: «El sábado me levantaré a las cinco, iré a la feria y comprará el mejor lomo.»",
+   "options": [
+    "comprará",
+    "iré",
+    "me levantaré",
+    "el mejor lomo"
+   ],
+   "answer": 0,
+   "why": "Agustina is speaking about herself, so all three verbs need the yo ending -é: compraré. Comprará means he, she or usted will buy.",
+   "x": true
+  },
+  {
+   "topic": "Si-clauses with present",
+   "q": "Which sentence is correct?",
+   "options": [
+    "Si llevarás el carbón, ganarás.",
+    "Si lleves el carbón, ganarás.",
+    "Si llevás el carbón, ganarás.",
+    "Si llevarías el carbón, ganarás."
+   ],
+   "answer": 2,
+   "why": "The si-clause takes the present indicative (vos llevás = tú llevas); the result can be future. Future, conditional and present subjunctive never follow this si.",
+   "x": true
+  },
+  {
+   "topic": "Object pronoun order: se lo, te la",
+   "q": "In Nélida's answer to the judge, «Se lo digo», who does se refer to?",
+   "options": [
+    "Nélida herself",
+    "the secret recipe",
+    "Agustina",
+    "the judge, addressed as usted"
+   ],
+   "answer": 3,
+   "why": "Se here is le (to you, usted) changed before lo; lo is the secret. It is not reflexive: 'I tell myself' would be me lo digo.",
+   "x": true
+  },
+  {
+   "topic": "Future tense",
+   "q": "Change ir a + infinitive into the simple future: «Vas a perder.»",
+   "options": [
+    "Perderás.",
+    "Perdrás.",
+    "Perderé.",
+    "Perderías."
+   ],
+   "answer": 0,
+   "why": "Perder is regular in the future: perder + -ás. Only some verbs drop a vowel (poder → podrás); perderé is 'I', perderías is the conditional.",
+   "x": true
+  }
+ ],
+ "b1-03": [
+  {
+   "topic": "Conditional tense",
+   "q": "Complete Remedios's answer: «Un horno eléctrico no ___ el mismo pan.» (= wouldn't make)",
+   "options": [
+    "hacería",
+    "hacía",
+    "hará",
+    "haría"
+   ],
+   "answer": 3,
+   "why": "Hacer uses the irregular stem har- in the conditional, as in the future: haría. *Hacería doesn't exist, hará = will make, hacía = used to make."
+  },
+  {
+   "topic": "Present perfect vs. preterite",
+   "q": "Complete: «El técnico ___ al mediodía y revisó el horno durante una hora.»",
+   "options": [
+    "ha llegado",
+    "ha llegó",
+    "llegaba",
+    "llegó"
+   ],
+   "answer": 3,
+   "why": "A finished event in a chain of past actions (llegó… revisó) takes the preterite. Ha llegado links to now, *ha llegó mixes two forms, llegaba describes background."
+  },
+  {
+   "topic": "Relative clauses: que, en que",
+   "q": "Complete: «Faltaban cinco días para el Día de Muertos, la época del año ___ La Espiga vendía más pan de muerto.»",
+   "options": [
+    "quien",
+    "donde",
+    "en que",
+    "lo que"
+   ],
+   "answer": 2,
+   "why": "After a word for time (la época, el día, el año), use en que. Donde is for places, quien for people, and lo que refers to a whole idea."
+  },
+  {
+   "topic": "Ser and estar: listo, rico",
+   "q": "Complete: «La víspera del Día de Muertos, todos los pedidos ___ listos.» (= ready)",
+   "options": [
+    "eran",
+    "fueron",
+    "estaban",
+    "serían"
+   ],
+   "answer": 2,
+   "why": "Listo with estar means 'ready', a state at that moment. With ser (eran listos) it would mean the orders were clever."
+  },
+  {
+   "topic": "Conditional tense",
+   "q": "Find the mistake: «Con cuatro hornos, poderíamos entregar todos los pedidos y usted descansaría.»",
+   "options": [
+    "descansaría should be descansara",
+    "poderíamos should be podríamos",
+    "entregar should be entregaríamos",
+    "There is no mistake"
+   ],
+   "answer": 1,
+   "why": "Poder loses the e of its infinitive in the future and conditional: podr- → podríamos. Descansaría is a regular conditional and is correct.",
+   "x": true
+  },
+  {
+   "topic": "Present perfect vs. preterite",
+   "q": "Complete: «El lunes se rompió el horno y desde entonces no ___ pan.»",
+   "options": [
+    "hemos hecho",
+    "habíamos hecho",
+    "hemos hacido",
+    "hicimos"
+   ],
+   "answer": 0,
+   "why": "Desde entonces covers a period that reaches now, so the present perfect is used, in Mexico too. Hacer has the irregular participle hecho (never *hacido).",
+   "x": true
+  },
+  {
+   "topic": "Ser and estar: listo, rico",
+   "q": "What does «Iván, que siempre había sido muy listo» tell us about Iván?",
+   "options": [
+    "He was always ready on time",
+    "He was always rich",
+    "He was always clever",
+    "He was always tired"
+   ],
+   "answer": 2,
+   "why": "Ser listo describes a quality of a person: clever. Estar listo would mean 'ready', and rich is ser rico.",
+   "x": true
+  },
+  {
+   "topic": "Relative clauses: que, en que",
+   "q": "Which sentence is correct?",
+   "options": [
+    "Remedios vio a las personas quien esperaban con sonrisas.",
+    "Remedios vio a las personas esperaban con sonrisas.",
+    "Remedios vio a las personas que ellas esperaban con sonrisas.",
+    "Remedios vio a las personas que esperaban con sonrisas."
+   ],
+   "answer": 3,
+   "why": "Use que right after the noun, and don't repeat the subject (*que ellas). Que can never be left out, and quien isn't used directly after a noun without commas.",
+   "x": true
+  }
+ ],
+ "b1-04": [
+  {
+   "topic": "Impersonal se: se puede, se cura",
+   "q": "Complete don Silvestre's words: «Las noches son tan oscuras que ___ tocar el cielo.»",
+   "options": [
+    "pueden",
+    "se puede",
+    "se pueden",
+    "puede se"
+   ],
+   "answer": 1,
+   "why": "Impersonal se + singular verb means 'you / people can'. El cielo is singular, so no plural; pueden alone means 'they can'; se goes before the conjugated verb."
+  },
+  {
+   "topic": "Impersonal se: se puede, se cura",
+   "q": "Complete the general statement: «En el turno de noche ___ (cansarse) muy rápido.»",
+   "options": [
+    "uno se cansa",
+    "se se cansa",
+    "uno se cansamos",
+    "uno cansa"
+   ],
+   "answer": 0,
+   "why": "Cansarse already has se, and Spanish can't stack two se. For a general statement use uno + se cansa. Uno cansa would mean 'one tires others out'."
+  },
+  {
+   "topic": "Verb phrases: llevar + gerund, seguir, volver a",
+   "q": "Complete: «La luz de esa estrella salió hace miles de años y sigue ___.»",
+   "options": [
+    "llegar",
+    "a llegar",
+    "llegando",
+    "llegado"
+   ],
+   "answer": 2,
+   "why": "Seguir + gerund means 'keep doing / still be doing': sigue llegando. Seguir is not followed by an infinitive, with or without a."
+  },
+  {
+   "topic": "Pluperfect for background",
+   "q": "Complete: «Hasta esa noche, Marcos nunca ___ la vista durante su turno.»",
+   "options": [
+    "había levantada",
+    "ha levantado",
+    "levantaría",
+    "había levantado"
+   ],
+   "answer": 3,
+   "why": "Something that had not happened before a past moment (hasta esa noche) takes the pluperfect. The participle never agrees: levantado, not levantada."
+  },
+  {
+   "topic": "Impersonal se: se puede, se cura",
+   "q": "Which sentence contains an error?",
+   "options": [
+    "En este hospital se trabaja de noche.",
+    "Cuando uno se cae, tarda en recuperarse.",
+    "Cuando se se cae, se tarda mucho en recuperarse.",
+    "Desde esa ventana se puede ver Antares por la noche."
+   ],
+   "answer": 2,
+   "why": "Caerse already has se, so a general statement can't add another: cuando uno se cae. The other sentences use impersonal se correctly.",
+   "x": true
+  },
+  {
+   "topic": "Verb phrases: llevar + gerund, seguir, volver a",
+   "q": "In which sentence does volver a mean 'again'?",
+   "options": [
+    "Esa semana volvió a llamar a su hermana.",
+    "Volvió al hospital a las diez.",
+    "Marcos volvió a la habitación 12.",
+    "Al día siguiente podría volver a su casa."
+   ],
+   "answer": 0,
+   "why": "Volver a + infinitive (llamar) means 'do again'. Volver a + a place (su casa, la habitación) simply means 'go back to'.",
+   "x": true
+  },
+  {
+   "topic": "Verb phrases: llevar + gerund, seguir, volver a",
+   "q": "Rewrite with llevar + gerund: «Marcos vive en Santiago desde hace diez años.»",
+   "options": [
+    "Marcos lleva diez años viviendo en Santiago.",
+    "Marcos lleva diez años vivido en Santiago.",
+    "Marcos está diez años viviendo en Santiago.",
+    "Marcos lleva vivir diez años en Santiago."
+   ],
+   "answer": 0,
+   "why": "Llevar + time + gerund (viviendo) says how long an action has been going on. It needs the gerund, not a participle or infinitive, and estar can't replace llevar.",
+   "x": true
+  },
+  {
+   "topic": "Pluperfect for background",
+   "q": "Which sentence is correct? (My grandmother fell before she went into hospital.)",
+   "options": [
+    "Mi abuela había se caído en la calle.",
+    "Mi abuela se había caída en la calle.",
+    "Mi abuela se había caído en la calle.",
+    "Mi abuela había caídose en la calle."
+   ],
+   "answer": 2,
+   "why": "The pronoun goes before había, and the participle stays in -o even with a female subject: se había caído.",
+   "x": true
+  }
+ ],
+ "b1-05": [
+  {
+   "topic": "Por vs. para",
+   "q": "Complete from the story: «Leticia se había enojado con él ___ la venta de la casa de sus padres.»",
+   "options": [
+    "para",
+    "de",
+    "por",
+    "en"
+   ],
+   "answer": 2,
+   "why": "Por gives the cause or reason ('over, because of'). Para would make the sale the goal of her anger."
+  },
+  {
+   "topic": "Conditional tense",
+   "q": "Complete don Walter's words: «Si pudiera hablar con él una hora más, solo le ___ que me alegro de haber crecido a su lado.»",
+   "options": [
+    "dirá",
+    "decía",
+    "diría",
+    "diga"
+   ],
+   "answer": 2,
+   "why": "An imagined situation takes the conditional: decir → diría (future stem). Decía is a past habit, dirá a real future."
+  },
+  {
+   "topic": "Reported speech",
+   "q": "Don Walter: «Perdí a mi hermano en una tormenta.» Complete the narration: «El hombre les contó que ___ a su propio hermano.»",
+   "options": [
+    "perdí",
+    "había perdido",
+    "perdería",
+    "ha perdido"
+   ],
+   "answer": 1,
+   "why": "After a past verb (contó), an earlier event goes into the pluperfect, and the person changes: perdí → había perdido."
+  },
+  {
+   "topic": "Connectors: por eso, así que, a pesar de",
+   "q": "Complete Nicolás's words: «Papá siempre decía que si uno quiere llegar lejos, tiene que prepararse para lo peor. ___ traje uno para ti.»",
+   "options": [
+    "A pesar de",
+    "Así que",
+    "Aunque",
+    "Para que"
+   ],
+   "answer": 1,
+   "why": "Así que ('so') introduces the result of what came before: because of Dad's advice, he brought a spare. A pesar de and aunque express contrast, and para que expresses purpose."
+  },
+  {
+   "topic": "Por vs. para",
+   "q": "Complete: «Salieron de Manta un lunes ___ la mañana ___ llegar a Montañita en una semana.»",
+   "options": [
+    "por / para",
+    "para / por",
+    "por / por",
+    "para / para"
+   ],
+   "answer": 0,
+   "why": "Por la mañana marks a part of the day. Para + infinitive gives the purpose: in order to reach Montañita.",
+   "x": true
+  },
+  {
+   "topic": "Conditional tense",
+   "q": "Which sentence correctly says 'When they were kids, Dad would always tell them stories about the sea'?",
+   "options": [
+    "De niños, papá siempre les contaría historias del mar.",
+    "De niños, papá siempre les contaba historias del mar.",
+    "De niños, papá siempre les contará historias del mar.",
+    "De niños, papá siempre les ha contado historias del mar."
+   ],
+   "answer": 1,
+   "x": true,
+   "why": "Here 'would' means 'used to': a repeated past habit takes the imperfect (contaba). The conditional contaría is for imagined situations."
+  },
+  {
+   "topic": "Reported speech",
+   "q": "Transform into reported speech. Tía Yolanda: «El mejor camino para volver a alguien es el que se hace juntos.» → Leticia: «Tía Yolanda dijo…»",
+   "options": [
+    "el mejor camino es el que se hace juntos.",
+    "de que el mejor camino es el que se hace juntos.",
+    "que el mejor camino es el que se hace juntos.",
+    "si el mejor camino es el que se hace juntos."
+   ],
+   "answer": 2,
+   "x": true,
+   "why": "Decir + que + statement. Que can't be dropped, decir de que is a common error, and si is only for reported yes/no questions."
+  },
+  {
+   "topic": "Connectors: por eso, así que, a pesar de",
+   "q": "Complete: «Cuando por fin vieron el cartel de Montañita, ___ agotados y quemados por el sol, ninguno quería que el viaje terminara.»",
+   "options": [
+    "a pesar de estar",
+    "por eso estaban",
+    "así que estar",
+    "para estar"
+   ],
+   "answer": 0,
+   "why": "They didn't want the trip to end even though they were exhausted: that is contrast, so a pesar de + infinitive. Por eso and así que introduce a result, and para gives a purpose.",
+   "x": true
+  }
+ ],
+ "b1-06": [
+  {
+   "topic": "Subjunctive after opinion and wish",
+   "q": "Ximena hopes the daughter will write back. Complete: Espero que la hija de Octavio me ___ pronto.",
+   "options": [
+    "contesta",
+    "contestar",
+    "conteste",
+    "contestes"
+   ],
+   "answer": 2,
+   "why": "Espero que + a different subject takes the present subjunctive: (ella) conteste. Contesta is indicative, the infinitive needs the same subject, and contestes is the tú form."
+  },
+  {
+   "topic": "Subjunctive after opinion and wish",
+   "q": "Complete: Creo que la abuela ___ feliz con las cartas, pero no creo que ___ dormir esta noche.",
+   "options": [
+    "estará / pueda",
+    "esté / pueda",
+    "estará / puede",
+    "esté / puede"
+   ],
+   "answer": 0,
+   "why": "Creo que states a belief, so indicative (estará). No creo que expresses doubt, so subjunctive (pueda)."
+  },
+  {
+   "topic": "Negative commands",
+   "q": "Marisol tells her cousin (tú): 'Don't tell her anything.'",
+   "options": [
+    "No le dices nada.",
+    "No le digas nada.",
+    "No dile nada.",
+    "No le decir nada."
+   ],
+   "answer": 1,
+   "why": "Negative tú command = no + present subjunctive: digas (from digo). Pronoun before the verb. No le dices is a statement; dile is only affirmative."
+  },
+  {
+   "topic": "Acabar de and dejar de",
+   "q": "Rocío's father saw the photo a few minutes ago. Complete: «Mi padre ___ ver esta foto.»",
+   "options": [
+    "deja de",
+    "acaba",
+    "acaba de",
+    "termina a"
+   ],
+   "answer": 2,
+   "why": "Acabar de + infinitive means 'to have just done something': acaba de ver = has just seen. The de can't be dropped, and deja de means 'stops'."
+  },
+  {
+   "topic": "Subjunctive after opinion and wish",
+   "q": "Which sentence contains an error?",
+   "options": [
+    "Espero que lo haga.",
+    "Es importante que no se hace ilusiones.",
+    "Rocío quiere que la llames.",
+    "Creo que contestará pronto."
+   ],
+   "answer": 1,
+   "why": "Es importante que is a value judgement and needs the subjunctive: se haga. Creo que (belief) correctly takes the indicative.",
+   "x": true
+  },
+  {
+   "topic": "Negative commands",
+   "q": "Make the command negative: «Dile la verdad.» → «___ la verdad.»",
+   "options": [
+    "No le dices",
+    "No dile",
+    "No le digas",
+    "No digas le"
+   ],
+   "answer": 2,
+   "why": "In a negative command the pronoun moves in front and the verb becomes subjunctive: dile → no le digas.",
+   "x": true
+  },
+  {
+   "topic": "Acabar de and dejar de",
+   "q": "What does «Por orgullo dejé de preguntar por él» mean?",
+   "options": [
+    "Out of pride I kept asking about him.",
+    "Out of pride I stopped asking about him.",
+    "Out of pride I let him ask about me.",
+    "Out of pride I had just asked about him."
+   ],
+   "answer": 1,
+   "why": "Dejar de + infinitive means 'to stop doing something': dejé de preguntar = I stopped asking. 'Had just asked' would be acababa de preguntar.",
+   "x": true
+  },
+  {
+   "topic": "Subjunctive after opinion and wish",
+   "q": "Which sentence correctly says 'Marisol hopes to find more letters'?",
+   "options": [
+    "Marisol espera que encuentra más cartas.",
+    "Marisol espera encontrar más cartas.",
+    "Marisol espera que encuentre más cartas.",
+    "Marisol espera a encontrar más cartas."
+   ],
+   "answer": 1,
+   "why": "Same subject (Marisol hopes, Marisol finds) → infinitive. Que + subjunctive means someone else will find them.",
+   "x": true
+  }
+ ],
+ "b1-07": [
+  {
+   "topic": "Commands",
+   "q": "Camilo speaks to the three investors (ustedes). Complete: «___ que van caminando por una ciudad que no conocen.»",
+   "options": [
+    "Imaginan",
+    "Imagina",
+    "Imaginar",
+    "Imaginen"
+   ],
+   "answer": 3,
+   "why": "Ustedes commands use the present subjunctive: imaginen. Imaginan is a statement, imagina is tú, and the infinitive doesn't address people."
+  },
+  {
+   "topic": "Present subjunctive after wishes",
+   "q": "Teresa to the investors: «Si ustedes prefieren que nosotros ___, lo entenderemos.»",
+   "options": [
+    "nos vamos",
+    "irnos",
+    "nos vayamos",
+    "nos estamos yendo"
+   ],
+   "answer": 2,
+   "why": "Two different subjects (ustedes prefieren / nosotros nos vamos), so preferir que takes the present subjunctive: nos vayamos. The infinitive works only with one subject."
+  },
+  {
+   "topic": "Subjunctive after para que, antes de que",
+   "q": "Complete Teresa's advice: «Habla despacio para que te ___.»",
+   "options": [
+    "entiendan",
+    "entienden",
+    "entender",
+    "entenderán"
+   ],
+   "answer": 0,
+   "why": "Para que always takes the subjunctive, because the purpose is not a fact yet: entiendan. Entienden and entenderán state facts."
+  },
+  {
+   "topic": "Subjunctive after para que, antes de que",
+   "q": "Camilo himself will give the talk. Complete: «Camilo ensaya cada noche ___ bien la presentación.»",
+   "options": [
+    "para que haga",
+    "para hacer",
+    "para hace",
+    "para que hace"
+   ],
+   "answer": 1,
+   "why": "Same subject in both parts (Camilo ensaya, Camilo hace), so use para + infinitive. Para que + subjunctive is for a different subject."
+  },
+  {
+   "topic": "Commands",
+   "x": true,
+   "q": "Camilo's mother speaks to him as tú. Which of her messages contains a mistake?",
+   "options": [
+    "¡Ponte la bufanda!",
+    "¡No sales de casa sin desayunar!",
+    "¡Llama a tu abuela, que te extraña mucho!",
+    "¡Tómate el jugo!"
+   ],
+   "answer": 1,
+   "why": "Negative tú commands use the present subjunctive, built on the yo form salgo: no salgas. No sales is a statement ('you don't go out')."
+  },
+  {
+   "topic": "Subjunctive after para que, antes de que",
+   "x": true,
+   "q": "Teresa: «Vuelve ya, antes de que cambien de opinión.» What does she mean?",
+   "options": [
+    "The investors have already changed their minds.",
+    "Come back now: they haven't changed their minds yet, but they might.",
+    "Come back when they change their minds.",
+    "Come back, because the investors always change their minds at the end."
+   ],
+   "answer": 1,
+   "why": "Antes de que + subjunctive refers to something that hasn't happened yet and may not happen. A fact would need porque + indicative."
+  },
+  {
+   "topic": "Subjunctive after para que, antes de que",
+   "x": true,
+   "q": "Join the two ideas with para que: «Camilo habla despacio. Los inversionistas lo entienden.»",
+   "options": [
+    "Camilo habla despacio para que los inversionistas pueden entenderlo.",
+    "Camilo habla despacio para que los inversionistas lo entienden.",
+    "Camilo habla despacio para los inversionistas entenderlo.",
+    "Camilo habla despacio para que los inversionistas lo entiendan."
+   ],
+   "answer": 3,
+   "why": "Different subjects, so para que + subjunctive: lo entiendan. Para + infinitive is only for the same subject, and para que never takes the indicative or an infinitive."
+  },
+  {
+   "topic": "Present subjunctive after wishes",
+   "x": true,
+   "q": "How does Camilo's mother say 'I want you to call your grandmother'?",
+   "options": [
+    "Quiero a ti llamar a tu abuela.",
+    "Quiero que llames a tu abuela.",
+    "Quiero llamar a tu abuela.",
+    "Quiero que llamas a tu abuela."
+   ],
+   "answer": 1,
+   "why": "'Want you to' becomes querer que + subjunctive: llames. Quiero llamar means 'I want to call', and que can't be dropped."
+  }
+ ],
+ "b1-08": [
+  {
+   "topic": "Si + imperfect subjunctive + conditional",
+   "q": "Complete: «Si no ___ por usted, hoy no sería ingeniera.»",
+   "options": [
+    "es",
+    "sería",
+    "fue",
+    "fuera"
+   ],
+   "answer": 3,
+   "why": "Unreal condition: si + imperfect subjunctive (fuera), then the conditional in the result (sería). The conditional never goes after si."
+  },
+  {
+   "topic": "Si + imperfect subjunctive + conditional",
+   "q": "Complete the result: «Si Aurelio se quedara en casa, ___ tiempo para leer todos sus libros.»",
+   "options": [
+    "tuviera",
+    "tiene",
+    "tendrá",
+    "tendría"
+   ],
+   "answer": 3,
+   "why": "After si + imperfect subjunctive, the result is conditional: tendría. Tendrá pairs with si + present (real condition); tuviera belongs in the si part."
+  },
+  {
+   "topic": "Subjunctive after cuando, aunque, ojalá",
+   "q": "Complete: «Mañana, cuando Aurelio ___ al centro comunitario, los niños lo estarán esperando.»",
+   "options": [
+    "llega",
+    "llegaría",
+    "llegará",
+    "llegue"
+   ],
+   "answer": 3,
+   "why": "Cuando refers to a future moment (mañana), so it takes the present subjunctive: llegue. Spanish never uses the future after cuando."
+  },
+  {
+   "topic": "Relative clauses: donde, que, lo que",
+   "q": "Complete: «Pero ___ más lo desconcertó fue ver a decenas de adultos al fondo.»",
+   "options": [
+    "que",
+    "lo que",
+    "el que",
+    "cual"
+   ],
+   "answer": 1,
+   "why": "There is no noun before the relative, and it means 'the thing that / what', so Spanish uses lo que. A bare que needs a noun before it."
+  },
+  {
+   "topic": "Si + imperfect subjunctive + conditional",
+   "q": "Which sentence contains an error?",
+   "options": [
+    "Si tuviera tiempo, leería todos esos libros.",
+    "Si Carmen lo invita, él irá los sábados.",
+    "Si no fuera por usted, no sería ingeniera.",
+    "Si volvería a empezar, elegiría otra vez esta escuela."
+   ],
+   "answer": 3,
+   "why": "The conditional can't follow si: it should be si volviera. Si + present + future (last option) is a correct real condition.",
+   "x": true
+  },
+  {
+   "topic": "Subjunctive after cuando, aunque, ojalá",
+   "q": "«Hagan preguntas, aunque les dé vergüenza.» What does aunque + subjunctive mean here?",
+   "options": [
+    "because you are embarrassed",
+    "so that you aren't embarrassed",
+    "even if you may feel embarrassed",
+    "although you are clearly embarrassed"
+   ],
+   "answer": 2,
+   "why": "With the subjunctive, aunque presents a possibility ('even if'). With the indicative (aunque les da vergüenza) it states a fact ('although').",
+   "x": true
+  },
+  {
+   "topic": "Relative clauses: donde, que, lo que",
+   "q": "Join the two sentences: «Aurelio caminó por el pasillo. En el pasillo había murales de colores.»",
+   "options": [
+    "Aurelio caminó por el pasillo, lo que había murales.",
+    "Aurelio caminó por el pasillo, que había murales de colores.",
+    "Aurelio caminó por el pasillo, donde había murales de colores.",
+    "Aurelio caminó por el pasillo, quien había murales de colores."
+   ],
+   "answer": 2,
+   "why": "After a place, 'where' is donde (or en el que). Que alone can't replace en el pasillo, and quien is only for people.",
+   "x": true
+  },
+  {
+   "topic": "Subjunctive after cuando, aunque, ojalá",
+   "q": "Gap-fill: «Cuando yo ___ joven, no entendía a mi profesor. Tú también lo entenderás cuando ___ mayor.»",
+   "options": [
+    "era / seas",
+    "era / eres",
+    "fuera / seas",
+    "fuera / eres"
+   ],
+   "answer": 0,
+   "why": "Cuando + indicative for the past (era); cuando + subjunctive for the future (seas). The tense of the main verb tells you which.",
+   "x": true
+  }
+ ],
+ "b1-09": [
+  {
+   "topic": "Reported commands",
+   "q": "Doña Rosa gritaba: «¡No usen el ascensor!» Complete the report: Doña Rosa gritaba que no ___ el ascensor.",
+   "options": [
+    "usaran",
+    "usar",
+    "usaban",
+    "usarían"
+   ],
+   "answer": 0,
+   "why": "A reported command after a past verb (gritaba) needs que + imperfect subjunctive: usaran. Usaban would report a fact, not an order."
+  },
+  {
+   "topic": "Reported commands",
+   "q": "Complete: Doña Rosa nos pide que ___ con cuidado por las escaleras.",
+   "options": [
+    "bajamos",
+    "bajemos",
+    "bajáramos",
+    "bajar"
+   ],
+   "answer": 1,
+   "why": "Pedir que + subjunctive. The reporting verb is present (pide), so the present subjunctive follows: bajemos. Que can't be followed by an infinitive."
+  },
+  {
+   "topic": "Accidental se: se le olvidó, se le acabó",
+   "q": "Soledad didn't mean to forget. Complete: «Se le ___ guardar el archivo.»",
+   "options": [
+    "olvidó",
+    "olvidaron",
+    "olvidaste",
+    "olvidar"
+   ],
+   "answer": 0,
+   "why": "In accidental se the verb agrees with what is forgotten. An infinitive (guardar el archivo) counts as singular, so se le olvidó. Le shows who it happened to."
+  },
+  {
+   "topic": "Verbs of change: ponerse, quedarse, convertirse",
+   "q": "Complete: Después de cenar, Gonzalo se ___ dormido sobre las piernas de su madre.",
+   "options": [
+    "quedó",
+    "convirtió",
+    "volvió",
+    "puso"
+   ],
+   "answer": 0,
+   "why": "Quedarse + participle or adjective describes the state that results: quedarse dormido = fall asleep. Ponerse and volverse don't go with dormido; convertirse needs en + noun."
+  },
+  {
+   "topic": "Reported commands",
+   "q": "In which sentence does the verb report an order, not a piece of information?",
+   "options": [
+    "Gonzalo decía que la oscuridad le daba miedo.",
+    "Gutiérrez contó que su esposa había fallecido.",
+    "La compañía eléctrica dice que el apagón puede durar toda la noche.",
+    "Soledad le dijo que no tuviera miedo."
+   ],
+   "answer": 3,
+   "why": "Decir que + subjunctive (tuviera) reports a command: 'told him not to be afraid'. With the indicative (daba, había fallecido, puede) it only reports information.",
+   "x": true
+  },
+  {
+   "topic": "Accidental se: se le olvidó, se le acabó",
+   "q": "The computer's battery ran out. Which sentence is correct?",
+   "options": [
+    "A la computadora le se acabó la batería.",
+    "A la computadora se le acabó la batería.",
+    "A la computadora se le acabaron la batería.",
+    "La computadora se acabó la batería."
+   ],
+   "answer": 1,
+   "why": "The order is se + le + verb, and the verb agrees with la batería (singular): se le acabó. Le se is never correct.",
+   "x": true
+  },
+  {
+   "topic": "Verbs of change: ponerse, quedarse, convertirse",
+   "q": "Which sentence is correct?",
+   "options": [
+    "El cielo se puso negro y el vestíbulo se convirtió en un comedor.",
+    "El cielo se puso negro y el vestíbulo se convirtió un comedor.",
+    "El cielo se convirtió negro y el vestíbulo se puso un comedor.",
+    "El cielo se puso en negro y el vestíbulo se quedó un comedor."
+   ],
+   "answer": 0,
+   "why": "Ponerse + adjective for a sudden change (se puso negro); convertirse en + noun for a transformation. Without en, convertirse is wrong.",
+   "x": true
+  },
+  {
+   "topic": "Accidental se: se le olvidó, se le acabó",
+   "q": "What does «Se me va a descongelar el congelador» tell us about Gutiérrez?",
+   "options": [
+    "He wants to defrost the freezer on purpose.",
+    "Someone else is going to defrost his freezer.",
+    "He has already defrosted the freezer.",
+    "The freezer is going to defrost and it isn't his fault."
+   ],
+   "answer": 3,
+   "why": "Se me + verb presents something as an accident that happens to the speaker: the blackout, not Gutiérrez, is defrosting the freezer.",
+   "x": true
+  }
+ ],
+ "b1-10": [
+  {
+   "topic": "Passive and impersonal se",
+   "q": "Complete: En Antigua, las alfombras de Viernes Santo se ___ con aserrín de colores.",
+   "options": [
+    "hace",
+    "hecho",
+    "hacemos",
+    "hacen"
+   ],
+   "answer": 3,
+   "why": "Passive se agrees with the thing: las alfombras is plural, so se hacen. Se hace is the classic slip; hecho needs ser or estar."
+  },
+  {
+   "topic": "Future of probability: ¿será…?",
+   "q": "Itzel is wondering about the clue. Complete her question: ¿Y qué ___ «la mano que toca»?",
+   "options": [
+    "será",
+    "sea",
+    "fuera",
+    "seré"
+   ],
+   "answer": 0,
+   "why": "To wonder or guess about the present, Spanish uses the future: ¿qué será? = what can it be? Sea and fuera are subjunctive forms with no trigger, and seré is the yo form."
+  },
+  {
+   "topic": "Por vs. para",
+   "q": "Complete: Bayron e Itzel caminaron ___ la calle del arco ___ buscar la casa.",
+   "options": [
+    "para / por",
+    "por / por",
+    "para / para",
+    "por / para"
+   ],
+   "answer": 3,
+   "why": "Por marks the path (along the street); para + infinitive marks the purpose (in order to look for)."
+  },
+  {
+   "topic": "Por vs. para",
+   "q": "Complete: Construyeron el arco ___ que las monjas pudieran cruzar la calle sin ser vistas.",
+   "options": [
+    "para",
+    "por",
+    "porque",
+    "de"
+   ],
+   "answer": 0,
+   "why": "Purpose with a new subject is para que + subjunctive (pudieran). Porque gives a cause and takes the indicative; por que is not a purpose link."
+  },
+  {
+   "topic": "Passive and impersonal se",
+   "q": "Find the mistake: «En Antigua se ve muchas puertas con aldabas de bronce.»",
+   "options": [
+    "muchas → muchos",
+    "con → por",
+    "se ve → se ven",
+    "There is no mistake."
+   ],
+   "answer": 2,
+   "why": "Puertas is plural, so the se verb must be plural too: se ven. Singular se ve only fits a singular noun or a verb with no noun.",
+   "x": true
+  },
+  {
+   "topic": "Future of probability: ¿será…?",
+   "q": "In which sentence does the future express a guess, not a future event?",
+   "options": [
+    "¿Será alguien que toca la guitarra?",
+    "Si caminamos por esa calle, encontraremos la casa.",
+    "Si tienes suerte, esta noche verás la lava.",
+    "Si vuelves el año que viene, iré contigo."
+   ],
+   "answer": 0,
+   "why": "¿Será alguien…? wonders about the present ('could it be someone…?'). The other sentences talk about real future events.",
+   "x": true
+  },
+  {
+   "topic": "Por vs. para",
+   "q": "What does «Por eso la llamamos Antigua» mean?",
+   "options": [
+    "That's why we call it Antigua.",
+    "We call it Antigua for that purpose.",
+    "We call it Antigua instead.",
+    "We call it Antigua through that."
+   ],
+   "answer": 0,
+   "why": "Por eso looks back at a cause: 'that's why'. Para eso would mean 'for that purpose', which isn't what Bayron means.",
+   "x": true
+  },
+  {
+   "topic": "Passive and impersonal se",
+   "q": "Which sentence is correct?",
+   "options": [
+    "Las alfombras no se hace para durar.",
+    "Las alfombras no se hacen por durar.",
+    "Las alfombras no hacen para durar.",
+    "Las alfombras no se hacen para durar."
+   ],
+   "answer": 3,
+   "why": "Plural noun, plural se verb (se hacen), and purpose is para + infinitive. Without se, 'the carpets don't make' makes no sense.",
+   "x": true
+  }
+ ]
+}

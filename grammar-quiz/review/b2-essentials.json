@@ -1,0 +1,256 @@
+{
+ "topics": [
+  {
+   "topic": "Subjunctive after conjunctions (para que, sin que, antes de que...)",
+   "explain": "Some conjunctions always take the subjunctive because the action is not (yet) a fact: para que, a fin de que, sin que, antes de que, a menos que, con tal de que, en caso de que. Time conjunctions (cuando, hasta que, en cuanto, después de que) take the subjunctive only for pending actions; for habits and past facts, the indicative. If both clauses share the subject, use the infinitive: lo hago para ganar dinero. Watch out: antes de que needs the subjunctive even in the past: llegamos antes de que empezara.",
+   "examples": [
+    [
+     "Te lo digo para que no te preocupes.",
+     "I'm telling you so that you don't worry."
+    ],
+    [
+     "Salió sin que nadie la viera.",
+     "She left without anyone seeing her."
+    ],
+    [
+     "Cuando llegues, llámame; cuando llegaba, siempre me llamaba.",
+     "When you arrive, call me; when she arrived, she always called me."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "Complete: «Te presto el coche con tal de que me lo (devolver) mañana.»",
+     "options": [
+      "devuelvas",
+      "devuelves",
+      "devolverás",
+      "devolvieras"
+     ],
+     "answer": 0,
+     "why": "Con tal de que ('provided that') always takes the subjunctive; with a present main verb and a future time, present subjunctive: devuelvas."
+    },
+    {
+     "q": "Which sentence is correct?",
+     "options": [
+      "Llegamos antes de que empezara la reunión.",
+      "Llegamos antes de que empezó la reunión.",
+      "Llegamos antes de empezara la reunión.",
+      "Llegamos antes que empezó la reunión."
+     ],
+     "answer": 0,
+     "why": "Antes de que always takes the subjunctive, even when the event really happened; in the past, imperfect subjunctive: empezara."
+    }
+   ]
+  },
+  {
+   "topic": "Indicative vs subjunctive: opinion, doubt and emotion",
+   "explain": "Affirmative verbs of opinion and perception (creo que, pienso que, me parece que, está claro que) take the indicative: you assert something. Negated, they normally take the subjunctive: no creo que sea verdad. Doubt (dudo que), emotion (me alegra que, me molesta que, siento que) and value judgments (es importante que, es normal que) take the subjunctive. Watch out: es verdad / es obvio / es cierto que take the indicative, and in questions (¿crees que...?) both moods are possible.",
+   "examples": [
+    [
+     "Creo que tiene razón.",
+     "I think she's right."
+    ],
+    [
+     "No creo que tenga razón.",
+     "I don't think she's right."
+    ],
+    [
+     "Me alegra que hayas venido.",
+     "I'm glad you've come."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "Complete: «No pienso que el proyecto (ser) rentable.»",
+     "options": [
+      "sea",
+      "es",
+      "será",
+      "ser"
+     ],
+     "answer": 0,
+     "why": "A negated opinion verb (no pienso que) normally takes the subjunctive: sea."
+    },
+    {
+     "q": "Which sentence is NOT correct?",
+     "options": [
+      "Es obvio que tiene razón.",
+      "Me molesta que llegues tarde.",
+      "Dudo que venga.",
+      "Es verdad que tenga razón."
+     ],
+     "answer": 3,
+     "why": "Expressions of certainty (es verdad que, es obvio que) take the indicative: es verdad que tiene razón. Emotion and doubt take the subjunctive."
+    }
+   ]
+  },
+  {
+   "topic": "Relative clauses with prepositions; cuyo",
+   "explain": "After a preposition, Spanish uses article + que (el que, la que, los que, las que) or the more formal el cual, agreeing with the antecedent: la empresa para la que trabajo. For people, quien(es) also works: la amiga con quien viajé. The preposition must come before the relative; Spanish never leaves it at the end like English ('the friend I travelled with'). Cuyo means 'whose' and agrees with the thing possessed: la autora cuyas novelas traduzco. Watch out: don't drop the preposition (*la casa que vivo → la casa en la que vivo).",
+   "examples": [
+    [
+     "Esta es la casa en la que nací.",
+     "This is the house I was born in."
+    ],
+    [
+     "La amiga con quien viajé vive en Lima.",
+     "The friend I travelled with lives in Lima."
+    ],
+    [
+     "Es un pueblo cuyos habitantes son casi todos jubilados.",
+     "It's a village whose inhabitants are almost all retired."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "Complete: «El editor ___ trabajo es muy exigente.»",
+     "options": [
+      "para el que",
+      "que",
+      "para que",
+      "el que para"
+     ],
+     "answer": 0,
+     "why": "'The editor I work for' = el editor para el que trabajo: the preposition goes before the relative. Para que means 'so that'."
+    },
+    {
+     "q": "Complete: «La escritora ___ novelas traduzco vive en Bogotá.»",
+     "options": [
+      "cuyas",
+      "cuya",
+      "que sus",
+      "de quien"
+     ],
+     "answer": 0,
+     "why": "Cuyo agrees with the thing possessed (novelas: cuyas), not with the owner. *Que sus is a common colloquial error."
+    }
+   ]
+  },
+  {
+   "topic": "Verbs of change: ponerse, volverse, hacerse, quedarse",
+   "explain": "English 'become / get' has several Spanish equivalents. Ponerse + adjective: a quick, often temporary change of mood or appearance (se puso rojo). Volverse: a deeper change of character (se volvió desconfiado). Hacerse: a change through effort or a gradual process, also with professions and beliefs (se hizo médico, se hizo rico). Quedarse: the state left after an event, often a loss (se quedó ciego, se quedó sin trabajo). Convertirse en + noun: transformation. Watch out: llegar a ser means 'eventually become' after a long process.",
+   "examples": [
+    [
+     "Se puso nerviosa al ver la carta.",
+     "She got nervous when she saw the letter."
+    ],
+    [
+     "Con los años se volvió muy desconfiado.",
+     "Over the years he became very distrustful."
+    ],
+    [
+     "Se quedó sin palabras.",
+     "She was left speechless."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "Complete: «Cuando le hablaron del rumor, Esteban se ___ pálido.»",
+     "options": [
+      "puso",
+      "hizo",
+      "convirtió",
+      "transformó"
+     ],
+     "answer": 0,
+     "why": "A sudden, temporary change in appearance is ponerse: se puso pálido. Hacerse is for gradual or deliberate change; convertirse needs en + noun."
+    },
+    {
+     "q": "Which sentence means 'After the accident he was left blind'?",
+     "options": [
+      "Se quedó ciego después del accidente.",
+      "Se puso ciego después del accidente.",
+      "Se hizo ciego después del accidente.",
+      "Se convirtió ciego después del accidente."
+     ],
+     "answer": 0,
+     "why": "Quedarse describes the state left by an event, often a loss: quedarse ciego, quedarse sin trabajo. (Colloquially, ponerse ciego means 'to stuff oneself' or 'get wasted'.)"
+    }
+   ]
+  },
+  {
+   "topic": "Lo + adjective and lo + adjective + que",
+   "explain": "Lo + masculine singular adjective turns a quality into an abstract idea: lo importante 'the important thing', lo mejor 'the best thing / part'. Lo + adjective or adverb + que means 'how + adjective': no sabes lo difícil que es 'you don't know how difficult it is'; here the adjective agrees with its noun (lo cansada que estaba). Lo de + noun means 'the business of': lo de la carta. Watch out: in this sense 'the important thing' is lo importante, not *la cosa importante, and 'how tired' after saber/imaginar is lo cansado que, not *cómo cansado.",
+   "examples": [
+    [
+     "Lo mejor del viaje fue la comida.",
+     "The best thing about the trip was the food."
+    ],
+    [
+     "No te imaginas lo cansada que estaba.",
+     "You can't imagine how tired she was."
+    ],
+    [
+     "¿Te has enterado de lo de Esteban?",
+     "Have you heard about the business with Esteban?"
+    ]
+   ],
+   "questions": [
+    {
+     "q": "Complete: «No sabes ___ que son estas montañas.»",
+     "options": [
+      "lo bonitas",
+      "lo bonito",
+      "cómo bonitas",
+      "las bonitas"
+     ],
+     "answer": 0,
+     "why": "Lo + adjective + que = 'how + adjective'; the adjective agrees with the noun it describes (montañas: bonitas)."
+    },
+    {
+     "q": "What does «Lo importante es que estás bien» mean?",
+     "options": [
+      "The important thing is that you're OK.",
+      "It is important for you to be OK.",
+      "How important it is that you're OK!",
+      "The important person is you, and you're OK."
+     ],
+     "answer": 0,
+     "why": "Lo + adjective = 'the ... thing / what is ...': lo importante = 'the important thing'."
+    }
+   ]
+  },
+  {
+   "topic": "Passive voice: ser + participle, estar + participle, se",
+   "explain": "Spanish has three ways to express English passive ideas. Ser + participle (agreeing with the subject) presents an action, mainly in writing and the news, and can name the agent with por: el puente fue construido por los romanos. Estar + participle describes the resulting state: el puente ya está construido. Passive se is the everyday choice when no agent is mentioned: se construyó un puente. Watch out: English 'I was given a book' cannot become a ser passive (*fui dado un libro); use the active or se: me dieron un libro / se me dio un libro.",
+   "examples": [
+    [
+     "La novela fue traducida por Daniela Ospina.",
+     "The novel was translated by Daniela Ospina."
+    ],
+    [
+     "Cuando llegamos, la puerta ya estaba cerrada.",
+     "When we arrived, the door was already closed."
+    ],
+    [
+     "Se venden pisos en el centro.",
+     "Flats for sale in the centre."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "Complete: «Cuando llegó el inspector, el informe ya ___ terminado.»",
+     "options": [
+      "estaba",
+      "fue",
+      "era",
+      "se"
+     ],
+     "answer": 0,
+     "why": "The state resulting from an earlier action is estar + participle: ya estaba terminado. Fue terminado would describe the action itself."
+    },
+    {
+     "q": "Which is correct for 'She was told the news'?",
+     "options": [
+      "Le dijeron la noticia.",
+      "Ella fue dicha la noticia.",
+      "Ella estaba dicha la noticia.",
+      "Ella se dijo la noticia."
+     ],
+     "answer": 0,
+     "why": "Spanish cannot make the indirect object the subject of a ser passive. Use the active with an impersonal 'they' (le dijeron) or se le dijo."
+    }
+   ]
+  }
+ ]
+}

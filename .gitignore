@@ -1,0 +1,22 @@
+# macOS / editors / Python
+.DS_Store
+__pycache__/
+*.pyc
+.claude/
+
+# Scratch, backups and generated files that are not part of the project
+_bak/
+_mock/
+_probe/
+_publish/
+audit/
+audit2/
+*.zip
+README-backup.md
+CHANGES-since-last-backup.md
+photo-hybrid-mockup.html
+duotone-examples.html
+story-reader-recreation.html
+
+# Local build settings (may hold a private AI endpoint URL)
+site-config.json

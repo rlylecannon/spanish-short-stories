@@ -1,0 +1,1267 @@
+{
+ "version": 1,
+ "levels": [
+  {
+   "level": "A1",
+   "levelGoal": "Understand and use familiar everyday expressions and very simple sentences about yourself, your surroundings and immediate needs.",
+   "checkpoint": {
+    "passStories": 7,
+    "passComp": 70
+   },
+   "statements": [
+    {
+     "id": "A1-R1",
+     "level": "A1",
+     "skill": "reading",
+     "text": "I can understand short, simple texts that say where people and things are, what time it is and what someone has (for example: Son las tres. El abuelo está en la sala).",
+     "evidence": {
+      "stories": [
+       "a1-01",
+       "a1-04",
+       "a1-07",
+       "a1-10"
+      ],
+      "quiz": "comp",
+      "minScorePct": 70,
+      "speak": false
+     }
+    },
+    {
+     "id": "A1-R2",
+     "level": "A1",
+     "skill": "reading",
+     "text": "I can find specific details such as numbers, prices, times and days in a very short text.",
+     "evidence": {
+      "stories": [
+       "a1-02",
+       "a1-05",
+       "a1-09",
+       "a1-10"
+      ],
+      "quiz": "comp",
+      "minScorePct": 70,
+      "speak": false
+     }
+    },
+    {
+     "id": "A1-L1",
+     "level": "A1",
+     "skill": "listening",
+     "text": "I can follow a short story read slowly and clearly when it is about familiar topics like family, food, school or home.",
+     "evidence": {
+      "stories": [
+       "a1-01",
+       "a1-03",
+       "a1-06",
+       "a1-08"
+      ],
+      "quiz": "comp",
+      "minScorePct": 70,
+      "speak": false
+     }
+    },
+    {
+     "id": "A1-L2",
+     "level": "A1",
+     "skill": "listening",
+     "text": "I can catch numbers, times and days of the week when they are spoken slowly (for example: a las nueve, el sábado).",
+     "evidence": {
+      "stories": [
+       "a1-02",
+       "a1-05",
+       "a1-09",
+       "a1-10"
+      ],
+      "quiz": "comp",
+      "minScorePct": 70,
+      "speak": false
+     }
+    },
+    {
+     "id": "A1-S1",
+     "level": "A1",
+     "skill": "speaking",
+     "text": "I can introduce myself and someone else: name, where we are from and what we like (Me llamo…, Soy de…, Me gusta…).",
+     "evidence": {
+      "stories": [
+       "a1-03",
+       "a1-06",
+       "a1-02"
+      ],
+      "quiz": null,
+      "minScorePct": null,
+      "speak": true
+     }
+    },
+    {
+     "id": "A1-S2",
+     "level": "A1",
+     "skill": "speaking",
+     "text": "I can order food and drinks and ask the price, using simple phrases like Quiero…, ¿Puedo…? and ¿Cuánto es?",
+     "evidence": {
+      "stories": [
+       "a1-05",
+       "a1-02",
+       "a1-04"
+      ],
+      "quiz": null,
+      "minScorePct": null,
+      "speak": true
+     }
+    },
+    {
+     "id": "A1-W1",
+     "level": "A1",
+     "skill": "writing",
+     "text": "I can write 3-5 simple sentences about myself, a person I know or my weekend plans, using the present tense or voy a + infinitive.",
+     "evidence": {
+      "stories": [
+       "a1-03",
+       "a1-06",
+       "a1-09",
+       "a1-10"
+      ],
+      "quiz": null,
+      "minScorePct": null,
+      "speak": false
+     }
+    },
+    {
+     "id": "A1-G1",
+     "level": "A1",
+     "skill": "grammar",
+     "text": "I can choose correctly between ser, estar, tener and hay in simple sentences, and make articles and adjectives agree (la chaqueta roja, unos zapatos blancos).",
+     "evidence": {
+      "stories": [
+       "a1-01",
+       "a1-02",
+       "a1-03",
+       "a1-04",
+       "a1-07"
+      ],
+      "quiz": "gram",
+      "minScorePct": 70,
+      "speak": false
+     }
+    }
+   ]
+  },
+  {
+   "level": "A2",
+   "levelGoal": "Understand and talk about past events and everyday matters in simple connected language, and handle routine transactions.",
+   "checkpoint": {
+    "passStories": 7,
+    "passComp": 70
+   },
+   "statements": [
+    {
+     "id": "A2-R1",
+     "level": "A2",
+     "skill": "reading",
+     "text": "I can follow a short story about past events and put the main events in the right order (primero, luego, después, al final).",
+     "evidence": {
+      "stories": [
+       "a2-01",
+       "a2-02",
+       "a2-03",
+       "a2-06"
+      ],
+      "quiz": "comp",
+      "minScorePct": 70,
+      "speak": false
+     }
+    },
+    {
+     "id": "A2-R2",
+     "level": "A2",
+     "skill": "reading",
+     "text": "I can understand short personal messages and notes, such as a text message, a clue or a letter, and say what the writer wants.",
+     "evidence": {
+      "stories": [
+       "a2-01",
+       "a2-02",
+       "a2-05",
+       "a2-06"
+      ],
+      "quiz": "comp",
+      "minScorePct": 70,
+      "speak": false
+     }
+    },
+    {
+     "id": "A2-L1",
+     "level": "A2",
+     "skill": "listening",
+     "text": "I can understand the main points of a story told in the past when it is spoken clearly, telling the background (era, llovía) from the events (sonó, salió).",
+     "evidence": {
+      "stories": [
+       "a2-04",
+       "a2-05",
+       "a2-08",
+       "a2-10"
+      ],
+      "quiz": "comp",
+      "minScorePct": 70,
+      "speak": false
+     }
+    },
+    {
+     "id": "A2-L2",
+     "level": "A2",
+     "skill": "listening",
+     "text": "I can follow simple everyday conversations at a station, in a shop or at an interview, and work out who wants what.",
+     "evidence": {
+      "stories": [
+       "a2-01",
+       "a2-03",
+       "a2-07",
+       "a2-09"
+      ],
+      "quiz": "comp",
+      "minScorePct": 70,
+      "speak": false
+     }
+    },
+    {
+     "id": "A2-S1",
+     "level": "A2",
+     "skill": "speaking",
+     "text": "I can say what I did yesterday or last weekend in a series of simple sentences, using the preterite and linking words like y, pero, porque.",
+     "evidence": {
+      "stories": [
+       "a2-01",
+       "a2-03",
+       "a2-06"
+      ],
+      "quiz": null,
+      "minScorePct": null,
+      "speak": true
+     }
+    },
+    {
+     "id": "A2-S2",
+     "level": "A2",
+     "skill": "speaking",
+     "text": "I can handle simple everyday transactions: buying a ticket, asking how much something costs, asking for help or directions, and giving short instructions (ven, toma, busca).",
+     "evidence": {
+      "stories": [
+       "a2-01",
+       "a2-06",
+       "a2-08",
+       "a2-09"
+      ],
+      "quiz": null,
+      "minScorePct": null,
+      "speak": true
+     }
+    },
+    {
+     "id": "A2-W1",
+     "level": "A2",
+     "skill": "writing",
+     "text": "I can write a short narrative of 4-6 sentences about something that happened to me, using the past tenses and sequence words.",
+     "evidence": {
+      "stories": [
+       "a2-01",
+       "a2-03",
+       "a2-04",
+       "a2-05"
+      ],
+      "quiz": null,
+      "minScorePct": null,
+      "speak": false
+     }
+    },
+    {
+     "id": "A2-G1",
+     "level": "A2",
+     "skill": "grammar",
+     "text": "I can use the preterite for events and the imperfect for descriptions and habits, and replace nouns with object pronouns (lo, la, le, se lo).",
+     "evidence": {
+      "stories": [
+       "a2-04",
+       "a2-05",
+       "a2-07",
+       "a2-10"
+      ],
+      "quiz": "gram",
+      "minScorePct": 70,
+      "speak": false
+     }
+    }
+   ]
+  },
+  {
+   "level": "B1",
+   "levelGoal": "Understand the main points of longer stories on familiar matters, describe experiences, feelings and plans, and briefly give reasons and opinions.",
+   "checkpoint": {
+    "passStories": 7,
+    "passComp": 70
+   },
+   "statements": [
+    {
+     "id": "B1-R1",
+     "level": "B1",
+     "skill": "reading",
+     "text": "I can follow a longer narrative with flashbacks and understand what happened earlier (había + participle) and what happens next.",
+     "evidence": {
+      "stories": [
+       "b1-01",
+       "b1-05",
+       "b1-06",
+       "b1-10"
+      ],
+      "quiz": "comp",
+      "minScorePct": 70,
+      "speak": false
+     }
+    },
+    {
+     "id": "B1-R2",
+     "level": "B1",
+     "skill": "reading",
+     "text": "I can work out how characters feel and why they act as they do, even when the text does not say it directly.",
+     "evidence": {
+      "stories": [
+       "b1-03",
+       "b1-04",
+       "b1-07",
+       "b1-09"
+      ],
+      "quiz": "comp",
+      "minScorePct": 70,
+      "speak": false
+     }
+    },
+    {
+     "id": "B1-L1",
+     "level": "B1",
+     "skill": "listening",
+     "text": "I can follow the main points of a 5-10 minute story recording in clear standard speech, including some regional voices (for example Uruguayan voseo).",
+     "evidence": {
+      "stories": [
+       "b1-02",
+       "b1-04",
+       "b1-08",
+       "b1-09"
+      ],
+      "quiz": "comp",
+      "minScorePct": 70,
+      "speak": false
+     }
+    },
+    {
+     "id": "B1-L2",
+     "level": "B1",
+     "skill": "listening",
+     "text": "I can follow a scene with several speakers and identify who suggests, asks for or promises what.",
+     "evidence": {
+      "stories": [
+       "b1-03",
+       "b1-07",
+       "b1-08",
+       "b1-09"
+      ],
+      "quiz": "comp",
+      "minScorePct": 70,
+      "speak": false
+     }
+    },
+    {
+     "id": "B1-S1",
+     "level": "B1",
+     "skill": "speaking",
+     "text": "I can describe an experience, say how I felt and how things turned out, in connected sentences (de repente, sin embargo, al final).",
+     "evidence": {
+      "stories": [
+       "b1-01",
+       "b1-05",
+       "b1-06"
+      ],
+      "quiz": null,
+      "minScorePct": null,
+      "speak": true
+     }
+    },
+    {
+     "id": "B1-S2",
+     "level": "B1",
+     "skill": "speaking",
+     "text": "I can give and justify an opinion or piece of advice, and say what I would do in a situation (yo en tu lugar…, si yo fuera…, deberías…).",
+     "evidence": {
+      "stories": [
+       "b1-03",
+       "b1-07",
+       "b1-08"
+      ],
+      "quiz": null,
+      "minScorePct": null,
+      "speak": true
+     }
+    },
+    {
+     "id": "B1-W1",
+     "level": "B1",
+     "skill": "writing",
+     "text": "I can write a connected text of 4-6 sentences about an experience, a hope or a plan, linking ideas with connectors and expressing feelings.",
+     "evidence": {
+      "stories": [
+       "b1-01",
+       "b1-04",
+       "b1-08",
+       "b1-10"
+      ],
+      "quiz": null,
+      "minScorePct": null,
+      "speak": false
+     }
+    },
+    {
+     "id": "B1-G1",
+     "level": "B1",
+     "skill": "grammar",
+     "text": "I can use the present subjunctive after wishes and purpose (espero que, quiero que, para que), the pluperfect, and si-clauses with the present or imperfect subjunctive.",
+     "evidence": {
+      "stories": [
+       "b1-03",
+       "b1-06",
+       "b1-08",
+       "b1-09",
+       "b1-10"
+      ],
+      "quiz": "gram",
+      "minScorePct": 70,
+      "speak": false
+     }
+    }
+   ]
+  },
+  {
+   "level": "B2",
+   "levelGoal": "Read extended stories with ease, grasp implicit meaning, tone and point of view, and argue, speculate and hypothesise clearly and in detail.",
+   "checkpoint": {
+    "passStories": 8,
+    "passComp": 75
+   },
+   "statements": [
+    {
+     "id": "B2-R1",
+     "level": "B2",
+     "skill": "reading",
+     "text": "I can read an extended narrative with shifting timelines, embedded documents or an unreliable narrator, and keep track of what is fact and what is a character's version.",
+     "evidence": {
+      "stories": [
+       "b2-01",
+       "b2-06",
+       "b2-08",
+       "b2-10"
+      ],
+      "quiz": "comp",
+      "minScorePct": 70,
+      "speak": false
+     }
+    },
+    {
+     "id": "B2-R2",
+     "level": "B2",
+     "skill": "reading",
+     "text": "I can recognise the writer's or narrator's tone, such as irony, understatement or affection, and implied attitudes that are not stated directly.",
+     "evidence": {
+      "stories": [
+       "b2-02",
+       "b2-03",
+       "b2-04",
+       "b2-09"
+      ],
+      "quiz": "comp",
+      "minScorePct": 70,
+      "speak": false
+     }
+    },
+    {
+     "id": "B2-L1",
+     "level": "B2",
+     "skill": "listening",
+     "text": "I can follow a long story recording at natural speed, including regional varieties such as Rioplatense, Mexican or Cuban Spanish.",
+     "evidence": {
+      "stories": [
+       "b2-05",
+       "b2-06",
+       "b2-07",
+       "b2-10"
+      ],
+      "quiz": "comp",
+      "minScorePct": 70,
+      "speak": false
+     }
+    },
+    {
+     "id": "B2-L2",
+     "level": "B2",
+     "skill": "listening",
+     "text": "I can follow several speakers' conflicting accounts in a recording and notice where their stories contradict each other.",
+     "evidence": {
+      "stories": [
+       "b2-05",
+       "b2-07",
+       "b2-08"
+      ],
+      "quiz": "comp",
+      "minScorePct": 70,
+      "speak": false
+     }
+    },
+    {
+     "id": "B2-S1",
+     "level": "B2",
+     "skill": "speaking",
+     "text": "I can argue a point of view on a dilemma, give the advantages and disadvantages of each option, and answer counter-arguments (aunque…, por mucho que…).",
+     "evidence": {
+      "stories": [
+       "b2-02",
+       "b2-04",
+       "b2-07"
+      ],
+      "quiz": null,
+      "minScorePct": null,
+      "speak": true
+     }
+    },
+    {
+     "id": "B2-S2",
+     "level": "B2",
+     "skill": "speaking",
+     "text": "I can speculate about causes and imagine how a past situation could have gone differently (si hubiera…, habría…; serían las tres).",
+     "evidence": {
+      "stories": [
+       "b2-05",
+       "b2-06",
+       "b2-09",
+       "b2-10"
+      ],
+      "quiz": null,
+      "minScorePct": null,
+      "speak": true
+     }
+    },
+    {
+     "id": "B2-W1",
+     "level": "B2",
+     "skill": "writing",
+     "text": "I can write a clear text of 5-9 sentences that develops an argument or reconstructs events, reporting what others said with the correct tense shifts.",
+     "evidence": {
+      "stories": [
+       "b2-04",
+       "b2-05",
+       "b2-08",
+       "b2-09"
+      ],
+      "quiz": null,
+      "minScorePct": null,
+      "speak": false
+     }
+    },
+    {
+     "id": "B2-G1",
+     "level": "B2",
+     "skill": "grammar",
+     "text": "I can choose between indicative and subjunctive in time, concessive and relative clauses, use si + pluperfect subjunctive, and shift tenses correctly in reported speech.",
+     "evidence": {
+      "stories": [
+       "b2-04",
+       "b2-05",
+       "b2-06",
+       "b2-08"
+      ],
+      "quiz": "gram",
+      "minScorePct": 70,
+      "speak": false
+     }
+    }
+   ]
+  },
+  {
+   "level": "C1",
+   "levelGoal": "Understand long, demanding texts with implicit meaning, follow regional voices and shifts of register, and use Spanish flexibly and precisely for social, professional and formal purposes.",
+   "checkpoint": {
+    "passStories": 8,
+    "passComp": 75
+   },
+   "statements": [
+    {
+     "id": "C1-R1",
+     "level": "C1",
+     "skill": "reading",
+     "text": "I can follow a long story with several timelines and embedded documents (reports, ledgers, wills, scripts) and say what is established and what is only inferred.",
+     "evidence": {
+      "stories": [
+       "c1-01",
+       "c1-08",
+       "c1-09",
+       "c1-10"
+      ],
+      "quiz": "comp",
+      "minScorePct": 70,
+      "speak": false
+     }
+    },
+    {
+     "id": "C1-R2",
+     "level": "C1",
+     "skill": "reading",
+     "text": "I can recognise shifts of register in a text, from an official report or legal clause to casual dialogue, and explain why the writer uses each one.",
+     "evidence": {
+      "stories": [
+       "c1-01",
+       "c1-05",
+       "c1-06",
+       "c1-10"
+      ],
+      "quiz": "comp",
+      "minScorePct": 70,
+      "speak": false
+     }
+    },
+    {
+     "id": "C1-R3",
+     "level": "C1",
+     "skill": "reading",
+     "text": "I can understand formal, nominalised prose (la puesta en marcha, la apertura del testamento) and long sentences with several subordinate clauses without losing the thread.",
+     "evidence": {
+      "stories": [
+       "c1-06",
+       "c1-08",
+       "c1-09",
+       "c1-10"
+      ],
+      "quiz": "comp",
+      "minScorePct": 70,
+      "speak": false
+     }
+    },
+    {
+     "id": "C1-R4",
+     "level": "C1",
+     "skill": "reading",
+     "text": "I can understand idioms, sayings and cultural references in context, including terms from Afro-Latin traditions (tambores de San Juan, concheras, Garífuna, liberto, Danza de los Diablos).",
+     "evidence": {
+      "stories": [
+       "c1-02",
+       "c1-03",
+       "c1-04",
+       "c1-05",
+       "c1-07"
+      ],
+      "quiz": "comp",
+      "minScorePct": 70,
+      "speak": false
+     }
+    },
+    {
+     "id": "C1-L1",
+     "level": "C1",
+     "skill": "listening",
+     "text": "I can follow a long story recording at natural speed with speakers from different regions (Panamanian, Venezuelan, Ecuadorian coastal, Honduran, Canarian, Chilean, Rioplatense).",
+     "evidence": {
+      "stories": [
+       "c1-02",
+       "c1-03",
+       "c1-05",
+       "c1-06"
+      ],
+      "quiz": "comp",
+      "minScorePct": 70,
+      "speak": false
+     }
+    },
+    {
+     "id": "C1-L2",
+     "level": "C1",
+     "skill": "listening",
+     "text": "I can follow a tense conversation or negotiation between several speakers and identify the conditions, concessions and hidden motives.",
+     "evidence": {
+      "stories": [
+       "c1-04",
+       "c1-05",
+       "c1-10"
+      ],
+      "quiz": "comp",
+      "minScorePct": 70,
+      "speak": false
+     }
+    },
+    {
+     "id": "C1-L3",
+     "level": "C1",
+     "skill": "listening",
+     "text": "I can catch hedged or softened statements (al parecer, no es que…, más bien) and judge how certain or committed a speaker is.",
+     "evidence": {
+      "stories": [
+       "c1-04",
+       "c1-06",
+       "c1-07"
+      ],
+      "quiz": "comp",
+      "minScorePct": 70,
+      "speak": false
+     }
+    },
+    {
+     "id": "C1-L4",
+     "level": "C1",
+     "skill": "listening",
+     "text": "I can follow a radio-style or formal spoken text (announcement, interview, official statement) and pick out the key information and the speaker's position.",
+     "evidence": {
+      "stories": [
+       "c1-01",
+       "c1-05",
+       "c1-07"
+      ],
+      "quiz": "comp",
+      "minScorePct": 70,
+      "speak": false
+     }
+    },
+    {
+     "id": "C1-S1",
+     "level": "C1",
+     "skill": "speaking",
+     "text": "I can negotiate an agreement and set precise conditions and exceptions (siempre y cuando, a no ser que, con tal de que).",
+     "evidence": {
+      "stories": [
+       "c1-05",
+       "c1-06",
+       "c1-10"
+      ],
+      "quiz": null,
+      "minScorePct": null,
+      "speak": true
+     }
+    },
+    {
+     "id": "C1-S2",
+     "level": "C1",
+     "skill": "speaking",
+     "text": "I can ask someone tactfully about a sensitive matter, adapting register (tú, usted, vos) to the person and the situation.",
+     "evidence": {
+      "stories": [
+       "c1-01",
+       "c1-04",
+       "c1-07"
+      ],
+      "quiz": null,
+      "minScorePct": null,
+      "speak": true
+     }
+    },
+    {
+     "id": "C1-S3",
+     "level": "C1",
+     "skill": "speaking",
+     "text": "I can give a reasoned explanation of a problem and its causes, conceding points and arguing back (si bien…, aun así, de ahí que…).",
+     "evidence": {
+      "stories": [
+       "c1-02",
+       "c1-04",
+       "c1-05"
+      ],
+      "quiz": null,
+      "minScorePct": null,
+      "speak": true
+     }
+    },
+    {
+     "id": "C1-S4",
+     "level": "C1",
+     "skill": "speaking",
+     "text": "I can speculate about what has happened or will have happened (habrá llegado, de haber sabido…) and reconstruct events aloud.",
+     "evidence": {
+      "stories": [
+       "c1-01",
+       "c1-03",
+       "c1-08"
+      ],
+      "quiz": null,
+      "minScorePct": null,
+      "speak": true
+     }
+    },
+    {
+     "id": "C1-W1",
+     "level": "C1",
+     "skill": "writing",
+     "text": "I can write a clear, well-structured formal text, such as an incident report, an archive note or a council resolution, using nominalisation, impersonal se and formal connectors.",
+     "evidence": {
+      "stories": [
+       "c1-01",
+       "c1-06",
+       "c1-08",
+       "c1-09"
+      ],
+      "quiz": null,
+      "minScorePct": null,
+      "speak": false
+     }
+    },
+    {
+     "id": "C1-W2",
+     "level": "C1",
+     "skill": "writing",
+     "text": "I can write a detailed narrative or personal account (10-14 sentences) with varied subordinate clauses and the correct sequence of subjunctive tenses.",
+     "evidence": {
+      "stories": [
+       "c1-07",
+       "c1-08",
+       "c1-09"
+      ],
+      "quiz": null,
+      "minScorePct": null,
+      "speak": false
+     }
+    },
+    {
+     "id": "C1-W3",
+     "level": "C1",
+     "skill": "writing",
+     "text": "I can summarise what several people said or claimed, choosing precise reporting verbs (negar haber, alegar, admitir, advertir de que).",
+     "evidence": {
+      "stories": [
+       "c1-01",
+       "c1-02",
+       "c1-05"
+      ],
+      "quiz": null,
+      "minScorePct": null,
+      "speak": false
+     }
+    },
+    {
+     "id": "C1-W4",
+     "level": "C1",
+     "skill": "writing",
+     "text": "I can write a persuasive letter or message that adapts its tone to the reader and sets out conditions and concessions.",
+     "evidence": {
+      "stories": [
+       "c1-04",
+       "c1-05",
+       "c1-10"
+      ],
+      "quiz": null,
+      "minScorePct": null,
+      "speak": false
+     }
+    },
+    {
+     "id": "C1-G1",
+     "level": "C1",
+     "skill": "grammar",
+     "text": "I can use the present perfect and pluperfect subjunctive in subordinate clauses (cuando hayas terminado; sin que nadie lo hubiera notado).",
+     "evidence": {
+      "stories": [
+       "c1-03",
+       "c1-07",
+       "c1-08",
+       "c1-09"
+      ],
+      "quiz": "gram",
+      "minScorePct": 70,
+      "speak": false
+     }
+    },
+    {
+     "id": "C1-G2",
+     "level": "C1",
+     "skill": "grammar",
+     "text": "I can express conditions without si (de haber sabido, de no ser por, siempre y cuando, a no ser que) and choose the right mood after concessive and causal connectors (si bien, aun cuando, de ahí que).",
+     "evidence": {
+      "stories": [
+       "c1-01",
+       "c1-04",
+       "c1-05",
+       "c1-06"
+      ],
+      "quiz": "gram",
+      "minScorePct": 70,
+      "speak": false
+     }
+    },
+    {
+     "id": "C1-G3",
+     "level": "C1",
+     "skill": "grammar",
+     "text": "I can choose between impersonal se, pasiva refleja and ser + participle, and use formal relatives (el cual, lo cual) and pseudo-clefts (lo que ocurrió fue que).",
+     "evidence": {
+      "stories": [
+       "c1-01",
+       "c1-02",
+       "c1-08",
+       "c1-09",
+       "c1-10"
+      ],
+      "quiz": "gram",
+      "minScorePct": 70,
+      "speak": false
+     }
+    },
+    {
+     "id": "C1-G4",
+     "level": "C1",
+     "skill": "grammar",
+     "text": "I can use verb periphrases (llegar a, venir and andar + gerund, dar por + participle) and the future perfect to express aspect and conjecture.",
+     "evidence": {
+      "stories": [
+       "c1-03",
+       "c1-06",
+       "c1-07",
+       "c1-08"
+      ],
+      "quiz": "gram",
+      "minScorePct": 70,
+      "speak": false
+     }
+    }
+   ]
+  },
+  {
+   "level": "C2",
+   "levelGoal": "Understand with ease virtually everything read or heard, including literary, legal, academic and journalistic texts and strongly regional or contact varieties, and express yourself spontaneously and precisely, conveying fine shades of meaning, stance and irony.",
+   "checkpoint": {
+    "passStories": 8,
+    "passComp": 80
+   },
+   "statements": [
+    {
+     "id": "C2-R1",
+     "level": "C2",
+     "skill": "reading",
+     "text": "I can read long literary narratives that use free indirect speech, ellipsis and shifting points of view, and tell whose voice and judgement each passage carries.",
+     "evidence": {
+      "stories": [
+       "c2-02",
+       "c2-05",
+       "c2-09"
+      ],
+      "quiz": "comp",
+      "minScorePct": 70,
+      "speak": false
+     }
+    },
+    {
+     "id": "C2-R2",
+     "level": "C2",
+     "skill": "reading",
+     "text": "I can read legal, academic and journalistic texts embedded in a story (court records, contracts, papers, news reports) and judge how reliable and committed each source is.",
+     "evidence": {
+      "stories": [
+       "c2-05",
+       "c2-06",
+       "c2-07",
+       "c2-10"
+      ],
+      "quiz": "comp",
+      "minScorePct": 70,
+      "speak": false
+     }
+    },
+    {
+     "id": "C2-R3",
+     "level": "C2",
+     "skill": "reading",
+     "text": "I can recognise irony, understatement, litotes and rhetorical devices, and explain the implicit meaning and the writer's attitude.",
+     "evidence": {
+      "stories": [
+       "c2-01",
+       "c2-03",
+       "c2-04",
+       "c2-10"
+      ],
+      "quiz": "comp",
+      "minScorePct": 70,
+      "speak": false
+     }
+    },
+    {
+     "id": "C2-R4",
+     "level": "C2",
+     "skill": "reading",
+     "text": "I can understand regional and contact varieties in writing (Rioplatense, Andean, Andalusian, Paraguayan, Afro-Hispanic lexicon, Caribbean English and Guaraní loans) using context and notes.",
+     "evidence": {
+      "stories": [
+       "c2-02",
+       "c2-03",
+       "c2-04",
+       "c2-08"
+      ],
+      "quiz": "comp",
+      "minScorePct": 70,
+      "speak": false
+     }
+    },
+    {
+     "id": "C2-L1",
+     "level": "C2",
+     "skill": "listening",
+     "text": "I can follow long recordings at natural speed in strongly regional varieties (Andalusian, Rioplatense, Andean, Caribbean Colombian, Dominican, Paraguayan) with little effort.",
+     "evidence": {
+      "stories": [
+       "c2-01",
+       "c2-02",
+       "c2-03",
+       "c2-04",
+       "c2-07"
+      ],
+      "quiz": "comp",
+      "minScorePct": 70,
+      "speak": false
+     }
+    },
+    {
+     "id": "C2-L2",
+     "level": "C2",
+     "skill": "listening",
+     "text": "I can follow fast dialogue full of ellipsis, jokes and wordplay, and catch the humour or irony.",
+     "evidence": {
+      "stories": [
+       "c2-01",
+       "c2-03",
+       "c2-06"
+      ],
+      "quiz": "comp",
+      "minScorePct": 70,
+      "speak": false
+     }
+    },
+    {
+     "id": "C2-L3",
+     "level": "C2",
+     "skill": "listening",
+     "text": "I can tell from mood choice, conjecture tenses and particles whether a speaker is asserting, conceding, doubting or passing on hearsay.",
+     "evidence": {
+      "stories": [
+       "c2-04",
+       "c2-07",
+       "c2-08"
+      ],
+      "quiz": "comp",
+      "minScorePct": 70,
+      "speak": false
+     }
+    },
+    {
+     "id": "C2-L4",
+     "level": "C2",
+     "skill": "listening",
+     "text": "I can follow a spoken legal, academic or journalistic argument (a hearing, a lecture, a broadcast) and identify its line of reasoning and its weak points.",
+     "evidence": {
+      "stories": [
+       "c2-05",
+       "c2-07",
+       "c2-10"
+      ],
+      "quiz": "comp",
+      "minScorePct": 70,
+      "speak": false
+     }
+    },
+    {
+     "id": "C2-S1",
+     "level": "C2",
+     "skill": "speaking",
+     "text": "I can argue a case before a demanding audience, anticipating objections and using rhetorical devices effectively.",
+     "evidence": {
+      "stories": [
+       "c2-01",
+       "c2-07",
+       "c2-10"
+      ],
+      "quiz": null,
+      "minScorePct": null,
+      "speak": true
+     }
+    },
+    {
+     "id": "C2-S2",
+     "level": "C2",
+     "skill": "speaking",
+     "text": "I can convey fine shades of stance (certainty, doubt, concession, irony) through mood choice, conjecture tenses and hedging.",
+     "evidence": {
+      "stories": [
+       "c2-03",
+       "c2-05",
+       "c2-06",
+       "c2-08"
+      ],
+      "quiz": null,
+      "minScorePct": null,
+      "speak": true
+     }
+    },
+    {
+     "id": "C2-S3",
+     "level": "C2",
+     "skill": "speaking",
+     "text": "I can retell a story vividly from another person's point of view, adapting register and regional colour.",
+     "evidence": {
+      "stories": [
+       "c2-02",
+       "c2-04",
+       "c2-09"
+      ],
+      "quiz": null,
+      "minScorePct": null,
+      "speak": true
+     }
+    },
+    {
+     "id": "C2-S4",
+     "level": "C2",
+     "skill": "speaking",
+     "text": "I can mediate between speakers of different varieties or registers, explaining a regionalism, a loanword or a legal formula in plain Spanish.",
+     "evidence": {
+      "stories": [
+       "c2-03",
+       "c2-07",
+       "c2-08"
+      ],
+      "quiz": null,
+      "minScorePct": null,
+      "speak": true
+     }
+    },
+    {
+     "id": "C2-W1",
+     "level": "C2",
+     "skill": "writing",
+     "text": "I can write a polished narrative or literary piece using free indirect speech, ellipsis and deliberate rhythm.",
+     "evidence": {
+      "stories": [
+       "c2-02",
+       "c2-04",
+       "c2-09"
+      ],
+      "quiz": null,
+      "minScorePct": null,
+      "speak": false
+     }
+    },
+    {
+     "id": "C2-W2",
+     "level": "C2",
+     "skill": "writing",
+     "text": "I can write a formal legal, administrative or academic text (statement, report, abstract) with the appropriate formulas and hedging.",
+     "evidence": {
+      "stories": [
+       "c2-05",
+       "c2-07",
+       "c2-08",
+       "c2-10"
+      ],
+      "quiz": null,
+      "minScorePct": null,
+      "speak": false
+     }
+    },
+    {
+     "id": "C2-W3",
+     "level": "C2",
+     "skill": "writing",
+     "text": "I can write a news piece that separates confirmed facts from reports and rumour (según fuentes, habría…) and write a correction.",
+     "evidence": {
+      "stories": [
+       "c2-05",
+       "c2-06"
+      ],
+      "quiz": null,
+      "minScorePct": null,
+      "speak": false
+     }
+    },
+    {
+     "id": "C2-W4",
+     "level": "C2",
+     "skill": "writing",
+     "text": "I can write a review or opinion column that uses irony, understatement and proverbs with control.",
+     "evidence": {
+      "stories": [
+       "c2-01",
+       "c2-03",
+       "c2-06",
+       "c2-09"
+      ],
+      "quiz": null,
+      "minScorePct": null,
+      "speak": false
+     }
+    },
+    {
+     "id": "C2-G1",
+     "level": "C2",
+     "skill": "grammar",
+     "text": "I can choose indicative or subjunctive to signal stance (aunque, el hecho de que, como, quizá, a lo mejor, ojalá) and explain the difference in meaning.",
+     "evidence": {
+      "stories": [
+       "c2-01",
+       "c2-05",
+       "c2-08",
+       "c2-10"
+      ],
+      "quiz": "gram",
+      "minScorePct": 70,
+      "speak": false
+     }
+    },
+    {
+     "id": "C2-G2",
+     "level": "C2",
+     "skill": "grammar",
+     "text": "I can use the future and conditional for conjecture, concession and rumour, as well as literary -ra forms and absolute participle clauses.",
+     "evidence": {
+      "stories": [
+       "c2-06",
+       "c2-07",
+       "c2-08",
+       "c2-09",
+       "c2-10"
+      ],
+      "quiz": "gram",
+      "minScorePct": 70,
+      "speak": false
+     }
+    },
+    {
+     "id": "C2-G3",
+     "level": "C2",
+     "skill": "grammar",
+     "text": "I can manipulate information structure: topicalisation, left dislocation with clitic doubling, ellipsis and evidential framing (dizque, había sido).",
+     "evidence": {
+      "stories": [
+       "c2-02",
+       "c2-04",
+       "c2-05"
+      ],
+      "quiz": "gram",
+      "minScorePct": 70,
+      "speak": false
+     }
+    },
+    {
+     "id": "C2-G4",
+     "level": "C2",
+     "skill": "grammar",
+     "text": "I can use word-formation pragmatics (diminutives, augmentatives) and register-specific forms such as the future subjunctive in legal formulas.",
+     "evidence": {
+      "stories": [
+       "c2-04",
+       "c2-07",
+       "c2-09",
+       "c2-10"
+      ],
+      "quiz": "gram",
+      "minScorePct": 70,
+      "speak": false
+     }
+    }
+   ]
+  }
+ ]
+}

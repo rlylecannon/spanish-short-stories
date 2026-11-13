@@ -1,0 +1,785 @@
+{
+ "patches": [
+  {
+   "file": "stories",
+   "id": "b2-01",
+   "find": "que nadie había abierto desde hacía décadas",
+   "replace": "que nadie había abierto desde que los trasladaron al archivo, décadas atrás",
+   "why": "recycle trasladar (b1-10) (line 0, es)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-01",
+   "find": "that nobody had opened in decades",
+   "replace": "that nobody had opened since they were moved to the archive, decades earlier",
+   "why": "EN for trasladar (line 0, en)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-01",
+   "find": "Durante tres semanas, ambos",
+   "replace": "Durante tres semanas, sin rendirse, ambos",
+   "why": "recycle rendirse (b1-03) (line 5, es)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-01",
+   "find": "For three weeks, the two of them",
+   "replace": "For three weeks, without giving up, the two of them",
+   "why": "EN for rendirse (line 5, en)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-01",
+   "find": "Ignacio dudó antes de llamar.",
+   "replace": "Ignacio dudó antes de descolgar el teléfono, sin saber si valía la pena.",
+   "why": "recycle descolgar (b1-10), valer la pena (b1-08) (line 6, es)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-01",
+   "find": "Ignacio hesitated before calling.",
+   "replace": "Ignacio hesitated before picking up the phone, unsure whether it was worth it.",
+   "why": "EN (line 6, en)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-01",
+   "find": "La visita tuvo lugar un jueves lluvioso.",
+   "replace": "La visita, que duró apenas una hora, tuvo lugar un jueves lluvioso.",
+   "why": "recycle durar (b1-10) (line 7, es)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-01",
+   "find": "The visit took place on a rainy Thursday.",
+   "replace": "The visit, which lasted barely an hour, took place on a rainy Thursday.",
+   "why": "EN (line 7, en)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-01",
+   "find": "—Yo lo esperé tres domingos —dijo—.",
+   "replace": "—Yo lo esperé tres domingos —susurró—.",
+   "why": "recycle susurrar (b1-10) (line 7, es)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-01",
+   "find": "“I waited for him three Sundays,” she said.",
+   "replace": "“I waited for him three Sundays,” she whispered.",
+   "why": "EN (line 7, en)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-01",
+   "find": "algo más que un papel",
+   "replace": "algo más que un pedazo de papel",
+   "why": "recycle pedazo (b1-06) (line 8, es)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-02",
+   "find": "Esa noche, mientras <b>tallaba</b>",
+   "replace": "Esa noche, agotada, mientras <b>tallaba</b>",
+   "why": "recycle agotado (b1-05) (line 3, es)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-02",
+   "find": "That night, while she scrubbed",
+   "replace": "That night, exhausted, while she scrubbed",
+   "why": "EN (line 3, en)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-02",
+   "find": "cuando la abuela la despertaba antes del amanecer para",
+   "replace": "cuando la abuela la hacía madrugar, antes del amanecer, para",
+   "why": "recycle madrugar (b1-08) (line 4, es)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-02",
+   "find": "when her grandmother would wake her before dawn to",
+   "replace": "when her grandmother would make her get up early, before dawn, to",
+   "why": "EN (line 4, en)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-02",
+   "find": "había pasado años buscando técnicas exóticas por medio mundo sin reparar en que la más sofisticada la había tenido",
+   "replace": "había pasado años rastreando técnicas exóticas por medio mundo sin reparar en que el verdadero hallazgo, la más sofisticada, lo había tenido",
+   "why": "recycle rastrear, el hallazgo (b2-01) (line 4, es)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-02",
+   "find": "had spent years hunting for exotic techniques around half the world without noticing that the most sophisticated one had always been at home",
+   "replace": "had spent years tracking down exotic techniques around half the world without noticing that the real find, the most sophisticated one, had always been at home",
+   "why": "EN (line 4, en)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-02",
+   "find": "Esperanza asintió, dio las gracias",
+   "replace": "Esperanza asintió, muerta de vergüenza, dio las gracias",
+   "why": "recycle la vergüenza (b1-08) (line 5, es)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-02",
+   "find": "Esperanza nodded, thanked her",
+   "replace": "Esperanza nodded, dying of embarrassment, thanked her",
+   "why": "EN (line 5, en)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-02",
+   "find": "la miró en silencio durante un buen rato",
+   "replace": "la miró en silencio, conmovido, durante un buen rato",
+   "why": "recycle conmovido (b2-01) (line 6, es)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-02",
+   "find": "looked at her in silence for quite a while",
+   "replace": "looked at her in silence, moved, for quite a while",
+   "why": "EN (line 6, en)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-02",
+   "find": "Pero detecto algo distinto en la cebolla.",
+   "replace": "Pero detecto un sabor distinto en la cebolla.",
+   "why": "recycle el sabor (a2-03) (line 8, es)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-02",
+   "find": "But I detect something different in the onion.",
+   "replace": "But I detect a different flavor in the onion.",
+   "why": "EN (line 8, en)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-03",
+   "find": "lo observó todo con ojos de perita.",
+   "replace": "lo observó todo con ojos de perita y bastante recelo.",
+   "why": "recycle el recelo (b2-02) (line 1, es)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-03",
+   "find": "she observed everything with an adjuster's eye.",
+   "replace": "she observed everything with an adjuster's eye and a good deal of wariness.",
+   "why": "EN (line 1, en)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-03",
+   "find": "Después venían otras fechas,",
+   "replace": "Después venía el verdadero hallazgo: otras fechas,",
+   "why": "recycle el hallazgo (b2-01) (line 3, es)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-03",
+   "find": "Then came other dates,",
+   "replace": "Then came the real find: other dates,",
+   "why": "EN (line 3, en)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-03",
+   "find": "seis años, cinco, seis, once… no había patrón.",
+   "replace": "seis años, cinco, seis, once… y se dio cuenta de que no había patrón.",
+   "why": "recycle darse cuenta de (b1-04/05) (line 4, es)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-03",
+   "find": "six years, five, six, eleven… there was no pattern.",
+   "replace": "six years, five, six, eleven… and realized there was no pattern.",
+   "why": "EN (line 4, en)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-03",
+   "find": "y comprendió a quién había estado criticando durante tres días.",
+   "replace": "y comprendió a quién había estado menospreciando durante tres días.",
+   "why": "recycle menospreciar (b2-02) (line 6, es)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-03",
+   "find": "and she understood whom she had been criticizing for three days.",
+   "replace": "and she understood whom she had been looking down on for three days.",
+   "why": "EN (line 6, en)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-03",
+   "find": "Encontró a Rosendo junto al puente medieval de Ribadiso, sentado",
+   "replace": "Llegó agotada al puente medieval de Ribadiso y allí encontró a Rosendo, sentado",
+   "why": "recycle agotado (b1-05) (line 7, es)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-03",
+   "find": "She found Rosendo by the medieval bridge at Ribadiso, sitting",
+   "replace": "She reached the medieval bridge at Ribadiso exhausted, and there she found Rosendo, sitting",
+   "why": "EN (line 7, en)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-03",
+   "find": "Rosendo lo leyó dos veces y dibujó la concha al margen.",
+   "replace": "Rosendo lo leyó dos veces, le dijo que era todo un acierto y dibujó la concha al margen.",
+   "why": "recycle el acierto (b2-02) (line 10, es)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-03",
+   "find": "Rosendo read it twice and drew the shell in the margin.",
+   "replace": "Rosendo read it twice, told her it was spot on, and drew the shell in the margin.",
+   "why": "EN (line 10, en)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-04",
+   "find": "—Matizar y falsear son vecinos muy cercanos, Ramiro.",
+   "replace": "—Matizar y falsear son vecinos muy cercanos, Ramiro. Si el autor hubiera querido matizar, no estaríamos hablando de esto.",
+   "why": "map2 edit line 4 (mixed conditional) (line 4, es)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-04",
+   "find": "“Nuancing and falsifying are very close neighbors, Ramiro.”",
+   "replace": "“Nuancing and falsifying are very close neighbors, Ramiro. If the author had wanted to nuance it, we wouldn’t be talking about this.”",
+   "why": "map2 edit line 4 EN (line 4, en)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-04",
+   "find": "de aquellas líneas.",
+   "replace": "de aquellas líneas, y sabía que, si no las hubiera recibido, hoy sería una traductora muy distinta.",
+   "why": "map2 edit line 5 (mixed conditional) (line 5, es)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-04",
+   "find": "She could still feel the blush those lines had caused.",
+   "replace": "She could still feel the blush those lines had caused, and she knew that if she had not received them she would be a very different translator today.",
+   "why": "map2 edit line 5 EN (line 5, en)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-04",
+   "find": "esperaba publicar la traducción antes de la feria del libro",
+   "replace": "esperaba publicar la traducción, su gran apuesta del año, antes de la feria del libro",
+   "why": "recycle la apuesta (b2-03) (line 0, es)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-04",
+   "find": "hoped to publish the translation before the book fair",
+   "replace": "hoped to publish the translation, its big bet of the year, before the book fair",
+   "why": "EN (line 0, en)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-04",
+   "find": "Parecía <b>inocua</b>, pero el contexto revelaba que escondía una confesión.",
+   "replace": "Parecía <b>inocua</b>, pero pronto se dio cuenta de que, en su contexto, escondía una confesión.",
+   "why": "recycle darse cuenta de (b1-04/05) (line 2, es)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-04",
+   "find": "It seemed harmless, but the context revealed that it concealed a confession.",
+   "replace": "It seemed harmless, but she soon realized that, in its context, it concealed a confession.",
+   "why": "EN (line 2, en)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-04",
+   "find": "La embajada apoya la edición,",
+   "replace": "Te aviso: la embajada apoya la edición,",
+   "why": "recycle avisar (b1-07) (line 4, es)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-04",
+   "find": "“The embassy supports the edition,",
+   "replace": "“I’m warning you: the embassy supports the edition,",
+   "why": "EN (line 4, en)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-04",
+   "find": "A la mañana siguiente escribió a Whitcombe",
+   "replace": "A la mañana siguiente, agotada, escribió a Whitcombe",
+   "why": "recycle agotado (b1-05) (line 6, es)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-04",
+   "find": "The next morning she wrote to Whitcombe",
+   "replace": "The next morning, exhausted, she wrote to Whitcombe",
+   "why": "EN (line 6, en)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-04",
+   "find": "había pasado la mañana mirando la pantalla.",
+   "replace": "había pasado la mañana mirando la pantalla con recelo.",
+   "why": "recycle el recelo (b2-02) (line 7, es)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-04",
+   "find": "had also spent the morning staring at the screen.",
+   "replace": "had also spent the morning staring warily at the screen.",
+   "why": "EN (line 7, en)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-04",
+   "find": "Maribel leyó el mensaje tres veces.",
+   "replace": "Maribel, conmovida, leyó el mensaje tres veces.",
+   "why": "recycle conmovido (b2-01) (line 8, es)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-04",
+   "find": "Maribel read the message three times.",
+   "replace": "Maribel, moved, read the message three times.",
+   "why": "EN (line 8, en)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-04",
+   "find": "Algunos críticos elogiaron la «audacia» de la nota;",
+   "replace": "Algunos críticos consideraron la nota un acierto y elogiaron su «audacia»;",
+   "why": "recycle el acierto (b2-02) (line 10, es)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-04",
+   "find": "Some critics praised the “audacity” of the note;",
+   "replace": "Some critics considered the note a good call and praised its “audacity”;",
+   "why": "EN (line 10, en)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-05",
+   "find": "El lunes a primera hora se vendería",
+   "replace": "El plazo era corto: el lunes a primera hora se vendería",
+   "why": "recycle el plazo (b2-04) (line 0, es)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-05",
+   "find": "First thing on Monday it was going to be sold",
+   "replace": "Time was short: first thing on Monday it was going to be sold",
+   "why": "EN (line 0, en)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-05",
+   "find": "Antes de que Mercedes le preguntara nada,",
+   "replace": "Antes de que Mercedes le pidiera ninguna aclaración,",
+   "why": "recycle la aclaración (b2-04) (line 4, es)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-05",
+   "find": "Before Mercedes could ask her anything,",
+   "replace": "Before Mercedes could ask her for any clarification,",
+   "why": "EN (line 4, en)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-05",
+   "find": "Al oír lo del robo, se quedó callado.",
+   "replace": "Al oír lo del robo, se quedó callado: la noticia lo había desarmado.",
+   "why": "recycle desarmar (b2-04), la noticia (a2-09) (line 6, es)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-05",
+   "find": "On hearing about the theft, he fell silent.",
+   "replace": "On hearing about the theft, he fell silent: the news had disarmed him.",
+   "why": "EN (line 6, en)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-05",
+   "find": "es porque alguien la <b>ensayó</b>.",
+   "replace": "es porque alguien la <b>ensayó</b> como coartada.",
+   "why": "recycle la coartada (b2-04) (line 7, es)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-05",
+   "find": "it's because someone rehearsed it.",
+   "replace": "it's because someone rehearsed it as an alibi.",
+   "why": "EN (line 7, en)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-05",
+   "find": "Entre las revistas del kiosco asomaba un <b>lomo</b> gastado que Mercedes conocía de memoria.",
+   "replace": "Entre las revistas del kiosco, Mercedes se topó con un <b>lomo</b> gastado que conocía de memoria.",
+   "why": "recycle toparse con (b2-04) (line 8, es)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-05",
+   "find": "Among the magazines at the kiosk, a worn spine that Mercedes knew by heart was poking out.",
+   "replace": "Among the magazines at the kiosk, Mercedes came across a worn spine that she knew by heart.",
+   "why": "EN (line 8, en)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-05",
+   "find": "y no intentó defenderse.",
+   "replace": "y no intentó disimular.",
+   "why": "recycle disimular (b2-04) (line 8, es)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-05",
+   "find": "and didn't try to defend himself.",
+   "replace": "and didn't try to hide anything.",
+   "why": "EN (line 8, en)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-05",
+   "find": "Mercedes pensó en el alquiler y en las cuentas;",
+   "replace": "Tras un fin de semana angustioso, Mercedes pensó en el alquiler y en las cuentas;",
+   "why": "recycle angustioso (b2-04) (line 9, es)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-05",
+   "find": "Mercedes thought about the rent and the bills;",
+   "replace": "After an agonizing weekend, Mercedes thought about the rent and the bills;",
+   "why": "EN (line 9, en)"
+  },
+  {
+   "file": "stories",
+   "id": "b2-04",
+   "find": "como si le hubieran confiado una carga).",
+   "replace": "como si le hubieran confiado una carga); mixed conditionals linking a past condition to a present result (Si hubieras leído el correo del autor, no me pedirías lo contrario; si no las hubiera recibido, hoy sería una traductora muy distinta).",
+   "why": "concepts.grammar: add new map2 topic"
+  }
+ ],
+ "grammar_replace": {
+  "b2-04": [
+   {
+    "topic": "Indicative vs subjunctive: opinion, doubt and emotion",
+    "explain": "When the main clause asserts or perceives something (notaba que, me temo que, creo que), the verb after que is indicative. When it weighs a possibility (es posible que), doubts (dudo que, no creo que) or reacts with expectation or feeling (no esperaba que, me alegra que), it is subjunctive; after a past trigger, imperfect subjunctive. Compare b2-02: temer que + subjunctive expresses fear, but me temo que + indicative softens bad news. Watch out: es posible que never takes the indicative (*es posible que les mentí).",
+    "examples": [
+     [
+      "Me temo que la frase significa exactamente lo que usted sospecha.",
+      "I am afraid the sentence means exactly what you suspect."
+     ],
+     [
+      "Maribel notaba que, en inglés, la ambigüedad era un recurso deliberado.",
+      "Maribel sensed that, in English, the ambiguity was a deliberate device."
+     ],
+     [
+      "No esperaba que una traductora desconocida le hiciera la pregunta que ningún editor inglés se había atrevido a formularle.",
+      "He had not expected an unknown translator to ask the question that no English editor had dared put to him."
+     ],
+     [
+      "Es posible que les mintiera.",
+      "It is possible that I lied to them."
+     ]
+    ]
+   },
+   {
+    "topic": "Discourse markers: sin embargo, en cambio, en cuanto a",
+    "explain": "Sin embargo ('however') brings in something that goes against what you expected. En cambio ('on the other hand, by contrast') sets two different things or people side by side. Por su parte ('for its part') moves to another participant, and en cuanto a ('as for') announces a new topic. They often sit after the subject, between commas: Aquel libro, sin embargo, avanzaba. Watch out: en cambio is not 'in exchange' (a cambio de), and en cuanto without a means 'as soon as'.",
+    "examples": [
+     [
+      "Aquel libro, sin embargo, avanzaba con fluidez.",
+      "This book, however, had been moving along smoothly."
+     ],
+     [
+      "El español, en cambio, la obligaba a decidirse.",
+      "Spanish, by contrast, forced her to make up her mind."
+     ],
+     [
+      "La embajada, por su parte, jamás hizo comentario alguno.",
+      "The embassy, for its part, never made any comment."
+     ],
+     [
+      "En cuanto a ella, aprendió que fidelidad no es sinónimo de literalidad.",
+      "As for her, she learned that fidelity is not a synonym for literalness."
+     ]
+    ]
+   },
+   {
+    "topic": "Ojalá and como si with pluperfect",
+    "explain": "The pluperfect subjunctive is hubiera + participle. After ojalá it expresses regret about the past: ojalá yo hubiera tenido, 'I wish I had had'. After como si it compares with an imagined earlier event: como si le hubieran confiado, 'as if she had been entrusted'. Compare b2-03: como si fuera refers to the same moment; hubiera + participle points further back. Watch out: como si takes only the imperfect or pluperfect subjunctive (*como si le habían confiado), and past regret is ojalá hubiera tenido, not *ojalá tuve.",
+    "examples": [
+     [
+      "Ojalá yo hubiera tenido esa libertad hace veinticinco años.",
+      "I wish I had had that freedom twenty-five years ago."
+     ],
+     [
+      "Le parecía casi cómica su propia cautela, como si otro hombre hubiera escrito aquellas palabras.",
+      "His own caution struck him as almost comical, as if another man had written those words."
+     ],
+     [
+      "Se sintió como si le hubieran confiado una carga que no le correspondía.",
+      "She felt as if she had been entrusted with a burden that was not hers."
+     ],
+     [
+      "Ojalá me lo hubieras dicho antes.",
+      "I wish you had told me before."
+     ]
+    ]
+   },
+   {
+    "topic": "Mixed conditionals: si hubiera…, ahora sería",
+    "explain": "A mixed conditional links a past condition to a present result. The si-clause has the pluperfect subjunctive (hubiera + participle) for something that did or did not happen; the main clause has the simple conditional (sería, estaríamos, pedirías) for how things are now, often with hoy or ahora. Compare b2-05: si hubiera entrado, la habría escuchado keeps both halves in the past. Line 9 shows both: no me pedirías (now) vs te habría pedido (then). Watch out: never put the conditional after si (*si habrías leído).",
+    "examples": [
+     [
+      "Si hubieras leído el correo del autor, no me pedirías lo contrario.",
+      "If you had read the author’s email, you wouldn’t be asking me for the opposite."
+     ],
+     [
+      "Si el autor hubiera querido matizar, no estaríamos hablando de esto.",
+      "If the author had wanted to nuance it, we wouldn’t be talking about this."
+     ],
+     [
+      "si no las hubiera recibido, hoy sería una traductora muy distinta",
+      "if she had not received them, she would be a very different translator today"
+     ],
+     [
+      "Si lo hubiera leído, quizá te habría pedido algo peor",
+      "If I had read it, I might have asked you for something worse"
+     ]
+    ]
+   }
+  ]
+ },
+ "gq_replace": {
+  "b2-04": [
+   {
+    "topic": "Indicative vs subjunctive: opinion, doubt and emotion",
+    "q": "Complete: «Whitcombe no esperaba que una traductora desconocida le ___ esa pregunta.»",
+    "options": [
+     "hacía",
+     "haga",
+     "hiciera",
+     "habría hecho"
+    ],
+    "answer": 2,
+    "why": "No esperaba que expresses (failed) expectation, so subjunctive; the trigger is past, so imperfect subjunctive: hiciera. Haga would need a present trigger (no espero que)."
+   },
+   {
+    "topic": "Discourse markers: sin embargo, en cambio, en cuanto a",
+    "q": "Complete: «En inglés la ambigüedad era un recurso elegante; el español, ___, la obligaba a decidirse.»",
+    "options": [
+     "a cambio",
+     "en cuanto",
+     "por lo tanto",
+     "en cambio"
+    ],
+    "answer": 3,
+    "why": "En cambio contrasts two different things (English vs Spanish). A cambio means 'in exchange', en cuanto 'as soon as', por lo tanto 'therefore'."
+   },
+   {
+    "topic": "Ojalá and como si with pluperfect",
+    "q": "Complete Whitcombe's regret: «Ojalá yo ___ esa libertad hace veinticinco años.»",
+    "options": [
+     "hubiera tenido",
+     "tuviera",
+     "haya tenido",
+     "habría tenido"
+    ],
+    "answer": 0,
+    "why": "Regret about a past that can't change: ojalá + pluperfect subjunctive. Tuviera is a wish about now; haya tenido hopes about an unknown past outcome."
+   },
+   {
+    "topic": "Mixed conditionals: si hubiera…, ahora sería",
+    "q": "Ramiro is asking Maribel right now to soften the sentence. Complete her reply: «Si hubieras leído el correo del autor, no me ___ lo contrario.»",
+    "options": [
+     "pidieras",
+     "pedirías",
+     "pediste",
+     "pedirás"
+    ],
+    "answer": 1,
+    "why": "The condition is in the past (hubieras leído) but the result is happening now, so the main clause takes the simple conditional: pedirías. The subjunctive cannot be the result clause, and the preterite and future don't express an unreal result."
+   },
+   {
+    "topic": "Indicative vs subjunctive: opinion, doubt and emotion",
+    "q": "Whitcombe writes «Me temo que la frase significa exactamente lo que usted sospecha». What does me temo que do here?",
+    "options": [
+     "It expresses fear about something that may still happen.",
+     "It shows that he doubts Maribel's reading, so significa should be signifique.",
+     "It politely introduces an unwelcome fact, so the indicative follows.",
+     "It is an order not to change the sentence."
+    ],
+    "answer": 2,
+    "why": "Me temo que works like English 'I'm afraid that': it softens news the speaker knows is true, so it takes the indicative, unlike temer que expressing real fear.",
+    "x": true
+   },
+   {
+    "topic": "Discourse markers: sin embargo, en cambio, en cuanto a",
+    "q": "Which sentence contains an error?",
+    "options": [
+     "La embajada, por su parte, no hizo ningún comentario sobre la nota.",
+     "Sin embargo que el plazo era corto, terminó a tiempo.",
+     "En cuanto a ella, aprendió una lección.",
+     "Aquel libro, sin embargo, avanzaba con fluidez."
+    ],
+    "answer": 1,
+    "why": "Sin embargo links two separate clauses and never takes que. Say Aunque el plazo era corto, … or El plazo era corto; sin embargo, terminó a tiempo.",
+    "x": true
+   },
+   {
+    "topic": "Ojalá and como si with pluperfect",
+    "q": "Which sentence is correct?",
+    "options": [
+     "Se sintió como si le hubieran confiado una carga.",
+     "Me miró como si yo habría mentido.",
+     "Me habla como si me conozca desde hace muchísimos años.",
+     "Se sintió como si le habían confiado una carga."
+    ],
+    "answer": 0,
+    "why": "Como si takes only the imperfect or pluperfect subjunctive. The conditional, the present subjunctive and the indicative are not possible after it.",
+    "x": true
+   },
+   {
+    "topic": "Mixed conditionals: si hubiera…, ahora sería",
+    "q": "Which sentence means 'If she had not received that letter, she would be a different translator today'?",
+    "options": [
+     "Si no recibiera aquella carta, hoy habría sido una traductora distinta.",
+     "Si no habría recibido aquella carta, hoy sería una traductora distinta.",
+     "Si no hubiera recibido aquella carta, hoy sería una traductora distinta.",
+     "Si no había recibido aquella carta, hoy es una traductora distinta."
+    ],
+    "answer": 2,
+    "why": "Past condition (pluperfect subjunctive hubiera recibido) + present result (conditional sería, with hoy). The conditional never goes after si, and the indicative había recibido does not express an unreal past.",
+    "x": true
+   }
+  ]
+ },
+ "categories_add": {
+  "Mixed conditionals: si hubiera…, ahora sería": "Conditionals & si-clauses"
+ },
+ "dict_add": {
+  "trasladaron": [
+   [
+    "trasladar",
+    "verb",
+    "they moved, relocated"
+   ]
+  ],
+  "descolgar": [
+   [
+    "descolgar",
+    "verb",
+    "to take down; to pick up (the phone)"
+   ]
+  ],
+  "valía": [
+   [
+    "valer",
+    "verb",
+    "was worth (valer la pena = to be worth it)"
+   ]
+  ],
+  "duró": [
+   [
+    "durar",
+    "verb",
+    "it lasted"
+   ]
+  ],
+  "agotada": [
+   [
+    "agotado",
+    "adj",
+    "exhausted"
+   ]
+  ],
+  "rastreando": [
+   [
+    "rastrear",
+    "verb",
+    "tracking down, tracing"
+   ]
+  ],
+  "muerta": [
+   [
+    "muerto",
+    "adj",
+    "dead (muerta de vergüenza = dying of embarrassment)"
+   ]
+  ],
+  "bastante": [
+   [
+    "bastante",
+    "adj",
+    "quite a lot of, a fair amount of"
+   ]
+  ],
+  "menospreciando": [
+   [
+    "menospreciar",
+    "verb",
+    "looking down on, belittling"
+   ]
+  ],
+  "aviso": [
+   [
+    "avisar",
+    "verb",
+    "I warn, I let (you) know"
+   ],
+   [
+    "el aviso",
+    "noun",
+    "warning, notice"
+   ]
+  ],
+  "conmovida": [
+   [
+    "conmovido",
+    "adj",
+    "moved, touched"
+   ]
+  ],
+  "consideraron": [
+   [
+    "considerar",
+    "verb",
+    "they considered"
+   ]
+  ],
+  "desarmado": [
+   [
+    "desarmar",
+    "verb",
+    "disarmed"
+   ]
+  ],
+  "estaríamos": [
+   [
+    "estar",
+    "verb",
+    "we would be"
+   ]
+  ]
+ },
+ "notes": "b2-01/02/03/05: map2 topics all 'keep', no edits -> grammar cards and gq unchanged. b2-04: added 4th card 'Mixed conditionals: si hubiera…, ahora sería' (4 examples verbatim from lines 4,5,9), applied both map2 edits (ES+EN), concepts.grammar extended; gq rebuilt: core = no esperaba que / en cambio / ojalá hubiera tenido / new mixed core; extras = me temo que / sin embargo error / como si correct / new mixed extra (dropped 'creo/no creo' core and 'ojalá rewrite' extra to keep 2 per topic). Options kept at 4 to match every existing gq item. Recycling: words NOT wrapped in <b> and not added to story vocab (they are glossed in their source story; <b> counts unchanged); all new surface forms covered by dict.json or dict_add. Every recycling edit has a matching EN patch. No grammar example, role-play or quiz text touched; no scene colours/objects changed (b2-03 red/green backpacks untouched). Recycled: b2-01 trasladar, rendirse, descolgar, valer la pena, durar, susurrar, pedazo; b2-02 agotado, madrugar, rastrear, el hallazgo, la vergüenza, conmovido, el sabor; b2-03 el recelo, el hallazgo, darse cuenta, menospreciar, agotado, el acierto; b2-04 la apuesta, darse cuenta, avisar, agotado, el recelo, conmovido, el acierto; b2-05 el plazo, la aclaración, desarmar, la noticia, la coartada, toparse con, disimular, angustioso. Also add the new topic string to grammar-quiz/topics.json if that list is maintained separately. Dialogues unchanged (no topic removed)."
+}

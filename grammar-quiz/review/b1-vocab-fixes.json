@@ -1,0 +1,110 @@
+[
+ {
+  "id": "b1-02",
+  "old": [
+   "dar vergüenza",
+   "to be embarrassing"
+  ],
+  "new": [
+   "dar vergüenza",
+   "to make (someone) embarrassed; me da vergüenza = I'm embarrassed"
+  ],
+  "note": "Story uses le daba vergüenza hablarlo = he was embarrassed to speak it; the old gloss suggests the thing is embarrassing, not the person."
+ },
+ {
+  "id": "b1-05",
+  "old": [
+   "las alforjas",
+   "saddlebags"
+  ],
+  "new": [
+   "las alforjas",
+   "panniers (bike bags), saddlebags"
+  ],
+  "note": "On a bicycle these are panniers; 'saddlebags' suggests a horse."
+ },
+ {
+  "id": "b1-05",
+  "old": [
+   "el repuesto",
+   "spare part"
+  ],
+  "new": [
+   "el repuesto",
+   "spare (here: spare inner tube)"
+  ],
+  "note": "In the story it is the spare inner tube for the flat tire."
+ },
+ {
+  "id": "b1-08",
+  "old": [
+   "secarse",
+   "to dry oneself"
+  ],
+  "new": [
+   "secarse",
+   "to dry (one's eyes, hands...)"
+  ],
+  "note": "Story: se secó los ojos = he dried his eyes."
+ },
+ {
+  "id": "b1-08",
+  "old": [
+   "el timbre",
+   "school bell"
+  ],
+  "new": [
+   "el timbre",
+   "bell (here: the school bell); also doorbell"
+  ],
+  "note": "Timbre is any bell/buzzer; 'school bell' only in context."
+ },
+ {
+  "id": "b1-10",
+  "old": [
+   "la campanilla",
+   "doorbell, little bell"
+  ],
+  "new": [
+   "la campanilla",
+   "little bell (here: the shop-door bell)"
+  ],
+  "note": "It is the small bell that rings when the shop door opens, not an electric doorbell (that's el timbre)."
+ },
+ {
+  "id": "b1-10",
+  "old": [
+   "la añoranza",
+   "homesickness, longing"
+  ],
+  "new": [
+   "la añoranza",
+   "longing, nostalgia (for someone or somewhere)"
+  ],
+  "note": "In the story Marta longs for the place and person she is leaving; 'homesickness' is too narrow and is listed first."
+ },
+ {
+  "id": "b1-10",
+  "old": [
+   "avisar",
+   "to warn, to let know"
+  ],
+  "new": [
+   "avisar",
+   "to let (someone) know, to tell in advance; also to warn"
+  ],
+  "note": "No quiso avisarle = she didn't want to tell him in advance; 'warn' first is misleading."
+ },
+ {
+  "id": "b1-01",
+  "old": [
+   "el banco",
+   "bench"
+  ],
+  "new": [
+   "el banco",
+   "bench (also: bank)"
+  ],
+  "note": "Correct in context, but learners should know the more frequent meaning 'bank' (b1-02 uses banco = bank)."
+ }
+]

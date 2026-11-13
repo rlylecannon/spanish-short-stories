@@ -1,0 +1,892 @@
+{
+ "a2-01": {
+  "steps": [
+   {
+    "say": "¡Hola! Soy Lucía, de Madrid. Leí la historia de Ana. ¿Qué le pasó a Ana el sábado?",
+    "en": "Hi! I'm Lucía, from Madrid. I read Ana's story. What happened to Ana on Saturday?",
+    "r": [
+     [
+      "Llegó tarde a la estación.",
+      "She arrived late at the station.",
+      1
+     ],
+     [
+      "Perdió el tren de las nueve.",
+      "She missed the nine o'clock train.",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "¡Pobre Ana! ¿Y qué hizo primero?",
+    "en": "Poor Ana! And what did she do first?",
+    "r": [
+     [
+      "Corrió por la estación con su maleta.",
+      "She ran through the station with her suitcase.",
+      2
+     ],
+     [
+      "Primero corrió y luego miró el andén.",
+      "First she ran and then she looked at the platform.",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "Luego Pablo se sentó a su lado. ¿Qué hizo Pablo?",
+    "en": "Then Pablo sat down next to her. What did Pablo do?",
+    "r": [
+     [
+      "Le dio un billete de autobús.",
+      "He gave her a bus ticket.",
+      3
+     ],
+     [
+      "Dijo: «Yo también voy a Valencia».",
+      "He said: \"I'm going to Valencia too.\"",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "En el autobús, Ana miró su teléfono. ¿Qué vio?",
+    "en": "On the bus, Ana looked at her phone. What did she see?",
+    "r": [
+     [
+      "Vio un mensaje de su madre.",
+      "She saw a message from her mother.",
+      4
+     ],
+     [
+      "Vio que el tren tenía una avería.",
+      "She saw that the train had broken down.",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "¿Y tú? ¿Perdiste un tren o un autobús alguna vez?",
+    "en": "And you? Have you ever missed a train or a bus?",
+    "r": [
+     [
+      "Sí, el año pasado perdí un autobús.",
+      "Yes, last year I missed a bus.",
+      5
+     ],
+     [
+      "No, pero una vez llegué tarde al trabajo.",
+      "No, but once I arrived late for work.",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "¡A todos nos pasa! Ana perdió el tren, pero llegó primero a la boda. ¡Hasta pronto!",
+    "en": "It happens to everyone! Ana missed the train, but she got to the wedding first. See you soon!",
+    "end": true
+   }
+  ]
+ },
+ "a2-02": {
+  "steps": [
+   {
+    "say": "¡Hola! Soy Ximena, de Guadalajara. ¿Qué le dio el abuelo Rafael a Sofía?",
+    "en": "Hi! I'm Ximena, from Guadalajara. What did Grandpa Rafael give Sofía?",
+    "r": [
+     [
+      "Le dio una caja azul.",
+      "He gave her a blue box.",
+      1
+     ],
+     [
+      "Le dio una caja con una llave y un papel.",
+      "He gave her a box with a key and a note.",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "¿Y qué decía el primer papel?",
+    "en": "And what did the first note say?",
+    "r": [
+     [
+      "Decía: «Ve al mercado».",
+      "It said: \"Go to the market.\"",
+      2
+     ],
+     [
+      "Decía: «Busca a doña Fabiola».",
+      "It said: \"Look for Doña Fabiola.\"",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "¿Qué pasó en la panadería?",
+    "en": "What happened at the bakery?",
+    "r": [
+     [
+      "Sofía le dio los mangos al panadero.",
+      "Sofía gave the mangoes to the baker.",
+      3
+     ],
+     [
+      "Sofía encontró un papelito dentro del pan.",
+      "Sofía found a little note inside the bread.",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "Ahora tú preparas una sorpresa para un amigo. ¿Qué dice tu primera pista?",
+    "en": "Now you're preparing a surprise for a friend. What does your first clue say?",
+    "r": [
+     [
+      "Ve a la plaza y busca un árbol grande.",
+      "Go to the square and look for a big tree.",
+      4
+     ],
+     [
+      "Abre la puerta y lleva la caja a la cocina.",
+      "Open the door and take the box to the kitchen.",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "¡Muy bien! ¿Cuál fue el mejor regalo de tu vida? ¿Quién te lo dio?",
+    "en": "Very good! What was the best gift of your life? Who gave it to you?",
+    "r": [
+     [
+      "Mi madre me dio una bicicleta.",
+      "My mother gave me a bike.",
+      5
+     ],
+     [
+      "Mis amigos me regalaron un viaje.",
+      "My friends gave me a trip.",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "¡Qué bonito! Y Sofía le puso Mango a su cachorro. ¡Hasta luego!",
+    "en": "How lovely! And Sofía named her puppy Mango. See you later!",
+    "end": true
+   }
+  ]
+ },
+ "a2-03": {
+  "steps": [
+   {
+    "say": "¡Hola! Soy Renzo, de Lima. ¿Qué plato preparó Mateo el domingo?",
+    "en": "Hi! I'm Renzo, from Lima. What dish did Mateo make on Sunday?",
+    "r": [
+     [
+      "Preparó el lomo saltado de su abuela.",
+      "He made his grandmother's lomo saltado.",
+      1
+     ],
+     [
+      "Hizo el famoso lomo saltado de Josefina.",
+      "He made Josefina's famous lomo saltado.",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "¿Y qué hizo antes de cocinar?",
+    "en": "And what did he do before cooking?",
+    "r": [
+     [
+      "Buscó la receta en un cuaderno viejo.",
+      "He looked for the recipe in an old notebook.",
+      2
+     ],
+     [
+      "Fue al supermercado y compró carne.",
+      "He went to the supermarket and bought meat.",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "Mateo probó el plato. ¿Qué dijo?",
+    "en": "Mateo tasted the dish. What did he say?",
+    "r": [
+     [
+      "Dijo: «Está rico, pero no es igual».",
+      "He said: \"It's tasty, but it's not the same.\"",
+      3
+     ],
+     [
+      "Dijo: «Falta algo».",
+      "He said: \"Something is missing.\"",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "Después llamó a la abuela, ¡y ella estaba en la puerta! ¿Cómo llegó?",
+    "en": "Then he called his grandmother, and she was at the door! How did she get there?",
+    "r": [
+     [
+      "Tomó el autobús de las seis de la mañana.",
+      "She took the six a.m. bus.",
+      4
+     ],
+     [
+      "Llegó en autobús, muy temprano.",
+      "She came by bus, very early.",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "¿Y tú? ¿Qué cocinaste la última vez?",
+    "en": "And you? What did you cook last time?",
+    "r": [
+     [
+      "Hice una sopa de verduras. ¡Estaba rica!",
+      "I made a vegetable soup. It was tasty!",
+      5
+     ],
+     [
+      "Preparé arroz, pero le faltó sal.",
+      "I made rice, but it needed salt.",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "¡Qué rico! Y recuerda: el secreto de la abuela no está en el cuaderno. ¡Chau!",
+    "en": "Yum! And remember: Grandma's secret isn't in the notebook. Bye!",
+    "end": true
+   }
+  ]
+ },
+ "a2-04": {
+  "steps": [
+   {
+    "say": "¡Hola! Soy Juliana, de Medellín. ¿Cómo era Tomás cuando era pequeño?",
+    "en": "Hi! I'm Juliana, from Medellín. What was Tomás like when he was little?",
+    "r": [
+     [
+      "Era bajo, pero tenía las manos muy rápidas.",
+      "He was short, but he had very fast hands.",
+      1
+     ],
+     [
+      "Jugaba al fútbol en la calle con su hermana.",
+      "He used to play soccer in the street with his sister.",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "¿Y qué hacía Natalia siempre?",
+    "en": "And what did Natalia always do?",
+    "r": [
+     [
+      "Siempre tiraba el balón a la izquierda.",
+      "She always kicked the ball to the left.",
+      2
+     ],
+     [
+      "Era alta y fuerte, y siempre tiraba a la izquierda.",
+      "She was tall and strong, and she always shot to the left.",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "En la final, faltaban dos minutos. ¿Qué pasó?",
+    "en": "In the final, there were two minutes left. What happened?",
+    "r": [
+     [
+      "Natalia pateó y Tomás saltó a la izquierda.",
+      "Natalia kicked and Tomás jumped to the left.",
+      3
+     ],
+     [
+      "Tomás paró el balón y su equipo ganó.",
+      "Tomás stopped the ball and his team won.",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "¿Y qué estaban haciendo los padres y los abuelos?",
+    "en": "And what were the parents and grandparents doing?",
+    "r": [
+     [
+      "Estaban gritando y cantando.",
+      "They were shouting and singing.",
+      4
+     ],
+     [
+      "Estaban mirando el partido con mucha gente.",
+      "They were watching the match with lots of people.",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "¿Y tú? ¿A qué jugabas cuando tenías diez años?",
+    "en": "And you? What did you use to play when you were ten?",
+    "r": [
+     [
+      "Jugaba al fútbol con mis primos.",
+      "I used to play soccer with my cousins.",
+      5
+     ],
+     [
+      "Siempre jugaba con mi perro en el parque.",
+      "I always used to play with my dog in the park.",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "¡Qué buenos recuerdos! Y mañana Tomás y Natalia juegan en la calle, como antes. ¡Chao!",
+    "en": "Such good memories! And tomorrow Tomás and Natalia are playing in the street, like before. Bye!",
+    "end": true
+   }
+  ]
+ },
+ "a2-05": {
+  "steps": [
+   {
+    "say": "¡Hola! Soy Ignacio, de Santiago. ¿Qué estaba haciendo Valentina esa tarde?",
+    "en": "Hi! I'm Ignacio, from Santiago. What was Valentina doing that afternoon?",
+    "r": [
+     [
+      "Estaba tomando té.",
+      "She was drinking tea.",
+      1
+     ],
+     [
+      "Estaba mirando una serie en su sala.",
+      "She was watching a series in her living room.",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "¿Y cómo era el tiempo?",
+    "en": "And what was the weather like?",
+    "r": [
+     [
+      "Hacía frío y llovía mucho.",
+      "It was cold and it was raining a lot.",
+      2
+     ],
+     [
+      "Llovía y el viento golpeaba las ventanas.",
+      "It was raining and the wind was hitting the windows.",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "De repente, llegó un mensaje equivocado. ¿Qué hizo Valentina después?",
+    "en": "Suddenly, a wrong-number message arrived. What did Valentina do next?",
+    "r": [
+     [
+      "Se levantó y miró por la ventana.",
+      "She got up and looked out of the window.",
+      3
+     ],
+     [
+      "Se puso el abrigo y salió con un paraguas.",
+      "She put on her coat and went out with an umbrella.",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "¿Y quién era el chico de la mochila roja?",
+    "en": "And who was the boy with the red backpack?",
+    "r": [
+     [
+      "Era su nuevo vecino.",
+      "He was her new neighbor.",
+      4
+     ],
+     [
+      "Se llamaba Lisandro y tenía trece años.",
+      "His name was Lisandro and he was thirteen.",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "¿Y tú? ¿Qué estabas haciendo ayer a las ocho de la noche?",
+    "en": "And you? What were you doing yesterday at eight in the evening?",
+    "r": [
+     [
+      "Estaba cenando con mi familia.",
+      "I was having dinner with my family.",
+      5
+     ],
+     [
+      "Estaba leyendo en mi cama.",
+      "I was reading in bed.",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "¡Bacán! Y al final, Valentina cenó con sus vecinos. ¡Chao!",
+    "en": "Cool! And in the end, Valentina had dinner with her neighbors. Bye!",
+    "end": true
+   }
+  ]
+ },
+ "a2-06": {
+  "steps": [
+   {
+    "say": "¡Hola! Soy Francisca, también de Santiago. ¿Quién ayudó a Camila con la mudanza?",
+    "en": "Hi! I'm Francisca, from Santiago too. Who helped Camila with the move?",
+    "r": [
+     [
+      "La ayudó su hermano Álvaro.",
+      "Her brother Álvaro helped her.",
+      1
+     ],
+     [
+      "Álvaro la ayudó con las cajas.",
+      "Álvaro helped her with the boxes.",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "¿Y cómo era el edificio?",
+    "en": "And what was the building like?",
+    "r": [
+     [
+      "Era viejo, pero a Camila le gustaba mucho.",
+      "It was old, but Camila liked it a lot.",
+      2
+     ],
+     [
+      "Tenía un balcón pequeño, pero el ascensor no funcionaba.",
+      "It had a small balcony, but the elevator didn't work.",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "Por la tarde, Camila abrió la última caja. ¿Qué había dentro?",
+    "en": "In the afternoon, Camila opened the last box. What was inside?",
+    "r": [
+     [
+      "Había una lámpara vieja y una carta.",
+      "There was an old lamp and a letter.",
+      3
+     ],
+     [
+      "Había una lámpara de su abuela.",
+      "There was a lamp from her grandmother.",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "La lámpara no se encendió, pero el vecino, don Rafael, la ayudó. ¿Qué le dijo don Rafael a Camila?",
+    "en": "The lamp didn't turn on, but the neighbor, Don Rafael, helped her. What did Don Rafael say to Camila?",
+    "r": [
+     [
+      "Le dijo: «Es para ti. Pruébala».",
+      "He told her: \"It's for you. Try it.\"",
+      4
+     ],
+     [
+      "Le dijo: «Si necesitas ayuda, dímelo».",
+      "He told her: \"If you need help, tell me.\"",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "¿Y tú? ¿Te mudaste alguna vez? ¿Quién te ayudó?",
+    "en": "And you? Have you ever moved house? Who helped you?",
+    "r": [
+     [
+      "Sí, me mudé el año pasado. Mis amigos me ayudaron.",
+      "Yes, I moved last year. My friends helped me.",
+      5
+     ],
+     [
+      "Sí. Mi padre me ayudó con las cajas.",
+      "Yes. My father helped me with the boxes.",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "¡Qué bueno! Y esa noche, Camila pensó: «Ya tengo un hogar». ¡Chao!",
+    "en": "How nice! And that night, Camila thought: \"Now I have a home.\" Bye!",
+    "end": true
+   }
+  ]
+ },
+ "a2-07": {
+  "steps": [
+   {
+    "say": "¡Hola! Soy Martín, de Buenos Aires. Contame: ¿qué hacía Rodrigo todas las tardes?",
+    "en": "Hi! I'm Martín, from Buenos Aires. Tell me: what did Rodrigo do every afternoon?",
+    "r": [
+     [
+      "Tocaba la guitarra en una plaza de San Telmo.",
+      "He played the guitar in a square in San Telmo.",
+      1
+     ],
+     [
+      "Tocaba y la gente dejaba monedas en su sombrero.",
+      "He played and people left coins in his hat.",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "¿Y Julieta? ¿Qué hacía siempre?",
+    "en": "And Julieta? What did she always do?",
+    "r": [
+     [
+      "Llegaba a las cinco y escuchaba con atención.",
+      "She arrived at five and listened carefully.",
+      2
+     ],
+     [
+      "Nunca hablaba, pero bailaba un poquito.",
+      "She never spoke, but she danced a little.",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "Mirá, un jueves todo cambió. ¿Qué pasó?",
+    "en": "Look, one Thursday everything changed. What happened?",
+    "r": [
+     [
+      "Se rompió una cuerda de la guitarra.",
+      "A guitar string broke.",
+      3
+     ],
+     [
+      "Julieta salió corriendo y volvió con su abuelo.",
+      "Julieta ran off and came back with her grandfather.",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "¿Y qué hizo el abuelo Ernesto por Rodrigo?",
+    "en": "And what did Grandpa Ernesto do for Rodrigo?",
+    "r": [
+     [
+      "Le cambió la cuerda en cinco minutos.",
+      "He changed the string for him in five minutes.",
+      4
+     ],
+     [
+      "Le ofreció trabajo: dar clases de guitarra.",
+      "He offered him a job: giving guitar lessons.",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "¿Y vos? ¿Viste alguna vez a un músico en la calle? ¿Qué tocaba?",
+    "en": "And you? Have you ever seen a musician in the street? What were they playing?",
+    "r": [
+     [
+      "Sí, el verano pasado vi a un señor. Tocaba el violín.",
+      "Yes, last summer I saw a man. He was playing the violin.",
+      5
+     ],
+     [
+      "Sí, una vez vi a una chica que cantaba en una plaza.",
+      "Yes, once I saw a girl who was singing in a square.",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "¡Qué lindo! Si tocás la guitarra, vení a San Telmo y tocá con Rodrigo. ¡Chau!",
+    "en": "How lovely! If you play the guitar, come to San Telmo and play with Rodrigo. Bye!",
+    "end": true
+   }
+  ]
+ },
+ "a2-08": {
+  "steps": [
+   {
+    "say": "¡Hola! Soy Camilo, de Colombia. ¿Qué querían hacer Valeria y Andrés en Salento?",
+    "en": "Hi! I'm Camilo, from Colombia. What did Valeria and Andrés want to do in Salento?",
+    "r": [
+     [
+      "Querían caminar por el Valle de Cocora.",
+      "They wanted to walk through the Cocora Valley.",
+      1
+     ],
+     [
+      "Querían ver las palmas más altas del mundo.",
+      "They wanted to see the tallest palm trees in the world.",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "¿Y qué le explicó el guía Jairo a Andrés?",
+    "en": "And what did the guide Jairo explain to Andrés?",
+    "r": [
+     [
+      "Le dijo: «Si hay niebla, camina despacio».",
+      "He told him: \"If there's fog, walk slowly.\"",
+      2
+     ],
+     [
+      "Le dijo: «Sigue el río».",
+      "He told him: \"Follow the river.\"",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "Al mediodía, ¿qué pasó?",
+    "en": "At midday, what happened?",
+    "r": [
+     [
+      "El cielo se puso gris y llegó la niebla.",
+      "The sky turned gray and the fog came.",
+      3
+     ],
+     [
+      "Una niebla blanca cubrió el camino.",
+      "A white fog covered the path.",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "¿Por qué se perdieron los primos?",
+    "en": "Why did the cousins get lost?",
+    "r": [
+     [
+      "Porque Andrés se detuvo a atarse las botas.",
+      "Because Andrés stopped to tie his boots.",
+      4
+     ],
+     [
+      "Jairo caminaba delante y ellos se quedaron atrás.",
+      "Jairo was walking ahead and they stayed behind.",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "¿Y tú? ¿Te perdiste alguna vez? ¿Dónde estabas?",
+    "en": "And you? Did you ever get lost? Where were you?",
+    "r": [
+     [
+      "Sí, una vez me perdí en una ciudad grande.",
+      "Yes, once I got lost in a big city.",
+      5
+     ],
+     [
+      "Sí, cuando tenía diez años, me perdí en un parque.",
+      "Yes, when I was ten, I got lost in a park.",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "¡Qué susto! Y al final, chocolate con queso para todos. ¡Chao!",
+    "en": "How scary! And in the end, hot chocolate with cheese for everyone. Bye!",
+    "end": true
+   }
+  ]
+ },
+ "a2-09": {
+  "steps": [
+   {
+    "say": "¡Hola! Soy Itzel, de la Ciudad de México. ¿Qué le pasó a Daniela esa mañana?",
+    "en": "Hi! I'm Itzel, from Mexico City. What happened to Daniela that morning?",
+    "r": [
+     [
+      "Su alarma no sonó y se despertó tarde.",
+      "Her alarm didn't go off and she woke up late.",
+      1
+     ],
+     [
+      "Un señor le tiró su café en la camisa.",
+      "A man spilled her coffee on her shirt.",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "¿Y qué hacía Daniela mientras esperaba el metro?",
+    "en": "And what was Daniela doing while she was waiting for the subway?",
+    "r": [
+     [
+      "Repasaba sus respuestas en voz baja.",
+      "She was going over her answers quietly.",
+      2
+     ],
+     [
+      "Repasaba sus respuestas para la entrevista.",
+      "She was going over her answers for the interview.",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "¿Por qué llegó tarde a la entrevista?",
+    "en": "Why was she late for the interview?",
+    "r": [
+     [
+      "Porque ayudó a una señora mayor.",
+      "Because she helped an older woman.",
+      3
+     ],
+     [
+      "Porque acompañó a una señora al tercer piso.",
+      "Because she went with a woman to the third floor.",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "Ahora yo soy la señora Ortega, y le hablo de usted. ¿Ha trabajado antes con clientes?",
+    "en": "Now I'm Mrs. Ortega, and I'm speaking to you formally. Have you worked with clients before?",
+    "r": [
+     [
+      "Sí, he trabajado con tres tiendas pequeñas.",
+      "Yes, I've worked with three small shops.",
+      4
+     ],
+     [
+      "No, pero he hecho muchos proyectos de diseño.",
+      "No, but I've done a lot of design projects.",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "Muy bien. Ya no soy la jefa. ¿Y tú? ¿Has llegado tarde alguna vez a algo importante?",
+    "en": "Very good. I'm not the boss anymore. And you? Have you ever been late for something important?",
+    "r": [
+     [
+      "Sí, una vez llegué tarde a un examen.",
+      "Yes, once I was late for an exam.",
+      5
+     ],
+     [
+      "No, nunca he llegado tarde.",
+      "No, I've never been late.",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "¡Qué bien! Y Daniela consiguió el puesto. ¡Nos vemos!",
+    "en": "Great! And Daniela got the job. See you!",
+    "end": true
+   }
+  ]
+ },
+ "a2-10": {
+  "steps": [
+   {
+    "say": "¡Hola! Soy Irene, del norte de España. ¿Qué hacía Dolores cada agosto?",
+    "en": "Hi! I'm Irene, from northern Spain. What did Dolores do every August?",
+    "r": [
+     [
+      "Viajaba al pueblo de su abuelo.",
+      "She traveled to her grandfather's village.",
+      1
+     ],
+     [
+      "Iba a Valdeluna, el pueblo de su abuelo.",
+      "She went to Valdeluna, her grandfather's village.",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "¿Y qué hacían los vecinos en la Noche de los Faroles?",
+    "en": "And what did the villagers do on the Night of the Lanterns?",
+    "r": [
+     [
+      "Hacían faroles de papel.",
+      "They made paper lanterns.",
+      2
+     ],
+     [
+      "Llevaban faroles por las calles al anochecer.",
+      "They carried lanterns through the streets at dusk.",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "Dolores y Hernán hicieron un toro gigante. ¿Qué pasó el viernes por la noche?",
+    "en": "Dolores and Hernán made a giant bull. What happened on Friday night?",
+    "r": [
+     [
+      "Empezó a llover con fuerza.",
+      "It started to rain hard.",
+      3
+     ],
+     [
+      "El viento abrió la puerta del granero.",
+      "The wind blew open the barn door.",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "Por la mañana, Dolores entró en el granero. ¿Qué había pasado?",
+    "en": "In the morning, Dolores went into the barn. What had happened?",
+    "r": [
+     [
+      "El agua había mojado el papel.",
+      "The water had soaked the paper.",
+      4
+     ],
+     [
+      "Una pata del toro se había caído.",
+      "One of the bull's legs had fallen off.",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "Al final, todo el pueblo ayudó. ¿Y tú? ¿Has ido alguna vez a una fiesta así?",
+    "en": "In the end, the whole village helped. And you? Have you ever been to a festival like that?",
+    "r": [
+     [
+      "Sí, el año pasado fui a una fiesta en mi ciudad.",
+      "Yes, last year I went to a festival in my town.",
+      5
+     ],
+     [
+      "No, nunca he visto una fiesta de faroles.",
+      "No, I've never seen a lantern festival.",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "¡Qué bonito! Como dice el abuelo, Dolores hizo una familia más grande. ¡Hasta pronto!",
+    "en": "How lovely! As her grandfather says, Dolores made a bigger family. See you soon!",
+    "end": true
+   }
+  ]
+ }
+}

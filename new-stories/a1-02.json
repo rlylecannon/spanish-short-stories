@@ -1,0 +1,631 @@
+{
+ "story": {
+  "id": "a1-02",
+  "level": "A1",
+  "title": "La comanda de la mesa seis",
+  "titleEn": "The Ticket for Table Six",
+  "teaser": "Friday night at a Buenos Aires steakhouse: the boss hates mistakes, and one small order ticket is about to cause a big one.",
+  "emoji": "🥩",
+  "lines": [
+   [
+    "Es viernes en Buenos Aires.",
+    "It's Friday in Buenos Aires."
+   ],
+   [
+    "Delfina es <b>cocinera</b> en una <b>parrilla</b>.",
+    "Delfina is a cook at a parrilla, a steakhouse."
+   ],
+   [
+    "A las nueve, tiene tres mesas: cinco <b>bifes</b>, dos <b>ensaladas</b>.",
+    "At nine, she has three tables: five steaks, two salads."
+   ],
+   [
+    "Su <b>jefe</b>, don Horacio, es <b>serio</b>: no le gustan los <b>errores</b>.",
+    "Her boss, Don Horacio, is stern: he doesn't like mistakes."
+   ],
+   [
+    "— ¡<b>Faltan</b> diez minutos! —dice el <b>mozo</b>.",
+    "\"Ten minutes to go!\" says the waiter."
+   ],
+   [
+    "Otra <b>comanda</b>: mesa seis, «9 bifes».",
+    "Another order ticket: table six, \"9 steaks\"."
+   ],
+   [
+    "Delfina pone nueve en la parrilla.",
+    "Delfina puts nine on the grill."
+   ],
+   [
+    "Don Horacio mira a Delfina: —¡La mesa seis tiene seis <b>personas</b>!",
+    "Don Horacio looks at Delfina: \"Table six has six people!\""
+   ],
+   [
+    "¡La comanda está <b>al revés</b>!",
+    "The ticket is upside down!"
+   ],
+   [
+    "El mozo ve a tres <b>clientes</b> nuevos.",
+    "The waiter sees three new customers."
+   ],
+   [
+    "— ¿Tienen bifes? ¡Nos gustan mucho!",
+    "\"Do you have steaks? We love them!\""
+   ],
+   [
+    "— ¡Tres, <b>listos</b>!",
+    "\"Three, ready to go!\""
+   ],
+   [
+    "A las doce: ¡son cien bifes!",
+    "At twelve: that's a hundred steaks!"
+   ],
+   [
+    "Don Horacio <b>prueba</b> uno y mira a Delfina.",
+    "Don Horacio tastes one and looks at Delfina."
+   ],
+   [
+    "— Me gusta tu bife. Y <b>sonríe</b>.",
+    "\"I like your steak.\" And he smiles."
+   ]
+  ],
+  "vocab": [
+   [
+    "la cocinera",
+    "cook (woman); el cocinero = cook (man)"
+   ],
+   [
+    "la parrilla",
+    "steakhouse (grill restaurant); grill"
+   ],
+   [
+    "el bife",
+    "steak (Argentina)"
+   ],
+   [
+    "la ensalada",
+    "salad"
+   ],
+   [
+    "el jefe",
+    "boss; head chef"
+   ],
+   [
+    "serio",
+    "serious, stern"
+   ],
+   [
+    "el error",
+    "mistake"
+   ],
+   [
+    "faltar",
+    "to be left, to go (faltan diez minutos = ten minutes to go)"
+   ],
+   [
+    "el mozo",
+    "waiter (Argentina)"
+   ],
+   [
+    "la comanda",
+    "order ticket (in a restaurant kitchen)"
+   ],
+   [
+    "la persona",
+    "person"
+   ],
+   [
+    "al revés",
+    "upside down; the wrong way round"
+   ],
+   [
+    "el cliente",
+    "customer"
+   ],
+   [
+    "listo",
+    "ready"
+   ],
+   [
+    "probar",
+    "to taste, to try (prueba = tastes)"
+   ],
+   [
+    "sonreír",
+    "to smile (sonríe = smiles)"
+   ],
+   [
+    "gustar",
+    "to like (me gusta / no le gustan / nos gustan)"
+   ]
+  ],
+  "quiz": [
+   {
+    "q": "¿Dónde trabaja Delfina?",
+    "options": [
+     "En un mercado",
+     "En una parrilla",
+     "En una escuela",
+     "En un hotel"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "¿Cuántas personas hay en la mesa seis?",
+    "options": [
+     "Tres",
+     "Cinco",
+     "Seis",
+     "Nueve"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "¿Por qué Delfina pone nueve bifes en la parrilla?",
+    "options": [
+     "Hay nueve personas en la mesa seis",
+     "Lee la comanda al revés",
+     "Don Horacio quiere nueve bifes",
+     "El mozo dice «nueve»"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "¿Para quién son los tres bifes de más?",
+    "options": [
+     "Para don Horacio",
+     "Para el mozo",
+     "Para tres clientes nuevos",
+     "Para Delfina"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "En «¡La comanda está al revés!», ¿qué significa «al revés»?",
+    "options": [
+     "Upside down",
+     "On time",
+     "Very small",
+     "Finished"
+    ],
+    "answer": 0
+   }
+  ],
+  "prompt": "What food do you like, and what don't you like? Write 2-3 sentences in Spanish in the present tense. Use gusta for one thing and gustan for more than one, and add one sentence with tener (for example: Me gustan los bifes. No me gusta la ensalada. Tengo un restaurante favorito.).",
+  "concepts": {
+   "grammar": "ser for days, jobs, descriptions and totals (Es viernes; es cocinera; es serio; son cien bifes); gustar (no le gustan los errores; nos gustan; me gusta tu bife); tener (tiene tres mesas; tiene seis personas; ¿Tienen bifes?); personal a (mira a Delfina; ve a tres clientes).",
+   "vocabulary": "Restaurant kitchen words from Argentina (parrilla, bife, mozo, comanda, cliente) and numbers 1–12 plus cien.",
+   "skills": "Following numbers and counts in a short story; spotting a visual clue (a 6 read upside down)."
+  }
+ },
+ "grammar": [
+  {
+   "topic": "Ser for days, prices, descriptions",
+   "explain": "Use 'ser' for the day (Es viernes), for jobs (Delfina es cocinera), for what someone is like (Don Horacio es serio), and for prices and totals (¿Cuánto es? Son cien). The verb agrees with the amount: es un bife, son cien bifes. Watch out: for jobs, Spanish drops 'un/una': es cocinera, not 'es una cocinera'.",
+   "examples": [
+    [
+     "Es viernes en Buenos Aires.",
+     "It's Friday in Buenos Aires."
+    ],
+    [
+     "Delfina es cocinera en una parrilla.",
+     "Delfina is a cook at a steakhouse."
+    ],
+    [
+     "Su jefe, don Horacio, es serio.",
+     "Her boss, Don Horacio, is stern."
+    ],
+    [
+     "A las doce: ¡son cien bifes!",
+     "At twelve: that's a hundred steaks!"
+    ]
+   ]
+  },
+  {
+   "topic": "Gustar: liking things",
+   "explain": "'Gustar' works like 'to please': the thing you like is the subject. Use 'gusta' for one thing and 'gustan' for plural things. The person goes before: me (to me), te (to you), le (to him/her), nos (to us). Watch out: don't say 'yo gusto' or 'le gusta los errores'.",
+   "examples": [
+    [
+     "Don Horacio es serio: no le gustan los errores.",
+     "Don Horacio is stern: he doesn't like mistakes."
+    ],
+    [
+     "— ¿Tienen bifes? ¡Nos gustan mucho!",
+     "\"Do you have steaks? We love them!\""
+    ],
+    [
+     "— Me gusta tu bife.",
+     "\"I like your steak.\""
+    ]
+   ]
+  },
+  {
+   "topic": "Tener: having things",
+   "explain": "'Tener' (to have) is irregular: tengo, tienes, tiene, tenemos, tienen. Use it for what someone has: tres mesas, seis personas. To say you don't have something, put 'no' before the verb: no tengo dinero. Watch out: 'tenemos' (we have) has no 'ie', and Spanish usually drops un/una after 'no': no tengo mesa.",
+   "examples": [
+    [
+     "A las nueve, tiene tres mesas.",
+     "At nine, she has three tables."
+    ],
+    [
+     "¡La mesa seis tiene seis personas!",
+     "Table six has six people!"
+    ],
+    [
+     "— ¿Tienen bifes? —Sí, tenemos tres.",
+     "\"Do you have steaks?\" \"Yes, we have three.\""
+    ]
+   ]
+  },
+  {
+   "topic": "Personal a before people",
+   "explain": "When a specific person receives the action (is seen, looked at, called), Spanish puts 'a' before them. This 'a' is not translated. Things don't take it: mira a Delfina, but mira la comanda. Watch out: a + el becomes al: Delfina mira al jefe.",
+   "examples": [
+    [
+     "Don Horacio mira a Delfina.",
+     "Don Horacio looks at Delfina."
+    ],
+    [
+     "El mozo ve a tres clientes nuevos.",
+     "The waiter sees three new customers."
+    ],
+    [
+     "Delfina mira la comanda.",
+     "Delfina looks at the order ticket. (no 'a': a ticket is a thing)"
+    ]
+   ]
+  }
+ ],
+ "gq": [
+  {
+   "topic": "Ser for days, prices, descriptions",
+   "q": "Fill in the blank: A las doce, ¡___ cien bifes!",
+   "options": [
+    "es",
+    "son",
+    "están",
+    "hay"
+   ],
+   "answer": 1,
+   "why": "Totals and prices use ser, and the verb agrees with the amount: cien bifes is plural, so 'son'. English says 'that's a hundred', but Spanish does not say 'es cien bifes'."
+  },
+  {
+   "topic": "Gustar: liking things",
+   "q": "Don Horacio doesn't like mistakes (plural). Which sentence is correct?",
+   "options": [
+    "No le gusta los errores.",
+    "No le gustan los errores.",
+    "No gusta los errores.",
+    "Él no gustan los errores."
+   ],
+   "answer": 1,
+   "why": "With gustar, the thing liked is the subject. 'Los errores' is plural, so the verb is 'gustan'; 'le' (to him) goes before the verb."
+  },
+  {
+   "topic": "Tener: having things",
+   "q": "Complete: La mesa seis ___ seis personas.",
+   "options": [
+    "tienen",
+    "tengo",
+    "hay",
+    "tiene"
+   ],
+   "answer": 3,
+   "why": "La mesa (it) takes the él/ella form: tiene. 'Hay' can't follow a subject like 'la mesa seis'; you could say 'En la mesa seis hay seis personas'."
+  },
+  {
+   "topic": "Personal a before people",
+   "q": "Which sentence needs the personal 'a' in the blank?",
+   "options": [
+    "Delfina mira ___ la comanda.",
+    "Don Horacio mira ___ Delfina.",
+    "Delfina pone ___ nueve bifes en la parrilla.",
+    "Don Horacio prueba ___ un bife."
+   ],
+   "answer": 1,
+   "why": "Personal 'a' goes before a specific person who receives the action: mira a Delfina. La comanda and los bifes are things, so they take no 'a'."
+  },
+  {
+   "topic": "Ser for days, prices, descriptions",
+   "q": "How do you say 'Delfina is a cook'?",
+   "options": [
+    "Delfina está cocinera.",
+    "Delfina hay cocinera.",
+    "Delfina es cocinera.",
+    "Delfina tiene cocinera."
+   ],
+   "answer": 2,
+   "why": "Jobs use ser, and Spanish usually drops 'un/una' before a job: Delfina es cocinera.",
+   "x": true
+  },
+  {
+   "topic": "Gustar: liking things",
+   "q": "Complete: Me ___ tu bife, pero no me ___ las ensaladas.",
+   "options": [
+    "gustan / gusta",
+    "gusto / gustan",
+    "gusta / gustan",
+    "gusta / gusta"
+   ],
+   "answer": 2,
+   "why": "The verb agrees with the thing liked: tu bife (one) → gusta; las ensaladas (plural) → gustan. 'Gusto' would mean 'I please'.",
+   "x": true
+  },
+  {
+   "topic": "Tener: having things",
+   "q": "How does Delfina say 'We have three steaks ready'?",
+   "options": [
+    "Tienemos tres bifes listos.",
+    "Tenemos tres bifes listos.",
+    "Tienen tres bifes listos.",
+    "Tengo tres bifes listos."
+   ],
+   "answer": 1,
+   "why": "Tener changes e→ie only in some forms (tengo is irregular, tienes, tiene, tienen). The 'we' form keeps the e: tenemos. 'Tengo' means 'I have'.",
+   "x": true
+  },
+  {
+   "topic": "Personal a before people",
+   "q": "How do you say 'The waiter sees the boss'?",
+   "options": [
+    "El mozo ve el jefe.",
+    "El mozo ve a el jefe.",
+    "El mozo ve al jefe.",
+    "El mozo ve a jefe."
+   ],
+   "answer": 2,
+   "why": "The boss is a specific person, so he takes personal 'a', and a + el always joins to 'al': ve al jefe.",
+   "x": true
+  }
+ ],
+ "dialogue": {
+  "steps": [
+   {
+    "say": "¡Hola! Soy Delfina. Soy cocinera en una parrilla de Buenos Aires.",
+    "en": "Hi! I'm Delfina. I'm a cook at a steakhouse in Buenos Aires.",
+    "r": [
+     [
+      "¡Hola, Delfina! ¿Te gusta tu trabajo?",
+      "Hi, Delfina! Do you like your job?",
+      1
+     ],
+     [
+      "Hola. ¿Qué es una parrilla?",
+      "Hi. What is a parrilla?",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "Es un restaurante de carne. Hoy es viernes y tengo muchas mesas. ¿Te gustan los bifes?",
+    "en": "It's a meat restaurant. Today is Friday and I have a lot of tables. Do you like steaks?",
+    "r": [
+     [
+      "Sí, me gustan mucho.",
+      "Yes, I like them a lot.",
+      2
+     ],
+     [
+      "No, me gustan las ensaladas.",
+      "No, I like salads.",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "Mi jefe, don Horacio, es muy serio. No le gustan los errores. Y a las nueve tengo un problema.",
+    "en": "My boss, Don Horacio, is very stern. He doesn't like mistakes. And at nine I have a problem.",
+    "r": [
+     [
+      "¿Qué problema?",
+      "What problem?",
+      3
+     ],
+     [
+      "¡Ay! ¿Qué pasa?",
+      "Oh no! What's happening?",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "La comanda de la mesa seis dice nueve bifes. Pongo nueve en la parrilla. Pero la comanda está al revés.",
+    "en": "The ticket for table six says nine steaks. I put nine on the grill. But the ticket is upside down.",
+    "r": [
+     [
+      "¡Es un seis, no un nueve!",
+      "It's a six, not a nine!",
+      4
+     ],
+     [
+      "¿Cuántas personas tiene la mesa seis?",
+      "How many people does table six have?",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "Sí, seis personas y nueve bifes. Pero el mozo ve a tres clientes nuevos. ¿Qué hago?",
+    "en": "Yes, six people and nine steaks. But the waiter sees three new customers. What do I do?",
+    "r": [
+     [
+      "Los tres bifes son para ellos.",
+      "The three steaks are for them.",
+      5
+     ],
+     [
+      "¡Qué suerte!",
+      "What luck!",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "¡Sí! Y don Horacio prueba un bife y dice: me gusta tu bife. ¡Y sonríe!",
+    "en": "Yes! And Don Horacio tastes a steak and says: I like your steak. And he smiles!",
+    "end": true
+   }
+  ]
+ },
+ "scene": {
+  "items": [
+   {
+    "t": "svg",
+    "x": 200,
+    "y": 206,
+    "s": 1,
+    "svg": "<rect x='-62' y='-14' width='124' height='12' rx='3'/><path d='M-56,-14 V-2 M-40,-14 V-2 M-24,-14 V-2 M-8,-14 V-2 M8,-14 V-2 M24,-14 V-2 M40,-14 V-2 M56,-14 V-2' fill='none'/><ellipse cx='-38' cy='-19' rx='15' ry='6' fill='#8A5A3C'/><ellipse cx='-6' cy='-19' rx='15' ry='6' fill='#8A5A3C'/><ellipse cx='26' cy='-19' rx='15' ry='6' fill='#8A5A3C'/><path d='M-30,-32 q-6,-8 0,-16 M2,-34 q-6,-8 0,-16 M34,-32 q-6,-8 0,-16' fill='none'/>"
+   },
+   {
+    "t": "obj",
+    "n": "counter",
+    "x": 200,
+    "y": 252,
+    "s": 1.25
+   },
+   {
+    "t": "person",
+    "x": 110,
+    "y": 250,
+    "s": 1,
+    "skin": "b",
+    "hair": "ponytail",
+    "hc": "b",
+    "outfit": "apron",
+    "pose": "hold",
+    "acc": [
+     "chef"
+    ]
+   },
+   {
+    "t": "person",
+    "x": 300,
+    "y": 250,
+    "s": 1.05,
+    "flip": true,
+    "skin": "c",
+    "hair": "short",
+    "hc": "g",
+    "outfit": "apron",
+    "pose": "point",
+    "acc": [
+     "chef",
+     "mustache"
+    ]
+   },
+   {
+    "t": "svg",
+    "x": 180,
+    "y": 105,
+    "s": 1.1,
+    "svg": "<rect x='-16' y='-22' width='32' height='44' rx='3'/><circle cx='0' cy='-5' r='7' fill='none'/><path d='M7,-5 Q7,12 -6,14' fill='none'/><path d='M-30,-26 H30' fill='none'/>"
+   },
+   {
+    "t": "obj",
+    "n": "clock",
+    "x": 250,
+    "y": 100,
+    "s": 0.4
+   }
+  ],
+  "vb": [
+   40,
+   40,
+   340,
+   255
+  ],
+  "country": "Argentina",
+  "ink": [
+   "#3b1d14",
+   "#e0662b"
+  ]
+ },
+ "culture": {
+  "country": "Argentina",
+  "city": "Buenos Aires",
+  "landmark": "Puente de la Mujer, Puerto Madero",
+  "caption": "Puerto Madero's old brick docks are lined with restaurants, many of them parrillas, and crossed by the white Puente de la Mujer footbridge.",
+  "culture": "Argentine (porteño)",
+  "prompt": "Argentine setting. Location: Buenos Aires, Argentina. The famous landmark Puente de la Mujer, Puerto Madero must be clearly visible and recognizable in the image. A busy Friday night inside a classic porteño parrilla: a big open charcoal grill with glowing embers and steaks sizzling on the iron bars, a steel counter with plates of bife de chorizo, green salads and small bowls of chimichurri, paper order tickets clipped to a rail above the counter, a round kitchen clock on a white-tiled wall. Through the large front window, the red-brick warehouses of Puerto Madero along the dock and the white mast of the Puente de la Mujer lit up at night. No people. Keep the lower-left third of the frame open (clear floor, ground or table space) so a drawn character can be added. Photorealistic photograph, natural light, soft warm color grade, slightly muted colors, eye-level camera, shallow depth of field, 4:3 landscape, high resolution. No text, no logos, no watermarks. Landmark to show: Puente de la Mujer, Puerto Madero.",
+  "use": "Hybrid (drawn characters added)"
+ },
+ "gen": "f",
+ "dict": {
+  "bife": [
+   [
+    "el bife",
+    "noun",
+    "steak (Argentina)"
+   ]
+  ],
+  "bifes": [
+   [
+    "el bife",
+    "noun",
+    "steaks (Argentina)"
+   ]
+  ],
+  "cocinera": [
+   [
+    "la cocinera",
+    "noun",
+    "cook (woman)"
+   ]
+  ],
+  "comanda": [
+   [
+    "la comanda",
+    "noun",
+    "order ticket (restaurant kitchen)"
+   ]
+  ],
+  "delfina": [
+   [
+    "Delfina",
+    "name",
+    "Delfina (woman's name)"
+   ]
+  ],
+  "ensaladas": [
+   [
+    "la ensalada",
+    "noun",
+    "salads"
+   ]
+  ],
+  "faltan": [
+   [
+    "faltar",
+    "verb",
+    "are left, to go (faltan diez minutos = ten minutes to go)"
+   ]
+  ],
+  "horacio": [
+   [
+    "Horacio",
+    "name",
+    "Horacio (man's name)"
+   ]
+  ],
+  "mozo": [
+   [
+    "el mozo",
+    "noun",
+    "waiter (Argentina)"
+   ]
+  ],
+  "parrilla": [
+   [
+    "la parrilla",
+    "noun",
+    "grill; steakhouse (grill restaurant)"
+   ]
+  ],
+  "revés": [
+   [
+    "el revés",
+    "noun",
+    "reverse side (al revés = upside down, the wrong way round)"
+   ]
+  ]
+ }
+}

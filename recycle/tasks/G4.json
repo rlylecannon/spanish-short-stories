@@ -1,0 +1,1157 @@
+{
+ "patches": [
+  {
+   "file": "stories",
+   "id": "a2-06",
+   "find": "\"Camila reconoció la letra de su abuela. La carta decía: «Para tu primera casa. Esta lámpara va a darte luz y alegría».\", \"Camila recognized her grandmother's handwriting. The letter said: \\\"For your first home. This lamp is going to give you light and joy.\\\"\"",
+   "replace": "\"Camila reconoció la letra de su abuela. La carta decía: «Para tu primera casa. Esta lámpara te dará luz y alegría, y yo siempre estaré contigo».\", \"Camila recognized her grandmother's handwriting. The letter said: \\\"For your first home. This lamp will give you light and joy, and I will always be with you.\\\"\"",
+   "why": "line 13: map2 edit: simple future"
+  },
+  {
+   "file": "stories",
+   "id": "a2-06",
+   "find": "\"—Ya tengo un <b>hogar</b> —pensó.\", \"\\\"Now I have a home,\\\" she thought.\"",
+   "replace": "\"—Ya tengo un <b>hogar</b>. Aquí seré feliz —pensó.\", \"\\\"Now I have a home. I'll be happy here,\\\" she thought.\"",
+   "why": "line 23: map2 edit: simple future"
+  },
+  {
+   "file": "stories",
+   "id": "a2-06",
+   "find": "\"—Hay muchísimas <b>cajas</b> —dijo Álvaro—. ¿Qué llevas en ellas?\", \"\\\"There are so many boxes,\\\" said Álvaro. \\\"What do you have in them?\\\"\"",
+   "replace": "\"—Hay muchísimas <b>cajas</b> y dos maletas —dijo Álvaro—. ¿Qué llevas en ellas?\", \"\\\"There are so many boxes and two suitcases,\\\" said Álvaro. \\\"What do you have in them?\\\"\"",
+   "why": "line 2: recycle (maleta)"
+  },
+  {
+   "file": "stories",
+   "id": "a2-06",
+   "find": "\"El edificio era viejo, pero a Camila le gustaba mucho. Tenía un <b>balcón</b> pequeño y ventanas enormes.\", \"The building was old, but Camila liked it a lot. It had a small balcony and huge windows.\"",
+   "replace": "\"El edificio era viejo, pero a Camila le gustaba mucho. Tenía un <b>balcón</b> pequeño con flores y ventanas enormes.\", \"The building was old, but Camila liked it a lot. It had a small balcony with flowers and huge windows.\"",
+   "why": "line 4: recycle (flor)"
+  },
+  {
+   "file": "stories",
+   "id": "a2-06",
+   "find": "\"Subieron las cajas durante dos horas. Álvaro estaba más cansado que Camila, pero no se quejaba.\", \"They carried the boxes up for two hours. Álvaro was more tired than Camila, but he did not complain.\"",
+   "replace": "\"Subieron las cajas durante dos horas. Álvaro tenía hambre y estaba más cansado que Camila, pero no se quejaba.\", \"They carried the boxes up for two hours. Álvaro was hungry and more tired than Camila, but he did not complain.\"",
+   "why": "line 7: recycle (hambre)"
+  },
+  {
+   "file": "stories",
+   "id": "a2-06",
+   "find": "\"En el tercer piso, un señor mayor abrió su puerta y los miró con una sonrisa.\", \"On the third floor, an older man opened his door and looked at them with a smile.\"",
+   "replace": "\"En el tercer piso, un señor mayor con bigote abrió su puerta y los miró con una sonrisa.\", \"On the third floor, an older man with a mustache opened his door and looked at them with a smile.\"",
+   "why": "line 8: recycle (bigote)"
+  },
+  {
+   "file": "stories",
+   "id": "a2-06",
+   "find": "\"—Mamá la guardó para ti —le explicó él—. Quería darte una <b>sorpresa</b>.\", \"\\\"Mom kept it for you,\\\" he explained. \\\"She wanted to give you a surprise.\\\"\"",
+   "replace": "\"—Mamá la guardó para ti —le explicó él—. Es un regalo de la abuela. Quería darte una <b>sorpresa</b>.\", \"\\\"Mom kept it for you,\\\" he explained. \\\"It's a gift from Grandma. She wanted to give you a surprise.\\\"\"",
+   "why": "line 15: recycle (regalo)"
+  },
+  {
+   "file": "stories",
+   "id": "a2-06",
+   "find": "\"—Voy a comprar una ahora mismo —dijo Álvaro, y salió corriendo.\", \"\\\"I'm going to buy one right now,\\\" said Álvaro, and he ran out.\"",
+   "replace": "\"—Voy a comprar una ahora mismo en la tienda de la esquina —dijo Álvaro, y salió corriendo.\", \"\\\"I'm going to buy one right now at the corner shop,\\\" said Álvaro, and he ran out.\"",
+   "why": "line 17: recycle (esquina)"
+  },
+  {
+   "file": "stories",
+   "id": "a2-06",
+   "find": "\"Esa noche los tres comieron pizza en el suelo. Camila miró el balcón y sonrió.\", \"That night the three of them ate pizza on the floor. Camila looked at the balcony and smiled.\"",
+   "replace": "\"Esa noche los tres comieron pizza y ensalada en el suelo. Camila miró el balcón y sonrió.\", \"That night the three of them ate pizza and salad on the floor. Camila looked at the balcony and smiled.\"",
+   "why": "line 22: recycle (ensalada)"
+  },
+  {
+   "file": "stories",
+   "id": "a2-06",
+   "find": "\"grammar\": \"Preterite for actions (se mudó, abrió, salió) with imperfect for description (era, tenía, estaba); object pronouns (le, la, me, te); comparison más ... que; near future ir a + infinitive; tú commands (dímelo, pruébala); reflexive past (se sentó, se puso a llorar).\"",
+   "replace": "\"grammar\": \"Por vs para (por la mañana, por la tarde, por la escalera, pasó por la puerta / para ti, para tu primera casa); simple future for a promise and a hope (te dará, estaré, seré) contrasted with ir a for plans (vamos a subir, voy a comprar); tú commands with pronouns (ayúdame, dímelo, pruébala); preterite for actions with imperfect for description (era, tenía, estaba).\"",
+   "why": "concepts.grammar updated to the new topic map"
+  },
+  {
+   "file": "stories",
+   "id": "a2-07",
+   "find": "\"Era joven, y su música alegraba a todos los que pasaban.\", \"He was young, and his music cheered up everyone who walked by.\"",
+   "replace": "\"Era joven, y su música alegraba a los clientes de los cafés y a todos los que pasaban.\", \"He was young, and his music cheered up the customers in the cafés and everyone who walked by.\"",
+   "why": "line 1: recycle (cliente)"
+  },
+  {
+   "file": "stories",
+   "id": "a2-07",
+   "find": "\"Rodrigo recogió sus cosas y se sintió muy cansado. Pensó: «Mañana voy a buscar trabajo en un café».\", \"Rodrigo picked up his things and felt very tired. He thought, \\\"Tomorrow I'm going to look for a job in a café.\\\"\"",
+   "replace": "\"Rodrigo recogió sus cosas y se sintió muy cansado. Pensó: «Mañana voy a buscar trabajo de mozo en un café».\", \"Rodrigo picked up his things and felt very tired. He thought: \\\"Tomorrow I'm going to look for a job as a waiter in a café.\\\"\"",
+   "why": "line 8: recycle (mozo)"
+  },
+  {
+   "file": "stories",
+   "id": "a2-07",
+   "find": "\"—Hola, soy Ernesto, el <b>abuelo</b> de Julieta —dijo el señor—. Tengo una <b>tienda</b> de música aquí cerca.\", \"\\\"Hello, I'm Ernesto, Julieta's grandfather,\\\" said the man. \\\"I have a music shop close by.\\\"\"",
+   "replace": "\"—Hola, soy Ernesto, el <b>abuelo</b> de Julieta —dijo el señor—. Tengo una <b>tienda</b> de música en la esquina.\", \"\\\"Hello, I'm Ernesto, Julieta's grandfather,\\\" said the man. \\\"I have a music shop on the corner.\\\"\"",
+   "why": "line 10: recycle (esquina)"
+  },
+  {
+   "file": "stories",
+   "id": "a2-07",
+   "find": "\"Rodrigo aceptó, feliz. El sábado llegó con su guitarra y su mejor camisa.\", \"Rodrigo accepted, happy. On Saturday he arrived with his guitar and his best shirt.\"",
+   "replace": "\"Rodrigo aceptó, feliz. El sábado llegó temprano con su guitarra y su mejor camisa.\", \"Rodrigo accepted, happy. On Saturday he arrived early with his guitar and his best shirt.\"",
+   "why": "line 18: recycle (temprano)"
+  },
+  {
+   "file": "stories",
+   "id": "a2-07",
+   "find": "\"La tienda estaba llena de gente. Rodrigo tocó durante una hora, y todos <b>aplaudieron</b>.\", \"The shop was full of people. Rodrigo played for an hour, and everyone applauded.\"",
+   "replace": "\"La tienda estaba llena de gente. Rodrigo tocó durante una hora, y todo el público <b>aplaudió</b>.\", \"The shop was full of people. Rodrigo played for an hour, and the whole audience applauded.\"",
+   "why": "line 19: recycle (público)"
+  },
+  {
+   "file": "stories",
+   "id": "a2-07",
+   "find": "\"Al final, Julieta se acercó y habló por primera vez.\", \"At the end, Julieta came over and spoke for the first time.\"",
+   "replace": "\"Al final, Julieta se acercó, un poco nerviosa, y habló por primera vez.\", \"At the end, Julieta came over, a little nervous, and spoke for the first time.\"",
+   "why": "line 20: recycle (nervioso)"
+  },
+  {
+   "file": "stories",
+   "id": "a2-08",
+   "find": "\"—Si hay niebla, camina despacio y sigue el <b>río</b> —le explicó a Andrés—. Lo importante es no correr.\", \"\\\"If there is fog, walk slowly and follow the river,\\\" he explained to Andrés. \\\"The important thing is not to run.\\\"\"",
+   "replace": "\"—Si hay niebla, hay que caminar despacio. Debes seguir el <b>río</b> —le explicó a Andrés—. Lo importante es no correr.\", \"\\\"If there is fog, you have to walk slowly. You must follow the river,\\\" he explained to Andrés. \\\"The important thing is not to run.\\\"\"",
+   "why": "line 6: map2 edit: obligation"
+  },
+  {
+   "file": "stories",
+   "id": "a2-08",
+   "find": "\"Andrés se puso nervioso. —¿Qué hacemos? Estamos <b>perdidos</b>.\", \"Andrés got nervous. \\\"What do we do? We're lost.\\\"\"",
+   "replace": "\"Andrés se puso nervioso. —No veo nada. ¿Qué tenemos que hacer? Estamos <b>perdidos</b>.\", \"Andrés got nervous. \\\"I can't see anything. What do we have to do? We're lost.\\\"\"",
+   "why": "line 14: map2 edit: negatives/obligation"
+  },
+  {
+   "file": "stories",
+   "id": "a2-08",
+   "find": "\"Pero a las seis y media ya estaban en el <b>sendero</b> con sus <b>mochilas</b>.\", \"But at six thirty they were already on the trail with their backpacks.\"",
+   "replace": "\"Pero a las seis y media ya estaban en el <b>sendero</b> con sus <b>mochilas</b> llenas de agua y fruta.\", \"But at six thirty they were already on the trail with their backpacks full of water and fruit.\"",
+   "why": "line 4: recycle (fruta)"
+  },
+  {
+   "file": "stories",
+   "id": "a2-08",
+   "find": "\"Su <b>guía</b> se llamaba Jairo. Era un hombre fuerte, con botas viejas y una sonrisa tranquila.\", \"Their guide was called Jairo. He was a strong man, with old boots and a calm smile.\"",
+   "replace": "\"Su <b>guía</b> se llamaba Jairo. Era un hombre fuerte, con botas viejas, un mapa en la mano y una sonrisa tranquila.\", \"Their guide was called Jairo. He was a strong man, with old boots, a map in his hand and a calm smile.\"",
+   "why": "line 5: recycle (mapa)"
+  },
+  {
+   "file": "stories",
+   "id": "a2-08",
+   "find": "\"Durante la mañana, el <b>paisaje</b> fue precioso. Había montañas verdes, flores amarillas y palmas altísimas.\", \"During the morning, the scenery was beautiful. There were green mountains, yellow flowers and very tall palms.\"",
+   "replace": "\"Durante la mañana, el <b>paisaje</b> fue precioso. Había montañas verdes, nubes blancas, flores amarillas y palmas altísimas.\", \"During the morning, the scenery was beautiful. There were green mountains, white clouds, yellow flowers and very tall palms.\"",
+   "why": "line 7: recycle (nube)"
+  },
+  {
+   "file": "stories",
+   "id": "a2-08",
+   "find": "\"Valeria sacó muchas fotos. Andrés, en cambio, pensaba más en el <b>almuerzo</b>.\", \"Valeria took lots of photos. Andrés, on the other hand, was thinking more about lunch.\"",
+   "replace": "\"Valeria sacó muchas fotos. Andrés, en cambio, tenía hambre y pensaba más en el <b>almuerzo</b>.\", \"Valeria took lots of photos. Andrés, on the other hand, was hungry and was thinking more about lunch.\"",
+   "why": "line 8: recycle (hambre)"
+  },
+  {
+   "file": "stories",
+   "id": "a2-08",
+   "find": "\"Media hora después, vieron una casa pequeña con humo en la <b>chimenea</b>. Una señora salía con una olla.\", \"Half an hour later, they saw a small house with smoke coming from the chimney. A woman was coming out with a pot.\"",
+   "replace": "\"Media hora después, vieron abajo una casa pequeña con humo en la <b>chimenea</b>. Una señora salía con una olla.\", \"Half an hour later, they saw a small house down below with smoke coming from the chimney. A woman was coming out with a pot.\"",
+   "why": "line 18: recycle (abajo)"
+  },
+  {
+   "file": "stories",
+   "id": "a2-08",
+   "find": "\"Andrés lo probó y puso una cara rara. Después sonrió. —¡Está delicioso! Es mejor que el chocolate de mi casa.\", \"Andrés tasted it and made a strange face. Then he smiled. \\\"It's delicious! It's better than the chocolate at my house.\\\"\"",
+   "replace": "\"Andrés lo probó y puso una cara rara. Después sonrió. —¡Está muy rico! Es mejor que el chocolate de mi casa.\", \"Andrés tasted it and made a strange face. Then he smiled. \\\"It's really tasty! It's better than the chocolate at my house.\\\"\"",
+   "why": "line 21: recycle (rico)"
+  },
+  {
+   "file": "stories",
+   "id": "a2-08",
+   "find": "\"grammar\": \"Preterite for the sequence of events (llegaron, gritó, vieron, cubrió) with imperfect for background (había montañas, caminaba, estaba asustado, se oía); comparatives and superlatives (las más altas del mundo, mejor que, tan asustado que); tú commands (camina, sigue, recuerda, escucha, pruébalo); reflexive verbs (levantarnos, se paró, se puso nervioso, se quedó, se rio).\"",
+   "replace": "\"grammar\": \"Negative words (no vieron a nadie, nadie respondió, no veo nada); obligation with hay que, tener que and deber (hay que caminar despacio, debes seguir el río, ¿qué tenemos que hacer?); ustedes as plural 'you' with the object pronoun los (ustedes son, los está buscando, los busqué); preterite for events with imperfect for background.\"",
+   "why": "concepts.grammar updated to the new topic map"
+  },
+  {
+   "file": "stories",
+   "id": "a2-09",
+   "find": "\"De repente, un señor con mucha prisa <b>chocó</b> con ella y le tiró su café en la <b>camisa</b> blanca.\", \"Suddenly, a man in a big hurry bumped into her and spilled his coffee on her white shirt.\"",
+   "replace": "\"De repente, un señor con una maleta grande y mucha prisa <b>chocó</b> con ella y le tiró su café en la <b>camisa</b> blanca.\", \"Suddenly, a man with a big suitcase and in a big hurry bumped into her and spilled his coffee on her white shirt.\"",
+   "why": "line 4: recycle (maleta)"
+  },
+  {
+   "file": "stories",
+   "id": "a2-09",
+   "find": "\"En el baño trató de limpiarla, pero la mancha se hizo más grande. Respiró hondo y pensó: «Voy a ser honesta».\", \"In the bathroom she tried to clean it, but the stain got bigger. She took a deep breath and thought, \\\"I'm going to be honest.\\\"\"",
+   "replace": "\"En el baño trató de limpiarla con agua y una toalla, pero la mancha se hizo más grande. Respiró hondo y pensó: «Voy a ser honesta».\", \"In the bathroom she tried to clean it with water and a towel, but the stain got bigger. She took a deep breath and thought, \\\"I'm going to be honest.\\\"\"",
+   "why": "line 8: recycle (toalla)"
+  },
+  {
+   "file": "stories",
+   "id": "a2-09",
+   "find": "\"En la <b>recepción</b>, una señora mayor esperaba sentada. Parecía confundida.\", \"At the reception desk, an older woman was waiting, seated. She seemed confused.\"",
+   "replace": "\"En la <b>recepción</b>, una señora mayor con lentes esperaba sentada. Parecía confundida.\", \"At the reception desk, an older woman with glasses was waiting, seated. She seemed confused.\"",
+   "why": "line 9: recycle (lentes)"
+  },
+  {
+   "file": "stories",
+   "id": "a2-09",
+   "find": "\"Subieron juntas despacio, porque la señora caminaba con dificultad. Por eso Daniela llegó tarde, a las diez y cinco.\", \"They went up together slowly, because the woman walked with difficulty. That's why Daniela arrived late, at five past ten.\"",
+   "replace": "\"Subieron juntas por la escalera, despacio, porque la señora caminaba con dificultad. Por eso Daniela llegó tarde, a las diez y cinco.\", \"They went up the stairs together, slowly, because the woman walked with difficulty. That's why Daniela arrived late, at five past ten.\"",
+   "why": "line 12: recycle (escalera)"
+  },
+  {
+   "file": "stories",
+   "id": "a2-09",
+   "find": "\"La <b>jefa</b> de personal, la señora Ortega, la esperaba con los brazos cruzados.\", \"The head of personnel, Mrs. Ortega, was waiting for her with her arms crossed.\"",
+   "replace": "\"La <b>jefa</b> de personal, la señora Ortega, la esperaba seria, con los brazos cruzados.\", \"The head of personnel, Mrs. Ortega, was waiting for her, looking serious, with her arms crossed.\"",
+   "why": "line 13: recycle (serio)"
+  },
+  {
+   "file": "stories",
+   "id": "a2-09",
+   "find": "\"Dos horas después, sonó su teléfono.\", \"Two hours later, her phone rang.\"",
+   "replace": "\"Dos horas después, durante el almuerzo, sonó su teléfono.\", \"Two hours later, during lunch, her phone rang.\"",
+   "why": "line 23: recycle (almuerzo)"
+  },
+  {
+   "file": "stories",
+   "id": "a2-09",
+   "find": "\"Esa noche, Daniela compró una camisa nueva y un café. Esta vez lo tomó con mucho cuidado.\", \"That night, Daniela bought a new shirt and a coffee. This time she drank it very carefully.\"",
+   "replace": "\"Esa noche, Daniela compró una camisa nueva y un café con churros. Esta vez lo tomó con mucho cuidado.\", \"That night, Daniela bought a new shirt and a coffee with churros. This time she drank it very carefully.\"",
+   "why": "line 25: recycle (churro)"
+  },
+  {
+   "file": "stories",
+   "id": "a2-10",
+   "find": "\"Ella sonrió con lágrimas en los ojos. Aunque llovió la noche anterior, esa fue la mejor noche de su vida.\", \"She smiled with tears in her eyes. Although it rained the night before, that was the best night of her life.\"",
+   "replace": "\"Ella sonrió con lágrimas en los ojos. Aunque llovió la noche anterior, aquella fue la mejor noche de su vida.\", \"She smiled with tears in her eyes. Although it rained the night before, that was the best night of her life.\"",
+   "why": "line 23: map2 edit: demonstratives"
+  },
+  {
+   "file": "stories",
+   "id": "a2-10",
+   "find": "\"Cada agosto, Dolores viajaba al <b>pueblo</b> de su abuelo, Valdeluna, en el norte de España.\", \"Every August, Dolores traveled to her grandfather's village, Valdeluna, in northern Spain.\"",
+   "replace": "\"Cada agosto, Dolores viajaba al <b>pueblo</b> de su abuelo, Valdeluna, en las montañas del norte de España.\", \"Every August, Dolores traveled to her grandfather's village, Valdeluna, in the mountains of northern Spain.\"",
+   "why": "line 0: recycle (montaña)"
+  },
+  {
+   "file": "stories",
+   "id": "a2-10",
+   "find": "\"—¡Claro! —contestó ella, emocionada—. Voy a hacer un <b>toro</b> gigante.\", \"\\\"Of course!\\\" she answered, excited. \\\"I'm going to make a giant bull.\\\"\"",
+   "replace": "\"—¡Claro! —contestó ella, emocionada—. Voy a hacer un <b>toro</b> gigante. Ya tengo el diseño.\", \"\\\"Of course!\\\" she answered, excited. \\\"I'm going to make a giant bull. I already have the design.\\\"\"",
+   "why": "line 5: recycle (diseño)"
+  },
+  {
+   "file": "stories",
+   "id": "a2-10",
+   "find": "\"Hernán salió a la calle y se lo contó a los vecinos. En media hora, el granero se llenó de gente.\", \"Hernán went out into the street and told the neighbors. Within half an hour, the barn was full of people.\"",
+   "replace": "\"Hernán salió a la calle y les contó la noticia a los vecinos. En media hora, el granero se llenó de gente.\", \"Hernán went out into the street and told the neighbors the news. Within half an hour, the barn was full of people.\"",
+   "why": "line 14: recycle (noticia)"
+  },
+  {
+   "file": "stories",
+   "id": "a2-10",
+   "find": "\"Su abuelo preparó café para todos mientras la abuela cantaba una canción vieja.\", \"Her grandfather made coffee for everyone while her grandmother sang an old song.\"",
+   "replace": "\"Su abuelo preparó café y tortilla para todos mientras la abuela cantaba una canción vieja.\", \"Her grandfather made coffee and tortilla for everyone while her grandmother sang an old song.\"",
+   "why": "line 16: recycle (tortilla)"
+  },
+  {
+   "file": "stories",
+   "id": "a2-10",
+   "find": "\"Al anochecer, cientos de luces salieron por las calles. Dolores caminaba al lado del toro mientras la música sonaba.\", \"At dusk, hundreds of lights came out into the streets. Dolores walked beside the bull while the music played.\"",
+   "replace": "\"Al anochecer, cientos de luces salieron por las calles y bajaron hasta el río. Dolores caminaba al lado del toro mientras la música sonaba.\", \"At dusk, hundreds of lights came out into the streets and went down to the river. Dolores walked beside the bull while the music played.\"",
+   "why": "line 19: recycle (río)"
+  },
+  {
+   "file": "stories",
+   "id": "a2-10",
+   "find": "\"Los niños cantaban, los músicos tocaban y las luces se reflejaban en las caras de todos.\", \"The children sang, the musicians played, and the lights were reflected in everyone's faces.\"",
+   "replace": "\"Los niños cantaban y bailaban, los músicos tocaban sus tambores y las luces se reflejaban en las caras de todos.\", \"The children sang and danced, the musicians played their drums, and the lights were reflected in everyone's faces.\"",
+   "why": "line 20: recycle (bailar, tambor)"
+  },
+  {
+   "file": "stories",
+   "id": "a2-10",
+   "find": "\"grammar\": \"Preterite and imperfect woven together in a longer story (empezó, cayó, trabajaron / viajaba, hacían, cantaba); present perfect (he visto) and past perfect (había mojado, había aprendido); connectors mientras, porque, aunque (with indicative); object pronouns (le dijo, la ayudó, se lo contó); comparisons (más bonito que, el más grande); near future ir a; tú command (no llores); time and purpose phrases (por la mañana, para todos, para arreglarlo).\"",
+   "replace": "\"grammar\": \"Demonstratives (ese año, este pueblo, esta vez, aquella noche); comparisons and superlatives (más bonito que, el farol más grande de la historia, la mejor noche); present perfect (he visto) and past perfect (había mojado, había aprendido); preterite and imperfect woven together; connectors mientras, porque, aunque.\"",
+   "why": "concepts.grammar updated to the new topic map"
+  },
+  {
+   "file": "dialogues",
+   "id": "a2-08",
+   "find": "\"Le dijo: «Si hay niebla, camina despacio».\", \"He told him: \\\"If there's fog, walk slowly.\\\"\"",
+   "replace": "\"Le dijo: «Si hay niebla, hay que caminar despacio».\", \"He told him: \\\"If there's fog, you have to walk slowly.\\\"\"",
+   "why": "role-play reply quoted the old tú-command line 6 (topic dropped; line now uses hay que / debes)"
+  },
+  {
+   "file": "dialogues",
+   "id": "a2-08",
+   "find": "\"Le dijo: «Sigue el río».\", \"He told him: \\\"Follow the river.\\\"\"",
+   "replace": "\"Le dijo: «Debes seguir el río».\", \"He told him: \\\"You must follow the river.\\\"\"",
+   "why": "role-play reply quoted the old tú-command line 6 (topic dropped; line now uses hay que / debes)"
+  }
+ ],
+ "grammar_replace": {
+  "a2-06": [
+   {
+    "topic": "Tú commands with pronouns",
+    "explain": "The tú command is usually the he/she present form, stem change included: probar > prueba. Pronouns attach to the end of a positive command, and a written accent keeps the original stress: prueba + la = pruébala (try it); di + me + lo = dímelo (tell me). Watch out: don't split them ('prueba la') or put them first: la prueba means 'she tries it'.",
+    "examples": [
+     [
+      "Si necesitas ayuda, dímelo.",
+      "If you need help, tell me."
+     ],
+     [
+      "Es para ti. Pruébala.",
+      "It's for you. Try it."
+     ],
+     [
+      "Ayúdame con las cajas.",
+      "Help me with the boxes."
+     ]
+    ]
+   },
+   {
+    "topic": "Por vs para: por la tarde, para ti",
+    "explain": "Por and para can both mean 'for', but they do different jobs. Para points to a goal or to the person who gets something: es para ti = it's for you; para tu primera casa = for your first home. Por is used for parts of the day (por la mañana, por la tarde) and for movement through or past a place: subir por la escalera = to go up the stairs; pasó por la puerta = he went past the door. Watch out: a gift for someone is para ti, not 'por ti' (por ti = because of you).",
+    "examples": [
+     [
+      "Por la tarde, ella se sentó en el suelo y abrió la última caja.",
+      "In the afternoon, she sat down on the floor and opened the last box."
+     ],
+     [
+      "Mientras tanto, don Rafael pasó por la puerta abierta.",
+      "Meanwhile, don Rafael walked past the open door."
+     ],
+     [
+      "Es para ti.",
+      "It's for you."
+     ]
+    ]
+   },
+   {
+    "topic": "Simple future: dará, seré",
+    "explain": "The simple future says what will happen. Take the whole infinitive and add -é, -ás, -á, -emos, -án: estar > estaré (I will be), ser > seré, dar > dará (it will give). A pronoun goes before the verb: te dará = will give you. It is common in promises and predictions, like the grandmother's letter. For plans, everyday Spanish usually prefers ir a + infinitive: voy a comprar = I'm going to buy. Watch out: the accent is part of the ending: estaré, dará.",
+    "examples": [
+     [
+      "Esta lámpara te dará luz y alegría, y yo siempre estaré contigo",
+      "This lamp will give you light and joy, and I will always be with you"
+     ],
+     [
+      "Aquí seré feliz",
+      "I'll be happy here"
+     ],
+     [
+      "Voy a comprar una ahora mismo en la tienda de la esquina",
+      "I'm going to buy one right now at the corner shop"
+     ]
+    ]
+   }
+  ],
+  "a2-07": [
+   {
+    "topic": "Imperfect habit vs preterite event",
+    "explain": "Use the imperfect for routines and repeated actions (tocaba, llegaba, se sentaba), often with todas las tardes or siempre. Use the preterite for a single event that breaks the routine (empezó, se rompió, volvió), often with un jueves, de repente or diez minutos después. Watch out: English 'played' can be either; ask whether it was a habit or one occasion.",
+    "examples": [
+     [
+      "Todas las tardes, Rodrigo tocaba la guitarra en una plaza de San Telmo, en Buenos Aires.",
+      "Every afternoon, Rodrigo played the guitar in a square in San Telmo, in Buenos Aires."
+     ],
+     [
+      "Un jueves, Rodrigo empezó una canción y de repente se rompió una cuerda.",
+      "One Thursday, Rodrigo started a song and suddenly a string broke."
+     ],
+     [
+      "Pero diez minutos después, la niña volvió con un señor de pelo blanco.",
+      "But ten minutes later, the girl came back with a white-haired man."
+     ]
+    ]
+   },
+   {
+    "topic": "Indirect and double pronouns",
+    "explain": "Indirect pronouns say to/for whom: me contó = told me; le cambió la cuerda = changed the string for him. When le or les comes before lo/la/los/las, it becomes se: se la mostró = showed it (la guitarra) to him; never 'le la'. Pronouns can attach to an infinitive, indirect first: pagártelo = to pay you for it.",
+    "examples": [
+     [
+      "Ella me contó que tocas muy bien.",
+      "She told me you play very well."
+     ],
+     [
+      "Rodrigo se la mostró.",
+      "Rodrigo showed it to him."
+     ],
+     [
+      "Ernesto le cambió la cuerda en cinco minutos.",
+      "Ernesto changed the string for him in five minutes."
+     ],
+     [
+      "Quiero pagártelo.",
+      "I want to pay you for it."
+     ]
+    ]
+   },
+   {
+    "topic": "Comparatives: más ... que",
+    "explain": "Más + adjective + que = more ... than / -er than: más vieja que yo = older than me. After que, use subject pronouns (yo, tú), not mí or ti. Bueno has an irregular comparative, mejor (better); with a possessive or article it means 'best': su mejor alumna = his best student. Watch out: for quality say mejor, not 'más bueno'.",
+    "examples": [
+     [
+      "Es muy bonita, pero es más vieja que yo.",
+      "It's very pretty, but it's older than I am."
+     ],
+     [
+      "Es más bonita que la radio.",
+      "It's prettier than the radio."
+     ],
+     [
+      "Julieta es su mejor alumna.",
+      "Julieta is his best student."
+     ]
+    ]
+   }
+  ],
+  "a2-08": [
+   {
+    "topic": "Negative words: nadie, nada",
+    "explain": "Nadie means 'nobody' and nada means 'nothing'. If the negative word comes after the verb, Spanish also puts no before the verb, and this double negative is correct: no vieron a nadie = they didn't see anybody; no veo nada = I can't see anything. If nadie comes first, you don't need no: Nadie respondió = Nobody answered. Watch out: use a before nadie when it is the person you see, call or help: no vieron a nadie.",
+    "examples": [
+     [
+      "Cuando levantaron la cabeza, no vieron a nadie.",
+      "When they looked up, they didn't see anybody."
+     ],
+     [
+      "Nadie respondió.",
+      "Nobody answered."
+     ],
+     [
+      "No veo nada.",
+      "I can't see anything."
+     ]
+    ]
+   },
+   {
+    "topic": "Obligation: hay que, tener que, deber",
+    "explain": "Three ways to say what is necessary, all followed by an infinitive. Hay que is general and never changes: hay que caminar despacio = you (everybody) have to walk slowly. Tener que is for a specific person, and tener changes: tenemos que hacer = we have to do. Deber means 'must' or 'should', often for advice: debes seguir el río = you must follow the river. Watch out: tener que needs que, but deber does not: debes seguir, not 'debes que seguir'.",
+    "examples": [
+     [
+      "Si hay niebla, hay que caminar despacio.",
+      "If there is fog, you have to walk slowly."
+     ],
+     [
+      "Debes seguir el río",
+      "You must follow the river"
+     ],
+     [
+      "¿Qué tenemos que hacer?",
+      "What do we have to do?"
+     ]
+    ]
+   },
+   {
+    "topic": "Ustedes for \"you all\"",
+    "explain": "Ustedes is the plural 'you'. In Colombia and all of Latin America it is used for any group, friends or strangers; vosotros is only used in Spain. Ustedes takes the they-form of the verb: ustedes son = you are. The object pronoun for 'you all' is los (las for a group of women): los está buscando = he is looking for you; los busqué = I looked for you. Watch out: los can mean 'them' or 'you all'; the situation tells you which.",
+    "examples": [
+     [
+      "Ustedes son los turistas",
+      "You're the tourists"
+     ],
+     [
+      "Jairo los está buscando.",
+      "Jairo is looking for you."
+     ],
+     [
+      "Los busqué durante una hora.",
+      "I looked for you for an hour."
+     ]
+    ]
+   }
+  ],
+  "a2-09": [
+   {
+    "topic": "Present perfect: he/has/ha + participle",
+    "explain": "Form: he, has, ha, hemos, han + participle (-ar > -ado, -er/-ir > -ido); with usted it's ha: ¿ha trabajado? It links the past to now, especially life experience: nunca he llegado tarde = I've never been late. The participle never changes, and nothing goes between he and it. In Mexico and most of Latin America, for something that happened today people normally use the preterite: ¿Qué pasó? Watch out: 'I've been looking for 20 minutes' is llevo veinte minutos buscándola (present of llevar + gerund).",
+    "examples": [
+     [
+      "Nunca he llegado tarde a una entrevista.",
+      "I've never been late for an interview."
+     ],
+     [
+      "¿Ha trabajado antes con clientes?",
+      "Have you worked with clients before? (usted)"
+     ],
+     [
+      "He trabajado con tres tiendas pequeñas.",
+      "I have worked with three small shops."
+     ],
+     [
+      "Llevo veinte minutos buscándola.",
+      "I've been looking for it for twenty minutes."
+     ]
+    ]
+   },
+   {
+    "topic": "Reflexives: se despertó, se vistió",
+    "explain": "Reflexive verbs carry a pronoun that matches the subject: me desperté, te despertaste, se despertó. Many daily-routine verbs are reflexive: despertarse (to wake up), vestirse (to get dressed; e > i: se vistió), sentarse (to sit down). Ponerse + adjective means 'to become': no se puso nerviosa = she didn't get nervous. Watch out: without se the verb needs an object and means doing it to someone else: despertó a su hermana = she woke her sister up; vistió al niño = she dressed the child.",
+    "examples": [
+     [
+      "Daniela se despertó a las ocho y media, porque su alarma no sonó.",
+      "Daniela woke up at eight thirty because her alarm didn't go off."
+     ],
+     [
+      "Se vistió rápidamente, tomó su currículum y salió corriendo de casa.",
+      "She got dressed quickly, grabbed her résumé and ran out of the house."
+     ],
+     [
+      "La señora mayor entró en la sala y se sentó junto a la jefa.",
+      "The older woman came into the room and sat down next to the boss."
+     ]
+    ]
+   },
+   {
+    "topic": "Usted vs tú",
+    "explain": "Tú is informal; usted is formal and uses the he/she verb form: (usted) llega tarde = you're late, but (tú) llegas tarde. The interviewer, Mrs. Ortega, uses usted with Daniela the whole time (llega, tiene, ¿ha trabajado?, el puesto es suyo); Daniela is polite to the older woman too (la acompaño). The older woman and the man at the metro use tú (¿sabes?, no te vi), and so does the founder later (tú me ayudaste). Watch out: llega, tiene or suyo can mean 'he/she/his/her' or 'you/yours (usted)'; context decides.",
+    "examples": [
+     [
+      "—Llega tarde —dijo—, y tiene la camisa manchada.",
+      "\"You're late,\" she said, \"and your shirt is stained.\""
+     ],
+     [
+      "Hija, ¿sabes dónde está la oficina de diseño?",
+      "Dear, do you know where the design office is?"
+     ],
+     [
+      "Perdona, no te vi.",
+      "Sorry, I didn't see you."
+     ],
+     [
+      "El puesto es suyo.",
+      "The position is yours. (usted)"
+     ]
+    ]
+   }
+  ],
+  "a2-10": [
+   {
+    "topic": "Comparatives and superlatives",
+    "explain": "Más + adjective + que compares two things: más bonito que antes = prettier than before. The superlative is el/la + noun + más + adjective + de: el farol más grande de la historia = the biggest lantern in history. Watch out: English says 'in', Spanish says de: la fiesta más importante del pueblo = the most important festival in the village.",
+    "examples": [
+     [
+      "Era más bonito que antes.",
+      "It was prettier than before."
+     ],
+     [
+      "Es el farol más grande de la historia del pueblo.",
+      "It's the biggest lantern in the history of the village."
+     ],
+     [
+      "Hiciste una familia más grande.",
+      "You made a bigger family."
+     ]
+    ]
+   },
+   {
+    "topic": "Perfect tenses: he visto, había aprendido",
+    "explain": "Present perfect: he/has/ha + participle, for experience up to now: nunca he visto = I have never seen. Past perfect: había + participle, for something that happened before another past moment: había aprendido = she had learned. The participle never changes. Watch out: some participles are irregular: visto (ver), hecho (hacer), dicho (decir), puesto (poner).",
+    "examples": [
+     [
+      "Nunca he visto trabajar tan rápido a este pueblo.",
+      "I've never seen this village work so fast."
+     ],
+     [
+      "Había aprendido que un pueblo unido puede hacer cosas increíbles.",
+      "She had learned that a united village can do incredible things."
+     ],
+     [
+      "El agua había mojado el papel y una pata del toro estaba en el suelo.",
+      "The water had soaked the paper and one of the bull's legs was on the floor."
+     ]
+    ]
+   },
+   {
+    "topic": "Demonstratives: este, ese, aquel",
+    "explain": "Demonstratives point to things and times. Este/esta = this: near the speaker, or now (este pueblo, esta vez). Ese/esa = that: a bit further away, or a time already mentioned (ese año). Aquel/aquella = that: far away, often a moment in the distant past (aquella noche). They agree with the noun: este pueblo, esta vez, aquel día, aquella noche. Watch out: esta (this) has no accent; está (is) does.",
+    "examples": [
+     [
+      "Ese año tenía una misión especial.",
+      "That year she had a special mission."
+     ],
+     [
+      "Aunque llovió la noche anterior, aquella fue la mejor noche de su vida.",
+      "Although it rained the night before, that was the best night of her life."
+     ],
+     [
+      "Y esta vez no lloró de tristeza.",
+      "And this time she didn't cry from sadness."
+     ]
+    ]
+   }
+  ]
+ },
+ "gq_replace": {
+  "a2-06": [
+   {
+    "topic": "Tú commands with pronouns",
+    "q": "How do you say 'Try it' (la bombilla) as a tú command?",
+    "options": [
+     "Pruebala.",
+     "Prueba la.",
+     "Pruébala.",
+     "La prueba."
+    ],
+    "answer": 2,
+    "why": "An affirmative command attaches the pronoun to the end, and a written accent keeps the stress on prue-: pruébala. La prueba means 'she tries it' (or 'the test')."
+   },
+   {
+    "topic": "Por vs para: por la tarde, para ti",
+    "q": "Don Rafael gives Camila a bulb. Fill in the blank: Es ___ ti.",
+    "options": [
+     "por",
+     "para",
+     "de",
+     "en"
+    ],
+    "answer": 1,
+    "why": "Para marks the person who receives something: es para ti = it's for you. Por ti would mean 'because of you'."
+   },
+   {
+    "topic": "Por vs para: por la tarde, para ti",
+    "q": "Which phrase means 'in the afternoon'?",
+    "options": [
+     "para la tarde",
+     "por la tarde",
+     "en tarde",
+     "con la tarde"
+    ],
+    "answer": 1,
+    "why": "Parts of the day take por: por la mañana, por la tarde, por la noche."
+   },
+   {
+    "topic": "Simple future: dará, seré",
+    "q": "What does 'Esta lámpara te dará luz' mean?",
+    "options": [
+     "This lamp gave you light.",
+     "This lamp will give you light.",
+     "This lamp is giving you light.",
+     "This lamp gives you no light."
+    ],
+    "answer": 1,
+    "why": "Dará is the simple future of dar (dar + á): it will give. Te comes before the verb."
+   },
+   {
+    "topic": "Tú commands with pronouns",
+    "q": "What does 'dímelo' mean?",
+    "options": [
+     "I told him.",
+     "Tell me (it).",
+     "Give it to me.",
+     "Tell him."
+    ],
+    "answer": 1,
+    "why": "Di is the irregular tú command of decir; me (to me) and lo (it) attach to the end, indirect first: dímelo. 'Give it to me' would be dámelo.",
+    "x": true
+   },
+   {
+    "topic": "Por vs para: por la tarde, para ti",
+    "q": "In 'Vamos a subir todo por la escalera', what does por show?",
+    "options": [
+     "the person who gets something",
+     "the way they move: up the stairs",
+     "a goal or purpose",
+     "the price of something"
+    ],
+    "answer": 1,
+    "why": "Por is used for movement through or along a place: por la escalera = up/by the stairs.",
+    "x": true
+   },
+   {
+    "topic": "Simple future: dará, seré",
+    "q": "Fill in the blank (I will be): Aquí ___ feliz.",
+    "options": [
+     "soy",
+     "seré",
+     "era",
+     "seró"
+    ],
+    "answer": 1,
+    "why": "The future adds -é to the whole infinitive: ser > seré. Soy is present and era is imperfect.",
+    "x": true
+   },
+   {
+    "topic": "Simple future: dará, seré",
+    "q": "Which sentence is a plan with ir a + infinitive, not the simple future?",
+    "options": [
+     "Esta lámpara te dará luz.",
+     "Yo siempre estaré contigo.",
+     "Voy a comprar una ahora mismo.",
+     "Aquí seré feliz."
+    ],
+    "answer": 2,
+    "why": "Voy a comprar is ir a + infinitive, the usual way to talk about a plan. Dará, estaré and seré are simple future forms.",
+    "x": true
+   }
+  ],
+  "a2-07": [
+   {
+    "topic": "Imperfect habit vs preterite event",
+    "q": "Fill in the blank: Todas las tardes Rodrigo tocaba la guitarra, pero un jueves se ___ una cuerda.",
+    "options": [
+     "rompía",
+     "rompió",
+     "rompiendo",
+     "rompe"
+    ],
+    "answer": 1,
+    "why": "The routine is imperfect (tocaba), and the one-time event on a Thursday is preterite: se rompió."
+   },
+   {
+    "topic": "Indirect and double pronouns",
+    "q": "Rodrigo showed the guitar to Ernesto. Which is correct, replacing 'la guitarra' with a pronoun?",
+    "options": [
+     "Rodrigo le la mostró.",
+     "Rodrigo la se mostró.",
+     "Rodrigo se la mostró.",
+     "Rodrigo se lo mostró."
+    ],
+    "answer": 2,
+    "why": "Le becomes se before lo/la, the indirect pronoun comes first, and la is feminine to match la guitarra."
+   },
+   {
+    "topic": "Comparatives: más ... que",
+    "q": "Fill in the blank: Es muy bonita, pero es más vieja que ___.",
+    "options": [
+     "mí",
+     "yo",
+     "me",
+     "conmigo"
+    ],
+    "answer": 1,
+    "why": "After que in a comparison, use the subject pronoun: más vieja que yo (older than me / than I am). Mí is only used after prepositions such as para (para mí)."
+   },
+   {
+    "topic": "Indirect and double pronouns",
+    "q": "Rodrigo says to Ernesto: 'Quiero pagártelo.' What do te and lo mean?",
+    "options": [
+     "te = Ernesto (to you), lo = it (the new string)",
+     "te = Rodrigo himself, lo = Ernesto",
+     "te = the shop, lo = the money",
+     "te = Julieta, lo = the guitar"
+    ],
+    "answer": 0,
+    "why": "Pronouns can attach to an infinitive, indirect first: pagar + te (to you, Ernesto) + lo (it, the string): I want to pay you for it."
+   },
+   {
+    "topic": "Imperfect habit vs preterite event",
+    "q": "Which time phrase goes with the imperfect in this story?",
+    "options": [
+     "Un jueves",
+     "Todas las tardes",
+     "De repente",
+     "Diez minutos después"
+    ],
+    "answer": 1,
+    "why": "Todas las tardes describes a routine, so it goes with the imperfect (tocaba). The others point to one moment and go with the preterite.",
+    "x": true
+   },
+   {
+    "topic": "Indirect and double pronouns",
+    "q": "In 'Ernesto le cambió la cuerda', who or what is le?",
+    "options": [
+     "the string",
+     "Ernesto himself",
+     "Rodrigo: Ernesto changed the string for him",
+     "the music shop"
+    ],
+    "answer": 2,
+    "why": "Le is an indirect pronoun: the person who benefits (for him = Rodrigo). The string is the direct object, la cuerda.",
+    "x": true
+   },
+   {
+    "topic": "Comparatives: más ... que",
+    "q": "Which sentence correctly says 'Julieta is his best student'?",
+    "options": [
+     "Julieta es su mejor alumna.",
+     "Julieta es su más buena alumna.",
+     "Julieta es su alumna más mejor.",
+     "Julieta es mejor alumna que él."
+    ],
+    "answer": 0,
+    "why": "Bueno has the irregular form mejor; with a possessive it means 'best': su mejor alumna. 'Más buena' and 'más mejor' are wrong here.",
+    "x": true
+   },
+   {
+    "topic": "Imperfect habit vs preterite event",
+    "q": "Fill in the blank: Julieta nunca hablaba, pero siempre ___ un poquito.",
+    "options": [
+     "bailó",
+     "bailaba",
+     "baila",
+     "bailará"
+    ],
+    "answer": 1,
+    "why": "Siempre and the habit in the sentence (nunca hablaba) call for the imperfect: bailaba.",
+    "x": true
+   }
+  ],
+  "a2-08": [
+   {
+    "topic": "Negative words: nadie, nada",
+    "q": "How do you say 'They didn't see anybody'?",
+    "options": [
+     "Vieron a nadie.",
+     "No vieron a nadie.",
+     "No vieron nadie a.",
+     "Nadie no vieron."
+    ],
+    "answer": 1,
+    "why": "When nadie comes after the verb, no goes before the verb: no vieron a nadie. The a is needed because nadie is a person they see."
+   },
+   {
+    "topic": "Obligation: hay que, tener que, deber",
+    "q": "What does 'Si hay niebla, hay que caminar despacio' mean?",
+    "options": [
+     "If there is fog, there is a slow path.",
+     "If there is fog, you have to walk slowly.",
+     "If there is fog, he walked slowly.",
+     "If there is fog, you can't walk."
+    ],
+    "answer": 1,
+    "why": "Hay que + infinitive is a general obligation: one has to / you have to walk slowly."
+   },
+   {
+    "topic": "Ustedes for \"you all\"",
+    "q": "The woman says to Valeria and Andrés: '___ son los turistas.' Which word fits?",
+    "options": [
+     "Usted",
+     "Tú",
+     "Ustedes",
+     "Vosotros"
+    ],
+    "answer": 2,
+    "why": "Two people, so plural 'you'. In Colombia that is ustedes, with the they-form son. Vosotros (sois) is only used in Spain."
+   },
+   {
+    "topic": "Obligation: hay que, tener que, deber",
+    "q": "Fill in the blank (we): ¿Qué ___ que hacer?",
+    "options": [
+     "hay",
+     "tenemos",
+     "debemos",
+     "tienen"
+    ],
+    "answer": 1,
+    "why": "Tener que is for a specific person and changes: nosotros tenemos que. Deber does not take que, and hay que does not take a person."
+   },
+   {
+    "topic": "Negative words: nadie, nada",
+    "q": "Fill in the blank: Andrés dice: «No veo ___».",
+    "options": [
+     "nadie",
+     "nada",
+     "algo",
+     "alguien"
+    ],
+    "answer": 1,
+    "why": "Nada = nothing (things); nadie = nobody (people). With no before the verb, Spanish uses nada, not algo.",
+    "x": true
+   },
+   {
+    "topic": "Negative words: nadie, nada",
+    "q": "Why is there no 'no' in 'Nadie respondió'?",
+    "options": [
+     "Because nadie comes before the verb.",
+     "Because responder is never negative.",
+     "Because it is in the preterite.",
+     "It's a mistake; it should be 'Nadie no respondió'."
+    ],
+    "answer": 0,
+    "why": "When the negative word starts the sentence, it is enough on its own: Nadie respondió. After the verb you need no: No respondió nadie.",
+    "x": true
+   },
+   {
+    "topic": "Ustedes for \"you all\"",
+    "q": "In 'Jairo los está buscando', who are los?",
+    "options": [
+     "the mountains",
+     "Valeria and Andrés: 'you all'",
+     "Jairo himself",
+     "the woman's family"
+    ],
+    "answer": 1,
+    "why": "The woman is talking to Valeria and Andrés, so los means 'you all': Jairo is looking for you.",
+    "x": true
+   },
+   {
+    "topic": "Obligation: hay que, tener que, deber",
+    "q": "Which sentence correctly says 'You must follow the river' to one friend?",
+    "options": [
+     "Debes seguir el río.",
+     "Debes que seguir el río.",
+     "Hay que sigues el río.",
+     "Debe a seguir el río."
+    ],
+    "answer": 0,
+    "why": "Deber + infinitive, with no que and no a: debes seguir. Hay que is followed by an infinitive, not a conjugated verb.",
+    "x": true
+   }
+  ],
+  "a2-09": [
+   {
+    "topic": "Present perfect: he/has/ha + participle",
+    "q": "How do you say 'I have never been late'?",
+    "options": [
+     "Nunca he llegando tarde.",
+     "Nunca he llegado tarde.",
+     "Nunca llegué tarde he.",
+     "Nunca soy llegado tarde."
+    ],
+    "answer": 1,
+    "why": "Present perfect = he + participle (-ado for -ar verbs): he llegado. Nunca goes before he, and nothing goes between he and the participle. Llegando is the gerund."
+   },
+   {
+    "topic": "Reflexives: se despertó, se vistió",
+    "q": "What does 'Se vistió rápidamente' mean?",
+    "options": [
+     "She dressed someone else quickly.",
+     "She got dressed quickly.",
+     "She saw herself quickly.",
+     "She is going to get dressed quickly."
+    ],
+    "answer": 1,
+    "why": "Vestirse (reflexive) means to get dressed: the se refers back to Daniela. Dressing someone else would be vistió a alguien, se vio would be 'saw herself', and se vistió is preterite, not future."
+   },
+   {
+    "topic": "Usted vs tú",
+    "q": "Mrs. Ortega says to Daniela in the interview: 'Llega tarde.' What does the verb form show?",
+    "options": [
+     "It is a command to arrive.",
+     "Tú is used (informal); llega is the tú form.",
+     "She is talking about herself.",
+     "Usted is used (formal), with the he/she verb form."
+    ],
+    "answer": 3,
+    "why": "Formal usted takes the he/she verb form (llega, tiene). With tú it would be llegas, tienes. Mrs. Ortega uses usted with Daniela throughout the interview."
+   },
+   {
+    "topic": "Usted vs tú",
+    "q": "Mrs. Ortega tells Daniela: 'El puesto es suyo.' What does suyo mean here?",
+    "options": [
+     "his",
+     "yours (usted)",
+     "mine",
+     "ours"
+    ],
+    "answer": 1,
+    "why": "With usted, the possessive is suyo/suya: el puesto es suyo = the job is yours. Context shows she is talking to Daniela."
+   },
+   {
+    "topic": "Present perfect: he/has/ha + participle",
+    "q": "Fill in the blank: Mrs. Ortega asks Daniela (usted): ¿Ha ___ antes con clientes?",
+    "options": [
+     "trabajando",
+     "trabajada",
+     "trabajo",
+     "trabajado"
+    ],
+    "answer": 3,
+    "why": "Present perfect = haber + participle (-ado/-ido); with usted, haber is ha. The participle doesn't change for gender (not trabajada), trabajando is the gerund, and trabajo is the present.",
+    "x": true
+   },
+   {
+    "topic": "Reflexives: se despertó, se vistió",
+    "q": "What is the difference between 'Daniela se despertó' and 'Daniela despertó a su hermana'?",
+    "options": [
+     "Both mean that Daniela woke up.",
+     "The first: she woke up; the second: she woke her sister up.",
+     "The first: she woke her sister up; the second: she woke up.",
+     "The first is present, the second is past."
+    ],
+    "answer": 1,
+    "why": "With se the action falls back on the subject: se despertó = she woke up. Without se the verb takes an object: despertó a su hermana = she woke her sister up. Both are preterite.",
+    "x": true
+   },
+   {
+    "topic": "Usted vs tú",
+    "q": "The older woman asks with tú: '¿Sabes dónde está la oficina?' How would she ask with usted?",
+    "options": [
+     "¿Sabes usted dónde está la oficina?",
+     "¿Saben tú dónde está la oficina?",
+     "¿Sabéis dónde está la oficina?",
+     "¿Sabe usted dónde está la oficina?"
+    ],
+    "answer": 3,
+    "why": "Usted uses the he/she form: (usted) sabe. Sabes is the tú form, and sabéis is vosotros (plural, Spain).",
+    "x": true
+   },
+   {
+    "topic": "Reflexives: se despertó, se vistió",
+    "q": "Fill in the blank: La señora mayor entró en la sala y ___ junto a la jefa.",
+    "options": [
+     "sentó",
+     "se sentó",
+     "sentarse",
+     "se sienta a"
+    ],
+    "answer": 1,
+    "why": "Sentarse (to sit down) is reflexive, and the story tells finished events in the preterite: se sentó.",
+    "x": true
+   }
+  ],
+  "a2-10": [
+   {
+    "topic": "Comparatives and superlatives",
+    "q": "Which sentence means 'It's the biggest lantern in the village'?",
+    "options": [
+     "Es el farol más grande del pueblo.",
+     "Es farol el más grande en pueblo.",
+     "Es el farol más grande que el pueblo.",
+     "Es el farol grande más del pueblo."
+    ],
+    "answer": 0,
+    "why": "The superlative is el + noun + más + adjective + de (del = de + el), where English uses 'in'."
+   },
+   {
+    "topic": "Perfect tenses: he visto, había aprendido",
+    "q": "Fill in the blank: Cuando Dolores llegó al granero, la lluvia ya ___ el papel.",
+    "options": [
+     "ha mojado",
+     "había mojado",
+     "moja",
+     "había mojar"
+    ],
+    "answer": 1,
+    "why": "The rain soaked the paper before another past moment (when Dolores arrived), so use the past perfect: había + participle. Ha mojado connects to now, not to a past moment."
+   },
+   {
+    "topic": "Demonstratives: este, ese, aquel",
+    "q": "Fill in the blank (that year): ___ año, Dolores tenía una misión especial.",
+    "options": [
+     "Esa",
+     "Ese",
+     "Esto",
+     "Esta"
+    ],
+    "answer": 1,
+    "why": "Año is masculine, so 'that' is ese. Esa and esta are feminine, and esto is neuter (not used before a noun)."
+   },
+   {
+    "topic": "Demonstratives: este, ese, aquel",
+    "q": "Why does the story say 'aquella fue la mejor noche de su vida'?",
+    "options": [
+     "Aquella points to a night far back in time.",
+     "Aquella is for things close to the speaker.",
+     "Aquella means 'this'.",
+     "Aquella is a verb meaning 'was'."
+    ],
+    "answer": 0,
+    "why": "Aquel/aquella = that (far away), often for a moment in the distant past. Este/esta is for near things or now."
+   },
+   {
+    "topic": "Comparatives and superlatives",
+    "q": "Fill in the blanks: Después de la lluvia, el toro era ___ bonito ___ antes.",
+    "options": [
+     "tan / que",
+     "más / de",
+     "más / que",
+     "muy / que"
+    ],
+    "answer": 2,
+    "why": "To compare two things: más + adjective + que. Más de is used before numbers (más de cien personas), and tan pairs with como.",
+    "x": true
+   },
+   {
+    "topic": "Perfect tenses: he visto, había aprendido",
+    "q": "Which sentence is correct?",
+    "options": [
+     "Nunca he veído trabajar tan rápido a este pueblo.",
+     "Nunca he visto trabajar tan rápido a este pueblo.",
+     "Nunca visto he trabajar tan rápido a este pueblo.",
+     "Nunca he vista trabajar tan rápido a este pueblo."
+    ],
+    "answer": 1,
+    "why": "Ver has an irregular participle, visto, which never changes for gender; he and the participle always stay together.",
+    "x": true
+   },
+   {
+    "topic": "Demonstratives: este, ese, aquel",
+    "q": "Which phrase is correct?",
+    "options": [
+     "este pueblo",
+     "esta pueblo",
+     "ese vez",
+     "aquel noche"
+    ],
+    "answer": 0,
+    "why": "Demonstratives agree with the noun: este pueblo (m.), esta vez (f.), aquella noche (f.).",
+    "x": true
+   },
+   {
+    "topic": "Comparatives and superlatives",
+    "q": "Fill in the blank: Es la fiesta más importante ___ pueblo.",
+    "options": [
+     "en el",
+     "del",
+     "que el",
+     "de la"
+    ],
+    "answer": 1,
+    "why": "In superlatives Spanish uses de where English says 'in': la fiesta más importante del pueblo.",
+    "x": true
+   }
+  ]
+ },
+ "categories_add": {
+  "Por vs para: por la tarde, para ti": "Por & para",
+  "Simple future: dará, seré": "Verb phrases & near future",
+  "Negative words: nadie, nada": "Questions & negation",
+  "Obligation: hay que, tener que, deber": "Verb phrases & near future",
+  "Ustedes for \"you all\"": "Commands & formality",
+  "Demonstratives: este, ese, aquel": "Present tense & basics"
+ },
+ "dict_add": {
+  "dará": [
+   [
+    "dar",
+    "verb",
+    "to give"
+   ]
+  ],
+  "estaré": [
+   [
+    "estar",
+    "verb",
+    "to be"
+   ]
+  ],
+  "ensalada": [
+   [
+    "la ensalada",
+    "noun",
+    "salad"
+   ]
+  ],
+  "seria": [
+   [
+    "serio",
+    "adj",
+    "serious"
+   ]
+  ],
+  "bajaron": [
+   [
+    "bajar",
+    "verb",
+    "to go down"
+   ]
+  ],
+  "bailaban": [
+   [
+    "bailar",
+    "verb",
+    "to dance"
+   ]
+  ]
+ },
+ "notes": "G4 (a2-06..a2-10). Grammar cards follow map2 topic order; kept cards copied unchanged; new cards: a2-06 por/para + simple future, a2-08 all three (negatives, obligation, ustedes), a2-10 demonstratives. map2 edits applied: a2-06 L13+L23, a2-08 L6+L14, a2-10 L23 (EN lines replaced with map2 suggest_en). Story patches replace whole [es,en] line pairs (find = json-escaped pair) so every edited line also gets an updated English translation; concepts.grammar rewritten for a2-06/a2-08/a2-10 (old text named dropped topics or forms no longer in the text, e.g. 'camina, sigue', 'se lo contó'). Dialogue patch a2-08: two role-play replies quoted the old tú-command line 6; now quote the hay que / debes version. The a2-08 'dialogues' patches target the a2-08 object, identical in dialogues-a2.json and all-dialogues.json, so apply to both. Quizzes keep the existing 4-option shape (all 80 A2 questions have 4 options); 4 core + 4 x:true each, every topic has >=1 core. Recycled words are NOT wrapped in <b> (convention: <b> marks only the story's own vocab list; recycled words from earlier stories appear plain, as e.g. flan's 2nd mention in a1-01), so <b> counts unchanged. a2-07 L19 keeps the <b> on aplaudir but the inflection changes aplaudieron -> aplaudió. No scene changes needed; a2-09 'señora mayor con lentes' matches the scene (acc: glasses). Pre-existing non-verbatim examples in kept cards (case/trailing punctuation only, lines untouched): a2-07 'Es muy bonita, pero es más vieja que yo.'; a2-09 'He trabajado...', 'La señora mayor entró...', 'Perdona, no te vi.'; a2-10 'Era más bonito que antes.', 'Es el farol más grande...', 'Nunca he visto...'. All new examples are exact substrings of the tag-free text. a2-07 vocab still lists 'ven (vos: vení)' as a word gloss; the tú-commands card is dropped but the word gloss stays (the line is protected)."
+}

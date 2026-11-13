@@ -1,0 +1,1094 @@
+[
+ {
+  "id": "b2-01",
+  "field": "lines.es",
+  "index": 4,
+  "old": "la joven becaria",
+  "new": "la joven practicante",
+  "reason": "Chilean setting: \"becaria\" is peninsular; Chile says \"practicante\""
+ },
+ {
+  "id": "b2-01",
+  "field": "lines.es",
+  "index": 4,
+  "old": "Me las <b>apañaría</b> bien.",
+  "new": "Me las <b>arreglaría</b> bien.",
+  "reason": "\"Apañárselas\" is peninsular colloquial, odd from a young Chilean; \"arreglárselas\" is pan-Hispanic"
+ },
+ {
+  "id": "b2-01",
+  "field": "vocab",
+  "index": 10,
+  "old": [
+   "apañárselas",
+   "to manage, get by"
+  ],
+  "new": [
+   "arreglárselas",
+   "to manage, get by"
+  ],
+  "reason": "Matches line 4 change"
+ },
+ {
+  "id": "b2-01",
+  "field": "lines.es",
+  "index": 5,
+  "old": "en un piso cerca del mar",
+  "new": "en un departamento cerca del mar",
+  "reason": "Chile: \"departamento\", not peninsular \"piso\""
+ },
+ {
+  "id": "b2-01",
+  "field": "lines.en",
+  "index": 7,
+  "old": "Even if he is no longer here",
+  "new": "Even though he is no longer here",
+  "reason": "Elvira knows Tomás is gone: aunque + subjunctive concedes a known fact (\"even though\"), as already corrected in grammar/b2.json"
+ },
+ {
+  "id": "b2-01",
+  "field": "quiz",
+  "index": 0,
+  "old": {
+   "q": "¿Dónde encuentra Ignacio el sobre?",
+   "options": [
+    "Dentro de un cajón cerrado con llave",
+    "Entre las páginas de un periódico de 1955",
+    "Escondido en la tapa de un libro de contabilidad",
+    "En una caja de pasajeros del puerto"
+   ],
+   "answer": 2
+  },
+  "new": {
+   "q": "Ignacio escribe en la ficha: «Documento restituido a su legítima destinataria». ¿Qué significa «restituido» aquí?",
+   "options": [
+    "Devuelto a la persona a quien iba dirigido",
+    "Restaurado por un especialista en papel antiguo",
+    "Destruido según el reglamento",
+    "Enviado de nuevo a Punta Arenas"
+   ],
+   "answer": 0
+  },
+  "reason": "Replaced an easy detail question with a vocab-in-context item (quiz had none); \"restaurado\" is a deliberate false-friend distractor"
+ },
+ {
+  "id": "b2-01",
+  "field": "prompt",
+  "old": "Imagine you found an old letter that was never delivered. Would you try to track down the recipient? In Spanish, explain what you would do and why, using at least two sentences with 'si + imperfect subjunctive'.",
+  "new": "Imagine you found an old letter that was never delivered. Would you try to track down the recipient? In Spanish, explain what you would do and why, using at least two sentences with 'si + imperfect subjunctive'. Start like this: «Si yo encontrara una carta así, lo primero que haría sería…»",
+  "reason": "Added a model starter sentence (prompt had none)"
+ },
+ {
+  "id": "b2-02",
+  "field": "lines.es",
+  "index": 3,
+  "old": "mientras <b>fregaba</b> los platos sola",
+  "new": "mientras <b>tallaba</b> las ollas sola",
+  "reason": "In Mexico \"fregar\" colloquially means \"to annoy/ruin\"; \"tallar\" is the Mexican verb for scrubbing pots"
+ },
+ {
+  "id": "b2-02",
+  "field": "lines.en",
+  "index": 3,
+  "old": "while she washed the dishes alone",
+  "new": "while she scrubbed the pots alone",
+  "reason": "Matches Spanish change"
+ },
+ {
+  "id": "b2-02",
+  "field": "vocab",
+  "index": 10,
+  "old": [
+   "fregar",
+   "to wash (dishes), scrub"
+  ],
+  "new": [
+   "tallar",
+   "to scrub (Mexico; Spain: fregar)"
+  ],
+  "reason": "Matches line 3 change; regionalism glossed"
+ },
+ {
+  "id": "b2-02",
+  "field": "lines.es",
+  "index": 8,
+  "old": "—Esto ha estado a la altura de tu abuela",
+  "new": "—Esto estuvo a la altura de tu abuela",
+  "reason": "Mexican Spanish uses the preterite for a just-finished event; present perfect sounds peninsular"
+ },
+ {
+  "id": "b2-02",
+  "field": "vocab",
+  "index": 8,
+  "old": [
+   "postrado",
+   "laid up, bedridden"
+  ],
+  "new": [
+   "postrado",
+   "laid up, confined (by illness or injury)"
+  ],
+  "reason": "He is in an armchair, not in bed (aligns with grammar-quiz/review/b2-vocab-fixes.json)"
+ },
+ {
+  "id": "b2-02",
+  "field": "vocab",
+  "index": 4,
+  "old": [
+   "el fogón",
+   "stove, cooking range"
+  ],
+  "new": [
+   "el fogón",
+   "stove, hearth (traditional cooking fire)"
+  ],
+  "reason": "Aligns with b2-vocab-fixes.json"
+ },
+ {
+  "id": "b2-02",
+  "field": "quiz",
+  "index": 4,
+  "old": {
+   "q": "¿Qué significa la frase de Camila «sería nostalgia, no cocina»?",
+   "options": [
+    "Que la cocina antigua es mala",
+    "Que sin evolución, la tradición se queda en simple añoranza",
+    "Que su padre no sabe cocinar",
+    "Que quiere cerrar el pib del patio"
+   ],
+   "answer": 1
+  },
+  "new": {
+   "q": "¿Qué significa la frase de Camila «Si no cambiara nada, no sería cocina, sería nostalgia»?",
+   "options": [
+    "Que la cocina antigua es mala",
+    "Que sin evolución, la tradición se queda en simple añoranza",
+    "Que su padre no sabe cocinar",
+    "Que quiere cerrar el pib del patio"
+   ],
+   "answer": 1
+  },
+  "reason": "Question misquoted the line (\"sería nostalgia, no cocina\"); now quotes it exactly"
+ },
+ {
+  "id": "b2-02",
+  "field": "prompt",
+  "old": "Think about a dish, tradition or place from your own family that you would never want to change. In Spanish, explain why it matters to you and whether a small modernization could ever improve it. Include 'si + imperfect subjunctive'.",
+  "new": "Think about a dish, tradition or place from your own family that you would never want to change. In Spanish, explain why it matters to you and whether a small modernization could ever improve it. Include 'si + imperfect subjunctive'. Start like this: «En mi familia siempre hemos… Si alguien quisiera cambiarlo, yo…»",
+  "reason": "Added a model starter sentence (prompt had none)"
+ },
+ {
+  "id": "b2-03",
+  "field": "lines.es",
+  "index": 0,
+  "old": "en la loma de los Cuervos",
+  "new": "en <b>la loma</b> de los Cuervos",
+  "reason": "\"la loma\" is in the vocab list but was not bolded"
+ },
+ {
+  "id": "b2-03",
+  "field": "lines.es",
+  "index": 3,
+  "old": "la panadería que bajó la persiana",
+  "new": "la carnicería que bajó la persiana",
+  "reason": "Continuity: Sergio is \"el hijo del panadero\" (line 2), so the bakery cannot have closed"
+ },
+ {
+  "id": "b2-03",
+  "field": "lines.en",
+  "index": 3,
+  "old": "the bakery that had pulled down its shutter",
+  "new": "the butcher’s shop that had pulled down its shutter",
+  "reason": "Matches Spanish change"
+ },
+ {
+  "id": "b2-03",
+  "field": "lines.es",
+  "index": 9,
+  "old": "su derecho a discrepar",
+  "new": "su derecho a <b>discrepar</b>",
+  "reason": "\"discrepar\" is in the vocab list but was not bolded"
+ },
+ {
+  "id": "b2-03",
+  "field": "prompt",
+  "old": "Imagine a large project (a wind farm, a factory, a highway) is proposed near your home. In Spanish, explain whether you would support it and under what conditions, using 'si + imperfect subjunctive' at least twice.",
+  "new": "Imagine a large project (a wind farm, a factory, a highway) is proposed near your home. In Spanish, explain whether you would support it and under what conditions, using 'si + imperfect subjunctive' at least twice. Start like this: «Si construyeran un parque eólico cerca de mi casa, yo lo apoyaría solo si…»",
+  "reason": "Added a model starter sentence (prompt had none)"
+ },
+ {
+  "id": "b2-04",
+  "field": "lines.es",
+  "index": 0,
+  "old": "esperaba entregar la traducción antes de la feria del libro",
+  "new": "esperaba publicar la traducción antes de la feria del libro",
+  "reason": "The publisher does not \"deliver\" the translation (the translator does); it publishes it"
+ },
+ {
+  "id": "b2-04",
+  "field": "lines.en",
+  "index": 0,
+  "old": "hoped to deliver the translation before the book fair",
+  "new": "hoped to publish the translation before the book fair",
+  "reason": "Matches Spanish change"
+ },
+ {
+  "id": "b2-04",
+  "field": "lines.es",
+  "index": 2,
+  "old": "en el capítulo undécimo, <b>se topó con</b> una frase",
+  "new": "en el capítulo undécimo, Daniela <b>se topó con</b> una frase",
+  "reason": "Grammatical subject of \"se topó\" was \"aquel libro\" (the book bumped into a sentence); subject made explicit"
+ },
+ {
+  "id": "b2-04",
+  "field": "quiz",
+  "index": 1,
+  "old": {
+   "q": "¿Por qué Ramiro prefiere suavizar la frase?",
+   "options": [
+    "Porque no entiende el inglés",
+    "Porque la embajada apoya la edición y teme un conflicto",
+    "Porque el autor se lo ha pedido",
+    "Porque el libro saldría demasiado largo"
+   ],
+   "answer": 1
+  },
+  "new": {
+   "q": "Algunos críticos «tacharon» la nota «de innecesaria». ¿Qué hicieron?",
+   "options": [
+    "La borraron de la segunda edición",
+    "La calificaron de innecesaria",
+    "La elogiaron por su brevedad",
+    "La tradujeron al inglés"
+   ],
+   "answer": 1
+  },
+  "reason": "Replaced a plain detail question with a vocab-in-context item (quiz had none); \"borrar\" distractor targets the other meaning of tachar"
+ },
+ {
+  "id": "b2-04",
+  "field": "prompt",
+  "old": "Have you ever had to choose between being completely honest and protecting someone's feelings or reputation? In Spanish, describe the situation (real or imagined) and say what you would do, using 'ojalá', 'como si' or 'si hubiera...'.",
+  "new": "Have you ever had to choose between being completely honest and protecting someone's feelings or reputation? In Spanish, describe the situation (real or imagined) and say what you would do, using 'ojalá', 'como si' or 'si hubiera...'. Start like this: «Una vez tuve que decidir si… Si hubiera dicho toda la verdad, …»",
+  "reason": "Added a model starter sentence (prompt had none)"
+ },
+ {
+  "id": "b2-05",
+  "field": "lines.es",
+  "index": 0,
+  "old": "en la cocina de la cuarta planta",
+  "new": "en la cocina del cuarto piso",
+  "reason": "Peru: \"piso\" for building floors; \"planta\" is peninsular"
+ },
+ {
+  "id": "b2-05",
+  "field": "lines.es",
+  "index": 0,
+  "old": "regresó a su despacho",
+  "new": "regresó a su oficina",
+  "reason": "Peru: \"oficina\" is the normal word; \"despacho\" sounds peninsular"
+ },
+ {
+  "id": "b2-05",
+  "field": "lines.es",
+  "index": 3,
+  "old": "Tarde comprendió que",
+  "new": "Comprendió demasiado tarde que",
+  "reason": "Fronted \"Tarde comprendió\" is unnatural; matches the English \"too late\""
+ },
+ {
+  "id": "b2-05",
+  "field": "lines.es",
+  "index": 3,
+  "old": "sin levantar la vista del ordenador",
+  "new": "sin levantar la vista de la computadora",
+  "reason": "Peru: \"computadora\", not peninsular \"ordenador\""
+ },
+ {
+  "id": "b2-05",
+  "field": "lines.es",
+  "index": 7,
+  "old": "se concedería una <b>prima</b> extraordinaria",
+  "new": "se concedería un <b>bono</b> extraordinario",
+  "reason": "Peru: a work bonus is \"bono\"; \"prima\" is peninsular (in Latin America it suggests an insurance premium or a cousin)"
+ },
+ {
+  "id": "b2-05",
+  "field": "lines.es",
+  "index": 8,
+  "old": "se resolvieran con una prima",
+  "new": "se resolvieran con un bono",
+  "reason": "Consistency with line 7 change"
+ },
+ {
+  "id": "b2-05",
+  "field": "vocab",
+  "index": 14,
+  "old": [
+   "la prima",
+   "bonus"
+  ],
+  "new": [
+   "el bono",
+   "bonus (Lat. Am.; Spain: la prima)"
+  ],
+  "reason": "Matches line 7 change; regionalism glossed"
+ },
+ {
+  "id": "b2-05",
+  "field": "quiz",
+  "index": 1,
+  "old": {
+   "q": "¿Por qué Esteban cree que desmentir el rumor sería contraproducente?",
+   "options": [
+    "Porque la dirección se lo ha prohibido",
+    "Porque nadie lo escucharía",
+    "Porque una negativa oficial suele interpretarse como confirmación",
+    "Porque Rocío no está de acuerdo"
+   ],
+   "answer": 2
+  },
+  "new": {
+   "q": "Carla «fingió no inmutarse» al oír la noticia. ¿Qué hizo?",
+   "options": [
+    "Fingió que no había oído la noticia",
+    "Fingió que ya conocía la noticia",
+    "Fingió que la noticia no le afectaba",
+    "Fingió que se iba de vacaciones"
+   ],
+   "answer": 2
+  },
+  "reason": "Replaced a question that just restated the narrator's explicit comment with a vocab-in-context item (quiz had none)"
+ },
+ {
+  "id": "b2-05",
+  "field": "quiz",
+  "index": 3,
+  "old": {
+   "q": "¿Qué ironía señala el director general en su discurso?",
+   "options": [
+    "Que la empresa pierde más dinero con los rumores que con los despidos reales",
+    "Que él ya sabía del rumor desde el lunes",
+    "Que el plan nunca existió",
+    "Que la prima era una forma de silenciar a los empleados"
+   ],
+   "answer": 0
+  },
+  "new": {
+   "q": "¿Qué ironía señala el director general en su discurso?",
+   "options": [
+    "Que una explicación a tiempo habría evitado una semana de productividad perdida",
+    "Que él ya sabía del rumor desde el lunes",
+    "Que el plan nunca existió",
+    "Que el bono era una forma de silenciar a los empleados"
+   ],
+   "answer": 0
+  },
+  "reason": "Keyed answer (\"la empresa pierde más dinero con los rumores que con los despidos reales\") is not what the director says; now paraphrases line 7. \"prima\" -> \"bono\" to match text"
+ },
+ {
+  "id": "b2-05",
+  "field": "prompt",
+  "old": "Describe in Spanish a time when a rumor (at work, school or among friends) spread and caused problems. What would you have done differently? Use 'si hubiera...' and 'ojalá' at least once each.",
+  "new": "Describe in Spanish a time when a rumor (at work, school or among friends) spread and caused problems. What would you have done differently? Use 'si hubiera...' and 'ojalá' at least once each. Start like this: «Una vez, en mi trabajo, alguien dijo que… Si hubiera hablado antes con…, …»",
+  "reason": "Added a model starter sentence (prompt had none)"
+ },
+ {
+  "id": "b2-06",
+  "field": "lines.es",
+  "index": 1,
+  "old": "lo que yo tomaba por terquedad",
+  "new": "lo que yo tomaba por <b>terquedad</b>",
+  "reason": "\"la terquedad\" is in the vocab list but was not bolded"
+ },
+ {
+  "id": "b2-06",
+  "field": "lines.es",
+  "index": 3,
+  "old": "— Ese no está en venta, ni está estropeado,",
+  "new": "—Ese no está en venta, ni está roto,",
+  "reason": "Dash typography; \"estropeado\" is peninsular, Mexico says \"roto/descompuesto\""
+ },
+ {
+  "id": "b2-06",
+  "field": "lines.es",
+  "index": 3,
+  "old": "— ¿Y todavía no lo está?",
+  "new": "—¿Y todavía no lo está?",
+  "reason": "Dialogue dash typography (no space after the raya)"
+ },
+ {
+  "id": "b2-06",
+  "field": "lines.es",
+  "index": 3,
+  "old": "— Eso depende",
+  "new": "—Eso depende",
+  "reason": "Dialogue dash typography (no space after the raya)"
+ },
+ {
+  "id": "b2-06",
+  "field": "lines.es",
+  "index": 5,
+  "old": "la espiral, las ruedas, el áncora,",
+  "new": "la espiral, las ruedas, <b>el áncora</b>,",
+  "reason": "\"el áncora\" is in the vocab list but was not bolded"
+ },
+ {
+  "id": "b2-06",
+  "field": "lines.en",
+  "index": 5,
+  "old": "The only thing missing was winding it.",
+  "new": "All it needed was winding.",
+  "reason": "More natural English"
+ },
+ {
+  "id": "b2-06",
+  "field": "lines.es",
+  "index": 8,
+  "old": "— ¿Quién te dio permiso?",
+  "new": "—¿Quién te dio permiso?",
+  "reason": "Dialogue dash typography (no space after the raya)"
+ },
+ {
+  "id": "b2-06",
+  "field": "lines.es",
+  "index": 8,
+  "old": "— Nadie —admití",
+  "new": "—Nadie —admití",
+  "reason": "Dialogue dash typography (no space after the raya)"
+ },
+ {
+  "id": "b2-06",
+  "field": "lines.es",
+  "index": 8,
+  "old": "— Lo que tú pensaste no importa. Lo que importa es que, mientras ese reloj estuviera parado, ella tenía un motivo para volver.",
+  "new": "—Lo que tú pensaste no importa. Lo que importa es que, mientras ese reloj estuviera parado, ella tendría un motivo para volver.",
+  "reason": "Sequence of tenses: prospective mientras + imperfect subjunctive pairs with conditional \"tendría\", not imperfect indicative; dash typography"
+ },
+ {
+  "id": "b2-06",
+  "field": "lines.en",
+  "index": 8,
+  "old": "she had a reason to return",
+  "new": "she would have a reason to return",
+  "reason": "Matches Spanish change"
+ },
+ {
+  "id": "b2-06",
+  "field": "lines.es",
+  "index": 10,
+  "old": "Pasé la noche en vela",
+  "new": "Pasé la noche <b>en vela</b>",
+  "reason": "\"en vela\" is in the vocab list but was not bolded"
+ },
+ {
+  "id": "b2-06",
+  "field": "lines.es",
+  "index": 12,
+  "old": "— Mi abuela decía",
+  "new": "—Mi abuela decía",
+  "reason": "Dialogue dash typography (no space after the raya)"
+ },
+ {
+  "id": "b2-06",
+  "field": "lines.es",
+  "index": 12,
+  "old": "hasta que ella no pudiera ya venir.",
+  "new": "hasta que ella ya no pudiera venir.",
+  "reason": "Natural word order (\"ya no pudiera\")"
+ },
+ {
+  "id": "b2-06",
+  "field": "lines.es",
+  "index": 12,
+  "old": "— Me rogó que no lo arreglara hasta que",
+  "new": "—Me rogó que no lo pusiera en marcha hasta que",
+  "reason": "Continuity: line 6 establishes he HAD repaired it but refused to set it going; dash typography"
+ },
+ {
+  "id": "b2-06",
+  "field": "lines.en",
+  "index": 12,
+  "old": "She begged me not to fix it until",
+  "new": "She begged me not to set it going until",
+  "reason": "Matches Spanish change"
+ },
+ {
+  "id": "b2-06",
+  "field": "lines.es",
+  "index": 13,
+  "old": "«empezamos con las herramientas»",
+  "new": "«empiezo a enseñarte a reparar»",
+  "reason": "Continuity: line 0 limits the no-tools rule to the FIRST year (three years have passed); now echoes his opening promise to teach listening before repairing"
+ },
+ {
+  "id": "b2-06",
+  "field": "lines.en",
+  "index": 13,
+  "old": "\"we begin with the tools.\"",
+  "new": "\"I start teaching you to repair.\"",
+  "reason": "Matches Spanish change"
+ },
+ {
+  "id": "b2-06",
+  "field": "vocab",
+  "index": 19,
+  "old": [
+   "el áncora",
+   "anchor (escapement part)"
+  ],
+  "new": [
+   "el áncora",
+   "pallet fork (watch escapement part; lit. anchor)"
+  ],
+  "reason": "Aligns with b2-vocab-fixes.json"
+ },
+ {
+  "id": "b2-06",
+  "field": "vocab",
+  "index": 0,
+  "old": [
+   "advertir",
+   "to warn, to point out"
+  ],
+  "new": [
+   "advertir",
+   "to warn; to notice, point out"
+  ],
+  "reason": "Aligns with b2-vocab-fixes.json"
+ },
+ {
+  "id": "b2-06",
+  "field": "prompt",
+  "old": "Have you ever kept something unfinished or unresolved on purpose because finishing it would have meant accepting an ending? Describe it in Spanish (5-8 sentences) and explain how you would have reacted if someone had acted for you, like Lucía did.",
+  "new": "Have you ever kept something unfinished or unresolved on purpose because finishing it would have meant accepting an ending? Describe it in Spanish (5-8 sentences) and explain how you would have reacted if someone had acted for you, like the apprentice did. Use at least one 'si hubiera..., habría...'. Start like this: «Durante años guardé… Si alguien lo hubiera terminado por mí, yo habría…»",
+  "reason": "Prompt referred to 'Lucía', a name that never appears in the story (the apprentice is unnamed); added target structure and model starter"
+ },
+ {
+  "id": "b2-06",
+  "field": "concepts.grammar",
+  "old": "Pluperfect subjunctive in hypotheticals (si yo hubiera sabido..., habría cerrado), reported speech with tense shifts (dijo que su abuela había fallecido), subjunctive in relative clauses (el único capaz de...), temporal mientras + imperfect subjunctive.",
+  "new": "Pluperfect subjunctive in hypotheticals (si yo hubiera sabido..., habría cerrado), reported speech with tense shifts (dijo que su abuela había fallecido; prometió que volvería), subjunctive after past requests (me pidió que no viniera; me rogó que no lo pusiera en marcha), temporal mientras / hasta que + imperfect subjunctive.",
+  "reason": "Concepts claimed \"subjunctive in relative clauses (el único capaz de...)\" - that phrase has no subjunctive; replaced with structures actually in the text"
+ },
+ {
+  "id": "b2-06",
+  "field": "concepts.vocabulary",
+  "old": "Workshop and watchmaking terms (corona, áncora, cuerda), emotional nuance (desasosiego, abatido, apegado), Mexican descompuesto.",
+  "new": "Workshop and watchmaking terms (corona, áncora, dar cuerda), emotional nuance (desasosiego, abatido, apegado, terquedad), Mexican descompuesto.",
+  "reason": "Added terquedad (now bolded) and dar cuerda"
+ },
+ {
+  "id": "b2-07",
+  "field": "lines.es",
+  "index": 2,
+  "old": "alguien había cobrado verduras que jamás se habían entregado, a proveedores que",
+  "new": "alguien había cargado a las cuentas del comedor verduras que jamás se habían entregado, supuestamente compradas a proveedores que",
+  "reason": "\"Cobrar verduras a proveedores\" means charging the suppliers, the opposite of the fraud described"
+ },
+ {
+  "id": "b2-07",
+  "field": "lines.en",
+  "index": 2,
+  "old": "someone had collected payment for vegetables that were never delivered, from suppliers who",
+  "new": "someone had charged to the soup kitchen’s accounts vegetables that were never delivered, supposedly bought from suppliers who",
+  "reason": "Matches Spanish change"
+ },
+ {
+  "id": "b2-07",
+  "field": "lines.es",
+  "index": 3,
+  "old": "— Esto es portada",
+  "new": "—Esto es portada",
+  "reason": "Dialogue dash typography (no space after the raya)"
+ },
+ {
+  "id": "b2-07",
+  "field": "lines.es",
+  "index": 3,
+  "old": "— Todavía no sé",
+  "new": "—Todavía no sé",
+  "reason": "Dialogue dash typography (no space after the raya)"
+ },
+ {
+  "id": "b2-07",
+  "field": "lines.es",
+  "index": 3,
+  "old": "— Eso es un detalle",
+  "new": "—Eso es un detalle",
+  "reason": "Dialogue dash typography (no space after the raya)"
+ },
+ {
+  "id": "b2-07",
+  "field": "lines.es",
+  "index": 5,
+  "old": "— Ya sé a qué",
+  "new": "—Ya sé a qué",
+  "reason": "Dialogue dash typography (no space after the raya)"
+ },
+ {
+  "id": "b2-07",
+  "field": "lines.es",
+  "index": 6,
+  "old": "— ¿Por qué falsificó",
+  "new": "—¿Por qué falsificó",
+  "reason": "Dialogue dash typography (no space after the raya)"
+ },
+ {
+  "id": "b2-07",
+  "field": "lines.es",
+  "index": 6,
+  "old": "— Porque hace dos años",
+  "new": "—Porque hace dos años",
+  "reason": "Dialogue dash typography (no space after the raya)"
+ },
+ {
+  "id": "b2-07",
+  "field": "lines.es",
+  "index": 6,
+  "old": "— Pudo haber",
+  "new": "—Pudo haber",
+  "reason": "Dialogue dash typography (no space after the raya)"
+ },
+ {
+  "id": "b2-07",
+  "field": "lines.es",
+  "index": 6,
+  "old": "— La pedí",
+  "new": "—La pedí",
+  "reason": "Dialogue dash typography (no space after the raya)"
+ },
+ {
+  "id": "b2-07",
+  "field": "lines.es",
+  "index": 8,
+  "old": "— No te pido",
+  "new": "—No te pido",
+  "reason": "Dialogue dash typography (no space after the raya)"
+ },
+ {
+  "id": "b2-07",
+  "field": "lines.es",
+  "index": 9,
+  "old": "y doña Matilde presentó su <b>renuncia</b>, aunque no fue ella quien <b>desveló</b> el nombre del remitente anónimo, sino un antiguo <b>contable</b> despedido que, según supo Leonor más tarde, llevaba meses esperando ese momento.",
+  "new": "y doña Matilde presentó su <b>renuncia</b>. Fue ella, sin embargo, quien le <b>desveló</b> a Leonor el nombre del remitente anónimo: un antiguo <b>contador</b> despedido que llevaba meses esperando ese momento.",
+  "reason": "Original was illogical (\"aunque\" non sequitur) and said the accountant revealed the sender's name rather than BEING the sender; cleft structure kept. Peru: \"contador\", not peninsular \"contable\""
+ },
+ {
+  "id": "b2-07",
+  "field": "lines.en",
+  "index": 9,
+  "old": "and doña Matilde submitted her resignation, although it was not she who revealed the name of the anonymous sender, but a former accountant who had been fired and who, as Leonor learned later, had been waiting for that moment for months.",
+  "new": "and doña Matilde submitted her resignation. It was she, however, who revealed to Leonor the name of the anonymous sender: a former accountant who had been fired and had been waiting months for that moment.",
+  "reason": "Matches Spanish change"
+ },
+ {
+  "id": "b2-07",
+  "field": "vocab",
+  "index": 15,
+  "old": [
+   "el contable",
+   "accountant"
+  ],
+  "new": [
+   "el contador",
+   "accountant (Lat. Am.; Spain: el contable)"
+  ],
+  "reason": "Matches line 9 change; regionalism glossed"
+ },
+ {
+  "id": "b2-07",
+  "field": "lines.es",
+  "index": 11,
+  "old": "<b>con la boca pequeña</b>",
+  "new": "<b>con la boca chica</b>",
+  "reason": "\"Con la boca pequeña\" is peninsular; Peru and most of Latin America say \"con la boca chica\""
+ },
+ {
+  "id": "b2-07",
+  "field": "vocab",
+  "index": 16,
+  "old": [
+   "con la boca pequeña",
+   "halfheartedly, insincerely"
+  ],
+  "new": [
+   "con la boca chica",
+   "halfheartedly, insincerely (Lat. Am.; Spain: con la boca pequeña)"
+  ],
+  "reason": "Matches line 11 change"
+ },
+ {
+  "id": "b2-07",
+  "field": "lines.es",
+  "index": 11,
+  "old": "sino de haberlo hecho",
+  "new": "solo de haberlo hecho",
+  "reason": "\"sino\" after \"no está segura de\" is awkward; \"solo\" matches the English \"only\""
+ },
+ {
+  "id": "b2-07",
+  "field": "quiz",
+  "index": 4,
+  "old": {
+   "q": "¿Qué pidió doña Matilde a Leonor?",
+   "options": [
+    "Que no publicara nada",
+    "Que escribiera solo lo que la favorecía",
+    "Que escribiera toda la verdad, incluso lo que la dejara mal",
+    "Que culpara al contable"
+   ],
+   "answer": 2
+  },
+  "new": {
+   "q": "Gustavo felicitó a Leonor «con la boca chica». ¿Cómo la felicitó?",
+   "options": [
+    "En voz muy baja, para que nadie lo oyera",
+    "Sin mucha convicción, casi por obligación",
+    "Con un entusiasmo exagerado",
+    "Por escrito, en una nota breve"
+   ],
+   "answer": 1
+  },
+  "reason": "Replaced a detail question with a vocab-in-context idiom item (quiz had none)"
+ },
+ {
+  "id": "b2-07",
+  "field": "concepts.grammar",
+  "old": "Reported speech with tense shifts (admitió que habría preferido..., le anunció que el artículo saldría), cleft sentences (fue ella quien desveló; fue precisamente ese comentario el que la hizo dudar), si-clauses with pluperfect subjunctive and conditional perfect.",
+  "new": "Reported speech with tense shifts (admitió que habría preferido..., le anunció que el artículo saldría), cleft sentences (fue ella quien le desveló; fue precisamente ese comentario el que la hizo dudar), si-clauses with pluperfect subjunctive and conditional perfect.",
+  "reason": "Example updated to match revised line 9"
+ },
+ {
+  "id": "b2-07",
+  "field": "concepts.vocabulary",
+  "old": "Journalism and finance vocabulary (redacción, remitente, factura, contable), idioms (cerrar el grifo, frotarse las manos, con la boca pequeña, dar la cara).",
+  "new": "Journalism and finance vocabulary (redacción, remitente, factura, contador), idioms (cerrar el grifo, frotarse las manos, con la boca chica, dar la cara).",
+  "reason": "Updated to the Latin American forms now in the text"
+ },
+ {
+  "id": "b2-07",
+  "field": "prompt",
+  "old": "Imagine you are Leonor's editor. In Spanish (5-8 sentences), explain whether you would have published the story, and what you would have done differently, using at least two structures such as 'habría preferido que...' or 'si hubiera...'.",
+  "new": "Imagine you are Leonor's editor. In Spanish (5-8 sentences), explain whether you would have published the story, and what you would have done differently, using at least two structures such as 'habría preferido que...' or 'si hubiera...'. Start like this: «Si yo hubiera sido Gustavo, habría preferido que Leonor…»",
+  "reason": "Added a model starter sentence (prompt had none)"
+ },
+ {
+  "id": "b2-08",
+  "field": "lines.en",
+  "index": 3,
+  "old": "had become \"half Galician,\"",
+  "new": "had become \"half gallego\" (Latin American slang for Spanish),",
+  "reason": "In Chile/Latin America \"gallego\" means any Spaniard; he lives in Barcelona, so \"Galician\" mistranslates"
+ },
+ {
+  "id": "b2-08",
+  "field": "lines.es",
+  "index": 3,
+  "old": "— Bueno, Joaquín",
+  "new": "—Bueno, Joaquín",
+  "reason": "Dialogue dash typography (no space after the raya)"
+ },
+ {
+  "id": "b2-08",
+  "field": "lines.es",
+  "index": 3,
+  "old": "— No desaparecí",
+  "new": "—No desaparecí",
+  "reason": "Dialogue dash typography (no space after the raya)"
+ },
+ {
+  "id": "b2-08",
+  "field": "lines.es",
+  "index": 5,
+  "old": "— Joaquín —dijo",
+  "new": "—Joaquín —dijo",
+  "reason": "Dialogue dash typography (no space after the raya)"
+ },
+ {
+  "id": "b2-08",
+  "field": "lines.es",
+  "index": 5,
+  "old": "— Eso no es",
+  "new": "—Eso no es",
+  "reason": "Dialogue dash typography (no space after the raya)"
+ },
+ {
+  "id": "b2-08",
+  "field": "lines.es",
+  "index": 5,
+  "old": "— Lo que recuerdas",
+  "new": "—Lo que recuerdas",
+  "reason": "Dialogue dash typography (no space after the raya)"
+ },
+ {
+  "id": "b2-08",
+  "field": "lines.en",
+  "index": 6,
+  "old": "where I myself had put it away by carelessness",
+  "new": "where I myself had absent-mindedly put it away",
+  "reason": "Unidiomatic English"
+ },
+ {
+  "id": "b2-08",
+  "field": "lines.es",
+  "index": 8,
+  "old": "— Podríamos subir en el ascensor",
+  "new": "—Podríamos bajar en el ascensor",
+  "reason": "Continuity: they are already at the top (mirador, \"en lo alto del cerro\") and next go to a bar by the port, so the funicular takes them DOWN; dash typography"
+ },
+ {
+  "id": "b2-08",
+  "field": "lines.en",
+  "index": 8,
+  "old": "\"We could ride up the funicular,\"",
+  "new": "\"We could ride down on the funicular,\"",
+  "reason": "Matches Spanish change"
+ },
+ {
+  "id": "b2-08",
+  "field": "lines.es",
+  "index": 8,
+  "old": "— ¿Cuál era",
+  "new": "—¿Cuál era",
+  "reason": "Dialogue dash typography (no space after the raya)"
+ },
+ {
+  "id": "b2-08",
+  "field": "lines.es",
+  "index": 8,
+  "old": "— ¿No te acuerdas?",
+  "new": "—¿No te acuerdas?",
+  "reason": "Dialogue dash typography (no space after the raya)"
+ },
+ {
+  "id": "b2-08",
+  "field": "lines.es",
+  "index": 8,
+  "old": "más lejos pagaba la primera ronda",
+  "new": "más lejos pagaría la primera ronda",
+  "reason": "Reported promise: future-in-the-past \"pagaría\" is the model form B2 learners should see"
+ },
+ {
+  "id": "b2-08",
+  "field": "lines.es",
+  "index": 9,
+  "old": "Subimos los cinco",
+  "new": "Bajamos los cinco",
+  "reason": "Continuity with line 8"
+ },
+ {
+  "id": "b2-08",
+  "field": "lines.en",
+  "index": 9,
+  "old": "The five of us rode up",
+  "new": "The five of us rode down",
+  "reason": "Matches Spanish change"
+ },
+ {
+  "id": "b2-08",
+  "field": "concepts.vocabulary",
+  "old": "Memory, friendship and pride (ensayar, tibio, cortar por lo sano, falta de tacto, alivio, vergüenza); Chilean setting details (ascensor, cerro, maqueta).",
+  "new": "Memory, friendship and pride (ensayar, tibio, cortar por lo sano, falta de tacto, alivio, vergüenza); Chilean setting details (ascensor, cerro, liceo, gallego = Spaniard).",
+  "reason": "\"maqueta\" is not a Chilean term; replaced with real Chilean features of the text"
+ },
+ {
+  "id": "b2-08",
+  "field": "prompt",
+  "old": "Think of a memory where your version and someone else's version might differ. In Spanish (5-8 sentences), describe it twice: first as you used to remember it, then as another person might remember it.",
+  "new": "Think of a memory where your version and someone else's version might differ. In Spanish (5-8 sentences), describe it twice: first as you used to remember it, then as another person might remember it. Use reported speech (me dijo que...) and at least one 'si hubiera..., habría...'. Start like this: «Yo siempre conté que… Pero mi hermana diría que… Si lo hubiera sabido, …»",
+  "reason": "Prompt named no target grammar; added reported speech + pluperfect-subjunctive target and a model starter"
+ },
+ {
+  "id": "b2-09",
+  "field": "lines.en",
+  "index": 1,
+  "old": "thought it would be the radio",
+  "new": "thought it must be the radio",
+  "reason": "Conditional of conjecture = \"must be\" (as corrected in grammar/b2.json)"
+ },
+ {
+  "id": "b2-09",
+  "field": "lines.es",
+  "index": 7,
+  "old": "— ¡Por Dios",
+  "new": "—¡Por Dios",
+  "reason": "Dialogue dash typography (no space after the raya)"
+ },
+ {
+  "id": "b2-09",
+  "field": "lines.es",
+  "index": 7,
+  "old": "— Yo pensé",
+  "new": "—Yo pensé",
+  "reason": "Dialogue dash typography (no space after the raya)"
+ },
+ {
+  "id": "b2-09",
+  "field": "lines.es",
+  "index": 7,
+  "old": "— Se lo explico",
+  "new": "—Se lo explico",
+  "reason": "Dialogue dash typography (no space after the raya)"
+ },
+ {
+  "id": "b2-09",
+  "field": "lines.es",
+  "index": 9,
+  "old": "— Grabo la música",
+  "new": "—Grabo la música",
+  "reason": "Dialogue dash typography (no space after the raya)"
+ },
+ {
+  "id": "b2-09",
+  "field": "lines.es",
+  "index": 11,
+  "old": "— Mire, doña",
+  "new": "—Mire, doña",
+  "reason": "Dialogue dash typography (no space after the raya)"
+ },
+ {
+  "id": "b2-09",
+  "field": "lines.es",
+  "index": 11,
+  "old": "— ¿Y si dice",
+  "new": "—¿Y si dice",
+  "reason": "Dialogue dash typography (no space after the raya)"
+ },
+ {
+  "id": "b2-09",
+  "field": "lines.es",
+  "index": 11,
+  "old": "— Entonces le",
+  "new": "—Entonces le",
+  "reason": "Dialogue dash typography (no space after the raya)"
+ },
+ {
+  "id": "b2-09",
+  "field": "lines.en",
+  "index": 10,
+  "old": "of whom he kept not a single recording of her voice",
+  "new": "of whose voice he did not have a single recording",
+  "reason": "Unidiomatic English"
+ },
+ {
+  "id": "b2-09",
+  "field": "lines.es",
+  "index": 13,
+  "old": "por segunda vez en su carrera",
+  "new": "por primera vez en su carrera",
+  "reason": "Logic: he had only ever written «Sin novedad» (the lie was writing it again), so this is the FIRST different entry"
+ },
+ {
+  "id": "b2-09",
+  "field": "lines.en",
+  "index": 13,
+  "old": "for the second time in his career",
+  "new": "for the first time in his career",
+  "reason": "Matches Spanish change"
+ },
+ {
+  "id": "b2-09",
+  "field": "quiz",
+  "index": 0,
+  "old": {
+   "q": "¿Cómo se consideraba Efraín respecto a los miedos nocturnos?",
+   "options": [
+    "Se creía el único al que los pasillos oscuros no asustaban",
+    "Era el más supersticioso del museo",
+    "Siempre contaba historias de fantasmas",
+    "Pedía acompañante en cada ronda"
+   ],
+   "answer": 0
+  },
+  "new": {
+   "q": "Efraín decide «montar guardia» en la sala siete. ¿Qué hace exactamente?",
+   "options": [
+    "Instala una cámara nueva en la sala",
+    "Se queda vigilando la sala durante la noche",
+    "Vuelve a montar el vestido de novia",
+    "Cierra la sala con una llave nueva"
+   ],
+   "answer": 1
+  },
+  "reason": "Replaced an easy opening detail question with a vocab-in-context item (quiz had none)"
+ },
+ {
+  "id": "b2-09",
+  "field": "prompt",
+  "old": "Imagine you are Efraín and you must write a longer, honest entry in the incident log about that night. In Spanish (5-8 sentences), explain what you heard and saw and why you did or did not break the rules.",
+  "new": "Imagine you are Efraín and you must write a longer, honest entry in the incident log about that night. In Spanish (5-8 sentences), explain what you heard and saw and why you did or did not break the rules. Use reported speech (Rosario me explicó que...) and at least one 'si hubiera..., habría...'. Start like this: «A eso de las tres oí una melodía. Rosario me explicó que su madre…»",
+  "reason": "Prompt named no target grammar; added reported speech + si-clause target and a model starter"
+ },
+ {
+  "id": "b2-10",
+  "field": "teaser",
+  "old": "In a tiny Aragonese village, a perfectly tied election leaves one secretary holding the decision, and his own long neutrality, in his hands.",
+  "new": "In a tiny Aragonese village, a perfectly tied election hangs on one postal vote from Argentina, and the town secretary who must open it has to face his own long neutrality.",
+  "reason": "Teaser said the secretary holds \"the decision\"; he only opens the deciding postal vote"
+ },
+ {
+  "id": "b2-10",
+  "field": "lines.es",
+  "index": 4,
+  "old": "con un <b>rodeo</b> y una sospecha que aquí llaman «tirar de la lengua».",
+  "new": "con mil <b>rodeos</b>, intentando lo que aquí llaman «tirarme de la lengua».",
+  "reason": "Original was muddled (\"a roundabout approach and a suspicion that they call tirar de la lengua\"); the idiom names the act of pumping someone for information"
+ },
+ {
+  "id": "b2-10",
+  "field": "lines.en",
+  "index": 4,
+  "old": "with a roundabout approach and a suspicion that here they call \"pulling the tongue.\"",
+  "new": "in a thousand roundabout ways, trying what around here they call \"tirarme de la lengua\" (getting me to talk).",
+  "reason": "Matches Spanish change; idiom explained instead of a literal calque"
+ },
+ {
+  "id": "b2-10",
+  "field": "lines.en",
+  "index": 6,
+  "old": "Nobody knew whom Evaristo would have voted for: some swore it would be out of blood, others out of grudge, and there were those who said he would have chosen Remedios only to annoy the family.",
+  "new": "Nobody knew whom Evaristo might have voted for: some swore he had voted out of family loyalty, others out of spite, and there were those who said he had probably chosen Remedios just to annoy the family.",
+  "reason": "Evaristo has already voted, so \"habría votado/habría elegido\" is the conditional of conjecture (\"might have / had probably\"), as flagged in grammar-quiz/review/b2-report.md"
+ },
+ {
+  "id": "b2-10",
+  "field": "lines.es",
+  "index": 7,
+  "old": "— Gonzalo —dijo",
+  "new": "—Gonzalo —dijo",
+  "reason": "Dialogue dash typography (no space after the raya)"
+ },
+ {
+  "id": "b2-10",
+  "field": "lines.es",
+  "index": 7,
+  "old": "— Yo tampoco",
+  "new": "—Yo tampoco",
+  "reason": "Dialogue dash typography (no space after the raya)"
+ },
+ {
+  "id": "b2-10",
+  "field": "lines.es",
+  "index": 8,
+  "old": "un pueblo de ciento cincuenta almas",
+  "new": "un pueblo de doscientas almas",
+  "reason": "Arithmetic: 142 ballots plus children and non-voters cannot fit in 150 inhabitants"
+ },
+ {
+  "id": "b2-10",
+  "field": "lines.en",
+  "index": 8,
+  "old": "a village of a hundred and fifty souls",
+  "new": "a village of two hundred souls",
+  "reason": "Matches Spanish change"
+ },
+ {
+  "id": "b2-10",
+  "field": "prompt",
+  "old": "The story ends before we learn the name on the ballot. In Spanish (6-9 sentences), write what you think happens next in Valdelanuza and why, using at least two structures such as 'quizá' + subjunctive or the conditional of conjecture ('sería...').",
+  "new": "The story ends before we learn the name on the ballot. In Spanish (6-9 sentences), write what you think happens next in Valdelanuza and why, using at least two structures such as 'quizá' + subjunctive or the conditional of conjecture ('sería...'). Start like this: «Quizá el nombre fuera el de… Al día siguiente, los vecinos estarían…»",
+  "reason": "Added a model starter sentence (prompt had none)"
+ }
+]

@@ -1,0 +1,246 @@
+[
+ {
+  "id": "P-A1-11",
+  "level": "A1",
+  "skill": "grammar",
+  "q": "Choose the correct word: Ella ___ colombiana.",
+  "options": [
+   "es",
+   "está",
+   "tiene",
+   "hay"
+  ],
+  "answer": 0,
+  "why": "Nationality is a permanent characteristic, so it uses ser: es.",
+  "topic": "ser with nationality"
+ },
+ {
+  "id": "P-A1-12",
+  "level": "A1",
+  "skill": "grammar",
+  "q": "Choose the correct word: Me ___ las manzanas.",
+  "options": [
+   "gusta",
+   "gustas",
+   "gustan",
+   "gusto"
+  ],
+  "answer": 2,
+  "why": "Gustar agrees with the thing liked; 'las manzanas' is plural, so gustan.",
+  "topic": "gustar with plural noun"
+ },
+ {
+  "id": "P-A1-13",
+  "level": "A1",
+  "skill": "grammar",
+  "q": "Choose the correct word: Mis amigas son ___.",
+  "options": [
+   "simpático",
+   "simpáticos",
+   "simpática",
+   "simpáticas"
+  ],
+  "answer": 3,
+  "why": "The adjective must agree with 'amigas' in gender and number: feminine plural.",
+  "topic": "adjective agreement"
+ },
+ {
+  "id": "P-A1-14",
+  "level": "A1",
+  "skill": "grammar",
+  "q": "Choose the correct word: Tú ___ español muy bien.",
+  "options": [
+   "hablo",
+   "hablas",
+   "habla",
+   "hablamos"
+  ],
+  "answer": 1,
+  "why": "The subject tú takes the -as ending of -ar verbs: hablas.",
+  "topic": "present tense -ar verbs"
+ },
+ {
+  "id": "P-A1-15",
+  "level": "A1",
+  "skill": "grammar",
+  "q": "Choose the correct words: Mañana voy ___ escuela.",
+  "options": [
+   "en la",
+   "a la",
+   "de la",
+   "por la"
+  ],
+  "answer": 1,
+  "why": "Ir takes the preposition a to express the destination: a la escuela.",
+  "topic": "ir + a destination"
+ },
+ {
+  "id": "P-A1-16",
+  "level": "A1",
+  "skill": "grammar",
+  "q": "Choose the correct word: ¿___ vives? —En Lima.",
+  "options": [
+   "Dónde",
+   "Quién",
+   "Cuándo",
+   "Qué"
+  ],
+  "answer": 0,
+  "why": "The answer gives a place, so the question word is Dónde.",
+  "topic": "question words"
+ },
+ {
+  "id": "P-A1-17",
+  "level": "A1",
+  "skill": "grammar",
+  "q": "Choose the correct word: Nosotros queremos mucho a ___ padres.",
+  "options": [
+   "nuestro",
+   "nuestra",
+   "nuestras",
+   "nuestros"
+  ],
+  "answer": 3,
+  "why": "The possessive agrees with the plural masculine noun 'padres': nuestros.",
+  "topic": "possessive adjectives"
+ },
+ {
+  "id": "P-A1-18",
+  "level": "A1",
+  "skill": "grammar",
+  "q": "Choose the correct word: Yo ___ llamo Pedro.",
+  "options": [
+   "te",
+   "se",
+   "me",
+   "nos"
+  ],
+  "answer": 2,
+  "why": "The reflexive pronoun for yo is me: me llamo.",
+  "topic": "reflexive llamarse"
+ },
+ {
+  "id": "P-A1-19",
+  "level": "A1",
+  "skill": "vocab",
+  "q": "Choose the correct word: La nieve es ___.",
+  "options": [
+   "blanca",
+   "verde",
+   "negra",
+   "roja"
+  ],
+  "answer": 0,
+  "why": "Snow is white (blanca).",
+  "topic": "colors"
+ },
+ {
+  "id": "P-A1-20",
+  "level": "A1",
+  "skill": "vocab",
+  "q": "Choose the correct word: Después del lunes viene el ___.",
+  "options": [
+   "sábado",
+   "martes",
+   "domingo",
+   "viernes"
+  ],
+  "answer": 1,
+  "why": "The day after Monday (lunes) is Tuesday (martes).",
+  "topic": "days of the week"
+ },
+ {
+  "id": "P-A1-21",
+  "level": "A1",
+  "skill": "vocab",
+  "q": "Choose the correct word: Uso un ___ para escribir.",
+  "options": [
+   "plato",
+   "zapato",
+   "lápiz",
+   "coche"
+  ],
+  "answer": 2,
+  "why": "A lápiz (pencil) is used to write.",
+  "topic": "school objects"
+ },
+ {
+  "id": "P-A1-22",
+  "level": "A1",
+  "skill": "vocab",
+  "q": "Choose the correct word: En invierno hace mucho ___. Necesito un abrigo.",
+  "options": [
+   "calor",
+   "ropa",
+   "playa",
+   "frío"
+  ],
+  "answer": 3,
+  "why": "In winter it is very cold: hace mucho frío.",
+  "topic": "weather"
+ },
+ {
+  "id": "P-A1-23",
+  "level": "A1",
+  "skill": "reading",
+  "passage": "Me llamo Tomás y tengo un perro. Se llama Rocky y es muy grande. Mi gato se llama Max y es pequeño. Me gustan mucho los animales.",
+  "q": "Read the text. ¿Cómo se llama el perro de Tomás?",
+  "options": [
+   "Rocky",
+   "Max",
+   "Luna",
+   "Toby"
+  ],
+  "answer": 0,
+  "why": "The text says the dog is called Rocky.",
+  "topic": "short personal text"
+ },
+ {
+  "id": "P-A1-24",
+  "level": "A1",
+  "skill": "reading",
+  "passage": "Tienda Sol. De lunes a viernes: de ocho a seis. Los sábados: de nueve a una. Los domingos: cerrado.",
+  "q": "Read the text. ¿A qué hora abre la tienda los sábados?",
+  "options": [
+   "A las ocho.",
+   "A las nueve.",
+   "A las diez.",
+   "A las seis."
+  ],
+  "answer": 1,
+  "why": "The sign says Saturdays the shop opens at nine.",
+  "topic": "sign with schedule"
+ },
+ {
+  "id": "P-A1-25",
+  "level": "A1",
+  "skill": "reading",
+  "passage": "Hola, Marta. El viernes no tengo clase. ¿Quieres comer conmigo en un restaurante? Hay uno nuevo cerca de mi casa. Es barato y la comida es muy buena. Un abrazo, Ana.",
+  "q": "Read the text. ¿Qué quiere hacer Ana el viernes?",
+  "options": [
+   "Estudiar con Marta.",
+   "Ir al trabajo.",
+   "Comer en un restaurante.",
+   "Ver a su abuela."
+  ],
+  "answer": 2,
+  "why": "Ana invites Marta to eat at a restaurant on Friday.",
+  "topic": "short message"
+ },
+ {
+  "id": "P-A1-26",
+  "level": "A1",
+  "skill": "reading",
+  "passage": "Cuenca es una ciudad bonita de Ecuador. En julio hace fresco y por la noche hace frío. Mi familia vive allí y yo los visito en las vacaciones.",
+  "q": "Read the text. ¿Cómo es el clima en Cuenca en julio?",
+  "options": [
+   "Hace mucho calor.",
+   "Llueve todos los días.",
+   "Hay mucha nieve.",
+   "Hace fresco."
+  ],
+  "answer": 3,
+  "why": "The text says July is cool (fresco) in Cuenca.",
+  "topic": "weather description"
+ }
+]

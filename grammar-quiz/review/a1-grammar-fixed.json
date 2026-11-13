@@ -1,0 +1,742 @@
+{
+ "a1-01": [
+  {
+   "topic": "Telling time: Son las…",
+   "explain": "Ask '¿Qué hora es?' (What time is it?). Answer with 'Son las + number' for two to twelve: Son las siete. One o'clock is singular: Es la una. Add 'de la mañana' (in the morning), 'de la tarde' (afternoon) or 'de la noche' (night). Watch out: never 'Son las una' or 'Es las dos'.",
+   "examples": [
+    [
+     "Son las siete de la mañana.",
+     "It is seven in the morning."
+    ],
+    [
+     "Es la una de la tarde.",
+     "It is one in the afternoon."
+    ],
+    [
+     "—¿Qué hora es? —Son las ocho.",
+     "\"What time is it?\" \"It's eight o'clock.\""
+    ]
+   ]
+  },
+  {
+   "topic": "Hay: there is / there are",
+   "explain": "'Hay' means both 'there is' and 'there are' and never changes: hay un olor, hay huevos. It says that something exists somewhere, usually with un/una, a number or no article. Watch out: to say where a specific, known thing is, use estar instead: Hay café en la mesa, but El café está en la mesa.",
+   "examples": [
+    [
+     "En la casa de Lucía hay mucho ruido.",
+     "There is a lot of noise in Lucía's house."
+    ],
+    [
+     "Hay café, huevos, pan y leche.",
+     "There is coffee, eggs, bread and milk."
+    ],
+    [
+     "Hay leche en la mesa. La leche está en la mesa.",
+     "There is milk on the table. The milk is on the table."
+    ]
+   ]
+  },
+  {
+   "topic": "Estar for location and feelings",
+   "explain": "'Estar' says where someone is and how they feel right now: Papá está en la sala, Mamá está cansada. Forms: estoy, estás, está, estamos, están. Watch out: English uses one verb, 'to be', for everything, but Spanish uses estar (not ser) for location and for temporary states, so 'Mamá es cansada' is wrong here.",
+   "examples": [
+    [
+     "Mamá está cansada.",
+     "Mom is tired."
+    ],
+    [
+     "Papá está en la sala.",
+     "Dad is in the living room."
+    ],
+    [
+     "Tomás está en la cocina.",
+     "Tomás is in the kitchen."
+    ]
+   ]
+  },
+  {
+   "topic": "Present tense and tener",
+   "explain": "Present-tense endings change with the subject. Regular -ar verbs: preparo, preparas, prepara. Regular -er/-ir verbs: como, comes, come; vivo, vives, vive. 'Tener' (to have) is irregular: tengo, tienes, tiene. Watch out: the Spanish present also covers English '-ing': 'Hoy yo preparo el desayuno' = Today I'm making breakfast.",
+   "examples": [
+    [
+     "Lucía busca en el baño.",
+     "Lucía looks in the bathroom."
+    ],
+    [
+     "— ¡Hoy yo preparo el desayuno! —dice.",
+     "\"Today I'm making breakfast!\" he says."
+    ],
+    [
+     "Tiene el desayuno en la mesa.",
+     "He has breakfast on the table."
+    ]
+   ]
+  }
+ ],
+ "a1-02": [
+  {
+   "topic": "Ser for days, prices, descriptions",
+   "explain": "Use 'ser' for the day (Es sábado), for prices, and for what something is like (Es un desayuno rico). Ask prices with '¿Cuánto es?'. The verb agrees with the amount: Es un sol, but Son tres soles. Watch out: English says 'It's three soles', but Spanish says 'Son tres soles', never 'Es tres soles'.",
+   "examples": [
+    [
+     "Es sábado y hay sol.",
+     "It is Saturday and it is sunny."
+    ],
+    [
+     "— ¿Cuánto es la naranja? —pregunta una señora.",
+     "\"How much is the orange?\" asks a lady."
+    ],
+    [
+     "— Son tres soles el kilo, señora.",
+     "\"It's three soles a kilo, ma'am.\""
+    ]
+   ]
+  },
+  {
+   "topic": "Gustar: liking things",
+   "explain": "'Gustar' works like 'to please': the thing you like is the subject. Use 'gusta' for one thing or an action and 'gustan' for plural things: me gusta la fruta, te gustan las uvas. 'Me' = to me, 'te' = to you. Watch out: don't say 'yo gusto' or 'te gusta las uvas'.",
+   "examples": [
+    [
+     "— ¿Te gustan las uvas? —pregunta Mateo.",
+     "\"Do you like grapes?\" asks Mateo."
+    ],
+    [
+     "Me gusta la fruta.",
+     "I like fruit."
+    ],
+    [
+     "Me gustan las naranjas.",
+     "I like oranges."
+    ]
+   ]
+  },
+  {
+   "topic": "Tener: having things",
+   "explain": "'Tener' (to have) is irregular: tengo, tienes, tiene, tenemos, tienen. To say you don't have something, put 'no' before the verb: no tengo dinero. Watch out: English adds 'don't' or uses 'no money'; Spanish simply puts 'no' before the verb and usually drops un/una: No tengo paraguas.",
+   "examples": [
+    [
+     "Doña Elena tiene un puesto en el mercado.",
+     "Doña Elena has a stall at the market."
+    ],
+    [
+     "— Sí, pero no tengo dinero —dice el niño.",
+     "\"Yes, but I have no money,\" says the boy."
+    ],
+    [
+     "¿Tienes una naranja?",
+     "Do you have an orange?"
+    ]
+   ]
+  },
+  {
+   "topic": "Personal a before people",
+   "explain": "When a specific person receives the action (is seen, looked at, visited), Spanish puts 'a' before them. This 'a' is not translated. Things don't take it: Mateo mira a su abuela, but El niño mira las uvas. Watch out: a + el becomes al: Veo al niño.",
+   "examples": [
+    [
+     "Mateo ve a un niño pequeño.",
+     "Mateo sees a small boy."
+    ],
+    [
+     "Mateo mira a su abuela.",
+     "Mateo looks at his grandmother."
+    ],
+    [
+     "El niño mira las uvas rojas.",
+     "The boy looks at the red grapes. (no 'a': grapes are things)"
+    ]
+   ]
+  }
+ ],
+ "a1-03": [
+  {
+   "topic": "Telling time: son las / a las",
+   "explain": "'¿Qué hora es?' asks the time now; answer 'Son las ocho' (It's eight). '¿A qué hora…?' asks when something happens; answer 'A las doce' (At twelve). Watch out: English 'at' + time is 'a' in Spanish, so 'at one' is 'a la una', never 'en la una'.",
+   "examples": [
+    [
+     "Hoy es lunes y son las ocho.",
+     "Today is Monday and it is eight o'clock."
+    ],
+    [
+     "A las doce, las niñas comen juntas.",
+     "At twelve, the girls eat together."
+    ],
+    [
+     "—¿A qué hora comen? —A la una.",
+     "\"What time do they eat?\" \"At one.\""
+    ]
+   ]
+  },
+  {
+   "topic": "Ser vs. estar",
+   "explain": "Use 'ser' for what identifies someone: name, origin, nationality, job (es de Chile, es profesora). Use 'estar' for feelings and states right now (está nerviosa, está contenta). Watch out: English uses 'is' for both. 'Es nerviosa' would mean she is a nervous person by nature, not nervous today.",
+   "examples": [
+    [
+     "Se llama Camila y es de Chile.",
+     "Her name is Camila and she is from Chile."
+    ],
+    [
+     "Está muy nerviosa.",
+     "She is very nervous."
+    ],
+    [
+     "La profesora es de México y hoy está contenta.",
+     "The teacher is from Mexico and today she is happy."
+    ]
+   ]
+  },
+  {
+   "topic": "Gustar to say what you like",
+   "explain": "'Me gusta' = I like, 'te gusta' = you like. Use 'gusta' with one thing or an infinitive (an action): me gusta el fútbol, me gusta dibujar. Use 'gustan' with plural things: me gustan los libros. To agree, say '¡A mí también!' (Me too!). Watch out: never 'me gusto' or 'me gustan dibujar'.",
+   "examples": [
+    [
+     "— Camila, ¿te gusta el fútbol? —pregunta.",
+     "\"Camila, do you like soccer?\" she asks."
+    ],
+    [
+     "— No, me gusta dibujar —responde Camila.",
+     "\"No, I like to draw,\" answers Camila."
+    ],
+    [
+     "— ¡A mí también! —dice Ana.",
+     "\"Me too!\" says Ana."
+    ]
+   ]
+  },
+  {
+   "topic": "Tener: possession and hunger",
+   "explain": "'Tener' means 'to have' (tengo, tienes, tiene). Spanish also uses it where English uses 'to be' for some feelings: tener hambre (to be hungry), tener sed (to be thirsty), tener frío (to be cold). Watch out: say 'Tengo hambre', not 'Estoy hambre'. 'Hambre' is a noun, so 'very hungry' is 'mucha hambre'.",
+   "examples": [
+    [
+     "Tiene el pelo largo y negro.",
+     "She has long black hair."
+    ],
+    [
+     "Ana tiene un bocadillo de queso.",
+     "Ana has a cheese sandwich."
+    ],
+    [
+     "— ¿Tienes hambre? —pregunta Ana.",
+     "\"Are you hungry?\" asks Ana."
+    ]
+   ]
+  }
+ ],
+ "a1-04": [
+  {
+   "topic": "Querer and poder + infinitive",
+   "explain": "'Querer' (to want) and 'poder' (can, to be able to) are followed directly by an infinitive: quiere ir, puedes tomar. Both change their stem: quiero, quieres, quiere; puedo, puedes, puede. Querer can also take a noun: quiero mi paraguas. Watch out: no extra word for 'to': 'quiere ir', not 'quiere a ir'.",
+   "examples": [
+    [
+     "Julia quiere ir a la escuela.",
+     "Julia wants to go to school."
+    ],
+    [
+     "— No, pero puedes tomar este azul —dice el tío.",
+     "\"No, but you can take this blue one,\" says her uncle."
+    ],
+    [
+     "— Quiero mi paraguas rojo porque es mi favorito.",
+     "\"I want my red umbrella because it is my favorite.\""
+    ]
+   ]
+  },
+  {
+   "topic": "Ir a + place",
+   "explain": "'Ir' (to go) is irregular: voy, vas, va, vamos, van. Put 'a' (to) before the place: va a la tienda. Watch out: a + el contracts to 'al' (va al mercado, never 'a el'), and 'home' is just 'a casa', with no article. 'Va' can mean 'goes' or 'is going'.",
+   "examples": [
+    [
+     "Julia va a la tienda de su tío.",
+     "Julia goes to her uncle's shop."
+    ],
+    [
+     "Julia va al mercado con su papá.",
+     "Julia goes to the market with her dad."
+    ],
+    [
+     "Las dos van a casa muy contentas.",
+     "The two of them go home very happy."
+    ]
+   ]
+  },
+  {
+   "topic": "Negatives with no",
+   "explain": "To make a sentence negative, put 'no' right before the verb: no está, no tengo. If there is a small pronoun such as 'lo' (it), 'no' goes before the pronoun: Yo no lo tengo. Watch out: Spanish has no helper verb like 'don't/doesn't', so 'I don't have' is simply 'no tengo'.",
+   "examples": [
+    [
+     "No está en la sala.",
+     "It is not in the living room."
+    ],
+    [
+     "Papá dice: — Yo no lo tengo, Julia.",
+     "Dad says, \"I don't have it, Julia.\""
+    ],
+    [
+     "Su amiga Sara no tiene paraguas.",
+     "Her friend Sara has no umbrella."
+    ]
+   ]
+  },
+  {
+   "topic": "¿Dónde está…? and porque",
+   "explain": "'¿Dónde está…?' asks where one specific thing or person is ('¿Dónde están…?' for plural). It uses estar, never ser or hay. 'Porque' (one word, no accent) means 'because' and gives a reason; the question 'why?' is '¿Por qué?' (two words, accent). '¡Allí está!' = There it is!",
+   "examples": [
+    [
+     "— ¿Dónde está mi paraguas rojo? —pregunta.",
+     "\"Where is my red umbrella?\" she asks."
+    ],
+    [
+     "¡Allí está el paraguas rojo!",
+     "There is the red umbrella!"
+    ],
+    [
+     "— Quiero mi paraguas rojo porque es mi favorito.",
+     "\"I want my red umbrella because it is my favorite.\""
+    ]
+   ]
+  }
+ ],
+ "a1-05": [
+  {
+   "topic": "Hay and no hay",
+   "explain": "'Hay' = there is / there are; 'no hay' = there isn't / there aren't. It never changes for plural. Watch out: 'no' goes before hay ('no hay', never 'hay no'), and after 'no hay' Spanish usually drops the article: no hay huevos = there are no eggs / there aren't any eggs.",
+   "examples": [
+    [
+     "En la cocina hay leche y azúcar.",
+     "In the kitchen there is milk and sugar."
+    ],
+    [
+     "Pero no hay huevos.",
+     "But there are no eggs."
+    ],
+    [
+     "—¿Hay azúcar? —Sí, hay.",
+     "\"Is there any sugar?\" \"Yes, there is.\""
+    ]
+   ]
+  },
+  {
+   "topic": "Querer, necesitar, poder + infinitive",
+   "explain": "'Querer' (to want), 'necesitar' (to need) and 'poder' (can) are followed by an infinitive: quieren hacer, no puedo comprar. Only the first verb changes for the subject; the second stays in the infinitive. Querer and necesitar can also take a noun: necesitamos huevos. Watch out: querer and poder change their stem (quieren, puedo); necesitar is regular.",
+   "examples": [
+    [
+     "Sofía y Diego quieren hacer un pastel.",
+     "Sofía and Diego want to make a cake."
+    ],
+    [
+     "— Necesitamos huevos, leche y azúcar —dice Sofía.",
+     "\"We need eggs, milk and sugar,\" says Sofía."
+    ],
+    [
+     "— No puedo comprar los huevos —dice triste.",
+     "\"I can't buy the eggs,\" he says sadly."
+    ]
+   ]
+  },
+  {
+   "topic": "Ir: voy a + place",
+   "explain": "'Voy' is the 'I' form of ir (to go): 'Voy a la tienda' = I'm going to the store. 'A' means 'to' before a place, and a + el = al (voy al mercado). Watch out: 'voy a + place' says where you go, but 'voy a + infinitive' says what you're going to do: voy a comprar huevos.",
+   "examples": [
+    [
+     "— Voy a la tienda —dice Diego.",
+     "\"I'm going to the store,\" says Diego."
+    ],
+    [
+     "Voy al mercado con mi abuela.",
+     "I'm going to the market with my grandma."
+    ],
+    [
+     "Voy a comprar huevos.",
+     "I'm going to buy eggs."
+    ]
+   ]
+  },
+  {
+   "topic": "Time with a las",
+   "explain": "Use 'a las + number' to say at what time something happens: a las seis = at six. For one o'clock, say 'a la una'. Ask with '¿A qué hora…?' (At what time…?). Watch out: 'Son las seis' means 'It is six'; 'A las seis' means 'At six'. Spanish never uses 'en' with clock times.",
+   "examples": [
+    [
+     "A las seis, la abuela abre la puerta.",
+     "At six, Grandma opens the door."
+    ],
+    [
+     "—¿A qué hora es la fiesta? —A las seis.",
+     "\"What time is the party?\" \"At six.\""
+    ],
+    [
+     "La abuela come a la una.",
+     "Grandma eats at one."
+    ]
+   ]
+  }
+ ],
+ "a1-06": [
+  {
+   "topic": "Reflexive verbs",
+   "explain": "Reflexive verbs use a pronoun that matches the subject: me levanto (I get up), te levantas (you get up), se levanta (he/she gets up). The pronoun is a separate word before the conjugated verb. Many daily-routine verbs work this way: levantarse, ducharse, sentarse, llamarse. Watch out: English often has no 'myself' here, but Spanish needs the pronoun.",
+   "examples": [
+    [
+     "Todos los días me levanto a las seis.",
+     "Every day I get up at six."
+    ],
+    [
+     "Me ducho y tomo un café con leche.",
+     "I take a shower and have a coffee with milk."
+    ],
+    [
+     "Un señor mayor se sienta a mi lado.",
+     "An older man sits down next to me."
+    ]
+   ]
+  },
+  {
+   "topic": "Present tense: yo form",
+   "explain": "For 'I', regular present verbs end in -o: trabajar → trabajo, responder → respondo, vivir → vivo. Because the -o already shows 'I', Spanish usually leaves out 'yo' (use it for emphasis or contrast). Watch out: some very common verbs are irregular in the yo form: soy, estoy, voy, tengo.",
+   "examples": [
+    [
+     "Me llamo Lucía y vivo en Valencia.",
+     "My name is Lucía and I live in Valencia."
+    ],
+    [
+     "Me ducho y tomo un café con leche.",
+     "I take a shower and have a coffee with milk."
+    ],
+    [
+     "—No, trabajo en una librería —respondo yo.",
+     "\"No, I work in a bookstore,\" I answer."
+    ]
+   ]
+  },
+  {
+   "topic": "Estar for location",
+   "explain": "Use 'estar' to say where a person or thing is: La parada está cerca de mi calle. Useful partners: cerca de (near), lejos de (far from), al lado de (next to), en (in/on). Watch out: for where a known thing is, the standard verb is estar, not ser or hay: 'Mi trabajo está lejos'. And de + el = del.",
+   "examples": [
+    [
+     "Mi trabajo está muy lejos de mi casa.",
+     "My job is very far from my house."
+    ],
+    [
+     "La parada está cerca de mi calle.",
+     "The stop is near my street."
+    ],
+    [
+     "El hospital está al lado del parque.",
+     "The hospital is next to the park."
+    ]
+   ]
+  },
+  {
+   "topic": "Me gusta",
+   "explain": "'Me gusta' = I like (literally 'it pleases me'). Use 'gusta' with one thing or an infinitive and 'gustan' with plural things. 'Mucho' (a lot) goes after the verb: me gusta mucho. Watch out: 'I like it' is just 'me gusta', with no word for 'it', and 'I don't like' is 'no me gusta'.",
+   "examples": [
+    [
+     "Me gusta mucho mi viaje en autobús.",
+     "I like my bus ride very much."
+    ],
+    [
+     "Me gusta leer en el autobús.",
+     "I like to read on the bus."
+    ],
+    [
+     "No me gustan los lunes.",
+     "I don't like Mondays."
+    ]
+   ]
+  }
+ ],
+ "a1-07": [
+  {
+   "topic": "Estar for place and state",
+   "explain": "'Estar' tells where someone is and how they are now: está en un café, está mojada. Use 'está' for one person or thing and 'están' for more than one: ellos están contentos. Watch out: 'la ropa' (clothes) is singular in Spanish, so it's 'su ropa está mojada', even though English says 'her clothes are'.",
+   "examples": [
+    [
+     "Ana está en un café pequeño.",
+     "Ana is in a small café."
+    ],
+    [
+     "No tiene paraguas y su ropa está mojada.",
+     "She has no umbrella and her clothes are wet."
+    ],
+    [
+     "Ana y Tomás están contentos.",
+     "Ana and Tomás are happy."
+    ]
+   ]
+  },
+  {
+   "topic": "Hay: there is / there are",
+   "explain": "'Hay' (there is / there are) introduces something that exists in a place, often for the first time: hay una mesa libre. It never changes for plural: hay dos mesas. Watch out: use hay with un/una, numbers or no article; to talk about a specific thing (esta silla, la mesa), use estar: ¿Está libre esta silla?",
+   "examples": [
+    [
+     "Hay una mesa libre cerca de la ventana.",
+     "There is a free table near the window."
+    ],
+    [
+     "—Sí, claro, hay mucho espacio —dice Ana.",
+     "\"Yes, of course, there is a lot of room,\" says Ana."
+    ],
+    [
+     "—Perdón, ¿está libre esta silla?",
+     "\"Excuse me, is this chair free?\""
+    ]
+   ]
+  },
+  {
+   "topic": "Reflexive: se sienta, se llama",
+   "explain": "'Se' before a verb marks a reflexive verb in the he/she form: se sienta (sits down, literally 'seats herself'), se llama (is called, literally 'calls himself'). With 'I' it is 'me': me siento, me llamo. Watch out: 'Ana sienta' without 'se' is wrong, and sentarse changes e → ie: me siento, se sienta.",
+   "examples": [
+    [
+     "Ana se sienta y pide un chocolate caliente.",
+     "Ana sits down and orders a hot chocolate."
+    ],
+    [
+     "Se llama Tomás y también está mojado.",
+     "His name is Tomás and he is wet too."
+    ],
+    [
+     "Me llamo Ana.",
+     "My name is Ana."
+    ]
+   ]
+  },
+  {
+   "topic": "Present tense with vivir and leer",
+   "explain": "Regular -er and -ir verbs share these endings: -o (yo), -es (tú), -e (él/ella): leo, lees, lee; vivo, vives, vive. Watch out: the simple present also covers English 'I am reading': 'Yo también leo ese libro' = I'm reading that book too. You don't need a separate -ing form.",
+   "examples": [
+    [
+     "Al final, Tomás pregunta: —¿Dónde vives?",
+     "In the end, Tomás asks, \"Where do you live?\""
+    ],
+    [
+     "—Vivo en la calle Veinte, cerca del parque —responde Ana.",
+     "\"I live on Twenty Street, near the park,\" answers Ana."
+    ],
+    [
+     "—Yo también leo ese libro —dice Ana.",
+     "\"I am reading that book too,\" says Ana."
+    ]
+   ]
+  }
+ ],
+ "a1-08": [
+  {
+   "topic": "Tener que + infinitive",
+   "explain": "'Tener que' + infinitive means 'have to' or 'must': tienes que regar (you have to water). Only tener changes: tengo que, tienes que, tiene que. Watch out: don't drop 'que' ('tengo venir' is wrong), and don't confuse it with 'tengo' alone, which just means 'I have'.",
+   "examples": [
+    [
+     "—Tienes que regar las plantas conmigo, y las flores son tuyas.",
+     "\"You have to water the plants with me, and the flowers are yours.\""
+    ],
+    [
+     "—De nada. Tienes que venir otra vez mañana —sonríe ella.",
+     "\"You're welcome. You have to come again tomorrow,\" she smiles."
+    ],
+    [
+     "Tengo que ir al mercado.",
+     "I have to go to the market."
+    ]
+   ]
+  },
+  {
+   "topic": "Comparing with más … que",
+   "explain": "To compare, use 'más + adjective + que' = 'more … than' or '-er than': más grande que (bigger than), más bonitas que (prettier than). The adjective still agrees with the noun: las flores son más bonitas. Watch out: use 'que', not 'de' or 'como'. For 'better', say 'mejor'.",
+   "examples": [
+    [
+     "El jardín es más grande que su casa.",
+     "The garden is bigger than her house."
+    ],
+    [
+     "—Mis flores son más bonitas que las del mercado —dice ella.",
+     "\"My flowers are prettier than the ones at the market,\" she says."
+    ],
+    [
+     "Mi casa es más pequeña que tu casa.",
+     "My house is smaller than your house."
+    ]
+   ]
+  },
+  {
+   "topic": "Tener: age and having",
+   "explain": "Spanish uses 'tener' for age: Nico tiene diez años = Nico is ten (literally 'has ten years'). Ask: ¿Cuántos años tienes? (How old are you?). Tener also means to have or own: tiene un jardín. Watch out: never use ser or estar for age ('Nico es diez años' is wrong), and don't leave out 'años'.",
+   "examples": [
+    [
+     "Nico tiene diez años y vive en Oaxaca.",
+     "Nico is ten years old and lives in Oaxaca."
+    ],
+    [
+     "—¿Cuántos años tienes? —Tengo diez años.",
+     "\"How old are you?\" \"I'm ten.\""
+    ],
+    [
+     "Su vecina, la señora Elena, tiene un jardín.",
+     "His neighbor, Mrs. Elena, has a garden."
+    ]
+   ]
+  },
+  {
+   "topic": "¿Por qué? and porque",
+   "explain": "'¿Por qué?' (two words, with an accent) asks 'why?'. 'Porque' (one word, no accent) answers 'because'. Watch out: they sound almost the same, so the difference shows in writing: question = ¿por qué?, answer = porque.",
+   "examples": [
+    [
+     "—Nico, ¿por qué estás triste? —pregunta ella.",
+     "\"Nico, why are you sad?\" she asks."
+    ],
+    [
+     "Está triste porque solo tiene veinte pesos.",
+     "He is sad because he only has twenty pesos."
+    ],
+    [
+     "—¿Por qué? —Porque no tengo dinero.",
+     "\"Why?\" \"Because I don't have any money.\""
+    ]
+   ]
+  }
+ ],
+ "a1-09": [
+  {
+   "topic": "Ir a + infinitive: the near future",
+   "explain": "'Ir a' + infinitive talks about the future, like English 'going to': voy a cocinar, vas a hacer, va a estar. Pattern: voy/vas/va/vamos/van + a + infinitive. Watch out: don't drop the 'a' ('vas hacer' is wrong), and don't conjugate the second verb ('vas a haces' is wrong).",
+   "examples": [
+    [
+     "—El sábado es mi cumpleaños y voy a estar sola.",
+     "\"Saturday is my birthday and I'm going to be alone.\""
+    ],
+    [
+     "—Entonces, ¿qué vas a hacer el sábado?",
+     "\"So, what are you going to do on Saturday?\""
+    ],
+    [
+     "—Voy a cocinar una tortilla y ver una película.",
+     "\"I'm going to cook a tortilla and watch a movie.\""
+    ]
+   ]
+  },
+  {
+   "topic": "Question words",
+   "explain": "Question words carry a written accent: ¿qué? (what), ¿por qué? (why), ¿dónde? (where), ¿cómo? (how), ¿cuándo? (when), ¿quién? (who). Written questions open with ¿ and close with ?. '¿Qué tal estás?' = How are you? Watch out: '¿Qué dices?' literally asks 'What are you saying?', but often shows surprise, like 'What?!'",
+   "examples": [
+    [
+     "—¡Hola, Marta! ¿Qué tal estás?",
+     "\"Hi, Marta! How are you?\""
+    ],
+    [
+     "—¿Por qué estás triste? —pregunta él.",
+     "\"Why are you sad?\" he asks."
+    ],
+    [
+     "—¿Qué dices? ¡Tú vives en Madrid!",
+     "\"What are you saying? You live in Madrid!\""
+    ]
+   ]
+  },
+  {
+   "topic": "Ser for time, estar for feelings",
+   "explain": "Use 'ser' for the day and the time: Es viernes, Son las dos. Use 'estar' for how you feel and where you are: Estoy bien, Estoy en Sevilla. 'Estoy' is the 'I' form of estar. Watch out: 'I'm fine' is always 'Estoy bien'; 'Soy bien' is wrong.",
+   "examples": [
+    [
+     "Es viernes por la tarde y suena el teléfono.",
+     "It is Friday afternoon and the phone rings."
+    ],
+    [
+     "—Hola, Javier. Estoy bien, pero un poco triste.",
+     "\"Hi, Javier. I'm fine, but a little sad.\""
+    ],
+    [
+     "—Sí, pero ahora estoy en Sevilla, delante de tu edificio.",
+     "\"Yes, but right now I'm in Seville, in front of your building.\""
+    ]
+   ]
+  },
+  {
+   "topic": "El sábado: on Saturday",
+   "explain": "With days of the week, Spanish uses 'el' where English uses 'on': el sábado = on Saturday. 'Los sábados' = on Saturdays (every week). Days are written in lowercase. Watch out: don't add 'en': 'en el sábado' is wrong.",
+   "examples": [
+    [
+     "—Entonces, ¿qué vas a hacer el sábado?",
+     "\"So, what are you going to do on Saturday?\""
+    ],
+    [
+     "El sábado no va a estar sola.",
+     "On Saturday she is not going to be alone."
+    ],
+    [
+     "Los sábados como con mi familia.",
+     "On Saturdays I eat with my family."
+    ]
+   ]
+  }
+ ],
+ "a1-10": [
+  {
+   "topic": "Ir a + infinitive",
+   "explain": "'Ir a' + infinitive says what people are going to do: voy a, vas a, va a, vamos a, van a + infinitive. 'Vamos a ir a la playa' has two a's: one for the future, one meaning 'to' the beach. Watch out: 'vamos a + infinitive' can also mean 'let's…': ¡Vamos a comer! = Let's eat!",
+   "examples": [
+    [
+     "—El sábado vamos a ir a la playa —dice Elena.",
+     "\"On Saturday we are going to go to the beach,\" says Elena."
+    ],
+    [
+     "—Entonces el abuelo va a venir con nosotros.",
+     "\"Then Grandpa is going to come with us.\""
+    ],
+    [
+     "Los tres van a pasar un día perfecto.",
+     "The three of them are going to have a perfect day."
+    ]
+   ]
+  },
+  {
+   "topic": "Days and times of day",
+   "explain": "'El sábado' = on Saturday; 'a las ocho' = at eight. With a clock time, use 'de la mañana / de la tarde / de la noche': a las ocho de la mañana. Without a clock time, use 'por la mañana / por la tarde / por la noche': el viernes por la noche. Watch out: no 'en' before days.",
+   "examples": [
+    [
+     "—A Cádiz. El tren sale a las ocho de la mañana.",
+     "\"To Cádiz. The train leaves at eight in the morning.\""
+    ],
+    [
+     "El viernes por la noche, los hermanos preparan las mochilas.",
+     "On Friday night, the siblings pack their backpacks."
+    ],
+    [
+     "El sábado, los tres llegan a la estación temprano.",
+     "On Saturday, the three of them arrive at the station early."
+    ]
+   ]
+  },
+  {
+   "topic": "Estar for location",
+   "explain": "'Estar' tells where people or things are: están en la cocina, ¿Dónde están…?, Aquí están. Use 'está' for one and 'están' for more than one. Watch out: 'Aquí están' = Here they are; Spanish needs no word for 'they' because the verb ending shows it. Don't use 'son' or 'hay' for where known things are.",
+   "examples": [
+    [
+     "Elena y su hermano Raúl están en la cocina.",
+     "Elena and her brother Raúl are in the kitchen."
+    ],
+    [
+     "—¿Dónde están los billetes? —grita él.",
+     "\"Where are the tickets?\" he shouts."
+    ],
+    [
+     "—Aquí están. Yo los tengo.",
+     "\"Here they are. I have them.\""
+    ]
+   ]
+  },
+  {
+   "topic": "Más … que and tener",
+   "explain": "To compare, use 'más + adjective + que': más grande que = bigger than. For age, Spanish uses 'tener', not 'ser': Él tiene ochenta años = He is eighty years old (literally 'has eighty years'). Watch out: 'más grande de' and 'es ochenta años' are typical English-speaker mistakes.",
+   "examples": [
+    [
+     "—Es más grande que en mis recuerdos —dice.",
+     "\"It is bigger than in my memories,\" he says."
+    ],
+    [
+     "—Perfecto. Él tiene ochenta años y quiere ver el mar.",
+     "\"Perfect. He is eighty years old and wants to see the sea.\""
+    ],
+    [
+     "El mar es más grande que el lago.",
+     "The sea is bigger than the lake."
+    ]
+   ]
+  }
+ ]
+}

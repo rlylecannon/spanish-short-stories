@@ -1,0 +1,185 @@
+[
+ {
+  "id": "P-C1-15",
+  "level": "C1",
+  "skill": "grammar",
+  "q": "Choose the correct form: Por mucho que ___, no logrará convencerme.",
+  "options": [
+   "insista",
+   "insiste",
+   "insistirá",
+   "insistía"
+  ],
+  "answer": 0,
+  "why": "Concessive 'por mucho que' with a future-oriented, hypothetical situation takes the present subjunctive.",
+  "topic": "concessive por mucho que + subjunctive"
+ },
+ {
+  "id": "P-C1-16",
+  "level": "C1",
+  "skill": "grammar",
+  "q": "Choose the correct form: Las nuevas medidas ___ por unanimidad en el Congreso.",
+  "options": [
+   "fue aprobado",
+   "fueron aprobadas",
+   "fueron aprobado",
+   "han aprobadas"
+  ],
+  "answer": 1,
+  "why": "The ser passive requires the participle to agree in gender and number with the plural feminine subject.",
+  "topic": "ser passive agreement"
+ },
+ {
+  "id": "P-C1-17",
+  "level": "C1",
+  "skill": "grammar",
+  "q": "Choose the most appropriate expression for a formal business email: '___ adjunto el contrato para su revisión.'",
+  "options": [
+   "Te paso",
+   "Mira, te mando",
+   "Le remito",
+   "Ahí va"
+  ],
+  "answer": 2,
+  "why": "'Le remito' is the formal, usted-based register suited to professional correspondence.",
+  "topic": "register: formal correspondence"
+ },
+ {
+  "id": "P-C1-18",
+  "level": "C1",
+  "skill": "grammar",
+  "q": "Choose the correct word: Con ese comentario tan fuera de lugar, ___ la pata delante de todos.",
+  "options": [
+   "puso",
+   "echó",
+   "tiró",
+   "metió"
+  ],
+  "answer": 3,
+  "why": "The idiom is 'meter la pata', meaning to make an embarrassing blunder.",
+  "topic": "idiom meter la pata"
+ },
+ {
+  "id": "P-C1-19",
+  "level": "C1",
+  "skill": "grammar",
+  "q": "Choose the correct form: De haber sabido la verdad, ___ de otro modo.",
+  "options": [
+   "actuaré",
+   "habría actuado",
+   "actué",
+   "actúo"
+  ],
+  "answer": 1,
+  "why": "'De + past infinitive' introduces a contrary-to-fact past condition, so the result clause takes the conditional perfect.",
+  "topic": "de + infinitive conditional"
+ },
+ {
+  "id": "P-C1-20",
+  "level": "C1",
+  "skill": "grammar",
+  "q": "Choose the correct word: El autor, ___ obras fueron censuradas durante años, vivió exiliado.",
+  "options": [
+   "cuyo",
+   "cuyas",
+   "cuyos",
+   "cuya"
+  ],
+  "answer": 1,
+  "why": "'Cuyo' agrees with the thing possessed (obras: feminine plural), not with the possessor.",
+  "topic": "relative cuyo agreement"
+ },
+ {
+  "id": "P-C1-21",
+  "level": "C1",
+  "skill": "vocab",
+  "q": "Choose the correct word: Ese reloj me costó un ___ de la cara.",
+  "options": [
+   "brazo",
+   "pie",
+   "ojo",
+   "dedo"
+  ],
+  "answer": 2,
+  "why": "The fixed expression meaning 'cost a fortune' is 'costar un ojo de la cara'.",
+  "topic": "idiom costar un ojo de la cara"
+ },
+ {
+  "id": "P-C1-22",
+  "level": "C1",
+  "skill": "vocab",
+  "q": "Choose the correct word: Es una persona muy ___: nunca revela lo que piensa ni lo que siente.",
+  "options": [
+   "locuaz",
+   "afable",
+   "vehemente",
+   "hermética"
+  ],
+  "answer": 3,
+  "why": "'Hermético' describes someone closed-off and secretive, matching the second clause.",
+  "topic": "adjectives of character"
+ },
+ {
+  "id": "P-C1-23",
+  "level": "C1",
+  "skill": "vocab",
+  "q": "Choose the correct connector: Primero dijo que sí y luego que no; ___, nadie sabe qué piensa realmente.",
+  "options": [
+   "en definitiva",
+   "por el contrario",
+   "no obstante",
+   "a pesar de ello"
+  ],
+  "answer": 0,
+  "why": "'En definitiva' introduces a summarizing conclusion, which fits; the other connectors express contrast.",
+  "topic": "discourse markers: conclusion"
+ },
+ {
+  "id": "P-C1-24",
+  "level": "C1",
+  "skill": "reading",
+  "passage": "El ayuntamiento anunció con gran entusiasmo la inauguración de la nueva ciclovía, que, según el alcalde, «transformará la movilidad de la ciudad». Sin embargo, el carril apenas mide dos kilómetros, termina frente a un estacionamiento y no conecta con ninguna estación de metro. Los ciclistas, lejos de celebrarlo, lo llaman «el camino a ninguna parte». Nadie discute que la intención sea buena, pero la obra parece pensada más para la fotografía que para quienes pedalean.",
+  "q": "Read the text. ¿Cuál es la crítica principal del autor?",
+  "options": [
+   "La obra resultó demasiado costosa para la ciudad.",
+   "Se concibió más por su imagen pública que por su utilidad real.",
+   "Los ciclistas no la usan por falta de seguridad.",
+   "El alcalde ignoró las opiniones de los vecinos."
+  ],
+  "answer": 1,
+  "why": "The final sentence says the project seems designed more for the photograph than for cyclists.",
+  "topic": "author's critique"
+ },
+ {
+  "id": "P-C1-25",
+  "level": "C1",
+  "skill": "reading",
+  "passage": "Pese a lo que suele creerse, la siesta no es una costumbre universal en España; las encuestas recientes indican que apenas una de cada cinco personas la practica a diario. El mito persiste, en parte, porque el turismo lo ha convertido en postal. Además, los horarios laborales, cada vez más parecidos a los del resto de Europa, la hacen inviable para la mayoría. Quizá convenga hablar, más bien, de un ideal nostálgico que de un hábito real.",
+  "q": "Read the text. ¿Qué sostiene el texto sobre la siesta?",
+  "options": [
+   "Está desapareciendo por la presión del turismo.",
+   "Solo se practica en el lugar de trabajo.",
+   "Es una práctica minoritaria cuya fama supera su realidad.",
+   "Es más habitual en el resto de Europa que en España."
+  ],
+  "answer": 2,
+  "why": "The text says only about one in five people nap daily and calls the habit more a nostalgic ideal than a real custom.",
+  "topic": "main claim"
+ },
+ {
+  "id": "P-C1-26",
+  "level": "C1",
+  "skill": "reading",
+  "passage": "Cuando le preguntaron si su hallazgo cambiaría la medicina, la investigadora sonrió y se encogió de hombros. «Es demasiado pronto para decirlo —respondió—. Los resultados son prometedores, pero se han obtenido en ratones, y la historia está llena de tratamientos que fracasaron al llegar a las personas.» Su colega, más optimista, prefirió no frenar el entusiasmo del público. Ella, en cambio, insistió en que la cautela forma parte del método científico y no es una señal de pesimismo.",
+  "q": "Read the text. ¿Qué actitud muestra la investigadora ante su hallazgo?",
+  "options": [
+   "Escepticismo hacia la ciencia en general.",
+   "Entusiasmo igual al de su colega.",
+   "Molestia con la prensa y el público.",
+   "Prudencia, sin negar su potencial."
+  ],
+  "answer": 3,
+  "why": "She calls the results promising but stresses caution as part of scientific method, not pessimism.",
+  "topic": "attitude of speaker"
+ }
+]

@@ -1,0 +1,185 @@
+[
+ {
+  "id": "P-C2-15",
+  "level": "C2",
+  "skill": "grammar",
+  "q": "Choose the correct word: De ___ sabido la verdad, nunca habría firmado el contrato.",
+  "options": [
+   "haber",
+   "habiendo",
+   "hubiera",
+   "habría"
+  ],
+  "answer": 0,
+  "why": "The structure «de + haber + participle» expresses a past hypothetical condition without a conjugated verb.",
+  "topic": "de + infinitive conditional"
+ },
+ {
+  "id": "P-C2-16",
+  "level": "C2",
+  "skill": "grammar",
+  "q": "Choose the correct word: Son las diez y Marta no ha llegado. ___ perdido el autobús.",
+  "options": [
+   "Hubiera",
+   "Habrá",
+   "Haya",
+   "Ha"
+  ],
+  "answer": 1,
+  "why": "The future perfect is used to express a conjecture about a past action relative to the present.",
+  "topic": "future perfect conjecture"
+ },
+ {
+  "id": "P-C2-17",
+  "level": "C2",
+  "skill": "grammar",
+  "q": "Choose the correct word: Quienquiera que ___ el autor de esa calumnia, tendrá que responder ante la ley.",
+  "options": [
+   "es",
+   "será",
+   "sea",
+   "fue"
+  ],
+  "answer": 2,
+  "why": "«Quienquiera que» (whoever) requires the present subjunctive when the identity is unknown.",
+  "topic": "quienquiera que + subjunctive"
+ },
+ {
+  "id": "P-C2-18",
+  "level": "C2",
+  "skill": "grammar",
+  "q": "Choose the correct word: ¡Ni que yo ___ millonario para comprarme algo así!",
+  "options": [
+   "soy",
+   "sería",
+   "seré",
+   "fuera"
+  ],
+  "answer": 3,
+  "why": "«Ni que» + imperfect subjunctive rejects an absurd, contrary-to-fact supposition.",
+  "topic": "ni que + imperfect subjunctive"
+ },
+ {
+  "id": "P-C2-19",
+  "level": "C2",
+  "skill": "grammar",
+  "q": "Choose the correct phrase: Anunció que no vendría a la reunión, ___ nos sorprendió a todos.",
+  "options": [
+   "lo cual",
+   "el cual",
+   "cual",
+   "que"
+  ],
+  "answer": 0,
+  "why": "«Lo cual» refers back to the whole preceding clause as a neuter relative; «el cual» needs a masculine noun antecedent and bare «que» cannot follow a comma here.",
+  "topic": "neuter relative lo cual"
+ },
+ {
+  "id": "P-C2-20",
+  "level": "C2",
+  "skill": "grammar",
+  "q": "Choose the correct word: No es que me ___ miedo la entrevista; es que prefiero prepararme mejor.",
+  "options": [
+   "da",
+   "dé",
+   "daría",
+   "di"
+  ],
+  "answer": 1,
+  "why": "A denied cause introduced by «no es que» takes the subjunctive.",
+  "topic": "no es que + subjunctive"
+ },
+ {
+  "id": "P-C2-21",
+  "level": "C2",
+  "skill": "vocab",
+  "q": "¿Qué significa «echar balones fuera»?",
+  "options": [
+   "Lanzar pelotas con mucha fuerza",
+   "Expulsar a alguien de un equipo",
+   "Eludir una responsabilidad desviando la atención hacia otro asunto o persona",
+   "Admitir un error ante todos"
+  ],
+  "answer": 2,
+  "why": "The idiom means to dodge responsibility by deflecting the issue elsewhere.",
+  "topic": "idiom echar balones fuera"
+ },
+ {
+  "id": "P-C2-22",
+  "level": "C2",
+  "skill": "vocab",
+  "q": "Choose the correct verb: Los peritos trabajan para ___ las causas del incendio.",
+  "options": [
+   "eludir",
+   "aludir",
+   "ilusionar",
+   "elucidar"
+  ],
+  "answer": 3,
+  "why": "«Elucidar» means to clarify or explain; «eludir» means to avoid and «aludir» means to refer to.",
+  "topic": "paronyms elucidar/eludir/aludir"
+ },
+ {
+  "id": "P-C2-23",
+  "level": "C2",
+  "skill": "vocab",
+  "q": "¿Qué significa el adjetivo «mordaz» en «Su crítica fue mordaz»?",
+  "options": [
+   "Aguda, irónica e hiriente",
+   "Cariñosa y alentadora",
+   "Larga y aburrida",
+   "Tímida y poco clara"
+  ],
+  "answer": 0,
+  "why": "«Mordaz» describes speech that is sharp and caustic.",
+  "topic": "adjective mordaz"
+ },
+ {
+  "id": "P-C2-24",
+  "level": "C2",
+  "skill": "reading",
+  "passage": "El alcalde inauguró ayer el puente que, según prometió hace seis años, estaría listo en doce meses. En su discurso agradeció la «paciencia ejemplar» de los vecinos, que durante todo ese tiempo han tenido que dar un rodeo de veinte kilómetros cada mañana. Los asistentes aplaudieron con cortesía, y alguien comentó que por fin podrían llegar al trabajo antes del almuerzo. Al terminar, el alcalde anunció que ya se estudia la construcción de un segundo puente.",
+  "q": "Read the text. ¿Qué sugiere el texto al citar la «paciencia ejemplar» de los vecinos?",
+  "options": [
+   "Que el alcalde reconoce con humildad su responsabilidad en el retraso",
+   "Que el alcalde presenta como virtud ajena lo que fue consecuencia de su propio incumplimiento",
+   "Que los vecinos se organizaron para pedir calma a las autoridades",
+   "Que el puente se terminó antes de lo prometido"
+  ],
+  "answer": 1,
+  "why": "The speech turns the neighbours' forced detours, caused by the mayor's broken promise, into a compliment to them.",
+  "topic": "irony in political speech"
+ },
+ {
+  "id": "P-C2-25",
+  "level": "C2",
+  "skill": "reading",
+  "passage": "Cuando por fin regresó al pueblo, Elena apenas reconoció la plaza. El quiosco había desaparecido y en su lugar relucía una cafetería de cristal. Se sentó en el banco de siempre, que alguien había pintado de un verde estridente, y pidió un café que no le supo a nada. «Cómo cambian las cosas», dijo sin dirigirse a nadie, aunque en el fondo sabía que la que había cambiado era ella.",
+  "q": "Read the text. ¿Qué sugiere la última frase del texto?",
+  "options": [
+   "Que el pueblo no ha cambiado en absoluto desde su partida",
+   "Que Elena se arrepiente de haber regresado",
+   "Que la sensación de extrañeza se debe más al cambio de Elena que al del pueblo",
+   "Que el café de la cafetería es de mala calidad"
+  ],
+  "answer": 2,
+  "why": "Elena realizes that the real change is in herself, so her remark about things changing is ironic and self-aware.",
+  "topic": "inference literary narrative"
+ },
+ {
+  "id": "P-C2-26",
+  "level": "C2",
+  "skill": "reading",
+  "passage": "Los arrendatarios deberán abonar la renta dentro de los cinco primeros días de cada mes, so pena de incurrir en mora. No obstante, la propiedad podrá conceder una prórroga por escrito, siempre y cuando medie causa justificada. Transcurridos treinta días sin que se haya satisfecho el pago ni otorgado prórroga alguna, se entenderá resuelto el contrato de pleno derecho.",
+  "q": "Read the text. ¿Qué significa «so pena de incurrir en mora»?",
+  "options": [
+   "Con la condición de recibir una compensación económica",
+   "Aunque no se produzca ninguna sanción por el retraso",
+   "Con el fin de que la propiedad pueda conceder prórrogas",
+   "Bajo la amenaza de caer en situación de impago si no se cumple el plazo"
+  ],
+  "answer": 3,
+  "why": "«So pena de» introduces the penalty that follows non-compliance, here being legally in default.",
+  "topic": "legal register so pena de"
+ }
+]

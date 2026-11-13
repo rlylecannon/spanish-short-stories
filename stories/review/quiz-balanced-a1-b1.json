@@ -1,0 +1,1002 @@
+{
+  "a1-01": [
+    {
+      "q": "¿Qué hora es cuando no hay flan?",
+      "options": [
+        "Las cuatro",
+        "Las tres",
+        "Las seis",
+        "Las cinco"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "¿Dónde están los lentes?",
+      "options": [
+        "En la sala",
+        "En la mesa",
+        "Con el abuelo",
+        "En el piso"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Según Xóchitl, ¿por qué Chispa no come el flan?",
+      "options": [
+        "Porque los perros no comen caramelo",
+        "Porque Chispa no tiene sueño hoy",
+        "Porque los perros no tienen cuchara",
+        "Porque a Chispa no le gusta el flan"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "¿Quién come el flan? ¿Cómo lo sabe Xóchitl?",
+      "options": [
+        "Mamá: está sola en la cocina",
+        "Chispa: está en el piso con sueño",
+        "Xóchitl: tiene la cuchara de la mesa",
+        "El abuelo: caramelo en el bigote"
+      ],
+      "answer": 3
+    }
+  ],
+  "a1-02": [
+    {
+      "q": "¿Dónde trabaja Delfina?",
+      "options": [
+        "En una parrilla",
+        "En una escuela",
+        "En un mercado",
+        "En una panadería"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "¿Cuántas personas hay en la mesa seis?",
+      "options": [
+        "Cinco",
+        "Seis",
+        "Nueve",
+        "Tres"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "¿Por qué Delfina pone nueve bifes en la parrilla?",
+      "options": [
+        "Hay nueve personas en la mesa seis",
+        "El mozo dice «nueve» en voz alta",
+        "Lee mal la comanda: el «6» está al revés",
+        "Don Horacio quiere nueve bifes para él"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "¿Para quién son los tres bifes de más?",
+      "options": [
+        "Para la mesa de seis personas",
+        "Para Delfina y don Horacio",
+        "Para don Horacio y el mozo",
+        "Para tres clientes nuevos"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "En «¡La comanda está al revés!», ¿qué significa «al revés»?",
+      "options": [
+        "Upside down",
+        "Already done",
+        "Too small",
+        "Very late"
+      ],
+      "answer": 0
+    }
+  ],
+  "a1-03": [
+    {
+      "q": "¿De dónde es Alicia?",
+      "options": [
+        "De México",
+        "De Chile",
+        "De Perú",
+        "De España"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "¿Cómo está Alicia al principio?",
+      "options": [
+        "Muy enferma",
+        "Muy enfadada",
+        "Muy nerviosa",
+        "Muy contenta"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "¿Qué le gusta a Alicia?",
+      "options": [
+        "Correr",
+        "Cantar",
+        "Bailar",
+        "Dibujar"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "¿Qué tiene Cristina para comer?",
+      "options": [
+        "Un bocadillo de queso",
+        "Un bocadillo de jamón",
+        "Una manzana roja",
+        "Una pizza de queso"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "¿Qué tiene Alicia al final?",
+      "options": [
+        "Un gato nuevo",
+        "Una amiga nueva",
+        "Una mochila nueva",
+        "Un libro nuevo"
+      ],
+      "answer": 1
+    }
+  ],
+  "a1-04": [
+    {
+      "q": "¿Qué hay en la ventana de la panadería?",
+      "options": [
+        "Una torta roja con fresas blancas",
+        "Una chaqueta roja para Tinto",
+        "Una torta blanca con fresas rojas",
+        "Una torta de chocolate con fresas"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "¿Por qué Tinto tiene una chaqueta?",
+      "options": [
+        "Porque es policía",
+        "Porque va al parque",
+        "Porque llueve mucho",
+        "Porque hace frío"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Según la señora, ¿cómo es el «chico»?",
+      "options": [
+        "Bajo, con el pelo negro y zapatos blancos",
+        "Alto, con el pelo negro y zapatos blancos",
+        "Bajo, con el pelo rubio y zapatos negros",
+        "Alto, con chaqueta azul y zapatos negros"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "¿Por qué el domiciliario no es el ladrón?",
+      "options": [
+        "Porque no está en el parque",
+        "Porque es alto, no bajo",
+        "Porque no tiene chaqueta",
+        "Porque es el policía Edwin"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "¿Qué son los «zapatos blancos» del chico bajo?",
+      "options": [
+        "Las fresas de la torta",
+        "La chaqueta del domiciliario",
+        "Las patas blancas de Tinto",
+        "Los zapatos blancos de Edwin"
+      ],
+      "answer": 2
+    }
+  ],
+  "a1-05": [
+    {
+      "q": "¿Por qué Nerea y su abuelo esperan?",
+      "options": [
+        "Los churros no están listos",
+        "La chocolatería está cerrada",
+        "No tienen dinero para pagar",
+        "No hay mesas libres a las nueve"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "¿Cuánto cuestan dos chocolates con churros?",
+      "options": [
+        "Diez euros",
+        "Nueve euros",
+        "Cinco euros",
+        "Veinte euros"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "¿Por qué el abuelo sabe los precios sin mirar el menú?",
+      "options": [
+        "Lee los precios en la caja",
+        "Trabajó allí cuarenta años",
+        "Nerea le dice los precios",
+        "Va allí con Nerea cada domingo"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "En la línea «Quiero pedir yo», ¿qué significa «pedir»?",
+      "options": [
+        "To wait",
+        "To pay",
+        "To order",
+        "To taste"
+      ],
+      "answer": 2
+    }
+  ],
+  "a1-06": [
+    {
+      "q": "¿Por qué el tío Wilfredo no se sienta con su hermano?",
+      "options": [
+        "Por el bizcocho",
+        "Por el micrófono",
+        "Por el arroz",
+        "Por el dominó"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "¿Dónde quiere la mesa Ismael?",
+      "options": [
+        "Al lado del bizcocho",
+        "Cerca del micrófono",
+        "Cerca de la tía Nilda",
+        "Lejos de la abuela"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "En «La suegra de Kiara», ¿qué significa «suegra»?",
+      "options": [
+        "Sister-in-law",
+        "Mother-in-law",
+        "Stepmother",
+        "Grandmother"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "¿Por qué los hermanos se ríen juntos el sábado?",
+      "options": [
+        "El padrino canta una canción",
+        "La suegra prueba el arroz y le gusta",
+        "Juegan juntos contra la abuela",
+        "Comen mucho bizcocho con Ismael"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Al final, ¿qué dice la suegra del arroz de Nilda?",
+      "options": [
+        "Que prefiere bizcocho",
+        "Que es de la abuela",
+        "Que no le gusta nada",
+        "Que ahora le gusta"
+      ],
+      "answer": 3
+    }
+  ],
+  "a1-07": [
+    {
+      "q": "¿Qué lee papá en el tren?",
+      "options": [
+        "Un libro sobre Machu Picchu",
+        "Un mapa de la ciudad de Cusco",
+        "Un libro sobre las llamas",
+        "Un libro sobre el quechua"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "¿Por qué Marina está triste?",
+      "options": [
+        "Porque papá lee y no habla",
+        "Porque hay muchas nubes",
+        "Porque el tren llega tarde",
+        "Porque la llama no se mueve"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "«Vivo abajo, en Aguas Calientes.» ¿Dónde está Aguas Calientes?",
+      "options": [
+        "Arriba, en la ciudad inca",
+        "Dentro del tren de Cusco",
+        "Abajo, al pie de la montaña",
+        "Muy lejos, en otro país"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "¿Por qué Pelusa se levanta a las doce?",
+      "options": [
+        "Porque Marina le da comida",
+        "Porque llega otra llama blanca",
+        "Porque papá lee en voz alta",
+        "Porque sabe cuándo hay sol"
+      ],
+      "answer": 3
+    }
+  ],
+  "a1-08": [
+    {
+      "q": "¿Dónde encuentra Lina el mapa?",
+      "options": [
+        "En un libro de piratas",
+        "En la Torre del Reloj",
+        "En el castillo de San Felipe",
+        "En un puesto de dulces"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "¿Qué es el tesoro?",
+      "options": [
+        "Un castillo pequeño",
+        "Unos dulces de coco",
+        "Un libro de piratas",
+        "Oro de los piratas"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "¿Quién pone el mapa en el libro, probablemente?",
+      "options": [
+        "Un guía del castillo",
+        "Julián, el primo de Lina",
+        "El hermano de la señora",
+        "Un pirata de Cartagena"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "En el cuento, «un puesto» es…",
+      "options": [
+        "un barco viejo de piratas",
+        "una torre alta con un reloj",
+        "una puerta grande de la muralla",
+        "un lugar pequeño donde se vende"
+      ],
+      "answer": 3
+    }
+  ],
+  "a1-09": [
+    {
+      "q": "¿Qué día llama Javier?",
+      "options": [
+        "El viernes",
+        "El lunes",
+        "El sábado",
+        "El domingo"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "¿Por qué Marta está triste?",
+      "options": [
+        "No tiene pan ni queso en casa",
+        "Va a estar sola el fin de semana",
+        "Tiene que trabajar el fin de semana",
+        "Javier no la llama por teléfono"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "¿Qué va a hacer Marta el sábado?",
+      "options": [
+        "Ir a Madrid a ver a Javier",
+        "Trabajar con sus amigas",
+        "Ver una película y cocinar",
+        "Comer con su familia en casa"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "¿Dónde está Javier cuando llama?",
+      "options": [
+        "En su casa, en el centro de Madrid",
+        "En la cocina de Marta, en Sevilla",
+        "En la estación de tren de Sevilla",
+        "Delante del edificio de Marta"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "¿Qué lleva Javier en las manos?",
+      "options": [
+        "Una maleta y unas flores",
+        "Pan y queso para el sábado",
+        "Una tortilla y unas flores",
+        "Una maleta y una película"
+      ],
+      "answer": 0
+    }
+  ],
+  "a1-10": [
+    {
+      "q": "¿Adónde van a ir los hermanos?",
+      "options": [
+        "A Madrid",
+        "A Cádiz",
+        "A Sevilla",
+        "A Valencia"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "¿Quién más va a ir con ellos?",
+      "options": [
+        "Un amigo",
+        "La mamá",
+        "El abuelo",
+        "La abuela"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "¿Cómo van a viajar?",
+      "options": [
+        "En coche",
+        "En avión",
+        "En autobús",
+        "En tren"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "¿Quién tiene los billetes?",
+      "options": [
+        "Elena",
+        "El abuelo",
+        "Raúl",
+        "Nadie"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "¿Qué dice el abuelo del mar?",
+      "options": [
+        "Es igual que en sus recuerdos",
+        "Es más grande que en sus recuerdos",
+        "Está más frío que en sus recuerdos",
+        "Es más feo que en sus recuerdos"
+      ],
+      "answer": 1
+    }
+  ],
+  "b1-01": [
+    {
+      "q": "Cuando Inés dice «No, hijo, no hace falta», quiere decir que…",
+      "options": [
+        "no tiene hambre y no quiere churros",
+        "no quiere hablar más con Gustavo",
+        "no necesita ninguna recompensa",
+        "Gustavo es su hijo de verdad"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "¿Cómo supo Inés adónde ir?",
+      "options": [
+        "Llamó al teléfono que había en la cartera",
+        "Vio a Gustavo corriendo por el Retiro",
+        "Preguntó en la comisaría por Gustavo Montoya",
+        "Leyó la dirección en un papel de la cartera"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "¿Por qué decidió Inés llevar la cartera ella misma?",
+      "options": [
+        "Pensó que el joven estaría preocupado",
+        "Quería que Gustavo le diera una recompensa",
+        "La comisaría estaba cerrada ese día",
+        "Tenía que ir a Lavapiés de todas formas"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "¿Por qué era tan importante la fotografía para Gustavo?",
+      "options": [
+        "Era de su madre, que nació en Chile",
+        "Era de su abuela, que nació en Madrid",
+        "Era de Inés de joven, en Lavapiés",
+        "Era de su novia, que vivía en Madrid"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "¿Por qué volvió Inés a casa más contenta?",
+      "options": [
+        "Ya no le dolía la rodilla después del paseo",
+        "Gustavo le dio una recompensa en dinero",
+        "Por primera vez en meses no se sentía sola",
+        "Gustavo le mandó una postal de Valparaíso"
+      ],
+      "answer": 2
+    }
+  ],
+  "b1-02": [
+    {
+      "q": "¿Por qué Agustina quería ganar el concurso?",
+      "options": [
+        "Para comprarle un auto nuevo a su primo",
+        "Para hacerse famosa en la televisión",
+        "Para abrir un local en Punta del Este",
+        "Para pagar el alquiler, que había subido"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Cuando Nélida dice «Ta, gurisa», quiere decir…",
+      "options": [
+        "«Está bien, chica»",
+        "«Gracias, querida»",
+        "«Basta ya, niña»",
+        "«Cuidado, chica»"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "¿Por qué Agustina llevó la parrillita, aunque al principio se rio de la idea?",
+      "options": [
+        "Porque quería venderla en la feria del sábado",
+        "Por cariño a su abuela y por miedo a que lloviera",
+        "Porque Bruno le pidió que le prestara una",
+        "Porque los organizadores lo pedían a todos"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "¿Qué tono tiene la última frase de Nélida, «Si llevás el carbón»?",
+      "options": [
+        "Miedo: teme que se corte la luz otra vez",
+        "Tristeza: no cree que Agustina vuelva a ganar",
+        "Humor cariñoso: le recuerda por qué ganó",
+        "Enojo: cree que Agustina olvidará el carbón"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "¿Qué hizo Bruno después del concurso?",
+      "options": [
+        "Ganó el concurso del año siguiente en el Mercado",
+        "Abrió un restaurante con Agustina y Nélida",
+        "Se fue del barrio después de perder el concurso",
+        "Fue al Fogón y pidió la receta de la mayonesa"
+      ],
+      "answer": 3
+    }
+  ],
+  "b1-03": [
+    {
+      "q": "¿Por qué era tan importante la semana del accidente para la panadería?",
+      "options": [
+        "Venía el Día de Muertos y tenían muchos pedidos",
+        "Iban a abrir otra tienda cerca de la plaza",
+        "Celebraban los cuarenta años de la panadería",
+        "Llegaba un inspector a revisar el horno"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Cuando la señora Graciela dice «ahora nos toca a nosotros», quiere decir que…",
+      "options": [
+        "ahora les toca pagar el pan más caro que antes",
+        "ahora es el turno de los vecinos de ayudarla",
+        "ahora los vecinos van a tocar y probar el horno",
+        "ahora los vecinos quieren comprar la panadería"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "¿Por qué no quería Remedios comprar un horno eléctrico?",
+      "options": [
+        "Tenía miedo de la electricidad en la cocina",
+        "El técnico le dijo que era peligroso",
+        "No haría el mismo pan y no podía pagarlo",
+        "Su nieto Iván prefería el horno de leña"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "¿Cómo ayudó Iván a su abuela?",
+      "options": [
+        "Pidió un préstamo al banco para un horno nuevo",
+        "Compró pan de muerto en el supermercado",
+        "Cerró la panadería hasta reparar el horno",
+        "Pidió a los vecinos que prestaran sus hornos"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "¿Qué comprendió Remedios al final?",
+      "options": [
+        "Que su mayor tesoro era la comunidad",
+        "Que debía vender La Espiga y descansar",
+        "Que el pan del supermercado era mejor",
+        "Que necesitaba un horno eléctrico nuevo"
+      ],
+      "answer": 0
+    }
+  ],
+  "b1-04": [
+    {
+      "q": "¿Por qué don Silvestre estaba en el hospital?",
+      "options": [
+        "Porque no podía dormir de noche",
+        "Porque se cayó y se lastimó la cadera",
+        "Porque trabajaba en el hospital",
+        "Porque se había perdido en la calle"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "¿Por qué Marcos abrió la ventana, aunque no debía?",
+      "options": [
+        "Hacía mucho calor y no funcionaba el aire",
+        "Quería fumar un cigarrillo sin que lo vieran",
+        "El paciente lo deseaba y el cielo estaba limpio",
+        "Un médico le pidió que la abriera para ventilar"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "¿Qué cambió en Marcos después de conocer a don Silvestre?",
+      "options": [
+        "Dejó de hablar con los pacientes de noche",
+        "Pidió cambiar al turno de día para tener vida",
+        "Dejó el hospital para trabajar en un observatorio",
+        "Empezó a ver su turno de noche de otra manera"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "¿Qué quiso decir don Silvestre con «cuando además lo escuchan, se siente vivo»?",
+      "options": [
+        "Que ser escuchado también ayuda a sanar",
+        "Que las estrellas curan mejor que los médicos",
+        "Que prefería la medicina a las historias",
+        "Que los médicos hablan demasiado con él"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "¿Qué hizo Marcos al final de la historia?",
+      "options": [
+        "Visitó a don Silvestre en el observatorio del norte",
+        "Volvió a llamar a su hermana y compró un telescopio",
+        "Escribió una carta al hospital y pidió vacaciones",
+        "Dejó la enfermería y se hizo astrónomo en el norte"
+      ],
+      "answer": 1
+    }
+  ],
+  "b1-05": [
+    {
+      "q": "¿Por qué habían dejado de hablarse los hermanos?",
+      "options": [
+        "Por una deuda que Nicolás nunca le pagó",
+        "Porque vivían en países distintos",
+        "Por la venta de la casa de sus padres",
+        "Por la muerte de un hermano en una tormenta"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "¿Por qué aceptaron hacer el viaje?",
+      "options": [
+        "Tenían las mismas vacaciones ese mes",
+        "Querían conocer la costa de Ecuador",
+        "Los dos eran ciclistas desde niños",
+        "Era la condición del regalo de su tía"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "¿Qué hizo cambiar la opinión de Leticia sobre su hermano?",
+      "options": [
+        "Que Nicolás llevara un repuesto pensando en ella",
+        "Que Nicolás ganara una carrera en Puerto López",
+        "Que Nicolás pagara la cena y la cabaña de los dos",
+        "Que Nicolás aprendiera a pescar con don Walter"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "¿Qué efecto tuvo la historia de don Walter?",
+      "options": [
+        "Les dio miedo seguir el viaje por la costa",
+        "Les hizo valorar más el tiempo juntos",
+        "Los convenció de volver a casa antes",
+        "Les dio un consejo para reparar las bicicletas"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "¿Qué sugiere el final sobre la relación de los hermanos?",
+      "options": [
+        "Que van a vender juntos otra casa de la familia",
+        "Que la próxima vez cada uno preferirá viajar solo",
+        "Que se han reconciliado y viajarán juntos otra vez",
+        "Que seguirán distanciados aunque terminaron el viaje"
+      ],
+      "answer": 2
+    }
+  ],
+  "b1-06": [
+    {
+      "q": "¿Por qué estaba Marisol en la casa de su abuela?",
+      "options": [
+        "Para vender los muebles a unos vecinos",
+        "Para escribir un artículo del periódico",
+        "Para aprender a tocar la guitarra",
+        "Para ayudar a vaciar el desván de la casa"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "¿Dónde encontró Marisol las cartas de Octavio?",
+      "options": [
+        "Debajo de un baúl en el desván",
+        "Dentro del libro de recetas",
+        "En el departamento de Lupe",
+        "En una caja de platos de la cocina"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "¿Por qué dejó Lupe de preguntar por Octavio?",
+      "options": [
+        "Se casó con Octavio en secreto en Tucson",
+        "Pensó que él la había olvidado y era orgullosa",
+        "Se fue a Estados Unidos a trabajar con él",
+        "Recibió una carta de Octavio que la dejaba"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "¿Por qué Marisol no quiere que Ximena le diga nada a su abuela todavía?",
+      "options": [
+        "Porque Lupe está enferma y no debe emocionarse",
+        "Porque quiere darle una sorpresa de cumpleaños",
+        "Para que Lupe no se ilusione antes de tiempo",
+        "Porque Ximena todavía no ha encontrado a Octavio"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "¿Qué sugiere el consejo de Lupe «no vendas la casa todavía»?",
+      "options": [
+        "Que la casa ahora vale más dinero que antes",
+        "Que quiere regalarle la casa a Rocío y a su padre",
+        "Que quiere vivir allí otra vez con Octavio",
+        "Que la casa guarda más recuerdos por descubrir"
+      ],
+      "answer": 3
+    }
+  ],
+  "b1-07": [
+    {
+      "q": "«Teresa se quedó helada» significa que…",
+      "options": [
+        "no pudo reaccionar por la sorpresa",
+        "se puso a reír sin poder parar",
+        "tenía frío porque la sala era fría",
+        "se enojó mucho con Camilo y se fue"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "¿Por qué hablaban los zapatos con la voz de la mamá de Camilo?",
+      "options": [
+        "Camilo lo había preparado como una broma",
+        "Un error de la aplicación puso sus notas de voz",
+        "Teresa cambió el programa la noche anterior",
+        "Doña Beatriz lo activó con un control remoto"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "¿Cómo reaccionaron los dos hombres de traje oscuro al oír la voz de la mamá de Camilo?",
+      "options": [
+        "Llamaron a seguridad",
+        "Grabaron todo en video",
+        "Intentaron no reírse",
+        "Se enfadaron y se fueron"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "¿Por qué le gustó la idea a doña Beatriz?",
+      "options": [
+        "Quería comprar zapatos para los turistas de Bogotá",
+        "Conocía a la mamá de Camilo desde hacía años",
+        "Pensó que los zapatos serían muy baratos de fabricar",
+        "Así la familia podría acompañar a niños y ancianos"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "¿Qué se puede deducir del final de la historia?",
+      "options": [
+        "Que el error se convirtió en un buen negocio",
+        "Que los zapatos nunca llegaron a las familias",
+        "Que Camilo y Teresa perdieron todos sus ahorros",
+        "Que la mamá de Camilo no quiso salir en el anuncio"
+      ],
+      "answer": 0
+    }
+  ],
+  "b1-08": [
+    {
+      "q": "¿Qué había pedido don Aurelio para su último día?",
+      "options": [
+        "Un examen para los de tercero",
+        "Una despedida sencilla, sin discursos",
+        "Un viaje con otros profesores",
+        "Una gran fiesta con los alumnos"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "¿Qué le dijo don Aurelio a Carmen cuando ella era alumna?",
+      "options": [
+        "Que las matemáticas eran muy fáciles",
+        "Que dejara el colegio y trabajara",
+        "Que todos se equivocan antes de acertar",
+        "Que las matemáticas no eran para ella"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Cuando Aurelio piensa que ya no tendrá motivo para «madrugar», quiere decir que ya no tendrá que…",
+      "options": [
+        "trabajar los sábados",
+        "corregir exámenes",
+        "acostarse tarde",
+        "levantarse temprano"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "¿Por qué dice don Aurelio que se siente afortunado?",
+      "options": [
+        "Sus alumnos también le enseñaron algo a él",
+        "Ya no tiene que levantarse temprano nunca más",
+        "Va a recibir mucho dinero al jubilarse",
+        "La directora le regaló un viaje al sur"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "¿Qué se puede deducir del último párrafo?",
+      "options": [
+        "Que piensa irse de Valparaíso muy pronto",
+        "Que ve la jubilación como un nuevo comienzo",
+        "Que se arrepiente de haber aceptado las clases",
+        "Que no volverá a dar clases nunca más"
+      ],
+      "answer": 1
+    }
+  ],
+  "b1-09": [
+    {
+      "q": "«Tenía fama de gruñón» quiere decir que los vecinos pensaban que el señor Gutiérrez…",
+      "options": [
+        "trabajaba en la compañía eléctrica",
+        "era muy conocido en toda la ciudad",
+        "era antipático y de mal humor",
+        "cocinaba muy bien para los vecinos"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "¿Por qué bajó el señor Gutiérrez con una olla y un hornillo?",
+      "options": [
+        "Doña Rosa le había pedido que cocinara",
+        "Tenía hambre y quería cenar en el vestíbulo",
+        "Quería practicar una receta para un concurso",
+        "No quería tirar la comida del congelador"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "¿Cómo ayudó Soledad a Gonzalo?",
+      "options": [
+        "Le propuso jugar con sombras para distraerlo",
+        "Le dio su linterna y lo mandó a casa",
+        "Le cantó una canción de cuna con la guitarra",
+        "Le trajo a su perro para que lo abrazara"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "¿Qué se puede deducir sobre el señor Gutiérrez?",
+      "options": [
+        "Que trabaja de cocinero en un restaurante",
+        "Que es gruñón por fuera, pero se siente solo",
+        "Que quiere mudarse porque no soporta el ruido",
+        "Que odia a sus vecinos y prefiere estar solo"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "¿Qué cambió en el edificio después del apagón?",
+      "options": [
+        "Muchos vecinos se mudaron a otro edificio",
+        "Instalaron un generador para los apagones",
+        "Los vecinos hacen una cena juntos cada mes",
+        "Doña Rosa dejó su trabajo de portera allí"
+      ],
+      "answer": 2
+    }
+  ],
+  "b1-10": [
+    {
+      "q": "¿Qué le pidió la abuela Herminia a Itzel?",
+      "options": [
+        "Que le mandara un video de la lava",
+        "Que vendiera la casa de la familia",
+        "Que le comprara un molde para alfombras",
+        "Que le mandara una foto de la puerta"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "¿Cómo supo Bayron que la abuela estaba al norte del arco?",
+      "options": [
+        "El volcán de Agua se veía detrás del arco",
+        "Doña Clemencia se lo dijo al ver la foto",
+        "El reloj del arco marcaba la hora de la foto",
+        "La abuela lo escribió en el reverso de la foto"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "En la historia, «la mano que toca» era en realidad…",
+      "options": [
+        "un músico que tocaba la guitarra en la calle",
+        "una aldaba de bronce con forma de mano",
+        "un dibujo de una mano en la alfombra",
+        "la mano de la muchacha de la foto"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Cuando doña Clemencia dice «Como esta ciudad: se cae y se vuelve a levantar», quiere decir que…",
+      "options": [
+        "está enfadada porque pisaron la alfombra",
+        "los terremotos ya no destruyen la ciudad",
+        "lo bonito se pierde, pero se vuelve a empezar",
+        "la alfombra se hizo mal y hay que repetirla"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "¿Por qué doña Clemencia guardaba el molde del quetzal?",
+      "options": [
+        "Herminia se lo regaló antes de irse a Estados Unidos",
+        "Quería vendérselo a algún turista por mucho dinero",
+        "Lo había comprado su padre en una tienda de Antigua",
+        "Su padre decía que era de la casa y alguien volvería"
+      ],
+      "answer": 3
+    }
+  ]
+}

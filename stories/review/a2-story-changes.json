@@ -1,0 +1,707 @@
+[
+  {
+    "id": "a2-01",
+    "field": "lines.es",
+    "index": 1,
+    "old": "Su hermana tenía una <b>boda</b> en Valencia ese día.",
+    "new": "Ese día era la <b>boda</b> de su hermana en Valencia.",
+    "reason": "'Su hermana tenía una boda' sounds like she was attending someone else's wedding; it is her own wedding."
+  },
+  {
+    "id": "a2-01",
+    "field": "lines.en",
+    "index": 1,
+    "old": "Her sister had a wedding in Valencia that day.",
+    "new": "That day was her sister's wedding in Valencia.",
+    "reason": "'Su hermana tenía una boda' sounds like she was attending someone else's wedding; it is her own wedding."
+  },
+  {
+    "id": "a2-01",
+    "field": "lines.es",
+    "index": 11,
+    "old": "Ayer compré dos <b>billetes</b> de autobús, pero mi amigo no puede venir.",
+    "new": "—Ayer compré dos <b>billetes</b> de autobús, pero mi amigo no puede venir.",
+    "reason": "Pablo is still speaking but the line had no dialogue dash (and no quotes in English), so learners lose track of the speaker."
+  },
+  {
+    "id": "a2-01",
+    "field": "lines.en",
+    "index": 11,
+    "old": "Yesterday I bought two bus tickets, but my friend can't come.",
+    "new": "\"Yesterday I bought two bus tickets, but my friend can't come.\"",
+    "reason": "Pablo is still speaking but the line had no dialogue dash (and no quotes in English), so learners lose track of the speaker."
+  },
+  {
+    "id": "a2-01",
+    "field": "lines.es",
+    "index": 17,
+    "old": "Ana vio su teléfono: tenía un mensaje de su madre.",
+    "new": "Ana miró su teléfono y vio un mensaje de su madre.",
+    "reason": "'Ana vio su teléfono' is unnatural (= she caught sight of it); mirar + ver keeps the irregular 'vio' and teaches the look/see contrast."
+  },
+  {
+    "id": "a2-01",
+    "field": "lines.en",
+    "index": 17,
+    "old": "Ana saw her phone: she had a message from her mother.",
+    "new": "Ana looked at her phone and saw a message from her mother.",
+    "reason": "'Ana vio su teléfono' is unnatural (= she caught sight of it); mirar + ver keeps the irregular 'vio' and teaches the look/see contrast."
+  },
+  {
+    "id": "a2-01",
+    "field": "lines.es",
+    "index": 22,
+    "old": "—¡Pablo! —dijo Marta—. ¡Eres el primo de Javier!",
+    "new": "—¡Pablo! —dijo Marta—. ¡Eres el primo de Javier, mi novio!",
+    "reason": "Javier was never introduced, so the twist was unreadable; naming him as the groom makes the inference fair and supports quiz Q5."
+  },
+  {
+    "id": "a2-01",
+    "field": "lines.en",
+    "index": 22,
+    "old": "\"Pablo!\" said Marta. \"You are Javier's cousin!\"",
+    "new": "\"Pablo!\" said Marta. \"You're the cousin of Javier, my groom!\"",
+    "reason": "Javier was never introduced, so the twist was unreadable; naming him as the groom makes the inference fair and supports quiz Q5."
+  },
+  {
+    "id": "a2-01",
+    "field": "quiz",
+    "index": 4,
+    "old": {
+      "q": "¿Qué podemos pensar al final de la historia?",
+      "options": [
+        "Pablo no conoce a nadie en la boda",
+        "Ana no quiere hablar con Pablo",
+        "Pablo es amigo de la familia del novio",
+        "Marta está enfadada con Ana"
+      ],
+      "answer": 2
+    },
+    "new": {
+      "q": "¿Qué descubrimos al final de la historia?",
+      "options": [
+        "Pablo no conoce a nadie en la boda",
+        "Ana no quiere hablar con Pablo",
+        "Pablo es de la familia del novio",
+        "Marta está enfadada con Ana"
+      ],
+      "answer": 2
+    },
+    "reason": "Old key said Pablo is a 'friend' of the groom's family; the text says he is the groom's cousin (family). Stem reworded to match."
+  },
+  {
+    "id": "a2-01",
+    "field": "prompt",
+    "old": "Tell about a time you were late for something important. Where did you go, what happened first, and how did the day end? Answer in Spanish with 4-6 sentences using the past tense.",
+    "new": "Tell about a time you were late for something important. Where were you going, what happened first, and how did the day end? Write 4-6 sentences in Spanish in the past tense, using primero, luego and después. Starter: «El año pasado llegué tarde a… Primero, perdí… Luego…»",
+    "reason": "Added a starter and asked explicitly for the sequence words the story teaches."
+  },
+  {
+    "id": "a2-01",
+    "field": "concepts.grammar",
+    "old": "Regular and irregular preterite (llegó, corrió, fue, vio, dijo); sequence words primero, luego, después; ir a + infinitive for near future.",
+    "new": "Regular and irregular preterite (llegó, corrió, perdió, vio, dijo); sequence words primero, luego, después; ir a + infinitive for near future (voy a llegar) vs ir a + place (voy a Valencia); reflexive verbs (se sentó, se casa, me llamo).",
+    "reason": "Removed 'fue' (not in the story); added the ir a + place contrast and reflexives, which the grammar notes teach from this story."
+  },
+  {
+    "id": "a2-02",
+    "field": "lines.es",
+    "index": 4,
+    "old": "El papel decía: «Primero, ve al <b>mercado</b> y busca a Doña Lupe».",
+    "new": "El papel decía: «Primero, ve al <b>mercado</b> y busca a doña Lupe».",
+    "reason": "Spelling: 'doña' is lowercase before a name (RAE), and the other A2 stories already write 'don Rafael', 'doña Elena'."
+  },
+  {
+    "id": "a2-02",
+    "field": "lines.es",
+    "index": 8,
+    "old": "Doña Lupe le dio una bolsa de mangos y otro papel.",
+    "new": "doña Lupe le dio una bolsa de mangos y otro papel.",
+    "reason": "Spelling: 'doña' is lowercase before a name (RAE), and the other A2 stories already write 'don Rafael', 'doña Elena'."
+  },
+  {
+    "id": "a2-02",
+    "field": "lines.es",
+    "index": 21,
+    "old": "—La mamá del cachorro es la perra de Doña Lupe —explicó el abuelo—. Ella te lo regala.",
+    "new": "—La mamá del cachorro es la perra de doña Lupe —explicó el abuelo—. Ella te lo regala.",
+    "reason": "Spelling: 'doña' is lowercase before a name (RAE), and the other A2 stories already write 'don Rafael', 'doña Elena'."
+  },
+  {
+    "id": "a2-02",
+    "field": "lines.es",
+    "index": 10,
+    "old": "En la panadería, el panadero tomó los mangos y le dio un pan dulce.",
+    "new": "En la panadería, el <b>panadero</b> tomó los mangos y le dio un pan dulce.",
+    "reason": "'el panadero' is in the vocab list but was never bolded."
+  },
+  {
+    "id": "a2-02",
+    "field": "lines.es",
+    "index": 14,
+    "old": "La puerta se abrió y Sofía oyó un ruido pequeño.",
+    "new": "Sofía abrió la puerta con la llave y oyó un ruido pequeño.",
+    "reason": "Plot hole: the key from the box is never used (the door 'opened by itself'). Now the key pays off and 'abrió' is recycled."
+  },
+  {
+    "id": "a2-02",
+    "field": "lines.en",
+    "index": 14,
+    "old": "The door opened and Sofía heard a small noise.",
+    "new": "Sofía opened the door with the key and heard a small noise.",
+    "reason": "Plot hole: the key from the box is never used (the door 'opened by itself'). Now the key pays off and 'abrió' is recycled."
+  },
+  {
+    "id": "a2-02",
+    "field": "lines.es",
+    "index": 19,
+    "old": "Detrás de ella, toda su familia salió de la casa.",
+    "new": "Después, toda su familia salió de la casa.",
+    "reason": "'Detrás de ella ... salió de la casa' is spatially contradictory (she is at the door, facing the house); 'Después' also recycles a target sequence word."
+  },
+  {
+    "id": "a2-02",
+    "field": "lines.en",
+    "index": 19,
+    "old": "Behind her, her whole family came out of the house.",
+    "new": "Then her whole family came out of the house.",
+    "reason": "'Detrás de ella ... salió de la casa' is spatially contradictory (she is at the door, facing the house); 'Después' also recycles a target sequence word."
+  },
+  {
+    "id": "a2-02",
+    "field": "quiz",
+    "index": 0,
+    "old": {
+      "q": "¿Qué hay primero dentro de la caja azul?",
+      "options": [
+        "Un perro",
+        "Un papel y una llave",
+        "Unos mangos",
+        "Una cinta roja"
+      ],
+      "answer": 1
+    },
+    "new": {
+      "q": "¿Qué hay dentro de la caja azul?",
+      "options": [
+        "Un perro",
+        "Un papel y una llave",
+        "Unos mangos",
+        "Una cinta roja"
+      ],
+      "answer": 1
+    },
+    "reason": "'¿Qué hay primero dentro...' is ungrammatical/unclear."
+  },
+  {
+    "id": "a2-02",
+    "field": "prompt",
+    "old": "Describe a surprising gift you gave or received. What was it, who gave it, and how did you feel? Answer in Spanish with 4-6 sentences.",
+    "new": "Describe a surprising gift you gave or received. What was it, who gave it to you, and how did you feel? Write 4-6 sentences in Spanish in the past tense. Starter: «Para mi cumpleaños, mi tía me dio… Primero abrí… Luego…»",
+    "reason": "Added a starter and asked for the past tense (the story's target)."
+  },
+  {
+    "id": "a2-02",
+    "field": "concepts.grammar",
+    "old": "Preterite of regular -ar/-er/-ir verbs and irregular ser/ir/ver/dar/decir; ayer and por la mañana; direct object pronouns (te lo regala).",
+    "new": "Preterite of regular -ar/-er/-ir verbs (abrió, caminó, corrió) and irregular ser (fue), ver (vio), dar (dio), decir (dijo), oír (oyó); tú commands in the clues (ve, busca, lleva); object pronouns (le dio, te lo regala); time words ayer, por la mañana.",
+    "reason": "Removed 'ir' (no preterite of ir in the text); added tú commands, which the grammar notes teach from this story."
+  },
+  {
+    "id": "a2-03",
+    "field": "lines.es",
+    "index": 26,
+    "old": "Esa noche, toda la familia comió junto a la <b>mesa</b>.",
+    "new": "Esa noche, toda la familia cenó junta alrededor de la <b>mesa</b>.",
+    "reason": "'comió junto a la mesa' means 'ate next to the table'; the English 'together' was not in the Spanish."
+  },
+  {
+    "id": "a2-03",
+    "field": "lines.en",
+    "index": 26,
+    "old": "That night, the whole family ate together at the table.",
+    "new": "That night, the whole family had dinner together around the table.",
+    "reason": "'comió junto a la mesa' means 'ate next to the table'; the English 'together' was not in the Spanish."
+  },
+  {
+    "id": "a2-03",
+    "field": "quiz",
+    "index": 3,
+    "old": {
+      "q": "¿Qué falta en el cuaderno?",
+      "options": [
+        "El secreto",
+        "La carne",
+        "Los tomates",
+        "El teléfono"
+      ],
+      "answer": 0
+    },
+    "new": {
+      "q": "¿Qué hizo la abuela cuando Mateo salió a buscar los vasos?",
+      "options": [
+        "Llamó a la madre de Mateo",
+        "Cerró un frasco pequeño",
+        "Escribió el secreto en el cuaderno",
+        "Cortó más cebolla"
+      ],
+      "answer": 1
+    },
+    "reason": "Old Q4 ('¿Qué falta en el cuaderno?') had giveaway distractors (la carne, el teléfono) and duplicated Q5. New item checks a key detail and the clue to the secret."
+  },
+  {
+    "id": "a2-03",
+    "field": "quiz",
+    "index": 4,
+    "old": {
+      "q": "¿Por qué la abuela no escribe el secreto?",
+      "options": [
+        "Quiere recibir visitas de sus nietos",
+        "Se le olvida",
+        "No sabe escribir",
+        "No tiene lápiz"
+      ],
+      "answer": 0
+    },
+    "new": {
+      "q": "¿Por qué la abuela no escribe el secreto en el cuaderno?",
+      "options": [
+        "Se le olvidó escribirlo",
+        "Es un ingrediente muy caro",
+        "Mateo no sabe leer su letra",
+        "Así sus nietos siempre la visitan"
+      ],
+      "answer": 3
+    },
+    "reason": "Replaced joke distractors ('No tiene lápiz', 'No sabe escribir') with plausible ones; answer moved off index 0 (keys were 0,2,3,0,0)."
+  },
+  {
+    "id": "a2-03",
+    "field": "prompt",
+    "old": "Describe a dish that someone in your family makes. What do you need to cook it, and what is the first thing you do? Answer in Spanish with 4-6 sentences.",
+    "new": "Write about a time you cooked something for someone. What did you make, what did you buy, what did you do first, and how did it taste? Write 4-6 sentences in Spanish in the past tense. Starter: «El domingo pasado preparé… para… Primero compré… Luego corté…»",
+    "reason": "Old prompt was in the present tense, so it did not elicit the preterite the story teaches. Added a starter."
+  },
+  {
+    "id": "a2-03",
+    "field": "concepts.grammar",
+    "old": "Preterite of regular verbs (cortó, cocinó, probó, entró) and irregular ones (fue, hizo, dijo, tomó); present tense for dialogue; sequence words primero, luego, después, cuando.",
+    "new": "Preterite of regular verbs (cortó, cocinó, probó, tomé, entraron) and irregular ones (fue, puso, hice, dijo); ser vs estar (está rico / no es igual / estoy en la puerta); falta + noun; sequence words primero, luego, después, cuando.",
+    "reason": "'tomó' was listed as irregular (it is regular); added ser vs estar and falta, which the grammar notes teach from this story."
+  },
+  {
+    "id": "a2-04",
+    "field": "lines.es",
+    "index": 0,
+    "old": "Cuando Tomás era niño, vivía en un barrio pequeño de Medellín.",
+    "new": "Cuando Tomás era pequeño, vivía en un barrio pequeño de Medellín.",
+    "reason": "Tomás is twelve, so 'cuando era niño' (when he was a child) is odd; 'pequeño' = when he was little."
+  },
+  {
+    "id": "a2-04",
+    "field": "lines.en",
+    "index": 0,
+    "old": "When Tomás was a child, he lived in a small neighborhood in Medellín.",
+    "new": "When Tomás was little, he lived in a small neighborhood in Medellín.",
+    "reason": "Tomás is twelve, so 'cuando era niño' (when he was a child) is odd; 'pequeño' = when he was little."
+  },
+  {
+    "id": "a2-04",
+    "field": "lines.es",
+    "index": 13,
+    "old": "«Cuando éramos niños, ella siempre tiraba a la izquierda», pensó.",
+    "new": "«Cuando éramos pequeños, ella siempre tiraba a la izquierda», pensó.",
+    "reason": "Same logic fix as line 0; also echoes line 0 for repetition."
+  },
+  {
+    "id": "a2-04",
+    "field": "lines.en",
+    "index": 13,
+    "old": "\"When we were kids, she always kicked to the left,\" he thought.",
+    "new": "\"When we were little, she always kicked to the left,\" he thought.",
+    "reason": "Same logic fix as line 0; also echoes line 0 for repetition."
+  },
+  {
+    "id": "a2-04",
+    "field": "quiz",
+    "index": 4,
+    "old": {
+      "q": "¿Por qué Tomás supo adónde tiraba Camila?",
+      "options": [
+        "La conoce muy bien",
+        "El árbitro se lo dijo",
+        "Vio un video",
+        "Camila se lo dijo"
+      ],
+      "answer": 0
+    },
+    "new": {
+      "q": "¿Cómo supo Tomás adónde iba a tirar Camila?",
+      "options": [
+        "La conoce muy bien",
+        "El árbitro se lo dijo",
+        "Vio un video",
+        "Camila se lo dijo"
+      ],
+      "answer": 0
+    },
+    "reason": "'adónde tiraba' is ambiguous (habit vs this kick); 'iba a tirar' is the correct past-future and models a structure from the story."
+  },
+  {
+    "id": "a2-04",
+    "field": "prompt",
+    "old": "Describe a game or sport you played when you were a child. Where did you play, who played with you, and what was a special match like? Answer in Spanish with 4-6 sentences, using the past tense.",
+    "new": "Describe a game or sport you played when you were little. Where did you play, who played with you, and what happened in one special match? Write 4-6 sentences in Spanish: use the imperfect for what you usually did and the preterite for what happened once. Starter: «Cuando era pequeño/a, siempre jugaba… Un día…»",
+    "reason": "Made the imperfect/preterite contrast explicit and added a starter."
+  },
+  {
+    "id": "a2-05",
+    "field": "lines.es",
+    "index": 9,
+    "old": "«¡Perdón! Mi mamá <b>cambió</b> de número ayer. Ahora estoy solo en la calle y mi teléfono casi no tiene <b>batería</b>».",
+    "new": "«¡Perdón! Mi mamá <b>cambió</b> de número ayer y creo que lo anoté mal. Ahora estoy solo en la calle y mi teléfono casi no tiene <b>batería</b>».",
+    "reason": "Plot hole: changing number does not explain why the text reached Valentina; 'lo anoté mal' makes the wrong number logical."
+  },
+  {
+    "id": "a2-05",
+    "field": "lines.en",
+    "index": 9,
+    "old": "\"Sorry! My mom changed her number yesterday. Now I'm alone in the street and my phone is almost out of battery.\"",
+    "new": "\"Sorry! My mom changed her number yesterday and I think I wrote it down wrong. Now I'm alone in the street and my phone is almost out of battery.\"",
+    "reason": "Plot hole: changing number does not explain why the text reached Valentina; 'lo anoté mal' makes the wrong number logical."
+  },
+  {
+    "id": "a2-05",
+    "field": "lines.en",
+    "index": 22,
+    "old": "Nicolás's mother got out running with the keys in her hand.",
+    "new": "Nicolás's mother hurried out of the car with the keys in her hand.",
+    "reason": "'got out running' is unidiomatic English for 'bajó corriendo'."
+  },
+  {
+    "id": "a2-05",
+    "field": "lines.es",
+    "index": 23,
+    "old": "—¡Hijo, perdón! Estaba trabajando y no tenía batería en mi teléfono nuevo.",
+    "new": "—¡Hijo, perdón! Estaba trabajando y mi teléfono nuevo no tenía batería.",
+    "reason": "'no tenía batería en mi teléfono nuevo' is awkward; the phone is the natural subject."
+  },
+  {
+    "id": "a2-05",
+    "field": "prompt",
+    "old": "Imagine you receive a text from a wrong number. What does the message say, and how do you answer? Write the messages and then tell what happened next in Spanish, 4-6 sentences.",
+    "new": "Imagine you receive a text from a wrong number. Write the message and your answer, then tell in 4-6 sentences in Spanish what happened next. Use the imperfect for the scene and the preterite for the events. Starter: «Eran las nueve de la noche y yo estaba en casa. De repente, llegó un mensaje…»",
+    "reason": "Added a starter and an explicit imperfect/preterite instruction."
+  },
+  {
+    "id": "a2-06",
+    "field": "vocab",
+    "index": 0,
+    "old": [
+      "el apartamento",
+      "apartment"
+    ],
+    "new": [
+      "el apartamento",
+      "apartment (in Chile: el departamento)"
+    ],
+    "reason": "Story is set in Santiago; Chileans say 'departamento'. Gloss flags the regional variant without changing the text."
+  },
+  {
+    "id": "a2-06",
+    "field": "vocab",
+    "index": 9,
+    "old": [
+      "la bombilla",
+      "light bulb"
+    ],
+    "new": [
+      "la bombilla",
+      "light bulb (in Chile: la ampolleta)"
+    ],
+    "reason": "In Chile 'bombilla' is the metal straw for mate; light bulb is 'ampolleta'. Gloss prevents a real-world misunderstanding."
+  },
+  {
+    "id": "a2-06",
+    "field": "prompt",
+    "old": "Describe in Spanish a time you moved or visited a new place. What did you take with you, and who helped you? Write 4-6 sentences.",
+    "new": "Describe in Spanish a time you moved house or stayed in a new place. What did you take with you, who helped you, and was there a problem? Write 4-6 sentences in the past tense. Starter: «Hace dos años me mudé a… Mi amigo… me ayudó. El problema era que…»",
+    "reason": "Added a starter and a 'problem' slot to elicit preterite + imperfect."
+  },
+  {
+    "id": "a2-07",
+    "field": "lines.es",
+    "index": 13,
+    "old": "—Es muy bonita, pero es más vieja que yo —dijo—. Ven conmigo a la tienda.",
+    "new": "—Es muy bonita, pero es más vieja que yo —dijo—. <b>Ven</b> conmigo a la tienda.",
+    "reason": "Bolded 'Ven' so the new voseo gloss (vení) is attached to the word in the text."
+  },
+  {
+    "id": "a2-07",
+    "field": "vocab",
+    "index": 16,
+    "old": null,
+    "new": [
+      "ven (vos: vení)",
+      "come! (in Buenos Aires people say vení; also tocá, tomá)"
+    ],
+    "reason": "Review flag: the Buenos Aires story uses tú forms consistently; this gloss tells learners the vos forms they will actually hear there."
+  },
+  {
+    "id": "a2-07",
+    "field": "quiz",
+    "index": 3,
+    "old": {
+      "q": "¿Por qué Julieta salió corriendo el jueves?",
+      "options": [
+        "Tenía miedo de Mateo",
+        "Quería comprar una moneda",
+        "Fue a buscar ayuda para él",
+        "Tenía que volver a casa"
+      ],
+      "answer": 2
+    },
+    "new": {
+      "q": "¿Por qué Julieta salió corriendo el jueves?",
+      "options": [
+        "Tenía miedo de Mateo",
+        "Su madre la llamó",
+        "Fue a buscar ayuda para él",
+        "Tenía que volver a casa"
+      ],
+      "answer": 2
+    },
+    "reason": "Replaced the implausible distractor 'Quería comprar una moneda'."
+  },
+  {
+    "id": "a2-07",
+    "field": "prompt",
+    "old": "Write in Spanish about a musician, street performer or artist you have seen. What did they do, and how did you feel? Write 4-6 sentences.",
+    "new": "Write in Spanish about a musician, street performer or artist you have seen. Where were they, what did they usually do, and what happened that day? Write 4-6 sentences. Starter: «Un día, en la plaza de mi ciudad, había un músico que tocaba… De repente…»",
+    "reason": "Added a starter and a slot for habitual imperfect vs one-off preterite (the story's contrast)."
+  },
+  {
+    "id": "a2-07",
+    "field": "concepts.grammar",
+    "old": "Imperfect for habits (tocaba, llegaba, se sentaba) contrasted with preterite for one-time events (se rompió, salió, aceptó); indirect object pronouns (le dijo, me contó, le cambió); double pronouns (se la mostró); comparisons (más vieja que, más bonita que); ir a + infinitive; tú commands (ven, toca, toma). Note: in Buenos Aires people often say vos instead of tú, but this story uses standard tú forms.",
+    "new": "Imperfect for habits (tocaba, llegaba, se sentaba) contrasted with preterite for one-time events (se rompió, salió, aceptó); indirect object pronouns (le dijo, me contó, le cambió); double pronouns (se la mostró, pagártelo); comparisons (más vieja que, más bonita que); ir a + infinitive; tú commands (ven, toca, toma). Buenos Aires note: locals use vos (vení, tocá, tomá); this story uses tú forms, and the vocab list glosses the vos form.",
+    "reason": "Note now points to the vos gloss; added pagártelo."
+  },
+  {
+    "id": "a2-08",
+    "field": "lines.es",
+    "index": 6,
+    "old": "—Si hay niebla, camina despacio y sigue el <b>río</b> —les explicó—. Lo importante es no correr.",
+    "new": "—Si hay niebla, camina despacio y sigue el <b>río</b> —le explicó a Andrés—. Lo importante es no correr.",
+    "reason": "Jairo used singular tú commands while 'les explicó' addressed both cousins (in Colombia the plural is ustedes: caminen, sigan). Addressing Andrés keeps the tú commands correct."
+  },
+  {
+    "id": "a2-08",
+    "field": "lines.en",
+    "index": 6,
+    "old": "\"If there is fog, walk slowly and follow the river,\" he explained to them. \"The important thing is not to run.\"",
+    "new": "\"If there is fog, walk slowly and follow the river,\" he explained to Andrés. \"The important thing is not to run.\"",
+    "reason": "Jairo used singular tú commands while 'les explicó' addressed both cousins (in Colombia the plural is ustedes: caminen, sigan). Addressing Andrés keeps the tú commands correct."
+  },
+  {
+    "id": "a2-08",
+    "field": "lines.es",
+    "index": 20,
+    "old": "La señora les dio <b>chocolate</b> caliente con queso. —Es una costumbre de aquí —explicó—. Pruébalo.",
+    "new": "La señora les dio <b>chocolate</b> caliente con queso. —Es una costumbre de aquí. Pruébalo —le dijo a Andrés.",
+    "reason": "Same singular/plural issue: 'Pruébalo' to two people. Addressing Andrés, who tastes it next, keeps the tú command correct."
+  },
+  {
+    "id": "a2-08",
+    "field": "lines.en",
+    "index": 20,
+    "old": "The woman gave them hot chocolate with cheese. \"It's a local custom,\" she explained. \"Try it.\"",
+    "new": "The woman gave them hot chocolate with cheese. \"It's a local custom. Try it,\" she said to Andrés.",
+    "reason": "Same singular/plural issue: 'Pruébalo' to two people. Addressing Andrés, who tastes it next, keeps the tú command correct."
+  },
+  {
+    "id": "a2-08",
+    "field": "vocab",
+    "index": 12,
+    "old": [
+      "perderse",
+      "to get lost"
+    ],
+    "new": [
+      "perdido/a",
+      "lost"
+    ],
+    "reason": "The text uses the adjective 'perdidos', not the verb perderse."
+  },
+  {
+    "id": "a2-08",
+    "field": "quiz",
+    "index": 0,
+    "old": {
+      "q": "¿Por qué querían levantarse temprano?",
+      "options": [
+        "Porque Jairo lo exigió",
+        "Porque Valeria quería ver salir el sol",
+        "Porque Andrés tenía hambre",
+        "Porque el valle cerraba a las siete"
+      ],
+      "answer": 1
+    },
+    "new": {
+      "q": "¿Por qué querían levantarse temprano?",
+      "options": [
+        "Porque Jairo quería salir temprano",
+        "Porque Valeria quería ver salir el sol",
+        "Porque Andrés tenía hambre",
+        "Porque el valle cerraba a las siete"
+      ],
+      "answer": 1
+    },
+    "reason": "Distractor used B1 verb 'exigió'; replaced with an A2-level plausible option."
+  },
+  {
+    "id": "a2-08",
+    "field": "prompt",
+    "old": "Write in Spanish about a trip or walk in nature (real or imagined). Where were you, what did you see, and did anything go wrong? Write 5-7 sentences.",
+    "new": "Write in Spanish about a trip or walk in nature (real or imagined). Where were you, what was the weather like, what did you see, and did anything go wrong? Write 5-7 sentences. Starter: «El verano pasado fui a… Hacía sol y había… Pero de repente…»",
+    "reason": "Added a starter that models imperfect background + preterite event."
+  },
+  {
+    "id": "a2-08",
+    "field": "concepts.grammar",
+    "old": "Preterite for the sequence of events (llegaron, gritó, vieron) with imperfect for background (había niebla, estaba asustado, caminaba); comparatives (más ... que, mejor que); tú commands (camina, sigue, escucha, pruébalo); reflexive verbs (se levantó, se paró, se puso nervioso, se rió); por and para (por la noche, para ti).",
+    "new": "Preterite for the sequence of events (llegaron, gritó, vieron, cubrió) with imperfect for background (había montañas, caminaba, estaba asustado, se oía); comparatives and superlatives (las más altas del mundo, mejor que, tan asustado que); tú commands (camina, sigue, recuerda, escucha, pruébalo); reflexive verbs (levantarnos, se paró, se puso nervioso, se quedó, se rió).",
+    "reason": "Removed examples not in the story (se levantó, había niebla, para ti, por/para)."
+  },
+  {
+    "id": "a2-09",
+    "field": "lines.es",
+    "index": 4,
+    "old": "De repente, un señor con mucha prisa <b>chocó</b> con ella, y su café cayó sobre su <b>camisa</b> blanca.",
+    "new": "De repente, un señor con mucha prisa <b>chocó</b> con ella y le tiró su café en la <b>camisa</b> blanca.",
+    "reason": "'su café cayó sobre su camisa' has two ambiguous 'su'; 'le tiró su café' is clearer and sets up the phrase Daniela repeats in line 15."
+  },
+  {
+    "id": "a2-09",
+    "field": "lines.en",
+    "index": 4,
+    "old": "Suddenly, a man in a big hurry bumped into her, and his coffee spilled on her white shirt.",
+    "new": "Suddenly, a man in a big hurry bumped into her and spilled his coffee on her white shirt.",
+    "reason": "'su café cayó sobre su camisa' has two ambiguous 'su'; 'le tiró su café' is clearer and sets up the phrase Daniela repeats in line 15."
+  },
+  {
+    "id": "a2-09",
+    "field": "lines.es",
+    "index": 15,
+    "old": "—Lo siento —contestó Daniela—. Mi alarma no sonó, se me cayó un café y después ayudé a una señora. Nunca he llegado tarde a una entrevista.",
+    "new": "—Lo siento —contestó Daniela—. Mi alarma no sonó, un señor me tiró un café encima y después ayudé a una señora. Nunca he llegado tarde a una entrevista.",
+    "reason": "Flagged error: 'se me cayó un café' means 'I dropped a coffee', contradicting the plot (a man spilled his coffee on her)."
+  },
+  {
+    "id": "a2-09",
+    "field": "lines.en",
+    "index": 15,
+    "old": "\"I'm sorry,\" Daniela answered. \"My alarm didn't ring, a coffee spilled on me, and then I helped a lady. I have never been late to an interview.\"",
+    "new": "\"I'm sorry,\" Daniela answered. \"My alarm didn't ring, a man spilled coffee on me, and then I helped a lady. I have never been late to an interview.\"",
+    "reason": "Flagged error: 'se me cayó un café' means 'I dropped a coffee', contradicting the plot (a man spilled his coffee on her)."
+  },
+  {
+    "id": "a2-09",
+    "field": "lines.es",
+    "index": 19,
+    "old": "—Hoy quería ver cómo tratan los candidatos a una persona extraña —explicó doña Elena—. Tú me ayudaste sin saber quién era.",
+    "new": "—Hoy quería ver cómo tratan los candidatos a una desconocida —explicó doña Elena—. Tú me ayudaste sin saber quién era.",
+    "reason": "'una persona extraña' means 'a strange/odd person'; 'stranger' is 'una desconocida'."
+  },
+  {
+    "id": "a2-09",
+    "field": "lines.es",
+    "index": 21,
+    "old": "—¿Has trabajado antes con clientes? —preguntó la señora Ortega.",
+    "new": "—¿Ha trabajado antes con clientes? —preguntó la señora Ortega.",
+    "reason": "Register: Ortega uses usted in line 14 (Llega tarde, tiene) but switched to tú here; now consistent usted."
+  },
+  {
+    "id": "a2-09",
+    "field": "lines.es",
+    "index": 24,
+    "old": "—Daniela, tenemos una buena <b>noticia</b> —dijo la señora Ortega—. El <b>puesto</b> es tuyo.",
+    "new": "—Daniela, tenemos una buena <b>noticia</b> —dijo la señora Ortega—. El <b>puesto</b> es suyo.",
+    "reason": "Register: Ortega's 'tuyo' broke her usted register; 'suyo' is consistent and fits the story's usted/tú teaching point."
+  },
+  {
+    "id": "a2-09",
+    "field": "prompt",
+    "old": "Imagine your own interview day, or a day when everything went wrong. Write in Spanish what happened and how you solved it. Use 5-7 sentences.",
+    "new": "Imagine your own interview day, or a day when everything went wrong. Write in Spanish what happened and how you solved it, in 5-7 sentences. Include one sentence with 'Nunca he…' or 'He…'. Starter: «Mi alarma no sonó y me desperté tarde. Mientras esperaba el autobús…»",
+    "reason": "Added a starter and a present-perfect slot, which the story teaches."
+  },
+  {
+    "id": "a2-09",
+    "field": "concepts.grammar",
+    "old": "Preterite and imperfect together in a longer narrative; present perfect (he llegado, ha pasado, has trabajado, he trabajado) used lightly; connectors porque, aunque (with indicative), cuando, mientras; indirect object pronouns (me, te, le, se me cayó); por and para (por eso, para ti); reflexive past (se despertó, se vistió, se sentó).",
+    "new": "Preterite and imperfect together in a longer narrative; present perfect (he llegado, ha pasado, ha trabajado, he trabajado); llevar + time + gerund (llevo veinte minutos buscándola); connectors porque, aunque (with indicative), mientras, por eso; indirect object pronouns (le tiró, me tiró, me ayudaste); reflexive past (se despertó, se vistió, se sentó, se puso nerviosa); usted vs tú (Ortega uses usted, Elena uses tú).",
+    "reason": "Removed 'se me cayó' (no longer in the text) and 'para ti' (never was); added llevar + gerund and the usted/tú contrast."
+  },
+  {
+    "id": "a2-09",
+    "field": "concepts.skills",
+    "old": "Following a plot with a surprise twist, making an inference about why a decision was made, and noticing formal usted forms in an office setting.",
+    "new": "Following a plot with a surprise twist, making an inference about why a decision was made, and noticing who uses formal usted (the interviewer) and who uses tú (the founder, the man in the metro).",
+    "reason": "Made the register point concrete now that Ortega is consistently usted."
+  },
+  {
+    "id": "a2-10",
+    "field": "lines.es",
+    "index": 3,
+    "old": "Todos los vecinos hacían <b>faroles</b> de papel y los llevaban por las calles al anochecer.",
+    "new": "Todos los vecinos hacían <b>faroles</b> de papel y los llevaban por las calles al <b>anochecer</b>.",
+    "reason": "'el anochecer' is in the vocab list but was never bolded."
+  },
+  {
+    "id": "a2-10",
+    "field": "lines.es",
+    "index": 6,
+    "old": "Su primo Pablo la ayudó. Durante cuatro días trabajaron en el <b>granero</b> con papel, pegamento y mucha paciencia.",
+    "new": "Su primo Pablo la ayudó. Durante cuatro días trabajaron en el <b>granero</b> con papel, <b>pegamento</b> y mucha paciencia.",
+    "reason": "'el pegamento' is in the vocab list but was never bolded."
+  },
+  {
+    "id": "a2-10",
+    "field": "lines.es",
+    "index": 15,
+    "old": "La panadera trajo papel y pegamento. El <b>carpintero</b> <b>reparó</b> la pata. Los niños <b>pintaron</b> las estrellas.",
+    "new": "La panadera trajo papel y pegamento. El <b>carpintero</b> <b>reparó</b> la pata. Los niños <b>pintaron</b> el papel nuevo.",
+    "reason": "'las estrellas' (which stars?) were never introduced; 'el papel nuevo' links back to the problem in line 13."
+  },
+  {
+    "id": "a2-10",
+    "field": "lines.en",
+    "index": 15,
+    "old": "The baker brought paper and glue. The carpenter repaired the leg. The children painted the stars.",
+    "new": "The baker brought paper and glue. The carpenter repaired the leg. The children painted the new paper.",
+    "reason": "'las estrellas' (which stars?) were never introduced; 'el papel nuevo' links back to the problem in line 13."
+  },
+  {
+    "id": "a2-10",
+    "field": "lines.es",
+    "index": 23,
+    "old": "Ella sonrió con lágrimas en los ojos. Aunque llovió la noche anterior, esa fue la mejor <b>noche</b> de su vida.",
+    "new": "Ella sonrió con lágrimas en los ojos. Aunque llovió la noche anterior, esa fue la mejor noche de su vida.",
+    "reason": "'noche' (A1 word, not in vocab list) was bolded as if it were new vocabulary."
+  },
+  {
+    "id": "a2-10",
+    "field": "prompt",
+    "old": "Write in Spanish about a festival or celebration you know. What happens, who takes part, and what do you like most? Write 5-7 sentences.",
+    "new": "Write in Spanish about a festival or celebration you went to. Where was it, what did people usually do, and what happened that day? Write 5-7 sentences, using the imperfect for what people did and the preterite for what happened. Starter: «Cada año, en mi ciudad, la gente… El año pasado…»",
+    "reason": "Old prompt was in the present tense, so it did not elicit the story's past tenses. Added a starter."
+  },
+  {
+    "id": "a2-10",
+    "field": "concepts.grammar",
+    "old": "Preterite and imperfect woven together in a longer story (llovió, estaba, trabajaban); present perfect used lightly (he visto); connectors mientras, porque, aunque (with indicative), cuando; object pronouns (le dijo, la ayudó, se lo contó); comparisons (más bonito que, el más grande); near future ir a; tú command (no llores); por and para (por la mañana, para todos).",
+    "new": "Preterite and imperfect woven together in a longer story (empezó, cayó, trabajaron / viajaba, hacían, cantaba); present perfect (he visto) and past perfect (había aprendido); connectors mientras, porque, aunque (with indicative); object pronouns (le dijo, la ayudó, se lo contó); comparisons (más bonito que, el más grande); near future ir a; tú command (no llores); time and purpose phrases (por la mañana, para todos, para arreglarlo).",
+    "reason": "'trabajaban' is not in the text; added the past perfect, which the grammar notes teach from this story."
+  }
+]

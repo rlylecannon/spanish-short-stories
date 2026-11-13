@@ -1,0 +1,88 @@
+/* ===== Accessibility and phone-layout overrides =====
+   Loaded after base.css and extra.css (see tools/build_site.py), so equal-specificity rules here win.
+   Added 12 Nov 2026 after a UI review that measured contrast, tap-target and text sizes in the running page.
+   Sections: 1 colour contrast, 2 tap targets, 3 phone layout, 4 caption under the illustration, 5 audio bar.
+   The dark themes (defined in extra.css) keep their own bright --orange / --blue for TEXT; the --orangeF / --blueF
+   variables below are for FILLS behind white text and stay dark in every theme. */
+
+/* ---- 1. Colour contrast (WCAG AA: 4.5:1 for normal text, 3:1 for large text and graphics) ----
+   The old brand orange (#f5873a) and blue (#3aa0f5) were only 2.2 to 2.8:1 as text on the light backgrounds.
+   #b85000 is 5.0:1 on white and 4.8:1 on the page background; #1565b8 is 5.9:1 and 5.6:1. */
+:root{--orange:#b85000;--blue:#1565b8;--orangeF:#b85000;--blueF:#1565b8}
+
+/* Fills that carry white text or a white icon use the darker fill colour in every theme (white on the bright
+   dark-theme orange was only 2.2:1). Bars, borders and hover rings keep --orange / --blue. */
+.btn,.ed .guest,.fc.flip div,.nbt i,.nbb,#nb-badge.due,.continue .cin,#nb-pop .pb,#lk-pop .pb:not(.ghost):not(.on){background:var(--orangeF)}
+#nb-pop .pb,#lk-pop .pb:not(.ghost):not(.on){border-color:var(--orangeF)}
+.chips button.on,.toggle button.on,.chips2 button.on,.fc.on{background:var(--blueF);border-color:var(--blueF)}
+.fnav button.ar{color:var(--blue)}
+
+/* ---- 2. Tap targets (aim for 44 x 44 px; invisible padding or pseudo-elements where the look must not change) ---- */
+nav .nl.ic{min-width:44px;min-height:44px;justify-content:center}
+#menu{min-width:44px;min-height:44px;align-items:center;justify-content:center}
+#clr{display:inline-block;padding:12px 10px;margin:-12px -10px;cursor:pointer}
+#tags b{display:inline-flex;align-items:center;justify-content:center;min-width:28px;min-height:28px;cursor:pointer}
+#top{width:44px;height:44px}
+.vsave,#ins{position:relative}
+.vsave::after,#ins::after{content:"";position:absolute;inset:-10px}
+.backlink{padding:12px 0;margin:-10px 0 0}
+.toolbar button,.secnav a{min-height:44px}
+footer a{display:inline-block;padding:10px 8px}
+
+/* ---- 3. Phone layout ---- */
+/* Review / Quiz / Writing / Speaking: on a 335 px card the four tabs were 387 px wide and "Speaking" was cut off.
+   Drop the icons on phones so they fit, and let the row scroll as a safety net. */
+.tabs{overflow-x:auto;scrollbar-width:none}
+.tabs::-webkit-scrollbar{display:none}
+.tabs button{white-space:nowrap}
+@media(max-width:480px){
+  .tabs button .ic{display:none}
+  .tabs button{padding:10px 4px;font-size:.82rem}
+}
+/* The italic quote under the logo wrapped to two lines and pushed the story down; keep it for wider screens. */
+@media(max-width:600px){nav .nq{display:none}}
+/* Warm up / Vocabulary / Grammar / More: keep the four pills on one row at 375 px. */
+@media(max-width:420px){
+  .toolbar{gap:4px}
+  .toolbar button{padding:7px 6px;font-size:.75rem;gap:3px}
+  .toolbar button small{padding:1px 4px;margin-left:0}
+}
+
+/* ---- 4. Culture-corner caption sits UNDER the illustration instead of covering it ----
+   It used to overlay the bottom of the picture (hiding the characters) at 9.6 to 11.5 px. */
+/* .illus is a centred flex box with a fixed 4:3 ratio; switch the inline one to a plain block so the caption stacks under the picture. */
+.illus.inline{display:block;aspect-ratio:auto}
+.illus.inline .cc{position:static!important;background:var(--soft);backdrop-filter:none;color:var(--ink);font-size:.78rem;line-height:1.35;align-items:flex-start;border-top:1px solid var(--line)!important}
+.illus.inline .cc-h{font-size:.75rem}
+
+/* ---- 5. Audio bar ---- */
+/* "0.85x" wrapped onto two lines in the narrow desktop card. */
+.sbb{white-space:nowrap}
+#sb-speed{min-width:64px}
+@media(max-width:480px){#sb-speed{min-width:44px}}
+
+/* ---- 6. Leftovers from the audit ---- */
+/* Text still under 12 px: the footer notes, the "NEXT STORY" label and the small score caption on the progress page. */
+footer small,div.n,.pl-sc em{font-size:.75rem}
+/* Flashcard filter pills (All / Words / Grammar), the previous/next arrows, and the panel close button. */
+.rvseg button{min-height:40px}
+.nv{min-width:44px;min-height:44px}
+.tpan .px,.apop .px{min-width:44px;min-height:44px}
+/* "Open all / Close all" links on the progress page. */
+.linkb{padding:12px 8px}
+
+/* ---- 7. Dark-mode contrast fixes found while re-checking the themes ----
+   In the dark themes a rule makes every element inside a card (.qw) use the light text colour, which left the
+   selected flashcard filter pill with light text on its light fill. The pastel level badges (A1 to C2) also kept the
+   light text colour. Selectors here repeat the dark-theme prefix so they outrank that rule. */
+.gc .lv,.sc .lv,.lv{color:#1d1d1d}
+:root[data-theme="dark"] .qw .rvseg button.on{color:var(--onink)}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]) .qw .rvseg button.on{color:var(--onink)}}
+.lvA1,.lvA2,.lvB1,.lvB2,.lvC1,.lvC2{color:#1d1d1d}
+/* the "43" count inside the selected pill, and the PDF tag on download rows (fixed dark orange on a dark tint) */
+:root[data-theme="dark"] .qw .rvseg button.on *{color:inherit}
+:root[data-theme="dark"] .dl .ico{color:var(--orange)}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]) .qw .rvseg button.on *{color:inherit}:root:not([data-theme="light"]) .dl .ico{color:var(--orange)}}
+/* "Quiz 3/5" and "Read" badges on library cards: fixed dark green / blue text on dark tints in the dark themes. */
+:root[data-theme="dark"] .gc .dn{color:#8fe38f}:root[data-theme="dark"] .gc .dn.rd{color:#9cc8ff}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]) .gc .dn{color:#8fe38f}:root:not([data-theme="light"]) .gc .dn.rd{color:#9cc8ff}}

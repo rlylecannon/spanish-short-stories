@@ -1,0 +1,1024 @@
+[
+ {
+  "id": "a1-06",
+  "level": "A1",
+  "title": "El autobús de las siete",
+  "titleEn": "The Seven O'Clock Bus",
+  "teaser": "Lucía takes the same bus to work every day, but today a stranger sits beside her.",
+  "emoji": "🚌",
+  "lines": [
+   [
+    "Me llamo Lucía y vivo en Valencia.",
+    "My name is Lucía and I live in Valencia."
+   ],
+   [
+    "Todos los días me <b>levanto</b> a las seis.",
+    "Every day I get up at six."
+   ],
+   [
+    "Me <b>ducho</b> y tomo un <b>café</b> con leche.",
+    "I take a shower and have a coffee with milk."
+   ],
+   [
+    "Mi trabajo está muy <b>lejos</b> de mi casa.",
+    "My job is very far from my house."
+   ],
+   [
+    "Por eso voy en <b>autobús</b>.",
+    "That is why I go by bus."
+   ],
+   [
+    "La <b>parada</b> está cerca de mi calle.",
+    "The stop is near my street."
+   ],
+   [
+    "Hoy el autobús llega tarde porque hay mucho <b>tráfico</b>.",
+    "Today the bus arrives late because there is a lot of traffic."
+   ],
+   [
+    "Un señor mayor se <b>sienta</b> a mi lado.",
+    "An older man sits down next to me."
+   ],
+   [
+    "Se llama Don Julio y lleva un <b>libro</b> grande.",
+    "His name is Don Julio and he is carrying a big book."
+   ],
+   [
+    "—Buenos días, ¿tú trabajas en el hospital? —me pregunta.",
+    "\"Good morning, do you work at the hospital?\" he asks me."
+   ],
+   [
+    "—No, trabajo en una <b>librería</b> —respondo yo.",
+    "\"No, I work in a bookstore,\" I answer."
+   ],
+   [
+    "Abre su bolsa y me da un <b>pan dulce</b>.",
+    "He opens his bag and gives me a sweet roll."
+   ],
+   [
+    "—Mi <b>esposa</b> lo hace cada mañana —dice.",
+    "\"My wife makes it every morning,\" he says."
+   ],
+   [
+    "El pan está muy rico y me siento <b>feliz</b>.",
+    "The bread is very tasty and I feel happy."
+   ],
+   [
+    "Ahora el autobús llega a mi parada.",
+    "Now the bus arrives at my stop."
+   ],
+   [
+    "Mañana yo llevo café para Don Julio.",
+    "Tomorrow I am bringing coffee for Don Julio."
+   ],
+   [
+    "Me gusta mucho mi viaje en autobús.",
+    "I like my bus ride very much."
+   ]
+  ],
+  "vocab": [
+   [
+    "el café",
+    "coffee"
+   ],
+   [
+    "el trabajo",
+    "job, work"
+   ],
+   [
+    "lejos",
+    "far"
+   ],
+   [
+    "el autobús",
+    "bus"
+   ],
+   [
+    "la parada",
+    "bus stop"
+   ],
+   [
+    "el tráfico",
+    "traffic"
+   ],
+   [
+    "el libro",
+    "book"
+   ],
+   [
+    "la librería",
+    "bookstore"
+   ],
+   [
+    "el pan dulce",
+    "sweet roll"
+   ],
+   [
+    "la esposa",
+    "wife"
+   ],
+   [
+    "la mañana",
+    "morning"
+   ],
+   [
+    "feliz",
+    "happy"
+   ],
+   [
+    "la calle",
+    "street"
+   ],
+   [
+    "el señor",
+    "man, gentleman"
+   ],
+   [
+    "llegar",
+    "to arrive"
+   ]
+  ],
+  "quiz": [
+   {
+    "q": "¿Por qué Lucía va en autobús?",
+    "options": [
+     "Su trabajo está lejos",
+     "No tiene dinero",
+     "Le gusta el tráfico",
+     "Su casa está en el centro"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "¿Por qué el autobús llega tarde hoy?",
+    "options": [
+     "Hay mucha lluvia",
+     "Hay mucho tráfico",
+     "El conductor está enfermo",
+     "La parada está lejos"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "¿Dónde trabaja Lucía?",
+    "options": [
+     "En un hospital",
+     "En un café",
+     "En una librería",
+     "En una escuela"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "¿Qué le da Don Julio a Lucía?",
+    "options": [
+     "Un libro",
+     "Un café",
+     "Una bolsa",
+     "Un pan dulce"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "¿Qué va a llevar Lucía mañana?",
+    "options": [
+     "Pan para su esposa",
+     "Café para Don Julio",
+     "Un libro grande",
+     "Leche para el autobús"
+    ],
+    "answer": 1
+   }
+  ],
+  "prompt": "Describe your own morning routine in Spanish. What time do you get up, and how do you go to work or school? Write 4-5 simple sentences.",
+  "concepts": {
+   "grammar": "Reflexive verbs in the present (me levanto, me ducho, se sienta, se llama); estar for location; porque for reasons.",
+   "vocabulary": "Daily routine and transportation words: levantarse, autobús, parada, lejos, librería.",
+   "skills": "Reading a short narrative with a two-line dialogue; talking about daily routines."
+  }
+ },
+ {
+  "id": "a1-07",
+  "level": "A1",
+  "title": "Un día de lluvia en Bogotá",
+  "titleEn": "A Rainy Day in Bogotá",
+  "teaser": "With no free tables and a soaking wet coat, Ana discovers something surprising about a stranger.",
+  "emoji": "☔",
+  "lines": [
+   [
+    "Hoy <b>llueve</b> mucho en Bogotá.",
+    "Today it is raining a lot in Bogotá."
+   ],
+   [
+    "Ana está en un <b>café</b> pequeño.",
+    "Ana is in a small café."
+   ],
+   [
+    "No tiene <b>paraguas</b> y su ropa está <b>mojada</b>.",
+    "She has no umbrella and her clothes are wet."
+   ],
+   [
+    "Hay una mesa libre cerca de la <b>ventana</b>.",
+    "There is a free table near the window."
+   ],
+   [
+    "Ana se sienta y pide un <b>chocolate</b> caliente.",
+    "Ana sits down and orders a hot chocolate."
+   ],
+   [
+    "Un chico joven llega con un <b>libro</b>.",
+    "A young man arrives with a book."
+   ],
+   [
+    "Se llama Tomás y también está mojado.",
+    "His name is Tomás and he is wet too."
+   ],
+   [
+    "—Perdón, ¿está libre esta <b>silla</b>?",
+    "\"Excuse me, is this chair free?\""
+   ],
+   [
+    "—Sí, claro, hay mucho espacio —dice Ana.",
+    "\"Yes, of course, there is a lot of room,\" says Ana."
+   ],
+   [
+    "Tomás abre su libro y Ana ve la <b>portada</b>.",
+    "Tomás opens his book and Ana sees the cover."
+   ],
+   [
+    "¡Es el mismo libro que ella lee!",
+    "It is the same book she is reading!"
+   ],
+   [
+    "—Yo también leo ese libro —dice Ana.",
+    "\"I am reading that book too,\" says Ana."
+   ],
+   [
+    "Los dos hablan de la historia por una hora.",
+    "The two of them talk about the story for an hour."
+   ],
+   [
+    "Afuera la lluvia es fuerte, pero ellos están <b>contentos</b>.",
+    "Outside the rain is heavy, but they are happy."
+   ],
+   [
+    "Al final, Tomás pregunta: —¿Dónde vives?",
+    "In the end, Tomás asks, \"Where do you live?\""
+   ],
+   [
+    "—Vivo en la calle Veinte, cerca del <b>parque</b> —responde Ana.",
+    "\"I live on Twenty Street, near the park,\" answers Ana."
+   ],
+   [
+    "—¡Yo también! Mi casa está al lado de tu edificio.",
+    "\"Me too! My house is next to your building.\""
+   ],
+   [
+    "Tomás tiene un paraguas grande y camina con Ana.",
+    "Tomás has a big umbrella and walks with Ana."
+   ]
+  ],
+  "vocab": [
+   [
+    "llover",
+    "to rain"
+   ],
+   [
+    "el café",
+    "café"
+   ],
+   [
+    "el paraguas",
+    "umbrella"
+   ],
+   [
+    "mojado",
+    "wet"
+   ],
+   [
+    "la ventana",
+    "window"
+   ],
+   [
+    "el chocolate",
+    "hot chocolate"
+   ],
+   [
+    "el libro",
+    "book"
+   ],
+   [
+    "la silla",
+    "chair"
+   ],
+   [
+    "la portada",
+    "cover"
+   ],
+   [
+    "contento",
+    "happy"
+   ],
+   [
+    "el parque",
+    "park"
+   ],
+   [
+    "la mesa",
+    "table"
+   ],
+   [
+    "la lluvia",
+    "rain"
+   ],
+   [
+    "el edificio",
+    "building"
+   ]
+  ],
+  "quiz": [
+   {
+    "q": "¿Por qué Ana está mojada?",
+    "options": [
+     "No tiene paraguas",
+     "Cae en el parque",
+     "Tiene chocolate en la ropa",
+     "Su casa está lejos"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "¿Qué pide Ana en el café?",
+    "options": [
+     "Un té",
+     "Un chocolate caliente",
+     "Un café con leche",
+     "Un libro"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "¿Qué tienen Ana y Tomás en común?",
+    "options": [
+     "Trabajan en el café",
+     "Tienen el mismo paraguas",
+     "Leen el mismo libro",
+     "Son hermanos"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "¿Dónde vive Ana?",
+    "options": [
+     "Lejos del parque",
+     "En el café",
+     "Cerca de la ventana",
+     "Cerca del parque"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "¿Dónde está la casa de Tomás?",
+    "options": [
+     "Al lado del edificio de Ana",
+     "En otra ciudad",
+     "Detrás del café",
+     "Lejos de la calle Veinte"
+    ],
+    "answer": 0
+   }
+  ],
+  "prompt": "What do you like to do on a rainy day? Where do you go, and who is with you? Answer in Spanish with 4-5 simple sentences.",
+  "concepts": {
+   "grammar": "estar + location and state (está mojada, están contentos); reflexive se sienta, se llama; porque and pero.",
+   "vocabulary": "Café and weather words: llover, paraguas, mojado, ventana, silla.",
+   "skills": "Following a short dialogue between two speakers; describing weather and places."
+  }
+ },
+ {
+  "id": "a1-08",
+  "level": "A1",
+  "title": "Las flores de la señora Elena",
+  "titleEn": "Mrs. Elena's Flowers",
+  "teaser": "Nico needs flowers for a special day, but he does not have enough money.",
+  "emoji": "🌹",
+  "lines": [
+   [
+    "Nico tiene diez años y vive en Oaxaca.",
+    "Nico is ten years old and lives in Oaxaca."
+   ],
+   [
+    "Su vecina, la señora Elena, tiene un <b>jardín</b>.",
+    "His neighbor, Mrs. Elena, has a garden."
+   ],
+   [
+    "El jardín es más grande que su casa.",
+    "The garden is bigger than her house."
+   ],
+   [
+    "Mañana es el <b>cumpleaños</b> de la mamá de Nico.",
+    "Tomorrow is Nico's mom's birthday."
+   ],
+   [
+    "Nico quiere comprar <b>flores</b> para ella.",
+    "Nico wants to buy flowers for her."
+   ],
+   [
+    "Va al <b>mercado</b>, pero las flores cuestan cuarenta <b>pesos</b>.",
+    "He goes to the market, but the flowers cost forty pesos."
+   ],
+   [
+    "Está triste porque solo tiene veinte pesos.",
+    "He is sad because he only has twenty pesos."
+   ],
+   [
+    "Pasa por el jardín y la señora Elena lo ve.",
+    "He walks past the garden and Mrs. Elena sees him."
+   ],
+   [
+    "—Nico, ¿por qué estás triste? —pregunta ella.",
+    "\"Nico, why are you sad?\" she asks."
+   ],
+   [
+    "—Quiero flores para mi mamá, pero no tengo <b>dinero</b>.",
+    "\"I want flowers for my mom, but I have no money.\""
+   ],
+   [
+    "—Mis flores son más bonitas que las del mercado —dice ella.",
+    "\"My flowers are prettier than the ones at the market,\" she says."
+   ],
+   [
+    "—Tienes que <b>regar</b> las plantas conmigo, y las flores son tuyas.",
+    "\"You have to water the plants with me, and the flowers are yours.\""
+   ],
+   [
+    "Nico toma una <b>regadera</b> y trabaja una hora.",
+    "Nico takes a watering can and works for an hour."
+   ],
+   [
+    "Al final, está cansado, pero muy contento.",
+    "In the end, he is tired but very happy."
+   ],
+   [
+    "La señora Elena corta diez <b>rosas</b> para él.",
+    "Mrs. Elena cuts ten roses for him."
+   ],
+   [
+    "—De nada. Tienes que venir otra vez mañana —sonríe ella.",
+    "\"You're welcome. You have to come again tomorrow,\" she smiles."
+   ],
+   [
+    "—Me gusta tener un amigo en el jardín.",
+    "\"I like having a friend in the garden.\""
+   ],
+   [
+    "La mamá de Nico recibe las flores y llora de alegría.",
+    "Nico's mom receives the flowers and cries with joy."
+   ]
+  ],
+  "vocab": [
+   [
+    "el jardín",
+    "garden"
+   ],
+   [
+    "el cumpleaños",
+    "birthday"
+   ],
+   [
+    "la flor",
+    "flower"
+   ],
+   [
+    "el mercado",
+    "market"
+   ],
+   [
+    "el peso",
+    "peso"
+   ],
+   [
+    "el dinero",
+    "money"
+   ],
+   [
+    "regar",
+    "to water"
+   ],
+   [
+    "la regadera",
+    "watering can"
+   ],
+   [
+    "la rosa",
+    "rose"
+   ],
+   [
+    "la planta",
+    "plant"
+   ],
+   [
+    "el vecino",
+    "neighbor"
+   ],
+   [
+    "comprar",
+    "to buy"
+   ],
+   [
+    "querer",
+    "to want"
+   ],
+   [
+    "costar",
+    "to cost"
+   ]
+  ],
+  "quiz": [
+   {
+    "q": "¿Cuántos años tiene Nico?",
+    "options": [
+     "Doce",
+     "Veinte",
+     "Cuarenta",
+     "Diez"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "¿Por qué Nico quiere flores?",
+    "options": [
+     "Es el cumpleaños de su mamá",
+     "Es el cumpleaños de Elena",
+     "Quiere vender flores",
+     "Tiene un jardín nuevo"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "¿Cuánto dinero tiene Nico?",
+    "options": [
+     "Cuarenta pesos",
+     "Diez pesos",
+     "Veinte pesos",
+     "Cincuenta pesos"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "¿Qué tiene que hacer Nico para tener las flores?",
+    "options": [
+     "Comprar una regadera",
+     "Regar las plantas",
+     "Ir al mercado",
+     "Cortar un árbol"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "¿Por qué Elena quiere que Nico venga otra vez?",
+    "options": [
+     "Tiene mucho dinero",
+     "Necesita más rosas",
+     "Le gusta tener un amigo en el jardín",
+     "Nico es su hijo"
+    ],
+    "answer": 2
+   }
+  ],
+  "prompt": "Do you have a garden, or do you know a place with many plants? Describe it in Spanish and say what you have to do to take care of it (use tengo que...).",
+  "concepts": {
+   "grammar": "tener que + infinitive; querer + infinitive; comparisons with más ... que; numbers up to 100.",
+   "vocabulary": "Garden, money and market words: jardín, flores, pesos, regar, mercado.",
+   "skills": "Understanding prices and numbers; comparing two things; reading a story with a kind twist."
+  }
+ },
+ {
+  "id": "a1-09",
+  "level": "A1",
+  "title": "Una llamada de viernes",
+  "titleEn": "A Friday Phone Call",
+  "teaser": "Marta thinks her birthday is going to be quiet and lonely, until her phone rings.",
+  "emoji": "📞",
+  "lines": [
+   [
+    "Es viernes por la tarde y <b>suena</b> el <b>teléfono</b>.",
+    "It is Friday afternoon and the phone rings."
+   ],
+   [
+    "Marta mira la pantalla y sonríe.",
+    "Marta looks at the screen and smiles."
+   ],
+   [
+    "Es su amigo Javier, de Madrid.",
+    "It is her friend Javier, from Madrid."
+   ],
+   [
+    "—¡Hola, Marta! ¿Qué tal estás?",
+    "\"Hi, Marta! How are you?\""
+   ],
+   [
+    "—Hola, Javier. Estoy bien, pero un poco triste.",
+    "\"Hi, Javier. I'm fine, but a little sad.\""
+   ],
+   [
+    "—¿Por qué estás triste? —pregunta él.",
+    "\"Why are you sad?\" he asks."
+   ],
+   [
+    "—El sábado es mi <b>cumpleaños</b> y voy a estar sola.",
+    "\"Saturday is my birthday and I'm going to be alone.\""
+   ],
+   [
+    "—¿Sola? ¿Y tu <b>familia</b>?",
+    "\"Alone? What about your family?\""
+   ],
+   [
+    "—Mi familia vive <b>lejos</b> y mis amigas trabajan.",
+    "\"My family lives far away and my friends are working.\""
+   ],
+   [
+    "—Entonces, ¿qué vas a hacer el sábado?",
+    "\"So, what are you going to do on Saturday?\""
+   ],
+   [
+    "—Voy a <b>cocinar</b> una <b>tortilla</b> y ver una película.",
+    "\"I'm going to cook a tortilla and watch a movie.\""
+   ],
+   [
+    "—Suena aburrido —dice Javier con una risa.",
+    "\"That sounds boring,\" says Javier with a laugh."
+   ],
+   [
+    "—Sí, un poco —contesta ella.",
+    "\"Yes, a little,\" she answers."
+   ],
+   [
+    "—Marta, ¿tienes pan y <b>queso</b> en casa?",
+    "\"Marta, do you have bread and cheese at home?\""
+   ],
+   [
+    "—Sí, tengo un poco. ¿Por qué?",
+    "\"Yes, I have a little. Why?\""
+   ],
+   [
+    "—Porque voy a comer contigo el sábado.",
+    "\"Because I'm going to eat with you on Saturday.\""
+   ],
+   [
+    "—¿Qué dices? ¡Tú vives en Madrid!",
+    "\"What are you saying? You live in Madrid!\""
+   ],
+   [
+    "—Sí, pero ahora estoy en Sevilla, delante de tu <b>edificio</b>.",
+    "\"Yes, but right now I'm in Seville, in front of your building.\""
+   ],
+   [
+    "Marta corre a la <b>ventana</b> y ve a Javier.",
+    "Marta runs to the window and sees Javier."
+   ],
+   [
+    "Él tiene un <b>pastel</b> y un <b>globo</b> grande en las manos.",
+    "He has a cake and a big balloon in his hands."
+   ],
+   [
+    "—¡Feliz cumpleaños, Marta! —dice.",
+    "\"Happy birthday, Marta!\" he says."
+   ],
+   [
+    "Ella ríe y baja a abrir la puerta.",
+    "She laughs and goes down to open the door."
+   ],
+   [
+    "El sábado no va a estar sola.",
+    "On Saturday she is not going to be alone."
+   ]
+  ],
+  "vocab": [
+   [
+    "el teléfono",
+    "phone"
+   ],
+   [
+    "sonar",
+    "to ring"
+   ],
+   [
+    "el cumpleaños",
+    "birthday"
+   ],
+   [
+    "la familia",
+    "family"
+   ],
+   [
+    "lejos",
+    "far away"
+   ],
+   [
+    "cocinar",
+    "to cook"
+   ],
+   [
+    "la tortilla",
+    "omelet"
+   ],
+   [
+    "el queso",
+    "cheese"
+   ],
+   [
+    "el edificio",
+    "building"
+   ],
+   [
+    "la ventana",
+    "window"
+   ],
+   [
+    "el pastel",
+    "cake"
+   ],
+   [
+    "el globo",
+    "balloon"
+   ],
+   [
+    "la puerta",
+    "door"
+   ],
+   [
+    "el viernes",
+    "Friday"
+   ]
+  ],
+  "quiz": [
+   {
+    "q": "¿Qué día llama Javier?",
+    "options": [
+     "El sábado",
+     "El domingo",
+     "El viernes",
+     "El lunes"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "¿Por qué Marta está triste?",
+    "options": [
+     "Va a estar sola en su cumpleaños",
+     "No tiene teléfono",
+     "Javier no vive en Madrid",
+     "No tiene pan"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "¿Qué va a hacer Marta el sábado?",
+    "options": [
+     "Ir a Madrid",
+     "Ver una película y cocinar",
+     "Trabajar con sus amigas",
+     "Comer con su familia"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "¿Dónde está Javier cuando llama?",
+    "options": [
+     "En Madrid",
+     "En su casa",
+     "En la cocina de Marta",
+     "Delante del edificio de Marta"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "¿Qué lleva Javier en las manos?",
+    "options": [
+     "Un pastel y un globo",
+     "Pan y queso",
+     "Una tortilla",
+     "Un teléfono nuevo"
+    ],
+    "answer": 0
+   }
+  ],
+  "prompt": "Imagine you call a friend. Write a short dialogue in Spanish: ask what your friend is going to do on Saturday and answer with ir a + infinitive.",
+  "concepts": {
+   "grammar": "ir a + infinitive for near plans (voy a cocinar, vas a hacer); time expressions: el sábado, ahora, mañana.",
+   "vocabulary": "Phone, birthday and food words: teléfono, cumpleaños, tortilla, queso, pastel.",
+   "skills": "Following a two-speaker dialogue; talking about plans for the weekend."
+  }
+ },
+ {
+  "id": "a1-10",
+  "level": "A1",
+  "title": "Un sábado en el mar",
+  "titleEn": "A Saturday by the Sea",
+  "teaser": "Two siblings plan a weekend trip with a very special guest.",
+  "emoji": "🌊",
+  "lines": [
+   [
+    "Elena y su hermano Raúl están en la cocina.",
+    "Elena and her brother Raúl are in the kitchen."
+   ],
+   [
+    "—El sábado vamos a ir a la <b>playa</b> —dice Elena.",
+    "\"On Saturday we are going to go to the beach,\" says Elena."
+   ],
+   [
+    "—Buena idea. ¿Adónde vamos a ir? —pregunta Raúl.",
+    "\"Good idea. Where are we going to go?\" asks Raúl."
+   ],
+   [
+    "—A Cádiz. El <b>tren</b> sale a las ocho de la mañana.",
+    "\"To Cádiz. The train leaves at eight in the morning.\""
+   ],
+   [
+    "—Pero el <b>abuelo</b> no tiene coche y vive solo —dice Raúl.",
+    "\"But Grandpa has no car and lives alone,\" says Raúl."
+   ],
+   [
+    "—Entonces el abuelo va a venir con nosotros.",
+    "\"Then Grandpa is going to come with us.\""
+   ],
+   [
+    "—Perfecto. Él tiene ochenta años y quiere ver el <b>mar</b>.",
+    "\"Perfect. He is eighty years old and wants to see the sea.\""
+   ],
+   [
+    "—Abuelo, ¿quieres ir con nosotros? —pregunta Elena por teléfono.",
+    "\"Grandpa, do you want to come with us?\" Elena asks on the phone."
+   ],
+   [
+    "—¿Yo? ¿A la playa? ¡Claro que sí! —responde él.",
+    "\"Me? To the beach? Of course!\" he answers."
+   ],
+   [
+    "—Vamos a comer <b>pescado</b> y a caminar por la <b>arena</b>.",
+    "\"We are going to eat fish and walk on the sand.\""
+   ],
+   [
+    "El viernes por la noche, los hermanos preparan las <b>mochilas</b>.",
+    "On Friday night, the siblings pack their backpacks."
+   ],
+   [
+    "Elena pone agua, <b>fruta</b> y una <b>toalla</b> grande.",
+    "Elena puts in water, fruit and a big towel."
+   ],
+   [
+    "Raúl busca los <b>billetes</b>, pero no los encuentra.",
+    "Raúl looks for the tickets, but he cannot find them."
+   ],
+   [
+    "—¿Dónde están los billetes? —grita él.",
+    "\"Where are the tickets?\" he shouts."
+   ],
+   [
+    "Elena se ríe y abre su bolsa.",
+    "Elena laughs and opens her bag."
+   ],
+   [
+    "—Aquí están. Yo los tengo.",
+    "\"Here they are. I have them.\""
+   ],
+   [
+    "El sábado, los tres llegan a la <b>estación</b> temprano.",
+    "On Saturday, the three of them arrive at the station early."
+   ],
+   [
+    "En el tren, el abuelo mira por la ventana.",
+    "On the train, Grandpa looks out the window."
+   ],
+   [
+    "Después de dos horas, ve el mar azul.",
+    "After two hours, he sees the blue sea."
+   ],
+   [
+    "—Es más grande que en mis recuerdos —dice.",
+    "\"It is bigger than in my memories,\" he says."
+   ],
+   [
+    "Los tres van a pasar un día perfecto.",
+    "The three of them are going to have a perfect day."
+   ]
+  ],
+  "vocab": [
+   [
+    "la playa",
+    "beach"
+   ],
+   [
+    "el tren",
+    "train"
+   ],
+   [
+    "el mar",
+    "sea"
+   ],
+   [
+    "el abuelo",
+    "grandfather"
+   ],
+   [
+    "el pescado",
+    "fish"
+   ],
+   [
+    "la mochila",
+    "backpack"
+   ],
+   [
+    "el billete",
+    "ticket"
+   ],
+   [
+    "la estación",
+    "station"
+   ],
+   [
+    "la arena",
+    "sand"
+   ],
+   [
+    "la toalla",
+    "towel"
+   ],
+   [
+    "la fruta",
+    "fruit"
+   ],
+   [
+    "el hermano",
+    "brother"
+   ],
+   [
+    "la ventana",
+    "window"
+   ],
+   [
+    "preparar",
+    "to prepare"
+   ]
+  ],
+  "quiz": [
+   {
+    "q": "¿Adónde van a ir los hermanos?",
+    "options": [
+     "A Madrid",
+     "A una montaña",
+     "A Cádiz",
+     "A Valencia"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "¿Quién más va a ir con ellos?",
+    "options": [
+     "El abuelo",
+     "Un amigo de Raúl",
+     "La mamá",
+     "Nadie"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "¿Cómo van a viajar?",
+    "options": [
+     "En coche",
+     "En autobús",
+     "En avión",
+     "En tren"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "¿Quién tiene los billetes?",
+    "options": [
+     "Raúl",
+     "Elena",
+     "El abuelo",
+     "Nadie"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "¿Qué dice el abuelo del mar?",
+    "options": [
+     "Es más pequeño que antes",
+     "Es muy frío",
+     "Es más grande que en sus recuerdos",
+     "No le gusta"
+    ],
+    "answer": 2
+   }
+  ],
+  "prompt": "Where are you going to go on your next weekend trip, and who is going with you? Write 4-6 sentences in Spanish using voy a... and vamos a...",
+  "concepts": {
+   "grammar": "ir a + infinitive for plans (vamos a ir, van a pasar); time expressions: el sábado, el viernes por la noche; comparison más ... que.",
+   "vocabulary": "Travel and beach words: tren, billete, estación, playa, mochila, mar.",
+   "skills": "Following a planning dialogue between two speakers; making simple plans and giving times."
+  }
+ }
+]

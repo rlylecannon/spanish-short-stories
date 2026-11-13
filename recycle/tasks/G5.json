@@ -1,0 +1,1178 @@
+{
+ "patches": [
+  {
+   "file": "stories",
+   "id": "b1-01",
+   "find": "Inés, una profesora <b>jubilada</b>, paseaba",
+   "replace": "Inés, una profesora <b>jubilada</b> con un abrigo largo, paseaba",
+   "why": "line 0: recycle abrigo (a2-05); matches the coat in the scene art"
+  },
+  {
+   "file": "stories",
+   "id": "b1-01",
+   "find": "Inés, a retired teacher, was walking",
+   "replace": "Inés, a retired teacher in a long coat, was walking",
+   "why": "line 0: recycle abrigo (a2-05); matches the coat in the scene art"
+  },
+  {
+   "file": "stories",
+   "id": "b1-01",
+   "find": "Tomó el metro y, veinte minutos después,",
+   "replace": "Compró un billete, tomó el metro en la estación de Retiro y, veinte minutos después,",
+   "why": "line 5: recycle billete + estación"
+  },
+  {
+   "file": "stories",
+   "id": "b1-01",
+   "find": "She took the metro and, twenty minutes later,",
+   "replace": "She bought a ticket, took the metro at Retiro station and, twenty minutes later,",
+   "why": "line 5: recycle billete + estación"
+  },
+  {
+   "file": "stories",
+   "id": "b1-01",
+   "find": "Tenía la cartera en el bolsillo cuando",
+   "replace": "Tenía la cartera en el bolsillo de la chaqueta cuando",
+   "why": "line 6: recycle chaqueta (a1-04)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-01",
+   "find": "I had my wallet in my pocket when",
+   "replace": "I had my wallet in my jacket pocket when",
+   "why": "line 6: recycle chaqueta (a1-04)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-01",
+   "find": "acercándose—. ¿Usted es Gustavo Montoya?",
+   "replace": "acercándose—. Si no estoy equivocada, ¿usted es Gustavo Montoya?",
+   "why": "line 7: recycle equivocado (a2-05)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-01",
+   "find": "stepping closer. “Are you Gustavo Montoya?",
+   "replace": "stepping closer. “If I'm not mistaken, are you Gustavo Montoya?",
+   "why": "line 7: recycle equivocado (a2-05)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-01",
+   "find": "desde Valparaíso, y ella sabía",
+   "replace": "desde Valparaíso con noticias de su familia, y ella sabía",
+   "why": "line 15: recycle noticia (a2-09)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-01",
+   "find": "from Valparaíso, and she knew",
+   "replace": "from Valparaíso with news of his family, and she knew",
+   "why": "line 15: recycle noticia (a2-09)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-02",
+   "find": "—le dijo a Agustina—.",
+   "replace": "—le dijo a Agustina, muy serio—.",
+   "why": "line 5: recycle serio (a1-02)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-02",
+   "find": "he told Agustina.",
+   "replace": "he told Agustina very seriously.",
+   "why": "line 5: recycle serio (a1-02)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-02",
+   "find": "a armar el chivito como su abuela:",
+   "replace": "a armar el chivito como su abuela, con todos sus ingredientes:",
+   "why": "line 6: recycle ingrediente (a2-03)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-02",
+   "find": "the way her grandmother did:",
+   "replace": "the way her grandmother did, with all its ingredients:",
+   "why": "line 6: recycle ingrediente (a2-03)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-02",
+   "find": "Los jueces probaron y discutieron veinte minutos.",
+   "replace": "Los jueces probaron, compararon los sabores y discutieron veinte minutos.",
+   "why": "line 10: recycle sabor (a2-03)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-02",
+   "find": "The judges tasted and argued for twenty minutes.",
+   "replace": "The judges tasted, compared the flavors and argued for twenty minutes.",
+   "why": "line 10: recycle sabor (a2-03)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-02",
+   "find": "aplaudió más fuerte que nadie.",
+   "replace": "aplaudió más fuerte que todo el público.",
+   "why": "line 10: recycle público (a2-04)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-02",
+   "find": "clapped louder than anyone.",
+   "replace": "clapped louder than the whole crowd.",
+   "why": "line 10: recycle público (a2-04)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-02",
+   "find": "Llegó Nélida con un paraguas",
+   "replace": "Llegó Nélida, acompañada de una vecina, con un paraguas",
+   "why": "line 11: recycle acompañar (b1-01)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-02",
+   "find": "Then Nélida arrived with an umbrella",
+   "replace": "Then Nélida arrived, accompanied by a neighbor, with an umbrella",
+   "why": "line 11: recycle acompañar (b1-01)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-02",
+   "find": "El lunes había <b>cola</b> en el Fogón.",
+   "replace": "El lunes, cuando la noticia ya corría por todo el barrio, había <b>cola</b> en el Fogón.",
+   "why": "line 12: recycle noticia (a2-09)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-02",
+   "find": "On Monday there was a line at El Fogón.",
+   "replace": "On Monday, when the news was already all over the neighborhood, there was a line at El Fogón.",
+   "why": "line 12: recycle noticia (a2-09)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-02",
+   "find": "Agustina miró el cielo gris del puerto.",
+   "replace": "Agustina, sentada en un banco, miró el cielo gris del puerto.",
+   "why": "line 13: recycle banco 'bench' (b1-01)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-02",
+   "find": "Agustina looked at the gray sky over the port.",
+   "replace": "Agustina, sitting on a bench, looked at the gray sky over the port.",
+   "why": "line 13: recycle banco 'bench' (b1-01)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-03",
+   "find": "Además, no puedo pagarlo.",
+   "replace": "El sabor está en la leña. Además, no puedo pagarlo.",
+   "why": "line 5: recycle sabor (a2-03)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-03",
+   "find": "Besides, I can't afford it.",
+   "replace": "The flavor is in the firewood. Besides, I can't afford it.",
+   "why": "line 5: recycle sabor (a2-03)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-03",
+   "find": "Mientras tanto, Iván tenía una idea.",
+   "replace": "Mientras tanto, Iván, que siempre había sido muy listo, tenía una idea.",
+   "why": "line 7: map2 edit (Ser and estar: listo, rico)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-03",
+   "find": "Meanwhile, Iván had an idea.",
+   "replace": "Meanwhile Iván, who had always been very clever, had an idea.",
+   "why": "line 7: map2 edit (Ser and estar: listo, rico)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-03",
+   "find": "Nadie dijo que no.",
+   "replace": "La noticia corrió por el barrio y nadie dijo que no.",
+   "why": "line 9: recycle noticia (a2-09)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-03",
+   "find": "Nobody said no.",
+   "replace": "The news spread through the neighborhood and nobody said no.",
+   "why": "line 9: recycle noticia (a2-09)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-03",
+   "find": "para <b>amasar</b> y hornear.",
+   "replace": "para <b>amasar</b> y hornear, e Iván se encargó de las entregas.",
+   "why": "line 9: recycle encargarse de (b1-02)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-03",
+   "find": "to knead and bake.",
+   "replace": "to knead and bake, and Iván took care of the deliveries.",
+   "why": "line 9: recycle encargarse de (b1-02)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-03",
+   "find": "probando la masa.",
+   "replace": "probando la masa: en todas las cocinas estaba rica.",
+   "why": "line 10: map2 edit (Ser and estar: listo, rico); also recycles rico 'tasty' (a2-03)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-03",
+   "find": "tasting the dough.",
+   "replace": "tasting the dough: in every kitchen it was delicious.",
+   "why": "line 10: map2 edit (Ser and estar: listo, rico); also recycles rico 'tasty' (a2-03)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-03",
+   "find": "y varias llevaban herramientas.",
+   "replace": "y el carpintero de la esquina llevaba sus herramientas.",
+   "why": "line 11: recycle carpintero (a2-10)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-03",
+   "find": "and several were carrying tools.",
+   "replace": "and the carpenter from the corner was carrying his tools.",
+   "why": "line 11: recycle carpintero (a2-10)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-03",
+   "find": "ahora nos toca a nosotros.",
+   "replace": "ahora nos toca a nosotros devolverle el favor.",
+   "why": "line 12: recycle devolver (b1-01)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-03",
+   "find": "now it's our turn.",
+   "replace": "now it's our turn to return the favor.",
+   "why": "line 12: recycle devolver (b1-01)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-04",
+   "find": "cuando sus amigos salían, él revisaba",
+   "replace": "cuando sus amigos salían, su despertador sonaba y él revisaba",
+   "why": "line 0: recycle despertador (b1-03)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-04",
+   "find": "While his friends went out on Saturdays, he checked",
+   "replace": "While his friends went out on Saturdays, his alarm clock went off and he checked",
+   "why": "line 0: recycle despertador (b1-03)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-04",
+   "find": "Durante cuarenta años trabajé",
+   "replace": "Durante cuarenta años, hasta que me jubilé, trabajé",
+   "why": "line 6: recycle jubilado/jubilarse (b1-01)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-04",
+   "find": "For forty years I worked",
+   "replace": "For forty years, until I retired, I worked",
+   "why": "line 6: recycle jubilado/jubilarse (b1-01)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-04",
+   "find": "terminaba sus tareas, pasaba",
+   "replace": "terminaba sus tareas y dejaba la bandeja de los medicamentos, pasaba",
+   "why": "line 8: recycle bandeja (b1-03)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-04",
+   "find": "finished his tasks, he stopped",
+   "replace": "finished his tasks and put down the medicine tray, he stopped",
+   "why": "line 8: recycle bandeja (b1-03)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-04",
+   "find": "Marcos escuchaba con atención,",
+   "replace": "Marcos prestaba atención a cada palabra,",
+   "why": "line 8: recycle prestar (b1-02, b1-03) in prestar atención"
+  },
+  {
+   "file": "stories",
+   "id": "b1-04",
+   "find": "Marcos listened closely,",
+   "replace": "Marcos paid attention to every word,",
+   "why": "line 8: recycle prestar (b1-02, b1-03) in prestar atención"
+  },
+  {
+   "file": "stories",
+   "id": "b1-04",
+   "find": "volver a su casa, y Marcos sintió",
+   "replace": "volver a su casa. Al oír la noticia, Marcos sintió",
+   "why": "line 10: recycle noticia (a2-09)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-04",
+   "find": "go home the next day, and Marcos felt",
+   "replace": "go home the next day. When he heard the news, Marcos felt",
+   "why": "line 10: recycle noticia (a2-09)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-04",
+   "find": "Marcos ayudó a don Silvestre a subir a un taxi.",
+   "replace": "Marcos acompañó a don Silvestre hasta la puerta y lo ayudó a subir a un taxi.",
+   "why": "line 14: recycle acompañar (b1-01)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-04",
+   "find": "Marcos helped Don Silvestre into a taxi.",
+   "replace": "Marcos walked Don Silvestre to the door and helped him into a taxi.",
+   "why": "line 14: recycle acompañar (b1-01)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-04",
+   "find": "irse directamente a dormir, caminó hasta un parque cercano y",
+   "replace": "irse directamente a dormir, se puso el abrigo, caminó hasta un parque cercano y",
+   "why": "line 14: recycle abrigo (a2-05)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-04",
+   "find": "going straight to bed, he walked",
+   "replace": "going straight to bed, he put on his coat, walked",
+   "why": "line 14: recycle abrigo (a2-05)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-05",
+   "find": "les regaló unas bicicletas",
+   "replace": "les dio unas bicicletas de regalo",
+   "why": "line 0: recycle regalo (b1-04)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-05",
+   "find": "gave them two bicycles",
+   "replace": "gave them two bicycles as a present",
+   "why": "line 0: recycle regalo (b1-04)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-05",
+   "find": "con vistas impresionantes",
+   "replace": "con paisajes impresionantes",
+   "why": "line 1: recycle paisaje (a2-08)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-05",
+   "find": "cliffs with impressive views",
+   "replace": "cliffs with impressive scenery",
+   "why": "line 1: recycle paisaje (a2-08)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-05",
+   "find": "hablaban únicamente de la ruta y dormían",
+   "replace": "hablaban únicamente de la ruta, pasaban el almuerzo en silencio y dormían",
+   "why": "line 2: recycle almuerzo (a2-08)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-05",
+   "find": "talked only about the route and slept",
+   "replace": "talked only about the route, spent lunch in silence and slept",
+   "why": "line 2: recycle almuerzo (a2-08)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-05",
+   "find": "de Leticia <b>se pinchó</b>. Ella buscó",
+   "replace": "de Leticia <b>se pinchó</b> y ella casi se cayó. Buscó",
+   "why": "line 3: recycle caerse (b1-04)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-05",
+   "find": "back tire went flat. She looked",
+   "replace": "back tire went flat and she nearly fell. She looked",
+   "why": "line 3: recycle caerse (b1-04)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-05",
+   "find": "lo había dejado en el hotel.",
+   "replace": "lo había dejado en el hostal.",
+   "why": "line 3: recycle hostal (b1-01)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-05",
+   "find": "she had left it at the hotel.",
+   "replace": "she had left it at the hostel.",
+   "why": "line 3: recycle hostal (b1-01)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-05",
+   "find": "—No te preocupes —dijo Nicolás",
+   "replace": "—¿Te lastimaste? No te preocupes —dijo Nicolás",
+   "why": "line 4: recycle lastimarse (b1-04)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-05",
+   "find": "“Don't worry,” said Nicolás",
+   "replace": "“Did you hurt yourself? Don't worry,” said Nicolás",
+   "why": "line 4: recycle lastimarse (b1-04)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-05",
+   "find": "Las olas llegaban despacio,",
+   "replace": "Las olas llegaban despacio a la arena,",
+   "why": "line 10: recycle arena (a1-10)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-05",
+   "find": "The waves came in slowly,",
+   "replace": "The waves came slowly onto the sand,",
+   "why": "line 10: recycle arena (a1-10)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-05",
+   "find": "vieron el cartel de Montañita, <b>agotados</b>",
+   "replace": "vieron el cartel de Montañita, a pesar de estar <b>agotados</b>",
+   "why": "line 14: map2 edit (Connectors: por eso, así que, a pesar de)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-05",
+   "find": "Montañita, exhausted and sunburned,",
+   "replace": "Montañita, despite being exhausted and sunburned,",
+   "why": "line 14: map2 edit (Connectors: por eso, así que, a pesar de)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-01",
+   "find": "; future in the past (estaría, mandaría, haría).",
+   "replace": ". Recognition only: estaría, mandaría, haría (the conditional for a future seen from the past, taught in b1-05).",
+   "why": "drop 'Future in the past' from b1-01 headline topics (audit2 §1 / brief); forms stay in the text for recognition"
+  },
+  {
+   "file": "stories",
+   "id": "b1-03",
+   "find": "el barrio que la rodeaba).",
+   "replace": "el barrio que la rodeaba); ser and estar with adjectives that change meaning (siempre había sido muy listo = clever, los pedidos estaban listos = ready, la masa estaba rica = tasted good).",
+   "why": "concepts: add new map2 topic Ser and estar: listo, rico"
+  },
+  {
+   "file": "stories",
+   "id": "b1-05",
+   "find": "el mejor camino… es…). Recognition",
+   "replace": "el mejor camino… es…); connectors for result and contrast (por eso, así que, entonces, a pesar de estar agotados). Recognition",
+   "why": "concepts: add new map2 topic Connectors: por eso, así que, a pesar de"
+  }
+ ],
+ "grammar_replace": {
+  "b1-01": [
+   {
+    "topic": "Preterite vs. imperfect",
+    "explain": "This returns here from A2 as the backbone of B1 narration. Imperfect = background: description, actions in progress, habits (era, paseaba, hablaba). Preterite = completed events that move the story on (vio, se sentó, llegó). Often the imperfect sets the scene and the preterite cuts into it. English 'was walking' and 'used to' are always imperfect, but 'walked' can be either. Watch out: don't set a scene with the preterite: *Fue una mañana fría y Inés paseó → Era… paseaba.",
+    "examples": [
+     [
+      "Era una mañana fría de noviembre en Madrid.",
+      "It was a cold November morning in Madrid."
+     ],
+     [
+      "De repente vio algo verde debajo de un banco.",
+      "Suddenly she saw something green under a bench."
+     ],
+     [
+      "Se sentó y la abrió con cuidado.",
+      "She sat down and opened it carefully."
+     ],
+     [
+      "En la recepción, un joven pálido hablaba con la dueña y casi lloraba.",
+      "At the front desk, a pale young man was talking to the owner and was almost crying."
+     ]
+    ]
+   },
+   {
+    "topic": "Present perfect vs. preterite",
+    "explain": "Form: he, has, ha, hemos, habéis, han + participle (encontrado, venido). In Spain it covers a time that includes now (hoy, esta mañana, esta semana) and recent events; the preterite covers finished times (ayer, en 2019). Most of Latin America, Chile included, uses the preterite for both: Gustavo asks ¿Dónde la encontró? English often says 'I was lucky' where Inés says he tenido suerte. Watch out: never pair the perfect with a finished time: *ayer he encontrado.",
+    "examples": [
+     [
+      "Creo que he encontrado algo suyo.",
+      "I think I've found something of yours."
+     ],
+     [
+      "He tenido suerte de verla.",
+      "I was lucky to see it."
+     ],
+     [
+      "¿Dónde la encontró?",
+      "Where did you find it?"
+     ],
+     [
+      "Ayer encontré una cartera; hoy he encontrado a su dueño.",
+      "Yesterday I found a wallet; today I've found its owner."
+     ]
+    ]
+   },
+   {
+    "topic": "Pluperfect for earlier events",
+    "explain": "Form: había, habías, había, habíamos, habíais, habían + participle. It marks an action finished before another past moment: when Gustavo explained, his grandmother had left long before. Pronouns go before había: se había marchado. Compare the present perfect: he venido looks back from now; había venido looks back from a point in the past. Watch out: English often uses the simple past here ('He said she left'), but Spanish needs dijo que se había marchado.",
+    "examples": [
+     [
+      "Explicó que su abuela había nacido en Madrid y que se había marchado a Chile cuando era niña.",
+      "He explained that his grandmother had been born in Madrid and had left for Chile as a child."
+     ],
+     [
+      "Él había viajado hasta allí para conocer la ciudad de sus historias.",
+      "He had travelled all that way to get to know the city from her stories."
+     ],
+     [
+      "Inés le enseñó el barrio donde había vivido su abuela",
+      "Inés showed him the neighborhood where his grandmother had lived"
+     ]
+    ]
+   }
+  ],
+  "b1-03": [
+   {
+    "topic": "Conditional tense",
+    "explain": "Form: infinitive + -ía, -ías, -ía, -íamos, -íais, -ían (pensaría, podríamos). Irregular verbs use the future stems from b1-02: podr-, har-, tendr-, dir-. Use it for what would happen in an imagined situation, for advice (yo pensaría en…) and for polite proposals. Contrast: hace = makes (fact), hará = will make, haría = would make. Si yo fuera usted is for recognition here. Watch out: English 'would' for past habits is the imperfect: de niña amasaba pan, not *amasaría.",
+    "examples": [
+     [
+      "Si yo fuera usted, pensaría en comprar un horno eléctrico.",
+      "If I were you, I'd think about buying an electric oven."
+     ],
+     [
+      "Un horno eléctrico no haría el mismo pan.",
+      "An electric oven wouldn't make the same bread."
+     ],
+     [
+      "Podríamos entregar todos los pedidos a tiempo.",
+      "We could deliver all the orders on time."
+     ],
+     [
+      "¿Podría revisar el horno hoy, por favor?",
+      "Could you check the oven today, please?"
+     ]
+    ]
+   },
+   {
+    "topic": "Present perfect vs. preterite",
+    "explain": "Returns from b1-01. The present perfect (he, has, ha, hemos, han + participle) links the past to now: a visible result (se ha agrietado) or a situation still going on (nos ha dado pan durante cuarenta años). The preterite closes a finished event: llegó, revisó. Regional note: Mexicans prefer the preterite for finished events (se agrietó, ya me quitaron), and keep the perfect for what continues. Watch out: never use the perfect with ayer (*ayer se ha roto).",
+    "examples": [
+     [
+      "La pared de atrás se ha agrietado.",
+      "The back wall has cracked."
+     ],
+     [
+      "Usted nos ha dado pan durante cuarenta años.",
+      "You've given us bread for forty years."
+     ],
+     [
+      "El técnico llegó al mediodía, revisó el horno durante una hora y movió la cabeza con tristeza.",
+      "The technician arrived at noon, checked the oven for an hour and shook his head sadly."
+     ],
+     [
+      "El lunes se rompió el horno y desde entonces no hemos hecho pan.",
+      "The oven broke on Monday and we haven't made bread since."
+     ]
+    ]
+   },
+   {
+    "topic": "Relative clauses: que, en que",
+    "explain": "Que joins a clause to a noun, for people and things: personas que esperaban. Between commas it adds extra information (Su nieto Iván, que la ayudaba…); without commas it tells you which one (el barrio que la rodeaba). After a word for time, use en que: la época del año en que… Watch out: English can drop 'that' ('the bread she makes'), but Spanish never drops que: el pan que hace, not *el pan hace.",
+    "examples": [
+     [
+      "Su nieto Iván, que la ayudaba antes de ir a la universidad, corrió a apagar el fuego.",
+      "Her grandson Iván, who helped her before going to university, ran to put out the fire."
+     ],
+     [
+      "Faltaban cinco días para el Día de Muertos, la época del año en que La Espiga vendía más pan de muerto que en todos los demás meses juntos.",
+      "There were five days left until the Day of the Dead, the time of year when La Espiga sold more pan de muerto than in all the other months put together."
+     ],
+     [
+      "Don Chema, que nunca había hecho pan, ofreció su cocina industrial.",
+      "Don Chema, who had never made bread, offered his industrial kitchen."
+     ],
+     [
+      "El pan que hace mi abuela es el mejor del barrio.",
+      "The bread my grandmother makes is the best in the neighbourhood."
+     ]
+    ]
+   },
+   {
+    "topic": "Ser and estar: listo, rico",
+    "explain": "Some adjectives change meaning with ser or estar. Ser describes what someone or something is like; estar describes a state at a given moment. Ser listo = to be clever (Iván, que siempre había sido muy listo); estar listo = to be ready (los pedidos estaban listos). With a person, ser rico = to be rich; with food, estar rico = to taste good when you try it (la masa estaba rica). In Mexico you also hear es rico for food in general (el pan de muerto es rico). Watch out: *los pedidos eran listos would mean 'the orders were clever'; for 'ready' always use estar.",
+    "examples": [
+     [
+      "Mientras tanto, Iván, que siempre había sido muy listo, tenía una idea.",
+      "Meanwhile Iván, who had always been very clever, had an idea."
+     ],
+     [
+      "Remedios iba de casa en casa probando la masa: en todas las cocinas estaba rica.",
+      "Remedios went from house to house tasting the dough: in every kitchen it was delicious."
+     ],
+     [
+      "La víspera del Día de Muertos, todos los pedidos estaban listos.",
+      "On the eve of the Day of the Dead, all the orders were ready."
+     ]
+    ]
+   }
+  ],
+  "b1-05": [
+   {
+    "topic": "Por vs. para",
+    "explain": "Para points forward to a goal: purpose + infinitive (para pasar la noche) or a recipient (para ti). Por points back to a cause (por la venta de la casa, por eso), a part of the day (por la mañana), the cause after a participle (quemados por el sol) or a route (pasa por pueblos). English 'for' can be either. Watch out: purpose is always para + infinitive; *por pasar la noche means 'because of spending the night'.",
+    "examples": [
+     [
+      "Leticia se había enojado con él por la venta de la casa de sus padres",
+      "Leticia had gotten angry with him over the sale of their parents' house"
+     ],
+     [
+      "Salieron de Manta un lunes por la mañana",
+      "They set out from Manta on a Monday morning"
+     ],
+     [
+      "Así que traje uno para ti.",
+      "So I brought one for you."
+     ],
+     [
+      "Los invitó a cenar un ceviche recién preparado y les ofreció una cabaña barata para pasar la noche.",
+      "He invited them to dinner, serving freshly made ceviche, and offered them a cheap cabin for the night."
+     ]
+    ]
+   },
+   {
+    "topic": "Conditional tense",
+    "explain": "It returns here from b1-03. The conditional (infinitive + -ía, -ías, -íamos, -ían) says what would happen: an imagined situation (no le hablaría de nada importante), soft advice with deber (deberíamos hacer otro viaje) and a future seen from the past (no sabía adónde irían). Irregular verbs use the future stem: decir → diría, hacer → haría. Watch out: English 'would' meaning 'used to' is the imperfect: Papá siempre decía, not *diría.",
+    "examples": [
+     [
+      "Solo le diría que me alegro de haber crecido a su lado.",
+      "I'd only tell him I'm glad I grew up by his side."
+     ],
+     [
+      "Entonces deberíamos hacer otro viaje el año que viene",
+      "Then we should take another trip next year"
+     ],
+     [
+      "Aunque no sabía todavía adónde irían, estaba segura de que, esta vez, ninguno de los dos dejaría al otro solo con una rueda pinchada.",
+      "Although she didn't yet know where they would go, she was sure that, this time, neither of them would leave the other alone with a flat tire."
+     ],
+     [
+      "En tu lugar, yo llevaría dos repuestos.",
+      "In your place, I'd carry two spares."
+     ]
+    ]
+   },
+   {
+    "topic": "Reported speech",
+    "explain": "To report words, use decir or contar + que + the statement, and adjust people and possessives: «Perdí a mi hermano» → les contó que había perdido a su hermano. After a past reporting verb, an earlier event moves back to the pluperfect; a general truth can stay in the present (dijo que el mejor camino es…). Unlike English, que is never dropped. Watch out: *Dijo el mejor camino es… needs que.",
+    "examples": [
+     [
+      "Papá siempre decía que si uno quiere llegar lejos, tiene que prepararse para lo peor.",
+      "Dad always used to say that if you want to go far, you have to prepare for the worst."
+     ],
+     [
+      "Mientras comían, el hombre les contó que había perdido a su propio hermano en una tormenta, hacía veinte años.",
+      "While they ate, the man told them he had lost his own brother in a storm twenty years earlier."
+     ],
+     [
+      "Dijo que el mejor camino para volver a alguien es el que se hace juntos.",
+      "She said the best way back to someone is the road you travel together."
+     ],
+     [
+      "«Llevo dos repuestos.» → Nicolás dijo que llevaba dos repuestos.",
+      "“I have two spares.” → Nicolás said he had two spares."
+     ]
+    ]
+   },
+   {
+    "topic": "Connectors: por eso, así que, a pesar de",
+    "explain": "Connectors show how two ideas are related. Por eso ('that's why') and así que ('so') introduce a result: first the cause, then the consequence. Por eso is a fixed phrase, so here por does not mean 'for'. Así que is very common in speech and links two clauses; entonces ('so, then') draws a conclusion in conversation. A pesar de ('despite') introduces something that could have stopped the main action, followed by a noun or an infinitive: a pesar de estar agotados, a pesar del sol. Watch out: before a full clause you need que: a pesar de que estaban agotados, not *a pesar de estaban.",
+    "examples": [
+     [
+      "Por eso, cuando su tía Yolanda les dio unas bicicletas de regalo con la condición de que hicieran juntos un viaje, los dos aceptaron sin entusiasmo.",
+      "So when their aunt Yolanda gave them two bicycles as a present on the condition that they take a trip together, both accepted without enthusiasm."
+     ],
+     [
+      "Papá siempre decía que si uno quiere llegar lejos, tiene que prepararse para lo peor. Así que traje uno para ti.",
+      "Dad always used to say that if you want to go far, you have to prepare for the worst. So I brought one for you."
+     ],
+     [
+      "Cuando por fin vieron el cartel de Montañita, a pesar de estar agotados y quemados por el sol, ninguno quería que el viaje terminara.",
+      "When they finally saw the sign for Montañita, despite being exhausted and sunburned, neither wanted the trip to end."
+     ]
+    ]
+   }
+  ]
+ },
+ "gq_replace": {
+  "b1-01": [
+   {
+    "topic": "Preterite vs. imperfect",
+    "q": "Complete: Cuando Inés ___ al hostal veinte minutos después, un joven ___ con la dueña desde hacía un rato.",
+    "options": [
+     "llegaba / habló",
+     "llegó / hablaba",
+     "llegó / habló",
+     "llegaba / hablaba"
+    ],
+    "answer": 1,
+    "why": "Llegó is the next event in the sequence (veinte minutos después). Hablaba is a conversation already in progress (desde hacía un rato), so it is background."
+   },
+   {
+    "topic": "Present perfect vs. preterite",
+    "q": "Inés, a madrileña, is talking about this morning: «Esta mañana ___ una cartera en el Retiro.»",
+    "options": [
+     "encontraba",
+     "había encontrado",
+     "he encontrado",
+     "encontraría"
+    ],
+    "answer": 2,
+    "why": "In Spain, a time that includes today (esta mañana) takes the present perfect. Encontraba is background, había encontrado needs a later past moment, encontraría means 'would find'."
+   },
+   {
+    "topic": "Pluperfect for earlier events",
+    "q": "Complete: Gustavo explicó que su abuela ___ a Chile muchos años antes.",
+    "options": [
+     "se ha marchado",
+     "se marcharía",
+     "se marchaba",
+     "se había marchado"
+    ],
+    "answer": 3,
+    "why": "Muchos años antes points to an action finished before explicó, so the pluperfect: se había marchado. Se marcharía would put her departure after the explanation."
+   },
+   {
+    "topic": "Preterite vs. imperfect",
+    "q": "Put into the past: «Es una mañana fría. Inés pasea por el Retiro cuando de repente ve algo verde.»",
+    "options": [
+     "Era una mañana fría. Inés paseó por el Retiro cuando de repente vio algo verde.",
+     "Era una mañana fría. Inés paseaba por el Retiro cuando de repente veía algo verde.",
+     "Era una mañana fría. Inés paseaba por el Retiro cuando de repente vio algo verde.",
+     "Era una mañana fría. Inés había paseado por el Retiro cuando de repente vio algo verde."
+    ],
+    "answer": 2,
+    "why": "The walk is in progress (paseaba) when one sudden event cuts in (vio). Cuando de repente never introduces background, and había paseado would end the walk first."
+   },
+   {
+    "topic": "Present perfect vs. preterite",
+    "q": "Which sentence is NOT correct in any variety of Spanish?",
+    "options": [
+     "Hoy he encontrado una cartera.",
+     "Ayer he encontrado una cartera.",
+     "Ayer encontré una cartera.",
+     "Hoy encontré una cartera."
+    ],
+    "answer": 1,
+    "why": "Ayer is a finished time, so it needs the preterite everywhere. Hoy encontré is normal in Latin America and common in Spain too.",
+    "x": true
+   },
+   {
+    "topic": "Pluperfect for earlier events",
+    "q": "Which sentence is correct?",
+    "options": [
+     "Su abuela se había marchado a Chile cuando era niña.",
+     "Su abuela había se marchado a Chile cuando era niña.",
+     "Su abuela se había marchada a Chile cuando era niña.",
+     "Su abuela se habían marchado a Chile cuando era niña."
+    ],
+    "answer": 0,
+    "why": "The pronoun goes before había, había agrees with the subject (singular), and the participle after haber never changes: marchado.",
+    "x": true
+   },
+   {
+    "topic": "Present perfect vs. preterite",
+    "q": "Inés tells Gustavo: «He venido en persona porque quería devolvérsela hoy mismo.» Why does she use he venido?",
+    "options": [
+     "She is from Spain, and the visit happened today (hoy mismo), a time that includes now",
+     "Venir has no preterite form in Spanish",
+     "The visit happened many years ago",
+     "She is talking about a habit she had in the past"
+    ],
+    "answer": 0,
+    "why": "In Spain the present perfect is used for a time that includes now (hoy, esta mañana). Vine exists, the visit is not long ago and it is not a habit.",
+    "x": true
+   },
+   {
+    "topic": "Preterite vs. imperfect",
+    "q": "In «un joven pálido hablaba con la dueña y casi lloraba», why are hablaba and lloraba in the imperfect?",
+    "options": [
+     "They are completed events that move the story on",
+     "They were already in progress when Inés arrived: background",
+     "They happened before another past action",
+     "They are polite forms for talking to the owner"
+    ],
+    "answer": 1,
+    "why": "The imperfect describes what was going on when Inés walked in (background). Completed events take the preterite, and an earlier action would take the pluperfect.",
+    "x": true
+   }
+  ],
+  "b1-03": [
+   {
+    "topic": "Conditional tense",
+    "q": "Complete Remedios's answer: «Un horno eléctrico no ___ el mismo pan.» (= wouldn't make)",
+    "options": [
+     "hacería",
+     "haría",
+     "hará",
+     "hacía"
+    ],
+    "answer": 1,
+    "why": "Hacer uses the irregular stem har- in the conditional, as in the future: haría. *Hacería doesn't exist, hará = will make, hacía = used to make."
+   },
+   {
+    "topic": "Present perfect vs. preterite",
+    "q": "Complete: «El técnico ___ al mediodía y revisó el horno durante una hora.»",
+    "options": [
+     "ha llegado",
+     "ha llegó",
+     "llegó",
+     "llegaba"
+    ],
+    "answer": 2,
+    "why": "A finished event in a chain of past actions (llegó… revisó) takes the preterite. Ha llegado links to now, *ha llegó mixes two forms, llegaba describes background."
+   },
+   {
+    "topic": "Relative clauses: que, en que",
+    "q": "Complete: «Faltaban cinco días para el Día de Muertos, la época del año ___ La Espiga vendía más pan de muerto.»",
+    "options": [
+     "en que",
+     "donde",
+     "quien",
+     "lo que"
+    ],
+    "answer": 0,
+    "why": "After a word for time (la época, el día, el año), use en que. Donde is for places, quien for people, and lo que refers to a whole idea."
+   },
+   {
+    "topic": "Ser and estar: listo, rico",
+    "q": "Complete: «La víspera del Día de Muertos, todos los pedidos ___ listos.» (= ready)",
+    "options": [
+     "eran",
+     "fueron",
+     "estaban",
+     "serían"
+    ],
+    "answer": 2,
+    "why": "Listo with estar means 'ready', a state at that moment. With ser (eran listos) it would mean the orders were clever."
+   },
+   {
+    "topic": "Conditional tense",
+    "q": "Find the mistake: «Con cuatro hornos, poderíamos entregar todos los pedidos y usted descansaría.»",
+    "options": [
+     "descansaría should be descansara",
+     "entregar should be entregaríamos",
+     "poderíamos should be podríamos",
+     "There is no mistake"
+    ],
+    "answer": 2,
+    "why": "Poder loses the e of its infinitive in the future and conditional: podr- → podríamos. Descansaría is a regular conditional and is correct.",
+    "x": true
+   },
+   {
+    "topic": "Present perfect vs. preterite",
+    "q": "Complete: «El lunes se rompió el horno y desde entonces no ___ pan.»",
+    "options": [
+     "hicimos",
+     "habíamos hecho",
+     "hemos hacido",
+     "hemos hecho"
+    ],
+    "answer": 3,
+    "why": "Desde entonces covers a period that reaches now, so the present perfect is used, in Mexico too. Hacer has the irregular participle hecho (never *hacido).",
+    "x": true
+   },
+   {
+    "topic": "Ser and estar: listo, rico",
+    "q": "What does «Iván, que siempre había sido muy listo» tell us about Iván?",
+    "options": [
+     "He was always ready on time",
+     "He was always rich",
+     "He was always tired",
+     "He was always clever"
+    ],
+    "answer": 3,
+    "why": "Ser listo describes a quality of a person: clever. Estar listo would mean 'ready', and rich is ser rico.",
+    "x": true
+   },
+   {
+    "topic": "Relative clauses: que, en que",
+    "q": "Which sentence is correct?",
+    "options": [
+     "Remedios vio a las personas quien esperaban con sonrisas.",
+     "Remedios vio a las personas esperaban con sonrisas.",
+     "Remedios vio a las personas que ellas esperaban con sonrisas.",
+     "Remedios vio a las personas que esperaban con sonrisas."
+    ],
+    "answer": 3,
+    "why": "Use que right after the noun, and don't repeat the subject (*que ellas). Que can never be left out, and quien isn't used directly after a noun without commas.",
+    "x": true
+   }
+  ],
+  "b1-05": [
+   {
+    "topic": "Por vs. para",
+    "q": "Complete from the story: «Leticia se había enojado con él ___ la venta de la casa de sus padres.»",
+    "options": [
+     "para",
+     "de",
+     "por",
+     "en"
+    ],
+    "answer": 2,
+    "why": "Por gives the cause or reason ('over, because of'). Para would make the sale the goal of her anger."
+   },
+   {
+    "topic": "Conditional tense",
+    "q": "Complete don Walter's words: «Si pudiera hablar con él una hora más, solo le ___ que me alegro de haber crecido a su lado.»",
+    "options": [
+     "diría",
+     "decía",
+     "dirá",
+     "diga"
+    ],
+    "answer": 0,
+    "why": "An imagined situation takes the conditional: decir → diría (future stem). Decía is a past habit, dirá a real future."
+   },
+   {
+    "topic": "Reported speech",
+    "q": "Don Walter: «Perdí a mi hermano en una tormenta.» Complete the narration: «El hombre les contó que ___ a su propio hermano.»",
+    "options": [
+     "perdí",
+     "ha perdido",
+     "perdería",
+     "había perdido"
+    ],
+    "answer": 3,
+    "why": "After a past verb (contó), an earlier event goes into the pluperfect, and the person changes: perdí → había perdido."
+   },
+   {
+    "topic": "Connectors: por eso, así que, a pesar de",
+    "q": "Complete Nicolás's words: «Papá siempre decía que si uno quiere llegar lejos, tiene que prepararse para lo peor. ___ traje uno para ti.»",
+    "options": [
+     "Así que",
+     "A pesar de",
+     "Aunque",
+     "Para que"
+    ],
+    "answer": 0,
+    "why": "Así que ('so') introduces the result of what came before: because of Dad's advice, he brought a spare. A pesar de and aunque express contrast, and para que expresses purpose."
+   },
+   {
+    "topic": "Por vs. para",
+    "q": "Complete: «Salieron de Manta un lunes ___ la mañana ___ llegar a Montañita en una semana.»",
+    "options": [
+     "para / por",
+     "por / para",
+     "por / por",
+     "para / para"
+    ],
+    "answer": 1,
+    "why": "Por la mañana marks a part of the day. Para + infinitive gives the purpose: in order to reach Montañita.",
+    "x": true
+   },
+   {
+    "topic": "Conditional tense",
+    "q": "Which sentence correctly says 'When they were kids, Dad would always tell them stories about the sea'?",
+    "options": [
+     "De niños, papá siempre les contaba historias del mar.",
+     "De niños, papá siempre les contaría historias del mar.",
+     "De niños, papá siempre les contará historias del mar.",
+     "De niños, papá siempre les ha contado historias del mar."
+    ],
+    "answer": 0,
+    "x": true,
+    "why": "Here 'would' means 'used to': a repeated past habit takes the imperfect (contaba). The conditional contaría is for imagined situations."
+   },
+   {
+    "topic": "Reported speech",
+    "q": "Transform into reported speech. Tía Yolanda: «El mejor camino para volver a alguien es el que se hace juntos.» → Leticia: «Tía Yolanda dijo…»",
+    "options": [
+     "el mejor camino es el que se hace juntos.",
+     "que el mejor camino es el que se hace juntos.",
+     "de que el mejor camino es el que se hace juntos.",
+     "si el mejor camino es el que se hace juntos."
+    ],
+    "answer": 1,
+    "x": true,
+    "why": "Decir + que + statement. Que can't be dropped, decir de que is a common error, and si is only for reported yes/no questions."
+   },
+   {
+    "topic": "Connectors: por eso, así que, a pesar de",
+    "q": "Complete: «Cuando por fin vieron el cartel de Montañita, ___ agotados y quemados por el sol, ninguno quería que el viaje terminara.»",
+    "options": [
+     "por eso estaban",
+     "a pesar de estar",
+     "así que estar",
+     "para estar"
+    ],
+    "answer": 1,
+    "why": "They didn't want the trip to end even though they were exhausted: that is contrast, so a pesar de + infinitive. Por eso and así que introduce a result, and para gives a purpose.",
+    "x": true
+   }
+  ]
+ },
+ "categories_add": {
+  "Ser and estar: listo, rico": "Ser vs. estar",
+  "Connectors: por eso, así que, a pesar de": "Relative clauses & connectors"
+ },
+ "dict_add": {
+  "equivocada": [
+   [
+    "equivocado",
+    "adj",
+    "wrong, mistaken"
+   ]
+  ],
+  "noticias": [
+   [
+    "la noticia",
+    "noun",
+    "news"
+   ]
+  ],
+  "ingredientes": [
+   [
+    "el ingrediente",
+    "noun",
+    "ingredient"
+   ]
+  ],
+  "sabores": [
+   [
+    "el sabor",
+    "noun",
+    "flavor, taste"
+   ]
+  ],
+  "compararon": [
+   [
+    "comparar",
+    "verb",
+    "to compare"
+   ]
+  ],
+  "corría": [
+   [
+    "correr",
+    "verb",
+    "to run; (news) to spread"
+   ]
+  ],
+  "corrió": [
+   [
+    "correr",
+    "verb",
+    "to run; (news) to spread"
+   ]
+  ],
+  "entregas": [
+   [
+    "la entrega",
+    "noun",
+    "delivery"
+   ]
+  ],
+  "encargó": [
+   [
+    "encargarse",
+    "verb",
+    "to take care of, to make sure to (encargarse de)"
+   ]
+  ],
+  "devolverle": [
+   [
+    "devolver",
+    "verb",
+    "to give back, to return"
+   ]
+  ],
+  "jubilé": [
+   [
+    "jubilarse",
+    "verb",
+    "to retire"
+   ]
+  ],
+  "prestaba": [
+   [
+    "prestar",
+    "verb",
+    "to lend; prestar atención: to pay attention"
+   ]
+  ],
+  "medicamentos": [
+   [
+    "el medicamento",
+    "noun",
+    "medicine, medication"
+   ]
+  ],
+  "paisajes": [
+   [
+    "el paisaje",
+    "noun",
+    "landscape"
+   ]
+  ],
+  "lastimaste": [
+   [
+    "lastimarse",
+    "verb",
+    "to hurt oneself"
+   ]
+  ],
+  "pesar": [
+   [
+    "pesar",
+    "other",
+    "a pesar de: despite, in spite of"
+   ]
+  ],
+  "rica": [
+   [
+    "rico",
+    "adj",
+    "rich"
+   ],
+   [
+    "rico",
+    "adj",
+    "tasty, delicious (estar rico)"
+   ]
+  ]
+ },
+ "notes": "Stories b1-01..b1-05. (A) b1-01: 'Future in the past' REMOVED from headline topics per brief + audit2 §1 (4 topics -> 3; the use is already taught in b1-05's Conditional card: 'a future seen from the past (no sabía adónde irían)'). NB map2.json still lists it as 'keep' for b1-01: update map2 (or revert by keeping the original b1-01 grammar/gq) so the map and the cards agree. estaría/mandaría/haría stay in the text as recognition; concepts.grammar patched to say so. b1-01 dialogue reply 'pensé que estaría muy preocupado' left as is (natural line, not a drill of the topic). b1-03 new card 'Ser and estar: listo, rico' + map2 edits lines 7 & 10; b1-05 new card 'Connectors: por eso, así que, a pesar de' + map2 edit line 14 (line 0 example quotes the recycled wording 'les dio unas bicicletas de regalo'). b1-02/b1-04 cards unchanged. gq: b1-01/03/05 replaced (4 core + 4 x; every topic has a core q; reused questions kept verbatim, two b1-01, one b1-03 and one b1-05 core q moved to extras or vice versa). New questions use 4 options, matching the existing questions in gq-b1.json rather than 3. (B) Recycled words are NOT wrapped in <b>: in this site <b> marks the story's own vocab list; earlier-glossed words are found via tap-lookup (dict), so <b> counts are unchanged and no vocab entries were added. dict_add covers every new surface form missing from dict.json ('rica' entry is a full replacement adding the 'tasty' reading). No scene objects/colours touched (b1-01 'abrigo' matches the coat in the scene). All patches verified unique in json.dumps(obj, ensure_ascii=False); line counts and <b> counts unchanged; all previously verbatim grammar examples and «» quiz quotes still verbatim; new-card examples verbatim; topic pattern counts all >=3."
+}

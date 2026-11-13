@@ -1,0 +1,256 @@
+{
+ "topics": [
+  {
+   "topic": "Gender and articles: el, la, un, una",
+   "explain": "Every Spanish noun is masculine or feminine. Most nouns in -o are masculine (el libro) and most in -a are feminine (la mesa); learn the rest with their article (el café, la leche). 'The' = el/la (plural los/las); 'a/an' = un/una (some = unos/unas). Watch out: some break the pattern: el día, la mano.",
+   "examples": [
+    [
+     "El libro está en la mesa.",
+     "The book is on the table."
+    ],
+    [
+     "Hay un café y una naranja.",
+     "There is a coffee and an orange."
+    ],
+    [
+     "Las niñas comen unas manzanas.",
+     "The girls eat some apples."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "Choose the correct article: ___ mano (hand)",
+     "options": [
+      "el",
+      "la",
+      "los",
+      "un"
+     ],
+     "answer": 1,
+     "why": "'Mano' is feminine (la mano) even though it ends in -o. It is one of the exceptions you must learn with its article."
+    },
+    {
+     "q": "Which phrase is correct?",
+     "options": [
+      "un mesa",
+      "una libro",
+      "una mesa",
+      "la libros"
+     ],
+     "answer": 2,
+     "why": "'Mesa' is feminine, so 'una mesa'. Libro is masculine (un libro), and a plural noun needs a plural article (los libros)."
+    }
+   ]
+  },
+  {
+   "topic": "Plurals and adjective agreement",
+   "explain": "Add -s to nouns ending in a vowel (casa → casas) and -es after a consonant (flor → flores). Adjectives usually go after the noun and match it in gender and number: un paraguas rojo, una manzana roja, las uvas rojas. Adjectives in -e or a consonant change only for number: grande/grandes, azul/azules. Watch out: not 'las rojas uvas' or 'las uvas rojo'.",
+   "examples": [
+    [
+     "Camila tiene el pelo largo y negro.",
+     "Camila has long black hair."
+    ],
+    [
+     "Las uvas rojas son muy ricas.",
+     "The red grapes are very tasty."
+    ],
+    [
+     "Tengo dos mochilas azules.",
+     "I have two blue backpacks."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "Complete: Las flores son muy ___.",
+     "options": [
+      "bonito",
+      "bonitas",
+      "bonitos",
+      "bonita"
+     ],
+     "answer": 1,
+     "why": "'Las flores' is feminine plural, so the adjective is feminine plural: bonitas."
+    },
+    {
+     "q": "Which phrase means 'the red apples'?",
+     "options": [
+      "la manzanas rojas",
+      "los manzanas rojos",
+      "las manzanas rojas",
+      "las manzanas roja"
+     ],
+     "answer": 2,
+     "why": "Article, noun and adjective all agree (feminine plural), and the adjective follows the noun: las manzanas rojas."
+    }
+   ]
+  },
+  {
+   "topic": "Regular present tense: all persons",
+   "explain": "Drop -ar, -er or -ir and add an ending for the subject. hablar: hablo, hablas, habla, hablamos, habláis, hablan. comer: como, comes, come, comemos, coméis, comen. vivir: vivo, vives, vive, vivimos, vivís, viven. Watch out: usted takes the él/ella form and ustedes the ellos form; subject pronouns are usually left out.",
+   "examples": [
+    [
+     "Nosotros hablamos español en casa.",
+     "We speak Spanish at home."
+    ],
+    [
+     "¿Comes pan en el desayuno?",
+     "Do you eat bread for breakfast?"
+    ],
+    [
+     "Mis abuelos viven en Sevilla.",
+     "My grandparents live in Seville."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "Complete: Mis amigos ___ en Madrid. (vivir)",
+     "options": [
+      "vive",
+      "viven",
+      "vivimos",
+      "vivo"
+     ],
+     "answer": 1,
+     "why": "'Mis amigos' = ellos, so the ending is -en: viven."
+    },
+    {
+     "q": "Which form goes with 'nosotros'? (trabajar)",
+     "options": [
+      "trabajamos",
+      "trabajan",
+      "trabajemos",
+      "trabajáis"
+     ],
+     "answer": 0,
+     "why": "-ar verbs take -amos for nosotros: trabajamos. Trabajan is ellos/ustedes; trabajáis is vosotros."
+    }
+   ]
+  },
+  {
+   "topic": "Ser: forms and uses",
+   "explain": "'Ser' (to be) is irregular: soy, eres, es, somos, sois, son. Use it for identity and lasting traits: name, origin, nationality, job, what someone is like, plus days and time: Soy Ana, Es de Chile, Es alto. Watch out: with jobs Spanish drops 'a/an' (Soy profesora), and feelings and location take estar instead.",
+   "examples": [
+    [
+     "Soy de México y soy estudiante.",
+     "I am from Mexico and I am a student."
+    ],
+    [
+     "¿Eres la nueva profesora?",
+     "Are you the new teacher?"
+    ],
+    [
+     "Mis padres son muy simpáticos.",
+     "My parents are very nice."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "Complete: Nosotros ___ de Colombia.",
+     "options": [
+      "somos",
+      "estamos",
+      "son",
+      "sois"
+     ],
+     "answer": 0,
+     "why": "Origin uses ser, and the nosotros form is 'somos'."
+    },
+    {
+     "q": "How do you say 'She is a doctor'?",
+     "options": [
+      "Ella está médica.",
+      "Ella es de médica.",
+      "Ella es médica.",
+      "Ella tiene médica."
+     ],
+     "answer": 2,
+     "why": "Jobs use ser and normally no article: Ella es médica."
+    }
+   ]
+  },
+  {
+   "topic": "Possessive adjectives: mi, tu, su, nuestro",
+   "explain": "Possessives go before the noun: mi (my), tu (your), su (his/her/their, or your formal), nuestro/nuestra (our). They add -s before plural nouns: mis libros, tus amigas. Only nuestro also changes for gender: nuestra casa. Watch out: they agree with the thing owned, not the owner. 'Tu' (your) has no accent; 'tú' (you) does.",
+   "examples": [
+    [
+     "Mi casa está cerca de tu escuela.",
+     "My house is near your school."
+    ],
+    [
+     "Mateo mira a su abuela.",
+     "Mateo looks at his grandmother."
+    ],
+    [
+     "Nuestras flores son más bonitas.",
+     "Our flowers are prettier."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "Complete: Ana y yo vivimos con ___ abuela. (our)",
+     "options": [
+      "nuestro",
+      "nuestra",
+      "nuestros",
+      "nuestras"
+     ],
+     "answer": 1,
+     "why": "'Our' agrees with the thing owned: abuela is feminine singular, so 'nuestra'."
+    },
+    {
+     "q": "How do you say 'my books'?",
+     "options": [
+      "mi libros",
+      "mis libros",
+      "mío libros",
+      "mis libro"
+     ],
+     "answer": 1,
+     "why": "Before a plural noun, 'mi' becomes 'mis'; the noun stays plural: mis libros."
+    }
+   ]
+  },
+  {
+   "topic": "Stem-changing verbs: e → ie, o → ue",
+   "explain": "Some verbs change a vowel in the stem: querer → quiero, poder → puedo, costar → cuesta, sentarse → me siento. The change appears in every present form except nosotros and vosotros: queremos, podemos. The endings stay regular. Watch out: learners often say 'quero' or 'podo', so learn these verbs with their yo form.",
+   "examples": [
+    [
+     "Los huevos cuestan cuatro euros.",
+     "The eggs cost four euros."
+    ],
+    [
+     "—¿Puedes venir mañana? —Sí, puedo.",
+     "\"Can you come tomorrow?\" \"Yes, I can.\""
+    ],
+    [
+     "Queremos ir a la playa, pero no podemos.",
+     "We want to go to the beach, but we can't."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "Complete: Yo ___ un café, por favor. (querer)",
+     "options": [
+      "quero",
+      "quiero",
+      "quiere",
+      "queremos"
+     ],
+     "answer": 1,
+     "why": "Querer changes e → ie in the yo form: quiero."
+    },
+    {
+     "q": "Which form is correct for 'we can'?",
+     "options": [
+      "podemos",
+      "puedemos",
+      "pueden",
+      "podamos"
+     ],
+     "answer": 0,
+     "why": "Nosotros forms keep the original stem: podemos (no o → ue change)."
+    }
+   ]
+  }
+ ]
+}

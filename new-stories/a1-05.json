@@ -1,0 +1,616 @@
+{
+ "story": {
+  "id": "a1-05",
+  "level": "A1",
+  "title": "Churros a las nueve",
+  "titleEn": "Churros at Nine",
+  "teaser": "Sunday morning in Madrid, the chocolatería is packed — so how does Grandpa know exactly when a table will be free?",
+  "emoji": "🍫",
+  "lines": [
+   [
+    "Es domingo en Madrid.",
+    "It's Sunday in Madrid."
+   ],
+   [
+    "— Abuelo, ¿vamos a la <b>chocolatería</b> San Ginés? —dice Nerea.",
+    "\"Grandpa, shall we go to the Chocolatería San Ginés?\" says Nerea."
+   ],
+   [
+    "A las nueve, hay mucha <b>gente</b> y no hay mesas <b>libres</b>.",
+    "At nine, there are a lot of people and there are no free tables."
+   ],
+   [
+    "— Podemos <b>esperar</b> —dice el abuelo—. A las nueve y media hay una mesa.",
+    "\"We can wait,\" says Grandpa. \"At half past nine there will be a table.\""
+   ],
+   [
+    "— Un chocolate con <b>churros</b> <b>cuesta</b> cinco euros —dice, <b>sin</b> mirar el <b>menú</b>.",
+    "\"A chocolate with churros costs five euros,\" he says, without looking at the menu."
+   ],
+   [
+    "— Esos churros necesitan un <b>minuto</b> más.",
+    "\"Those churros need one more minute.\""
+   ],
+   [
+    "— ¿Cómo lo sabes? —pregunta Nerea.",
+    "\"How do you know?\" asks Nerea."
+   ],
+   [
+    "A las nueve y media, hay una mesa libre.",
+    "At half past nine, there is a free table."
+   ],
+   [
+    "— Voy a la <b>caja</b>. Quiero <b>pedir</b> yo.",
+    "\"I'm going to the till. I want to order myself.\""
+   ],
+   [
+    "— Dos chocolates con churros, por favor. ¿Cuánto es?",
+    "\"Two chocolates with churros, please. How much is it?\""
+   ],
+   [
+    "— Son diez euros.",
+    "\"That's ten euros.\""
+   ],
+   [
+    "Un señor <b>mayor</b> sale de la <b>cocina</b>.",
+    "An old man comes out of the kitchen."
+   ],
+   [
+    "— ¡Fermín! ¡Cuarenta años aquí, y hoy eres <b>cliente</b>!",
+    "\"Fermín! Forty years here, and today you're a customer!\""
+   ],
+   [
+    "— Hoy no <b>pagas</b>. ¿Puedes hacer los churros, como antes?",
+    "\"Today you don't pay. Can you make the churros, like before?\""
+   ],
+   [
+    "— ¡Claro! Voy a la cocina.",
+    "\"Of course! I'm going to the kitchen.\""
+   ],
+   [
+    "Nerea come y <b>sonríe</b>.",
+    "Nerea eats and smiles."
+   ],
+   [
+    "Son los churros del abuelo: los mejores de Madrid.",
+    "They're Grandpa's churros: the best in Madrid."
+   ]
+  ],
+  "vocab": [
+   [
+    "la chocolatería",
+    "café that serves hot chocolate"
+   ],
+   [
+    "el churro",
+    "churro (fried dough stick)"
+   ],
+   [
+    "la gente",
+    "people (singular in Spanish: hay mucha gente)"
+   ],
+   [
+    "libre",
+    "free (available, not taken)"
+   ],
+   [
+    "esperar",
+    "to wait"
+   ],
+   [
+    "costar",
+    "to cost (cuesta)"
+   ],
+   [
+    "sin",
+    "without (sin + infinitive: sin mirar = without looking)"
+   ],
+   [
+    "el menú",
+    "menu"
+   ],
+   [
+    "la cocina",
+    "kitchen"
+   ],
+   [
+    "el minuto",
+    "minute"
+   ],
+   [
+    "sonreír",
+    "to smile (sonríe)"
+   ],
+   [
+    "la caja",
+    "till, checkout (where you pay)"
+   ],
+   [
+    "pedir",
+    "to order (food); to ask for"
+   ],
+   [
+    "mayor",
+    "old, elderly (polite)"
+   ],
+   [
+    "el cliente",
+    "customer"
+   ],
+   [
+    "pagar",
+    "to pay"
+   ],
+   [
+    "¿Cuánto es?",
+    "How much is it?"
+   ],
+   [
+    "como antes",
+    "like before"
+   ]
+  ],
+  "quiz": [
+   {
+    "q": "¿Por qué Nerea y su abuelo esperan?",
+    "options": [
+     "La chocolatería está cerrada",
+     "No hay mesas libres",
+     "No tienen dinero",
+     "Los churros no están listos"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "¿Cuánto pagan por dos chocolates con churros?",
+    "options": [
+     "Cinco euros",
+     "Nueve euros",
+     "Diez euros",
+     "Cuarenta euros"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "¿Por qué el abuelo sabe los precios sin mirar el menú?",
+    "options": [
+     "Conoce muy bien la cocina de la chocolatería",
+     "Lee el menú en casa",
+     "Nerea le dice los precios",
+     "Es el camarero de la caja"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "En la línea «Quiero pedir yo», ¿qué significa «pedir»?",
+    "options": [
+     "To pay",
+     "To wait",
+     "To order",
+     "To eat"
+    ],
+    "answer": 2
+   }
+  ],
+  "prompt": "Imagine you are at a café in Spain. What do you want to eat and drink, and how much is it? Write 3-4 sentences in the present tense with quiero, puedo or necesito and a price (for example: Quiero un chocolate con churros, por favor. ¿Cuánto es? Son cinco euros. A las diez voy a la caja.).",
+  "concepts": {
+   "grammar": "hay / no hay; querer, poder, necesitar + infinitive; ir a + place (voy a la caja, vamos a la chocolatería); time with a las; numbers and prices.",
+   "vocabulary": "Café and ordering words: chocolatería, churros, menú, caja, pedir, pagar, ¿Cuánto es?",
+   "skills": "Ordering food and asking for prices; following small clues to a surprise ending."
+  }
+ },
+ "grammar": [
+  {
+   "topic": "Hay and no hay",
+   "explain": "'Hay' = there is / there are; 'no hay' = there isn't / there aren't. It never changes for plural. Watch out: 'no' goes before hay ('no hay', never 'hay no'), and after 'no hay' Spanish usually drops the article: no hay mesas = there are no tables.",
+   "examples": [
+    [
+     "Hay mucha gente y no hay mesas libres.",
+     "There are a lot of people and there are no free tables."
+    ],
+    [
+     "A las nueve y media, hay una mesa libre.",
+     "At half past nine, there is a free table."
+    ],
+    [
+     "—¿Hay churros? —Sí, hay.",
+     "\"Are there any churros?\" \"Yes, there are.\""
+    ]
+   ]
+  },
+  {
+   "topic": "Querer, necesitar, poder + infinitive",
+   "explain": "'Querer' (to want), 'necesitar' (to need) and 'poder' (can) are followed by an infinitive: quiero pedir, podemos esperar. Only the first verb changes for the subject; the second stays in the infinitive. Querer and necesitar can also take a noun: necesitan un minuto. Watch out: querer and poder change their stem (quiero, puedes); necesitar is regular.",
+   "examples": [
+    [
+     "Quiero desayunar churros con chocolate.",
+     "I want to have churros with chocolate for breakfast."
+    ],
+    [
+     "— Podemos esperar —dice el abuelo.",
+     "\"We can wait,\" says Grandpa."
+    ],
+    [
+     "¿Puedes hacer los churros, como antes?",
+     "Can you make the churros, like before?"
+    ],
+    [
+     "Esos churros necesitan un minuto más.",
+     "Those churros need one more minute."
+    ]
+   ]
+  },
+  {
+   "topic": "Ir: voy a + place",
+   "explain": "'Voy' is the 'I' form of ir (to go): 'Voy a la caja' = I'm going to the till. 'Vamos' = we go / let's go. 'A' means 'to' before a place, and a + el = al (voy al café). Watch out: 'voy a + place' says where you go, but 'voy a + infinitive' says what you're going to do: voy a pedir.",
+   "examples": [
+    [
+     "— Voy a la caja —dice Nerea.",
+     "\"I'm going to the till,\" says Nerea."
+    ],
+    [
+     "— ¡Claro! Voy a la cocina.",
+     "\"Of course! I'm going to the kitchen.\""
+    ],
+    [
+     "Abuelo, ¿vamos a la chocolatería?",
+     "Grandpa, shall we go to the chocolatería?"
+    ]
+   ]
+  },
+  {
+   "topic": "Time with a las",
+   "explain": "Use 'a las + number' to say at what time something happens: a las nueve = at nine; a las nueve y media = at half past nine. For one o'clock, say 'a la una'. Ask with '¿A qué hora…?'. Watch out: 'Son las nueve' means 'It is nine'; 'A las nueve' means 'At nine'. Spanish never uses 'en' with clock times.",
+   "examples": [
+    [
+     "A las nueve, llegan a la chocolatería.",
+     "At nine, they arrive at the chocolatería."
+    ],
+    [
+     "A las nueve y media, hay una mesa libre.",
+     "At half past nine, there is a free table."
+    ],
+    [
+     "—¿A qué hora desayunas? —A la una, el domingo.",
+     "\"What time do you have breakfast?\" \"At one, on Sunday.\""
+    ]
+   ]
+  }
+ ],
+ "gq": [
+  {
+   "topic": "Hay and no hay",
+   "q": "Fill in the blank to say 'There are no free tables': ___ mesas libres.",
+   "options": [
+    "No son",
+    "No están",
+    "No hay",
+    "Hay no"
+   ],
+   "answer": 2,
+   "why": "'No hay' means 'there is/are not'. 'No' always comes before hay, and hay does not change for plural."
+  },
+  {
+   "topic": "Querer, necesitar, poder + infinitive",
+   "q": "Which sentence is correct for 'We can wait'?",
+   "options": [
+    "Podemos esperar.",
+    "Podemos esperamos.",
+    "Puedemos esperar.",
+    "Podemos a esperar."
+   ],
+   "answer": 0,
+   "why": "Poder changes its stem to 'pued-' only in some forms (puedo, puedes, puede); nosotros is 'podemos'. The second verb stays in the infinitive, with no 'a'."
+  },
+  {
+   "topic": "Ir: voy a + place",
+   "q": "What does '— Voy a la caja —dice Nerea' mean?",
+   "options": [
+    "\"I have the till,\" says Nerea.",
+    "\"I'm going to the till,\" says Nerea.",
+    "\"She's going to the till,\" says Nerea.",
+    "\"I'm at the till,\" says Nerea."
+   ],
+   "answer": 1,
+   "why": "'Voy' is the 'I' form of ir (to go), and 'a' means 'to' before a place. 'I'm at the till' would be 'Estoy en la caja'."
+  },
+  {
+   "topic": "Time with a las",
+   "q": "Which phrase means 'At half past nine'?",
+   "options": [
+    "Son las nueve y media",
+    "En las nueve y media",
+    "A la nueve y media",
+    "A las nueve y media"
+   ],
+   "answer": 3,
+   "why": "'A las + hour' says when something happens; add 'y media' for half past. 'Son las…' tells the time now, and Spanish never uses 'en' with clock times."
+  },
+  {
+   "topic": "Hay and no hay",
+   "q": "Choose the correct word: En la chocolatería ___ mucha gente.",
+   "options": [
+    "está",
+    "hay",
+    "es",
+    "son"
+   ],
+   "answer": 1,
+   "why": "To say that something exists (there is / there are), use 'hay'. 'Está' tells where a specific, known thing is: la chocolatería está en Madrid.",
+   "x": true
+  },
+  {
+   "topic": "Querer, necesitar, poder + infinitive",
+   "q": "Complete: Yo ___ pedir dos chocolates con churros.",
+   "options": [
+    "quero",
+    "quieres",
+    "quiero",
+    "querer"
+   ],
+   "answer": 2,
+   "why": "Querer changes e→ie in the stressed forms: yo quiero, tú quieres. 'Quero' does not exist in Spanish.",
+   "x": true
+  },
+  {
+   "topic": "Ir: voy a + place",
+   "q": "Complete: El abuelo y yo ___ a la chocolatería.",
+   "options": [
+    "vamos",
+    "voy",
+    "van",
+    "vais"
+   ],
+   "answer": 0,
+   "why": "'El abuelo y yo' = we (nosotros), so ir becomes 'vamos'. 'Voy' is only for 'yo'.",
+   "x": true
+  },
+  {
+   "topic": "Time with a las",
+   "q": "Nerea and her grandfather arrive at nine. Which answer fits '¿A qué hora llegan?'",
+   "options": [
+    "Son las nueve.",
+    "A las nueve.",
+    "En las nueve.",
+    "Es la nueve."
+   ],
+   "answer": 1,
+   "why": "A question with '¿A qué hora…?' is answered with 'a las + hour'. 'Son las nueve' only tells what time it is now.",
+   "x": true
+  }
+ ],
+ "dialogue": {
+  "steps": [
+   {
+    "say": "¡Hola! Soy Nerea. Es domingo y estoy en Madrid con mi abuelo Fermín.",
+    "en": "Hi! I'm Nerea. It's Sunday and I'm in Madrid with my grandfather Fermín.",
+    "r": [
+     [
+      "¡Hola, Nerea! ¿Qué quieres desayunar?",
+      "Hi, Nerea! What do you want for breakfast?",
+      1
+     ],
+     [
+      "¡Qué bien! Me gusta Madrid.",
+      "How nice! I like Madrid.",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "Quiero desayunar churros con chocolate. Vamos a la chocolatería San Ginés. ¿Te gustan los churros?",
+    "en": "I want churros with chocolate for breakfast. We're going to the Chocolatería San Ginés. Do you like churros?",
+    "r": [
+     [
+      "Sí, me gustan mucho.",
+      "Yes, I like them a lot.",
+      2
+     ],
+     [
+      "No sé. ¿Qué son?",
+      "I don't know. What are they?",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "Son muy ricos. Pero a las nueve hay mucha gente y no hay mesas libres. ¿Qué hacemos?",
+    "en": "They're very tasty. But at nine there are a lot of people and no free tables. What do we do?",
+    "r": [
+     [
+      "Podemos esperar.",
+      "We can wait.",
+      3
+     ],
+     [
+      "Vamos a otro café.",
+      "Let's go to another café.",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "Mi abuelo dice: a las nueve y media hay una mesa. ¡Y es verdad! Voy a la caja. ¿Qué pido?",
+    "en": "My grandfather says: at half past nine there will be a table. And it's true! I'm going to the till. What do I order?",
+    "r": [
+     [
+      "Dos chocolates con churros, por favor.",
+      "Two chocolates with churros, please.",
+      4
+     ],
+     [
+      "¿Cuánto cuesta un chocolate con churros?",
+      "How much does a chocolate with churros cost?",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "Un chocolate con churros cuesta cinco euros. Dos son diez euros. Pero un señor sale de la cocina y dice: ¡Fermín!",
+    "en": "A chocolate with churros costs five euros. Two are ten euros. But a man comes out of the kitchen and says: Fermín!",
+    "r": [
+     [
+      "¿Tu abuelo trabaja en la cocina?",
+      "Does your grandfather work in the kitchen?",
+      5
+     ],
+     [
+      "¿Quién es el señor?",
+      "Who is the man?",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "¡Sí! Mi abuelo conoce muy bien esa cocina: cuarenta años allí. Hoy no pagamos, y él hace los churros. ¡Son los mejores de Madrid!",
+    "en": "Yes! My grandfather knows that kitchen very well: forty years there. Today we don't pay, and he makes the churros. They're the best in Madrid!",
+    "end": true
+   }
+  ]
+ },
+ "scene": {
+  "items": [
+   {
+    "t": "person",
+    "x": 250,
+    "y": 250,
+    "s": 1,
+    "flip": true,
+    "skin": "b",
+    "hair": "bald",
+    "hc": "g",
+    "outfit": "apron",
+    "pose": "wave",
+    "acc": [
+     "chef",
+     "glasses",
+     "mustache"
+    ]
+   },
+   {
+    "t": "obj",
+    "n": "counter",
+    "x": 240,
+    "y": 250,
+    "s": 1.3
+   },
+   {
+    "t": "obj",
+    "n": "pot",
+    "x": 185,
+    "y": 190,
+    "s": 0.5
+   },
+   {
+    "t": "obj",
+    "n": "cup",
+    "x": 305,
+    "y": 190,
+    "s": 0.5
+   },
+   {
+    "t": "person",
+    "x": 90,
+    "y": 250,
+    "s": 0.75,
+    "skin": "c",
+    "hair": "ponytail",
+    "outfit": "dress",
+    "pose": "cheer"
+   },
+   {
+    "t": "obj",
+    "n": "clock",
+    "x": 330,
+    "y": 80,
+    "s": 0.6
+   }
+  ],
+  "vb": [
+   30,
+   20,
+   350,
+   262.5
+  ],
+  "country": "Spain",
+  "ink": [
+   "#6b1424",
+   "#f2b705"
+  ]
+ },
+ "culture": {
+  "country": "Spain",
+  "city": "Madrid",
+  "landmark": "Chocolatería San Ginés, Pasadizo de San Ginés",
+  "caption": "Chocolatería San Ginés has served churros con chocolate in a narrow lane near the Puerta del Sol since 1894.",
+  "culture": "Spanish (Madrid)",
+  "prompt": "Spanish (Madrid) setting. Location: Madrid, Spain. The famous landmark Chocolatería San Ginés, Pasadizo de San Ginés must be clearly visible and recognizable in the image. A busy Sunday morning inside a classic Madrid chocolatería: small marble-topped tables, cups of thick dark hot chocolate, plates of golden churros and porras, green-painted wooden walls with mirrors and framed old photos, a cash till by the door and a view through to the kitchen where churros are frying. Through the open door, the narrow Pasadizo de San Ginés lane and the green-and-gold shopfront of Chocolatería San Ginés are visible. No people. Keep the lower-left third of the frame open (clear floor, ground or table space) so a drawn character can be added. Photorealistic photograph, natural light, soft warm color grade, slightly muted colors, eye-level camera, shallow depth of field, 4:3 landscape, high resolution. No text, no logos, no watermarks. Landmark to show: Chocolatería San Ginés, Pasadizo de San Ginés.",
+  "use": "Hybrid (drawn characters added)"
+ },
+ "gen": "f",
+ "dict": {
+  "chocolatería": [
+   [
+    "chocolatería",
+    "noun",
+    "chocolate café, shop serving hot chocolate"
+   ]
+  ],
+  "chocolates": [
+   [
+    "chocolate",
+    "noun",
+    "hot chocolates (cups of chocolate)"
+   ]
+  ],
+  "cliente": [
+   [
+    "cliente",
+    "noun",
+    "customer, client"
+   ]
+  ],
+  "come": [
+   [
+    "comer",
+    "verb",
+    "eats; eat! (command)"
+   ]
+  ],
+  "esos": [
+   [
+    "ese",
+    "det",
+    "those"
+   ]
+  ],
+  "fermín": [
+   [
+    "Fermín",
+    "name",
+    "Fermín (man's name)"
+   ]
+  ],
+  "ginés": [
+   [
+    "Ginés",
+    "name",
+    "Ginés (San Ginés, a church and street in Madrid)"
+   ]
+  ],
+  "nerea": [
+   [
+    "Nerea",
+    "name",
+    "Nerea (woman's name)"
+   ]
+  ],
+  "pagas": [
+   [
+    "pagar",
+    "verb",
+    "you pay"
+   ]
+  ]
+ }
+}

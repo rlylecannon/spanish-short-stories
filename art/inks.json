@@ -1,0 +1,78 @@
+{
+ "Spain": [
+  "#6b1424",
+  "#f2b705"
+ ],
+ "Mexico": [
+  "#0e4a30",
+  "#d9382c"
+ ],
+ "Chile": [
+  "#12295c",
+  "#d8352a"
+ ],
+ "Colombia": [
+  "#12295c",
+  "#f7c600"
+ ],
+ "Peru": [
+  "#4a1018",
+  "#d62a2a"
+ ],
+ "Cuba": [
+  "#0d2f78",
+  "#d7263d"
+ ],
+ "Puerto Rico": [
+  "#17356e",
+  "#f0675a"
+ ],
+ "Dominican Republic": [
+  "#15286b",
+  "#cd2a3a"
+ ],
+ "Argentina": [
+  "#16487e",
+  "#74acdf"
+ ],
+ "Uruguay": [
+  "#173c88",
+  "#f3c40f"
+ ],
+ "Ecuador": [
+  "#0f4c5c",
+  "#f2c230"
+ ],
+ "Costa Rica": [
+  "#173a63",
+  "#e0452f"
+ ],
+ "Panama": [
+  "#14306b",
+  "#d21034"
+ ],
+ "Venezuela": [
+  "#1b2a6b",
+  "#f0b400"
+ ],
+ "Honduras": [
+  "#0a3d8f",
+  "#2a9fd8"
+ ],
+ "Bolivia": [
+  "#0a4a2a",
+  "#d52b1e"
+ ],
+ "El Salvador": [
+  "#0b3a8a",
+  "#e2a400"
+ ],
+ "Paraguay": [
+  "#122a6b",
+  "#d52b1e"
+ ],
+ "Guatemala": [
+  "#1d5f8f",
+  "#4997d0"
+ ]
+}

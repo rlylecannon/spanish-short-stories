@@ -1,0 +1,1022 @@
+{
+ "c2-09": [
+  {
+   "topic": "Free indirect speech",
+   "q": "Which sentence renders Covadonga's thought as free indirect speech?",
+   "options": [
+    "Covadonga pensó que quizá la tía había tenido un hijo.",
+    "¿Un hijo? ¿La tía Nina? No, imposible.",
+    "Covadonga se preguntó si la tía había tenido un hijo.",
+    "Covadonga dijo: «¿Ha tenido un hijo la tía?»"
+   ],
+   "answer": 1,
+   "why": "Free indirect speech drops the verb of thinking and lets the character's own questions and exclamations appear inside the narration."
+  },
+  {
+   "topic": "Diminutives and augmentatives: pragmatics",
+   "q": "When Nina says «ven, guapina, que te hago un cafetín», what do the suffixes mainly express?",
+   "options": [
+    "That the coffee is very small",
+    "That the child is younger than six",
+    "Irony and contempt",
+    "Affection and a regional Asturian voice"
+   ],
+   "answer": 3,
+   "why": "Asturian -ín/-ina here marks tenderness and local identity, not size."
+  },
+  {
+   "topic": "Por poco, por poco que",
+   "q": "Complete: «La caja estaba tan escondida que Covadonga por poco ___ al contenedor.»",
+   "options": [
+    "la tirara",
+    "la tira",
+    "la tiraría",
+    "la haya tirado"
+   ],
+   "answer": 1,
+   "why": "Por poco for a near miss in the past normally takes the present indicative (por poco la tira); the subjunctive and conditional are wrong."
+  },
+  {
+   "topic": "Literary -ra and pretérito anterior",
+   "q": "In «La que fuera la casa de ambos era ahora un edificio de oficinas», fuera means:",
+   "options": [
+    "would be",
+    "might be",
+    "went",
+    "had been"
+   ],
+   "answer": 3,
+   "why": "In literary register the -ra form can carry pluperfect indicative value: la que fuera = la que había sido."
+  },
+  {
+   "topic": "Por poco, por poco que",
+   "q": "Complete: «Por poco que ___ de ruso, aquella palabra la entendió.»",
+   "options": [
+    "entendiera",
+    "entendió",
+    "entendía",
+    "entenderá"
+   ],
+   "answer": 0,
+   "why": "Por poco que ('however little') is concessive and takes the subjunctive; past narration requires the imperfect subjunctive.",
+   "x": true
+  },
+  {
+   "topic": "Literary -ra and pretérito anterior",
+   "q": "Find the mistake: «Hubo terminado la cinta y la puso otra vez.»",
+   "options": [
+    "The verb puso should be ponía",
+    "There is no mistake",
+    "terminado should be terminada",
+    "The pretérito anterior needs a time conjunction: Apenas hubo terminado…"
+   ],
+   "answer": 3,
+   "why": "The pretérito anterior is only used after apenas, cuando, en cuanto, no bien, etc., never on its own.",
+   "x": true
+  },
+  {
+   "topic": "Diminutives and augmentatives: pragmatics",
+   "q": "Galina lives in «un pisucho de La Calzada». What does -ucho add?",
+   "options": [
+    "That the flat is luxurious",
+    "A mildly disparaging but affectionate tone",
+    "A neutral sense of small size",
+    "That the flat belongs to someone else"
+   ],
+   "answer": 1,
+   "why": "-ucho downgrades with a touch of fondness or self-irony; it is a stance, not a measurement.",
+   "x": true
+  },
+  {
+   "topic": "Free indirect speech",
+   "q": "Choose the best free indirect version of: Covadonga se preguntó si la tía había dejado al niño allí.",
+   "options": [
+    "Covadonga pregunta: ¿lo ha dejado allí?",
+    "¿Lo había dejado allí, con su padre, con quien fuera?",
+    "Se preguntó: «¿Lo dejaste allí?»",
+    "Covadonga se preguntó que si lo dejaba allí."
+   ],
+   "answer": 1,
+   "why": "Free indirect speech keeps third person and past tenses but drops the reporting verb and keeps the question form.",
+   "x": true
+  }
+ ],
+ "c2-10": [
+  {
+   "topic": "Legal register and the future subjunctive",
+   "q": "Complete the legal formula: «Si la parte obligada no lo ___ en el plazo de quince días, quedará sin efecto el acuerdo.»",
+   "options": [
+    "haga",
+    "hará",
+    "hacía",
+    "hiciere"
+   ],
+   "answer": 3,
+   "why": "Legal hypotheticals keep the future subjunctive (hiciere), built on the stem of hicieron."
+  },
+  {
+   "topic": "Absolute constructions: terminada la audiencia",
+   "q": "Which is a correct absolute construction?",
+   "options": [
+    "Firmada la carta, salieron.",
+    "Firmado la carta, salieron.",
+    "La carta firmando, salieron.",
+    "Firmada, la carta salieron."
+   ],
+   "answer": 0,
+   "why": "The participle comes first and agrees with its own subject: firmada la carta."
+  },
+  {
+   "topic": "Mood for stance: aunque, el hecho de que, como",
+   "q": "Zoila says «Aunque la canción sea un éxito en medio mundo, la voz es de don Anselmo». Why the subjunctive, if the song really is a hit?",
+   "options": [
+    "Because she grants the fact but treats it as irrelevant to her argument",
+    "Because aunque always takes the subjunctive",
+    "Because she doubts that it is a hit",
+    "Because the sentence is about the future"
+   ],
+   "answer": 0,
+   "why": "Aunque + subjunctive can concede a known fact while dismissing its weight."
+  },
+  {
+   "topic": "Rhetorical devices: anaphora, rhetorical questions, tricolon",
+   "q": "«Pueden decir que…; pueden decir que…; pueden decir que…» is an example of:",
+   "options": [
+    "anaphora",
+    "ellipsis",
+    "litotes",
+    "free indirect speech"
+   ],
+   "answer": 0,
+   "why": "Anaphora is the repetition of the same opening in successive clauses."
+  },
+  {
+   "topic": "Mood for stance: aunque, el hecho de que, como",
+   "q": "What does «Como no lo corrijan antes del lunes, le mando otra carta notarial» mean?",
+   "options": [
+    "If they don't correct it before Monday, I'll send another letter.",
+    "Since they haven't corrected it, I'll send a letter.",
+    "As they corrected it on Monday, I sent a letter.",
+    "However they correct it, I'll send a letter."
+   ],
+   "answer": 0,
+   "why": "Como + subjunctive at the start of a sentence is a conditional warning; with the indicative it would mean 'since'.",
+   "x": true
+  },
+  {
+   "topic": "Legal register and the future subjunctive",
+   "q": "Rewrite in everyday Spanish: «Quien alegare derechos deberá acreditarlos.»",
+   "options": [
+    "Quien alegará derechos deberá acreditarlos.",
+    "Quien alegue derechos deberá acreditarlos.",
+    "Quien alegara derechos deberá acreditarlos.",
+    "Quien alegaba derechos debía acreditarlos."
+   ],
+   "answer": 1,
+   "why": "Outside legal register the future subjunctive is replaced by the present subjunctive after quien with future reference.",
+   "x": true
+  },
+  {
+   "topic": "Absolute constructions: terminada la audiencia",
+   "q": "Choose the register-appropriate opening for a court report: «___, el juez levantó la sesión.»",
+   "options": [
+    "Cuando ya habían acabado con lo de los testigos",
+    "Los testigos oyendo",
+    "Oídos los testigos",
+    "Después de oír a los testigos ellos"
+   ],
+   "answer": 2,
+   "why": "An absolute participle clause (oídos los testigos) is the compact, formal choice for procedural narration.",
+   "x": true
+  },
+  {
+   "topic": "Rhetorical devices: anaphora, rhetorical questions, tricolon",
+   "q": "Which ending keeps the tricolon parallel? «No pedimos caridad; pedimos un nombre, una firma y ___.»",
+   "options": [
+    "que nos paguen lo que deben",
+    "pagando la deuda",
+    "una deuda saldada",
+    "porque nos deben dinero"
+   ],
+   "answer": 2,
+   "why": "A tricolon keeps the same grammatical shape: three noun phrases (un nombre, una firma, una deuda saldada).",
+   "x": true
+  }
+ ],
+ "c2-01": [
+  {
+   "topic": "Irony, understatement and litotes",
+   "q": "Reyes ends: «Una jueza que se condena a sí misma y sale ovacionada: no está nada mal para un viernes.» What does she really mean?",
+   "options": [
+    "The evening was only moderately successful.",
+    "She is disappointed that the jury did not vote.",
+    "She is delighted, but says so with dry understatement.",
+    "Fridays are usually bad nights at the Falla."
+   ],
+   "answer": 2,
+   "why": "No está nada mal is litotes: denying a negative to express strong approval in a dry, ironic tone."
+  },
+  {
+   "topic": "Proverbs and truncated refranes",
+   "q": "Curro says «Cría fama…» and stops. How does Inma correctly complete the proverb?",
+   "options": [
+    "…y acertarás.",
+    "…y échate a dormir.",
+    "…cien años de perdón.",
+    "…cuchillo de palo."
+   ],
+   "answer": 1,
+   "why": "The full proverb is Cría fama y échate a dormir: once you have a reputation, it sticks."
+  },
+  {
+   "topic": "Mood for stance: aunque, el hecho de que, como",
+   "q": "Reyes accepts that Fali is a rogue but says it is irrelevant. Complete: «Aunque Fali ___ un sinvergüenza, esta vez no ha robado nada.»",
+   "options": [
+    "sea",
+    "es",
+    "será",
+    "fuera a ser"
+   ],
+   "answer": 0,
+   "why": "Aunque + subjunctive presents a known fact as irrelevant to the conclusion: aunque sea."
+  },
+  {
+   "topic": "Colloquial subjunctive formulas: ni que fuera, que yo sepa",
+   "q": "Complete Curro's protest: «¡Ni que ___ la primera vez que Fali nos levanta un chiste!»",
+   "options": [
+    "fuera",
+    "sea",
+    "es",
+    "era"
+   ],
+   "answer": 0,
+   "why": "The formula ¡Ni que…! takes the past subjunctive, here the imperfect: ni que fuera."
+  },
+  {
+   "topic": "Mood for stance: aunque, el hecho de que, como",
+   "x": true,
+   "q": "Which sentence uses como to express a warning rather than a cause?",
+   "options": [
+    "Como actuábamos el viernes, quedaban treinta y seis horas.",
+    "Como era martes, el teatro estaba medio vacío.",
+    "Como el jurado tenga el mismo sentido del humor que yo, no pasamos.",
+    "Como Benito grababa todo, había cientos de cintas."
+   ],
+   "answer": 2,
+   "why": "Como + subjunctive at the start of a sentence is a threat or condition; como + indicative gives a cause."
+  },
+  {
+   "topic": "Colloquial subjunctive formulas: ni que fuera, que yo sepa",
+   "x": true,
+   "q": "Find the mistake.",
+   "options": [
+    "No era, que digamos, una perspectiva alegre.",
+    "Sea como sea, el cuplé hay que cambiarlo.",
+    "Que yo sé, nadie grabó el ensayo.",
+    "Como quien no quiere la cosa, se sentó al fondo."
+   ],
+   "answer": 2,
+   "why": "The formula is que yo sepa, always with the subjunctive."
+  },
+  {
+   "topic": "Irony, understatement and litotes",
+   "x": true,
+   "q": "Which choice keeps Reyes's ironic register when she describes her own costume idea?",
+   "options": [
+    "Un tipo que propuse yo, porque soy la mejor.",
+    "Un tipo que propuso otra persona.",
+    "Un tipo que, con modestia ejemplar, propuse yo.",
+    "Un tipo que, por desgracia, propuse yo."
+   ],
+   "answer": 2,
+   "why": "Con modestia ejemplar is mock praise: it pretends to be modest while openly claiming credit."
+  },
+  {
+   "topic": "Proverbs and truncated refranes",
+   "x": true,
+   "q": "Fali answers «En casa del herrero…» with «…cuchillo de palo. Y en la de la jueza, plagio.» What is he doing with the proverb?",
+   "options": [
+    "Completing it and then twisting it into an ironic joke about Reyes.",
+    "Quoting it wrongly by mistake.",
+    "Replacing it with a different proverb with the same meaning.",
+    "Translating it into legal language."
+   ],
+   "answer": 0,
+   "why": "He finishes the refrán as expected and then adds a new, parallel ending aimed at Reyes, a typical ironic twist."
+  }
+ ],
+ "c2-02": [
+  {
+   "topic": "Free indirect speech",
+   "q": "«¿Qué se creía el Cholo? ¿Que iba a dejar que cualquiera hurgara en lo único que le quedaba del viejo?» Whose questions are these?",
+   "options": [
+    "Obdulio's thoughts, inside the third-person narration.",
+    "Mirtha's, asked aloud.",
+    "The narrator's, judging Cholo.",
+    "Cholo's, asking himself."
+   ],
+   "answer": 0,
+   "why": "There is no verb of saying, but the questions, the anger and the word el viejo belong to Obdulio: this is free indirect speech."
+  },
+  {
+   "topic": "Ellipsis and fragments in narration",
+   "q": "In «¿La lonja? Rajada de punta a punta», which verb is understood?",
+   "options": [
+    "era",
+    "estaba",
+    "había",
+    "tenía"
+   ],
+   "answer": 1,
+   "why": "The fragment describes the state of the drumhead, so the missing verb is estar: estaba rajada."
+  },
+  {
+   "topic": "Left dislocation and clitic doubling",
+   "q": "Complete with the topic first: «Aquel tambor ___ había hecho su padre en el patio del Mediomundo.»",
+   "options": [
+    "le",
+    "—",
+    "la",
+    "lo"
+   ],
+   "answer": 3,
+   "why": "A fronted direct object must be repeated by a clitic that agrees with it: aquel tambor → lo."
+  },
+  {
+   "topic": "Afro-Hispanic lexicon and loanwords",
+   "q": "Before the parade the drums are brought to the fire «para templar los cueros». What does templar mean here?",
+   "options": [
+    "To tune the drumheads by heating them.",
+    "To clean the drums with smoke.",
+    "To warm the drummers' hands.",
+    "To soften the leather so it can be folded."
+   ],
+   "answer": 0,
+   "why": "In candombe, templar is to tune the drum, traditionally by heating the hide over a street fire."
+  },
+  {
+   "topic": "Left dislocation and clitic doubling",
+   "x": true,
+   "q": "Which sentence shows Rioplatense clitic doubling with the object left in its normal position?",
+   "options": [
+    "Conocí a tu viejo tocando ese tambor.",
+    "Lo conocí a tu viejo tocando ese tambor.",
+    "A tu viejo lo conocí tocando ese tambor.",
+    "Tu viejo me conoció tocando ese tambor."
+   ],
+   "answer": 1,
+   "why": "In lo conocí a tu viejo the pronoun doubles an object that stays after the verb, typical of River Plate speech; option B is left dislocation."
+  },
+  {
+   "topic": "Ellipsis and fragments in narration",
+   "x": true,
+   "q": "Which is the full sentence behind «Cuero nuevo, aro nuevo. El sonido, el de siempre»?",
+   "options": [
+    "Había un cuero nuevo y quería un aro nuevo, y el sonido siempre era así.",
+    "Le pusieron cuero nuevo y aro nuevo, pero el sonido era el de siempre.",
+    "Compraron un cuero y un aro para cambiar el sonido.",
+    "El cuero nuevo sonaba como un aro nuevo."
+   ],
+   "answer": 1,
+   "why": "The fragments drop the verbs (pusieron, era); the comma after el sonido replaces era."
+  },
+  {
+   "topic": "Free indirect speech",
+   "x": true,
+   "q": "Turn Obdulio's direct thought «¿Retirarme yo? Mañana llevaré el tambor al taller» into free indirect speech.",
+   "options": [
+    "Obdulio pensó que no se retiraría y que mañana llevará el tambor.",
+    "¿Retirarme yo?, pensó él. Mañana llevaré el tambor al taller.",
+    "¿Retirarse? ¿Él? Mañana llevaría el tambor al taller.",
+    "Obdulio dijo: «¿Retirarse él? Mañana llevaría el tambor al taller»."
+   ],
+   "answer": 2,
+   "why": "Free indirect speech keeps the question and mañana but shifts to the third person and the past (llevaría), without a verb of saying."
+  },
+  {
+   "topic": "Afro-Hispanic lexicon and loanwords",
+   "x": true,
+   "q": "Which of these is NOT one of the three drums of the candombe cuerda?",
+   "options": [
+    "el chico",
+    "el repique",
+    "el gramillero",
+    "el piano"
+   ],
+   "answer": 2,
+   "why": "The cuerda is chico, repique and piano; the gramillero is a dancing character, an old herb doctor."
+  }
+ ],
+ "c2-03": [
+  {
+   "topic": "Language contact: code-switching and loans",
+   "q": "Anacleto says: «Courtney, this is not a pancake: es un yaniqueque». Why does he switch to Spanish halfway?",
+   "options": [
+    "Because he forgets the English word for it",
+    "To meet her in English but insist on the Spanish name of a dish that is part of his identity",
+    "Because English has no present tense of ser",
+    "Because yaniqueque is a rude word in English"
+   ],
+   "answer": 1,
+   "why": "The switch marks identity: he accommodates her language but keeps his food's own name."
+  },
+  {
+   "topic": "Colloquial subjunctive formulas: ni que fuera, que yo sepa",
+   "q": "Complete: «¿Que mi comida lo adelgaza? ¡Ni que le ___ sirviendo agua!»",
+   "options": [
+    "estoy",
+    "esté",
+    "estaba",
+    "estuviera"
+   ],
+   "answer": 3,
+   "why": "¡Ni que…! takes the past subjunctive (here the imperfect), even about the present."
+  },
+  {
+   "topic": "Por poco, por poco que",
+   "q": "Which sentence means 'I nearly dropped the pot'?",
+   "options": [
+    "Por poco se me cae el caldero.",
+    "Por poco que se me cayera el caldero.",
+    "Por poco se me caiga el caldero.",
+    "Con lo que se me cae el caldero."
+   ],
+   "answer": 0,
+   "why": "A near miss in the past uses por poco + present indicative."
+  },
+  {
+   "topic": "Irony, understatement and litotes",
+   "q": "Anacleto says Courtney «no tiene un pelo de tonta». What does he mean?",
+   "options": [
+    "She is very clever",
+    "She has very short hair",
+    "She is not clever at all",
+    "She is a little foolish"
+   ],
+   "answer": 0,
+   "why": "Litotes: denying the opposite (not a hair of a fool) affirms that she is sharp."
+  },
+  {
+   "topic": "Colloquial subjunctive formulas: ni que fuera, que yo sepa",
+   "x": true,
+   "q": "Which sentence contains a mistake?",
+   "options": [
+    "Sea como sea, el 15 firma.",
+    "Que yo sé, aquí nadie se ha muerto de un domplín.",
+    "No era muy científico que digamos.",
+    "Se puso de su lado como quien no quiere la cosa."
+   ],
+   "answer": 1,
+   "why": "The fixed formula is que yo sepa, with the subjunctive."
+  },
+  {
+   "topic": "Por poco, por poco que",
+   "x": true,
+   "q": "«Por poco que comiera, con mis raciones tendría que mantener el peso.» What does por poco que mean here?",
+   "options": [
+    "However little",
+    "Almost",
+    "Because so little",
+    "As soon as"
+   ],
+   "answer": 0,
+   "why": "Por poco que + subjunctive is concessive: 'however little'."
+  },
+  {
+   "topic": "Language contact: code-switching and loans",
+   "x": true,
+   "q": "Which word is a loan fully adapted to Spanish, not a code-switch?",
+   "options": [
+    "please",
+    "domplín",
+    "understanding",
+    "carbs"
+   ],
+   "answer": 1,
+   "why": "Domplín (from dumpling) has Spanish spelling, stress and plural (domplines); the others stay English."
+  },
+  {
+   "topic": "Irony, understatement and litotes",
+   "x": true,
+   "q": "Choose the ironic register: Anacleto wants to say Courtney lectured him although he is the expert.",
+   "options": [
+    "La nutricionista me explicó la proteína con mucha claridad.",
+    "La nutricionista, con modestia ejemplar, le explicó la proteína a un hombre que lleva treinta años cocinando para atletas.",
+    "La nutricionista no sabía nada de proteína.",
+    "La nutricionista me explicó la proteína y yo aprendí mucho."
+   ],
+   "answer": 1,
+   "why": "Praise that the context contradicts (modestia ejemplar) is the ironic choice; the others are literal."
+  }
+ ],
+ "c2-04": [
+  {
+   "topic": "Left dislocation and clitic doubling",
+   "q": "Complete in standard Spanish: «Los planos ___ habían dibujado sobre una foto aérea vieja.»",
+   "options": [
+    "los",
+    "la",
+    "les",
+    "le"
+   ],
+   "answer": 0,
+   "why": "A fronted direct object needs a copy pronoun that agrees: los planos → los."
+  },
+  {
+   "topic": "Diminutives and augmentatives: pragmatics",
+   "q": "Doña Jacinta says: «¡Qué obrita la de la Gobernación!» What does the diminutive express?",
+   "options": [
+    "That the project is very small",
+    "Irony: she belittles a large project",
+    "Affection for the Gobernación",
+    "Politeness towards the engineer"
+   ],
+   "answer": 1,
+   "why": "Applied to a big public work, -ita is ironic, not about size."
+  },
+  {
+   "topic": "Marking the source: dizque, ndaje, había sido",
+   "q": "«¡Había sido verdad lo del cementerio!» What does había sido express here?",
+   "options": [
+    "Sudden discovery: it was true all along",
+    "An event before another past event",
+    "A polite request",
+    "A future possibility"
+   ],
+   "answer": 0,
+   "why": "This is the Andean mirative pluperfect, which marks surprise at a new realisation."
+  },
+  {
+   "topic": "Rhetorical devices: anaphora, rhetorical questions, tricolon",
+   "q": "«No vine a pedir permiso, no vine a pedir perdón: vine a rendir cuentas.» Which device is the repeated «no vine a…»?",
+   "options": [
+    "Litotes",
+    "A rhetorical question",
+    "Clitic doubling",
+    "Anaphora"
+   ],
+   "answer": 3,
+   "why": "Anaphora repeats the opening words of successive clauses."
+  },
+  {
+   "topic": "Left dislocation and clitic doubling",
+   "x": true,
+   "q": "Which sentence contains a mistake?",
+   "options": [
+    "La copla la oyó la primera noche.",
+    "Eso ya lo sabíamos.",
+    "A mi papá enterraron ahí.",
+    "A doña Jacinta yo nunca la he oído cantar nada ajeno."
+   ],
+   "answer": 2,
+   "why": "A fronted direct object needs its copy pronoun: A mi papá lo enterraron ahí."
+  },
+  {
+   "topic": "Marking the source: dizque, ndaje, había sido",
+   "x": true,
+   "q": "Simona writes a formal technical report. Which way of marking hearsay fits that register?",
+   "options": [
+    "Dizque el consultor no visitó la obra.",
+    "Según parece, el consultor no visitó la obra.",
+    "El consultor no visitó la obra, dice.",
+    "¡El consultor no había visitado la obra!"
+   ],
+   "answer": 1,
+   "why": "Según parece is the neutral written option; dizque and final dice are colloquial."
+  },
+  {
+   "topic": "Diminutives and augmentatives: pragmatics",
+   "x": true,
+   "q": "In the last copla doña Jacinta sings ingeniera, not ingenierita. What does the change signal?",
+   "options": [
+    "That Simona has been promoted",
+    "That ingenierita does not rhyme",
+    "Contempt for Simona's new design",
+    "Respect: she no longer belittles Simona"
+   ],
+   "answer": 3,
+   "why": "Dropping the belittling diminutive is itself a sign of respect."
+  },
+  {
+   "topic": "Rhetorical devices: anaphora, rhetorical questions, tricolon",
+   "x": true,
+   "q": "Which version keeps the tricolon parallel?",
+   "options": [
+    "para los que pasan, los que se quedan y quienes ya murieron",
+    "para quienes pasan, para el que se queda y por los muertos",
+    "para los que pasan y se quedan, además de los muertos",
+    "para los que pasan, para los que se quedan y para los que ya no están"
+   ],
+   "answer": 3,
+   "why": "A tricolon repeats the same frame three times; only the last option keeps para los que… throughout."
+  }
+ ],
+ "c2-05": [
+  {
+   "topic": "Journalistic conditional: habría + participle",
+   "q": "A reporter has not confirmed the theft. Complete: «Según fuentes policiales, la vasija ___ del sitio durante la noche.»",
+   "options": [
+    "fue extraída",
+    "haya sido extraída",
+    "había sido extraída",
+    "habría sido extraída"
+   ],
+   "answer": 3,
+   "why": "Habría + participle reports unconfirmed past information; fue and había sido state it as fact, and the subjunctive has no trigger here."
+  },
+  {
+   "topic": "Quizá, tal vez, a lo mejor: mood and certainty",
+   "q": "Complete: «A lo mejor ___ una réplica, don Nefta.»",
+   "options": [
+    "fuera",
+    "sea",
+    "es",
+    "haya sido"
+   ],
+   "answer": 2,
+   "why": "A lo mejor always takes the indicative, unlike quizá and tal vez."
+  },
+  {
+   "topic": "Ellipsis and fragments in narration",
+   "q": "Which sentence is a verbless fragment in which the reader recovers 'estaba'?",
+   "options": [
+    "La olla estaba perfecta.",
+    "La olla perfecta.",
+    "La olla, perfecta.",
+    "Perfecta estaba la olla."
+   ],
+   "answer": 2,
+   "why": "The comma stands for the missing verb (La olla, perfecta = the pot was perfect); without it, la olla perfecta is just a noun phrase."
+  },
+  {
+   "topic": "Academic register: impersonal hedging",
+   "q": "Complete in report style: «Cabe la posibilidad de que ___ otras réplicas en circulación.»",
+   "options": [
+    "existen",
+    "existirán",
+    "existían",
+    "existan"
+   ],
+   "answer": 3,
+   "why": "Cabe la posibilidad de que presents an open possibility, so it takes the subjunctive: existan."
+  },
+  {
+   "topic": "Quizá, tal vez, a lo mejor: mood and certainty",
+   "q": "Neftalí thinks the paper is probably right. Which sentence shows that stance?",
+   "options": [
+    "Quizá tiene razón el periódico.",
+    "Quizá tenga razón el periódico.",
+    "Ojalá tuviera razón el periódico.",
+    "A lo mejor tenga razón el periódico."
+   ],
+   "answer": 0,
+   "why": "Quizá with the indicative signals a real, fairly likely possibility; the subjunctive makes it more remote, and a lo mejor never takes the subjunctive.",
+   "x": true
+  },
+  {
+   "topic": "Journalistic conditional: habría + participle",
+   "q": "Find the mistake in this correction notice: «La pieza habría sido una réplica de fabricación reciente, según el informe técnico. Lamentamos el error.»",
+   "options": [
+    "Lamentamos should be Lamentaríamos",
+    "There is no mistake",
+    "Según should be Según que",
+    "Habría sido should be es: a correction states the confirmed fact"
+   ],
+   "answer": 3,
+   "why": "A correction retracts the rumour, so it uses the indicative (la pieza es una réplica); keeping the conditional would still sound unconfirmed.",
+   "x": true
+  },
+  {
+   "topic": "Academic register: impersonal hedging",
+   "q": "Which version belongs in Yesenia's official report?",
+   "options": [
+    "No se constatan alteraciones recientes en la estratigrafía.",
+    "Yo creo que nadie ha tocado la tierra.",
+    "Aquí no ha escarbado nadie, se lo juro.",
+    "Me parece que no hay nada raro en las capas."
+   ],
+   "answer": 0,
+   "why": "Impersonal se constata with a technical noun keeps the writer out of the claim, as academic register requires; the others are personal speech.",
+   "x": true
+  },
+  {
+   "topic": "Quizá, tal vez, a lo mejor: mood and certainty",
+   "q": "Neftalí thinks the hope is unlikely to come true. Complete: «Ojalá ___ tan fácil.»",
+   "options": [
+    "fuera",
+    "es",
+    "será",
+    "sea"
+   ],
+   "answer": 0,
+   "why": "Ojalá + imperfect subjunctive expresses a hope seen as unlikely or contrary to fact; ojalá sea would be a hope that may well come true.",
+   "x": true
+  }
+ ],
+ "c2-06": [
+  {
+   "topic": "Journalistic conditional: habría + participle",
+   "q": "A press bulletin does not want to vouch for the date. Complete: «El pueblo ___ en 1609, de acuerdo con fuentes municipales.»",
+   "options": [
+    "fue fundado",
+    "habría sido fundado",
+    "había sido fundado",
+    "hubiera sido fundado"
+   ],
+   "answer": 1,
+   "why": "Habría + participle presents a past claim as unconfirmed and attributed to a source; fue and había sido state it as fact."
+  },
+  {
+   "topic": "Literary -ra and pretérito anterior",
+   "q": "In «Don Fidencio, quien fuera su maestro de jarana», what does fuera mean?",
+   "options": [
+    "who might be",
+    "who had once been",
+    "who will be",
+    "if he were"
+   ],
+   "answer": 1,
+   "why": "In literary relative clauses the -ra form works as a pluperfect indicative: quien fuera = who had (once) been."
+  },
+  {
+   "topic": "Concessive and conjectural future and conditional",
+   "q": "Which sentence concedes a point about the past before an objection?",
+   "options": [
+    "Será príncipe cuando lo diga la placa.",
+    "Si fuera príncipe, tendría corona.",
+    "Sería príncipe o no, pero cimarrón lo fue.",
+    "Fue príncipe, y además cimarrón."
+   ],
+   "answer": 2,
+   "why": "The conditional sería concedes a possibility about the past (prince or not) before pero introduces what is certain."
+  },
+  {
+   "topic": "Proverbs and truncated refranes",
+   "q": "Don Fidencio says only «No por mucho madrugar…». What is he telling Ruperto?",
+   "options": [
+    "Get up earlier tomorrow and go to the town hall",
+    "He has forgotten the rest of the proverb",
+    "Early risers always get what they want",
+    "Don't rush: hurrying won't make things happen sooner"
+   ],
+   "answer": 3,
+   "why": "The truncated proverb (no por mucho madrugar amanece más temprano) tells Ruperto not to rush; the listener completes it."
+  },
+  {
+   "topic": "Literary -ra and pretérito anterior",
+   "q": "Find the mistake: «Ruperto hubo leído el borrador y pidió una pluma roja.»",
+   "options": [
+    "There is no mistake",
+    "pidió should be pedía",
+    "el borrador should be al borrador",
+    "hubo leído needs a time connector such as apenas or no bien"
+   ],
+   "answer": 3,
+   "why": "The pretérito anterior is only used after connectors like apenas, no bien, una vez que: Apenas hubo leído el borrador, pidió…",
+   "x": true
+  },
+  {
+   "topic": "Concessive and conjectural future and conditional",
+   "q": "What does «Tendrá razón el video en lo del orgullo; en las fechas, no» mean?",
+   "options": [
+    "The video will be right about the pride in the future.",
+    "The video should be right about the pride.",
+    "The video may well be right about the pride, but not about the dates.",
+    "The video was right about everything."
+   ],
+   "answer": 2,
+   "why": "The concessive future grants a point about the present (may well be right) before rejecting another; it is not a real future.",
+   "x": true
+  },
+  {
+   "topic": "Journalistic conditional: habría + participle",
+   "q": "Ruperto rewrites the plaque so the bronze states only documented facts. Which sentence fits the final plaque?",
+   "options": [
+    "Yanga habría fundado el pueblo en 1609.",
+    "El pueblo habría sido reconocido como libre.",
+    "Yanga habría resistido la campaña de 1609.",
+    "El pueblo lleva su nombre desde 1932."
+   ],
+   "answer": 3,
+   "why": "A text that commits to its facts uses the indicative; the conditional of rumour signals that the writer does not vouch for the claim.",
+   "x": true
+  },
+  {
+   "topic": "Proverbs and truncated refranes",
+   "q": "Which is a twisted proverb used for irony?",
+   "options": [
+    "Cada quien habla de la feria según le va en ella.",
+    "No por mucho madrugar amanece más temprano.",
+    "No por mucho madrugar…",
+    "Del dicho al hecho hay mucho trecho, y del hecho a la placa, más todavía."
+   ],
+   "answer": 3,
+   "why": "Adding an unexpected ending (y del hecho a la placa…) twists the proverb for an ironic point; the others are quoted whole or truncated.",
+   "x": true
+  }
+ ],
+ "c2-07": [
+  {
+   "topic": "Legal register and the future subjunctive",
+   "q": "Complete the warning read to witnesses: «Quien ___ a la verdad en su declaración incurrirá en falso testimonio.»",
+   "options": [
+    "faltare",
+    "faltara",
+    "faltó",
+    "faltará"
+   ],
+   "answer": 0,
+   "why": "Legal formulas keep the future subjunctive (faltare) in an open, hypothetical relative clause; everyday Spanish would say quien falte."
+  },
+  {
+   "topic": "Absolute constructions: terminada la audiencia",
+   "q": "Complete: «___ el acta de la declaración policial, la presidenta preguntó a la testigo si la ratificaba.»",
+   "options": [
+    "Leído",
+    "Leída",
+    "Leyendo",
+    "Habiendo leída"
+   ],
+   "answer": 1,
+   "why": "In an absolute construction the participle agrees with its own subject, acta, which is feminine even though it takes el."
+  },
+  {
+   "topic": "Language contact: code-switching and loans",
+   "q": "In ña Gumersinda's «Vení-na un ratito, sentate conmigo», what does -na add to the command?",
+   "options": [
+    "It turns the command into a question",
+    "It puts the command in the past",
+    "It softens the request and makes it friendlier",
+    "It makes the order more urgent and abrupt"
+   ],
+   "answer": 2,
+   "why": "The Guaraní particle -na, attached to Spanish imperatives in Paraguay, softens a request, like 'won't you' or 'please'."
+  },
+  {
+   "topic": "Marking the source: dizque, ndaje, había sido",
+   "q": "The witness said «Derlis ndaje oĩ va'ekue kokue rembe'ýpe». Which Spanish version is faithful?",
+   "options": [
+    "Vi a Derlis al borde de la chacra.",
+    "Derlis tiene que haber estado al borde de la chacra.",
+    "Dicen que Derlis estaba al borde de la chacra.",
+    "Juro que Derlis estaba al borde de la chacra."
+   ],
+   "answer": 2,
+   "why": "Ndaje is a reportative: the speaker repeats what others say, so dicen que keeps the source; vi or juro turn hearsay into eyewitness evidence."
+  },
+  {
+   "topic": "Legal register and the future subjunctive",
+   "x": true,
+   "q": "Which sentence uses the future subjunctive correctly in legal register?",
+   "options": [
+    "Cuando se hiciere ayer la lectura, el juez habló.",
+    "Si así no se hará, se dejará constancia en el acta.",
+    "Si así no se hiciere, se dejare constancia en el acta.",
+    "Si así no se hiciere, se dejará constancia en el acta."
+   ],
+   "answer": 3,
+   "why": "The -re form goes only in the hypothetical si or relative clause; the main clause takes the future indicative, and it never refers to past events."
+  },
+  {
+   "topic": "Absolute constructions: terminada la audiencia",
+   "x": true,
+   "q": "Rewrite «Cuando el muchacho fue absuelto, la sala se vació» as an absolute construction.",
+   "options": [
+    "Absolviendo el muchacho, la sala se vació.",
+    "Absuelta al muchacho, la sala se vació.",
+    "El muchacho absuelto, la sala lo vació.",
+    "Absuelto el muchacho, la sala se vació."
+   ],
+   "answer": 3,
+   "why": "Participle first, agreeing with its own subject (absuelto el muchacho), then the main clause; a gerund would wrongly make la sala the one acquitting."
+  },
+  {
+   "topic": "Marking the source: dizque, ndaje, había sido",
+   "x": true,
+   "q": "Perla exclaims «¡Había sido cierto lo de la miel!». What does había sido express here?",
+   "options": [
+    "Something that was true before but is no longer true",
+    "A rumour she still does not believe",
+    "Surprise at a fact she has only just discovered",
+    "An event that happened before another past event"
+   ],
+   "answer": 2,
+   "why": "In Paraguayan and Andean Spanish this mirative pluperfect marks sudden discovery: 'so it was true!'."
+  },
+  {
+   "topic": "Language contact: code-switching and loans",
+   "x": true,
+   "q": "Ña Gumersinda's answer ends with a Paraguayan «luego». What does it mean in that position?",
+   "options": [
+    "later, afterwards",
+    "emphasis: 'that's just how it is'",
+    "therefore, so",
+    "beforehand"
+   ],
+   "answer": 1,
+   "why": "Under Guaraní influence, sentence-final luego in Paraguay is an emphatic particle, not the time adverb 'later'."
+  }
+ ],
+ "c2-08": [
+  {
+   "topic": "Afro-Hispanic lexicon and loanwords",
+   "q": "How do you say 'the children' in Palenquero?",
+   "options": [
+    "los moná",
+    "monás",
+    "ma moná",
+    "moná ma"
+   ],
+   "answer": 2,
+   "why": "Palenquero marks the plural with the particle ma before the noun, and the noun itself does not change."
+  },
+  {
+   "topic": "Quizá, tal vez, a lo mejor: mood and certainty",
+   "q": "Complete Dorina's reply: «A lo mejor solo ___ delirando.»",
+   "options": [
+    "estuviera",
+    "estaba",
+    "estuviese",
+    "esté"
+   ],
+   "answer": 1,
+   "why": "A lo mejor always takes the indicative, unlike quizá and tal vez."
+  },
+  {
+   "topic": "Concessive and conjectural future and conditional",
+   "q": "Which form gives the concessive meaning 'He may be very stubborn, but he's no fool'? «___ su tío muy terco, pero no es tonto.»",
+   "options": [
+    "Es",
+    "Sea",
+    "Será",
+    "Fue"
+   ],
+   "answer": 2,
+   "why": "The future of conjecture followed by pero concedes a point (será terco) before contradicting it; es would simply state a fact."
+  },
+  {
+   "topic": "Academic register: impersonal hedging",
+   "q": "Complete the hedged sentence: «Cabe la posibilidad de que se ___ de un préstamo léxico del kikongo.»",
+   "options": [
+    "trata",
+    "tratará",
+    "trate",
+    "trataba"
+   ],
+   "answer": 2,
+   "why": "Cabe la posibilidad de que expresses possibility, so it takes the subjunctive: se trate."
+  },
+  {
+   "topic": "Quizá, tal vez, a lo mejor: mood and certainty",
+   "x": true,
+   "q": "Which sentence contains a mistake?",
+   "options": [
+    "A lo mejor alguien más joven acepta el puesto.",
+    "Quizá Evaristo tenía razón.",
+    "A lo mejor alguien más joven acepte el puesto.",
+    "Tal vez no lo conteste nunca."
+   ],
+   "answer": 2,
+   "why": "A lo mejor never takes the subjunctive; quizá and tal vez can take either mood."
+  },
+  {
+   "topic": "Concessive and conjectural future and conditional",
+   "x": true,
+   "q": "In past narration, «Tendría sus razones el tío, pensó, pero también ella tenía las suyas» means:",
+   "options": [
+    "Her uncle would have reasons in the future.",
+    "Her uncle had to explain his reasons.",
+    "Her uncle should have given his reasons.",
+    "Her uncle may have had his reasons, but she had hers too."
+   ],
+   "answer": 3,
+   "why": "Here the conditional is conjectural and concessive about the past: 'he may have had his reasons, but...'."
+  },
+  {
+   "topic": "Academic register: impersonal hedging",
+   "x": true,
+   "q": "Which sentence belongs in Dorina's abstract rather than in a conversation?",
+   "options": [
+    "Los datos apuntan a un uso restringido al ámbito del kuagro.",
+    "Yo creo que la palabra viene del kikongo, ¿sabes?",
+    "A lo mejor la abuela se lo inventó, ¿no?",
+    "Mi tío dice que eso no es pa' la universidad."
+   ],
+   "answer": 0,
+   "why": "Academic prose is impersonal and hedged, with data as the subject (los datos apuntan a) and no yo, tags or colloquial forms."
+  },
+  {
+   "topic": "Afro-Hispanic lexicon and loanwords",
+   "x": true,
+   "q": "In «Ma Petrona» and «ma moná», the word ma...",
+   "options": [
+    "means 'mother' in both",
+    "is the plural marker in both",
+    "is a respectful title before a name in the first, and a plural marker before a noun in the second",
+    "is a Spanish article in both"
+   ],
+   "answer": 2,
+   "why": "The story distinguishes the title Ma before an older woman's name from the Palenquero plural particle ma."
+  }
+ ]
+}

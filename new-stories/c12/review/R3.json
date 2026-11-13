@@ -1,0 +1,445 @@
+{
+ "patches": [
+  {
+   "file": "stories",
+   "id": "c2-01",
+   "find": "Yo la oía con nueve años y la cantaba en el colegio.",
+   "replace": "Yo la oía con quince años y la cantaba en el instituto.",
+   "why": "Timeline: Fali is 58 (born c.1968); the tape is from 1984, when he was 15-16, not 9."
+  },
+  {
+   "file": "stories",
+   "id": "c2-01",
+   "find": "I used to listen to it when I was nine and sing it at school.",
+   "replace": "I used to listen to it when I was fifteen and sing it at school.",
+   "why": "EN follows ES fix."
+  },
+  {
+   "file": "stories",
+   "id": "c2-01",
+   "find": "Esa noche bajé al trastero la caja de casetes y las fui",
+   "replace": "Esa noche bajé al trastero a por la caja de casetes y las fui",
+   "why": "Logic: the box was in the storeroom she was clearing in October ('vaciando un trastero'); she goes down for it, not takes it down."
+  },
+  {
+   "file": "stories",
+   "id": "c2-01",
+   "find": "That night I took the box of cassettes down to the storeroom and listened",
+   "replace": "That night I went down to the storeroom for the box of cassettes and listened",
+   "why": "EN follows ES fix."
+  },
+  {
+   "file": "stories",
+   "id": "c2-01",
+   "find": "—grabados de la radio con anuncios y todo—",
+   "replace": "—grabación de radio, con anuncios y todo—",
+   "why": "Agreement: 'grabados' has no masculine plural referent (agrupación/cinta); nominal apposition is clean."
+  },
+  {
+   "file": "stories",
+   "id": "c2-01",
+   "find": "“And the judge’s children plagiarise.”",
+   "replace": "“And in the judge’s house, plagiarism.”",
+   "why": "EN: the twist is on 'casa' (en la de la jueza, plagio); 'children' adds a meaning the Spanish lacks."
+  },
+  {
+   "file": "stories",
+   "id": "c2-01",
+   "find": "The theatre brought the house down.",
+   "replace": "The house came down.",
+   "why": "EN: 'the theatre brought the house down' is illogical (performers bring the house down)."
+  },
+  {
+   "file": "grammar",
+   "id": "c2-01",
+   "find": "the formula needs the imperfect subjunctive.",
+   "replace": "the formula needs the past subjunctive (imperfect, or pluperfect for a completed action: ¡ni que hubiera visto un fantasma!).",
+   "why": "Accuracy: ni que + pluperfect subjunctive is standard; 'needs the imperfect' is too narrow."
+  },
+  {
+   "file": "gq",
+   "id": "c2-01",
+   "find": "The formula ¡Ni que…! always takes the imperfect subjunctive: ni que fuera.",
+   "replace": "The formula ¡Ni que…! takes the past subjunctive, here the imperfect: ni que fuera.",
+   "why": "Accuracy: 'always the imperfect' is wrong (pluperfect subjunctive also used)."
+  },
+  {
+   "file": "dialogues",
+   "id": "c2-01",
+   "find": "¿Qué se le ofrece a la señoría?",
+   "replace": "¿Qué se le ofrece a su señoría?",
+   "why": "Fixed form of address is 'su señoría'."
+  },
+  {
+   "file": "dialogues",
+   "id": "c2-01",
+   "find": "Que yo grabé ese ensayo el 2 de octubre, y hay vídeo.",
+   "replace": "Que ese ensayo lo colgó mi sobrino el 2 de octubre, y hay vídeo.",
+   "why": "Consistency with story: the nephew posted the video."
+  },
+  {
+   "file": "dialogues",
+   "id": "c2-01",
+   "find": "I recorded that rehearsal on 2 October, and there’s a video.",
+   "replace": "My nephew posted that rehearsal on 2 October, and there’s a video.",
+   "why": "EN follows ES fix."
+  },
+  {
+   "file": "dialogues",
+   "id": "c2-01",
+   "find": "And the judge’s children plagiarise. I’m",
+   "replace": "And in the judge’s house, plagiarism. I’m",
+   "why": "EN matches the story fix (twist on 'casa', not children)."
+  },
+  {
+   "file": "goals",
+   "id": "c2-01",
+   "find": "¿Tú por mi peña tres días antes de tu actuación?",
+   "replace": "¿Tú por mi peña en plena semana de preliminares?",
+   "why": "Story: Reyes visits Fali the day before her performance, not three days before."
+  },
+  {
+   "file": "goals",
+   "id": "c2-01",
+   "find": "You at my club three days before your performance?",
+   "replace": "You at my club in the middle of preliminaries week?",
+   "why": "EN follows ES fix."
+  },
+  {
+   "file": "stories",
+   "id": "c2-02",
+   "find": "que llevaba doce días durmiendo mal",
+   "replace": "que llevaba tres noches durmiendo mal",
+   "why": "Timeline: the repair happens two or three days after he finds the crack (12 days is the time left to the Llamadas)."
+  },
+  {
+   "file": "stories",
+   "id": "c2-02",
+   "find": "who had been sleeping badly for twelve days",
+   "replace": "who had been sleeping badly for three nights",
+   "why": "EN follows ES fix."
+  },
+  {
+   "file": "stories",
+   "id": "c2-02",
+   "find": "le robaban a su padre los palillos",
+   "replace": "le robaban a su padre los palos",
+   "why": "Candombe drums are played with a 'palo' (one stick + hand), not 'palillos' (needs Montevideo check)."
+  },
+  {
+   "file": "grammar",
+   "id": "c2-02",
+   "find": "With a fronted direct object the pronoun is obligatory",
+   "replace": "With a fronted definite direct object used as a topic (not as a contrastive focus) the pronoun is obligatory",
+   "why": "Accuracy: focus-fronted objects (AQUEL TAMBOR había hecho) take no clitic."
+  },
+  {
+   "file": "dialogues",
+   "id": "c2-02",
+   "find": "Pasá, pasá, que hace frío. ¿Vos sos amiga de la gurisa?",
+   "replace": "Pasá, pasá, sentate un rato. ¿Vos venís con la gurisa?",
+   "why": "Montevideo in Jan-Feb is midsummer ('hace frío' wrong); avoid assuming the learner's gender."
+  },
+  {
+   "file": "dialogues",
+   "id": "c2-02",
+   "find": "Come in, come in, it’s cold. Are you a friend of the girl’s?",
+   "replace": "Come in, come in, sit down for a bit. Have you come with the girl?",
+   "why": "EN follows ES fix."
+  },
+  {
+   "file": "dialogues",
+   "id": "c2-02",
+   "find": "¿Me contás cómo era el Mediomundo",
+   "replace": "¿Me cuenta cómo era el Mediomundo",
+   "why": "Learner otherwise addresses don Obdulio with usted (steps 2-3); keep consistent."
+  },
+  {
+   "file": "dialogues",
+   "id": "c2-02",
+   "find": "Qué lindo tambor. ¿Y esa raja en la lonja?",
+   "replace": "Qué lindo tambor. ¿Su padre lo sacó del conventillo?",
+   "why": "Scene/step 2: the drum is already repaired, so a visible crack contradicts; new line also leads naturally to 'El tambor se lo llevó abrazado'."
+  },
+  {
+   "file": "dialogues",
+   "id": "c2-02",
+   "find": "What a beautiful drum. And that crack in the head?",
+   "replace": "What a beautiful drum. Did your father get it out of the tenement?",
+   "why": "EN follows ES fix."
+  },
+  {
+   "file": "goals",
+   "id": "c2-02",
+   "find": "Pasá, que hace frío.",
+   "replace": "Pasá, sentate.",
+   "why": "Llamadas are in midsummer; 'hace frío' is wrong."
+  },
+  {
+   "file": "goals",
+   "id": "c2-02",
+   "find": "Come in, it’s cold.",
+   "replace": "Come in, sit down.",
+   "why": "EN follows ES fix."
+  },
+  {
+   "file": "stories",
+   "id": "c2-03",
+   "find": "desde Navidad, al dispensador",
+   "replace": "desde principios de diciembre, al dispensador",
+   "why": "Plot logic: on c.26 Dec a 'since Christmas' pattern of a pack every two days is impossible to notice, and Wilkin's 4 kg loss runs from early December."
+  },
+  {
+   "file": "stories",
+   "id": "c2-03",
+   "find": "since Christmas, the napkin dispenser",
+   "replace": "since early December, the napkin dispenser",
+   "why": "EN follows ES fix."
+  },
+  {
+   "file": "stories",
+   "id": "c2-03",
+   "find": "por primera vez en un mes, todavía",
+   "replace": "por primera vez en mes y medio, todavía",
+   "why": "Consistency with the napkin timeline (early Dec to 15 Jan)."
+  },
+  {
+   "file": "stories",
+   "id": "c2-03",
+   "find": "for the first time in a month",
+   "replace": "for the first time in six weeks",
+   "why": "EN follows ES fix."
+  },
+  {
+   "file": "stories",
+   "id": "c2-03",
+   "find": "cada dos días desde Navidad?",
+   "replace": "cada dos días desde principios de diciembre?",
+   "why": "Quiz follows story fix."
+  },
+  {
+   "file": "grammar",
+   "id": "c2-03",
+   "find": "These formulas are frozen: the verb never changes (always sepa, digamos, sea).",
+   "replace": "Most of these formulas are frozen (always sepa, digamos, sea); ¡ni que…! lets you choose the verb, but keeps it in the past subjunctive.",
+   "why": "Accuracy: the card's own example (ni que estuviera) shows the verb in ni que does change."
+  },
+  {
+   "file": "gq",
+   "id": "c2-03",
+   "find": "¡Ni que…! always takes the imperfect subjunctive, even about the present.",
+   "replace": "¡Ni que…! takes the past subjunctive (here the imperfect), even about the present.",
+   "why": "Accuracy: pluperfect subjunctive is also used after ni que."
+  },
+  {
+   "file": "dialogues",
+   "id": "c2-03",
+   "find": "\"say\": \"Wow. Then we fix the menu and the real problem.",
+   "replace": "\"say\": \"OK. Then we fix the menu and, with tact, the real problem.",
+   "why": "After reply 2 ('habría que preguntárselo... sin pruebas') nothing has been revealed, so 'Wow' is a non sequitur."
+  },
+  {
+   "file": "dialogues",
+   "id": "c2-03",
+   "find": "\"en\": \"Wow. Then we fix the menu and the real problem.",
+   "replace": "\"en\": \"OK. Then we fix the menu and, tactfully, the real problem.",
+   "why": "EN follows ES fix."
+  },
+  {
+   "file": "stories",
+   "id": "c2-04",
+   "find": "una obra que el pueblo canta en contra se la acaba comiendo el monte",
+   "replace": "una obra a la que el pueblo le canta en contra se la acaba comiendo el monte",
+   "why": "Relative clause lacked its preposition ('cantarle en contra a algo'); non-standard in narration."
+  },
+  {
+   "file": "stories",
+   "id": "c2-04",
+   "find": "“I haven’t written it, dear. I swear",
+   "replace": "“I didn’t write it, dear. I swear",
+   "why": "EN: natural English uses the simple past here."
+  },
+  {
+   "file": "grammar",
+   "id": "c2-04",
+   "find": "In Spanish oral poetry these combine with assonant rhyme (corriendo / durmiendo).",
+   "replace": "In Spanish oral poetry these combine with rhyme (corriendo / durmiendo is a full rhyme; most coplas rhyme by assonance).",
+   "why": "Wrong claim: corriendo/durmiendo is consonant (full) rhyme, not assonant."
+  },
+  {
+   "file": "grammar",
+   "id": "c2-04",
+   "find": "or choosing the wrong one (*Los planos lo habían dibujado)",
+   "replace": "or, in standard Spanish, choosing the wrong one (*Los planos la habían dibujado)",
+   "why": "The card itself presents Andean invariable lo as legitimate, so starring 'Los planos lo' contradicts it."
+  },
+  {
+   "file": "grammar",
+   "id": "c2-04",
+   "find": "With a fronted direct object the copy is obligatory",
+   "replace": "With a fronted definite direct object the copy is obligatory",
+   "why": "Accuracy (focus fronting takes no clitic)."
+  },
+  {
+   "file": "gq",
+   "id": "c2-04",
+   "find": "Complete: «Los planos ___ habían dibujado",
+   "replace": "Complete in standard Spanish: «Los planos ___ habían dibujado",
+   "why": "Ambiguity: per the card, Andean invariable 'lo' is also acceptable."
+  },
+  {
+   "file": "gq",
+   "id": "c2-04",
+   "find": "\"options\": [\"lo\", \"la\", \"les\", \"los\"]",
+   "replace": "\"options\": [\"le\", \"la\", \"les\", \"los\"]",
+   "why": "Removes second defensible answer (invariable lo)."
+  },
+  {
+   "file": "dialogues",
+   "id": "c2-04",
+   "find": "I haven't written it, dear.",
+   "replace": "I didn't write it, dear.",
+   "why": "EN naturalness (matches story EN)."
+  },
+  {
+   "file": "stories",
+   "id": "c2-05",
+   "find": "Ojalá sea falsa, y ya está.",
+   "replace": "Ojalá sea falsa, y listo.",
+   "why": "'y ya está' is Peninsular; Salvadoran usage is 'y listo'/'y ya'."
+  },
+  {
+   "file": "stories",
+   "id": "c2-05",
+   "find": "con un comentario lleno de faltas",
+   "replace": "con un comentario tan breve como temerario",
+   "why": "The quoted comment has no spelling mistakes; new wording also hints at the self-incriminating detail."
+  },
+  {
+   "file": "stories",
+   "id": "c2-05",
+   "find": "with a comment full of spelling mistakes",
+   "replace": "with a comment as brief as it was reckless",
+   "why": "EN follows ES fix."
+  },
+  {
+   "file": "stories",
+   "id": "c2-05",
+   "find": "las ollas de enseñar en fila, las fichas",
+   "replace": "las ollas de enseñar en fila, que a nadie se le había ocurrido contar, las fichas",
+   "why": "Plot hole: once they suspect a replica (Wed), why is the storeroom only checked on Friday? Acknowledge the oversight."
+  },
+  {
+   "file": "stories",
+   "id": "c2-05",
+   "find": "the teaching pots in a row, the cards",
+   "replace": "the teaching pots in a row, which nobody had thought to count, the cards",
+   "why": "EN follows ES fix."
+  },
+  {
+   "file": "stories",
+   "id": "c2-05",
+   "find": "and drove down to the site with Dayana at the wheel",
+   "replace": "and went down to the site with Dayana at the wheel",
+   "why": "EN: he does not drive; Dayana does."
+  },
+  {
+   "file": "gq",
+   "id": "c2-05",
+   "find": "Yesenia thinks the hope is unlikely to come true.",
+   "replace": "Neftalí thinks the hope is unlikely to come true.",
+   "why": "Wrong attribution: «Ojalá fuera tan fácil, niña» is Neftalí's line."
+  },
+  {
+   "file": "dialogues",
+   "id": "c2-05",
+   "find": "no lo dice ningún dato",
+   "replace": "no lo respalda ningún dato",
+   "why": "Collocation: data 'support' (respaldar) a claim; matches EN 'isn't backed by'."
+  }
+ ],
+ "report": {
+  "c2-01": {
+   "grade": "A- : genuinely C2 (dry judicial irony, truncated refranes, mood-for-stance all natural and spread), excellent cabina clue; one age/timeline slip fixed",
+   "issues_fixed": [
+    "Timeline: Fali (58) could not have heard a 1984 tape 'con nueve años' -> quince/instituto (+EN)",
+    "Logic: she goes down to the storeroom FOR the cassette box (box was in the trastero she was clearing)",
+    "Agreement: '—grabados de la radio—' with no masculine plural referent",
+    "EN 'the judge's children plagiarise' (Spanish twists 'casa', not children) in story + role-play",
+    "EN 'The theatre brought the house down' -> 'The house came down'",
+    "Card + gq: '¡ni que…! always/needs the imperfect subjunctive' (pluperfect subjunctive also standard)",
+    "Role-play: 'a la señoría' -> 'a su señoría'; Fali 'grabé ese ensayo' contradicts story (nephew posted it)",
+    "Goal opener 'tres días antes de tu actuación' contradicts the story (visit is the day before)"
+   ],
+   "issues_open": [
+    "'El tercer cuplé' on the 1984 tape: COAC groups sing two cuplés per performance; a carnival expert may prefer 'el segundo'",
+    "Plausibility of a sitting judge on the COAC jury 15 years ago (writer flagged)",
+    "Cádiz speech items (ustedes os creéis, quilla to a 63-year-old, jartible, levantar un chiste) and verse metre for a carnival author",
+    "'no está nada mal' explained as 'strong approval' in the card: range is moderate-to-strong; acceptable"
+   ]
+  },
+  "c2-02": {
+   "grade": "A : the strongest of the five; free indirect speech, ellipsis and Rioplatense dislocation are literary and natural; facts verified (3 Dec 1978 eviction, Cuareim 1080, Martínez Reina factory in Capurro, Ley 18.059)",
+   "issues_fixed": [
+    "Timeline: 'llevaba doce días durmiendo mal' at the repair, 2-3 days after finding the crack -> tres noches (+EN)",
+    "'palillos' -> 'palos' (candombe is played with one palo)",
+    "Card: clitic 'obligatory' with any fronted object -> definite topic (focus fronting takes none)",
+    "Role-play: 'hace frío' in Montevideo's midsummer (dialogue + goal opener); learner switches vos/usted with don Obdulio; opener reply asked about a crack in a drum already repaired; gender-assuming 'amiga'"
+   ],
+   "issues_open": [
+    "Montevideo check: 'palos' vs 'palillos', caldera (kettle), chusma, saco in February, comparsa order",
+    "Current use of the Cuareim 1080 site ('cooperativa de viviendas') not re-verified; the Mediomundo surnames on the list should not match a prominent real family",
+    "Afro-Hispanic lexicon topic is thin on true loanwords (story uses Spanish-based candombe terms; card admits this): owner may accept"
+   ]
+  },
+  "c2-03": {
+   "grade": "B+ : lively, well-clued and the code-switching is purposeful, but lighter C2 (more C1+ banter) and the napkin timeline had a hole; institutional realism needs an owner call",
+   "issues_fixed": [
+    "Plot hole: napkin pattern 'desde Navidad' noticed c.26 Dec and inconsistent with a weight loss from early December -> 'desde principios de diciembre' + payoff 'mes y medio' + quiz q2 (+EN)",
+    "Card: 'the verb never changes' contradicted by its own ni que estuviera example",
+    "gq why: ni que 'always' imperfect subjunctive",
+    "Role-play closing 'Wow…' was a non sequitur after the cautious reply branch"
+   ],
+   "issues_open": [
+    "Realism: MLB rules limit unsigned prospects' stays at team academies (e.g. 15 days in any 45 near eligibility), yet Wilkin eats there for weeks among 'ochenta muchachos'; owner may reframe as a showcase/training camp or accept as fiction",
+    "A 14-year-old hired as kitchen hand: DR labour code allows 14+ with restrictions; consider 'de ayudante, por las tardes y con permiso de su mamá' or a teacher note",
+    "'no está nada mal, para una dieta que nunca ha visto un plátano' said of Courtney's dough is strained (works perfectly in the role-play about Plan B); keep or reword story + card + concepts together",
+    "The 'machine-translated' WhatsApp report reads as fluent Spanish, so the joke does not land; a calque or two would help",
+    "'Mind yuh business', '¿Qué lo que?', jevi, ponerse para su número, el sazón: eastern Dominican / cocolo speaker check",
+    "Guloya instruments: sources give flauta, tambora/bombo, redoblante, triángulo; 'tambores y pitos' acceptable"
+   ]
+  },
+  "c2-04": {
+   "grade": "A- : real C2 (Andean evidentials, stance diminutives, oral-poetry rhetoric), superb double-meaning copla and literal-oath payoff; card errors fixed",
+   "issues_fixed": [
+    "Relative clause 'una obra que el pueblo canta en contra' -> 'a la que el pueblo le canta en contra'",
+    "Card: corriendo/durmiendo called assonant rhyme (it is full rhyme)",
+    "Card starred '*Los planos lo habían dibujado' while presenting Andean invariable lo as legitimate; gq item then had two defensible answers (lo/los) -> stem 'in standard Spanish' and option lo -> le",
+    "EN 'I haven't written it' -> 'I didn't write it' (story + role-play)"
+   ],
+   "issues_open": [
+    "Surname Pinedo evokes the Afro-Bolivian royal house (Julio Pinedo, Mururata): owner may rename the foreman",
+    "Simona apparently did not know her grandfather lies in the old cemetery ('si no me equivoco'): fine as politeness, but a reader may query it",
+    "Jacinta's tú vs vos with Simona, invariable lo for an elder (respectful, not caricature?), saya details (who sings coplas, costumes): Tocaña community check",
+    "'Mazamorra' and 'progresiva' as Bolivian engineering usage: Bolivian engineer check"
+   ]
+  },
+  "c2-05": {
+   "grade": "A- : strong C2 register contrast (rumour conditional, academic hedging, correction notice), facts accurate (Loma Caldera, 1976 silos, 1978 University of Colorado), chip clue planted in line 1; small plot hole patched",
+   "issues_fixed": [
+    "Plot hole: storeroom only checked two days after they identify a replica -> 'que a nadie se le había ocurrido contar' (+EN)",
+    "'comentario lleno de faltas' while the quoted comment has none",
+    "Peninsular 'y ya está' in Salvadoran mouth -> 'y listo'",
+    "EN 'drove down' when Dayana drives",
+    "gq attributes «Ojalá fuera tan fácil» to Yesenia (it is Neftalí's line)",
+    "Role-play collocation 'no lo dice ningún dato' -> 'no lo respalda'"
+   ],
+   "issues_open": [
+    "The stolen replica, now police evidence, back in the workshop the following Thursday: plausible but quick",
+    "First photo shows the bird 'all the way round' yet hides the rim chip: lighting explains it; optional clarifying phrase",
+    "Invented 'completed tail' by a 1990s illustrator on a real museum's panel: owner may want a teacher note that it is fiction",
+    "Salvadoran lexicon (cipote, chivo, chumpa, tacuacín, jalar agua para su molino) and vos/usted asymmetry: native check"
+   ]
+  }
+ }
+}

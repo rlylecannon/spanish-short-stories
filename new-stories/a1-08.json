@@ -1,0 +1,673 @@
+{
+ "story": {
+  "id": "a1-08",
+  "level": "A1",
+  "title": "El mapa del coco",
+  "titleEn": "The Coconut Map",
+  "teaser": "Inside an old pirate book in Cartagena, two cousins find a map that promises a treasure \"sweeter than gold.\"",
+  "emoji": "🗺️",
+  "lines": [
+   [
+    "Lina tiene once años y su <b>primo</b> Julián tiene nueve.",
+    "Lina is eleven and her cousin Julián is nine."
+   ],
+   [
+    "Viven en Cartagena, una ciudad muy vieja.",
+    "They live in Cartagena, a very old city."
+   ],
+   [
+    "En una <b>librería</b>, Lina abre un libro de <b>piratas</b>.",
+    "In a bookshop, Lina opens a book about pirates."
+   ],
+   [
+    "Dentro hay un mapa con una X y un <b>coco</b>.",
+    "Inside there is a map with an X and a coconut."
+   ],
+   [
+    "El mapa dice: «Castillo. <b>Torre del Reloj</b>. El <b>tesoro</b> es más <b>dulce</b> que el <b>oro</b>».",
+    "The map says: \"Castle. Clock Tower. The treasure is sweeter than gold.\""
+   ],
+   [
+    "—¡Tenemos que ir! —dice Julián.",
+    "\"We have to go!\" says Julián."
+   ],
+   [
+    "Van al <b>enorme</b> castillo de San Felipe.",
+    "They go to the huge San Felipe castle."
+   ],
+   [
+    "—¿Por qué es tan grande? —pregunta Julián.",
+    "\"Why is it so big?\" asks Julián."
+   ],
+   [
+    "—Porque los piratas quieren oro, y el castillo es más <b>fuerte</b> que ellos.",
+    "\"Because pirates want gold, and the castle is stronger than they are.\""
+   ],
+   [
+    "Después, tienen que caminar a la Torre del Reloj, la <b>puerta</b> de la <b>muralla</b>.",
+    "Then they have to walk to the Clock Tower, the gate in the city wall."
+   ],
+   [
+    "Al lado hay muchos <b>puestos</b> de dulces.",
+    "Next to it there are lots of sweet stalls."
+   ],
+   [
+    "Un puesto, más pequeño que los otros, tiene un <b>dibujo</b>: ¡una X y un coco!",
+    "One stall, smaller than the others, has a drawing: an X and a coconut!"
+   ],
+   [
+    "—¿Tienen el mapa? —pregunta la señora del puesto.",
+    "\"Do you have the map?\" asks the woman at the stall."
+   ],
+   [
+    "—Sí. ¿Por qué? —pregunta Lina.",
+    "\"Yes. Why?\" asks Lina."
+   ],
+   [
+    "—Porque mi hermano tiene la librería y yo tengo el tesoro.",
+    "\"Because my brother has the bookshop and I have the treasure.\""
+   ],
+   [
+    "Les da dos <b>cocadas</b> tan grandes como sus manos.",
+    "She gives them two cocadas as big as their hands."
+   ],
+   [
+    "—¡Este tesoro es <b>mejor</b> que el oro! —dice Julián.",
+    "\"This treasure is better than gold!\" says Julián."
+   ],
+   [
+    "Mañana tienen que buscar otro libro de piratas.",
+    "Tomorrow they have to look for another pirate book."
+   ]
+  ],
+  "vocab": [
+   [
+    "el primo",
+    "cousin (male)"
+   ],
+   [
+    "la librería",
+    "bookshop"
+   ],
+   [
+    "el pirata",
+    "pirate"
+   ],
+   [
+    "el mapa",
+    "map (masculine: el mapa)"
+   ],
+   [
+    "el coco",
+    "coconut"
+   ],
+   [
+    "el castillo",
+    "castle, fort"
+   ],
+   [
+    "la Torre del Reloj",
+    "the Clock Tower (main gate of Cartagena's old city)"
+   ],
+   [
+    "el tesoro",
+    "treasure"
+   ],
+   [
+    "dulce",
+    "sweet; los dulces = sweets, candy"
+   ],
+   [
+    "el oro",
+    "gold"
+   ],
+   [
+    "enorme",
+    "huge"
+   ],
+   [
+    "fuerte",
+    "strong"
+   ],
+   [
+    "la puerta",
+    "gate; door"
+   ],
+   [
+    "la muralla",
+    "city wall"
+   ],
+   [
+    "el puesto",
+    "stall, stand"
+   ],
+   [
+    "el dibujo",
+    "drawing"
+   ],
+   [
+    "la cocada",
+    "cocada (coconut sweet from Colombia's Caribbean coast)"
+   ],
+   [
+    "mejor",
+    "better"
+   ],
+   [
+    "buscar",
+    "to look for"
+   ]
+  ],
+  "quiz": [
+   {
+    "q": "¿Dónde encuentra Lina el mapa?",
+    "options": [
+     "En el castillo de San Felipe",
+     "En un puesto de dulces",
+     "En un libro de piratas",
+     "En la Torre del Reloj"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "¿Qué es el tesoro?",
+    "options": [
+     "Oro de los piratas",
+     "Dulces de coco",
+     "Un libro viejo",
+     "Un castillo pequeño"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "¿Quién pone el mapa en el libro, probablemente?",
+    "options": [
+     "Un pirata",
+     "Julián",
+     "Lina",
+     "El hermano de la señora"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "En el cuento, «un puesto» es…",
+    "options": [
+     "una puerta grande",
+     "un túnel oscuro",
+     "un barco de piratas",
+     "un lugar pequeño para vender cosas"
+    ],
+    "answer": 3
+   }
+  ],
+  "prompt": "Imagine a treasure map of your town. In Spanish, write 3-4 clues in the present tense with tener que + infinitive and a comparison with más … que (for example: Primero, tienes que ir al parque. El parque es más grande que la plaza. El tesoro es más dulce que...).",
+  "concepts": {
+   "grammar": "tener que + infinitive (tenemos que ir); comparisons with más … que, mejor que, tan … como; tener for age and having; ¿por qué? and porque.",
+   "vocabulary": "Treasure-hunt and old-city words: mapa, tesoro, castillo, muralla, puesto, cocada.",
+   "skills": "Following clues in a short mystery; comparing places and things; reading a story with a sweet twist."
+  }
+ },
+ "grammar": [
+  {
+   "topic": "Tener que + infinitive",
+   "explain": "'Tener que' + infinitive means 'have to': tenemos que ir (we have to go). Only tener changes: tengo que, tienes que, tiene que, tenemos que, tienen que. Watch out: don't drop 'que' ('tenemos ir' is wrong), and keep the second verb in the infinitive.",
+   "examples": [
+    [
+     "—¡Tenemos que ir! —dice Julián.",
+     "\"We have to go!\" says Julián."
+    ],
+    [
+     "Después, tienen que caminar a la Torre del Reloj.",
+     "Then they have to walk to the Clock Tower."
+    ],
+    [
+     "Mañana tienen que buscar otro libro de piratas.",
+     "Tomorrow they have to look for another pirate book."
+    ]
+   ]
+  },
+  {
+   "topic": "Comparing with más … que",
+   "explain": "To compare, use 'más + adjective + que' = 'more … than' or '-er than': más dulce que (sweeter than), más pequeño que (smaller than). The adjective agrees with the noun. For 'better', say 'mejor que'; for 'as … as', say 'tan … como'. Watch out: use 'que', not 'de' or 'como', after más.",
+   "examples": [
+    [
+     "El tesoro es más dulce que el oro.",
+     "The treasure is sweeter than gold."
+    ],
+    [
+     "Un puesto, más pequeño que los otros, tiene un dibujo.",
+     "One stall, smaller than the others, has a drawing."
+    ],
+    [
+     "—¡Este tesoro es mejor que el oro! —dice Julián.",
+     "\"This treasure is better than gold!\" says Julián."
+    ],
+    [
+     "Les da dos cocadas tan grandes como sus manos.",
+     "She gives them two cocadas as big as their hands."
+    ]
+   ]
+  },
+  {
+   "topic": "Tener: age and having",
+   "explain": "Spanish uses 'tener' for age: Lina tiene once años = Lina is eleven (literally 'has eleven years'). Ask: ¿Cuántos años tienes? Tener also means to have or own: mi hermano tiene la librería. Watch out: never use ser or estar for age ('Lina es once años' is wrong).",
+   "examples": [
+    [
+     "Lina tiene once años y su primo Julián tiene nueve.",
+     "Lina is eleven and her cousin Julián is nine."
+    ],
+    [
+     "—Porque mi hermano tiene la librería y yo tengo el tesoro.",
+     "\"Because my brother has the bookshop and I have the treasure.\""
+    ],
+    [
+     "—¿Cuántos años tienes? —Tengo nueve años.",
+     "\"How old are you?\" \"I'm nine.\""
+    ]
+   ]
+  },
+  {
+   "topic": "¿Por qué? and porque",
+   "explain": "'¿Por qué?' (two words, with an accent) asks 'why?'. 'Porque' (one word, no accent) answers 'because'. Watch out: they sound almost the same, so the difference shows in writing: question = ¿por qué?, answer = porque.",
+   "examples": [
+    [
+     "—¿Por qué es tan grande? —pregunta Julián.",
+     "\"Why is it so big?\" asks Julián."
+    ],
+    [
+     "—Porque los piratas quieren oro, y el castillo es más fuerte que ellos.",
+     "\"Because pirates want gold, and the castle is stronger than they are.\""
+    ],
+    [
+     "—Sí. ¿Por qué? —pregunta Lina.",
+     "\"Yes. Why?\" asks Lina."
+    ]
+   ]
+  }
+ ],
+ "gq": [
+  {
+   "topic": "Tener que + infinitive",
+   "q": "Which sentence means 'We have to go!'?",
+   "options": [
+    "¡Tenemos ir!",
+    "¡Tenemos que vamos!",
+    "¡Tenemos que ir!",
+    "¡Tenemos de ir!"
+   ],
+   "answer": 2,
+   "why": "'Tener que' + infinitive = have to. Keep 'que' and use the infinitive (ir), not a conjugated verb."
+  },
+  {
+   "topic": "Comparing with más … que",
+   "q": "Complete: El tesoro es más dulce ___ el oro.",
+   "options": [
+    "de",
+    "que",
+    "como",
+    "más"
+   ],
+   "answer": 1,
+   "why": "Comparisons use 'más + adjective + que'. 'De' and 'como' are typical English-speaker mistakes here."
+  },
+  {
+   "topic": "Tener: age and having",
+   "q": "Julián is nine. How do you say it in Spanish?",
+   "options": [
+    "Julián es nueve años.",
+    "Julián está nueve años.",
+    "Julián tiene nueve años.",
+    "Julián hay nueve años."
+   ],
+   "answer": 2,
+   "why": "Spanish uses tener for age: Julián tiene nueve años, literally 'has nine years'."
+  },
+  {
+   "topic": "¿Por qué? and porque",
+   "q": "Complete: —¿___ es tan grande el castillo? —___ los piratas quieren oro.",
+   "options": [
+    "Porque / Por qué",
+    "Por qué / Porque",
+    "Por qué / Por qué",
+    "Porque / Porque"
+   ],
+   "answer": 1,
+   "why": "'¿Por qué?' (two words, accent) asks why; 'porque' (one word) answers because."
+  },
+  {
+   "topic": "Tener que + infinitive",
+   "q": "Complete: Mañana Lina y Julián ___ buscar otro libro.",
+   "options": [
+    "tienen que",
+    "tiene que",
+    "tienen",
+    "tienen de"
+   ],
+   "answer": 0,
+   "why": "The subject is plural (Lina y Julián), so tener becomes 'tienen', and you still need 'que' before the infinitive.",
+   "x": true
+  },
+  {
+   "topic": "Comparing with más … que",
+   "q": "How do you say 'This treasure is better than gold'?",
+   "options": [
+    "Este tesoro es más bueno de el oro.",
+    "Este tesoro es mejor que el oro.",
+    "Este tesoro es más mejor que el oro.",
+    "Este tesoro es mejor como el oro."
+   ],
+   "answer": 1,
+   "why": "'Better' is the special form 'mejor' (not 'más mejor'), followed by 'que'.",
+   "x": true
+  },
+  {
+   "topic": "Tener: age and having",
+   "q": "Which sentence uses 'tener' to say what someone owns?",
+   "options": [
+    "Lina tiene once años.",
+    "Mi hermano tiene la librería.",
+    "¿Cuántos años tienes?",
+    "Tenemos que ir."
+   ],
+   "answer": 1,
+   "why": "'Tiene la librería' means he has/owns the bookshop. The age sentences use tener for age, and 'tenemos que' means 'have to'.",
+   "x": true
+  },
+  {
+   "topic": "¿Por qué? and porque",
+   "q": "Lina asks '¿Por qué?'. Which answer is written correctly?",
+   "options": [
+    "Por qué mi hermano tiene la librería.",
+    "Porqué mi hermano tiene la librería.",
+    "Porque mi hermano tiene la librería.",
+    "¿Por qué mi hermano tiene la librería?"
+   ],
+   "answer": 2,
+   "why": "The answer 'because' is one word with no accent: porque. 'Por qué' asks 'why?', and 'porqué' is a noun meaning 'the reason'.",
+   "x": true
+  }
+ ],
+ "dialogue": {
+  "steps": [
+   {
+    "say": "¡Hola! Soy Julián. Tengo nueve años y vivo en Cartagena. Mi prima Lina tiene un mapa de piratas.",
+    "en": "Hi! I'm Julián. I'm nine and I live in Cartagena. My cousin Lina has a pirate map.",
+    "r": [
+     [
+      "¡Qué bien! ¿Dónde está el mapa?",
+      "Great! Where is the map?",
+      1
+     ],
+     [
+      "Hola, Julián. Me gustan los piratas.",
+      "Hi, Julián. I like pirates.",
+      1
+     ]
+    ]
+   },
+   {
+    "say": "El mapa está en un libro viejo de una librería. Dice: el tesoro es más dulce que el oro.",
+    "en": "The map is in an old book from a bookshop. It says: the treasure is sweeter than gold.",
+    "r": [
+     [
+      "¿Más dulce que el oro? ¡Qué raro!",
+      "Sweeter than gold? How strange!",
+      2
+     ],
+     [
+      "¿Tienen que buscar el tesoro?",
+      "Do you have to look for the treasure?",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "Sí, tenemos que ir al castillo de San Felipe. Es enorme, más grande que mi escuela.",
+    "en": "Yes, we have to go to San Felipe castle. It's huge, bigger than my school.",
+    "r": [
+     [
+      "¿Por qué es tan grande?",
+      "Why is it so big?",
+      3
+     ],
+     [
+      "¿Tiene túneles?",
+      "Does it have tunnels?",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "Porque los piratas quieren oro. Después, tenemos que caminar a la Torre del Reloj.",
+    "en": "Because pirates want gold. Then we have to walk to the Clock Tower.",
+    "r": [
+     [
+      "¿Qué hay en la Torre del Reloj?",
+      "What is at the Clock Tower?",
+      4
+     ],
+     [
+      "¿Hay dulces allí?",
+      "Are there sweets there?",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "Hay muchos puestos de dulces. Un puesto tiene un dibujo con una X y un coco.",
+    "en": "There are lots of sweet stalls. One stall has a drawing with an X and a coconut.",
+    "r": [
+     [
+      "¡Es el tesoro! ¿Qué es?",
+      "It's the treasure! What is it?",
+      5
+     ],
+     [
+      "¿Y la señora tiene el tesoro?",
+      "And does the woman have the treasure?",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "Sí, son cocadas, dulces de coco. ¡Mi tesoro es mejor que el oro!",
+    "en": "Yes, they're cocadas, coconut sweets. My treasure is better than gold!",
+    "end": true
+   }
+  ]
+ },
+ "scene": {
+  "items": [
+   {
+    "t": "person",
+    "x": 205,
+    "y": 250,
+    "s": 0.68,
+    "skin": "e",
+    "hair": "bun",
+    "outfit": "apron",
+    "pose": "wave"
+   },
+   {
+    "t": "obj",
+    "n": "stall",
+    "x": 205,
+    "y": 250,
+    "s": 1.5
+   },
+   {
+    "t": "svg",
+    "x": 205,
+    "y": 200,
+    "s": 1,
+    "svg": "<circle cx='-40' cy='-6' r='9'/><circle cx='-20' cy='-6' r='9'/><circle cx='0' cy='-6' r='9'/><circle cx='20' cy='-6' r='9'/><circle cx='40' cy='-6' r='9'/>"
+   },
+   {
+    "t": "person",
+    "x": 75,
+    "y": 250,
+    "s": 0.85,
+    "skin": "c",
+    "hair": "ponytail",
+    "outfit": "dress",
+    "pose": "hold"
+   },
+   {
+    "t": "obj",
+    "n": "map",
+    "x": 108,
+    "y": 180,
+    "s": 0.55
+   },
+   {
+    "t": "person",
+    "x": 335,
+    "y": 250,
+    "s": 0.72,
+    "flip": true,
+    "skin": "d",
+    "hair": "short",
+    "outfit": "tee",
+    "pose": "cheer"
+   }
+  ],
+  "vb": [
+   20,
+   40,
+   360,
+   260
+  ],
+  "country": "Colombia",
+  "ink": [
+   "#0f5c6e",
+   "#e8743b"
+  ]
+ },
+ "culture": {
+  "country": "Colombia",
+  "city": "Cartagena",
+  "landmark": "Torre del Reloj (Clock Tower gate)",
+  "culture": "Colombian (Caribbean coast)",
+  "caption": "The Torre del Reloj is the main gate into Cartagena's walled old city, a UNESCO World Heritage site.",
+  "prompt": "Colombian (Caribbean coast) setting. Location: Cartagena de Indias, Colombia. The famous landmark Torre del Reloj (Clock Tower gate) must be clearly visible and recognizable in the image. A sunny late afternoon at the Portal de los Dulces beside the Plaza de los Coches in Cartagena's walled old city: a row of small sweet stalls under the stone arcade, glass jars and trays of cocadas (coconut sweets), alegrías and panelitas, colorful colonial balconies with bougainvillea, warm Caribbean light. Behind the stalls, the yellow Torre del Reloj with its clock and arched gateway in the old city wall is clearly visible. No people. Keep the lower-left third of the frame open (clear floor, ground or table space) so a drawn character can be added. Photorealistic photograph, natural light, soft warm color grade, slightly muted colors, eye-level camera, shallow depth of field, 4:3 landscape, high resolution. No text, no logos, no watermarks. Landmark to show: Torre del Reloj (Clock Tower gate).",
+  "use": "Hybrid (drawn characters added)"
+ },
+ "gen": "f",
+ "dict": {
+  "cartagena": [
+   [
+    "Cartagena",
+    "name",
+    "Cartagena (city on Colombia's Caribbean coast)"
+   ]
+  ],
+  "castillo": [
+   [
+    "el castillo",
+    "noun",
+    "castle, fort"
+   ]
+  ],
+  "cocadas": [
+   [
+    "la cocada",
+    "noun",
+    "cocada (coconut sweet)"
+   ]
+  ],
+  "coco": [
+   [
+    "el coco",
+    "noun",
+    "coconut"
+   ]
+  ],
+  "dibujo": [
+   [
+    "el dibujo",
+    "noun",
+    "drawing"
+   ],
+   [
+    "dibujar",
+    "verb",
+    "(I) draw"
+   ]
+  ],
+  "dulces": [
+   [
+    "el dulce",
+    "noun",
+    "sweets, candy"
+   ],
+   [
+    "dulce",
+    "adj",
+    "sweet"
+   ]
+  ],
+  "felipe": [
+   [
+    "Felipe",
+    "name",
+    "Felipe (San Felipe = the San Felipe castle)"
+   ]
+  ],
+  "julián": [
+   [
+    "Julián",
+    "name",
+    "Julián (boy's name)"
+   ]
+  ],
+  "lina": [
+   [
+    "Lina",
+    "name",
+    "Lina (girl's name)"
+   ]
+  ],
+  "muralla": [
+   [
+    "la muralla",
+    "noun",
+    "city wall"
+   ]
+  ],
+  "oro": [
+   [
+    "el oro",
+    "noun",
+    "gold"
+   ]
+  ],
+  "piratas": [
+   [
+    "el pirata",
+    "noun",
+    "pirates"
+   ]
+  ],
+  "puestos": [
+   [
+    "el puesto",
+    "noun",
+    "stalls, stands"
+   ]
+  ],
+  "torre": [
+   [
+    "la torre",
+    "noun",
+    "tower"
+   ]
+  ],
+  "x": [
+   [
+    "x",
+    "noun",
+    "X (the letter x)"
+   ]
+  ]
+ }
+}

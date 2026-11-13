@@ -1,0 +1,750 @@
+{
+ "a2-01": [
+  {
+   "topic": "Regular preterite: -ó and -ió",
+   "explain": "The preterite tells what happened: finished actions, one after another. He/she form: -ar verbs add -ó (llegar > llegó, mirar > miró); -er/-ir verbs add -ió (correr > corrió, subir > subió). They form: -aron / -ieron (llegaron, corrieron). Watch out: the accent changes the meaning. Llegó = she arrived; llego = I arrive.",
+   "examples": [
+    [
+     "Ana llegó tarde a la estación de Madrid.",
+     "Ana arrived late at the Madrid station."
+    ],
+    [
+     "Luego miró el andén número cuatro.",
+     "Then she looked at platform number four."
+    ],
+    [
+     "Los dos corrieron a la calle y subieron al autobús.",
+     "The two of them ran to the street and got on the bus."
+    ]
+   ]
+  },
+  {
+   "topic": "Irregular preterite: vio, dijo",
+   "explain": "Some very common verbs are irregular in the preterite. Ver > vio: like other one-syllable forms (dio, fue), it has no written accent. Decir changes its stem to dij- and ends in -o, not -ió: dijo; they: dijeron (not 'dijieron'). Learn these as whole words. Watch out: 'vió' and 'dició' are typical learner mistakes.",
+   "examples": [
+    [
+     "Ana vio su teléfono: tenía un mensaje de su madre.",
+     "Ana looked at her phone: she had a message from her mother."
+    ],
+    [
+     "—Perdí el tren de las nueve —dijo Ana.",
+     "\"I missed the nine o'clock train,\" said Ana."
+    ],
+    [
+     "—¡Qué suerte! —dijo Ana.",
+     "\"What luck!\" said Ana."
+    ]
+   ]
+  },
+  {
+   "topic": "Ir a + infinitive, and ir a + place",
+   "explain": "Ir a + infinitive talks about the near future: voy a llegar = I'm going to arrive. Ir a + place is simple movement: voy a Valencia = I'm going to Valencia. Check what follows the a: a verb means a plan, a place means a destination. Watch out: never drop the a ('voy llegar' is wrong), and a + el = al: vamos al pueblo.",
+   "examples": [
+    [
+     "Perdí el tren, pero voy a llegar primero.",
+     "I missed the train, but I'm going to arrive first."
+    ],
+    [
+     "Me llamo Pablo y también voy a Valencia.",
+     "My name is Pablo and I'm going to Valencia too."
+    ],
+    [
+     "Ana va a ir a la boda de su hermana.",
+     "Ana is going to go to her sister's wedding."
+    ]
+   ]
+  },
+  {
+   "topic": "Reflexive verbs: se sentó, se casa",
+   "explain": "Reflexive verbs carry a pronoun that matches the subject: me llamo, te llamas, se sentó. Some change meaning: sentar = to seat someone, sentarse = to sit down; casarse = to get married (to marry someone = casarse con alguien). The present can describe a scheduled event: se casa a las cinco = she's getting married at five. Watch out: se is not 'herself' here.",
+   "examples": [
+    [
+     "Ana se sentó en un banco y lloró un poco.",
+     "Ana sat down on a bench and cried a little."
+    ],
+    [
+     "Mi hermana se casa a las cinco.",
+     "My sister is getting married at five."
+    ],
+    [
+     "Me llamo Pablo.",
+     "My name is Pablo. (lit. I call myself Pablo.)"
+    ]
+   ]
+  }
+ ],
+ "a2-02": [
+  {
+   "topic": "Preterite of regular and irregular verbs",
+   "explain": "Use the preterite for finished actions in a story. Regular: abrió, salió, caminó. Irregular: ser and ir share fue, dar > dio, ver > vio (short forms, no written accent). Context tells you what fue means: fue el cumpleaños (was), fue al mercado (went). Watch out: dio and fue, not 'dió' or 'fué'.",
+   "examples": [
+    [
+     "Sofía abrió la caja y vio un papel y una llave.",
+     "Sofía opened the box and saw a piece of paper and a key."
+    ],
+    [
+     "Ayer fue el cumpleaños de Sofía en Guadalajara.",
+     "Yesterday was Sofía's birthday in Guadalajara."
+    ],
+    [
+     "Doña Lupe le dio una bolsa de mangos y otro papel.",
+     "Doña Lupe gave her a bag of mangoes and another note."
+    ]
+   ]
+  },
+  {
+   "topic": "Tú commands: ve, busca, lleva",
+   "explain": "To tell a friend to do something (positive tú command), use the he/she present form: busca (buscar), lleva (llevar), camina (caminar). A few common verbs have short irregular commands: ir > ve, venir > ven, hacer > haz, poner > pon, salir > sal, decir > di, tener > ten. Watch out: 'go!' is ve, not vas or va.",
+   "examples": [
+    [
+     "Primero, ve al mercado y busca a Doña Lupe.",
+     "First, go to the market and look for Doña Lupe."
+    ],
+    [
+     "Luego, lleva los mangos a la panadería de la plaza.",
+     "Then take the mangoes to the bakery on the square."
+    ],
+    [
+     "¡Ve!",
+     "Go!"
+    ]
+   ]
+  },
+  {
+   "topic": "Object pronouns: le dio, te lo regala",
+   "explain": "Indirect pronouns say to/for whom: me, te, le (to him/her/you), nos, les. They go before a conjugated verb: le dio = gave (to) her. With two pronouns, the indirect one comes first, then the direct one: te lo regala = gives it to you (lo = the puppy, el cachorro). Watch out: 'gave her a bag' is le dio, not la dio, because she receives the bag.",
+   "examples": [
+    [
+     "Doña Lupe le dio una bolsa de mangos y otro papel.",
+     "Doña Lupe gave her a bag of mangoes and another note."
+    ],
+    [
+     "Ella te lo regala.",
+     "She's giving him to you (as a gift)."
+    ],
+    [
+     "El panadero tomó los mangos y le dio un pan dulce.",
+     "The baker took the mangoes and gave her a sweet bun."
+    ]
+   ]
+  },
+  {
+   "topic": "Sequence and time words",
+   "explain": "Time words put events in order: primero (first), luego / después (then, afterwards), entonces (then, at that moment), al final (in the end). Ayer = yesterday; por la mañana / por la tarde = in the morning / in the afternoon. Watch out: de la mañana is only used after a clock time: a las seis de la mañana = at six in the morning.",
+   "examples": [
+    [
+     "Por la mañana, su abuelo Rafael llegó con una caja azul.",
+     "In the morning, her grandfather Rafael came with a blue box."
+    ],
+    [
+     "Después, corrió por la calle Hidalgo con la llave en la mano.",
+     "After that, she ran along Hidalgo Street with the key in her hand."
+    ],
+    [
+     "Entonces, un perro pequeño salió y saltó a sus brazos.",
+     "Then a small dog came out and jumped into her arms."
+    ]
+   ]
+  }
+ ],
+ "a2-03": [
+  {
+   "topic": "Regular preterite: cortó, cocinó, probó",
+   "explain": "Mateo's cooking steps are regular preterites. -ar verbs: yo -é (tomé), he/she -ó (cortó, cocinó, probó). -er/-ir verbs: yo -í (comí), he/she -ió (decidió). Probar changes in the present (pruebo) but not in the preterite (probó). Watch out: the written accent changes the meaning. Cocinó = he cooked, cocino = I cook; tomé = I took, tomo = I take.",
+   "examples": [
+    [
+     "Mateo cortó la carne y la cebolla.",
+     "Mateo cut the meat and the onion."
+    ],
+    [
+     "Mateo probó el plato.",
+     "Mateo tasted the dish."
+    ],
+    [
+     "Tomé el autobús de las seis de la mañana.",
+     "I took the six a.m. bus."
+    ]
+   ]
+  },
+  {
+   "topic": "Irregular preterite: fue, puso, hice, dijo",
+   "explain": "Some key verbs have irregular preterite stems and no written accent: ir/ser > fue, poner > puso, hacer > hice (I) and hizo (he/she: c becomes z), decir > dijo. Fue can mean 'went' or 'was': fue al supermercado (went), ¿Cuál fue el secreto? (What was the secret?). Watch out: hice, not 'hací' or 'hicé'.",
+   "examples": [
+    [
+     "Luego fue al supermercado y compró carne, cebolla, tomates y papas.",
+     "Then he went to the supermarket and bought meat, onion, tomatoes and potatoes."
+    ],
+    [
+     "Después, puso aceite en la sartén y cocinó la carne.",
+     "After that, he put oil in the pan and cooked the meat."
+    ],
+    [
+     "Abuela, hice tu receta, pero el sabor no es igual.",
+     "Grandma, I made your recipe, but the taste isn't the same."
+    ]
+   ]
+  },
+  {
+   "topic": "Ser vs estar",
+   "explain": "Both mean 'to be', but they aren't interchangeable. Estar: location and states or impressions right now: está rico (it tastes good), estoy en la puerta. Ser: identity, characteristics and comparisons such as no es igual (it isn't the same). Watch out: some adjectives change meaning. La comida está rica = the food tastes good; el señor es rico = the man is rich.",
+   "examples": [
+    [
+     "Está rico, pero no es igual.",
+     "It's tasty, but it's not the same."
+    ],
+    [
+     "Estoy en la puerta de tu casa.",
+     "I'm at the door of your house."
+    ],
+    [
+     "¿Por qué no está en el cuaderno?",
+     "Why isn't it in the notebook?"
+    ]
+   ]
+  },
+  {
+   "topic": "Falta, lo siento, decirlo",
+   "explain": "Faltar works like gustar: the missing thing is the subject. Falta algo = something is missing; for plurals use faltan: faltan dos ingredientes. Lo siento = I'm sorry (lit. I feel it). Object pronouns can attach to an infinitive: no puedo decirlo = no lo puedo decir = I can't say it. Watch out: 'I'm missing salt' is me falta sal.",
+   "examples": [
+    [
+     "Falta algo.",
+     "Something is missing."
+    ],
+    [
+     "Lo siento, pero no puedo decirlo por teléfono.",
+     "I'm sorry, but I can't say it over the phone."
+    ],
+    [
+     "Solo falta un secreto.",
+     "Only one secret is missing."
+    ]
+   ]
+  }
+ ],
+ "a2-04": [
+  {
+   "topic": "Imperfect for description and habit",
+   "explain": "The imperfect describes how things were and what used to happen: era, vivía, jugaba, tenía, tiraba. Endings: -aba for -ar verbs, -ía for -er/-ir verbs; ser is irregular (era). Siempre, todos los días and cuando era niño often signal it. Watch out: English 'played' can be one event or a habit; if 'used to' or 'would' fits, use the imperfect.",
+   "examples": [
+    [
+     "Cuando Tomás era niño, vivía en un barrio pequeño de Medellín.",
+     "When Tomás was a child, he lived in a small neighborhood in Medellín."
+    ],
+    [
+     "Todos los días jugaba al fútbol en la calle con su hermana Camila.",
+     "Every day he played soccer in the street with his sister Camila."
+    ],
+    [
+     "Siempre tiraba el balón a la izquierda.",
+     "She always kicked the ball to the left."
+    ]
+   ]
+  },
+  {
+   "topic": "Preterite for events, even irregular",
+   "explain": "The preterite moves the story forward with completed actions: puso, saltó, paró, ganó. Some verbs have irregular stems and no accent: poner > puso, saber > supe/supiste, querer > quise. In the preterite their meaning can shift: ¿cómo lo supiste? = how did you find out / know?; quise = I wanted (and tried) to. Watch out: quise, not 'querí'.",
+   "examples": [
+    [
+     "Camila puso el balón en el punto blanco.",
+     "Camila put the ball on the white spot."
+    ],
+    [
+     "Tomás saltó a la izquierda... ¡y paró el balón!",
+     "Tomás jumped to the left... and stopped the ball!"
+    ],
+    [
+     "¿Cómo lo supiste?",
+     "How did you know?"
+    ],
+    [
+     "Esta vez quise tirar a la derecha.",
+     "This time I wanted to kick to the right."
+    ]
+   ]
+  },
+  {
+   "topic": "Background plus interruption",
+   "explain": "The imperfect sets the scene: what was going on, the weather, how people felt. The preterite gives the event that happened within it: Faltaban dos minutos (background) cuando el árbitro pitó (event). Weather uses hacer: hacía sol = it was sunny. Watch out: English 'was + -ing' or 'was' describing a scene usually means imperfect; a single action ('he blew') means preterite.",
+   "examples": [
+    [
+     "Faltaban dos minutos cuando el árbitro pitó un penalti.",
+     "Two minutes were left when the referee blew his whistle for a penalty."
+    ],
+    [
+     "Hacía mucho sol y el estadio estaba lleno de gente.",
+     "It was very sunny and the stadium was full of people."
+    ],
+    [
+     "Tomás estaba muy nervioso, pero recordó algo.",
+     "Tomás was very nervous, but he remembered something."
+    ]
+   ]
+  },
+  {
+   "topic": "Estar + gerund (ongoing action)",
+   "explain": "Estar + gerund (-ar > -ando, -er/-ir > -iendo) shows an action in progress. In the imperfect (estaba esperando) it was in progress at that moment in the past. Pronouns go before estar or attach to the gerund: los estaba esperando = estaba esperándolos. Watch out: use the gerund (esperando), not the participle (esperado).",
+   "examples": [
+    [
+     "Los padres y los abuelos estaban gritando y cantando.",
+     "The parents and grandparents were shouting and singing."
+    ],
+    [
+     "Su abuela los estaba esperando con un chocolate caliente.",
+     "Their grandmother was waiting for them with hot chocolate."
+    ]
+   ]
+  }
+ ],
+ "a2-05": [
+  {
+   "topic": "Imperfect for scene-setting",
+   "explain": "The imperfect paints the background before the action starts: time, weather, places, what existed. Era una tarde fría, llovía, vivía, había. Había means 'there was' and 'there were', and it stays singular: había un chico, había muchas cajas (not 'habían'). Watch out: weather and time in a description go in the imperfect (llovía, era de noche), not the preterite.",
+   "examples": [
+    [
+     "Era una tarde fría de invierno en Santiago de Chile.",
+     "It was a cold winter afternoon in Santiago, Chile."
+    ],
+    [
+     "Llovía mucho y el viento golpeaba las ventanas.",
+     "It was raining a lot and the wind was beating against the windows."
+    ],
+    [
+     "Ella vivía en el número 7, y en la calle había un chico con una mochila roja.",
+     "She lived at number 7, and in the street there was a boy with a red backpack."
+    ]
+   ]
+  },
+  {
+   "topic": "Estar + gerund",
+   "explain": "Form: estar + gerund (-ar > -ando, -er/-ir > -iendo; leer > leyendo). It describes an action in progress; with estaba, it was in progress at that past moment. A gerund can also show how someone did something: bajó corriendo = she hurried out (lit. got out running). Watch out: Spanish doesn't use this form for plans: 'I'm working tomorrow' = trabajo mañana.",
+   "examples": [
+    [
+     "Valentina estaba en su sala, tomando té y mirando una serie.",
+     "Valentina was in her living room, drinking tea and watching a series."
+    ],
+    [
+     "Estaba trabajando y no tenía batería en mi teléfono nuevo.",
+     "I was working and my new phone had no battery."
+    ],
+    [
+     "La mamá de Nicolás bajó corriendo con las llaves en la mano.",
+     "Nicolás's mother hurried out of the car with the keys in her hand."
+    ]
+   ]
+  },
+  {
+   "topic": "Preterite for sudden events",
+   "explain": "The preterite gives the actions that happen against the background: sonó, leyó, respondió, salió. Phrases like de repente (suddenly) and un minuto después point to a single event. Spelling: when the stem ends in a vowel, -ió becomes -yó: leer > leyó, oír > oyó. Watch out: 'leió' is wrong.",
+   "examples": [
+    [
+     "De repente, su teléfono sonó.",
+     "Suddenly, her phone rang."
+    ],
+    [
+     "Valentina leyó el mensaje dos veces.",
+     "Valentina read the message twice."
+    ],
+    [
+     "Salió de casa y caminó hasta la puerta azul.",
+     "She left the house and walked to the blue door."
+    ]
+   ]
+  },
+  {
+   "topic": "Reflexive verbs",
+   "explain": "Reflexive verbs use a pronoun that matches the subject (me, te, se, nos, se): levantarse (get up), sentarse (sit down), ponerse (put on), llamarse (be called). With clothes and body parts Spanish uses el/la, not a possessive: se puso el abrigo = she put on her coat. Watch out: without se, puso el abrigo just means she put the coat somewhere.",
+   "examples": [
+    [
+     "Valentina se levantó y miró por la ventana.",
+     "Valentina got up and looked out of the window."
+    ],
+    [
+     "Luego se puso el abrigo y tomó un paraguas.",
+     "Then she put on her coat and took an umbrella."
+    ],
+    [
+     "Se llamaba Nicolás y tenía trece años.",
+     "His name was Nicolás and he was thirteen years old."
+    ]
+   ]
+  }
+ ],
+ "a2-06": [
+  {
+   "topic": "Object pronouns: le, la, gustar",
+   "explain": "La is a direct object, 'her' or 'it' for a feminine noun: la abrazó = hugged her; la guardó = kept it (the lamp). Le is indirect: to/for him or her. Gustar works backwards: the thing liked is the subject, so a Camila le gustaba el edificio = the building pleased Camila. Watch out: the verb agrees with the thing (le gustaban las ventanas), and you need the a: a Camila.",
+   "examples": [
+    [
+     "—Mamá la guardó para ti —le explicó él.",
+     "\"Mom kept it for you,\" he explained to her."
+    ],
+    [
+     "Camila se puso a llorar un poco, y Tomás la abrazó.",
+     "Camila started to cry a little, and Tomás hugged her."
+    ],
+    [
+     "El edificio era viejo, pero a Camila le gustaba mucho.",
+     "The building was old, but Camila liked it a lot."
+    ]
+   ]
+  },
+  {
+   "topic": "Tú commands with pronouns",
+   "explain": "The tú command is usually the he/she present form, stem change included: probar > prueba. Pronouns attach to the end of a positive command, and a written accent keeps the original stress: prueba + la = pruébala (try it); di + me + lo = dímelo (tell me). Watch out: don't split them ('prueba la') or put them first: la prueba means 'she tries it'.",
+   "examples": [
+    [
+     "Si necesitas ayuda, dímelo.",
+     "If you need help, tell me."
+    ],
+    [
+     "Es para ti. Pruébala.",
+     "It's for you. Try it."
+    ],
+    [
+     "Ayúdame con las cajas.",
+     "Help me with the boxes."
+    ]
+   ]
+  },
+  {
+   "topic": "Reflexives and ponerse a",
+   "explain": "Many everyday reflexives describe moving, sitting and changes: mudarse (to move house), sentarse (to sit down), encenderse (to turn on by itself: la lámpara no se encendió). Ponerse a + infinitive means 'to start doing something': se puso a llorar = she started crying. Watch out: mudarse is for moving house; moving your body is moverse.",
+   "examples": [
+    [
+     "Camila se mudó a un apartamento nuevo en Santiago el sábado por la mañana.",
+     "Camila moved into a new apartment in Santiago on Saturday morning."
+    ],
+    [
+     "Camila se puso a llorar un poco, y Tomás la abrazó.",
+     "Camila started to cry a little, and Tomás hugged her."
+    ],
+    [
+     "Camila puso la lámpara sobre la mesa, pero no se encendió.",
+     "Camila put the lamp on the table, but it didn't turn on."
+    ]
+   ]
+  },
+  {
+   "topic": "Ir a + infinitive",
+   "explain": "Ir (voy, vas, va, vamos, van) + a + infinitive says what is going to happen. Vamos a + infinitive can also mean 'let's': vamos a subir todo = we're going to / let's carry everything up. A pronoun attaches to the infinitive or goes before ir: va a darte = te va a dar (is going to give you). Watch out: don't drop the a.",
+   "examples": [
+    [
+     "Vamos a subir todo por la escalera.",
+     "We're going to carry everything up the stairs."
+    ],
+    [
+     "Esta lámpara va a darte luz y alegría.",
+     "This lamp is going to give you light and joy."
+    ],
+    [
+     "Voy a comprar una ahora mismo.",
+     "I'm going to buy one right now."
+    ]
+   ]
+  }
+ ],
+ "a2-07": [
+  {
+   "topic": "Imperfect habit vs preterite event",
+   "explain": "Use the imperfect for routines and repeated actions (tocaba, llegaba, se sentaba), often with todas las tardes or siempre. Use the preterite for a single event that breaks the routine (empezó, se rompió, volvió), often with un jueves, de repente or diez minutos después. Watch out: English 'played' can be either; ask whether it was a habit or one occasion.",
+   "examples": [
+    [
+     "Todas las tardes, Mateo tocaba la guitarra en una plaza de San Telmo, en Buenos Aires.",
+     "Every afternoon, Mateo played the guitar in a square in San Telmo, in Buenos Aires."
+    ],
+    [
+     "Un jueves, Mateo empezó una canción y de repente se rompió una cuerda.",
+     "One Thursday, Mateo started a song and suddenly a string broke."
+    ],
+    [
+     "Pero diez minutos después, la niña volvió con un señor de pelo blanco.",
+     "But ten minutes later, the girl came back with a white-haired man."
+    ]
+   ]
+  },
+  {
+   "topic": "Indirect and double pronouns",
+   "explain": "Indirect pronouns say to/for whom: me contó = told me; le cambió la cuerda = changed the string for him. When le or les comes before lo/la/los/las, it becomes se: se la mostró = showed it (la guitarra) to him; never 'le la'. Pronouns can attach to an infinitive, indirect first: pagártelo = to pay you for it.",
+   "examples": [
+    [
+     "Ella me contó que tocas muy bien.",
+     "She told me you play very well."
+    ],
+    [
+     "Mateo se la mostró.",
+     "Mateo showed it to him."
+    ],
+    [
+     "Ernesto le cambió la cuerda en cinco minutos.",
+     "Ernesto changed the string for him in five minutes."
+    ],
+    [
+     "Quiero pagártelo.",
+     "I want to pay you for it."
+    ]
+   ]
+  },
+  {
+   "topic": "Comparatives: más ... que",
+   "explain": "Más + adjective + que = more ... than / -er than: más vieja que yo = older than me. After que, use subject pronouns (yo, tú), not mí or ti. Bueno has an irregular comparative, mejor (better); with a possessive or article it means 'best': su mejor alumna = his best student. Watch out: for quality say mejor, not 'más bueno'.",
+   "examples": [
+    [
+     "Es muy bonita, pero es más vieja que yo.",
+     "It's very pretty, but it's older than I am."
+    ],
+    [
+     "Es más bonita que la radio.",
+     "It's prettier than the radio."
+    ],
+    [
+     "Julieta es su mejor alumna.",
+     "Julieta is his best student."
+    ]
+   ]
+  },
+  {
+   "topic": "Tú commands: ven, toma, toca",
+   "explain": "Positive tú commands usually match the he/she present: toca (play), toma (take; also 'here you go'). Venir is irregular: ven (come). Context shows whether toca is a command (¡Toca para nosotros!) or a statement (Mateo toca en la plaza). Watch out: ven, not 'viene' or 'vienes'. In Buenos Aires you'll also hear vos commands: vení, tocá.",
+   "examples": [
+    [
+     "Ven conmigo a la tienda.",
+     "Come with me to the shop."
+    ],
+    [
+     "Toca para nosotros.",
+     "Play for us."
+    ],
+    [
+     "—Toma —le dijo.",
+     "\"Here you go,\" he said to him."
+    ]
+   ]
+  }
+ ],
+ "a2-08": [
+  {
+   "topic": "Preterite vs imperfect",
+   "explain": "The imperfect describes background and actions in progress (había, caminaba, pensaba); the preterite tells completed events (se puso, cubrió, llegaron). The preterite can also sum up a closed period as a whole: durante la mañana, el paisaje fue precioso = the scenery was beautiful (all morning). Watch out: 'was' can be fue or era; are you summing up a finished period, or describing?",
+   "examples": [
+    [
+     "Jairo caminaba delante, pero Andrés se paró a atarse las botas.",
+     "Jairo was walking ahead, but Andrés stopped to tie his boots."
+    ],
+    [
+     "Al mediodía, el cielo se puso gris y una niebla blanca cubrió el camino.",
+     "At noon, the sky turned gray and a white fog covered the path."
+    ],
+    [
+     "Durante la mañana, el paisaje fue precioso.",
+     "During the morning, the scenery was beautiful."
+    ]
+   ]
+  },
+  {
+   "topic": "Tú commands",
+   "explain": "Positive tú commands use the he/she present form, stem changes included: camina, escucha, sigue (seguir), recuerda (recordar), prueba (probar). A pronoun attaches at the end, with an accent: pruébalo (try it). Watch out: in Lo importante es no correr, correr is an infinitive ('not to run'), not a command; a negative tú command has its own form (no corras).",
+   "examples": [
+    [
+     "Si hay niebla, camina despacio y sigue el río.",
+     "If there is fog, walk slowly and follow the river."
+    ],
+    [
+     "Recuerda lo que dijo Jairo.",
+     "Remember what Jairo said."
+    ],
+    [
+     "Pruébalo.",
+     "Try it."
+    ]
+   ]
+  },
+  {
+   "topic": "Reflexives and impersonal se",
+   "explain": "Ponerse + adjective means 'to become / get' (a change of state): se puso nervioso = he got nervous; el cielo se puso gris = the sky turned gray. The pronoun matches the subject: vamos a levantarnos (we). Se oía el viento is a different se: no person is named, so it means 'the wind could be heard'. The verb agrees with what is heard: se oían los pájaros.",
+   "examples": [
+    [
+     "Andrés se puso nervioso.",
+     "Andrés got nervous."
+    ],
+    [
+     "Mañana vamos a levantarnos a las seis.",
+     "Tomorrow we're going to get up at six."
+    ],
+    [
+     "Solo se oía el viento.",
+     "Only the wind could be heard."
+    ]
+   ]
+  },
+  {
+   "topic": "Comparatives and superlatives",
+   "explain": "Más + adjective + que = more ... than; mejor que = better than. Superlative: el/la/los/las (+ noun) + más + adjective + de: las palmas más altas del mundo = the tallest palms in the world (de, not en). Tan + adjective + que = so ... that. Watch out: tan ... como means 'as ... as': tan alto como tú.",
+   "examples": [
+    [
+     "Valle de Cocora, donde crecen las palmas más altas del mundo.",
+     "The Cocora Valley, where the tallest palm trees in the world grow."
+    ],
+    [
+     "Es mejor que el chocolate de mi casa.",
+     "It's better than the hot chocolate at my house."
+    ],
+    [
+     "Andrés estaba tan asustado que no podía pensar.",
+     "Andrés was so scared that he couldn't think."
+    ]
+   ]
+  }
+ ],
+ "a2-09": [
+  {
+   "topic": "Preterite and imperfect together",
+   "explain": "Imperfect = background and what was going on (esperaba, repasaba, la entrevista era a las diez). Preterite = the events, one after another (se despertó, chocó, ayudé). Mientras (while) usually introduces an ongoing action in the imperfect, and another event can interrupt it. Watch out: 'while I was waiting' is mientras esperaba, not 'mientras esperé'.",
+   "examples": [
+    [
+     "Mientras esperaba el metro, repasaba sus respuestas en voz baja.",
+     "While she was waiting for the subway, she was going over her answers under her breath."
+    ],
+    [
+     "Daniela se despertó a las ocho y media, porque su alarma no sonó.",
+     "Daniela woke up at eight thirty because her alarm didn't go off."
+    ],
+    [
+     "Mi alarma no sonó, se me cayó un café y después ayudé a una señora.",
+     "My alarm didn't go off, I dropped a coffee, and then I helped a lady."
+    ]
+   ]
+  },
+  {
+   "topic": "Present perfect: he/has/ha + participle",
+   "explain": "Form: he, has, ha, hemos, han + participle (-ar > -ado, -er/-ir > -ido). It links the past to now, especially life experience: nunca he llegado tarde = I've never been late. The participle never changes, and nothing goes between he and it. Watch out: 'I've been looking for 20 minutes' is llevo veinte minutos buscándola (present of llevar + gerund).",
+   "examples": [
+    [
+     "Nunca he llegado tarde a una entrevista.",
+     "I've never been late for an interview."
+    ],
+    [
+     "¿Has trabajado antes con clientes?",
+     "Have you worked with clients before?"
+    ],
+    [
+     "¿Qué ha pasado?",
+     "What's happened?"
+    ],
+    [
+     "Llevo veinte minutos buscándola.",
+     "I've been looking for it for twenty minutes."
+    ]
+   ]
+  },
+  {
+   "topic": "Reflexives and se me cayó",
+   "explain": "Reflexive verbs show actions you do to yourself: se despertó (woke up), se vistió (got dressed), se sentó (sat down). Se me cayó un café is different: an 'accident' structure. The coffee is the subject (cayó agrees with it) and me shows who it happened to: I dropped a coffee (by accident). Compare se me olvidó = I forgot. Watch out: me caí = I fell down.",
+   "examples": [
+    [
+     "Se vistió rápidamente, tomó su currículum y salió corriendo de casa.",
+     "She got dressed quickly, grabbed her résumé and ran out of the house."
+    ],
+    [
+     "Daniela se despertó a las ocho y media.",
+     "Daniela woke up at eight thirty."
+    ],
+    [
+     "Se me cayó un café.",
+     "I dropped a coffee (by accident)."
+    ]
+   ]
+  },
+  {
+   "topic": "Usted vs tú",
+   "explain": "Tú is informal; usted is formal and uses the he/she verb form: (usted) llega tarde = you're late, but (tú) llegas tarde. The interviewer, Mrs. Ortega, uses usted with Daniela; the older woman and the man in the street use tú (¿sabes?, no te vi). Watch out: llega or tiene can mean 'he/she' or 'you (usted)'; context decides.",
+   "examples": [
+    [
+     "—Llega tarde —dijo—, y tiene la camisa manchada.",
+     "\"You're late,\" she said, \"and your shirt is stained.\""
+    ],
+    [
+     "Hija, ¿sabes dónde está la oficina de diseño?",
+     "Dear, do you know where the design office is?"
+    ],
+    [
+     "Perdona, no te vi.",
+     "Sorry, I didn't see you."
+    ]
+   ]
+  }
+ ],
+ "a2-10": [
+  {
+   "topic": "Preterite vs imperfect",
+   "explain": "Imperfect for habits and background (cada agosto viajaba, hacían, llevaban, tenía); preterite for single completed events (empezó, llovió, hiciste). Empezar a + infinitive = to start doing: empezó a llover. Hiciste is the irregular preterite of hacer (tú). Watch out: cada año or todos los días usually signal the imperfect; el viernes por la noche marks one event.",
+   "examples": [
+    [
+     "Todos los vecinos hacían faroles de papel y los llevaban por las calles al anochecer.",
+     "All the neighbors made paper lanterns and carried them through the streets at dusk."
+    ],
+    [
+     "El viernes por la noche empezó a llover.",
+     "On Friday night it started to rain."
+    ],
+    [
+     "Hoy no hiciste solo un farol, Inés.",
+     "Today you didn't just make a lantern, Inés."
+    ]
+   ]
+  },
+  {
+   "topic": "Comparatives and superlatives",
+   "explain": "Más + adjective + que compares two things: más bonito que antes = prettier than before. The superlative is el/la + noun + más + adjective + de: el farol más grande de la historia = the biggest lantern in history. Watch out: English says 'in', Spanish says de: la fiesta más importante del pueblo = the most important festival in the village.",
+   "examples": [
+    [
+     "Era más bonito que antes.",
+     "It was prettier than before."
+    ],
+    [
+     "Es el farol más grande de la historia del pueblo.",
+     "It's the biggest lantern in the history of the village."
+    ],
+    [
+     "Hiciste una familia más grande.",
+     "You made a bigger family."
+    ]
+   ]
+  },
+  {
+   "topic": "Object pronouns: se lo, le, la",
+   "explain": "La = her (direct object): la ayudó = helped her. Le = to/for him or her (indirect). With body parts Spanish uses le + the article, not a possessive: le tomó la mano = took her hand. When le/les meets lo/la, it becomes se: se lo contó a los vecinos = told it to the neighbors (lo = what had happened). Watch out: never 'le lo' or 'les lo'.",
+   "examples": [
+    [
+     "Pablo salió a la calle y se lo contó a los vecinos.",
+     "Pablo went out into the street and told the neighbors about it."
+    ],
+    [
+     "Su abuelo se acercó y le tomó la mano.",
+     "Her grandfather came over and took her hand."
+    ],
+    [
+     "Su primo Pablo la ayudó.",
+     "Her cousin Pablo helped her."
+    ]
+   ]
+  },
+  {
+   "topic": "Perfect tenses: he visto, había aprendido",
+   "explain": "Present perfect: he/has/ha + participle, for experience up to now: nunca he visto = I have never seen. Past perfect: había + participle, for something that happened before another past moment: había aprendido = she had learned. The participle never changes. Watch out: some participles are irregular: visto (ver), hecho (hacer), dicho (decir), puesto (poner).",
+   "examples": [
+    [
+     "Nunca he visto trabajar tan rápido a este pueblo.",
+     "I've never seen this village work so fast."
+    ],
+    [
+     "Había aprendido que un pueblo unido puede hacer cosas increíbles.",
+     "She had learned that a united village can do incredible things."
+    ],
+    [
+     "Cuando Inés llegó al granero, la lluvia ya había mojado el papel.",
+     "When Inés got to the barn, the rain had already soaked the paper."
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,246 @@
+[
+  {
+    "id": "P-B2-11",
+    "level": "B2",
+    "skill": "grammar",
+    "q": "Choose the correct form: Me habló como si me ___ de toda la vida.",
+    "options": [
+      "conoce",
+      "conociera",
+      "conocerá",
+      "conoció"
+    ],
+    "answer": 1,
+    "why": "'Como si' for an unreal comparison requires the imperfect subjunctive.",
+    "topic": "como si + imperfect subjunctive"
+  },
+  {
+    "id": "P-B2-12",
+    "level": "B2",
+    "skill": "grammar",
+    "q": "Choose the correct form: Ojalá ___ más tiempo libre; así podría viajar más.",
+    "options": [
+      "tuviera",
+      "tengo",
+      "tendré",
+      "tuve"
+    ],
+    "answer": 0,
+    "why": "'Ojalá' with a wish contrary to present reality takes the imperfect subjunctive.",
+    "topic": "ojalá + imperfect subjunctive"
+  },
+  {
+    "id": "P-B2-13",
+    "level": "B2",
+    "skill": "grammar",
+    "q": "Choose the correct form: —¿Por qué no contesta Laura? —No sé, ___ el teléfono en casa.",
+    "options": [
+      "ha dejado",
+      "dejaba",
+      "habrá dejado",
+      "hubiera dejado"
+    ],
+    "answer": 2,
+    "why": "The future perfect expresses a conjecture about a past event relevant to the present.",
+    "topic": "future perfect for conjecture"
+  },
+  {
+    "id": "P-B2-14",
+    "level": "B2",
+    "skill": "grammar",
+    "q": "Choose the correct word: Llegó dos horas tarde, ___ molestó a todos.",
+    "options": [
+      "el que",
+      "quien",
+      "cuyo",
+      "lo cual"
+    ],
+    "answer": 3,
+    "why": "'Lo cual' refers back to a whole clause, not to a single noun.",
+    "topic": "relative lo cual"
+  },
+  {
+    "id": "P-B2-15",
+    "level": "B2",
+    "skill": "grammar",
+    "q": "Choose the correct form: No creo que mis primos ___ llegado todavía.",
+    "options": [
+      "han",
+      "hayan",
+      "habían",
+      "habrían"
+    ],
+    "answer": 1,
+    "why": "Negated 'creer' (no creo que) takes the subjunctive, here the present perfect subjunctive.",
+    "topic": "no creo que + perfect subjunctive"
+  },
+  {
+    "id": "P-B2-16",
+    "level": "B2",
+    "skill": "grammar",
+    "q": "Choose the correct form: Te presto mi coche con tal de que me lo ___ con el tanque lleno.",
+    "options": [
+      "devuelvas",
+      "devuelves",
+      "devolverás",
+      "devolviste"
+    ],
+    "answer": 0,
+    "why": "'Con tal de que' always requires the subjunctive.",
+    "topic": "con tal de que + subjunctive"
+  },
+  {
+    "id": "P-B2-17",
+    "level": "B2",
+    "skill": "grammar",
+    "q": "Choose the correct word: Cuanto más practicas, ___ errores cometes.",
+    "options": [
+      "menor",
+      "peor",
+      "tan",
+      "menos"
+    ],
+    "answer": 3,
+    "why": "'Cuanto más..., menos...' is the correlative structure; 'menos' quantifies 'errores' (inverse proportion), while 'menor', 'peor' and 'tan' do not fit grammatically.",
+    "topic": "cuanto más... menos"
+  },
+  {
+    "id": "P-B2-18",
+    "level": "B2",
+    "skill": "grammar",
+    "q": "Choose the correct form: A Pedro se le ___ las llaves en casa.",
+    "options": [
+      "quedó",
+      "quedé",
+      "quedaron",
+      "quedamos"
+    ],
+    "answer": 2,
+    "why": "In the unplanned 'se' construction the verb agrees with the thing forgotten (las llaves, plural).",
+    "topic": "unplanned se (se le quedaron)"
+  },
+  {
+    "id": "P-B2-19",
+    "level": "B2",
+    "skill": "vocab",
+    "q": "Choose the correct verb: Tras años de esfuerzo, por fin logró ___ su sueño de abrir un restaurante.",
+    "options": [
+      "hacer",
+      "ganar",
+      "tomar",
+      "cumplir"
+    ],
+    "answer": 3,
+    "why": "The natural collocation is 'cumplir un sueño' (to fulfil a dream).",
+    "topic": "collocations: dreams"
+  },
+  {
+    "id": "P-B2-20",
+    "level": "B2",
+    "skill": "vocab",
+    "q": "Choose the correct word: Estoy ___ de tanto ruido; necesito un poco de silencio.",
+    "options": [
+      "harto",
+      "lleno",
+      "pleno",
+      "vacío"
+    ],
+    "answer": 0,
+    "why": "'Estar harto de' means to be fed up with something.",
+    "topic": "adjectives: harto de"
+  },
+  {
+    "id": "P-B2-21",
+    "level": "B2",
+    "skill": "vocab",
+    "q": "Choose the correct verb: Con esa inversión, la empresa logró ___ las pérdidas del año anterior.",
+    "options": [
+      "acumular",
+      "compensar",
+      "olvidar",
+      "ofrecer"
+    ],
+    "answer": 1,
+    "why": "'Compensar las pérdidas' means to make up for losses.",
+    "topic": "business vocabulary"
+  },
+  {
+    "id": "P-B2-22",
+    "level": "B2",
+    "skill": "vocab",
+    "q": "Choose the correct word: El hotel es muy caro, pero la ___ del servicio vale la pena.",
+    "options": [
+      "cantidad",
+      "cuota",
+      "calidad",
+      "costumbre"
+    ],
+    "answer": 2,
+    "why": "'Calidad del servicio' is the only logical collocation justifying a high price.",
+    "topic": "word choice: calidad"
+  },
+  {
+    "id": "P-B2-23",
+    "level": "B2",
+    "skill": "reading",
+    "passage": "Desde que mi empresa implantó el teletrabajo dos días a la semana, ahorro casi una hora diaria en traslados. Sin embargo, me cuesta más desconectar: los mensajes llegan a cualquier hora y siento que debo responder enseguida. Mis compañeros opinan lo mismo, aunque ninguno se atreve a decírselo al jefe. Quizá sea hora de proponer una norma clara sobre los horarios.",
+    "q": "Read the text. ¿Qué sugiere el narrador al final?",
+    "options": [
+      "Volver a la oficina todos los días",
+      "Fijar reglas claras sobre los horarios de contacto",
+      "Dejar su empleo actual",
+      "Responder los mensajes más rápido"
+    ],
+    "answer": 1,
+    "why": "The last sentence proposes a clear rule about working hours.",
+    "topic": "main idea (remote work)"
+  },
+  {
+    "id": "P-B2-24",
+    "level": "B2",
+    "skill": "reading",
+    "passage": "El museo anunció ayer que cerrará sus puertas durante seis meses para reparar el techo, dañado por las lluvias del invierno. Aunque la obra no estaba prevista hasta el próximo año, los ingenieros advirtieron de que esperar podría poner en riesgo las obras expuestas. Mientras tanto, las piezas más valiosas se exhibirán en una sala del ayuntamiento. Los visitantes que ya compraron entradas podrán usarlas cuando el museo reabra.",
+    "q": "Read the text. ¿Por qué se adelantó la reparación del techo?",
+    "options": [
+      "Porque el ayuntamiento lo pidió",
+      "Porque faltaba dinero para la exposición",
+      "Porque llegarían más visitantes",
+      "Porque esperar podía poner en peligro las obras expuestas"
+    ],
+    "answer": 3,
+    "why": "Engineers warned that waiting could put the artworks at risk.",
+    "topic": "cause (museum news)"
+  },
+  {
+    "id": "P-B2-25",
+    "level": "B2",
+    "skill": "reading",
+    "passage": "Cuando la ciudad instaló las bicicletas públicas, muchos vecinos se mostraron escépticos. Temían que las calles no fueran lo bastante seguras y que los vehículos no respetaran a los ciclistas. Un año después, el servicio cuenta con más de veinte mil usuarios y los accidentes han sido mínimos. Los críticos de entonces reconocen ahora que se equivocaron, aunque piden más carriles exclusivos.",
+    "q": "Read the text. ¿Qué ha ocurrido con la opinión de los críticos del servicio?",
+    "options": [
+      "Admiten su error, pero piden más carriles exclusivos",
+      "Siguen creyendo que el servicio es peligroso",
+      "Han pedido que se elimine el servicio",
+      "Quieren menos usuarios en las calles"
+    ],
+    "answer": 0,
+    "why": "The critics now admit they were wrong but still ask for more bike lanes.",
+    "topic": "attitude change (city bikes)"
+  },
+  {
+    "id": "P-B2-26",
+    "level": "B2",
+    "skill": "reading",
+    "passage": "Recibí el paquete con tres semanas de retraso y, además, la caja venía abierta. Llamé al servicio de atención al cliente y me aseguraron que el producto estaba completo. Aun así, faltaba el cargador, que es justamente lo que necesito para usarlo. Les escribí una queja formal y espero que me respondan esta semana.",
+    "q": "Read the text. ¿Por qué resultó falsa la afirmación del servicio de atención al cliente?",
+    "options": [
+      "Porque el paquete llegó con retraso",
+      "Porque la caja venía abierta",
+      "Porque faltaba el cargador",
+      "Porque nadie contestó la llamada"
+    ],
+    "answer": 2,
+    "why": "They said the product was complete, but the charger was missing.",
+    "topic": "detail (customer complaint)"
+  }
+]

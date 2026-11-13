@@ -1,0 +1,400 @@
+{
+ "patches": [
+  {
+   "file": "stories",
+   "id": "c2-06",
+   "find": "en una fecha que unos ponen en 1618 y otros más de una década más tarde",
+   "replace": "en una fecha que unos sitúan en 1618 y otros, más de una década después",
+   "why": "Elliptical 'y otros más de una década más tarde' (double más, missing comma for the elided verb) is clumsy and momentarily misreadable."
+  },
+  {
+   "file": "stories",
+   "id": "c2-06",
+   "find": "That was how the chronicle began which Ruperto Lagunes,",
+   "replace": "So began the chronicle that Ruperto Lagunes,",
+   "why": "EN: relative clause stranded after the verb ('the chronicle began which…') is awkward."
+  },
+  {
+   "file": "stories",
+   "id": "c2-06",
+   "find": "According to tradition, his crown came with him on the ship.",
+   "replace": "According to tradition, his crown is said to have come with him on the ship.",
+   "why": "EN must keep the hearsay of 'la corona habría llegado' (the journalistic conditional is the topic being taught)."
+  },
+  {
+   "file": "stories",
+   "id": "c2-06",
+   "find": "Omar se rió a su pesar",
+   "replace": "Omar se rio a su pesar",
+   "why": "Orthography: 'rio' is monosyllabic (RAE 2010); site convention is 'rio' (A2–B2 stories)."
+  },
+  {
+   "file": "stories",
+   "id": "c2-06",
+   "find": "Ruperto se rió tanto",
+   "replace": "Ruperto se rio tanto",
+   "why": "Orthography: 'rio' (RAE 2010), site convention."
+  },
+  {
+   "file": "grammar",
+   "id": "c2-06",
+   "find": "Or they twist them for irony by adding a twist at the end:",
+   "replace": "Or they bend them for irony by adding an unexpected ending:",
+   "why": "Card wording: 'twist them… by adding a twist' is circular."
+  },
+  {
+   "file": "dialogues",
+   "id": "c2-06",
+   "find": "¿Errores? Pero si así lo canta",
+   "replace": "¿Y qué le ve de malo? Pero si así lo canta",
+   "why": "Branch logic: reply 0 of step 0 proposes 'un pequeño ajuste' and never says 'errores', but both replies lead to a step that answers '¿Errores?'."
+  },
+  {
+   "file": "dialogues",
+   "id": "c2-06",
+   "find": "Errors? But that's how",
+   "replace": "What's wrong with it, as you see it? But that's how",
+   "why": "EN follows ES fix."
+  },
+  {
+   "file": "stories",
+   "id": "c2-07",
+   "find": "Esa misma mañana, mientras vendía miel, empezó a decir",
+   "replace": "La mañana siguiente al incendio, mientras vendía miel, empezó a decir",
+   "why": "Unclear time reference: 'Esa misma mañana' follows two hypotheticals and has no antecedent morning; the rumour started the morning after the fire (cf. ña Gumersinda's 'a la mañana')."
+  },
+  {
+   "file": "stories",
+   "id": "c2-07",
+   "find": "That same morning, while he was selling syrup,",
+   "replace": "The morning after the fire, while he was selling syrup,",
+   "why": "EN follows ES fix."
+  },
+  {
+   "file": "stories",
+   "id": "c2-07",
+   "find": "el asombro de quien descubre que lo habían juzgado de boca en boca",
+   "replace": "el asombro de quien descubre que lo han juzgado de boca en boca",
+   "why": "Tense sequence: generic present 'quien descubre' requires 'lo han juzgado', not the pluperfect."
+  },
+  {
+   "file": "stories",
+   "id": "c2-07",
+   "find": "the astonishment of a man who discovers he had been tried by word of mouth",
+   "replace": "the astonishment of a man who discovers he has been tried by word of mouth",
+   "why": "EN follows ES fix."
+  },
+  {
+   "file": "stories",
+   "id": "c2-07",
+   "find": "Ña Gumersinda se rió con toda la boca.",
+   "replace": "Ña Gumersinda se rio con toda la boca.",
+   "why": "Orthography: 'rio' (RAE 2010), site convention."
+  },
+  {
+   "file": "stories",
+   "id": "c2-08",
+   "find": "Llevaba tres semanas escribiendo y borrando aquel párrafo",
+   "replace": "Llevaba días escribiendo y borrando aquel párrafo",
+   "why": "Repetition of 'tres semanas' in consecutive sentences; also she could hardly have drafted for the full three weeks when she 'tardó días en atreverse a escuchar' the recording."
+  },
+  {
+   "file": "stories",
+   "id": "c2-08",
+   "find": "She had spent three weeks writing and deleting that paragraph",
+   "replace": "She had spent days writing and deleting that paragraph",
+   "why": "EN follows ES fix."
+  },
+  {
+   "file": "stories",
+   "id": "c2-08",
+   "find": "En el colegio de Cartagena había aprendido a guardarse el palenquero",
+   "replace": "En sus primeros años en Cartagena había aprendido a guardarse el palenquero",
+   "why": "Logic: she left Palenque at seventeen (end of secondary schooling), so 'el colegio de Cartagena' contradicts the timeline."
+  },
+  {
+   "file": "stories",
+   "id": "c2-08",
+   "find": "At secondary school in Cartagena she had learned",
+   "replace": "In her first years in Cartagena she had learned",
+   "why": "EN follows ES fix."
+  },
+  {
+   "file": "stories",
+   "id": "c2-08",
+   "find": "El tío se rió por primera vez",
+   "replace": "El tío se rio por primera vez",
+   "why": "Orthography: 'rio' (RAE 2010), site convention."
+  },
+  {
+   "file": "stories",
+   "id": "c2-09",
+   "find": "donde su tía abuela había vivido sola desde que volvió de Rusia,",
+   "replace": "donde su tía abuela, de vuelta de Rusia, había vivido sola desde que enterró a su madre,",
+   "why": "Plot logic: Nina came back in 1956 because her sick mother 'la reclamaba en cada carta', so she cannot have lived alone ever since she returned."
+  },
+  {
+   "file": "stories",
+   "id": "c2-09",
+   "find": "where her great-aunt had lived alone ever since she came back from Russia,",
+   "replace": "where her great-aunt, back from Russia, had lived alone ever since she buried her mother,",
+   "why": "EN follows ES fix."
+  },
+  {
+   "file": "stories",
+   "id": "c2-09",
+   "find": "y en el acto se arrepintió de lo mucho que se parecía a la tía.",
+   "replace": "y en el acto se arrepintió del tono, que era clavado al de la tía.",
+   "why": "Logic: Nina is the one who kept doors shut, so 'regretting how much she resembled her' after saying she likes opening doors is contradictory; the resemblance is the curt tone."
+  },
+  {
+   "file": "stories",
+   "id": "c2-09",
+   "find": "and instantly regretted how much she sounded like her aunt.",
+   "replace": "and instantly regretted her tone, which was her aunt's to a T.",
+   "why": "EN follows ES fix."
+  },
+  {
+   "file": "stories",
+   "id": "c2-09",
+   "find": "La que fuera la casa de ambos durante casi veinte años,",
+   "replace": "La que fuera la casa de ambos durante tantos años,",
+   "why": "Plausibility: Liosha, 22 in 1956 and working in a factory, cannot have lived in a children's home for almost twenty years (many homes were also relocated during WWII)."
+  },
+  {
+   "file": "stories",
+   "id": "c2-09",
+   "find": "What had once been home to them both for almost twenty years,",
+   "replace": "What had once been home to them both for so many years,",
+   "why": "EN follows ES fix."
+  },
+  {
+   "file": "grammar",
+   "id": "c2-09",
+   "find": "La que fuera la casa de ambos durante casi veinte años,",
+   "replace": "La que fuera la casa de ambos durante tantos años,",
+   "why": "Card example kept verbatim with the story fix."
+  },
+  {
+   "file": "grammar",
+   "id": "c2-09",
+   "find": "What had once been home to them both for almost twenty years,",
+   "replace": "What had once been home to them both for so many years,",
+   "why": "EN follows ES fix."
+  },
+  {
+   "file": "grammar",
+   "id": "c2-09",
+   "find": "Common error: using the past tense after por poco and changing the nuance (por poco tiró can mean 'she threw it away for a short time' in some contexts), or forgetting the subjunctive after por poco que.",
+   "replace": "The preterite (por poco se cayó) is also correct and common in the Americas, but never the subjunctive or the conditional. Common error: forgetting the subjunctive after por poco que.",
+   "why": "Wrong claim: por poco + preterite is standard (DPD/NGLE) and does not mean 'for a short time'; the card taught learners to avoid a correct form."
+  },
+  {
+   "file": "gq",
+   "id": "c2-09",
+   "find": "Por poco for a near miss in the past takes the present indicative: por poco la tira.",
+   "replace": "Por poco for a near miss in the past normally takes the present indicative (por poco la tira); the subjunctive and conditional are wrong.",
+   "why": "'why' overstated the rule (the preterite is also correct; it is simply not offered)."
+  },
+  {
+   "file": "gq",
+   "id": "c2-09",
+   "find": "\"Hubo should be había\"",
+   "replace": "\"terminado should be terminada\"",
+   "why": "Two correct answers: 'Había terminado la cinta y la puso otra vez' is also a valid correction; distractor replaced with a clearly wrong one."
+  },
+  {
+   "file": "dialogues",
+   "id": "c2-09",
+   "find": "Eso pensé yo, y me pasé una semana juzgándola.",
+   "replace": "Yo pensé lo peor, y me pasé una semana juzgándola.",
+   "why": "Branch logic: replies 1 and 2 of the previous step ('no sacaría conclusiones', '¿tu familia nunca te habló…?') don't make 'Eso pensé yo' a sensible answer."
+  },
+  {
+   "file": "dialogues",
+   "id": "c2-09",
+   "find": "That's what I thought, and I spent a week judging her.",
+   "replace": "I thought the worst, and I spent a week judging her.",
+   "why": "EN follows ES fix."
+  },
+  {
+   "file": "stories",
+   "id": "c2-10",
+   "find": "por debajo del bajo y de las palmas sintéticas",
+   "replace": "detrás del bajo y de las palmas sintéticas",
+   "why": "Unhappy echo 'por debajo del bajo'."
+  },
+  {
+   "file": "stories",
+   "id": "c2-10",
+   "find": "beneath the bass line and the synthetic handclaps",
+   "replace": "behind the bass line and the synthetic handclaps",
+   "why": "EN follows ES fix."
+  },
+  {
+   "file": "stories",
+   "id": "c2-10",
+   "find": "Doña Eduviges Avalos, que hablaba",
+   "replace": "Doña Eduviges Ávalos, que hablaba",
+   "why": "Orthography: Ávalos is esdrújula and takes an accent."
+  },
+  {
+   "file": "stories",
+   "id": "c2-10",
+   "find": "Doña Eduviges Avalos, who spoke",
+   "replace": "Doña Eduviges Ávalos, who spoke",
+   "why": "EN keeps the name spelling consistent."
+  },
+  {
+   "file": "stories",
+   "id": "c2-10",
+   "find": "una <b>licencia</b> por cuatro cuartos",
+   "replace": "una <b>licencia</b> por cuatro soles",
+   "why": "'Por cuatro cuartos' is a Peninsular idiom; Peruvian 'por cuatro soles' keeps the meaning in the story's dialect."
+  },
+  {
+   "file": "stories",
+   "id": "c2-10",
+   "find": "«¿y si mandamos el video a la prensa, causa?»",
+   "replace": "«¿y si mandamos el video a la prensa? Un causa mío trabaja en un canal»",
+   "why": "Register slip: Yordi calls Zoila 'doctora' and 'causa' (bro) in the same message; 'causa' is kept (map dialect) as a noun for his friend."
+  },
+  {
+   "file": "stories",
+   "id": "c2-10",
+   "find": "What if we send the video to the press, mate?",
+   "replace": "What if we send the video to the press? A mate of mine works at a TV channel.",
+   "why": "EN follows ES fix."
+  },
+  {
+   "file": "stories",
+   "id": "c2-10",
+   "find": "exactamente donde la quebraba el muchacho de 1976",
+   "replace": "exactamente donde la quebraba el hombre de 1976",
+   "why": "Logic: in 1976 don Anselmo was 'unos cuarenta años', not a 'muchacho'."
+  },
+  {
+   "file": "stories",
+   "id": "c2-10",
+   "find": "exactly where the young man of 1976 had broken it",
+   "replace": "exactly where the man of 1976 had broken it",
+   "why": "EN follows ES fix."
+  },
+  {
+   "file": "stories",
+   "id": "c2-10",
+   "find": "con las gafas en la punta de la nariz",
+   "replace": "con los lentes en la punta de la nariz",
+   "why": "Dialect: Peru says 'lentes'/'anteojos'; 'gafas' is Peninsular."
+  },
+  {
+   "file": "stories",
+   "id": "c2-10",
+   "find": "I hereby state, pursuant to the provisions of current copyright legislation, that my client considers the field recording in question to be in the public domain",
+   "replace": "My client hereby states, pursuant to the provisions of current copyright legislation, that the field recording in question is in the public domain",
+   "why": "EN mistranslation: the subject of 'manifiesta' is 'mi representada', not the lawyer."
+  },
+  {
+   "file": "dialogues",
+   "id": "c2-10",
+   "find": "Folclor dicen. El panalivio",
+   "replace": "Los de la disquera dirán que es folclor. El panalivio",
+   "why": "Branch logic: reply 0 of step 0 never mentions folklore, so 'Folclor dicen' did not follow."
+  },
+  {
+   "file": "dialogues",
+   "id": "c2-10",
+   "find": "Folklore, they say. My dad",
+   "replace": "The record people will say it's folklore. My dad",
+   "why": "EN follows ES fix."
+  },
+  {
+   "file": "dialogues",
+   "id": "c2-10",
+   "find": "si el permiso era solo para estudio, venderla en una canción",
+   "replace": "si el permiso era solo para estudio, vender la grabación en una canción",
+   "why": "'venderla' had no antecedent in the dialogue."
+  }
+ ],
+ "report": {
+  "c2-06": {
+   "grade": "A : genuinely C2 (journalistic conditional, literary -ra/pretérito anterior, concessive conjecture all natural and repeated); the Cerralvo clue is planted in line 0 and paid off; décima quatrains scan as octosyllables with abba rhyme. Facts check out (renamed 1932; Cerralvo viceroy 1624–35; 'Ñanga' per INAH 2024; statue with machete)",
+   "issues_fixed": [
+    "clumsy ellipsis 'otros más de una década más tarde'",
+    "EN dropped the hearsay of 'la corona habría llegado' (the topic being taught)",
+    "EN stranded relative clause in line 0",
+    "'rió' -> 'rio' x2 (RAE 2010, site convention)",
+    "card 4 circular wording ('twist… adding a twist')",
+    "role-play: step 1 answered '¿Errores?' after a reply that only proposed 'un pequeño ajuste'"
+   ],
+   "issues_open": [
+    "Plaque line 'El pueblo lleva su nombre desde 1932': 'su' can technically refer to 'los cimarrones'; acceptable on a plaque dedicated 'A Yanga', but 'el nombre de Yanga' would be fully clear (owner's call; gq6 option would need the same change)",
+    "Partner names Omar (c2-06) and Osmar (c2-07) are near-identical in neighbouring stories; consider renaming one",
+    "Jarocho/Mexican lexicon list from W8 notes (torito, develar, pásele/ándele) for a Veracruz speaker; whether Yanga's anniversary would have a son jarocho fandango with tarima"
+   ]
+  },
+  "c2-07": {
+   "grade": "A : excellent C2 courtroom piece; the ndaje plot is airtight, the 'miel quemada' clue is planted (line 3), reused (line 8) and paid off (Toribio); the legal register and absolutes are idiomatic; mirative 'había sido' is attested for Paraguay (ra'e calque; RAE 2009; HAL hal-01330685)",
+   "issues_fixed": [
+    "unanchored 'Esa misma mañana' (which morning?) -> the morning after the fire",
+    "tense sequence 'quien descubre que lo habían juzgado' -> 'lo han juzgado'",
+    "'rió' -> 'rio'"
+   ],
+   "issues_open": [
+    "'señorías' in Villalba's closing line is the Spanish (Peninsular) form of address; Paraguayan courts more usually use 'Excelencias'/'señores miembros del Tribunal' – Paraguayan lawyer to confirm",
+    "All Guaraní lines (ndaje sentence, he'i chéve, iporã, aguyje, -na hyphenation) need a Guaraní speaker (W9 notes)",
+    "Procedure is stylised: reading a police statement aloud in an oral trial and having it 'ratified' would normally be restricted under the CPP (Ley 1286/98)",
+    "Whether the offence should be named 'testimonio falso' (Código Penal) rather than 'falso testimonio'"
+   ]
+  },
+  "c2-08": {
+   "grade": "A- : moving, respectful, and the resolution is social as mapped; hedging/mood/conjecture topics are well demonstrated; risk lies in the unverified 'Ma' honorific, on which a card paragraph and gq item 7 depend",
+   "issues_fixed": [
+    "'tres semanas' repeated in consecutive sentences and at odds with 'tardó días en atreverse a escuchar'",
+    "timeline: 'el colegio de Cartagena' although she left Palenque at seventeen",
+    "'rió' -> 'rio'"
+   ],
+   "issues_open": [
+    "HIGH: 'Ma' as a title of respect before an older woman's name (Ma Petrona, Ma Cleotilde) could not be verified (web search finds only plural ma / ma-kuagro); if wrong, lines 0–12 names, card 1 sentence and gq7 must change – Palenquero teacher to confirm",
+    "'Kusungá' invented: confirm it means nothing unintended in Palenquero",
+    "Minor plausibility: Dorina heard the grandmother's long shout as a child yet never recognised the word; the story half-explains it ('sin preguntarse nunca qué decía'), acceptable as literary licence",
+    "Lumbalú/kuagro descriptions and the invented 'shout from the hill' custom: community reader for sensitivity"
+   ]
+  },
+  "c2-09": {
+   "grade": "A : the strongest literary text of the set (free indirect speech, Asturian diminutive system, por poco family); the timeline arithmetic is correct and is the clue (1984 tape, 3-year-old in 1937, glass holder). Facts verified (El Musel 23–24 Sept 1937; Crimea Odessa→Valencia Sept 1956; 1956–59 expeditions)",
+   "issues_fixed": [
+    "plot: Nina 'lived alone since she came back from Russia' though she returned to nurse her sick mother",
+    "illogical 'se arrepintió de lo mucho que se parecía a la tía' after saying she likes opening doors (Nina shut them)",
+    "implausible 'casa de ambos durante casi veinte años' (Liosha 22 and in a factory in 1956) – story + card example + EN",
+    "card 3 WRONG claim that por poco + preterite is an error meaning 'for a short time'",
+    "gq 'Hubo terminado…' had two correct answers ('Hubo should be había' is also a valid fix)",
+    "gq 'why' overstated the por poco rule",
+    "role-play: 'Eso pensé yo' did not follow two of the three previous replies"
+   ],
+   "issues_open": [
+    "'ho' as a mother's vocative to her daughter, 'me presta', 'culinos', the invented Asturian lullaby line: Gijón speaker",
+    "A 3-year-old orphan evacuated in the care of a 14-year-old neighbour is plausible but at the young edge; historian may confirm",
+    "Celsa's 'vosotras… nosotros' (generic masculine for her own generation) – possibly 'nosotras'"
+   ]
+  },
+  "c2-10": {
+   "grade": "A- : well-built legal comedy with a sharp ironic ending (the label copies the 'Corso' misspelling); all four topics demonstrated naturally; facts verified (RS 010-2009-MIMDES; Ley 28761; Zaña 2017); several dialect and logic slips fixed",
+   "issues_fixed": [
+    "'el muchacho de 1976' for a man of about forty",
+    "Peninsular items in Peruvian narration: 'por cuatro cuartos' -> 'por cuatro soles', 'gafas' -> 'lentes'",
+    "register clash: Yordi calls Zoila 'doctora' and 'causa' in one message",
+    "'por debajo del bajo' echo",
+    "'Avalos' -> 'Ávalos' (ES+EN)",
+    "EN mistranslation of the notarial letter (lawyer vs 'mi representada' as subject)",
+    "role-play: 'Folclor dicen' did not follow reply 0; 'venderla' without antecedent"
+   ],
+   "issues_open": [
+    "Timeline is very tight: song heard in May, 15-day deadline + extension, trip to Zaña, conciliation, settlement and press release all before 4 June – owner may want 'una tarde de abril' in line 0 (also check quiz/teaser)",
+    "'hoja de encargo' vs Peruvian 'carta de encargo'/'contrato de locación de servicios'; whether a performers'-rights dispute would go through 'audiencia de conciliación' (Peruvian IP lawyer)",
+    "Invented donation of Lindqvist's notebooks to the real Museo Afroperuano de Zaña: owner decision (could be a teacher note)",
+    "Original panalivio verse: genre specialist"
+   ]
+  }
+ }
+}

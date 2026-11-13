@@ -1,0 +1,20 @@
+{
+ "t1": {"items":[
+  {"t":"obj","n":"counter","x":200,"y":250,"s":2.2},
+  {"t":"obj","n":"bread","x":120,"y":210,"s":1},
+  {"t":"obj","n":"bread","x":280,"y":210,"s":1},
+  {"t":"obj","n":"dog","x":205,"y":210,"s":1.1}
+ ]},
+ "t2": {"items":[
+  {"t":"person","x":80,"y":250,"skin":"a","hair":"short","pose":"wave","outfit":"tee"},
+  {"t":"person","x":170,"y":250,"skin":"d","hair":"afro","pose":"stand","outfit":"dress","acc":["glasses"]},
+  {"t":"person","x":260,"y":250,"skin":"c","hair":"hijab","pose":"hold","outfit":"coat"},
+  {"t":"person","x":340,"y":250,"skin":"f","hair":"bald","acc":["beard"],"pose":"point","outfit":"apron","s":0.9}
+ ]},
+ "t3": {"items":[
+  {"t":"person","x":90,"y":250,"skin":"e","hair":"braids","pose":"wheel","outfit":"tee"},
+  {"t":"person","x":230,"y":250,"skin":"b","hair":"turban","pose":"sit","outfit":"stripe"},
+  {"t":"obj","n":"table","x":300,"y":250,"s":1},
+  {"t":"person","x":350,"y":250,"skin":"a","hair":"bun","hc":"g","acc":["cane","glasses"],"pose":"stand","outfit":"coat","s":0.95,"flip":true}
+ ]}
+}

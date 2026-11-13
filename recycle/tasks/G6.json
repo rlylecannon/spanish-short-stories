@@ -1,0 +1,1278 @@
+{
+ "patches": [
+  {
+   "file": "stories",
+   "id": "b1-06",
+   "find": "Ella no tenía muchas ganas, porque",
+   "replace": "Ella estaba agotada del viaje y no tenía muchas ganas, porque",
+   "why": "recycle agotado/a (b1-05) [line 0 es]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-06",
+   "find": "She didn't feel much like doing it, because",
+   "replace": "She was exhausted from the trip and didn't feel much like doing it, because",
+   "why": "EN for agotada [line 0 en]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-06",
+   "find": "pero el padre de Lupe no aprobaba la relación",
+   "replace": "pero el padre de Lupe se enojaba con solo oír su nombre y no aprobaba la relación",
+   "why": "recycle enojarse (b1-05) [line 4 es]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-06",
+   "find": "but Lupe's father didn't approve of the relationship",
+   "replace": "but Lupe's father got angry just hearing his name and didn't approve of the relationship",
+   "why": "EN for se enojaba [line 4 en]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-06",
+   "find": "—Un día, Octavio me dijo que se iba",
+   "replace": "—Un día, Octavio llegó con una maleta y me dijo que se iba",
+   "why": "recycle la maleta (a2-01) [line 5 es]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-06",
+   "find": "\\\"One day Octavio told me he was going",
+   "replace": "\\\"One day Octavio showed up with a suitcase and told me he was going",
+   "why": "EN for maleta [line 5 en]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-06",
+   "find": "inclinándose hacia delante.",
+   "replace": "inclinándose tanto hacia delante que casi se cae de la silla.",
+   "why": "recycle caerse (b1-04) [line 6 es]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-06",
+   "find": "asked, leaning forward.",
+   "replace": "asked, leaning so far forward that she almost fell off her chair.",
+   "why": "EN for se cae [line 6 en]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-06",
+   "find": "y fui feliz, aunque a veces me preguntaba",
+   "replace": "y fui feliz, aunque a veces lo extrañaba y me preguntaba",
+   "why": "recycle extrañar (b1-05) [line 7 es]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-06",
+   "find": "and I was happy, although sometimes I wondered",
+   "replace": "and I was happy, although sometimes I missed him and wondered",
+   "why": "EN for extrañaba [line 7 en]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-06",
+   "find": "Ximena llamó emocionada.",
+   "replace": "Ximena llamó emocionada con una noticia.",
+   "why": "recycle la noticia (a2-09) [line 9 es]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-06",
+   "find": "Ximena called, excited.",
+   "replace": "Ximena called, excited, with some news.",
+   "why": "EN for noticia [line 9 en]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-06",
+   "find": "Mi padre lloró al ver esta foto.",
+   "replace": "Mi padre acaba de ver esta foto y no ha dejado de llorar.",
+   "why": "map2 edit: Acabar de and dejar de [line 12 es]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-06",
+   "find": "My father cried when he saw this photo.",
+   "replace": "My father has just seen this photo and hasn't stopped crying.",
+   "why": "map2 edit EN [line 12 en]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-06",
+   "find": "no quería saber nada de él.»",
+   "replace": "no quería saber nada de él, pero nunca le tuvo rencor.»",
+   "why": "recycle el rencor (b1-05) [line 12 es]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-06",
+   "find": "she wanted nothing to do with him.\\\"",
+   "replace": "she wanted nothing to do with him, but he never held it against her.\\\"",
+   "why": "EN for rencor [line 12 en]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-06",
+   "find": "Su bisabuelo las había guardado allí",
+   "replace": "Entonces se dio cuenta de que su bisabuelo las había guardado allí",
+   "why": "recycle darse cuenta de (b1-04/05) [line 13 es]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-06",
+   "find": "Her great-grandfather had kept them there",
+   "replace": "Then she realized that her great-grandfather had kept them there",
+   "why": "EN for se dio cuenta [line 13 en]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-07",
+   "find": "en el prototipo, y esa mañana de martes por fin",
+   "replace": "en el prototipo y trataban de no hacerse ilusiones, pero esa mañana de martes por fin",
+   "why": "recycle hacerse ilusiones (b1-06) [line 0 es]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-07",
+   "find": "on the prototype, and that Tuesday morning they finally",
+   "replace": "on the prototype and tried not to get their hopes up, but that Tuesday morning they finally",
+   "why": "EN [line 0 en]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-07",
+   "find": "que tomaba notas con una pluma antigua",
+   "replace": "que tomaba notas en un pedazo de papel con una pluma antigua",
+   "why": "recycle el pedazo (b1-06) [line 3 es]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-07",
+   "find": "who was taking notes with an antique pen",
+   "replace": "who was taking notes on a piece of paper with an antique pen",
+   "why": "EN [line 3 en]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-07",
+   "find": "empezó su presentación con una voz algo temblorosa.",
+   "replace": "empezó su presentación con un nudo en la garganta y una voz algo temblorosa.",
+   "why": "recycle un nudo en la garganta (b1-06) [line 3 es]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-07",
+   "find": "began his presentation in a somewhat shaky voice.",
+   "replace": "began his presentation with a lump in his throat and a somewhat shaky voice.",
+   "why": "EN [line 3 en]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-07",
+   "find": "Hacía meses había instalado",
+   "replace": "Entonces se dio cuenta de lo que pasaba: hacía meses había instalado",
+   "why": "recycle darse cuenta de (b1-04/05) [line 6 es]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-07",
+   "find": "Months earlier he had loaded",
+   "replace": "Then he realized what was happening: months earlier he had loaded",
+   "why": "EN [line 6 en]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-07",
+   "find": "Camilo se agachó e intentó",
+   "replace": "Camilo se agachó en un rincón e intentó",
+   "why": "recycle el rincón (b1-06) [line 8 es]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-07",
+   "find": "Camilo bent down and tried",
+   "replace": "Camilo bent down in a corner and tried",
+   "why": "EN [line 8 en]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-07",
+   "find": "—Mi nieto nunca me contesta el teléfono —dijo—",
+   "replace": "—Mi nieto nunca me contesta el teléfono, se limita a mandarme mensajes —dijo—",
+   "why": "recycle limitarse a (b1-05) [line 11 es]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-07",
+   "find": "\\\"My grandson never answers my calls,\\\" she said",
+   "replace": "\\\"My grandson never answers my calls, he just sends me messages,\\\" she said",
+   "why": "EN [line 11 en]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-07",
+   "find": "—¿Perdón? —preguntó Teresa",
+   "replace": "—¿Perdón? ¿No se enojó? —preguntó Teresa",
+   "why": "recycle enojarse (b1-05) [line 12 es]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-07",
+   "find": "\\\"Excuse me?\\\" Teresa asked",
+   "replace": "\\\"Excuse me? You didn't get angry?\\\" Teresa asked",
+   "why": "EN [line 12 en]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-08",
+   "find": "Se sentó a su escritorio, <b>acarició</b>",
+   "replace": "Se sentó a su escritorio, que ya había vaciado el día anterior, <b>acarició</b>",
+   "why": "recycle vaciar (b1-06) [line 0 es]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-08",
+   "find": "He sat at his desk, ran his hand",
+   "replace": "He sat at his desk, which he had already emptied the day before, ran his hand",
+   "why": "EN [line 0 en]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-08",
+   "find": "Aurelio no podía hablar; se",
+   "replace": "Aurelio tenía un nudo en la garganta y no podía hablar; se",
+   "why": "recycle un nudo en la garganta (b1-06) [line 6 es]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-08",
+   "find": "Aurelio couldn't speak; he",
+   "replace": "Aurelio had a lump in his throat and couldn't speak; he",
+   "why": "EN [line 6 en]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-08",
+   "find": "Dentro había una <b>tiza</b> muy gastada",
+   "replace": "Dentro había un pedazo de <b>tiza</b> muy gastado",
+   "why": "recycle el pedazo (b1-06) [line 8 es]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-08",
+   "find": "Inside was a very worn piece of chalk",
+   "replace": "Inside was a very worn little piece of chalk",
+   "why": "EN (unchanged sense) [line 8 en]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-08",
+   "find": "Se aclaró la garganta y miró",
+   "replace": "Carraspeó y miró",
+   "why": "recycle carraspear (b1-07) [line 10 es]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-08",
+   "find": "Pero Carmen, que lo había escuchado, le propuso",
+   "replace": "Pero Carmen, que lo había escuchado, intercambió una mirada con la directora y le propuso",
+   "why": "recycle intercambiar una mirada (b1-07) [line 11 es]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-08",
+   "find": "But Carmen, who had overheard him, offered him",
+   "replace": "But Carmen, who had overheard him, exchanged a look with the principal and offered him",
+   "why": "EN [line 11 en]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-08",
+   "find": "No sintió tristeza, sino",
+   "replace": "Sabía que iba a extrañar el timbre de las dos, pero no sintió tristeza, sino",
+   "why": "recycle extrañar (b1-05) [line 13 es]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-08",
+   "find": "He felt no sadness, but",
+   "replace": "He knew he would miss the two o'clock bell, but he felt no sadness, only",
+   "why": "EN [line 13 en]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-08",
+   "find": "Comprendió que la",
+   "replace": "Se dio cuenta de que la",
+   "why": "recycle darse cuenta de (b1-04/05) [line 13 es]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-08",
+   "find": "He understood that retirement",
+   "replace": "He realized that retirement",
+   "why": "EN [line 13 en]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-09",
+   "find": "Su computadora tenía poca batería, y ya había perdido media hora de trabajo porque no había guardado el archivo.",
+   "replace": "A su computadora se le estaba acabando la batería, y ya había perdido media hora de trabajo porque se le había olvidado guardar el archivo.",
+   "why": "map2 edit: Accidental se [line 1 es]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-09",
+   "find": "Her computer had little battery left, and she had already lost half an hour of work because she hadn't saved the file.",
+   "replace": "Her computer's battery was running out, and she had already lost half an hour of work because she had forgotten to save the file.",
+   "why": "map2 edit EN [line 1 en]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-09",
+   "find": "—¡Cálmense todos! —repetía—.",
+   "replace": "—¡Cálmense todos! —repetía, preocupada—.",
+   "why": "recycle preocupado/a (b1-04) [line 3 es]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-09",
+   "find": "\\\"Everyone calm down!\\\" she kept saying.",
+   "replace": "\\\"Everyone calm down!\\\" she kept saying, worried.",
+   "why": "EN [line 3 en]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-09",
+   "find": "que abrazaba a su perro",
+   "replace": "que acariciaba a su perro",
+   "why": "recycle acariciar (b1-08) [line 4 es]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-09",
+   "find": "hugging his dog",
+   "replace": "stroking his dog",
+   "why": "EN [line 4 en]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-09",
+   "find": "El único que faltaba era",
+   "replace": "Soledad se dio cuenta de que el único que faltaba era",
+   "why": "recycle darse cuenta de (b1-04/05) [line 4 es]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-09",
+   "find": "The only one missing was",
+   "replace": "Soledad realized that the only one missing was",
+   "why": "EN [line 4 en]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-09",
+   "find": "—Mi congelador se va a descongelar",
+   "replace": "—Se me va a descongelar el congelador",
+   "why": "map2 edit: Accidental se [line 7 es]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-09",
+   "find": "\\\"My freezer is going to defrost and",
+   "replace": "\\\"My freezer is going to defrost on me and",
+   "why": "map2 edit EN [line 7 en]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-09",
+   "find": "contó que su esposa había fallecido",
+   "replace": "contó con la voz quebrada que su esposa había fallecido",
+   "why": "recycle quebrado/a (b1-08) [line 8 es]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-09",
+   "find": "he said that his wife had passed away",
+   "replace": "he said in a broken voice that his wife had passed away",
+   "why": "EN [line 8 en]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-09",
+   "find": "Que no vamos a volver a ser extraños.",
+   "replace": "Que no vamos a volver a ser extraños. Somos muy afortunados de tener estos vecinos.",
+   "why": "recycle afortunado/a (b1-08) [line 9 es]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-09",
+   "find": "\\\"That we won't go back to being strangers.\\\"",
+   "replace": "\\\"That we won't go back to being strangers. We are very fortunate to have these neighbors.\\\"",
+   "why": "EN [line 9 en]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-09",
+   "find": "y estudió hasta tarde, aunque con el corazón más ligero que nunca.",
+   "replace": "y estudió hasta tarde. Al día siguiente tenía que madrugar, pero se acostó con el corazón más ligero que nunca.",
+   "why": "recycle madrugar (b1-08) [line 11 es]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-09",
+   "find": "and studied late, although with a lighter heart than ever.",
+   "replace": "and studied late. She had to get up early the next day, but she went to bed with a lighter heart than ever.",
+   "why": "EN [line 11 en]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-09",
+   "find": "A la mañana siguiente, encontró",
+   "replace": "A la mañana siguiente, agotada pero contenta, encontró",
+   "why": "recycle agotado/a (b1-05) [line 12 es]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-09",
+   "find": "The next morning, she found",
+   "replace": "The next morning, exhausted but happy, she found",
+   "why": "EN [line 12 en]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-10",
+   "find": "que soltaba una nube de <b>humo</b> gris.",
+   "replace": "que soltaba una nube de <b>humo</b> gris y a veces sonaba como un trueno.",
+   "why": "recycle el trueno (b1-09) [line 5 es]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-10",
+   "find": "which was letting out a cloud of gray smoke.",
+   "replace": "which was letting out a cloud of gray smoke and sometimes rumbled like thunder.",
+   "why": "EN [line 5 en]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-10",
+   "find": "—¿Y qué es «la mano que toca»? ¿Alguien que toca la guitarra?",
+   "replace": "—¿Y qué será «la mano que toca»? ¿Será alguien que toca la guitarra?",
+   "why": "map2 edit: Future of probability [line 8 es]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-10",
+   "find": "\\\"And what is 'the hand that knocks'? Someone who plays the guitar?\\\"",
+   "replace": "\\\"And what can 'the hand that knocks' be? Could it be someone who plays the guitar?\\\"",
+   "why": "map2 edit EN [line 8 en]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-10",
+   "find": "Itzel la acercó a los ojos. En el borde,",
+   "replace": "Itzel la acercó a los ojos y se dio cuenta de que en el borde,",
+   "why": "recycle darse cuenta de (b1-04/05) [line 9 es]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-10",
+   "find": "Itzel brought it close to her eyes. At the edge,",
+   "replace": "Itzel brought it close to her eyes and realized that at the edge,",
+   "why": "EN [line 9 en]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-10",
+   "find": "A Itzel el corazón le latía muy fuerte.",
+   "replace": "A Itzel el corazón le latía muy fuerte. ¿Quién vivirá aquí ahora?",
+   "why": "map2 edit: Future of probability [line 10 es]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-10",
+   "find": "Itzel's heart was pounding.",
+   "replace": "Itzel's heart was pounding. Who could be living here now?",
+   "why": "map2 edit EN [line 10 en]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-10",
+   "find": "la miró en silencio un buen rato.",
+   "replace": "la miró en silencio un buen rato, sin parpadear.",
+   "why": "recycle parpadear (b1-09) [line 11 es]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-10",
+   "find": "looked at it in silence for a good while.",
+   "replace": "looked at it in silence for a good while, without blinking.",
+   "why": "EN [line 11 en]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-10",
+   "find": "ya se había ido a Estados Unidos.",
+   "replace": "ya se había mudado a Estados Unidos.",
+   "why": "recycle mudarse (a2-06) [line 12 es]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-10",
+   "find": "had already left for the United States.",
+   "replace": "had already moved to the United States.",
+   "why": "EN [line 12 en]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-10",
+   "find": "—Es un <b>quetzal</b> —<b>susurró</b>.",
+   "replace": "—Es un <b>quetzal</b> —<b>susurró</b> mientras acariciaba la madera.",
+   "why": "recycle acariciar (b1-08) [line 13 es]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-10",
+   "find": "\\\"It's a quetzal,\\\" she whispered.",
+   "replace": "\\\"It's a quetzal,\\\" she whispered, running her hand over the wood.",
+   "why": "EN [line 13 en]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-10",
+   "find": "El viernes, Itzel se levantó a las cuatro",
+   "replace": "El viernes, Itzel madrugó: se levantó a las cuatro",
+   "why": "recycle madrugar (b1-08) [line 15 es]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-10",
+   "find": "On Friday, Itzel got up at four",
+   "replace": "On Friday, Itzel was up early: she got up at four",
+   "why": "EN [line 15 en]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-10",
+   "find": "y enseguida el quetzal desapareció.",
+   "replace": "y enseguida el quetzal desapareció, como por un hechizo.",
+   "why": "recycle el hechizo (b1-09) [line 16 es]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-10",
+   "find": "and in moments the quetzal was gone.",
+   "replace": "and in moments the quetzal was gone, as if by a spell.",
+   "why": "EN [line 16 en]"
+  },
+  {
+   "file": "stories",
+   "id": "b1-06",
+   "find": "reported speech with tense shifts, recycled (dijo que se iba, prometió que escribiría, contó que había sido).",
+   "replace": "acabar de and dejar de + infinitive (acaba de ver, no ha dejado de llorar, dejé de preguntar; also cuando termines de leerlas).",
+   "why": "concepts: drop reported speech, add Acabar de and dejar de (map2)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-06",
+   "find": "recognizing reported speech.",
+   "replace": "noticing actions that have just happened or have stopped.",
+   "why": "concepts.skills: reported speech dropped"
+  },
+  {
+   "file": "stories",
+   "id": "b1-09",
+   "find": "commands with ustedes and usted, with attached pronouns (¡Cálmense todos!, prométanme una cosa, escriba su nombre abajo);",
+   "replace": "accidental se for things that happen without meaning to (se le estaba acabando la batería, se le había olvidado guardar el archivo, se me va a descongelar el congelador);",
+   "why": "concepts: drop ustedes/usted commands, add Accidental se (map2)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-10",
+   "find": "subjunctive after wishes and hasta que (espero que veas, espero que la casa todavía exista, quiero que la haga usted, hasta que la terminemos; after a past verb: esperó que alguien volviera);",
+   "replace": "the future of probability for guesses about the present (¿qué será?, ¿será alguien que toca la guitarra?, ¿quién vivirá aquí ahora?), next to the real future (verás, encontraremos, iré);",
+   "why": "concepts: drop wish subjunctive, add Future of probability (map2)"
+  },
+  {
+   "file": "stories",
+   "id": "b1-10",
+   "find": "Add one sentence about what you hope for next time with espero que + present subjunctive.",
+   "replace": "Add one question wondering how the tradition started, using the future of probability (¿Quién será…? ¿Desde cuándo se hará…?).",
+   "why": "prompt: wish subjunctive dropped; practise new topic"
+  }
+ ],
+ "grammar_replace": {
+  "b1-06": [
+   {
+    "topic": "Subjunctive after opinion and wish",
+    "explain": "When you hope, want, doubt or judge something about someone else's action, use que + present subjunctive: espero que lo haga, quiere que la llames, es importante que no se haga ilusiones, no creo que conteste. The subjunctive marks the action as wished or uncertain, not a fact. English often uses an infinitive ('she wants you to call'). Watch out: creo que (belief) takes the indicative: Creo que contestará. With one subject, use the infinitive: espero volver.",
+    "examples": [
+     [
+      "No creo que ella conteste pronto.",
+      "I don't think she'll answer soon."
+     ],
+     [
+      "Es importante que no se haga ilusiones antes de tiempo.",
+      "It's important that she doesn't get her hopes up too early."
+     ],
+     [
+      "Rocío quiere que la llames.",
+      "Rocío wants you to call her."
+     ],
+     [
+      "Creo que contestará pronto.",
+      "I think she'll answer soon."
+     ]
+    ]
+   },
+   {
+    "topic": "Negative commands",
+    "explain": "Negative tú commands are no + the tú form of the present subjunctive, the same forms you see after espero que: no vendas, no te rías, no le digas. -ar verbs switch to -es, -er/-ir verbs to -as, and irregulars keep the yo stem (digo → no digas). Pronouns go before the verb; in affirmative commands they are attached: dile / no le digas. Watch out: *no vende and *no le dices are typical learner mistakes.",
+    "examples": [
+     [
+      "No te rías de mí.",
+      "Don't laugh at me."
+     ],
+     [
+      "Todavía no, no le digas nada.",
+      "Not yet, don't tell her anything."
+     ],
+     [
+      "Y tú, mija, no vendas la casa todavía.",
+      "And you, dear, don't sell the house yet."
+     ],
+     [
+      "Dile que por fin puede afinar la guitarra.",
+      "Tell him he can finally tune that guitar."
+     ]
+    ]
+   },
+   {
+    "topic": "Acabar de and dejar de",
+    "explain": "Two very common verb + de + infinitive phrases. Acabar de + infinitive means 'to have just done something': Mi padre acaba de ver esta foto = My father has just seen this photo. In the present (acaba de) it describes something that happened a moment ago. Dejar de + infinitive means 'to stop doing something': dejé de preguntar = I stopped asking; no ha dejado de llorar = he hasn't stopped crying. Terminar de + infinitive works the same way and means 'to finish doing': cuando termines de leerlas. Watch out: the de is never dropped, and the verb after it is always an infinitive: *acaba ver and *dejé preguntar are wrong.",
+    "examples": [
+     [
+      "Mi padre acaba de ver esta foto y no ha dejado de llorar.",
+      "My father has just seen this photo and hasn't stopped crying."
+     ],
+     [
+      "Por orgullo dejé de preguntar por él.",
+      "Out of pride I stopped asking about him."
+     ],
+     [
+      "Cuando termines de leerlas —dijo Marisol—, Rocío quiere que la llames.",
+      "\"When you finish reading them,\" said Marisol, \"Rocío wants you to call her.\""
+     ]
+    ]
+   }
+  ],
+  "b1-09": [
+   {
+    "topic": "Reported commands",
+    "explain": "To report an order, use decir, pedir or gritar + que + subjunctive. After a past verb, use the imperfect subjunctive: «No usen el ascensor» → gritaba que no usaran el ascensor. After a present verb, the present subjunctive: dice que no usemos el ascensor. Decir que + indicative only reports information: decía que la oscuridad le daba miedo. Watch out: 'told him not to be afraid' is le dijo que no tuviera miedo, never *le dijo no tener miedo.",
+    "examples": [
+     [
+      "Abajo, en el vestíbulo, la portera, doña Rosa, gritaba que no usaran el ascensor y que bajaran con cuidado por las escaleras.",
+      "Downstairs, in the lobby, the doorwoman, doña Rosa, was shouting for people not to use the elevator and to come down the stairs carefully."
+     ],
+     [
+      "Soledad se arrodilló a su lado, le dijo que no tuviera miedo y le propuso un juego para distraerlo.",
+      "Soledad knelt beside him, told him not to be afraid and suggested a game to distract him."
+     ],
+     [
+      "«Traigan velas.» → Doña Rosa nos pidió que trajéramos velas.",
+      "\"Bring candles.\" → Doña Rosa asked us to bring candles."
+     ]
+    ]
+   },
+   {
+    "topic": "Verbs of change: ponerse, quedarse, convertirse",
+    "explain": "English 'get / become / turn' has several equivalents. Ponerse + adjective: a quick change of colour, mood or appearance (se puso negro, se puso nervioso). Quedarse + adjective or participle: the state left after something happens (se quedó dormido, se quedó callado). Convertirse en + noun: a real transformation (se convirtió en una cocina). Volverse and hacerse follow at B2. Watch out: convertirse needs en + a noun, so *el cielo se convirtió negro is wrong.",
+    "examples": [
+     [
+      "Aquella tarde de octubre, sin embargo, el cielo se puso negro y una tormenta enorme empezó a golpear las ventanas.",
+      "That October afternoon, however, the sky turned black and an enormous storm began to pound the windows."
+     ],
+     [
+      "Durante la siguiente hora, el edificio entero se convirtió en una cocina improvisada.",
+      "During the following hour, the whole building turned into an improvised kitchen."
+     ],
+     [
+      "Gonzalo se quedó dormido sobre las piernas de su madre, con una sonrisa tranquila.",
+      "Gonzalo fell asleep on his mother's lap, with a peaceful smile."
+     ],
+     [
+      "Cuando se fue la luz, Soledad se puso furiosa y el señor mayor se quedó callado.",
+      "When the power went out, Soledad got furious and the old man went quiet."
+     ]
+    ]
+   },
+   {
+    "topic": "Accidental se: se le olvidó, se le acabó",
+    "explain": "To talk about accidents and things that happen without anyone meaning them, Spanish uses se + an indirect object pronoun (me, te, le, nos, les) + the verb: se le olvidó guardar, se le acabó la batería, se me va a descongelar. The thing that is forgotten, runs out or defrosts is the subject, so the verb agrees with it: se le acabó la batería, se le acabaron las velas. The pronoun shows who it happened to. Compare olvidé el archivo (neutral) with se me olvidó el archivo ('it slipped my mind', it wasn't on purpose). Watch out: the order is always se + pronoun + verb: se le olvidó, never *le se olvidó.",
+    "examples": [
+     [
+      "A su computadora se le estaba acabando la batería.",
+      "Her computer's battery was running out."
+     ],
+     [
+      "Se le había olvidado guardar el archivo.",
+      "She had forgotten to save the file."
+     ],
+     [
+      "Se me va a descongelar el congelador y no pienso desperdiciar tanta comida.",
+      "My freezer is going to defrost on me and I'm not going to waste so much food."
+     ]
+    ]
+   }
+  ],
+  "b1-10": [
+   {
+    "topic": "Passive and impersonal se",
+    "explain": "Se + a third-person verb says what is done when the doer doesn't matter. The verb agrees with the thing: se pone el molde, las alfombras se hacen. With no noun, se means 'you / people'. English uses 'is made' or 'you put'. In b1-04 you met se puede; here se carries a subject. Not every se is passive: se rio and se cae describe the subject. Watch out: plural thing, plural verb: se ven muchas puertas, not *se ve.",
+    "examples": [
+     [
+      "Se pone sobre el aserrín y se llena de colores.",
+      "You put it on the sawdust and fill it with colors."
+     ],
+     [
+      "Las alfombras no se hacen para durar.",
+      "Carpets aren't made to last."
+     ],
+     [
+      "A la derecha se veía la mitad de una puerta.",
+      "On the right you could see half of a door."
+     ],
+     [
+      "En Antigua se venden tejidos en muchas tiendas.",
+      "Woven textiles are sold in lots of shops in Antigua."
+     ]
+    ]
+   },
+   {
+    "topic": "Por vs. para",
+    "explain": "This returns here from b1-05. Para points forward to a goal: purpose (para tocar, para durar) and, with a new subject, para que + subjunctive (para que las monjas pudieran cruzar). Por points back to a cause or along a path: por eso ('that's why'), por esa calle, and fixed phrases like por primera vez. Watch out: English 'for/to' hides the difference: 'made to last' is para durar; para eso means 'for that purpose', not 'that's why'.",
+    "examples": [
+     [
+      "Por eso la llamamos Antigua.",
+      "That's why we call it Antigua."
+     ],
+     [
+      "Si caminamos por esa calle, encontraremos la casa.",
+      "If we walk along that street, we'll find the house."
+     ],
+     [
+      "Lo construyeron en el siglo XVII para que las monjas pudieran cruzar la calle sin ser vistas.",
+      "They built it in the seventeenth century so the nuns could cross the street without being seen."
+     ],
+     [
+      "En Antigua muchas puertas tienen una aldaba con forma de mano, para tocar.",
+      "In Antigua many doors have a door knocker shaped like a hand, for knocking."
+     ]
+    ]
+   },
+   {
+    "topic": "Future of probability: ¿será…?",
+    "explain": "The future tense can also express a guess about the present. ¿Qué será? means 'What can it be? / I wonder what it is', and ¿Quién vivirá aquí ahora? means 'I wonder who lives here now'. Nothing is in the future: the speaker is wondering or guessing. In a statement it means 'probably': Será la casa = It's probably the house. The forms are the normal future (ser → será, vivir → vivirá). Watch out: this story also uses the future with its real meaning (esta noche verás la lava, encontraremos la casa, iré contigo). A question or guess about now is probability; a plan or prediction is the real future.",
+    "examples": [
+     [
+      "¿Y qué será «la mano que toca»?",
+      "And what can 'the hand that knocks' be?"
+     ],
+     [
+      "¿Será alguien que toca la guitarra?",
+      "Could it be someone who plays the guitar?"
+     ],
+     [
+      "¿Quién vivirá aquí ahora?",
+      "Who could be living here now?"
+     ]
+    ]
+   }
+  ]
+ },
+ "gq_replace": {
+  "b1-06": [
+   {
+    "topic": "Subjunctive after opinion and wish",
+    "q": "Ximena hopes the daughter will write back. Complete: Espero que la hija de Octavio me ___ pronto.",
+    "options": [
+     "contesta",
+     "conteste",
+     "contestar",
+     "contestes"
+    ],
+    "answer": 1,
+    "why": "Espero que + a different subject takes the present subjunctive: (ella) conteste. Contesta is indicative, the infinitive needs the same subject, and contestes is the tú form."
+   },
+   {
+    "topic": "Subjunctive after opinion and wish",
+    "q": "Complete: Creo que la abuela ___ feliz con las cartas, pero no creo que ___ dormir esta noche.",
+    "options": [
+     "estará / pueda",
+     "esté / pueda",
+     "estará / puede",
+     "esté / puede"
+    ],
+    "answer": 0,
+    "why": "Creo que states a belief, so indicative (estará). No creo que expresses doubt, so subjunctive (pueda)."
+   },
+   {
+    "topic": "Negative commands",
+    "q": "Marisol tells her cousin (tú): 'Don't tell her anything.'",
+    "options": [
+     "No le dices nada.",
+     "No dile nada.",
+     "No le digas nada.",
+     "No le decir nada."
+    ],
+    "answer": 2,
+    "why": "Negative tú command = no + present subjunctive: digas (from digo). Pronoun before the verb. No le dices is a statement; dile is only affirmative."
+   },
+   {
+    "topic": "Acabar de and dejar de",
+    "q": "Rocío's father saw the photo a few minutes ago. Complete: «Mi padre ___ ver esta foto.»",
+    "options": [
+     "acaba de",
+     "acaba",
+     "deja de",
+     "termina a"
+    ],
+    "answer": 0,
+    "why": "Acabar de + infinitive means 'to have just done something': acaba de ver = has just seen. The de can't be dropped, and deja de means 'stops'."
+   },
+   {
+    "topic": "Subjunctive after opinion and wish",
+    "q": "Which sentence contains an error?",
+    "options": [
+     "Espero que lo haga.",
+     "Rocío quiere que la llames.",
+     "Es importante que no se hace ilusiones.",
+     "Creo que contestará pronto."
+    ],
+    "answer": 2,
+    "why": "Es importante que is a value judgement and needs the subjunctive: se haga. Creo que (belief) correctly takes the indicative.",
+    "x": true
+   },
+   {
+    "topic": "Negative commands",
+    "q": "Make the command negative: «Dile la verdad.» → «___ la verdad.»",
+    "options": [
+     "No le digas",
+     "No dile",
+     "No le dices",
+     "No digas le"
+    ],
+    "answer": 0,
+    "why": "In a negative command the pronoun moves in front and the verb becomes subjunctive: dile → no le digas.",
+    "x": true
+   },
+   {
+    "topic": "Acabar de and dejar de",
+    "q": "What does «Por orgullo dejé de preguntar por él» mean?",
+    "options": [
+     "Out of pride I kept asking about him.",
+     "Out of pride I stopped asking about him.",
+     "Out of pride I let him ask about me.",
+     "Out of pride I had just asked about him."
+    ],
+    "answer": 1,
+    "why": "Dejar de + infinitive means 'to stop doing something': dejé de preguntar = I stopped asking. 'Had just asked' would be acababa de preguntar.",
+    "x": true
+   },
+   {
+    "topic": "Subjunctive after opinion and wish",
+    "q": "Which sentence correctly says 'Marisol hopes to find more letters'?",
+    "options": [
+     "Marisol espera que encuentra más cartas.",
+     "Marisol espera encontrar más cartas.",
+     "Marisol espera que encuentre más cartas.",
+     "Marisol espera a encontrar más cartas."
+    ],
+    "answer": 1,
+    "why": "Same subject (Marisol hopes, Marisol finds) → infinitive. Que + subjunctive means someone else will find them.",
+    "x": true
+   }
+  ],
+  "b1-09": [
+   {
+    "topic": "Reported commands",
+    "q": "Doña Rosa gritaba: «¡No usen el ascensor!» Complete the report: Doña Rosa gritaba que no ___ el ascensor.",
+    "options": [
+     "usaban",
+     "usar",
+     "usaran",
+     "usarían"
+    ],
+    "answer": 2,
+    "why": "A reported command after a past verb (gritaba) needs que + imperfect subjunctive: usaran. Usaban would report a fact, not an order."
+   },
+   {
+    "topic": "Reported commands",
+    "q": "Complete: Doña Rosa nos pide que ___ con cuidado por las escaleras.",
+    "options": [
+     "bajamos",
+     "bajemos",
+     "bajáramos",
+     "bajar"
+    ],
+    "answer": 1,
+    "why": "Pedir que + subjunctive. The reporting verb is present (pide), so the present subjunctive follows: bajemos. Que can't be followed by an infinitive."
+   },
+   {
+    "topic": "Accidental se: se le olvidó, se le acabó",
+    "q": "Soledad didn't mean to forget. Complete: «Se le ___ guardar el archivo.»",
+    "options": [
+     "olvidaron",
+     "olvidó",
+     "olvidaste",
+     "olvidar"
+    ],
+    "answer": 1,
+    "why": "In accidental se the verb agrees with what is forgotten. An infinitive (guardar el archivo) counts as singular, so se le olvidó. Le shows who it happened to."
+   },
+   {
+    "topic": "Verbs of change: ponerse, quedarse, convertirse",
+    "q": "Complete: Después de cenar, Gonzalo se ___ dormido sobre las piernas de su madre.",
+    "options": [
+     "puso",
+     "convirtió",
+     "volvió",
+     "quedó"
+    ],
+    "answer": 3,
+    "why": "Quedarse + participle or adjective describes the state that results: quedarse dormido = fall asleep. Ponerse and volverse don't go with dormido; convertirse needs en + noun."
+   },
+   {
+    "topic": "Reported commands",
+    "q": "In which sentence does the verb report an order, not a piece of information?",
+    "options": [
+     "Gonzalo decía que la oscuridad le daba miedo.",
+     "Gutiérrez contó que su esposa había fallecido.",
+     "La compañía eléctrica dice que el apagón puede durar toda la noche.",
+     "Soledad le dijo que no tuviera miedo."
+    ],
+    "answer": 3,
+    "why": "Decir que + subjunctive (tuviera) reports a command: 'told him not to be afraid'. With the indicative (daba, había fallecido, puede) it only reports information.",
+    "x": true
+   },
+   {
+    "topic": "Accidental se: se le olvidó, se le acabó",
+    "q": "The computer's battery ran out. Which sentence is correct?",
+    "options": [
+     "A la computadora le se acabó la batería.",
+     "A la computadora se le acabaron la batería.",
+     "A la computadora se le acabó la batería.",
+     "La computadora se acabó la batería."
+    ],
+    "answer": 2,
+    "why": "The order is se + le + verb, and the verb agrees with la batería (singular): se le acabó. Le se is never correct.",
+    "x": true
+   },
+   {
+    "topic": "Verbs of change: ponerse, quedarse, convertirse",
+    "q": "Which sentence is correct?",
+    "options": [
+     "El cielo se puso negro y el vestíbulo se convirtió en un comedor.",
+     "El cielo se puso negro y el vestíbulo se convirtió un comedor.",
+     "El cielo se convirtió negro y el vestíbulo se puso un comedor.",
+     "El cielo se puso en negro y el vestíbulo se quedó un comedor."
+    ],
+    "answer": 0,
+    "why": "Ponerse + adjective for a sudden change (se puso negro); convertirse en + noun for a transformation. Without en, convertirse is wrong.",
+    "x": true
+   },
+   {
+    "topic": "Accidental se: se le olvidó, se le acabó",
+    "q": "What does «Se me va a descongelar el congelador» tell us about Gutiérrez?",
+    "options": [
+     "He wants to defrost the freezer on purpose.",
+     "The freezer is going to defrost and it isn't his fault.",
+     "He has already defrosted the freezer.",
+     "Someone else is going to defrost his freezer."
+    ],
+    "answer": 1,
+    "why": "Se me + verb presents something as an accident that happens to the speaker: the blackout, not Gutiérrez, is defrosting the freezer.",
+    "x": true
+   }
+  ],
+  "b1-10": [
+   {
+    "topic": "Passive and impersonal se",
+    "q": "Complete: En Antigua, las alfombras de Viernes Santo se ___ con aserrín de colores.",
+    "options": [
+     "hace",
+     "hecho",
+     "hacen",
+     "hacemos"
+    ],
+    "answer": 2,
+    "why": "Passive se agrees with the thing: las alfombras is plural, so se hacen. Se hace is the classic slip; hecho needs ser or estar."
+   },
+   {
+    "topic": "Future of probability: ¿será…?",
+    "q": "Itzel is wondering about the clue. Complete her question: ¿Y qué ___ «la mano que toca»?",
+    "options": [
+     "sea",
+     "será",
+     "fuera",
+     "seré"
+    ],
+    "answer": 1,
+    "why": "To wonder or guess about the present, Spanish uses the future: ¿qué será? = what can it be? Sea and fuera are subjunctive forms with no trigger, and seré is the yo form."
+   },
+   {
+    "topic": "Por vs. para",
+    "q": "Complete: Bayron e Itzel caminaron ___ la calle del arco ___ buscar la casa.",
+    "options": [
+     "para / por",
+     "por / por",
+     "para / para",
+     "por / para"
+    ],
+    "answer": 3,
+    "why": "Por marks the path (along the street); para + infinitive marks the purpose (in order to look for)."
+   },
+   {
+    "topic": "Por vs. para",
+    "q": "Complete: Construyeron el arco ___ que las monjas pudieran cruzar la calle sin ser vistas.",
+    "options": [
+     "por",
+     "para",
+     "porque",
+     "de"
+    ],
+    "answer": 1,
+    "why": "Purpose with a new subject is para que + subjunctive (pudieran). Porque gives a cause and takes the indicative; por que is not a purpose link."
+   },
+   {
+    "topic": "Passive and impersonal se",
+    "q": "Find the mistake: «En Antigua se ve muchas puertas con aldabas de bronce.»",
+    "options": [
+     "muchas → muchos",
+     "se ve → se ven",
+     "con → por",
+     "There is no mistake."
+    ],
+    "answer": 1,
+    "why": "Puertas is plural, so the se verb must be plural too: se ven. Singular se ve only fits a singular noun or a verb with no noun.",
+    "x": true
+   },
+   {
+    "topic": "Future of probability: ¿será…?",
+    "q": "In which sentence does the future express a guess, not a future event?",
+    "options": [
+     "Si tienes suerte, esta noche verás la lava.",
+     "Si caminamos por esa calle, encontraremos la casa.",
+     "¿Será alguien que toca la guitarra?",
+     "Si vuelves el año que viene, iré contigo."
+    ],
+    "answer": 2,
+    "why": "¿Será alguien…? wonders about the present ('could it be someone…?'). The other sentences talk about real future events.",
+    "x": true
+   },
+   {
+    "topic": "Por vs. para",
+    "q": "What does «Por eso la llamamos Antigua» mean?",
+    "options": [
+     "That's why we call it Antigua.",
+     "We call it Antigua for that purpose.",
+     "We call it Antigua instead.",
+     "We call it Antigua through that."
+    ],
+    "answer": 0,
+    "why": "Por eso looks back at a cause: 'that's why'. Para eso would mean 'for that purpose', which isn't what Bayron means.",
+    "x": true
+   },
+   {
+    "topic": "Passive and impersonal se",
+    "q": "Which sentence is correct?",
+    "options": [
+     "Las alfombras no se hace para durar.",
+     "Las alfombras no se hacen por durar.",
+     "Las alfombras no se hacen para durar.",
+     "Las alfombras no hacen para durar."
+    ],
+    "answer": 2,
+    "why": "Plural noun, plural se verb (se hacen), and purpose is para + infinitive. Without se, 'the carpets don't make' makes no sense.",
+    "x": true
+   }
+  ]
+ },
+ "categories_add": {
+  "Acabar de and dejar de": "Verb phrases & near future",
+  "Accidental se: se le olvidó, se le acabó": "Reflexives & se",
+  "Future of probability: ¿será…?": "Conditionals & si-clauses"
+ },
+ "dict_add": {
+  "acaba": [
+   [
+    "acabar",
+    "verb",
+    "to finish (acabar de + infinitive: to have just done something)"
+   ]
+  ],
+  "acabando": [
+   [
+    "acabarse",
+    "verb",
+    "to end, to run out"
+   ]
+  ],
+  "agotada": [
+   [
+    "agotado",
+    "adj",
+    "exhausted"
+   ]
+  ],
+  "enojaba": [
+   [
+    "enojarse",
+    "verb",
+    "to get angry"
+   ]
+  ],
+  "enojó": [
+   [
+    "enojarse",
+    "verb",
+    "to get angry"
+   ]
+  ],
+  "extrañaba": [
+   [
+    "extrañar",
+    "verb",
+    "to miss (someone or something)"
+   ]
+  ],
+  "extrañar": [
+   [
+    "extrañar",
+    "verb",
+    "to miss (someone or something)"
+   ]
+  ],
+  "hacerse": [
+   [
+    "hacerse",
+    "verb",
+    "to become (hacerse ilusiones: to get one's hopes up)"
+   ]
+  ],
+  "limita": [
+   [
+    "limitarse",
+    "verb",
+    "to limit oneself"
+   ]
+  ],
+  "mandarme": [
+   [
+    "mandar",
+    "verb",
+    "to command, to send"
+   ]
+  ],
+  "mensajes": [
+   [
+    "el mensaje",
+    "noun",
+    "message"
+   ]
+  ],
+  "trataban": [
+   [
+    "tratar",
+    "verb",
+    "to try, to treat"
+   ]
+  ],
+  "intercambió": [
+   [
+    "intercambiar",
+    "verb",
+    "to exchange"
+   ]
+  ],
+  "vaciado": [
+   [
+    "vaciar",
+    "verb",
+    "to empty"
+   ]
+  ],
+  "acariciaba": [
+   [
+    "acariciar",
+    "verb",
+    "to caress, to stroke"
+   ]
+  ],
+  "acostó": [
+   [
+    "acostarse",
+    "verb",
+    "to go to bed"
+   ]
+  ],
+  "afortunados": [
+   [
+    "afortunado",
+    "adj",
+    "lucky"
+   ]
+  ],
+  "estos": [
+   [
+    "estos",
+    "det",
+    "these"
+   ]
+  ],
+  "madrugó": [
+   [
+    "madrugar",
+    "verb",
+    "to get up early"
+   ]
+  ],
+  "parpadear": [
+   [
+    "parpadear",
+    "verb",
+    "to blink, to flicker"
+   ]
+  ],
+  "será": [
+   [
+    "ser",
+    "verb",
+    "to be (¿será…?: can it be…?, I wonder if…)"
+   ]
+  ],
+  "vivirá": [
+   [
+    "vivir",
+    "verb",
+    "to live"
+   ]
+  ],
+  "cuenta": [
+   [
+    "la cuenta",
+    "noun",
+    "account, bill"
+   ],
+   [
+    "darse cuenta de",
+    "verb",
+    "to realize"
+   ]
+  ]
+ },
+ "notes": "G6 (b1-06..b1-10). Grammar: b1-06 drops 'Reported speech', adds 'Acabar de and dejar de' (map2 edit line 12); b1-09 drops 'Commands with ustedes and usted', adds 'Accidental se: se le olvidó, se le acabó' (map2 edits lines 1, 7); b1-10 drops 'Subjunctive after wishes and hasta que', adds 'Future of probability: ¿será…?' (map2 edits lines 8, 10). b1-07/b1-08 cards and quizzes unchanged (all keep). English translations patched alongside every Spanish edit; concepts (b1-06, b1-09, b1-10) and the b1-10 writing prompt updated to the new topics. Quizzes: dropped-topic questions replaced (b1-06: 1 core + 1 extra; b1-09: 1 core + 2 extras; b1-10: 1 core + 1 extra); new questions use 4 options like all 322 existing items (not 3), one clearly correct. Recycling: recycled words are NOT wrapped in <b> — in this site <b> marks the story's own key-vocab list (s.vocab); earlier-glossed words are looked up by tapping via dict.json, so <b> counts stay unchanged and no vocab entries were added. dict_add supplies surface forms the tap-lookup would miss (cuenta = existing entry + darse cuenta de reading). Recycled per story: b1-06: agotada (line 0), maleta (line 5), enojaba (line 4), se cae (line 6), extrañaba (line 7), noticia (line 9), rencor (line 12), se dio cuenta (line 13); b1-07: hacerse ilusiones (line 0), pedazo (line 3), nudo en la garganta (line 3), se dio cuenta (line 6), rincón (line 8), se limita a (line 11), se enojó (line 12); b1-08: vaciado (line 0), nudo en la garganta (line 6), pedazo (line 8), Carraspeó (line 10), intercambió una mirada (line 11), extrañar (line 13), Se dio cuenta (line 13); b1-09: preocupada (line 3), acariciaba (line 4), se dio cuenta (line 4), quebrada (line 8), afortunados (line 9), madrugar (line 11), agotada (line 12); b1-10: trueno (line 5), se dio cuenta (line 9), parpadear (line 11), mudado (line 12), acariciaba (line 13), madrugó (line 15), hechizo (line 16). Dialogues left unchanged: role-plays for b1-06 (reported speech), b1-09 (usted/ustedes commands) and b1-10 (espero que) still match the story text, and those structures remain in the stories and are taught elsewhere in B1. No scene colours/objects changed (b1-09 'abrazaba'→'acariciaba' a su perro keeps the dog). Pre-existing non-verbatim card examples (constructed examples in kept cards, e.g. b1-06 'Creo que contestará pronto.') left as they were; all new examples are verbatim. Patches verified: each find unique in the original and in the sequentially patched object; line counts and <b> counts unchanged; all story-quoted examples still present; topic pattern hits ≥3 for every topic."
+}

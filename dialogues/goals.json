@@ -1,0 +1,422 @@
+{
+ "a1-01": {
+  "goal": "Ask who the glasses belong to and say if you like flan.",
+  "goalEs": "Pregunta de quién son los lentes y di si te gusta el flan.",
+  "opener": "¡Hola! Soy Xóchitl, una niña detective de la Ciudad de México. ¡No hay flan en la cocina!",
+  "openerEn": "Hi! I'm Xóchitl, a girl detective from Mexico City. There's no flan in the kitchen!",
+  "scene": "Xóchitl is a young girl detective in her family's kitchen in Mexico City, investigating who ate the missing flan."
+ },
+ "a1-02": {
+  "goal": "Order a steak and ask the price.",
+  "goalEs": "Pide un bife y pregunta el precio.",
+  "opener": "¡Buenas noches! Soy Delfina, la cocinera de la parrilla. ¿Qué quieres comer?",
+  "openerEn": "Good evening! I'm Delfina, the cook at the steakhouse. What do you want to eat?",
+  "scene": "Delfina is a busy cook at a Buenos Aires steakhouse on a Friday night, taking an order from a customer."
+ },
+ "a1-03": {
+  "goal": "Introduce yourself to Cristina and say what you like to do.",
+  "goalEs": "Di tu nombre y qué te gusta hacer.",
+  "opener": "¡Hola! Soy Cristina. Hoy hay una niña nueva en mi clase. ¿Y tú, cómo te llamas?",
+  "openerEn": "Hi! I'm Cristina. There's a new girl in my class today. And you, what's your name?",
+  "scene": "Cristina is a friendly schoolgirl chatting with a new classmate at school before lunch."
+ },
+ "a1-04": {
+  "goal": "Buy a cake and ask what color it is.",
+  "goalEs": "Compra una torta y pregunta de qué color es.",
+  "opener": "¡Buenos días! Soy Marleny, de la panadería. Hoy tengo tortas y pan. ¿Qué quieres?",
+  "openerEn": "Good morning! I'm Marleny from the bakery. Today I have cakes and bread. What do you want?",
+  "scene": "Marleny runs a small bakery in Bogotá with her black dog Tinto and is serving a customer."
+ },
+ "a1-05": {
+  "goal": "Ask Nerea for two hot chocolates with churros and ask for the total price.",
+  "goalEs": "Pide dos chocolates con churros y pregunta cuánto es.",
+  "opener": "¡Hola! Soy Nerea. Estoy con mi abuelo en la chocolatería San Ginés. ¿Qué quieres tomar?",
+  "openerEn": "Hi! I'm Nerea. I'm with my grandfather at the San Ginés chocolate shop. What do you want to have?",
+  "scene": "Nerea is a girl in a busy Madrid chocolatería on Sunday morning, helping her grandfather and the customer order."
+ },
+ "a1-06": {
+  "goal": "Tell Yadira where one guest should sit at the wedding.",
+  "goalEs": "Di a Yadira dónde se sienta un invitado en la boda.",
+  "opener": "¡Hola! Soy Yadira. Mi prima se casa el sábado y necesito ayuda con las mesas.",
+  "openerEn": "Hi! I'm Yadira. My cousin is getting married on Saturday and I need help with the tables.",
+  "scene": "Yadira is organizing the seating plan for her cousin's wedding in San Juan, Puerto Rico, and asks a friend for help."
+ },
+ "a1-07": {
+  "goal": "Ask Killa what time the clouds go away and where she lives.",
+  "goalEs": "Pregunta a qué hora no hay nubes y dónde vive Killa.",
+  "opener": "¡Hola! Soy Killa, guía en Machu Picchu. Hoy hay muchas nubes. ¿Cómo te llamas?",
+  "openerEn": "Hi! I'm Killa, a guide at Machu Picchu. Today there are lots of clouds. What's your name?",
+  "scene": "Killa is a guide at Machu Picchu, chatting with a tourist while waiting for the clouds to clear."
+ },
+ "a1-08": {
+  "goal": "Ask Julián about the map and say where you want to go.",
+  "goalEs": "Pregunta por el mapa y di adónde quieres ir.",
+  "opener": "¡Hola! Soy Julián, de Cartagena. Mi prima y yo tenemos un mapa de piratas. ¿Quieres ver?",
+  "openerEn": "Hi! I'm Julián from Cartagena. My cousin and I have a pirate map. Do you want to see it?",
+  "scene": "Julián is a nine-year-old boy in Cartagena, Colombia, excited about a pirate treasure map he and his cousin found."
+ },
+ "a1-09": {
+  "goal": "Ask Marta how she is and say what you have at home for the weekend.",
+  "goalEs": "Pregunta cómo está Marta y di qué tienes en casa.",
+  "opener": "¡Hola! Soy Marta, de Sevilla. Estoy en casa y no tengo planes. ¿Y tú, qué haces?",
+  "openerEn": "Hi! I'm Marta, from Seville. I'm at home and have no plans. And you, what are you doing?",
+  "scene": "Marta is at home in Seville on a Friday afternoon, a little sad about a quiet weekend, chatting on the phone."
+ },
+ "a1-10": {
+  "goal": "Ask Raúl what time the train leaves and say what you bring to the beach.",
+  "goalEs": "Pregunta a qué hora sale el tren y di qué llevas a la playa.",
+  "opener": "¡Hola! Soy Raúl. El sábado voy a Cádiz con mi hermana y el abuelo. ¿Vienes?",
+  "openerEn": "Hi! I'm Raúl. On Saturday I'm going to Cádiz with my sister and grandpa. Are you coming?",
+  "scene": "Raúl is planning a Saturday train trip to the beach in Cádiz with his sister Elena and their grandfather."
+ },
+ "a2-01": {
+  "goal": "Tell Ana about a day when you missed a bus or train and what you did.",
+  "goalEs": "Cuenta a Ana cuándo perdiste un tren o un autobús y qué hiciste.",
+  "opener": "¡Hola! Soy Ana. El sábado pasado perdí el tren a la boda de mi hermana. ¿Y tú, perdiste un tren alguna vez?",
+  "openerEn": "Hi! I'm Ana. Last Saturday I missed the train to my sister's wedding. Have you ever missed a train?",
+  "scene": "Ana is a young woman telling a friend about the crazy day she nearly missed her sister's wedding train."
+ },
+ "a2-02": {
+  "goal": "Tell Sofía what you did on your last birthday and what gift you got.",
+  "goalEs": "Cuenta qué hiciste en tu último cumpleaños y qué regalo recibiste.",
+  "opener": "¡Hola! Soy Sofía. Ayer fue mi cumpleaños en Guadalajara y recibí una caja azul muy rara. ¿Cómo fue tu último cumpleaños?",
+  "openerEn": "Hi! I'm Sofía. Yesterday was my birthday in Guadalajara and I got a very strange blue box. How was your last birthday?",
+  "scene": "Sofía is a girl from Guadalajara chatting the day after her birthday, excited about a mysterious blue box."
+ },
+ "a2-03": {
+  "goal": "Describe a dish you cooked recently and ask Mateo how he fixes a recipe.",
+  "goalEs": "Describe un plato que cocinaste y pregunta cómo arregla Mateo una receta.",
+  "opener": "¡Hola! Soy Mateo, de Lima. El domingo cociné el plato de mi abuela, pero algo salió mal. ¿Tú cocinas?",
+  "openerEn": "Hi! I'm Mateo from Lima. On Sunday I cooked my grandmother's dish, but something went wrong. Do you cook?",
+  "scene": "Mateo is a young man in Lima who tried to cook his grandmother's famous dish for Sunday family lunch."
+ },
+ "a2-04": {
+  "goal": "Tell Tomás what sport you played as a child and describe a game you remember.",
+  "goalEs": "Cuenta qué deporte jugabas de niño y describe un partido.",
+  "opener": "¡Hola! Soy Tomás, de Medellín. De niño jugaba de portero en mi barrio. ¿Qué deporte jugabas tú?",
+  "openerEn": "Hi! I'm Tomás from Medellín. As a kid I played goalkeeper in my neighborhood. What sport did you play?",
+  "scene": "Tomás is a young goalkeeper from Medellín remembering neighborhood soccer games from his childhood."
+ },
+ "a2-05": {
+  "goal": "Explain what you were doing when you got a surprise message or call.",
+  "goalEs": "Explica qué hacías cuando recibiste un mensaje o una llamada sorpresa.",
+  "opener": "¡Hola! Soy Valentina, de Santiago. Estaba en casa y llegó un mensaje equivocado. ¿Qué hacías tú cuando recibiste un mensaje raro?",
+  "openerEn": "Hi! I'm Valentina from Santiago. I was at home and a wrong-number message came. What were you doing when you got a weird message?",
+  "scene": "Valentina is a neighbor in Santiago, Chile, telling the story of a wrong-number text on a rainy afternoon."
+ },
+ "a2-06": {
+  "goal": "Ask Camila how her move went and tell her about a time you moved or lost something.",
+  "goalEs": "Pregunta cómo fue la mudanza de Camila y cuenta cuándo perdiste algo.",
+  "opener": "¡Hola! Soy Camila. El sábado me mudé a un apartamento nuevo en Santiago. ¿Te mudaste alguna vez?",
+  "openerEn": "Hi! I'm Camila. On Saturday I moved to a new apartment in Santiago. Have you ever moved?",
+  "scene": "Camila has just moved into a new apartment in Santiago and is telling a friend about the exhausting day and a special lamp."
+ },
+ "a2-07": {
+  "goal": "Ask Rodrigo about his music and tell him what song you used to like.",
+  "goalEs": "Pregunta a Rodrigo por su música y di qué canción te gustaba antes.",
+  "opener": "¡Hola! Soy Rodrigo, de Buenos Aires. Tocaba la guitarra en San Telmo todos los días. ¿Qué música te gustaba a vos?",
+  "openerEn": "Hi! I'm Rodrigo from Buenos Aires. I used to play guitar in San Telmo every day. What music did you like?",
+  "scene": "Rodrigo is a street guitar player in San Telmo, Buenos Aires, remembering his old routine and a lucky day."
+ },
+ "a2-08": {
+  "goal": "Tell Valeria about a trip you took and what went wrong.",
+  "goalEs": "Cuenta a Valeria de un viaje que hiciste y qué salió mal.",
+  "opener": "¡Hola! Soy Valeria. Fui a Salento con mi primo y nos perdimos en la niebla. ¿Y tú, adónde fuiste de viaje?",
+  "openerEn": "Hi! I'm Valeria. I went to Salento with my cousin and we got lost in the fog. Where did you go on a trip?",
+  "scene": "Valeria is telling a friend about a hiking trip in the Colombian mountains where she and her cousin lost their guide in fog."
+ },
+ "a2-09": {
+  "goal": "Tell Daniela about a bad morning you once had and give her advice for her interview.",
+  "goalEs": "Cuenta una mañana mala que tuviste y da un consejo a Daniela.",
+  "opener": "¡Hola! Soy Daniela. Tuve una mañana terrible antes de mi entrevista de trabajo. ¿Tuviste tú una mañana así?",
+  "openerEn": "Hi! I'm Daniela. I had a terrible morning before my job interview. Have you had a morning like that?",
+  "scene": "Daniela is a designer who just survived a disastrous morning before a big job interview and is telling a friend."
+ },
+ "a2-10": {
+  "goal": "Ask Dolores how the village saved the lantern and describe a festival from your town.",
+  "goalEs": "Pregunta cómo salvaron el farol y describe una fiesta de tu ciudad.",
+  "opener": "¡Hola! Soy Dolores. Cada agosto hacíamos faroles para la Noche de los Faroles. ¿Qué fiesta había en tu pueblo?",
+  "openerEn": "Hi! I'm Dolores. Every August we made lanterns for the Night of the Lanterns. What festival was there in your town?",
+  "scene": "Dolores is an art student in a Spanish village remembering the lantern festival and the storm that threatened the biggest lantern."
+ },
+ "b1-01": {
+  "goal": "Explain to Pilar how you found a lost wallet and what you hoped she would do.",
+  "goalEs": "Explica a Pilar cómo encontraste una cartera y qué esperas que haga.",
+  "opener": "Buenos días. Soy Pilar, la dueña del hostal de Lavapiés. Usted ha traído la cartera de un huésped, ¿verdad? ¿Dónde la encontró?",
+  "openerEn": "Good morning. I'm Pilar, owner of the Lavapiés hostel. You brought a guest's wallet, right? Where did you find it?",
+  "scene": "Pilar owns a hostel in Madrid's Lavapiés and is meeting the person who found a guest's lost wallet."
+ },
+ "b1-02": {
+  "goal": "Order a chivito the way you like it and say what you would have done to save the kitchen.",
+  "goalEs": "Pide un chivito como te gusta y di qué habrías hecho para salvar la cocina.",
+  "opener": "¡Buenas! Soy Agustina, la cocinera del Fogón en Montevideo. Pasá, pasá. ¿Qué chivito querés hoy?",
+  "openerEn": "Hi! I'm Agustina, the cook at El Fogón in Montevideo. Come in, come in. Which chivito do you want today?",
+  "scene": "Agustina is a young cook in her grandmother's small Montevideo kitchen who competes against a champion chivito maker."
+ },
+ "b1-03": {
+  "goal": "Offer Chema help for the bakery and suggest a plan if the oven stays broken.",
+  "goalEs": "Ofrece ayuda para la panadería y propón un plan si el horno sigue roto.",
+  "opener": "Buenos días. Soy Chema, el carnicero de la esquina en Oaxaca. Doña Remedios perdió su horno antes de la fiesta. ¿Cómo podemos ayudarla?",
+  "openerEn": "Good morning. I'm Chema, the corner butcher in Oaxaca. Doña Remedios lost her oven before the festival. How can we help her?",
+  "scene": "Chema is a neighborhood butcher in Oaxaca worried about the bakery next door that has no working oven before a big festival."
+ },
+ "b1-04": {
+  "goal": "Convince Silvestre to rest and ask him what he saw in the night sky.",
+  "goalEs": "Convence a Silvestre de que descanse y pregunta qué vio en el cielo.",
+  "opener": "Buenas noches, joven. Soy Silvestre, el paciente de la habitación 12. No tengo sueño, ¿y usted?",
+  "openerEn": "Good evening, young man. I'm Silvestre, the patient in room 12. I'm not sleepy, are you?",
+  "scene": "Silvestre is a retired astronomer awake at night in a Santiago hospital, talking to the night-shift nurse."
+ },
+ "b1-05": {
+  "goal": "Tell Yolanda how the bike trip changed things between you and your sibling.",
+  "goalEs": "Cuenta a Yolanda cómo cambió la relación con tu hermano en el viaje en bicicleta.",
+  "opener": "¿Aló? Soy yo, tu tía Yolanda. Ya volvieron de Montañita. Cuéntame, ¿cómo les fue en bicicleta?",
+  "openerEn": "Hello? It's me, your aunt Yolanda. You're back from Montañita. Tell me, how was the bike ride?",
+  "scene": "Yolanda is a generous aunt who gave her niece and nephew bikes and is phoning to hear about their trip along the Ecuadorian coast."
+ },
+ "b1-06": {
+  "goal": "Tell Ximena what you think the photo means and what you will do next.",
+  "goalEs": "Dile a Ximena qué crees que significa la foto y qué vas a hacer.",
+  "opener": "¡Hola! Soy Ximena, tu prima periodista. Me mandaste una foto muy misteriosa. ¿Quiénes son?",
+  "openerEn": "Hi! I'm Ximena, your journalist cousin. You sent me a very mysterious photo. Who are they?",
+  "scene": "Ximena is a journalist cousin on the phone about a faded photograph found in the grandmother's attic."
+ },
+ "b1-07": {
+  "goal": "Congratulate Camilo and advise him how to handle the investors and the talking shoes.",
+  "goalEs": "Felicita a Camilo y aconséjale cómo hablar con los inversionistas.",
+  "opener": "¿Aló? Hola, soy Camilo. Hoy Teresa y yo tuvimos la reunión con los inversionistas y los zapatos hablaron solos. ¿Quieres saber qué pasó?",
+  "openerEn": "Hello? Hi, I'm Camilo. Today Teresa and I had the investor meeting and the shoes spoke on their own. Do you want to know what happened?",
+  "scene": "Camilo is a young inventor phoning a friend after a meeting in which his talking-shoe prototype surprised everyone."
+ },
+ "b1-08": {
+  "goal": "Persuade Aurelio to accept the students' farewell party and say what he taught you.",
+  "goalEs": "Convence a Aurelio de que acepte la fiesta y di qué te enseñó.",
+  "opener": "Soy Aurelio, su profesor de matemáticas desde hace treinta y ocho años. Hoy es mi último día y quiero algo sencillo. ¿Qué piensa usted?",
+  "openerEn": "I'm Aurelio, your math teacher for thirty-eight years. Today is my last day and I want something simple. What do you think?",
+  "scene": "Aurelio is a retiring math teacher who wants a quiet last day, while his students plan a big surprise."
+ },
+ "b1-09": {
+  "goal": "Suggest to Rosa how the neighbors can help each other during the blackout.",
+  "goalEs": "Propón a Rosa cómo pueden ayudarse los vecinos durante el apagón.",
+  "opener": "¡Soy Rosa, la portera de Los Guarumos! No hay luz y el apagón puede durar toda la noche. ¿Qué hacemos?",
+  "openerEn": "I'm Rosa, the caretaker of Los Guarumos! There's no power and the blackout could last all night. What do we do?",
+  "scene": "Rosa is the caretaker of a Costa Rican apartment building where a storm has cut the electricity and neighbors are in the dark."
+ },
+ "b1-10": {
+  "goal": "Ask Bayron about Antigua's history and tell him what you hope to find for your grandmother.",
+  "goalEs": "Pregunta a Bayron por la historia de Antigua y di qué esperas encontrar.",
+  "opener": "¡Hola, Itzel! Bienvenida a Antigua. Soy Bayron, tu guía. ¿Qué buscas aquí?",
+  "openerEn": "Hi, Itzel! Welcome to Antigua. I'm Bayron, your guide. What are you looking for here?",
+  "scene": "Bayron is a history guide in Antigua, Guatemala, helping a visitor follow a riddle and an old photo from her grandmother."
+ },
+ "b2-01": {
+  "goal": "Debate with Ignacio whether he should deliver the unstamped letter, and justify your view.",
+  "goalEs": "Debate con Ignacio si debe entregar la carta sin sello y justifica tu opinión.",
+  "opener": "Hola, soy Ignacio Barrientos, archivista en Valparaíso. Encontré una carta de 1953 que nunca se envió. Mi reglamento dice que no debo abrirla, pero ¿usted qué haría?",
+  "openerEn": "Hello, I'm Ignacio Barrientos, an archivist in Valparaíso. I found a letter from 1953 that was never sent. The rules say I mustn't open it, but what would you do?",
+  "scene": "Ignacio is a veteran port archivist in Valparaíso torn between company rules and delivering a forgotten letter."
+ },
+ "b2-02": {
+  "goal": "Argue whether Esperanza should modernize the family restaurant or keep tradition.",
+  "goalEs": "Argumenta si Esperanza debe modernizar el restaurante o mantener la tradición.",
+  "opener": "¡Hola! Soy Esperanza Pech. Volví a Mérida con ganas de modernizar La Ceiba, pero no salió bien. ¿Usted qué cambiaría?",
+  "openerEn": "Hi! I'm Esperanza Pech. I returned to Mérida eager to modernize La Ceiba, but it didn't go well. What would you change?",
+  "scene": "Esperanza is a celebrated chef back at her family's humble Mérida eatery, reconsidering her plans to modernize it."
+ },
+ "b2-03": {
+  "goal": "Challenge Begoña's skepticism and persuade her to return the wrong backpack.",
+  "goalEs": "Cuestiona el escepticismo de Begoña y convéncela de devolver la mochila.",
+  "opener": "Hola, soy Begoña Larrea, perita de seguros. En Melide me entregaron una mochila que no es mía. No me fío de nadie, ¿y usted?",
+  "openerEn": "Hello, I'm Begoña Larrea, an insurance adjuster. In Melide I was given a backpack that isn't mine. I don't trust anyone, do you?",
+  "scene": "Begoña is a sceptical insurance adjuster walking the Camino de Santiago who has been handed a stranger's backpack."
+ },
+ "b2-04": {
+  "goal": "Advise Maribel how to translate the ambiguous sentence and defend your choice.",
+  "goalEs": "Aconseja a Maribel cómo traducir la frase ambigua y defiende tu elección.",
+  "opener": "Hola, mucho gusto. Soy Maribel Ospina, traductora. Una frase de estas memorias puede ofender a alguien. ¿Cree que debo suavizarla?",
+  "openerEn": "Hello, nice to meet you. I'm Maribel Ospina, a translator. One sentence in these memoirs may offend someone. Do you think I should soften it?",
+  "scene": "Maribel is a literary translator in Bogotá facing one ambiguous sentence that might embarrass her publisher."
+ },
+ "b2-05": {
+  "goal": "Question Mercedes about the missing Borges and propose who might be responsible.",
+  "goalEs": "Interroga a Mercedes sobre el Borges y propón quién pudo ser el responsable.",
+  "opener": "Hola, soy Mercedes. Trabajo en la Librería de Corrientes con mi abuelo. Desapareció una primera edición de «Ficciones». ¿Qué piensa?",
+  "openerEn": "Hello, I'm Mercedes. I work at the Corrientes bookshop with my grandfather. A first edition of 'Ficciones' has vanished. What do you think?",
+  "scene": "Mercedes is an amateur sleuth in an old Buenos Aires bookshop looking into a stolen Borges first edition."
+ },
+ "b2-06": {
+  "goal": "Disagree politely with Eusebio about patience versus speed in learning a craft.",
+  "goalEs": "Discrepa con respeto de Eusebio sobre la paciencia y la prisa al aprender un oficio.",
+  "opener": "Buenas tardes. Soy Eusebio, relojero. Mi aprendiz no tiene paciencia y rompió una regla del taller. ¿Usted cree que el tiempo lo arregla todo?",
+  "openerEn": "Good afternoon. I'm Eusebio, a watchmaker. My apprentice has no patience and broke a workshop rule. Do you think time fixes everything?",
+  "scene": "Eusebio is a master watchmaker in a Guanajuato workshop, reflecting on his impatient apprentice."
+ },
+ "b2-07": {
+  "goal": "Negotiate with Paloma which version of the mole legend she should write about.",
+  "goalEs": "Negocia con Paloma qué versión de la leyenda del mole debe publicar.",
+  "opener": "¡Hola! Soy Paloma Zenteno, poblana. Mi abuela dice que el mole lo inventó una monja, pero otros no están de acuerdo. ¿Qué versión le parece mejor?",
+  "openerEn": "Hi! I'm Paloma Zenteno, from Puebla. My grandmother says a nun invented mole, but others disagree. Which version seems best to you?",
+  "scene": "Paloma is a food writer in Puebla researching the true origin of mole poblano among competing legends."
+ },
+ "b2-08": {
+  "goal": "Explain to Joaquín how you would handle the reunion and persuade him to tell the truth.",
+  "goalEs": "Explica a Joaquín cómo manejarías el reencuentro y convéncelo de decir la verdad.",
+  "opener": "Hola, soy Joaquín. Volví a Valparaíso después de veinte años en España. Tengo preparado un relato, pero no sé si es la verdad. ¿Qué me aconseja?",
+  "openerEn": "Hi, I'm Joaquín. I came back to Valparaíso after twenty years in Spain. I've prepared a story, but I don't know if it's the truth. What do you advise?",
+  "scene": "Joaquín is a man back in Valparaíso to meet old friends, torn about whether to give his rehearsed version of the past."
+ },
+ "b2-09": {
+  "goal": "Question Efraín about the melody he heard and offer your explanation.",
+  "goalEs": "Pregunta a Efraín por la melodía que oyó y ofrece tu explicación.",
+  "opener": "Buenas noches. Soy Efraín Calderón, guardia del museo. Llevo años sin miedo, pero anoche oí una melodía en la sala siete. ¿Usted me cree?",
+  "openerEn": "Good evening. I'm Efraín Calderón, the museum guard. I've gone years without fear, but last night I heard a tune in room seven. Do you believe me?",
+  "scene": "Efraín is a veteran night guard in a Quito museum who heard music in a room that should be silent."
+ },
+ "b2-10": {
+  "goal": "Argue with Daylín whether the car in the photo proves the date is wrong.",
+  "goalEs": "Discute con Daylín si el coche de la foto prueba que la fecha es falsa.",
+  "opener": "¡Hola! Soy Daylín, restauradora en La Habana Vieja. En una foto del Capitolio de 1938 hay un coche que no debería estar. ¿Cómo lo explica usted?",
+  "openerEn": "Hi! I'm Daylín, a restorer in Old Havana. In a photo of the Capitolio from 1938 there's a car that shouldn't be there. How do you explain it?",
+  "scene": "Daylín is a young photo restorer in a Havana archive who notices an impossible car in a supposedly 1938 photograph."
+ },
+ "c1-01": {
+  "goal": "Get Lionel to tell you what he did during the storm without accusing him, and persuade him to sign a short statement for the report.",
+  "goalEs": "Consigue que Lionel te cuente qué hizo durante la tormenta sin acusarlo y convéncelo de que firme una breve declaración para el informe.",
+  "opener": "Wa'appin, Miss Archbold. Si viene por las neveras del jueves, ya le dije a todo el mundo que yo no perdí nada.",
+  "openerEn": "Wa’appin, Miss Archbold. If you’ve come about Thursday’s cold boxes, I’ve already told everyone I didn’t lose anything.",
+  "scene": "Lionel Bryan is a 68-year-old stevedore on the rainy Almirante dock in Bocas del Toro, Panama, who knew the learner’s grandfather; he quietly sent two boxes of insulin across on his nephew’s water taxi before a storm and won’t admit it to anyone who pushes him. He speaks colloquial Panamanian Spanish and switches from usted to tú only if he comes to trust you."
+ },
+ "c1-02": {
+  "goal": "Convince Chano to help you understand the whistled message, showing you respect the tradition and are not just after a story.",
+  "goalEs": "Convence a Chano de que te ayude a entender el mensaje silbado, demostrando que respetas la tradición y que no solo buscas una noticia.",
+  "opener": "Buenas tardes, mi niño. Usted es el periodista de Madrid que lo graba todo, ¿no? Aquí, en el mirador, se oye el barranco entero.",
+  "openerEn": "Good afternoon, my boy. You’re the journalist from Madrid who records everything, aren’t you? Up here at the viewpoint you can hear the whole ravine.",
+  "scene": "Chano Darias is a 66-year-old retired schoolteacher in Chipude, La Gomera, standing at a stone viewpoint over a terraced ravine; he whistles silbo gomero, distrusts journalists from outside and answers with Canarian humour and ustedes, but rewards patience and respect."
+ },
+ "c2-09": {
+  "goal": "Ask Covadonga about the tapes and help her decide whether, and how, to call Liosha in Moscow, weighing her mother's wish to leave the past alone.",
+  "goalEs": "Pregúntale a Covadonga por las cintas y ayúdala a decidir si llamar a Liosha a Moscú, y cómo, teniendo en cuenta que su madre prefiere no remover el pasado.",
+  "opener": "Hola, soy Covadonga. Salgo de un turno de noche y tengo en la mano una cinta en la que un señor de Moscú llama «mamochka» a mi tía abuela. Mi madre dice que agua pasada no mueve molino. ¿Tú qué harías?",
+  "openerEn": "Hi, I'm Covadonga. I'm just off a night shift and I've got a tape in my hand on which a man in Moscow calls my great-aunt 'mamochka'. My mother says let bygones be bygones. What would you do?",
+  "scene": "Covadonga Llaneza, an ICU nurse in Gijón, has found that her great-aunt Nina, evacuated to the USSR in 1937, raised an orphan named Liosha who is still alive in Moscow; she is unsure whether to call him."
+ },
+ "c2-10": {
+  "goal": "Explain don Anselmo's legal options in plain words, without legal jargon, and find out what he really wants from the case.",
+  "goalEs": "Explícale a don Anselmo sus opciones legales con palabras sencillas, sin jerga, y averigua qué quiere de verdad del caso.",
+  "opener": "Buenas tardes, doctora. Siéntese en el cajón nomás. Dicen que esa canción que suena en todas partes lleva mi voz. Explíqueme, pero sin tanto latín: ¿qué puedo hacer yo?",
+  "openerEn": "Good afternoon, doctor. Just sit on the cajón. They say that song playing everywhere has my voice in it. Explain it to me, but without so much Latin: what can I do?",
+  "scene": "Don Anselmo Corzo, 88, from El Carmen (Chincha, Peru), sang a panalivio for a foreign researcher in the 1970s; a dance hit now samples it without credit, and he is meeting his lawyer."
+ },
+ "c1-03": {
+  "goal": "Find out where the missing sacks are without accusing anyone, and agree with Críspulo how much cacao can still be shipped and how much stays for San Juan.",
+  "goalEs": "Averigua dónde están los sacos que faltan sin acusar a nadie y acuerda con Críspulo cuánto cacao se puede enviar y cuánto se queda para San Juan.",
+  "opener": "Buenas noches, mija. Me dijeron que andas preguntando por unos sacos de la caja tres. Siéntate, que el chocolate no está listo todavía. ¿Qué es lo que quieres saber?",
+  "openerEn": "Good evening, girl. I heard you've been going around asking about some sacks from box three. Sit down, the chocolate isn't ready yet. What is it you want to know?",
+  "scene": "Críspulo Mijares, 79, the oldest cacao fermenter of a cooperative in Curiepe, Venezuela, is roasting beans over a wood fire on the eve of the San Juan drum festival, and he has 300 kilos that should have been exported. Speak to him as usted."
+ },
+ "c1-04": {
+  "goal": "Explain your measurements to Ermelinda respectfully, ask what she has seen change in the estero, and agree on what the report should recommend.",
+  "goalEs": "Explícale a Ermelinda tus mediciones con respeto, pregúntale qué ha visto cambiar en el estero y acuerden qué debe recomendar el informe.",
+  "opener": "Buenas, biólogo. La marea está por subir y yo tengo que sacar mi concha. ¿Qué es eso de que quieren cerrarnos el estero?",
+  "openerEn": "Hello, biologist. The tide is about to come in and I have to dig my cockles. What's this about wanting to close our estuary?",
+  "scene": "Ermelinda Corozo, 64, a conchera and decimera who leads a cockle-diggers' association in the mangroves of San Lorenzo, Ecuador, stands in the mud at low tide; a report may close her estuary. Address her as usted."
+ },
+ "c1-05": {
+  "goal": "Negotiate the sponsorship: state your conditions clearly and refuse censorship without closing the door.",
+  "goalEs": "Negocia el patrocinio: plantea tus condiciones con claridad y rechaza la censura sin cerrar la puerta.",
+  "opener": "Buenas tardes. Soy la licenciada Mirna Zelaya, de Desarrollos Bahía Coral. Le pagamos el transmisor nuevo, siempre y cuando el especial no mencione la sentencia. ¿Tenemos un acuerdo?",
+  "openerEn": "Good afternoon. I’m Licenciada Mirna Zelaya, from Desarrollos Bahía Coral. We’ll pay for the new transmitter, provided the special doesn’t mention the ruling. Do we have a deal?",
+  "scene": "Mirna Zelaya represents a hotel developer near Triunfo de la Cruz, Honduras, and offers the Garífuna community radio a transmitter in exchange for silence on the 2015 Inter-American Court ruling; you speak for the station, in formal usted."
+ },
+ "c1-06": {
+  "goal": "Explain the conditions of the permit and persuade him to accept a later tide without hurting his pride.",
+  "goalEs": "Explícale las condiciones del permiso y convéncelo de aceptar una marea más tarde sin herir su orgullo.",
+  "opener": "Buenas, pase nomás. Usted es la de la municipalidad, ¿no? La casa cruza el domingo y se acabó, ¿me oyó?",
+  "openerEn": "Afternoon, come on in. You’re the one from the council, right? The house crosses on Sunday and that’s that, did you hear me?",
+  "scene": "Belarmino Cárcamo, 81, wants to float his shingled house across the channel from Quinchao to Rilán, Chiloé, on one particular Sunday; a storm is forecast and you are the council planner who has authorised it for Monday instead."
+ },
+ "c1-07": {
+  "goal": "Explain the new census question respectfully, listen to doña Eufemia's story and let her decide how, and whether, to answer, without pressing her.",
+  "goalEs": "Explica con respeto la pregunta nueva del censo, escucha la historia de doña Eufemia y deja que ella decida cómo, y si, contesta, sin presionarla.",
+  "opener": "¿Otra vez usted, muchacha? Ya le dije que esa pregunta en esta casa no la contesta nadie más. Pero siéntese, que el sol de la Costa no perdona.",
+  "openerEn": "You again, girl? I already told you that in this house nobody else answers that question. But sit down, the Costa sun doesn't forgive.",
+  "scene": "Doña Eufemia Noyola, 93, sits in a rocking chair on her shaded patio in Cuajinicuilapa with her late husband's devil mask on her lap; a census enumerator has come back, days before the 27 March 2020 deadline, to ask the Afro-Mexican self-identification question."
+ },
+ "c1-08": {
+  "goal": "Explain to Gastón, firmly and diplomatically, why his genuine 1649 coin cannot be exported, and negotiate an alternative: a sale or a loan to the museum.",
+  "goalEs": "Explícale a Gastón, con firmeza y diplomacia, por qué su moneda auténtica de 1649 no puede salir del país, y negocia una alternativa: venderla o prestarla al museo.",
+  "opener": "Buenos días, licenciada. Gastón Aramayo. Vengo por mi real de a ocho y por el informe de autenticidad; el comprador de Madrid espera mi llamada esta tarde.",
+  "openerEn": "Good morning, licenciada. Gastón Aramayo. I've come for my eight-real coin and the authenticity report; the buyer in Madrid is expecting my call this afternoon.",
+  "scene": "Gastón Aramayo, an impatient collector from La Paz, arrives at the conservation lab of the Casa Nacional de Moneda in Potosí expecting a certificate to export a 1649 coin that has turned out to be genuine, debased and part of the 1649 fraud inquiry."
+ },
+ "c1-09": {
+  "goal": "Explain to Altagracia by video call what the archive proves about Tiburcio, what is only probable and what will remain unknown, hedging carefully and moving from usted to tú when she offers.",
+  "goalEs": "Explícale a Altagracia por videollamada qué prueba el archivo sobre Tiburcio, qué es solo probable y qué seguirá sin saberse, con prudencia y pasando de usted a tú cuando ella lo proponga.",
+  "opener": "Buenas tardes, licenciado. Soy Altagracia Peguero. Me dijo por correo que había encontrado a Tiburcio en un rol de tripulantes de una goleta que iba a La Habana. Le confieso que no he dormido. ¿Qué es lo que sabe con seguridad?",
+  "openerEn": "Good afternoon, licenciado. I'm Altagracia Peguero. You told me by email that you'd found Tiburcio on the crew list of a schooner bound for Havana. I confess I haven't slept. What do you know for certain?",
+  "scene": "Altagracia is a Dominican lawyer in Santo Domingo who wants documents, not family legends, about an ancestor freed in Puerto Rico in 1873; she is on a video call with the archivist in San Juan."
+ },
+ "c1-10": {
+  "goal": "Interview Brígida tactfully about who wrote and changed the torta negra recipe, without taking sides, and get her to agree to meet Ceferino to discuss conditions.",
+  "goalEs": "Entrevista con tacto a Brígida sobre quién escribió y cambió la receta de la torta negra, sin tomar partido, y consigue que acepte reunirse con Ceferino para negociar condiciones.",
+  "opener": "Buenas tardes. Usted viene de parte del doctor Jones, ¿no? Le aviso que no enciendo el horno hasta que alguien me escuche. ¿Qué quiere saber?",
+  "openerEn": "Good afternoon. You've come on behalf of Dr Jones, haven't you? I'm warning you I won't light the oven until someone listens to me. What do you want to know?",
+  "scene": "Brígida Maldonado has been the cook at a Welsh tea house in Gaiman, Patagonia, for thirty-two years; the owner's will leaves the black-cake recipe to 'whoever made it', and the owner's nephew claims it too."
+ },
+ "c2-01": {
+  "goal": "Raise the matter of the identical cuplé with Fali using irony and understatement, without ever accusing him outright, and get him to tell you where his joke came from.",
+  "goalEs": "Saca el tema del cuplé idéntico con Fali usando la ironía y el eufemismo, sin acusarlo directamente, y consigue que te cuente de dónde salió su chiste.",
+  "opener": "¡Hombre, Reyes! ¿Tú por mi peña en plena semana de preliminares? Ni que vinieras a felicitarme… ¿Qué te trae por aquí?",
+  "openerEn": "Well, Reyes! You at my club in the middle of preliminaries week? As if you’d come to congratulate me… What brings you here?",
+  "scene": "Fali Camacho, a sharp-tongued chirigota lyricist from Cádiz with an old grudge against Reyes, is gluing sequins on costumes at his club after his group sang a verse almost identical to hers."
+ },
+ "c2-02": {
+  "goal": "Listen to Obdulio's memories of the Mediomundo tenement, then persuade him, tactfully, to let his granddaughter Abigail play his father's drum in the Llamadas while he walks beside her.",
+  "goalEs": "Escucha los recuerdos de Obdulio sobre el conventillo Mediomundo y convéncelo, con tacto, de que deje que su nieta Abigail toque el tambor de su padre en las Llamadas mientras él camina a su lado.",
+  "opener": "Pasá, sentate. ¿Vos venís por lo del tambor? Te aviso que yo no me retiro, ¿eh? Cincuenta años en la cuerda no se tiran así nomás.",
+  "openerEn": "Come in, sit down. Are you here about the drum? I’m warning you, I’m not retiring, eh? Fifty years in the line of drums aren’t thrown away just like that.",
+  "scene": "Obdulio Pereyra, a 72-year-old retired typographer from Montevideo, sits on his doorstep in Barrio Sur with the newly repaired piano drum his father made in the Mediomundo tenement, days before the Llamadas."
+ },
+ "c2-03": {
+  "goal": "Persuade Courtney to keep Dominican dishes in the meal plan, conceding her points about protein and portions, and agree a joint menu for the last two weeks before signing day.",
+  "goalEs": "Convence a Courtney de mantener los platos dominicanos en el plan de comidas, concediéndole lo de la proteína y las raciones, y acuerda con ella un menú conjunto para las dos últimas semanas antes de la firma.",
+  "opener": "Buenos días, chef. I'll be honest: los números de Wilkin no me gustan nada, y don Fello quiere pasar a todos al Plan B el lunes. ¿Usted qué propone?",
+  "openerEn": "Good morning, chef. I'll be honest: I don't like Wilkin's numbers at all, and don Fello wants to move everyone to Plan B on Monday. What do you propose?",
+  "scene": "Courtney Lamb is the new nutritionist from Arizona at a baseball academy near San Pedro de Macorís; she speaks Spanish mixed with English and trusts her charts more than the cook's sancocho."
+ },
+ "c2-04": {
+  "goal": "Ask doña Jacinta, respectfully and with humour, who wrote the copla about the road and what it really means, without accusing her of anything.",
+  "goalEs": "Pregúntale a doña Jacinta, con respeto y con humor, quién escribió la copla de la carretera y qué quiere decir de verdad, sin acusarla de nada.",
+  "opener": "Pase, pase, hijita, que afuera llueve. Un ratito nomás, ya está el cafecito. Dizque andas preguntando por una coplita, ¿no?",
+  "openerEn": "Come in, come in, dear, it's raining out there. Just a moment, the coffee's nearly ready. They say you've been asking about a little verse, haven't you?",
+  "scene": "Doña Jacinta Barra, 77, sings the saya coplas in Tocaña, an Afro-Bolivian community in the Yungas; she answers questions slowly, with diminutives, proverbs and a lot of humour."
+ },
+ "c2-05": {
+  "goal": "Interview the custodian as a journalist, separating what he knows from what he suspects, and agree how to attribute each claim.",
+  "goalEs": "Entrevista al custodio como periodista: separa lo que sabe de lo que sospecha y acuerda con él cómo atribuir cada afirmación.",
+  "opener": "Buenos días. Soy Neftalí Chicas, custodio de Joya de Cerén. Si viene por lo del supuesto saqueo, le aviso: de periodistas ando servido esta semana. ¿Qué quiere saber?",
+  "openerEn": "Good morning. I'm Neftalí Chicas, custodian of Joya de Cerén. If you're here about the so-called looting, I'll warn you: I've had my fill of journalists this week. What do you want to know?",
+  "scene": "Neftalí is the 64-year-old custodian of the Joya de Cerén archaeological site in El Salvador, whom a national newspaper has implicated in a supposed looting; you are a journalist interviewing him under the site's tin roofs in the rain."
+ },
+ "c2-06": {
+  "goal": "Convince the culture director to change the plaque's wording without humiliating him or the town's pride, offering a version that keeps the legend in the celebration and the facts in the bronze.",
+  "goalEs": "Convence al director de Cultura de cambiar el texto de la placa sin humillarlo a él ni al orgullo del pueblo: propón una versión que deje la leyenda en la fiesta y los hechos en el bronce.",
+  "opener": "Buenas tardes, pásele. Soy Omar Pitalúa, director de Cultura de Yanga. Me dicen que tiene usted reparos con el texto de la placa. Le advierto que ya está aprobado y que la develamos en tres semanas. Lo escucho.",
+  "openerEn": "Good afternoon, come in. I'm Omar Pitalúa, Yanga's director of culture. I'm told you have objections to the plaque's text. I should warn you it's already approved and we unveil it in three weeks. I'm listening.",
+  "scene": "Omar Pitalúa is the proud, image-conscious culture director of Yanga, Veracruz, who wants a bronze plaque calling Yanga 'a prince of Gabon who founded the first free town in the Americas in 1609'; you meet him in his town-hall office to negotiate the wording."
+ },
+ "c2-07": {
+  "goal": "Persuade prosecutor Osmar Villalba, formally and precisely, that the police translation must be corrected, and explain what ndaje means and why it matters as evidence.",
+  "goalEs": "Convence al fiscal Osmar Villalba, con precisión y en registro formal, de que la traducción policial debe rectificarse, y explícale qué significa ndaje y por qué importa como prueba.",
+  "opener": "Buenos días. Leída su nota, le confieso que no entiendo tanto alboroto por una palabrita. ¿Me lo puede explicar antes de la audiencia?",
+  "openerEn": "Good morning. Having read your note, I confess I don't understand all this fuss over one little word. Can you explain it to me before the hearing?",
+  "scene": "Osmar Villalba is the prosecutor in an arson trial in Asunción, Paraguay. The key witness speaks only Guaraní, and the police translation may have left out a word that turns eyewitness evidence into hearsay."
+ },
+ "c2-08": {
+  "goal": "Persuade Evaristo Cassiani to share what he knows about his mother's last word, showing respect for community knowledge over academic curiosity.",
+  "goalEs": "Convence a Evaristo Cassiani de que comparta lo que sabe sobre la última palabra de su madre, mostrando respeto por el saber de la comunidad por encima de la curiosidad académica.",
+  "opener": "Buenas tardes. Usted viene de la universidad, ¿no? Por aquí ya han pasado muchos con grabadora. ¿Y qué busca usted en Palenque?",
+  "openerEn": "Good afternoon. You're from the university, aren't you? Plenty of people with recorders have come through here. And what are you looking for in Palenque?",
+  "scene": "Evaristo Cassiani is a respected elder in San Basilio de Palenque, Colombia. His mother, Ma Petrona, died saying a word nobody in the family recognised, and he is wary of researchers who come to take the village's words away."
+ }
+}

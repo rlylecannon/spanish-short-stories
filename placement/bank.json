@@ -1,0 +1,2386 @@
+[
+ {
+  "id": "P-A1-01",
+  "level": "A1",
+  "skill": "grammar",
+  "q": "Choose the correct word: Mi hermana ___ en casa ahora.",
+  "options": [
+   "es",
+   "hay",
+   "tiene",
+   "está"
+  ],
+  "answer": 3,
+  "why": "Use estar (está) to say where someone is; ser is for identity and origin, not location.",
+  "topic": "estar for location"
+ },
+ {
+  "id": "P-A1-02",
+  "level": "A1",
+  "skill": "grammar",
+  "q": "Choose the correct word: Yo ___ veinte años.",
+  "options": [
+   "estoy",
+   "hay",
+   "soy",
+   "tengo"
+  ],
+  "answer": 3,
+  "why": "Spanish uses tener for age (tengo veinte años = I am twenty), not ser or estar.",
+  "topic": "tener for age"
+ },
+ {
+  "id": "P-A1-03",
+  "level": "A1",
+  "skill": "grammar",
+  "q": "Choose the correct form: Nosotros ___ en un apartamento pequeño.",
+  "options": [
+   "viven",
+   "vivo",
+   "vivimos",
+   "vivemos"
+  ],
+  "answer": 2,
+  "why": "Vivir is an -ir verb, so the nosotros form ends in -imos: vivimos (not -emos).",
+  "topic": "present tense -ir verbs"
+ },
+ {
+  "id": "P-A1-04",
+  "level": "A1",
+  "skill": "grammar",
+  "q": "Choose the correct word: En la mesa hay ___ libros.",
+  "options": [
+   "unos",
+   "un",
+   "los",
+   "unas"
+  ],
+  "answer": 0,
+  "why": "Libros is masculine plural, so 'some' is unos; after hay we use un/una/unos/unas, not el/los.",
+  "topic": "hay + indefinite articles"
+ },
+ {
+  "id": "P-A1-05",
+  "level": "A1",
+  "skill": "grammar",
+  "q": "It is 1:00 p.m. —¿Qué hora es? —___ de la tarde.",
+  "options": [
+   "Es una",
+   "Es la una",
+   "Son las una",
+   "Son la una"
+  ],
+  "answer": 1,
+  "why": "One o'clock is singular: Es la una; from two onwards use Son las dos, Son las tres...",
+  "topic": "telling time"
+ },
+ {
+  "id": "P-A1-06",
+  "level": "A1",
+  "skill": "vocab",
+  "q": "Choose the number: siete + ocho = ___",
+  "options": [
+   "cincuenta",
+   "cinco",
+   "quince",
+   "catorce"
+  ],
+  "answer": 2,
+  "why": "7 + 8 = 15, quince; don't confuse it with cincuenta (50) or catorce (14).",
+  "topic": "numbers"
+ },
+ {
+  "id": "P-A1-07",
+  "level": "A1",
+  "skill": "vocab",
+  "q": "Choose the correct word: Tengo ___. Quiero un vaso de agua.",
+  "options": [
+   "frío",
+   "sueño",
+   "hambre",
+   "sed"
+  ],
+  "answer": 3,
+  "why": "Tener sed = to be thirsty, which is why you want water; tener hambre = to be hungry.",
+  "topic": "tener expressions"
+ },
+ {
+  "id": "P-A1-08",
+  "level": "A1",
+  "skill": "vocab",
+  "q": "Choose the correct word: La madre de mi madre es mi ___.",
+  "options": [
+   "abuela",
+   "tía",
+   "hermana",
+   "prima"
+  ],
+  "answer": 0,
+  "why": "Your mother's mother is your abuela (grandmother); tía is aunt and prima is cousin.",
+  "topic": "family"
+ },
+ {
+  "id": "P-A1-09",
+  "level": "A1",
+  "skill": "reading",
+  "q": "Read the text. ¿Qué hace Lucía por la tarde?",
+  "passage": "Me llamo Lucía y soy de Perú. Trabajo en un hotel por la mañana y por la tarde estudio inglés en una academia.",
+  "options": [
+   "Estudia inglés",
+   "Viaja a Perú",
+   "Enseña inglés en una academia",
+   "Trabaja en un hotel"
+  ],
+  "answer": 0,
+  "why": "The text says 'por la tarde estudio inglés'; she works in the hotel in the morning (por la mañana).",
+  "topic": "short personal text"
+ },
+ {
+  "id": "P-A1-10",
+  "level": "A1",
+  "skill": "reading",
+  "q": "Read the text. ¿Dónde trabaja Lucía?",
+  "passage": "Me llamo Lucía y soy de Perú. Trabajo en un hotel por la mañana y por la tarde estudio inglés en una academia.",
+  "options": [
+   "En una academia",
+   "En un hotel",
+   "En una escuela de Perú",
+   "En una tienda"
+  ],
+  "answer": 1,
+  "why": "'Trabajo en un hotel' tells us where she works; the academia is where she studies.",
+  "topic": "short personal text"
+ },
+ {
+  "id": "P-A2-01",
+  "level": "A2",
+  "skill": "grammar",
+  "q": "Choose the correct form: Ayer yo ___ a mi abuela por teléfono.",
+  "options": [
+   "llamo",
+   "llamó",
+   "llamé",
+   "llame"
+  ],
+  "answer": 2,
+  "why": "Ayer signals a finished past action, and the yo preterite of -ar verbs ends in -é: llamé (llamó is él/ella).",
+  "topic": "regular preterite"
+ },
+ {
+  "id": "P-A2-02",
+  "level": "A2",
+  "skill": "grammar",
+  "q": "Choose the correct form: Cuando era niño, ___ al parque con mi abuelo todos los domingos.",
+  "options": [
+   "voy",
+   "iba",
+   "fue",
+   "fui"
+  ],
+  "answer": 1,
+  "why": "Todos los domingos describes a repeated past habit, which takes the imperfect: iba.",
+  "topic": "imperfect for habits"
+ },
+ {
+  "id": "P-A2-03",
+  "level": "A2",
+  "skill": "grammar",
+  "q": "—¿Dónde está la carta? —No sé. Creo que Pedro ___ tiene.",
+  "options": [
+   "lo",
+   "la",
+   "le",
+   "las"
+  ],
+  "answer": 1,
+  "why": "La carta is feminine singular and a direct object, so the pronoun is la.",
+  "topic": "direct object pronouns"
+ },
+ {
+  "id": "P-A2-04",
+  "level": "A2",
+  "skill": "grammar",
+  "q": "Choose the correct form: Todos los días mi hermano ___ a las siete.",
+  "options": [
+   "me levanto",
+   "levanta",
+   "se levantan",
+   "se levanta"
+  ],
+  "answer": 3,
+  "why": "Levantarse is reflexive, so 'my brother gets up' needs se + the él form: se levanta.",
+  "topic": "reflexive verbs"
+ },
+ {
+  "id": "P-A2-05",
+  "level": "A2",
+  "skill": "grammar",
+  "q": "Choose the correct word: Mi hermano es ___ alto que yo.",
+  "options": [
+   "más",
+   "tan",
+   "muy",
+   "mucho"
+  ],
+  "answer": 0,
+  "why": "Comparisons of inequality use más + adjective + que; tan pairs with como, not que.",
+  "topic": "comparatives"
+ },
+ {
+  "id": "P-A2-06",
+  "level": "A2",
+  "skill": "grammar",
+  "q": "Choose the correct word: Este regalo es ___ mi madre. Mañana es su cumpleaños.",
+  "options": [
+   "por",
+   "en",
+   "para",
+   "con"
+  ],
+  "answer": 2,
+  "why": "Para marks the recipient of something (for my mother); por is for cause, exchange or 'through'.",
+  "topic": "por vs para"
+ },
+ {
+  "id": "P-A2-07",
+  "level": "A2",
+  "skill": "grammar",
+  "q": "Hace mucho frío, Marta. ___ el abrigo antes de salir.",
+  "options": [
+   "Ponte",
+   "Ponerte",
+   "Pones",
+   "Te pone"
+  ],
+  "answer": 0,
+  "why": "The affirmative tú command of ponerse is irregular, pon, with the pronoun attached: ponte.",
+  "topic": "tú commands"
+ },
+ {
+  "id": "P-A2-08",
+  "level": "A2",
+  "skill": "vocab",
+  "q": "En la tienda: —Son veinticinco euros. ¿En efectivo? —No, con ___, por favor.",
+  "options": [
+   "cuenta",
+   "carta",
+   "factura",
+   "tarjeta"
+  ],
+  "answer": 3,
+  "why": "To pay by card is pagar con tarjeta. Carta is a letter (or a menu), a false friend for English 'card'. Cuenta is the bill and factura is an invoice.",
+  "topic": "shopping and payment"
+ },
+ {
+  "id": "P-A2-09",
+  "level": "A2",
+  "skill": "vocab",
+  "q": "Choose the correct word: A mi padre le ___ la cabeza; necesita una aspirina.",
+  "options": [
+   "siente",
+   "enferma",
+   "gusta",
+   "duele"
+  ],
+  "answer": 3,
+  "why": "Doler works like gustar (le duele la cabeza = his head hurts), which is why he needs an aspirin.",
+  "topic": "health (doler)"
+ },
+ {
+  "id": "P-A2-10",
+  "level": "A2",
+  "skill": "reading",
+  "q": "Read the message. ¿Por qué escribe Andrés?",
+  "passage": "Hola, Carlos:\nAyer no fui a clase porque estaba enfermo. ¿Me puedes prestar tus apuntes? Esta tarde voy a estar en la biblioteca hasta las seis. Si quieres, después te invito a un café.\n¡Gracias!\nAndrés",
+  "options": [
+   "Para preguntar dónde está la biblioteca",
+   "Para invitar a Carlos a la clase",
+   "Para pedirle los apuntes a Carlos",
+   "Para decir que va a llegar tarde"
+  ],
+  "answer": 2,
+  "why": "He missed class because he was ill and asks '¿Me puedes prestar tus apuntes?'; the coffee is only a thank-you.",
+  "topic": "short message"
+ },
+ {
+  "id": "P-A2-11",
+  "level": "A2",
+  "skill": "reading",
+  "q": "Read the message. ¿Qué va a hacer Andrés esta tarde?",
+  "passage": "Hola, Carlos:\nAyer no fui a clase porque estaba enfermo. ¿Me puedes prestar tus apuntes? Esta tarde voy a estar en la biblioteca hasta las seis. Si quieres, después te invito a un café.\n¡Gracias!\nAndrés",
+  "options": [
+   "Estar en la biblioteca",
+   "Ir al médico",
+   "Trabajar hasta las seis",
+   "Ir a clase con Carlos"
+  ],
+  "answer": 0,
+  "why": "'Esta tarde voy a estar en la biblioteca hasta las seis' uses ir a + infinitive for his plan.",
+  "topic": "short message"
+ },
+ {
+  "id": "P-A2-12",
+  "level": "A2",
+  "skill": "reading",
+  "q": "Read the note. ¿Por qué escribe Rosa a su vecina?",
+  "passage": "Querida vecina:\nEl sábado mi familia y yo vamos a hacer una fiesta para el cumpleaños de mi hija. Lo siento mucho si hay ruido. La fiesta empieza a las cinco y termina a las diez. Si usted quiere venir, ¡es bienvenida!\nRosa (apartamento 3B)",
+  "options": [
+   "Para quejarse del ruido que hace la vecina",
+   "Para avisar de una fiesta en su casa",
+   "Para cambiar la hora del cumpleaños",
+   "Para pedirle ayuda con la fiesta de su hija"
+  ],
+  "answer": 1,
+  "why": "'Lo siento mucho si hay ruido' is an apology in advance, not a complaint, and she also invites her neighbour.",
+  "topic": "short note"
+ },
+ {
+  "id": "P-B1-01",
+  "level": "B1",
+  "skill": "grammar",
+  "q": "Choose the correct form: Me alegra mucho que ___ a mi fiesta mañana.",
+  "options": [
+   "vienes",
+   "vendrás",
+   "vengas",
+   "venir"
+  ],
+  "answer": 2,
+  "why": "Expressions of emotion such as me alegra que take the present subjunctive when the subjects differ: que vengas. Use the infinitive only when the subject is the same (me alegra venir).",
+  "topic": "subjunctive after emotion"
+ },
+ {
+  "id": "P-B1-02",
+  "level": "B1",
+  "skill": "grammar",
+  "q": "Choose the correct form: Cuando llegamos al cine, la película ya ___.",
+  "options": [
+   "empiece",
+   "empezará",
+   "ha empezado",
+   "había empezado"
+  ],
+  "answer": 3,
+  "why": "The film started before another past event (we arrived), so use the pluperfect: había empezado.",
+  "topic": "pluperfect"
+ },
+ {
+  "id": "P-B1-03",
+  "level": "B1",
+  "skill": "grammar",
+  "q": "Choose the correct form: Si tuviera más tiempo, ___ a tocar la guitarra.",
+  "options": [
+   "aprendería",
+   "aprenderé",
+   "aprenda",
+   "aprendiera"
+  ],
+  "answer": 0,
+  "why": "Si + imperfect subjunctive (tuviera) is followed by the conditional in the result clause: aprendería.",
+  "topic": "si-clauses (hypothetical)"
+ },
+ {
+  "id": "P-B1-04",
+  "level": "B1",
+  "skill": "grammar",
+  "q": "Choose the correct form: Espero que mañana no ___, porque vamos a la playa.",
+  "options": [
+   "llueva",
+   "lloverá",
+   "llueve",
+   "llovería"
+  ],
+  "answer": 0,
+  "why": "Esperar que expresses a wish, which triggers the present subjunctive: llueva.",
+  "topic": "subjunctive after wishes"
+ },
+ {
+  "id": "P-B1-05",
+  "level": "B1",
+  "skill": "grammar",
+  "q": "Choose the correct form: Te dejo las llaves para que ___ entrar si llego tarde.",
+  "options": [
+   "puedes",
+   "podrás",
+   "puedas",
+   "poder"
+  ],
+  "answer": 2,
+  "why": "Para que always takes the subjunctive when the subjects differ: para que puedas.",
+  "topic": "subjunctive of purpose"
+ },
+ {
+  "id": "P-B1-06",
+  "level": "B1",
+  "skill": "grammar",
+  "q": "Choose the correct word: No entiendo ___ quieres decir con eso.",
+  "options": [
+   "que",
+   "lo que",
+   "cual",
+   "lo cual"
+  ],
+  "answer": 1,
+  "why": "Lo que means 'what' (the thing that) when there is no noun before it. Lo cual needs an antecedent clause, and que or cual alone cannot start this clause.",
+  "topic": "relative lo que"
+ },
+ {
+  "id": "P-B1-07",
+  "level": "B1",
+  "skill": "vocab",
+  "q": "Choose the correct verb: Tengo que ___ una decisión antes del viernes.",
+  "options": [
+   "tomar",
+   "dar",
+   "poner",
+   "hacer"
+  ],
+  "answer": 0,
+  "why": "In Spanish you tomar una decisión; 'hacer una decisión' is a direct translation from English.",
+  "topic": "collocations"
+ },
+ {
+  "id": "P-B1-08",
+  "level": "B1",
+  "skill": "vocab",
+  "q": "Choose the correct verb: Mi jefe se ___ cuenta del error y me ayudó a corregirlo.",
+  "options": [
+   "hizo",
+   "dio",
+   "puso",
+   "tomó"
+  ],
+  "answer": 1,
+  "why": "Darse cuenta de = to realise/notice, so the preterite is se dio cuenta.",
+  "topic": "darse cuenta"
+ },
+ {
+  "id": "P-B1-09",
+  "level": "B1",
+  "skill": "vocab",
+  "q": "Choose the correct word: Cuando se cayó delante de todos, Marta se sintió muy ___.",
+  "options": [
+   "excitada",
+   "constipada",
+   "avergonzada",
+   "embarazada"
+  ],
+  "answer": 2,
+  "why": "Avergonzada means embarrassed; embarazada means pregnant and constipada means having a cold, both classic false friends.",
+  "topic": "feelings (false friends)"
+ },
+ {
+  "id": "P-B1-10",
+  "level": "B1",
+  "skill": "reading",
+  "q": "Read the text. ¿Qué podemos deducir sobre Elena?",
+  "passage": "Durante años, Elena trabajó en una oficina del centro de Lima. Salía de casa a las siete y volvía a las nueve de la noche, cansada y de mal humor. El año pasado su empresa le ofreció trabajar desde casa tres días por semana, y al principio ella no estaba segura: le preocupaba sentirse sola. Ahora dice que ha sido la mejor decisión de su vida. Duerme más, cocina comida de verdad y por las tardes pasea con su perro por el malecón, algo que antes era impensable. Eso sí, los lunes y los jueves va a la oficina, y confiesa que espera esos días con ganas. «Si trabajara siempre en casa, extrañaría las bromas de mis compañeros», explica.",
+  "options": [
+   "Prefiere no volver nunca más a la oficina del centro",
+   "Valora el contacto con sus compañeros",
+   "Ahora trabaja más horas que antes",
+   "Su empresa la obligó a trabajar en casa"
+  ],
+  "answer": 1,
+  "why": "She looks forward to office days and says she would miss her colleagues' jokes, so she values contact with them.",
+  "topic": "inference (article)"
+ },
+ {
+  "id": "P-B1-11",
+  "level": "B1",
+  "skill": "reading",
+  "q": "Read the text. ¿Cómo se sentía Elena antes del cambio?",
+  "passage": "Durante años, Elena trabajó en una oficina del centro de Lima. Salía de casa a las siete y volvía a las nueve de la noche, cansada y de mal humor. El año pasado su empresa le ofreció trabajar desde casa tres días por semana, y al principio ella no estaba segura: le preocupaba sentirse sola. Ahora dice que ha sido la mejor decisión de su vida. Duerme más, cocina comida de verdad y por las tardes pasea con su perro por el malecón, algo que antes era impensable. Eso sí, los lunes y los jueves va a la oficina, y confiesa que espera esos días con ganas. «Si trabajara siempre en casa, extrañaría las bromas de mis compañeros», explica.",
+  "options": [
+   "Preocupada por la salud de su perro viejo",
+   "Contenta con su horario de trabajo",
+   "Agotada y de mal humor por la rutina",
+   "Sola porque trabajaba en casa"
+  ],
+  "answer": 2,
+  "why": "She left at seven and came back at nine 'cansada y de mal humor', so she was exhausted; loneliness was only a worry about the change.",
+  "topic": "inference (article)"
+ },
+ {
+  "id": "P-B1-12",
+  "level": "B1",
+  "skill": "reading",
+  "q": "Read the notice. ¿Qué deben hacer los vecinos?",
+  "passage": "Estimados vecinos:\nLes informamos de que el próximo martes se cortará el agua entre las 9:00 y las 14:00 por unas obras en la calle. Les recomendamos que guarden agua el lunes por la noche. Si tienen alguna duda, pueden llamar a la administración.\nDisculpen las molestias.",
+  "options": [
+   "Llamar a la administración el martes",
+   "Arreglar las tuberías de su apartamento",
+   "Salir del edificio por la mañana",
+   "Guardar agua antes del martes"
+  ],
+  "answer": 3,
+  "why": "'Les recomendamos que guarden agua el lunes por la noche' is the action asked of residents; calling is only if they have questions.",
+  "topic": "notice"
+ },
+ {
+  "id": "P-B2-01",
+  "level": "B2",
+  "skill": "grammar",
+  "q": "Choose the correct form: Te llamaré en cuanto ___ los resultados.",
+  "options": [
+   "tenga",
+   "tengo",
+   "tendré",
+   "tuviera"
+  ],
+  "answer": 0,
+  "why": "En cuanto referring to a future moment takes the present subjunctive: en cuanto tenga.",
+  "topic": "subjunctive in time clauses"
+ },
+ {
+  "id": "P-B2-02",
+  "level": "B2",
+  "skill": "grammar",
+  "q": "Choose the correct form: Me sorprendió que nadie ___ nada sobre el cambio de horario.",
+  "options": [
+   "dirá",
+   "dijo",
+   "dijera",
+   "diga"
+  ],
+  "answer": 2,
+  "why": "Emotion verbs trigger the subjunctive, and a past main verb (sorprendió) calls for the imperfect subjunctive: dijera.",
+  "topic": "subjunctive after emotion (past)"
+ },
+ {
+  "id": "P-B2-03",
+  "level": "B2",
+  "skill": "grammar",
+  "q": "Choose the correct form: Si hubieras salido antes, no ___ el avión.",
+  "options": [
+   "has perdido",
+   "perdiste",
+   "habías perdido",
+   "habrías perdido"
+  ],
+  "answer": 3,
+  "why": "A contrary-to-fact past condition (si hubieras salido) takes the conditional perfect in the result: habrías perdido.",
+  "topic": "si + pluperfect subjunctive"
+ },
+ {
+  "id": "P-B2-04",
+  "level": "B2",
+  "skill": "grammar",
+  "q": "Ana me dijo la semana pasada que al día siguiente me ___ el informe, pero nunca llegó.",
+  "options": [
+   "envíe",
+   "habrá enviado",
+   "enviará",
+   "enviaría"
+  ],
+  "answer": 3,
+  "why": "In reported speech after a past verb, a future (enviaré) shifts to the conditional: enviaría.",
+  "topic": "reported speech"
+ },
+ {
+  "id": "P-B2-05",
+  "level": "B2",
+  "skill": "grammar",
+  "q": "Choose the correct word: Esa es la escritora ___ novela ganó el premio el año pasado.",
+  "options": [
+   "que su",
+   "cuya",
+   "de quien",
+   "cuyo"
+  ],
+  "answer": 1,
+  "why": "Cuyo means 'whose' and agrees with the thing possessed (novela), so it is cuya.",
+  "topic": "relative cuyo"
+ },
+ {
+  "id": "P-B2-06",
+  "level": "B2",
+  "skill": "vocab",
+  "q": "Choose the correct expression: El examen de mañana será muy fácil para Marta; para ella es ___.",
+  "options": [
+   "harina de otro costal",
+   "pan comido",
+   "agua pasada",
+   "un callejón sin salida"
+  ],
+  "answer": 1,
+  "why": "Ser pan comido means to be very easy; agua pasada is something in the past and harina de otro costal is a different matter.",
+  "topic": "idioms"
+ },
+ {
+  "id": "P-B2-07",
+  "level": "B2",
+  "skill": "vocab",
+  "q": "Choose the correct verb: El gobierno ha ___ en marcha un nuevo plan de transporte público.",
+  "options": [
+   "llevado",
+   "puesto",
+   "dado",
+   "hecho"
+  ],
+  "answer": 1,
+  "why": "Poner en marcha = to launch/set in motion; llevar is used in llevar a cabo, not with en marcha.",
+  "topic": "collocations"
+ },
+ {
+  "id": "P-B2-08",
+  "level": "B2",
+  "skill": "reading",
+  "q": "Read the text. ¿Cuál es el tono del autor al final del texto?",
+  "passage": "Hace unos años, mi barrio tenía una ferretería donde el dueño, don Ramiro, sabía exactamente qué tornillo necesitabas aunque tú no supieras explicarlo. Ahora, en su lugar, hay una tienda de diseño que vende velas aromáticas a precios que harían sonrojar a un joyero. No pretendo que el tiempo se detenga: las ciudades cambian, y sería absurdo exigir que todo siga igual por pura nostalgia. Lo que me inquieta es otra cosa: que nadie nos haya preguntado. Los alquileres subieron tanto que don Ramiro, cuya familia llevaba tres generaciones en la calle, no pudo renovar el contrato. Se despidió con una nota pegada en la persiana metálica: «Gracias por cuarenta años de confianza». La nota duró dos días; después llegaron los pintores. Los nuevos vecinos, encantadores, por cierto, celebran lo «auténtico» del barrio mientras desaparece precisamente lo que lo hacía auténtico. Quizá dentro de diez años alguien abra una ferretería «de toda la vida», con tornillos en frascos de vidrio, y la gente haga cola para fotografiarla. Entonces, supongo, lo llamaremos tendencia.",
+  "options": [
+   "Neutral, ya que solo describe los cambios del barrio",
+   "Optimista: cree que la ferretería volverá pronto",
+   "Irónico: se burla de que lo auténtico se vuelva moda",
+   "Enfadado con los nuevos vecinos, a quienes culpa de todo"
+  ],
+  "answer": 2,
+  "why": "Saying a revived old hardware store would be called a 'trend' mocks how authenticity is only valued once it becomes fashionable, which is irony.",
+  "topic": "tone and attitude"
+ },
+ {
+  "id": "P-B2-09",
+  "level": "B2",
+  "skill": "reading",
+  "q": "Read the text. ¿Qué le preocupa principalmente al autor?",
+  "passage": "Hace unos años, mi barrio tenía una ferretería donde el dueño, don Ramiro, sabía exactamente qué tornillo necesitabas aunque tú no supieras explicarlo. Ahora, en su lugar, hay una tienda de diseño que vende velas aromáticas a precios que harían sonrojar a un joyero. No pretendo que el tiempo se detenga: las ciudades cambian, y sería absurdo exigir que todo siga igual por pura nostalgia. Lo que me inquieta es otra cosa: que nadie nos haya preguntado. Los alquileres subieron tanto que don Ramiro, cuya familia llevaba tres generaciones en la calle, no pudo renovar el contrato. Se despidió con una nota pegada en la persiana metálica: «Gracias por cuarenta años de confianza». La nota duró dos días; después llegaron los pintores. Los nuevos vecinos, encantadores, por cierto, celebran lo «auténtico» del barrio mientras desaparece precisamente lo que lo hacía auténtico. Quizá dentro de diez años alguien abra una ferretería «de toda la vida», con tornillos en frascos de vidrio, y la gente haga cola para fotografiarla. Entonces, supongo, lo llamaremos tendencia.",
+  "options": [
+   "Que nadie consultara a los vecinos",
+   "Que el barrio no cambie nunca, como antes",
+   "Cualquier cambio en la ciudad, sea cual sea",
+   "Que los nuevos vecinos sean antipáticos"
+  ],
+  "answer": 0,
+  "why": "'Lo que me inquieta es otra cosa: que nadie nos haya preguntado' states his main concern (no one consulted residents); he explicitly accepts that cities change.",
+  "topic": "inference (opinion column)"
+ },
+ {
+  "id": "P-B2-10",
+  "level": "B2",
+  "skill": "reading",
+  "q": "Read the text. ¿Cuál de estas afirmaciones es correcta?",
+  "passage": "La propuesta de cerrar el centro histórico al tráfico fue aprobada ayer por el ayuntamiento, a pesar de las protestas de algunos comerciantes. Se prevé que la medida entre en vigor en marzo. Los comerciantes, que temen perder clientes, han pedido que se amplíen las líneas de autobús antes de esa fecha; de lo contrario, aseguran, recurrirán la decisión ante los tribunales.",
+  "options": [
+   "Los comerciantes propusieron cerrar el centro al tráfico",
+   "El centro está cerrado al tráfico desde ayer",
+   "La medida está aprobada pese a las quejas",
+   "El ayuntamiento ya ha ampliado las líneas de autobús"
+  ],
+  "answer": 2,
+  "why": "'Fue aprobada ... por el ayuntamiento' is a passive: the council approved it despite protests, and it only takes effect (entrar en vigor) in March.",
+  "topic": "news (passive voice)"
+ },
+ {
+  "id": "P-C1-01",
+  "level": "C1",
+  "skill": "grammar",
+  "q": "Choose the correct form: Cuando la conocí, ella ___ unos veinte años, aunque aparentaba más.",
+  "options": [
+   "tendrá",
+   "tuviera",
+   "tendría",
+   "tuvo"
+  ],
+  "answer": 2,
+  "why": "The conditional expresses a guess about the past (probably she was about twenty): tendría; tendrá guesses about the present.",
+  "topic": "conditional of conjecture"
+ },
+ {
+  "id": "P-C1-02",
+  "level": "C1",
+  "skill": "grammar",
+  "q": "Choose the correct form: Si bien el informe ___ algunos errores, sus conclusiones son sólidas.",
+  "options": [
+   "contiene",
+   "contenga",
+   "contuviera",
+   "conteniendo"
+  ],
+  "answer": 0,
+  "why": "Si bien ('although') concedes a fact and is always followed by the indicative: contiene.",
+  "topic": "concessive si bien"
+ },
+ {
+  "id": "P-C1-03",
+  "level": "C1",
+  "skill": "grammar",
+  "q": "Choose the correct form: No es que no me ___ la película; es que estaba demasiado cansado para disfrutarla.",
+  "options": [
+   "gustó",
+   "gustaría",
+   "gusta",
+   "gustara"
+  ],
+  "answer": 3,
+  "why": "No es que denies a possible explanation, so it takes the subjunctive, and the past context requires the imperfect subjunctive: gustara.",
+  "topic": "no es que + subjunctive"
+ },
+ {
+  "id": "P-C1-04",
+  "level": "C1",
+  "skill": "vocab",
+  "q": "Choose the correct connector: La reforma tiene defectos evidentes; ___, sería injusto negar que ha reducido las listas de espera.",
+  "options": [
+   "por ende",
+   "ahora bien",
+   "o sea",
+   "en consecuencia"
+  ],
+  "answer": 1,
+  "why": "Ahora bien introduces a counterpoint to what was just said; por ende and en consecuencia mark a result and o sea a reformulation.",
+  "topic": "discourse markers"
+ },
+ {
+  "id": "P-C1-05",
+  "level": "C1",
+  "skill": "reading",
+  "q": "Read the text. ¿Qué función cumple la comparación con el museo?",
+  "options": [
+   "Ilustrar que recorrer algo deprisa no equivale a apreciarlo",
+   "Recomendar que se visiten más museos en menos tiempo",
+   "Demostrar que leer rápido es tan útil como visitar museos",
+   "Criticar a quienes pasan demasiado tiempo en los museos"
+  ],
+  "answer": 0,
+  "why": "Seeing a museum in twenty minutes and 'technically' having seen it is an analogy for reading fast without really taking anything in.",
+  "topic": "inference (analogy)",
+  "passage": "Cada enero, las librerías llenan sus escaparates de manuales que prometen enseñarnos a leer más rápido. La idea resulta seductora: si pudiéramos devorar cincuenta libros al año en lugar de diez, seríamos, se supone, cinco veces más sabios. Nadie parece preguntarse qué queda de un libro leído a toda velocidad. Uno puede recorrer un museo en veinte minutos y decir, técnicamente, que lo ha visto. Tampoco se trata de idealizar la lentitud: hay textos que no merecen más que una ojeada, y sería pedante negarlo. Pero convertir la lectura en una carrera es confundir el número de páginas con la experiencia de leerlas. Quizá el verdadero lujo de nuestra época no sea leer mucho, sino tener tiempo para releer."
+ },
+ {
+  "id": "P-C1-06",
+  "level": "C1",
+  "skill": "reading",
+  "q": "Read the text. ¿Cuál es la postura del autor sobre la lectura rápida?",
+  "options": [
+   "La rechaza en todos los casos, porque toda lectura exige lentitud",
+   "La considera la mejor manera de aprovechar el tiempo libre",
+   "Admite que tiene su lugar, pero niega que leer más sea leer mejor",
+   "Cree que los manuales cumplen lo que prometen"
+  ],
+  "answer": 2,
+  "why": "He concedes some texts only deserve a glance ('sería pedante negarlo') but argues that page count is not the same as the experience of reading.",
+  "topic": "stance and concession",
+  "passage": "Cada enero, las librerías llenan sus escaparates de manuales que prometen enseñarnos a leer más rápido. La idea resulta seductora: si pudiéramos devorar cincuenta libros al año en lugar de diez, seríamos, se supone, cinco veces más sabios. Nadie parece preguntarse qué queda de un libro leído a toda velocidad. Uno puede recorrer un museo en veinte minutos y decir, técnicamente, que lo ha visto. Tampoco se trata de idealizar la lentitud: hay textos que no merecen más que una ojeada, y sería pedante negarlo. Pero convertir la lectura en una carrera es confundir el número de páginas con la experiencia de leerlas. Quizá el verdadero lujo de nuestra época no sea leer mucho, sino tener tiempo para releer."
+ },
+ {
+  "id": "P-C1-07",
+  "level": "C1",
+  "skill": "grammar",
+  "q": "Choose the correct form: Si no ___ tanto ayer, hoy no estaría tan cansado.",
+  "options": [
+   "trabajara",
+   "hubiera trabajado",
+   "trabajaría",
+   "había trabajado"
+  ],
+  "answer": 1,
+  "why": "A mixed conditional: the unreal condition is in the past (ayer), so it takes the pluperfect subjunctive, while the result is in the present (estaría).",
+  "topic": "mixed conditionals"
+ },
+ {
+  "id": "P-C1-08",
+  "level": "C1",
+  "skill": "grammar",
+  "q": "Choose the correct form: Ayer se ___ a los tres responsables del fraude.",
+  "options": [
+   "detuvieron",
+   "detuvieran",
+   "detenidos",
+   "detuvo"
+  ],
+  "answer": 3,
+  "why": "With personal a, se is impersonal and the verb stays singular (se detuvo a los responsables); plural agreement is only for the passive se without a.",
+  "topic": "impersonal se vs passive se"
+ },
+ {
+  "id": "P-C1-09",
+  "level": "C1",
+  "skill": "grammar",
+  "q": "Choose the correct word: Presentó un informe detallado, según ___ las ventas habían caído un 20 %.",
+  "options": [
+   "que",
+   "cual",
+   "el cual",
+   "quien"
+  ],
+  "answer": 2,
+  "why": "After a preposition like según, a relative referring to a thing needs the article: según el cual.",
+  "topic": "relative el cual"
+ },
+ {
+  "id": "P-C1-10",
+  "level": "C1",
+  "skill": "reading",
+  "q": "Read the text. ¿Qué sugiere el autor con la frase final?",
+  "options": [
+   "Que muchas aficiones se viven con la presión y las exigencias de un trabajo",
+   "Que la gente debería cobrar por sus aficiones",
+   "Que la mayoría de la gente tiene ya dos empleos",
+   "Que las aficiones resultan más rentables que los empleos"
+  ],
+  "answer": 0,
+  "why": "Calling hobbies 'a second job, only unpaid' implies they now carry the goals and pressure of work without its rewards.",
+  "topic": "inference (implicit meaning)",
+  "passage": "Hubo un tiempo en que tener una afición consistía, sencillamente, en hacer algo porque sí. Hoy, quien hornea pan los domingos recibe enseguida el consejo bienintencionado de algún amigo: «Deberías venderlo». Quien pinta acuarelas debería abrir una cuenta en redes; quien sale a correr, prepararse para una maratón. Es como si cualquier placer necesitara justificarse con un rendimiento, un público o un ingreso. No digo que esté mal ganar dinero con lo que a uno le gusta; hay quien lo consigue y es feliz. Lo curioso es que hayamos perdido la capacidad de imaginar el ocio sin una meta. Tal vez por eso tantas aficiones acaban pareciéndose sospechosamente a un segundo empleo, solo que sin sueldo."
+ },
+ {
+  "id": "P-C1-11",
+  "level": "C1",
+  "skill": "reading",
+  "q": "Read the text. ¿Cómo interpreta el autor el consejo «Deberías venderlo»?",
+  "options": [
+   "Como un consejo malintencionado de amigos envidiosos",
+   "Como una buena idea económica que conviene seguir",
+   "Como prueba de que el pan casero suele ser de mala calidad",
+   "Como síntoma de que todo placer parece necesitar una utilidad"
+  ],
+  "answer": 3,
+  "why": "The author calls the advice well-meant and uses it as an example of the idea that every pleasure must be justified by results, an audience or income.",
+  "topic": "stance (opinion column)",
+  "passage": "Hubo un tiempo en que tener una afición consistía, sencillamente, en hacer algo porque sí. Hoy, quien hornea pan los domingos recibe enseguida el consejo bienintencionado de algún amigo: «Deberías venderlo». Quien pinta acuarelas debería abrir una cuenta en redes; quien sale a correr, prepararse para una maratón. Es como si cualquier placer necesitara justificarse con un rendimiento, un público o un ingreso. No digo que esté mal ganar dinero con lo que a uno le gusta; hay quien lo consigue y es feliz. Lo curioso es que hayamos perdido la capacidad de imaginar el ocio sin una meta. Tal vez por eso tantas aficiones acaban pareciéndose sospechosamente a un segundo empleo, solo que sin sueldo."
+ },
+ {
+  "id": "P-C1-12",
+  "level": "C1",
+  "skill": "vocab",
+  "q": "Choose the correct verb: El juez ___ la demanda por falta de pruebas.",
+  "options": [
+   "despreció",
+   "desestimó",
+   "desmintió",
+   "desmereció"
+  ],
+  "answer": 1,
+  "why": "Desestimar is the legal term for rejecting a claim; despreciar means to scorn, desmentir to deny a statement and desmerecer to be unworthy of.",
+  "topic": "near-synonyms (legal)"
+ },
+ {
+  "id": "P-C1-13",
+  "level": "C1",
+  "skill": "reading",
+  "q": "Read the text. ¿Qué quiere decir «Entre una frase y otra media un abismo»?",
+  "options": [
+   "Que el titular presenta como causa lo que el estudio solo observó como asociación",
+   "Que el titular y el estudio llegan a conclusiones opuestas",
+   "Que el estudio es mucho más largo y detallado que el titular",
+   "Que el estudio demostró que el café es perjudicial"
+  ],
+  "answer": 0,
+  "why": "The study only observed lower mortality among coffee drinkers; the headline turns that association into a claim that coffee makes people live longer.",
+  "topic": "inference (science reporting)",
+  "passage": "«Los que beben café viven más», proclamaba hace poco un titular. El estudio en el que se basaba, sin embargo, decía algo bastante más modesto: que, entre los participantes observados, los bebedores de café habían presentado una mortalidad algo menor. Entre una frase y otra media un abismo. Quizá quienes toman café tienen otros hábitos, o más recursos, que explican la diferencia y que nadie midió. Los propios autores, como suele ocurrir, lo advertían en el último párrafo. Pero el último párrafo rara vez llega a los titulares. Al lector no le falta inteligencia; le falta, en todo caso, tiempo para desconfiar de lo que lee con prisa."
+ },
+ {
+  "id": "P-C1-14",
+  "level": "C1",
+  "skill": "reading",
+  "q": "Read the text. ¿A qué atribuye el autor, principalmente, el malentendido?",
+  "options": [
+   "A los autores del estudio, que no advirtieron de sus límites",
+   "A la falta de inteligencia de los lectores",
+   "A la difusión de las noticias, que suprime los matices del estudio",
+   "A los malos hábitos de los bebedores de café"
+  ],
+  "answer": 2,
+  "why": "The authors did give the warning and the author says readers lack time, not intelligence; the problem is that 'el último párrafo rara vez llega a los titulares'.",
+  "topic": "author's implicit argument",
+  "passage": "«Los que beben café viven más», proclamaba hace poco un titular. El estudio en el que se basaba, sin embargo, decía algo bastante más modesto: que, entre los participantes observados, los bebedores de café habían presentado una mortalidad algo menor. Entre una frase y otra media un abismo. Quizá quienes toman café tienen otros hábitos, o más recursos, que explican la diferencia y que nadie midió. Los propios autores, como suele ocurrir, lo advertían en el último párrafo. Pero el último párrafo rara vez llega a los titulares. Al lector no le falta inteligencia; le falta, en todo caso, tiempo para desconfiar de lo que lee con prisa."
+ },
+ {
+  "id": "P-C2-01",
+  "level": "C2",
+  "skill": "grammar",
+  "q": "Choose the correct form: ___ lo que ___, no pienso cambiar de opinión.",
+  "options": [
+   "Dicen / dicen",
+   "Digan / digan",
+   "Dirán / dirán",
+   "Dijeran / dijeran"
+  ],
+  "answer": 1,
+  "why": "The reduplicated concessive (whatever they say) uses the subjunctive, and with a present main clause it is the present subjunctive: digan lo que digan.",
+  "topic": "reduplicated concessive"
+ },
+ {
+  "id": "P-C2-02",
+  "level": "C2",
+  "skill": "vocab",
+  "q": "¿Qué significa «Se lo expliqué por activa y por pasiva»?",
+  "options": [
+   "Se lo expliqué usando la voz activa y la voz pasiva",
+   "Se lo expliqué de forma agresiva",
+   "Se lo expliqué una sola vez y de forma indirecta",
+   "Se lo expliqué una y otra vez, de todas las formas posibles"
+  ],
+  "answer": 3,
+  "why": "Por activa y por pasiva is an idiom meaning repeatedly and in every possible way.",
+  "topic": "idioms"
+ },
+ {
+  "id": "P-C2-03",
+  "level": "C2",
+  "skill": "grammar",
+  "q": "Choose the correct form: A poco que te ___, aprobarás sin problemas.",
+  "options": [
+   "esfuerces",
+   "esfuerzas",
+   "esforzarás",
+   "esforzaras"
+  ],
+  "answer": 0,
+  "why": "A poco que ('if you just ... a little') introduces a condition about the future and requires the present subjunctive: esfuerces.",
+  "topic": "conditional a poco que"
+ },
+ {
+  "id": "P-C2-04",
+  "level": "C2",
+  "skill": "vocab",
+  "q": "Choose the correct verb: El conductor ___ varias normas de tráfico y tuvo que pagar una multa.",
+  "options": [
+   "infligió",
+   "inflingió",
+   "infringió",
+   "restringió"
+  ],
+  "answer": 2,
+  "why": "Infringir means to break a rule; infligir means to inflict (a punishment or damage), and inflingir does not exist.",
+  "topic": "paronyms"
+ },
+ {
+  "id": "P-C2-05",
+  "level": "C2",
+  "skill": "reading",
+  "q": "Read the text. ¿A quién pertenece la frase «Por el bien de todos, claro» y qué tono tiene?",
+  "options": [
+   "Al ministro, que la repite con sinceridad",
+   "Al narrador, que respalda objetivamente las medidas",
+   "A la hija de don Anselmo, en una de sus cartas",
+   "Al pensamiento de don Anselmo, en tono sarcástico"
+  ],
+  "answer": 3,
+  "why": "It is free indirect speech: the narrator voices Don Anselmo's thoughts, and claro after repeating the minister's words is sarcastic.",
+  "topic": "free indirect speech",
+  "passage": "Don Anselmo dobló el periódico con la meticulosidad de quien pliega una bandera. Otra vez la subida de la luz. Otra vez el ministro, con esa sonrisa de dentista, explicando que todo era por el bien de todos. Por el bien de todos, claro; como cuando cerraron la oficina de correos del pueblo, también por el bien de todos, y desde entonces tenía que coger dos autobuses para mandarle una carta a su hija, que por cierto nunca contestaba. Pero no, no iba a pensar en eso ahora. Se sirvió el café —recalentado, porque a quién se le ocurría hacer café nuevo a las cinco de la tarde— y miró por la ventana. Los chicos del bloque de enfrente seguían con su música. Bien estaba. Alguien en aquella calle tenía que estar contento, y no iba a ser él, que ya había cumplido con creces su cuota de entusiasmo allá por los años sesenta."
+ },
+ {
+  "id": "P-C2-06",
+  "level": "C2",
+  "skill": "reading",
+  "q": "Read the text. ¿Qué se deduce del final del texto?",
+  "options": [
+   "Que la música le molesta tanto que piensa quejarse a los vecinos",
+   "Que don Anselmo, aunque amargado, acepta con resignación la alegría ajena",
+   "Que don Anselmo acaba de mudarse a esa calle",
+   "Que don Anselmo fue músico en los años sesenta"
+  ],
+  "answer": 1,
+  "why": "'Bien estaba' and 'alguien tenía que estar contento' show bitter acceptance; the reference to the sixties is about his past enthusiasm, not a career.",
+  "topic": "inference (literary)",
+  "passage": "Don Anselmo dobló el periódico con la meticulosidad de quien pliega una bandera. Otra vez la subida de la luz. Otra vez el ministro, con esa sonrisa de dentista, explicando que todo era por el bien de todos. Por el bien de todos, claro; como cuando cerraron la oficina de correos del pueblo, también por el bien de todos, y desde entonces tenía que coger dos autobuses para mandarle una carta a su hija, que por cierto nunca contestaba. Pero no, no iba a pensar en eso ahora. Se sirvió el café —recalentado, porque a quién se le ocurría hacer café nuevo a las cinco de la tarde— y miró por la ventana. Los chicos del bloque de enfrente seguían con su música. Bien estaba. Alguien en aquella calle tenía que estar contento, y no iba a ser él, que ya había cumplido con creces su cuota de entusiasmo allá por los años sesenta."
+ },
+ {
+  "id": "P-C2-07",
+  "level": "C2",
+  "skill": "grammar",
+  "q": "Choose the correct form: Es a ti ___ quiero ver, no a tu hermano.",
+  "options": [
+   "a quien",
+   "quien",
+   "donde",
+   "de quien"
+  ],
+  "answer": 0,
+  "why": "In a cleft sentence the preposition of the focused element is repeated before the relative: es a ti a quien.",
+  "topic": "cleft sentences"
+ },
+ {
+  "id": "P-C2-08",
+  "level": "C2",
+  "skill": "grammar",
+  "q": "Choose the correct form: Te vas a quedar fuera como no ___ antes de las diez.",
+  "options": [
+   "llegas",
+   "llegarás",
+   "llegues",
+   "llegaras"
+  ],
+  "answer": 2,
+  "why": "Como + subjunctive expresses a warning condition ('if you don't'); causal como with the indicative cannot follow the main clause.",
+  "topic": "conditional como + subjunctive"
+ },
+ {
+  "id": "P-C2-09",
+  "level": "C2",
+  "skill": "vocab",
+  "q": "Un argentino dice: «Che, el laburo me tiene podrido». ¿Qué quiere decir?",
+  "options": [
+   "Que el trabajo le ha causado una enfermedad grave",
+   "Que su trabajo está muy mal pagado",
+   "Que acaba de perder el trabajo",
+   "Que está harto de su trabajo"
+  ],
+  "answer": 3,
+  "why": "In Rioplatense Spanish laburo means work and tener podrido a alguien means to have someone fed up.",
+  "topic": "regional vs standard (Rioplatense)"
+ },
+ {
+  "id": "P-C2-10",
+  "level": "C2",
+  "skill": "reading",
+  "q": "Read the text. Según el apartado 3, ¿puede la comisión bajar la nota de un estudiante?",
+  "options": [
+   "Sí, si aprecia plagio u otra irregularidad atribuible al estudiante",
+   "No, nunca y bajo ninguna circunstancia",
+   "Sí, siempre que el profesor responsable lo solicite",
+   "Solo si el estudiante presentó el recurso fuera de plazo"
+  ],
+  "answer": 0,
+  "why": "'En ningún caso' is immediately limited by 'salvo que se apreciare ... plagio o ... otra irregularidad imputable al estudiante'.",
+  "topic": "legal text (exceptions)",
+  "passage": "Artículo 12. Revisión de calificaciones. 1. El estudiante que no estuviere conforme con la calificación obtenida podrá solicitar su revisión ante el profesor responsable en el plazo de cinco días hábiles a contar desde la publicación de las notas. 2. Sin perjuicio de lo dispuesto en el apartado anterior, si la revisión no fuere atendida o el estudiante considerare insuficiente la respuesta, cabrá recurso ante la comisión del departamento, que resolverá en el plazo máximo de quince días. 3. La comisión no podrá, en ningún caso, rebajar la calificación inicialmente otorgada, salvo que se apreciare la existencia de plagio o de cualquier otra irregularidad imputable al estudiante. 4. Transcurrido el plazo previsto en el apartado 1 sin que se hubiere presentado solicitud, la calificación se entenderá firme a todos los efectos."
+ },
+ {
+  "id": "P-C2-11",
+  "level": "C2",
+  "skill": "reading",
+  "q": "Read the text. ¿Qué indica «Sin perjuicio de lo dispuesto en el apartado anterior»?",
+  "options": [
+   "Que el apartado 2 deja sin efecto el apartado 1",
+   "Que el apartado 1 sigue vigente y el apartado 2 añade una vía más",
+   "Que el apartado 1 perjudica los derechos del estudiante",
+   "Que el estudiante debe elegir entre la revisión y el recurso"
+  ],
+  "answer": 1,
+  "why": "Sin perjuicio de means 'without affecting': the review in section 1 still applies, and the appeal is an additional step if that review fails.",
+  "topic": "legal register",
+  "passage": "Artículo 12. Revisión de calificaciones. 1. El estudiante que no estuviere conforme con la calificación obtenida podrá solicitar su revisión ante el profesor responsable en el plazo de cinco días hábiles a contar desde la publicación de las notas. 2. Sin perjuicio de lo dispuesto en el apartado anterior, si la revisión no fuere atendida o el estudiante considerare insuficiente la respuesta, cabrá recurso ante la comisión del departamento, que resolverá en el plazo máximo de quince días. 3. La comisión no podrá, en ningún caso, rebajar la calificación inicialmente otorgada, salvo que se apreciare la existencia de plagio o de cualquier otra irregularidad imputable al estudiante. 4. Transcurrido el plazo previsto en el apartado 1 sin que se hubiere presentado solicitud, la calificación se entenderá firme a todos los efectos."
+ },
+ {
+  "id": "P-C2-12",
+  "level": "C2",
+  "skill": "grammar",
+  "q": "Complete the proverb: «Adonde fueres, haz lo que ___».",
+  "options": [
+   "vieras",
+   "verás",
+   "vieres",
+   "vieses"
+  ],
+  "answer": 2,
+  "why": "The proverb keeps the archaic future subjunctive (fueres, vieres), a form that survives today mainly in set phrases and legal texts.",
+  "topic": "future subjunctive"
+ },
+ {
+  "id": "P-C2-13",
+  "level": "C2",
+  "skill": "reading",
+  "q": "Read the text. ¿Qué intención tiene la felicitación inicial a la institución?",
+  "options": [
+   "Es sincera: celebra el optimismo del nuevo vocabulario",
+   "Es irónica: critica que se cambien las palabras en vez de resolver los problemas",
+   "Es una fórmula de cortesía sin relación con el resto del texto",
+   "Reconoce que la institución ha resuelto sus problemas más graves"
+  ],
+  "answer": 1,
+  "why": "The leaks 'enjoy enviable health' and are merely renamed, so the praise is ironic: only the vocabulary has changed.",
+  "topic": "irony",
+  "passage": "Conviene, antes de nada, felicitar a la institución: en apenas tres años ha conseguido que ningún documento interno contenga ya la palabra «problema». Hoy tenemos «retos», «oportunidades de mejora» y, en los casos más graves, «escenarios complejos». El avance es notable. Los problemas, que se sepa, siguen ahí —las goteras del pabellón B, por ejemplo, gozan de una salud envidiable—, pero ahora se describen con un léxico que invita al optimismo. Alguien dirá que esto es cosmético. No del todo. Un problema exige una solución; un reto, en cambio, solo exige actitud, y la actitud, a diferencia del presupuesto, es gratuita. Quizá el próximo plan estratégico logre lo que no consiguieron los anteriores: que las goteras, rebautizadas como «filtraciones de oportunidad», dejen de mojar. O que, al menos, mojen con más entusiasmo."
+ },
+ {
+  "id": "P-C2-14",
+  "level": "C2",
+  "skill": "reading",
+  "q": "Read the text. Según el autor, ¿por qué podría convenir a la institución hablar de «retos» y no de «problemas»?",
+  "options": [
+   "Porque «reto» es un término técnicamente más preciso",
+   "Porque así lo pidieron los empleados en una encuesta",
+   "Porque los problemas ya se han resuelto y solo quedan retos",
+   "Porque un reto no obliga a gastar en soluciones, solo a mostrar buena actitud"
+  ],
+  "answer": 3,
+  "why": "'No del todo' (not merely cosmetic) is explained ironically: a problem demands a solution, while a challenge only demands attitude, which unlike the budget is free.",
+  "topic": "inference (irony, ellipsis)",
+  "passage": "Conviene, antes de nada, felicitar a la institución: en apenas tres años ha conseguido que ningún documento interno contenga ya la palabra «problema». Hoy tenemos «retos», «oportunidades de mejora» y, en los casos más graves, «escenarios complejos». El avance es notable. Los problemas, que se sepa, siguen ahí —las goteras del pabellón B, por ejemplo, gozan de una salud envidiable—, pero ahora se describen con un léxico que invita al optimismo. Alguien dirá que esto es cosmético. No del todo. Un problema exige una solución; un reto, en cambio, solo exige actitud, y la actitud, a diferencia del presupuesto, es gratuita. Quizá el próximo plan estratégico logre lo que no consiguieron los anteriores: que las goteras, rebautizadas como «filtraciones de oportunidad», dejen de mojar. O que, al menos, mojen con más entusiasmo."
+ },
+ {
+  "id": "P-A1-11",
+  "level": "A1",
+  "skill": "grammar",
+  "q": "Choose the correct word: Ella ___ colombiana.",
+  "options": [
+   "es",
+   "está",
+   "tiene",
+   "hay"
+  ],
+  "answer": 0,
+  "why": "Nationality is a permanent characteristic, so it uses ser: es.",
+  "topic": "ser with nationality"
+ },
+ {
+  "id": "P-A1-12",
+  "level": "A1",
+  "skill": "grammar",
+  "q": "Choose the correct word: Me ___ las manzanas.",
+  "options": [
+   "gusta",
+   "gustas",
+   "gustan",
+   "gusto"
+  ],
+  "answer": 2,
+  "why": "Gustar agrees with the thing liked; 'las manzanas' is plural, so gustan.",
+  "topic": "gustar with plural noun"
+ },
+ {
+  "id": "P-A1-13",
+  "level": "A1",
+  "skill": "grammar",
+  "q": "Choose the correct word: Mis amigas son ___.",
+  "options": [
+   "simpático",
+   "simpáticos",
+   "simpática",
+   "simpáticas"
+  ],
+  "answer": 3,
+  "why": "The adjective must agree with 'amigas' in gender and number: feminine plural.",
+  "topic": "adjective agreement"
+ },
+ {
+  "id": "P-A1-14",
+  "level": "A1",
+  "skill": "grammar",
+  "q": "Choose the correct word: Tú ___ español muy bien.",
+  "options": [
+   "hablo",
+   "hablas",
+   "habla",
+   "hablamos"
+  ],
+  "answer": 1,
+  "why": "The subject tú takes the -as ending of -ar verbs: hablas.",
+  "topic": "present tense -ar verbs"
+ },
+ {
+  "id": "P-A1-15",
+  "level": "A1",
+  "skill": "grammar",
+  "q": "Choose the correct words: Mañana voy ___ escuela.",
+  "options": [
+   "en la",
+   "a la",
+   "de la",
+   "por la"
+  ],
+  "answer": 1,
+  "why": "Ir takes the preposition a to express the destination: a la escuela.",
+  "topic": "ir + a destination"
+ },
+ {
+  "id": "P-A1-16",
+  "level": "A1",
+  "skill": "grammar",
+  "q": "Choose the correct word: ¿___ vives? —En Lima.",
+  "options": [
+   "Dónde",
+   "Quién",
+   "Cuándo",
+   "Qué"
+  ],
+  "answer": 0,
+  "why": "The answer gives a place, so the question word is Dónde.",
+  "topic": "question words"
+ },
+ {
+  "id": "P-A1-17",
+  "level": "A1",
+  "skill": "grammar",
+  "q": "Choose the correct word: Nosotros queremos mucho a ___ padres.",
+  "options": [
+   "nuestro",
+   "nuestra",
+   "nuestras",
+   "nuestros"
+  ],
+  "answer": 3,
+  "why": "The possessive agrees with the plural masculine noun 'padres': nuestros.",
+  "topic": "possessive adjectives"
+ },
+ {
+  "id": "P-A1-18",
+  "level": "A1",
+  "skill": "grammar",
+  "q": "Choose the correct word: Yo ___ llamo Pedro.",
+  "options": [
+   "te",
+   "se",
+   "me",
+   "nos"
+  ],
+  "answer": 2,
+  "why": "The reflexive pronoun for yo is me: me llamo.",
+  "topic": "reflexive llamarse"
+ },
+ {
+  "id": "P-A1-19",
+  "level": "A1",
+  "skill": "vocab",
+  "q": "Choose the correct word: La nieve es ___.",
+  "options": [
+   "blanca",
+   "verde",
+   "negra",
+   "roja"
+  ],
+  "answer": 0,
+  "why": "Snow is white (blanca).",
+  "topic": "colors"
+ },
+ {
+  "id": "P-A1-20",
+  "level": "A1",
+  "skill": "vocab",
+  "q": "Choose the correct word: Después del lunes viene el ___.",
+  "options": [
+   "sábado",
+   "martes",
+   "domingo",
+   "viernes"
+  ],
+  "answer": 1,
+  "why": "The day after Monday (lunes) is Tuesday (martes).",
+  "topic": "days of the week"
+ },
+ {
+  "id": "P-A1-21",
+  "level": "A1",
+  "skill": "vocab",
+  "q": "Choose the correct word: Uso un ___ para escribir.",
+  "options": [
+   "plato",
+   "zapato",
+   "lápiz",
+   "coche"
+  ],
+  "answer": 2,
+  "why": "A lápiz (pencil) is used to write.",
+  "topic": "school objects"
+ },
+ {
+  "id": "P-A1-22",
+  "level": "A1",
+  "skill": "vocab",
+  "q": "Choose the correct word: En invierno hace mucho ___. Necesito un abrigo.",
+  "options": [
+   "calor",
+   "ropa",
+   "playa",
+   "frío"
+  ],
+  "answer": 3,
+  "why": "In winter it is very cold: hace mucho frío.",
+  "topic": "weather"
+ },
+ {
+  "id": "P-A1-23",
+  "level": "A1",
+  "skill": "reading",
+  "passage": "Me llamo Tomás y tengo un perro. Se llama Rocky y es muy grande. Mi gato se llama Max y es pequeño. Me gustan mucho los animales.",
+  "q": "Read the text. ¿Cómo se llama el perro de Tomás?",
+  "options": [
+   "Rocky",
+   "Max",
+   "Luna",
+   "Toby"
+  ],
+  "answer": 0,
+  "why": "The text says the dog is called Rocky.",
+  "topic": "short personal text"
+ },
+ {
+  "id": "P-A1-24",
+  "level": "A1",
+  "skill": "reading",
+  "passage": "Tienda Sol. De lunes a viernes: de ocho a seis. Los sábados: de nueve a una. Los domingos: cerrado.",
+  "q": "Read the text. ¿A qué hora abre la tienda los sábados?",
+  "options": [
+   "A las ocho.",
+   "A las nueve.",
+   "A las diez.",
+   "A las seis."
+  ],
+  "answer": 1,
+  "why": "The sign says Saturdays the shop opens at nine.",
+  "topic": "sign with schedule"
+ },
+ {
+  "id": "P-A1-25",
+  "level": "A1",
+  "skill": "reading",
+  "passage": "Hola, Marta. El viernes no tengo clase. ¿Quieres comer conmigo en un restaurante? Hay uno nuevo cerca de mi casa. Es barato y la comida es muy buena. Un abrazo, Ana.",
+  "q": "Read the text. ¿Qué quiere hacer Ana el viernes?",
+  "options": [
+   "Estudiar con Marta.",
+   "Ir al trabajo.",
+   "Comer en un restaurante.",
+   "Ver a su abuela."
+  ],
+  "answer": 2,
+  "why": "Ana invites Marta to eat at a restaurant on Friday.",
+  "topic": "short message"
+ },
+ {
+  "id": "P-A1-26",
+  "level": "A1",
+  "skill": "reading",
+  "passage": "Cuenca es una ciudad bonita de Ecuador. En julio hace fresco y por la noche hace frío. Mi familia vive allí y yo los visito en las vacaciones.",
+  "q": "Read the text. ¿Cómo es el clima en Cuenca en julio?",
+  "options": [
+   "Hace mucho calor.",
+   "Llueve todos los días.",
+   "Hay mucha nieve.",
+   "Hace fresco."
+  ],
+  "answer": 3,
+  "why": "The text says July is cool (fresco) in Cuenca.",
+  "topic": "weather description"
+ },
+ {
+  "id": "P-A2-13",
+  "level": "A2",
+  "skill": "grammar",
+  "q": "Choose the correct form: Ayer nosotros ___ al cine con unos amigos.",
+  "options": [
+   "fuimos",
+   "vamos",
+   "iban",
+   "fueron"
+  ],
+  "answer": 0,
+  "why": "Ir in the preterite with nosotros is fuimos.",
+  "topic": "irregular preterite (ir)"
+ },
+ {
+  "id": "P-A2-14",
+  "level": "A2",
+  "skill": "grammar",
+  "q": "Choose the correct word: A mis padres ___ regalé un libro por su aniversario.",
+  "options": [
+   "los",
+   "les",
+   "se lo",
+   "las"
+  ],
+  "answer": 1,
+  "why": "The indirect object 'a mis padres' (plural) requires the pronoun les.",
+  "topic": "indirect object pronouns"
+ },
+ {
+  "id": "P-A2-15",
+  "level": "A2",
+  "skill": "grammar",
+  "q": "Choose the correct form: No puedo hablar ahora; mi madre ___ la cena.",
+  "options": [
+   "cocina cocinar",
+   "es cocinando",
+   "está cocinando",
+   "está cocinar"
+  ],
+  "answer": 2,
+  "why": "The present progressive uses estar + gerund (-ando).",
+  "topic": "present progressive"
+ },
+ {
+  "id": "P-A2-16",
+  "level": "A2",
+  "skill": "grammar",
+  "q": "Choose the correct word: Esta es la tienda ___ barata de la ciudad.",
+  "options": [
+   "muy",
+   "tan",
+   "mucho",
+   "más"
+  ],
+  "answer": 3,
+  "why": "The superlative is formed with el/la + más + adjective.",
+  "topic": "superlative"
+ },
+ {
+  "id": "P-A2-17",
+  "level": "A2",
+  "skill": "grammar",
+  "q": "Choose the correct form: Mañana tengo un examen. ___ estudiar esta noche.",
+  "options": [
+   "Tengo de",
+   "Tengo que",
+   "Soy que",
+   "Tengo por"
+  ],
+  "answer": 1,
+  "why": "Obligation is expressed with tener que + infinitive.",
+  "topic": "tener que"
+ },
+ {
+  "id": "P-A2-18",
+  "level": "A2",
+  "skill": "grammar",
+  "q": "Choose the correct form: A mí me ___ las películas de terror.",
+  "options": [
+   "gusta",
+   "gusto",
+   "gustan",
+   "gustamos"
+  ],
+  "answer": 2,
+  "why": "Gustar agrees with the thing liked; 'las películas' is plural.",
+  "topic": "gustar with plural nouns"
+ },
+ {
+  "id": "P-A2-19",
+  "level": "A2",
+  "skill": "grammar",
+  "q": "Choose the correct word: Ana y yo vivimos con ___ padres en el centro.",
+  "options": [
+   "nuestro",
+   "nuestras",
+   "nosotros",
+   "nuestros"
+  ],
+  "answer": 3,
+  "why": "The possessive must agree with the plural masculine noun 'padres'.",
+  "topic": "possessives (nuestro)"
+ },
+ {
+  "id": "P-A2-20",
+  "level": "A2",
+  "skill": "vocab",
+  "q": "Choose the best word: Para cortar el pan necesito un ___.",
+  "options": [
+   "cuchillo",
+   "tenedor",
+   "vaso",
+   "plato"
+  ],
+  "answer": 0,
+  "why": "A cuchillo is the knife used for cutting.",
+  "topic": "kitchen utensils"
+ },
+ {
+  "id": "P-A2-21",
+  "level": "A2",
+  "skill": "vocab",
+  "q": "Choose the best word: Para llegar a la estación, sigue todo ___ y gira a la izquierda en el semáforo.",
+  "options": [
+   "afuera",
+   "detrás",
+   "derecho",
+   "cerca"
+  ],
+  "answer": 2,
+  "why": "'Seguir todo derecho' means to go straight ahead.",
+  "topic": "giving directions"
+ },
+ {
+  "id": "P-A2-22",
+  "level": "A2",
+  "skill": "vocab",
+  "q": "Choose the best word: Hoy está nublado; hay muchas ___ en el cielo.",
+  "options": [
+   "olas",
+   "estrellas",
+   "hojas",
+   "nubes"
+  ],
+  "answer": 3,
+  "why": "Nubes are clouds, which make the sky cloudy.",
+  "topic": "weather"
+ },
+ {
+  "id": "P-A2-23",
+  "level": "A2",
+  "skill": "reading",
+  "q": "Read the text. ¿Qué hicieron Lucía y su madre después del mercado?",
+  "options": [
+   "Comieron en casa de la abuela.",
+   "Fueron al cine.",
+   "Compraron ropa nueva.",
+   "Prepararon la cena en casa."
+  ],
+  "answer": 0,
+  "why": "The text says that afterwards they ate at grandmother's house.",
+  "topic": "narrative: weekend",
+  "passage": "El sábado Lucía fue al mercado con su madre. Compraron frutas y verduras. Después comieron en casa de su abuela."
+ },
+ {
+  "id": "P-A2-24",
+  "level": "A2",
+  "skill": "reading",
+  "q": "Read the text. ¿Cuándo está cerrado el gimnasio?",
+  "options": [
+   "Los sábados.",
+   "Los domingos.",
+   "Por las mañanas.",
+   "De lunes a viernes."
+  ],
+  "answer": 1,
+  "why": "The text says it is closed on Sundays.",
+  "topic": "notice: opening hours",
+  "passage": "El gimnasio Fuerza abre de lunes a viernes de 6:00 a 22:00 y los sábados de 8:00 a 14:00. Los domingos está cerrado."
+ },
+ {
+  "id": "P-A2-25",
+  "level": "A2",
+  "skill": "reading",
+  "q": "Read the text. ¿Cómo va Pablo a la universidad?",
+  "options": [
+   "En coche.",
+   "A pie.",
+   "En autobús.",
+   "En bicicleta."
+  ],
+  "answer": 3,
+  "why": "He has no car, so he goes to class by bicycle.",
+  "topic": "email: new home",
+  "passage": "Hola, Sara: Ahora vivo en un apartamento pequeño cerca de la universidad. Tiene una habitación y una cocina nueva. No tengo coche, por eso voy a clase en bicicleta."
+ },
+ {
+  "id": "P-A2-26",
+  "level": "A2",
+  "skill": "reading",
+  "q": "Read the text. ¿Cuándo va a salir la familia a la playa?",
+  "options": [
+   "El domingo temprano.",
+   "El sábado por la tarde.",
+   "El viernes por la noche.",
+   "El domingo por la noche."
+  ],
+  "answer": 0,
+  "why": "Because of the rain on Saturday, they plan to leave early Sunday.",
+  "topic": "plans and weather",
+  "passage": "Este fin de semana vamos a la playa, pero el pronóstico dice que va a llover el sábado. Por eso mi familia piensa salir el domingo temprano."
+ },
+ {
+  "id": "P-B1-13",
+  "level": "B1",
+  "skill": "grammar",
+  "q": "Choose the correct form: Cuando ___ a casa, te llamo.",
+  "options": [
+   "llegar",
+   "llegue",
+   "llegaré",
+   "llegaba"
+  ],
+  "answer": 1,
+  "why": "Cuando referring to a future action takes the present subjunctive.",
+  "topic": "subjunctive after cuando (future)"
+ },
+ {
+  "id": "P-B1-14",
+  "level": "B1",
+  "skill": "grammar",
+  "q": "Choose the correct form: Ese libro es mío. No lo ___, por favor.",
+  "options": [
+   "tomas",
+   "toma",
+   "tomar",
+   "tomes"
+  ],
+  "answer": 3,
+  "why": "The negative tú command uses the present subjunctive (no tomes).",
+  "topic": "negative imperative"
+ },
+ {
+  "id": "P-B1-15",
+  "level": "B1",
+  "skill": "grammar",
+  "q": "Choose the correct form: Mientras yo ___ la cena, sonó el teléfono.",
+  "options": [
+   "cocinaba",
+   "cociné",
+   "he cocinado",
+   "cocinaría"
+  ],
+  "answer": 0,
+  "why": "The imperfect describes the ongoing action interrupted by the preterite sonó.",
+  "topic": "imperfect vs preterite"
+ },
+ {
+  "id": "P-B1-16",
+  "level": "B1",
+  "skill": "grammar",
+  "q": "Choose the correct word: Tuvimos que cancelar el picnic ___ la lluvia.",
+  "options": [
+   "para",
+   "de",
+   "por",
+   "con"
+  ],
+  "answer": 2,
+  "why": "Por introduces the cause or reason.",
+  "topic": "por vs para (cause)"
+ },
+ {
+  "id": "P-B1-17",
+  "level": "B1",
+  "skill": "grammar",
+  "q": "Choose the correct form: Ana dijo que ___ cansada, por eso se fue temprano.",
+  "options": [
+   "estar",
+   "estaba",
+   "estará",
+   "estuviera"
+  ],
+  "answer": 1,
+  "why": "In reported speech after a past verb of saying, the present shifts to the imperfect.",
+  "topic": "reported speech"
+ },
+ {
+  "id": "P-B1-18",
+  "level": "B1",
+  "skill": "grammar",
+  "q": "Choose the correct form: Yo en tu lugar ___ al médico.",
+  "options": [
+   "iría",
+   "iba",
+   "voy",
+   "fui"
+  ],
+  "answer": 0,
+  "why": "The conditional is used to give advice with 'en tu lugar'.",
+  "topic": "conditional for advice"
+ },
+ {
+  "id": "P-B1-19",
+  "level": "B1",
+  "skill": "grammar",
+  "q": "Choose the correct form: No creo que Pablo ___ la verdad.",
+  "options": [
+   "dice",
+   "decía",
+   "dirá",
+   "diga"
+  ],
+  "answer": 3,
+  "why": "Expressing doubt with no creer que requires the present subjunctive.",
+  "topic": "subjunctive after doubt"
+ },
+ {
+  "id": "P-B1-20",
+  "level": "B1",
+  "skill": "vocab",
+  "q": "Choose the correct verb: ¿Puedo ___ esta camisa en el probador?",
+  "options": [
+   "intentar",
+   "tratar",
+   "probarme",
+   "ensayar"
+  ],
+  "answer": 2,
+  "why": "Probarse means to try on clothes.",
+  "topic": "clothes shopping"
+ },
+ {
+  "id": "P-B1-21",
+  "level": "B1",
+  "skill": "vocab",
+  "q": "Choose the correct word: Perdí mi trabajo, así que estoy buscando ___.",
+  "options": [
+   "empleo",
+   "empleado",
+   "empleador",
+   "emplear"
+  ],
+  "answer": 0,
+  "why": "Empleo is the noun for a job; empleado is a person who works.",
+  "topic": "work vocabulary"
+ },
+ {
+  "id": "P-B1-22",
+  "level": "B1",
+  "skill": "vocab",
+  "q": "Choose the correct word: El mecánico dijo que el coche tiene una ___ en el motor.",
+  "options": [
+   "herida",
+   "enfermedad",
+   "pérdida",
+   "avería"
+  ],
+  "answer": 3,
+  "why": "Avería means a mechanical breakdown or fault.",
+  "topic": "car problems"
+ },
+ {
+  "id": "P-B1-23",
+  "level": "B1",
+  "skill": "vocab",
+  "q": "Choose the correct verb: Tengo que ___ este libro a la biblioteca antes del lunes.",
+  "options": [
+   "prestar",
+   "devolver",
+   "perder",
+   "cobrar"
+  ],
+  "answer": 1,
+  "why": "Devolver means to return something to its owner.",
+  "topic": "library / everyday verbs"
+ },
+ {
+  "id": "P-B1-24",
+  "level": "B1",
+  "skill": "reading",
+  "passage": "Hola, Lucía: Te escribo porque no podré ir a tu cumpleaños el sábado. Mi tía llegó de visita sin avisar y tengo que quedarme con ella. Si quieres, el domingo podemos salir a comer. Un abrazo, Marta.",
+  "q": "Read the text. ¿Por qué Marta no irá a la fiesta?",
+  "options": [
+   "Porque está enferma",
+   "Porque tiene que trabajar",
+   "Porque su tía está en su casa",
+   "Porque no quiere ver a Lucía"
+  ],
+  "answer": 2,
+  "why": "Marta says her aunt arrived unannounced and she must stay with her.",
+  "topic": "reading email details"
+ },
+ {
+  "id": "P-B1-25",
+  "level": "B1",
+  "skill": "reading",
+  "passage": "Los vecinos de la calle Sol están molestos. Desde hace un mes, un bar nuevo pone música alta hasta las dos de la mañana. Ayer, el dueño prometió que bajará el volumen después de medianoche, aunque algunos no le creen.",
+  "q": "Read the text. ¿Qué prometió el dueño del bar?",
+  "options": [
+   "Bajar la música después de medianoche",
+   "Cerrar a las dos de la mañana",
+   "Pagar una multa",
+   "Cambiar de calle"
+  ],
+  "answer": 0,
+  "why": "The text says he promised to lower the volume after midnight.",
+  "topic": "reading news detail"
+ },
+ {
+  "id": "P-B1-26",
+  "level": "B1",
+  "skill": "reading",
+  "passage": "Daniel estudia medicina, pero este año decidió hacer un curso de cocina por las tardes. Dice que cocinar lo relaja después de pasar el día en el hospital. Sus padres no entienden por qué pierde tiempo, pero él piensa seguir con ambas cosas.",
+  "q": "Read the text. ¿Por qué Daniel hace el curso de cocina?",
+  "options": [
+   "Quiere dejar la medicina",
+   "Porque lo ayuda a relajarse",
+   "Porque sus padres se lo pidieron",
+   "Porque busca trabajo en un restaurante"
+  ],
+  "answer": 1,
+  "why": "He says cooking relaxes him after a day at the hospital.",
+  "topic": "reading reason"
+ },
+ {
+  "id": "P-B2-11",
+  "level": "B2",
+  "skill": "grammar",
+  "q": "Choose the correct form: Me habló como si me ___ de toda la vida.",
+  "options": [
+   "conoce",
+   "conociera",
+   "conocerá",
+   "conoció"
+  ],
+  "answer": 1,
+  "why": "'Como si' for an unreal comparison requires the imperfect subjunctive.",
+  "topic": "como si + imperfect subjunctive"
+ },
+ {
+  "id": "P-B2-12",
+  "level": "B2",
+  "skill": "grammar",
+  "q": "Choose the correct form: Ojalá ___ más tiempo libre; así podría viajar más.",
+  "options": [
+   "tuviera",
+   "tengo",
+   "tendré",
+   "tuve"
+  ],
+  "answer": 0,
+  "why": "'Ojalá' with a wish contrary to present reality takes the imperfect subjunctive.",
+  "topic": "ojalá + imperfect subjunctive"
+ },
+ {
+  "id": "P-B2-13",
+  "level": "B2",
+  "skill": "grammar",
+  "q": "Choose the correct form: —¿Por qué no contesta Laura? —No sé, ___ el teléfono en casa.",
+  "options": [
+   "ha dejado",
+   "dejaba",
+   "habrá dejado",
+   "hubiera dejado"
+  ],
+  "answer": 2,
+  "why": "The future perfect expresses a conjecture about a past event relevant to the present.",
+  "topic": "future perfect for conjecture"
+ },
+ {
+  "id": "P-B2-14",
+  "level": "B2",
+  "skill": "grammar",
+  "q": "Choose the correct word: Llegó dos horas tarde, ___ molestó a todos.",
+  "options": [
+   "el que",
+   "quien",
+   "cuyo",
+   "lo cual"
+  ],
+  "answer": 3,
+  "why": "'Lo cual' refers back to a whole clause, not to a single noun.",
+  "topic": "relative lo cual"
+ },
+ {
+  "id": "P-B2-15",
+  "level": "B2",
+  "skill": "grammar",
+  "q": "Choose the correct form: No creo que mis primos ___ llegado todavía.",
+  "options": [
+   "han",
+   "hayan",
+   "habían",
+   "habrían"
+  ],
+  "answer": 1,
+  "why": "Negated 'creer' (no creo que) takes the subjunctive, here the present perfect subjunctive.",
+  "topic": "no creo que + perfect subjunctive"
+ },
+ {
+  "id": "P-B2-16",
+  "level": "B2",
+  "skill": "grammar",
+  "q": "Choose the correct form: Te presto mi coche con tal de que me lo ___ con el tanque lleno.",
+  "options": [
+   "devuelvas",
+   "devuelves",
+   "devolverás",
+   "devolviste"
+  ],
+  "answer": 0,
+  "why": "'Con tal de que' always requires the subjunctive.",
+  "topic": "con tal de que + subjunctive"
+ },
+ {
+  "id": "P-B2-17",
+  "level": "B2",
+  "skill": "grammar",
+  "q": "Choose the correct word: Cuanto más practicas, ___ errores cometes.",
+  "options": [
+   "menor",
+   "peor",
+   "tan",
+   "menos"
+  ],
+  "answer": 3,
+  "why": "'Cuanto más..., menos...' is the correlative structure; 'menos' quantifies 'errores' (inverse proportion), while 'menor', 'peor' and 'tan' do not fit grammatically.",
+  "topic": "cuanto más... menos"
+ },
+ {
+  "id": "P-B2-18",
+  "level": "B2",
+  "skill": "grammar",
+  "q": "Choose the correct form: A Pedro se le ___ las llaves en casa.",
+  "options": [
+   "quedó",
+   "quedé",
+   "quedaron",
+   "quedamos"
+  ],
+  "answer": 2,
+  "why": "In the unplanned 'se' construction the verb agrees with the thing forgotten (las llaves, plural).",
+  "topic": "unplanned se (se le quedaron)"
+ },
+ {
+  "id": "P-B2-19",
+  "level": "B2",
+  "skill": "vocab",
+  "q": "Choose the correct verb: Tras años de esfuerzo, por fin logró ___ su sueño de abrir un restaurante.",
+  "options": [
+   "hacer",
+   "ganar",
+   "tomar",
+   "cumplir"
+  ],
+  "answer": 3,
+  "why": "The natural collocation is 'cumplir un sueño' (to fulfil a dream).",
+  "topic": "collocations: dreams"
+ },
+ {
+  "id": "P-B2-20",
+  "level": "B2",
+  "skill": "vocab",
+  "q": "Choose the correct word: Estoy ___ de tanto ruido; necesito un poco de silencio.",
+  "options": [
+   "harto",
+   "lleno",
+   "pleno",
+   "vacío"
+  ],
+  "answer": 0,
+  "why": "'Estar harto de' means to be fed up with something.",
+  "topic": "adjectives: harto de"
+ },
+ {
+  "id": "P-B2-21",
+  "level": "B2",
+  "skill": "vocab",
+  "q": "Choose the correct verb: Con esa inversión, la empresa logró ___ las pérdidas del año anterior.",
+  "options": [
+   "acumular",
+   "compensar",
+   "olvidar",
+   "ofrecer"
+  ],
+  "answer": 1,
+  "why": "'Compensar las pérdidas' means to make up for losses.",
+  "topic": "business vocabulary"
+ },
+ {
+  "id": "P-B2-22",
+  "level": "B2",
+  "skill": "vocab",
+  "q": "Choose the correct word: El hotel es muy caro, pero la ___ del servicio vale la pena.",
+  "options": [
+   "cantidad",
+   "cuota",
+   "calidad",
+   "costumbre"
+  ],
+  "answer": 2,
+  "why": "'Calidad del servicio' is the only logical collocation justifying a high price.",
+  "topic": "word choice: calidad"
+ },
+ {
+  "id": "P-B2-23",
+  "level": "B2",
+  "skill": "reading",
+  "passage": "Desde que mi empresa implantó el teletrabajo dos días a la semana, ahorro casi una hora diaria en traslados. Sin embargo, me cuesta más desconectar: los mensajes llegan a cualquier hora y siento que debo responder enseguida. Mis compañeros opinan lo mismo, aunque ninguno se atreve a decírselo al jefe. Quizá sea hora de proponer una norma clara sobre los horarios.",
+  "q": "Read the text. ¿Qué sugiere el narrador al final?",
+  "options": [
+   "Volver a la oficina todos los días",
+   "Fijar reglas claras sobre los horarios de contacto",
+   "Dejar su empleo actual",
+   "Responder los mensajes más rápido"
+  ],
+  "answer": 1,
+  "why": "The last sentence proposes a clear rule about working hours.",
+  "topic": "main idea (remote work)"
+ },
+ {
+  "id": "P-B2-24",
+  "level": "B2",
+  "skill": "reading",
+  "passage": "El museo anunció ayer que cerrará sus puertas durante seis meses para reparar el techo, dañado por las lluvias del invierno. Aunque la obra no estaba prevista hasta el próximo año, los ingenieros advirtieron de que esperar podría poner en riesgo las obras expuestas. Mientras tanto, las piezas más valiosas se exhibirán en una sala del ayuntamiento. Los visitantes que ya compraron entradas podrán usarlas cuando el museo reabra.",
+  "q": "Read the text. ¿Por qué se adelantó la reparación del techo?",
+  "options": [
+   "Porque el ayuntamiento lo pidió",
+   "Porque faltaba dinero para la exposición",
+   "Porque llegarían más visitantes",
+   "Porque esperar podía poner en peligro las obras expuestas"
+  ],
+  "answer": 3,
+  "why": "Engineers warned that waiting could put the artworks at risk.",
+  "topic": "cause (museum news)"
+ },
+ {
+  "id": "P-B2-25",
+  "level": "B2",
+  "skill": "reading",
+  "passage": "Cuando la ciudad instaló las bicicletas públicas, muchos vecinos se mostraron escépticos. Temían que las calles no fueran lo bastante seguras y que los vehículos no respetaran a los ciclistas. Un año después, el servicio cuenta con más de veinte mil usuarios y los accidentes han sido mínimos. Los críticos de entonces reconocen ahora que se equivocaron, aunque piden más carriles exclusivos.",
+  "q": "Read the text. ¿Qué ha ocurrido con la opinión de los críticos del servicio?",
+  "options": [
+   "Admiten su error, pero piden más carriles exclusivos",
+   "Siguen creyendo que el servicio es peligroso",
+   "Han pedido que se elimine el servicio",
+   "Quieren menos usuarios en las calles"
+  ],
+  "answer": 0,
+  "why": "The critics now admit they were wrong but still ask for more bike lanes.",
+  "topic": "attitude change (city bikes)"
+ },
+ {
+  "id": "P-B2-26",
+  "level": "B2",
+  "skill": "reading",
+  "passage": "Recibí el paquete con tres semanas de retraso y, además, la caja venía abierta. Llamé al servicio de atención al cliente y me aseguraron que el producto estaba completo. Aun así, faltaba el cargador, que es justamente lo que necesito para usarlo. Les escribí una queja formal y espero que me respondan esta semana.",
+  "q": "Read the text. ¿Por qué resultó falsa la afirmación del servicio de atención al cliente?",
+  "options": [
+   "Porque el paquete llegó con retraso",
+   "Porque la caja venía abierta",
+   "Porque faltaba el cargador",
+   "Porque nadie contestó la llamada"
+  ],
+  "answer": 2,
+  "why": "They said the product was complete, but the charger was missing.",
+  "topic": "detail (customer complaint)"
+ },
+ {
+  "id": "P-C1-15",
+  "level": "C1",
+  "skill": "grammar",
+  "q": "Choose the correct form: Por mucho que ___, no logrará convencerme.",
+  "options": [
+   "insista",
+   "insiste",
+   "insistirá",
+   "insistía"
+  ],
+  "answer": 0,
+  "why": "Concessive 'por mucho que' with a future-oriented, hypothetical situation takes the present subjunctive.",
+  "topic": "concessive por mucho que + subjunctive"
+ },
+ {
+  "id": "P-C1-16",
+  "level": "C1",
+  "skill": "grammar",
+  "q": "Choose the correct form: Las nuevas medidas ___ por unanimidad en el Congreso.",
+  "options": [
+   "fue aprobado",
+   "fueron aprobadas",
+   "fueron aprobado",
+   "han aprobadas"
+  ],
+  "answer": 1,
+  "why": "The ser passive requires the participle to agree in gender and number with the plural feminine subject.",
+  "topic": "ser passive agreement"
+ },
+ {
+  "id": "P-C1-17",
+  "level": "C1",
+  "skill": "grammar",
+  "q": "Choose the most appropriate expression for a formal business email: '___ adjunto el contrato para su revisión.'",
+  "options": [
+   "Te paso",
+   "Mira, te mando",
+   "Le remito",
+   "Ahí va"
+  ],
+  "answer": 2,
+  "why": "'Le remito' is the formal, usted-based register suited to professional correspondence.",
+  "topic": "register: formal correspondence"
+ },
+ {
+  "id": "P-C1-18",
+  "level": "C1",
+  "skill": "grammar",
+  "q": "Choose the correct word: Con ese comentario tan fuera de lugar, ___ la pata delante de todos.",
+  "options": [
+   "puso",
+   "echó",
+   "tiró",
+   "metió"
+  ],
+  "answer": 3,
+  "why": "The idiom is 'meter la pata', meaning to make an embarrassing blunder.",
+  "topic": "idiom meter la pata"
+ },
+ {
+  "id": "P-C1-19",
+  "level": "C1",
+  "skill": "grammar",
+  "q": "Choose the correct form: De haber sabido la verdad, ___ de otro modo.",
+  "options": [
+   "actuaré",
+   "habría actuado",
+   "actué",
+   "actúo"
+  ],
+  "answer": 1,
+  "why": "'De + past infinitive' introduces a contrary-to-fact past condition, so the result clause takes the conditional perfect.",
+  "topic": "de + infinitive conditional"
+ },
+ {
+  "id": "P-C1-20",
+  "level": "C1",
+  "skill": "grammar",
+  "q": "Choose the correct word: El autor, ___ obras fueron censuradas durante años, vivió exiliado.",
+  "options": [
+   "cuyo",
+   "cuyas",
+   "cuyos",
+   "cuya"
+  ],
+  "answer": 1,
+  "why": "'Cuyo' agrees with the thing possessed (obras: feminine plural), not with the possessor.",
+  "topic": "relative cuyo agreement"
+ },
+ {
+  "id": "P-C1-21",
+  "level": "C1",
+  "skill": "vocab",
+  "q": "Choose the correct word: Ese reloj me costó un ___ de la cara.",
+  "options": [
+   "brazo",
+   "pie",
+   "ojo",
+   "dedo"
+  ],
+  "answer": 2,
+  "why": "The fixed expression meaning 'cost a fortune' is 'costar un ojo de la cara'.",
+  "topic": "idiom costar un ojo de la cara"
+ },
+ {
+  "id": "P-C1-22",
+  "level": "C1",
+  "skill": "vocab",
+  "q": "Choose the correct word: Es una persona muy ___: nunca revela lo que piensa ni lo que siente.",
+  "options": [
+   "locuaz",
+   "afable",
+   "vehemente",
+   "hermética"
+  ],
+  "answer": 3,
+  "why": "'Hermético' describes someone closed-off and secretive, matching the second clause.",
+  "topic": "adjectives of character"
+ },
+ {
+  "id": "P-C1-23",
+  "level": "C1",
+  "skill": "vocab",
+  "q": "Choose the correct connector: Primero dijo que sí y luego que no; ___, nadie sabe qué piensa realmente.",
+  "options": [
+   "en definitiva",
+   "por el contrario",
+   "no obstante",
+   "a pesar de ello"
+  ],
+  "answer": 0,
+  "why": "'En definitiva' introduces a summarizing conclusion, which fits; the other connectors express contrast.",
+  "topic": "discourse markers: conclusion"
+ },
+ {
+  "id": "P-C1-24",
+  "level": "C1",
+  "skill": "reading",
+  "passage": "El ayuntamiento anunció con gran entusiasmo la inauguración de la nueva ciclovía, que, según el alcalde, «transformará la movilidad de la ciudad». Sin embargo, el carril apenas mide dos kilómetros, termina frente a un estacionamiento y no conecta con ninguna estación de metro. Los ciclistas, lejos de celebrarlo, lo llaman «el camino a ninguna parte». Nadie discute que la intención sea buena, pero la obra parece pensada más para la fotografía que para quienes pedalean.",
+  "q": "Read the text. ¿Cuál es la crítica principal del autor?",
+  "options": [
+   "La obra resultó demasiado costosa para la ciudad.",
+   "Se concibió más por su imagen pública que por su utilidad real.",
+   "Los ciclistas no la usan por falta de seguridad.",
+   "El alcalde ignoró las opiniones de los vecinos."
+  ],
+  "answer": 1,
+  "why": "The final sentence says the project seems designed more for the photograph than for cyclists.",
+  "topic": "author's critique"
+ },
+ {
+  "id": "P-C1-25",
+  "level": "C1",
+  "skill": "reading",
+  "passage": "Pese a lo que suele creerse, la siesta no es una costumbre universal en España; las encuestas recientes indican que apenas una de cada cinco personas la practica a diario. El mito persiste, en parte, porque el turismo lo ha convertido en postal. Además, los horarios laborales, cada vez más parecidos a los del resto de Europa, la hacen inviable para la mayoría. Quizá convenga hablar, más bien, de un ideal nostálgico que de un hábito real.",
+  "q": "Read the text. ¿Qué sostiene el texto sobre la siesta?",
+  "options": [
+   "Está desapareciendo por la presión del turismo.",
+   "Solo se practica en el lugar de trabajo.",
+   "Es una práctica minoritaria cuya fama supera su realidad.",
+   "Es más habitual en el resto de Europa que en España."
+  ],
+  "answer": 2,
+  "why": "The text says only about one in five people nap daily and calls the habit more a nostalgic ideal than a real custom.",
+  "topic": "main claim"
+ },
+ {
+  "id": "P-C1-26",
+  "level": "C1",
+  "skill": "reading",
+  "passage": "Cuando le preguntaron si su hallazgo cambiaría la medicina, la investigadora sonrió y se encogió de hombros. «Es demasiado pronto para decirlo —respondió—. Los resultados son prometedores, pero se han obtenido en ratones, y la historia está llena de tratamientos que fracasaron al llegar a las personas.» Su colega, más optimista, prefirió no frenar el entusiasmo del público. Ella, en cambio, insistió en que la cautela forma parte del método científico y no es una señal de pesimismo.",
+  "q": "Read the text. ¿Qué actitud muestra la investigadora ante su hallazgo?",
+  "options": [
+   "Escepticismo hacia la ciencia en general.",
+   "Entusiasmo igual al de su colega.",
+   "Molestia con la prensa y el público.",
+   "Prudencia, sin negar su potencial."
+  ],
+  "answer": 3,
+  "why": "She calls the results promising but stresses caution as part of scientific method, not pessimism.",
+  "topic": "attitude of speaker"
+ },
+ {
+  "id": "P-C2-15",
+  "level": "C2",
+  "skill": "grammar",
+  "q": "Choose the correct word: De ___ sabido la verdad, nunca habría firmado el contrato.",
+  "options": [
+   "haber",
+   "habiendo",
+   "hubiera",
+   "habría"
+  ],
+  "answer": 0,
+  "why": "The structure «de + haber + participle» expresses a past hypothetical condition without a conjugated verb.",
+  "topic": "de + infinitive conditional"
+ },
+ {
+  "id": "P-B2-27",
+  "level": "B2",
+  "skill": "grammar",
+  "q": "Choose the correct word: Son las diez y Marta no ha llegado. ___ perdido el autobús.",
+  "options": [
+   "Hubiera",
+   "Habrá",
+   "Haya",
+   "Ha"
+  ],
+  "answer": 1,
+  "why": "The future perfect is used to express a conjecture about a past action relative to the present.",
+  "topic": "future perfect conjecture"
+ },
+ {
+  "id": "P-C2-17",
+  "level": "C2",
+  "skill": "grammar",
+  "q": "Choose the correct word: Quienquiera que ___ el autor de esa calumnia, tendrá que responder ante la ley.",
+  "options": [
+   "es",
+   "será",
+   "sea",
+   "fue"
+  ],
+  "answer": 2,
+  "why": "«Quienquiera que» (whoever) requires the present subjunctive when the identity is unknown.",
+  "topic": "quienquiera que + subjunctive"
+ },
+ {
+  "id": "P-C2-18",
+  "level": "C2",
+  "skill": "grammar",
+  "q": "Choose the correct word: ¡Ni que yo ___ millonario para comprarme algo así!",
+  "options": [
+   "soy",
+   "sería",
+   "seré",
+   "fuera"
+  ],
+  "answer": 3,
+  "why": "«Ni que» + imperfect subjunctive rejects an absurd, contrary-to-fact supposition.",
+  "topic": "ni que + imperfect subjunctive"
+ },
+ {
+  "id": "P-C2-19",
+  "level": "C2",
+  "skill": "grammar",
+  "q": "Choose the correct phrase: Anunció que no vendría a la reunión, ___ nos sorprendió a todos.",
+  "options": [
+   "lo cual",
+   "el cual",
+   "cual",
+   "que"
+  ],
+  "answer": 0,
+  "why": "«Lo cual» refers back to the whole preceding clause as a neuter relative; «el cual» needs a masculine noun antecedent and bare «que» cannot follow a comma here.",
+  "topic": "neuter relative lo cual"
+ },
+ {
+  "id": "P-C2-20",
+  "level": "C2",
+  "skill": "grammar",
+  "q": "Choose the correct word: No es que me ___ miedo la entrevista; es que prefiero prepararme mejor.",
+  "options": [
+   "da",
+   "dé",
+   "daría",
+   "di"
+  ],
+  "answer": 1,
+  "why": "A denied cause introduced by «no es que» takes the subjunctive.",
+  "topic": "no es que + subjunctive"
+ },
+ {
+  "id": "P-C2-21",
+  "level": "C2",
+  "skill": "vocab",
+  "q": "¿Qué significa «echar balones fuera»?",
+  "options": [
+   "Lanzar pelotas con mucha fuerza",
+   "Expulsar a alguien de un equipo",
+   "Eludir una responsabilidad desviando la atención hacia otro asunto o persona",
+   "Admitir un error ante todos"
+  ],
+  "answer": 2,
+  "why": "The idiom means to dodge responsibility by deflecting the issue elsewhere.",
+  "topic": "idiom echar balones fuera"
+ },
+ {
+  "id": "P-C2-22",
+  "level": "C2",
+  "skill": "vocab",
+  "q": "Choose the correct verb: Los peritos trabajan para ___ las causas del incendio.",
+  "options": [
+   "eludir",
+   "aludir",
+   "ilusionar",
+   "elucidar"
+  ],
+  "answer": 3,
+  "why": "«Elucidar» means to clarify or explain; «eludir» means to avoid and «aludir» means to refer to.",
+  "topic": "paronyms elucidar/eludir/aludir"
+ },
+ {
+  "id": "P-C2-23",
+  "level": "C2",
+  "skill": "vocab",
+  "q": "¿Qué significa el adjetivo «mordaz» en «Su crítica fue mordaz»?",
+  "options": [
+   "Aguda, irónica e hiriente",
+   "Cariñosa y alentadora",
+   "Larga y aburrida",
+   "Tímida y poco clara"
+  ],
+  "answer": 0,
+  "why": "«Mordaz» describes speech that is sharp and caustic.",
+  "topic": "adjective mordaz"
+ },
+ {
+  "id": "P-C2-24",
+  "level": "C2",
+  "skill": "reading",
+  "passage": "El alcalde inauguró ayer el puente que, según prometió hace seis años, estaría listo en doce meses. En su discurso agradeció la «paciencia ejemplar» de los vecinos, que durante todo ese tiempo han tenido que dar un rodeo de veinte kilómetros cada mañana. Los asistentes aplaudieron con cortesía, y alguien comentó que por fin podrían llegar al trabajo antes del almuerzo. Al terminar, el alcalde anunció que ya se estudia la construcción de un segundo puente.",
+  "q": "Read the text. ¿Qué sugiere el texto al citar la «paciencia ejemplar» de los vecinos?",
+  "options": [
+   "Que el alcalde reconoce con humildad su responsabilidad en el retraso",
+   "Que el alcalde presenta como virtud ajena lo que fue consecuencia de su propio incumplimiento",
+   "Que los vecinos se organizaron para pedir calma a las autoridades",
+   "Que el puente se terminó antes de lo prometido"
+  ],
+  "answer": 1,
+  "why": "The speech turns the neighbours' forced detours, caused by the mayor's broken promise, into a compliment to them.",
+  "topic": "irony in political speech"
+ },
+ {
+  "id": "P-C2-25",
+  "level": "C2",
+  "skill": "reading",
+  "passage": "Cuando por fin regresó al pueblo, Elena apenas reconoció la plaza. El quiosco había desaparecido y en su lugar relucía una cafetería de cristal. Se sentó en el banco de siempre, que alguien había pintado de un verde estridente, y pidió un café que no le supo a nada. «Cómo cambian las cosas», dijo sin dirigirse a nadie, aunque en el fondo sabía que la que había cambiado era ella.",
+  "q": "Read the text. ¿Qué sugiere la última frase del texto?",
+  "options": [
+   "Que el pueblo no ha cambiado en absoluto desde su partida",
+   "Que Elena se arrepiente de haber regresado",
+   "Que la sensación de extrañeza se debe más al cambio de Elena que al del pueblo",
+   "Que el café de la cafetería es de mala calidad"
+  ],
+  "answer": 2,
+  "why": "Elena realizes that the real change is in herself, so her remark about things changing is ironic and self-aware.",
+  "topic": "inference literary narrative"
+ },
+ {
+  "id": "P-C2-26",
+  "level": "C2",
+  "skill": "reading",
+  "passage": "Los arrendatarios deberán abonar la renta dentro de los cinco primeros días de cada mes, so pena de incurrir en mora. No obstante, la propiedad podrá conceder una prórroga por escrito, siempre y cuando medie causa justificada. Transcurridos treinta días sin que se haya satisfecho el pago ni otorgado prórroga alguna, se entenderá resuelto el contrato de pleno derecho.",
+  "q": "Read the text. ¿Qué significa «so pena de incurrir en mora»?",
+  "options": [
+   "Con la condición de recibir una compensación económica",
+   "Aunque no se produzca ninguna sanción por el retraso",
+   "Con el fin de que la propiedad pueda conceder prórrogas",
+   "Bajo la amenaza de caer en situación de impago si no se cumple el plazo"
+  ],
+  "answer": 3,
+  "why": "«So pena de» introduces the penalty that follows non-compliance, here being legally in default.",
+  "topic": "legal register so pena de"
+ }
+]

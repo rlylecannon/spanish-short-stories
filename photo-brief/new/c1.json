@@ -1,0 +1,82 @@
+[
+ {
+  "id": "c1-01",
+  "country": "Panama",
+  "city": "Almirante, Bocas del Toro",
+  "landmark": "Isla Bastimentos National Marine Park",
+  "caption": "Isla Bastimentos National Marine Park, created in 1988 in the Bocas del Toro archipelago, was Panama's first marine park and protects coral reefs, mangroves and island forest.",
+  "source": "https://en.wikipedia.org/wiki/Isla_Bastimentos_National_Marine_Park"
+ },
+ {
+  "id": "c1-02",
+  "country": "Spain",
+  "city": "Chipude, La Gomera (Canary Islands)",
+  "landmark": "Silbo Gomero whistled language, La Gomera",
+  "caption": "Silbo Gomero, a whistled form of Spanish used on La Gomera in the Canary Islands, was added to UNESCO's Representative List of Intangible Cultural Heritage in 2009.",
+  "source": "https://ich.unesco.org/en/RL/whistled-language-of-the-island-of-la-gomera-canary-islands-silbo-gomero-00172"
+ },
+ {
+  "id": "c1-03",
+  "country": "Venezuela",
+  "city": "Curiepe, Barlovento (Miranda)",
+  "landmark": "Curiepe, Barlovento",
+  "caption": "Curiepe, in Venezuela's Barlovento region, is an Afro-Venezuelan community known for its drums and for its San Juan Bautista festival, celebrated around 23 to 25 June.",
+  "source": "https://movimientoafrolatino.org/en/?p=6375"
+ },
+ {
+  "id": "c1-04",
+  "country": "Ecuador",
+  "city": "San Lorenzo, Esmeraldas",
+  "landmark": "Cayapas-Mataje Ecological Reserve",
+  "caption": "The Cayapas-Mataje Ecological Reserve protects mangrove forest on Ecuador's northern coast near the Colombian border and is known for some of the tallest mangrove trees in the world.",
+  "source": "https://www.lonelyplanet.com/points-of-interest/reserva-ecologico-de-manglares-cayapas-mataje/1587849"
+ },
+ {
+  "id": "c1-05",
+  "country": "Honduras",
+  "city": "Triunfo de la Cruz, near Tela",
+  "landmark": "Triunfo de la Cruz Garifuna community",
+  "caption": "Triunfo de la Cruz is a Garifuna community on Honduras's Caribbean coast; UNESCO proclaimed the Garifuna language, dance and music a masterpiece of intangible heritage in 2001.",
+  "source": "https://ich.unesco.org/en/RL/language-dance-and-music-of-the-garifuna-00001"
+ },
+ {
+  "id": "c1-06",
+  "country": "Chile",
+  "city": "Achao, Quinchao Island, Chiloé",
+  "landmark": "Church of Achao",
+  "caption": "The wooden Church of Achao on Quinchao Island is one of 16 churches of Chiloé that were added to the UNESCO World Heritage List in 2000.",
+  "source": "https://whc.unesco.org/en/list/971/"
+ },
+ {
+  "id": "c1-07",
+  "country": "Mexico",
+  "city": "Cuajinicuilapa, Guerrero",
+  "landmark": "Museo de las Culturas Afromestizas",
+  "caption": "The Museo de las Culturas Afromestizas in Cuajinicuilapa, on Guerrero's Costa Chica, is described as the first museum in Mexico devoted to the history of Afro-Mexican communities.",
+  "source": "https://en.wikipedia.org/wiki/Cuajinicuilapa"
+ },
+ {
+  "id": "c1-08",
+  "country": "Bolivia",
+  "city": "Potosí",
+  "landmark": "Casa Nacional de Moneda",
+  "caption": "The Casa Nacional de Moneda in Potosí, where coining began in 1773, is part of the city's UNESCO World Heritage listing, granted in 1987.",
+  "source": "https://www.bcb.gob.bo/webdocs/10_notas_prensa/CP_69%20CasaDeMoneda250A%C3%B1os.pdf"
+ },
+ {
+  "id": "c1-09",
+  "country": "Puerto Rico",
+  "city": "San Juan",
+  "landmark": "Castillo San Cristóbal",
+  "caption": "Castillo San Cristóbal, begun in 1634 to defend Old San Juan against land attack, is part of a UNESCO World Heritage Site inscribed in 1983.",
+  "source": "https://www.npshistory.com/publications/foundation-documents/saju-fd-overview.pdf"
+ },
+ {
+  "id": "c1-10",
+  "country": "Argentina",
+  "city": "Gaiman, Chubut",
+  "landmark": "Welsh tea houses of Gaiman",
+  "caption": "Gaiman, in Argentina's Chubut valley, is known for its Welsh tea houses, a tradition linked to the Welsh settlers who arrived in Patagonia on the ship Mimosa in 1865.",
+  "source": "https://en.wikipedia.org/wiki/Y_Wladfa"
+ }
+]

@@ -1,0 +1,409 @@
+{
+ "a1-04": {
+  "grammar": [
+   {
+    "topic": "Colors: agreement and position",
+    "explain": "Color words are adjectives. They go after the noun and agree with it in gender and number: chaqueta roja, zapatos blancos, fresas rojas. After es/son they agree too: Tinto es negro. Colors ending in -e or a consonant change only for number: verde, verdes; azul, azules. Watch out: not 'una roja chaqueta' or 'patas blanco'.",
+    "examples": [
+     [
+      "Tinto es negro, con las patas blancas.",
+      "Tinto is black, with white paws."
+     ],
+     [
+      "Tiene una chaqueta roja porque hace frío.",
+      "He wears a red jacket because it's cold."
+     ],
+     [
+      "En la ventana hay una torta blanca con fresas rojas.",
+      "In the window there is a white cake with red strawberries."
+     ],
+     [
+      "— Pelo negro, chaqueta roja, zapatos blancos. Va al parque.",
+      "\"Black hair, red jacket, white shoes. He's going to the park.\""
+     ]
+    ]
+   },
+   {
+    "topic": "Querer and poder + infinitive",
+    "explain": "'Querer' (to want) and 'poder' (can, to be able to) are followed directly by an infinitive: quiero encontrar, podemos ir. Both change their stem: quiero, quieres, quiere; puedo, puedes, puede (but podemos). Querer can also take a noun: quiero mi torta. Watch out: no extra word for 'to': 'quiero encontrar', not 'quiero a encontrar'.",
+    "examples": [
+     [
+      "— Quiero encontrar mi torta.",
+      "\"I want to find my cake.\""
+     ],
+     [
+      "¿Me puede ayudar?",
+      "Can you help me?"
+     ],
+     [
+      "— Podemos ir al parque —dice Edwin.",
+      "\"We can go to the park,\" says Edwin."
+     ]
+    ]
+   },
+   {
+    "topic": "Ir a + place",
+    "explain": "'Ir' (to go) is irregular: voy, vas, va, vamos, van. Put 'a' (to) before the place: va a la esquina. Watch out: a + el contracts to 'al' (va al parque, never 'a el parque'), and 'home' is just 'a casa', with no article. 'Va' can mean 'goes' or 'is going'.",
+    "examples": [
+     [
+      "Marleny va a la esquina, donde está Edwin, el policía.",
+      "Marleny goes to the corner, where Edwin, the police officer, is."
+     ],
+     [
+      "— Pelo negro, chaqueta roja, zapatos blancos. Va al parque.",
+      "\"Black hair, red jacket, white shoes. He's going to the park.\""
+     ],
+     [
+      "Podemos ir al parque.",
+      "We can go to the park."
+     ]
+    ]
+   },
+   {
+    "topic": "Negatives with no",
+    "explain": "To make a sentence negative, put 'no' right before the verb: no está, no es, no son. If there is a small pronoun such as 'lo' (it), 'no' goes before the pronoun: no lo tengo. Watch out: Spanish has no helper verb like 'don't/doesn't', so 'it isn't him' is simply 'no es él'.",
+    "examples": [
+     [
+      "No está en la ventana. No está en la cocina.",
+      "It isn't in the window. It isn't in the kitchen."
+     ],
+     [
+      "— No es él, porque es alto —dice Edwin.",
+      "\"It isn't him, because he's tall,\" says Edwin."
+     ],
+     [
+      "— ¡No son zapatos, son patas!",
+      "\"They aren't shoes, they're paws!\""
+     ]
+    ]
+   },
+   {
+    "topic": "¿Dónde está…? and porque",
+    "explain": "'¿Dónde está…?' asks where one specific thing or person is ('¿Dónde están…?' for plural). It uses estar, never ser or hay. '¡Allí está!' = There it is! 'Porque' (one word, no accent) means 'because'; the question 'why?' is '¿Por qué?' (two words, accent). Watch out: 'allí hay' introduces something new.",
+    "examples": [
+     [
+      "— ¿Dónde está mi torta? —grita Marleny.",
+      "\"Where is my cake?\" shouts Marleny."
+     ],
+     [
+      "¡Allí está la torta!",
+      "There's the cake!"
+     ],
+     [
+      "Tiene una chaqueta roja porque hace frío.",
+      "He wears a red jacket because it's cold."
+     ],
+     [
+      "— No es él, porque es alto.",
+      "\"It isn't him, because he's tall.\""
+     ]
+    ]
+   }
+  ],
+  "gq": [
+   {
+    "topic": "Colors: agreement and position",
+    "q": "Tinto's paws are white. Complete: Tinto tiene las patas ___.",
+    "options": [
+     "blanco",
+     "blanca",
+     "blancas",
+     "blancos"
+    ],
+    "answer": 2,
+    "why": "Las patas is feminine plural, so the color is feminine plural too: blancas. The color goes after the noun."
+   },
+   {
+    "topic": "Querer and poder + infinitive",
+    "q": "Which sentence means 'I want to find my cake'?",
+    "options": [
+     "Quiero a encontrar mi torta.",
+     "Quiero encuentro mi torta.",
+     "Quiero encontrar mi torta.",
+     "Quero encontrar mi torta."
+    ],
+    "answer": 2,
+    "why": "Querer is followed directly by the infinitive (encontrar), with no 'a'. The 'I' form has the stem change e → ie: quiero."
+   },
+   {
+    "topic": "Ir a + place",
+    "q": "Fill in the blank: El chico bajo va ___ parque.",
+    "options": [
+     "a el",
+     "al",
+     "en el",
+     "a"
+    ],
+    "answer": 1,
+    "why": "Going to a place uses 'a', and a + el must contract to 'al': va al parque. 'En el parque' means 'in the park', not 'to the park'."
+   },
+   {
+    "topic": "Negatives with no",
+    "q": "How do you say 'It isn't in the kitchen'?",
+    "options": [
+     "No está en la cocina.",
+     "Está no en la cocina.",
+     "No es en la cocina.",
+     "No hay en la cocina."
+    ],
+    "answer": 0,
+    "why": "'No' goes right before the verb, and location of a specific thing uses estar: no está en la cocina."
+   },
+   {
+    "topic": "¿Dónde está…? and porque",
+    "q": "Complete: —¿___ mi torta? … Tinto tiene una chaqueta roja ___ hace frío.",
+    "options": [
+     "Dónde es / porque",
+     "Dónde hay / por qué",
+     "Dónde está / por qué",
+     "Dónde está / porque"
+    ],
+    "answer": 3,
+    "why": "Where a specific thing is uses estar: ¿Dónde está…? A reason is 'porque' (one word, no accent); '¿por qué?' is the question 'why?'."
+   },
+   {
+    "topic": "Colors: agreement and position",
+    "q": "Marleny has two green jackets. Complete: Marleny tiene dos chaquetas ___.",
+    "options": [
+     "verde",
+     "verdes",
+     "verdas",
+     "verdos"
+    ],
+    "answer": 1,
+    "why": "Colors ending in -e have no masculine or feminine form; they only add -s for the plural: verdes. 'Verdas' and 'verdos' do not exist.",
+    "x": true
+   },
+   {
+    "topic": "Querer and poder + infinitive",
+    "q": "Edwin and Marleny want to go to the park together. Complete: ___ ir al parque. (We can…)",
+    "options": [
+     "Puedemos",
+     "Podemos",
+     "Pueden",
+     "Poder"
+    ],
+    "answer": 1,
+    "why": "Poder changes o → ue in puedo, puedes, puede, pueden, but NOT in the 'we' form: podemos.",
+    "x": true
+   },
+   {
+    "topic": "Ir a + place",
+    "q": "Marleny is talking about herself. Complete: Yo ___ a la esquina.",
+    "options": [
+     "va",
+     "vas",
+     "voy",
+     "ir"
+    ],
+    "answer": 2,
+    "why": "'Ir' is irregular: yo voy, tú vas, ella va. 'Ir' is the infinitive and cannot follow 'yo'.",
+    "x": true
+   },
+   {
+    "topic": "Negatives with no",
+    "q": "Make this sentence negative: 'Son zapatos.'",
+    "options": [
+     "Son no zapatos.",
+     "No son zapatos.",
+     "Son zapatos no.",
+     "No zapatos son."
+    ],
+    "answer": 1,
+    "why": "'No' goes directly before the verb: No son zapatos. There is no helper verb like 'don't'.",
+    "x": true
+   },
+   {
+    "topic": "¿Dónde está…? and porque",
+    "q": "What is the difference? 'Allí hay un domiciliario' / 'Allí está la torta'",
+    "options": [
+     "There is no difference.",
+     "'Allí hay' points out something new (a delivery man); 'allí está' finds a specific thing we already know (the cake).",
+     "'Allí hay' is for people; 'allí está' is for things.",
+     "'Allí está' is plural; 'allí hay' is singular."
+    ],
+    "answer": 1,
+    "why": "Use hay for something new or unknown (un domiciliario); use estar for a specific thing you are looking for (la torta): ¡Allí está!",
+    "x": true
+   }
+  ]
+ },
+ "a1-10": {
+  "grammar": [
+   {
+    "topic": "Ir a + infinitive",
+    "explain": "'Ir a' + infinitive says what people are going to do: voy a, vas a, va a, vamos a, van a + infinitive. 'Vamos a ir a la playa' has two a's: one for the future, one meaning 'to' the beach. Watch out: 'vamos a + infinitive' can also mean 'let's…': ¡Vamos a comer! = Let's eat!",
+    "examples": [
+     [
+      "—El sábado vamos a ir a la playa —dice Elena.",
+      "\"On Saturday we are going to go to the beach,\" says Elena."
+     ],
+     [
+      "—Entonces el abuelo va a venir con nosotros.",
+      "\"Then Grandpa is going to come with us.\""
+     ],
+     [
+      "Los tres van a pasar un día perfecto.",
+      "The three of them are going to have a perfect day."
+     ]
+    ]
+   },
+   {
+    "topic": "Days and times of day",
+    "explain": "'El sábado' = on Saturday; 'a las ocho' = at eight. With a clock time, use 'de la mañana / de la tarde / de la noche': a las ocho de la mañana. Without a clock time, use 'por la mañana / por la tarde / por la noche': el viernes por la noche. Watch out: no 'en' before days.",
+    "examples": [
+     [
+      "—A Cádiz. El tren sale a las ocho de la mañana.",
+      "\"To Cádiz. The train leaves at eight in the morning.\""
+     ],
+     [
+      "El viernes por la noche, los hermanos preparan las mochilas.",
+      "On Friday night, the siblings pack their backpacks."
+     ],
+     [
+      "El sábado, los tres llegan a la estación temprano.",
+      "On Saturday, the three of them arrive at the station early."
+     ]
+    ]
+   },
+   {
+    "topic": "Estar for location",
+    "explain": "'Estar' tells where people or things are: están en la cocina, ¿Dónde están…?, Aquí están. Use 'está' for one and 'están' for more than one. Watch out: 'Aquí están' = Here they are; Spanish needs no word for 'they' because the verb ending shows it. Don't use 'son' or 'hay' for where known things are.",
+    "examples": [
+     [
+      "Elena y su hermano Raúl están en la cocina.",
+      "Elena and her brother Raúl are in the kitchen."
+     ],
+     [
+      "—¿Dónde están los billetes? —grita él.",
+      "\"Where are the tickets?\" he shouts."
+     ],
+     [
+      "—Aquí están. Yo los tengo.",
+      "\"Here they are. I have them.\""
+     ]
+    ]
+   },
+   {
+    "topic": "Possessives: mi, tu, su",
+    "explain": "Possessives go before the noun: mi (my), tu (your), su (his, her, their, or formal your). They agree with the thing owned, not the owner, so add -s before a plural noun: mis recuerdos (my memories). Watch out: su can mean his, her or their, so the context tells you who; tu (your) has no accent, tú (you) does.",
+    "examples": [
+     [
+      "Elena y su hermano Raúl están en la cocina.",
+      "Elena and her brother Raúl are in the kitchen."
+     ],
+     [
+      "Elena se ríe y abre su bolsa.",
+      "Elena laughs and opens her bag."
+     ],
+     [
+      "—Es más grande que en mis recuerdos —dice.",
+      "\"It's bigger than I remember (literally: than in my memories),\" he says."
+     ]
+    ]
+   }
+  ],
+  "gq": [
+   {
+    "topic": "Ir a + infinitive",
+    "q": "Which sentence means 'On Saturday we are going to go to the beach'?",
+    "options": [
+     "El sábado vamos ir a la playa.",
+     "El sábado vamos a ir a la playa.",
+     "El sábado vamos a vamos a la playa.",
+     "El sábado van a ir a la playa."
+    ],
+    "answer": 1,
+    "why": "'Vamos' is 'we', then 'a' and an infinitive (ir). 'Van a' would be 'they are going to'."
+   },
+   {
+    "topic": "Days and times of day",
+    "q": "Complete: ___ viernes ___ noche, los hermanos preparan las mochilas.",
+    "options": [
+     "En el / por la",
+     "El / de la",
+     "Los / a la",
+     "El / por la"
+    ],
+    "answer": 3,
+    "why": "No word for 'on' before days: el viernes. Without a clock time, use 'por la noche'; 'de la noche' only follows a clock time (a las diez de la noche)."
+   },
+   {
+    "topic": "Estar for location",
+    "q": "Raúl asks where the tickets are. Which question is correct?",
+    "options": [
+     "¿Dónde están los billetes?",
+     "¿Dónde son los billetes?",
+     "¿Dónde está los billetes?",
+     "¿Dónde hay los billetes?"
+    ],
+    "answer": 0,
+    "why": "Location uses estar, and plural 'los billetes' needs 'están'."
+   },
+   {
+    "topic": "Possessives: mi, tu, su",
+    "q": "Complete: Elena se ríe y abre ___ bolsa. (her bag)",
+    "options": [
+     "su",
+     "sus",
+     "mi",
+     "tu"
+    ],
+    "answer": 0,
+    "why": "Su means 'her' (and also 'his' or 'their'). Bolsa is singular, so su, not sus. Mi is 'my' and tu is 'your'."
+   },
+   {
+    "topic": "Ir a + infinitive",
+    "q": "What does 'Vamos a comer pescado' mean in the story?",
+    "options": [
+     "They are going to eat fish.",
+     "We are eating fish now.",
+     "We are going to eat fish.",
+     "We went to eat fish."
+    ],
+    "answer": 2,
+    "why": "Vamos a + infinitive = we are going to (do). Vamos is 'we', not 'they' (van).",
+    "x": true
+   },
+   {
+    "topic": "Days and times of day",
+    "q": "How do you say 'The train leaves at eight in the morning'?",
+    "options": [
+     "El tren sale a las ocho de la mañana.",
+     "El tren sale en las ocho de la mañana.",
+     "El tren sale las ocho de la mañana.",
+     "El tren sale a la ocho de la mañana."
+    ],
+    "answer": 0,
+    "why": "Clock time = 'a las + number', and after a clock time use 'de la mañana'.",
+    "x": true
+   },
+   {
+    "topic": "Estar for location",
+    "q": "Complete: —¿Dónde están los billetes? —Aquí ___.",
+    "options": [
+     "está",
+     "son",
+     "hay",
+     "están"
+    ],
+    "answer": 3,
+    "why": "Location of known things uses estar, plural for 'los billetes': Aquí están (Here they are).",
+    "x": true
+   },
+   {
+    "topic": "Possessives: mi, tu, su",
+    "q": "Grandpa says: «Es más grande que en ___ recuerdos.» (my memories)",
+    "options": [
+     "mi",
+     "mis",
+     "sus",
+     "mío"
+    ],
+    "answer": 1,
+    "why": "Recuerdos is plural, so mi becomes mis: possessives agree with the thing owned (many memories), not with the owner (one grandpa). Sus would mean his/their, and mío does not go before a noun.",
+    "x": true
+   }
+  ]
+ }
+}

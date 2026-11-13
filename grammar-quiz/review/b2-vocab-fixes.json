@@ -1,0 +1,46 @@
+[
+ {
+  "id": "b2-02",
+  "old": [
+   "postrado",
+   "laid up, bedridden"
+  ],
+  "new": [
+   "postrado",
+   "laid up, confined (by illness or injury)"
+  ]
+ },
+ {
+  "id": "b2-02",
+  "old": [
+   "el fogón",
+   "stove, cooking range"
+  ],
+  "new": [
+   "el fogón",
+   "stove, hearth (traditional cooking fire)"
+  ]
+ },
+ {
+  "id": "b2-06",
+  "old": [
+   "el áncora",
+   "anchor (escapement part)"
+  ],
+  "new": [
+   "el áncora",
+   "pallet fork (watch escapement part; lit. anchor)"
+  ]
+ },
+ {
+  "id": "b2-06",
+  "old": [
+   "advertir",
+   "to warn, to point out"
+  ],
+  "new": [
+   "advertir",
+   "to warn; to notice, point out"
+  ]
+ }
+]

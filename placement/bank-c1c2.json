@@ -1,0 +1,434 @@
+[
+ {
+  "id": "P-C1-01",
+  "level": "C1",
+  "skill": "grammar",
+  "q": "Choose the correct form: Cuando la conocí, ella ___ unos veinte años, aunque aparentaba más.",
+  "options": [
+   "tendrá",
+   "tuviera",
+   "tendría",
+   "tuvo"
+  ],
+  "answer": 2,
+  "why": "The conditional expresses a guess about the past (probably she was about twenty): tendría; tendrá guesses about the present.",
+  "topic": "conditional of conjecture"
+ },
+ {
+  "id": "P-C1-02",
+  "level": "C1",
+  "skill": "grammar",
+  "q": "Choose the correct form: Si bien el informe ___ algunos errores, sus conclusiones son sólidas.",
+  "options": [
+   "contiene",
+   "contenga",
+   "contuviera",
+   "conteniendo"
+  ],
+  "answer": 0,
+  "why": "Si bien ('although') concedes a fact and is always followed by the indicative: contiene.",
+  "topic": "concessive si bien"
+ },
+ {
+  "id": "P-C1-03",
+  "level": "C1",
+  "skill": "grammar",
+  "q": "Choose the correct form: No es que no me ___ la película; es que estaba demasiado cansado para disfrutarla.",
+  "options": [
+   "gustó",
+   "gustaría",
+   "gusta",
+   "gustara"
+  ],
+  "answer": 3,
+  "why": "No es que denies a possible explanation, so it takes the subjunctive, and the past context requires the imperfect subjunctive: gustara.",
+  "topic": "no es que + subjunctive"
+ },
+ {
+  "id": "P-C1-04",
+  "level": "C1",
+  "skill": "vocab",
+  "q": "Choose the correct connector: La reforma tiene defectos evidentes; ___, sería injusto negar que ha reducido las listas de espera.",
+  "options": [
+   "por ende",
+   "ahora bien",
+   "o sea",
+   "en consecuencia"
+  ],
+  "answer": 1,
+  "why": "Ahora bien introduces a counterpoint to what was just said; por ende and en consecuencia mark a result and o sea a reformulation.",
+  "topic": "discourse markers"
+ },
+ {
+  "id": "P-C1-05",
+  "level": "C1",
+  "skill": "reading",
+  "q": "Read the text. ¿Qué función cumple la comparación con el museo?",
+  "options": [
+   "Ilustrar que recorrer algo deprisa no equivale a apreciarlo",
+   "Recomendar que se visiten más museos en menos tiempo",
+   "Demostrar que leer rápido es tan útil como visitar museos",
+   "Criticar a quienes pasan demasiado tiempo en los museos"
+  ],
+  "answer": 0,
+  "why": "Seeing a museum in twenty minutes and 'technically' having seen it is an analogy for reading fast without really taking anything in.",
+  "topic": "inference (analogy)",
+  "passage": "Cada enero, las librerías llenan sus escaparates de manuales que prometen enseñarnos a leer más rápido. La idea resulta seductora: si pudiéramos devorar cincuenta libros al año en lugar de diez, seríamos, se supone, cinco veces más sabios. Nadie parece preguntarse qué queda de un libro leído a toda velocidad. Uno puede recorrer un museo en veinte minutos y decir, técnicamente, que lo ha visto. Tampoco se trata de idealizar la lentitud: hay textos que no merecen más que una ojeada, y sería pedante negarlo. Pero convertir la lectura en una carrera es confundir el número de páginas con la experiencia de leerlas. Quizá el verdadero lujo de nuestra época no sea leer mucho, sino tener tiempo para releer."
+ },
+ {
+  "id": "P-C1-06",
+  "level": "C1",
+  "skill": "reading",
+  "q": "Read the text. ¿Cuál es la postura del autor sobre la lectura rápida?",
+  "options": [
+   "La rechaza en todos los casos, porque toda lectura exige lentitud",
+   "La considera la mejor manera de aprovechar el tiempo libre",
+   "Admite que tiene su lugar, pero niega que leer más sea leer mejor",
+   "Cree que los manuales cumplen lo que prometen"
+  ],
+  "answer": 2,
+  "why": "He concedes some texts only deserve a glance ('sería pedante negarlo') but argues that page count is not the same as the experience of reading.",
+  "topic": "stance and concession",
+  "passage": "Cada enero, las librerías llenan sus escaparates de manuales que prometen enseñarnos a leer más rápido. La idea resulta seductora: si pudiéramos devorar cincuenta libros al año en lugar de diez, seríamos, se supone, cinco veces más sabios. Nadie parece preguntarse qué queda de un libro leído a toda velocidad. Uno puede recorrer un museo en veinte minutos y decir, técnicamente, que lo ha visto. Tampoco se trata de idealizar la lentitud: hay textos que no merecen más que una ojeada, y sería pedante negarlo. Pero convertir la lectura en una carrera es confundir el número de páginas con la experiencia de leerlas. Quizá el verdadero lujo de nuestra época no sea leer mucho, sino tener tiempo para releer."
+ },
+ {
+  "id": "P-C1-07",
+  "level": "C1",
+  "skill": "grammar",
+  "q": "Choose the correct form: Si no ___ tanto ayer, hoy no estaría tan cansado.",
+  "options": [
+   "trabajara",
+   "hubiera trabajado",
+   "trabajaría",
+   "había trabajado"
+  ],
+  "answer": 1,
+  "why": "A mixed conditional: the unreal condition is in the past (ayer), so it takes the pluperfect subjunctive, while the result is in the present (estaría).",
+  "topic": "mixed conditionals"
+ },
+ {
+  "id": "P-C1-08",
+  "level": "C1",
+  "skill": "grammar",
+  "q": "Choose the correct form: Ayer se ___ a los tres responsables del fraude.",
+  "options": [
+   "detuvieron",
+   "detuvieran",
+   "detenidos",
+   "detuvo"
+  ],
+  "answer": 3,
+  "why": "With personal a, se is impersonal and the verb stays singular (se detuvo a los responsables); plural agreement is only for the passive se without a.",
+  "topic": "impersonal se vs passive se"
+ },
+ {
+  "id": "P-C1-09",
+  "level": "C1",
+  "skill": "grammar",
+  "q": "Choose the correct word: Presentó un informe detallado, según ___ las ventas habían caído un 20 %.",
+  "options": [
+   "que",
+   "cual",
+   "el cual",
+   "quien"
+  ],
+  "answer": 2,
+  "why": "After a preposition like según, a relative referring to a thing needs the article: según el cual.",
+  "topic": "relative el cual"
+ },
+ {
+  "id": "P-C1-10",
+  "level": "C1",
+  "skill": "reading",
+  "q": "Read the text. ¿Qué sugiere el autor con la frase final?",
+  "options": [
+   "Que muchas aficiones se viven con la presión y las exigencias de un trabajo",
+   "Que la gente debería cobrar por sus aficiones",
+   "Que la mayoría de la gente tiene ya dos empleos",
+   "Que las aficiones resultan más rentables que los empleos"
+  ],
+  "answer": 0,
+  "why": "Calling hobbies 'a second job, only unpaid' implies they now carry the goals and pressure of work without its rewards.",
+  "topic": "inference (implicit meaning)",
+  "passage": "Hubo un tiempo en que tener una afición consistía, sencillamente, en hacer algo porque sí. Hoy, quien hornea pan los domingos recibe enseguida el consejo bienintencionado de algún amigo: «Deberías venderlo». Quien pinta acuarelas debería abrir una cuenta en redes; quien sale a correr, prepararse para una maratón. Es como si cualquier placer necesitara justificarse con un rendimiento, un público o un ingreso. No digo que esté mal ganar dinero con lo que a uno le gusta; hay quien lo consigue y es feliz. Lo curioso es que hayamos perdido la capacidad de imaginar el ocio sin una meta. Tal vez por eso tantas aficiones acaban pareciéndose sospechosamente a un segundo empleo, solo que sin sueldo."
+ },
+ {
+  "id": "P-C1-11",
+  "level": "C1",
+  "skill": "reading",
+  "q": "Read the text. ¿Cómo interpreta el autor el consejo «Deberías venderlo»?",
+  "options": [
+   "Como un consejo malintencionado de amigos envidiosos",
+   "Como una buena idea económica que conviene seguir",
+   "Como prueba de que el pan casero suele ser de mala calidad",
+   "Como síntoma de que todo placer parece necesitar una utilidad"
+  ],
+  "answer": 3,
+  "why": "The author calls the advice well-meant and uses it as an example of the idea that every pleasure must be justified by results, an audience or income.",
+  "topic": "stance (opinion column)",
+  "passage": "Hubo un tiempo en que tener una afición consistía, sencillamente, en hacer algo porque sí. Hoy, quien hornea pan los domingos recibe enseguida el consejo bienintencionado de algún amigo: «Deberías venderlo». Quien pinta acuarelas debería abrir una cuenta en redes; quien sale a correr, prepararse para una maratón. Es como si cualquier placer necesitara justificarse con un rendimiento, un público o un ingreso. No digo que esté mal ganar dinero con lo que a uno le gusta; hay quien lo consigue y es feliz. Lo curioso es que hayamos perdido la capacidad de imaginar el ocio sin una meta. Tal vez por eso tantas aficiones acaban pareciéndose sospechosamente a un segundo empleo, solo que sin sueldo."
+ },
+ {
+  "id": "P-C1-12",
+  "level": "C1",
+  "skill": "vocab",
+  "q": "Choose the correct verb: El juez ___ la demanda por falta de pruebas.",
+  "options": [
+   "despreció",
+   "desestimó",
+   "desmintió",
+   "desmereció"
+  ],
+  "answer": 1,
+  "why": "Desestimar is the legal term for rejecting a claim; despreciar means to scorn, desmentir to deny a statement and desmerecer to be unworthy of.",
+  "topic": "near-synonyms (legal)"
+ },
+ {
+  "id": "P-C1-13",
+  "level": "C1",
+  "skill": "reading",
+  "q": "Read the text. ¿Qué quiere decir «Entre una frase y otra media un abismo»?",
+  "options": [
+   "Que el titular presenta como causa lo que el estudio solo observó como asociación",
+   "Que el titular y el estudio llegan a conclusiones opuestas",
+   "Que el estudio es mucho más largo y detallado que el titular",
+   "Que el estudio demostró que el café es perjudicial"
+  ],
+  "answer": 0,
+  "why": "The study only observed lower mortality among coffee drinkers; the headline turns that association into a claim that coffee makes people live longer.",
+  "topic": "inference (science reporting)",
+  "passage": "«Los que beben café viven más», proclamaba hace poco un titular. El estudio en el que se basaba, sin embargo, decía algo bastante más modesto: que, entre los participantes observados, los bebedores de café habían presentado una mortalidad algo menor. Entre una frase y otra media un abismo. Quizá quienes toman café tienen otros hábitos, o más recursos, que explican la diferencia y que nadie midió. Los propios autores, como suele ocurrir, lo advertían en el último párrafo. Pero el último párrafo rara vez llega a los titulares. Al lector no le falta inteligencia; le falta, en todo caso, tiempo para desconfiar de lo que lee con prisa."
+ },
+ {
+  "id": "P-C1-14",
+  "level": "C1",
+  "skill": "reading",
+  "q": "Read the text. ¿A qué atribuye el autor, principalmente, el malentendido?",
+  "options": [
+   "A los autores del estudio, que no advirtieron de sus límites",
+   "A la falta de inteligencia de los lectores",
+   "A la difusión de las noticias, que suprime los matices del estudio",
+   "A los malos hábitos de los bebedores de café"
+  ],
+  "answer": 2,
+  "why": "The authors did give the warning and the author says readers lack time, not intelligence; the problem is that 'el último párrafo rara vez llega a los titulares'.",
+  "topic": "author's implicit argument",
+  "passage": "«Los que beben café viven más», proclamaba hace poco un titular. El estudio en el que se basaba, sin embargo, decía algo bastante más modesto: que, entre los participantes observados, los bebedores de café habían presentado una mortalidad algo menor. Entre una frase y otra media un abismo. Quizá quienes toman café tienen otros hábitos, o más recursos, que explican la diferencia y que nadie midió. Los propios autores, como suele ocurrir, lo advertían en el último párrafo. Pero el último párrafo rara vez llega a los titulares. Al lector no le falta inteligencia; le falta, en todo caso, tiempo para desconfiar de lo que lee con prisa."
+ },
+ {
+  "id": "P-C2-01",
+  "level": "C2",
+  "skill": "grammar",
+  "q": "Choose the correct form: ___ lo que ___, no pienso cambiar de opinión.",
+  "options": [
+   "Dicen / dicen",
+   "Digan / digan",
+   "Dirán / dirán",
+   "Dijeran / dijeran"
+  ],
+  "answer": 1,
+  "why": "The reduplicated concessive (whatever they say) uses the subjunctive, and with a present main clause it is the present subjunctive: digan lo que digan.",
+  "topic": "reduplicated concessive"
+ },
+ {
+  "id": "P-C2-02",
+  "level": "C2",
+  "skill": "vocab",
+  "q": "¿Qué significa «Se lo expliqué por activa y por pasiva»?",
+  "options": [
+   "Se lo expliqué usando la voz activa y la voz pasiva",
+   "Se lo expliqué de forma agresiva",
+   "Se lo expliqué una sola vez y de forma indirecta",
+   "Se lo expliqué una y otra vez, de todas las formas posibles"
+  ],
+  "answer": 3,
+  "why": "Por activa y por pasiva is an idiom meaning repeatedly and in every possible way.",
+  "topic": "idioms"
+ },
+ {
+  "id": "P-C2-03",
+  "level": "C2",
+  "skill": "grammar",
+  "q": "Choose the correct form: A poco que te ___, aprobarás sin problemas.",
+  "options": [
+   "esfuerces",
+   "esfuerzas",
+   "esforzarás",
+   "esforzaras"
+  ],
+  "answer": 0,
+  "why": "A poco que ('if you just ... a little') introduces a condition about the future and requires the present subjunctive: esfuerces.",
+  "topic": "conditional a poco que"
+ },
+ {
+  "id": "P-C2-04",
+  "level": "C2",
+  "skill": "vocab",
+  "q": "Choose the correct verb: El conductor ___ varias normas de tráfico y tuvo que pagar una multa.",
+  "options": [
+   "infligió",
+   "inflingió",
+   "infringió",
+   "restringió"
+  ],
+  "answer": 2,
+  "why": "Infringir means to break a rule; infligir means to inflict (a punishment or damage), and inflingir does not exist.",
+  "topic": "paronyms"
+ },
+ {
+  "id": "P-C2-05",
+  "level": "C2",
+  "skill": "reading",
+  "q": "Read the text. ¿A quién pertenece la frase «Por el bien de todos, claro» y qué tono tiene?",
+  "options": [
+   "Al ministro, que la repite con sinceridad",
+   "Al narrador, que respalda objetivamente las medidas",
+   "A la hija de don Anselmo, en una de sus cartas",
+   "Al pensamiento de don Anselmo, en tono sarcástico"
+  ],
+  "answer": 3,
+  "why": "It is free indirect speech: the narrator voices Don Anselmo's thoughts, and claro after repeating the minister's words is sarcastic.",
+  "topic": "free indirect speech",
+  "passage": "Don Anselmo dobló el periódico con la meticulosidad de quien pliega una bandera. Otra vez la subida de la luz. Otra vez el ministro, con esa sonrisa de dentista, explicando que todo era por el bien de todos. Por el bien de todos, claro; como cuando cerraron la oficina de correos del pueblo, también por el bien de todos, y desde entonces tenía que coger dos autobuses para mandarle una carta a su hija, que por cierto nunca contestaba. Pero no, no iba a pensar en eso ahora. Se sirvió el café —recalentado, porque a quién se le ocurría hacer café nuevo a las cinco de la tarde— y miró por la ventana. Los chicos del bloque de enfrente seguían con su música. Bien estaba. Alguien en aquella calle tenía que estar contento, y no iba a ser él, que ya había cumplido con creces su cuota de entusiasmo allá por los años sesenta."
+ },
+ {
+  "id": "P-C2-06",
+  "level": "C2",
+  "skill": "reading",
+  "q": "Read the text. ¿Qué se deduce del final del texto?",
+  "options": [
+   "Que la música le molesta tanto que piensa quejarse a los vecinos",
+   "Que don Anselmo, aunque amargado, acepta con resignación la alegría ajena",
+   "Que don Anselmo acaba de mudarse a esa calle",
+   "Que don Anselmo fue músico en los años sesenta"
+  ],
+  "answer": 1,
+  "why": "'Bien estaba' and 'alguien tenía que estar contento' show bitter acceptance; the reference to the sixties is about his past enthusiasm, not a career.",
+  "topic": "inference (literary)",
+  "passage": "Don Anselmo dobló el periódico con la meticulosidad de quien pliega una bandera. Otra vez la subida de la luz. Otra vez el ministro, con esa sonrisa de dentista, explicando que todo era por el bien de todos. Por el bien de todos, claro; como cuando cerraron la oficina de correos del pueblo, también por el bien de todos, y desde entonces tenía que coger dos autobuses para mandarle una carta a su hija, que por cierto nunca contestaba. Pero no, no iba a pensar en eso ahora. Se sirvió el café —recalentado, porque a quién se le ocurría hacer café nuevo a las cinco de la tarde— y miró por la ventana. Los chicos del bloque de enfrente seguían con su música. Bien estaba. Alguien en aquella calle tenía que estar contento, y no iba a ser él, que ya había cumplido con creces su cuota de entusiasmo allá por los años sesenta."
+ },
+ {
+  "id": "P-C2-07",
+  "level": "C2",
+  "skill": "grammar",
+  "q": "Choose the correct form: Es a ti ___ quiero ver, no a tu hermano.",
+  "options": [
+   "a quien",
+   "quien",
+   "donde",
+   "de quien"
+  ],
+  "answer": 0,
+  "why": "In a cleft sentence the preposition of the focused element is repeated before the relative: es a ti a quien.",
+  "topic": "cleft sentences"
+ },
+ {
+  "id": "P-C2-08",
+  "level": "C2",
+  "skill": "grammar",
+  "q": "Choose the correct form: Te vas a quedar fuera como no ___ antes de las diez.",
+  "options": [
+   "llegas",
+   "llegarás",
+   "llegues",
+   "llegaras"
+  ],
+  "answer": 2,
+  "why": "Como + subjunctive expresses a warning condition ('if you don't'); causal como with the indicative cannot follow the main clause.",
+  "topic": "conditional como + subjunctive"
+ },
+ {
+  "id": "P-C2-09",
+  "level": "C2",
+  "skill": "vocab",
+  "q": "Un argentino dice: «Che, el laburo me tiene podrido». ¿Qué quiere decir?",
+  "options": [
+   "Que el trabajo le ha causado una enfermedad grave",
+   "Que su trabajo está muy mal pagado",
+   "Que acaba de perder el trabajo",
+   "Que está harto de su trabajo"
+  ],
+  "answer": 3,
+  "why": "In Rioplatense Spanish laburo means work and tener podrido a alguien means to have someone fed up.",
+  "topic": "regional vs standard (Rioplatense)"
+ },
+ {
+  "id": "P-C2-10",
+  "level": "C2",
+  "skill": "reading",
+  "q": "Read the text. Según el apartado 3, ¿puede la comisión bajar la nota de un estudiante?",
+  "options": [
+   "Sí, si aprecia plagio u otra irregularidad atribuible al estudiante",
+   "No, nunca y bajo ninguna circunstancia",
+   "Sí, siempre que el profesor responsable lo solicite",
+   "Solo si el estudiante presentó el recurso fuera de plazo"
+  ],
+  "answer": 0,
+  "why": "'En ningún caso' is immediately limited by 'salvo que se apreciare ... plagio o ... otra irregularidad imputable al estudiante'.",
+  "topic": "legal text (exceptions)",
+  "passage": "Artículo 12. Revisión de calificaciones. 1. El estudiante que no estuviere conforme con la calificación obtenida podrá solicitar su revisión ante el profesor responsable en el plazo de cinco días hábiles a contar desde la publicación de las notas. 2. Sin perjuicio de lo dispuesto en el apartado anterior, si la revisión no fuere atendida o el estudiante considerare insuficiente la respuesta, cabrá recurso ante la comisión del departamento, que resolverá en el plazo máximo de quince días. 3. La comisión no podrá, en ningún caso, rebajar la calificación inicialmente otorgada, salvo que se apreciare la existencia de plagio o de cualquier otra irregularidad imputable al estudiante. 4. Transcurrido el plazo previsto en el apartado 1 sin que se hubiere presentado solicitud, la calificación se entenderá firme a todos los efectos."
+ },
+ {
+  "id": "P-C2-11",
+  "level": "C2",
+  "skill": "reading",
+  "q": "Read the text. ¿Qué indica «Sin perjuicio de lo dispuesto en el apartado anterior»?",
+  "options": [
+   "Que el apartado 2 deja sin efecto el apartado 1",
+   "Que el apartado 1 sigue vigente y el apartado 2 añade una vía más",
+   "Que el apartado 1 perjudica los derechos del estudiante",
+   "Que el estudiante debe elegir entre la revisión y el recurso"
+  ],
+  "answer": 1,
+  "why": "Sin perjuicio de means 'without affecting': the review in section 1 still applies, and the appeal is an additional step if that review fails.",
+  "topic": "legal register",
+  "passage": "Artículo 12. Revisión de calificaciones. 1. El estudiante que no estuviere conforme con la calificación obtenida podrá solicitar su revisión ante el profesor responsable en el plazo de cinco días hábiles a contar desde la publicación de las notas. 2. Sin perjuicio de lo dispuesto en el apartado anterior, si la revisión no fuere atendida o el estudiante considerare insuficiente la respuesta, cabrá recurso ante la comisión del departamento, que resolverá en el plazo máximo de quince días. 3. La comisión no podrá, en ningún caso, rebajar la calificación inicialmente otorgada, salvo que se apreciare la existencia de plagio o de cualquier otra irregularidad imputable al estudiante. 4. Transcurrido el plazo previsto en el apartado 1 sin que se hubiere presentado solicitud, la calificación se entenderá firme a todos los efectos."
+ },
+ {
+  "id": "P-C2-12",
+  "level": "C2",
+  "skill": "grammar",
+  "q": "Complete the proverb: «Adonde fueres, haz lo que ___».",
+  "options": [
+   "vieras",
+   "verás",
+   "vieres",
+   "vieses"
+  ],
+  "answer": 2,
+  "why": "The proverb keeps the archaic future subjunctive (fueres, vieres), a form that survives today mainly in set phrases and legal texts.",
+  "topic": "future subjunctive"
+ },
+ {
+  "id": "P-C2-13",
+  "level": "C2",
+  "skill": "reading",
+  "q": "Read the text. ¿Qué intención tiene la felicitación inicial a la institución?",
+  "options": [
+   "Es sincera: celebra el optimismo del nuevo vocabulario",
+   "Es irónica: critica que se cambien las palabras en vez de resolver los problemas",
+   "Es una fórmula de cortesía sin relación con el resto del texto",
+   "Reconoce que la institución ha resuelto sus problemas más graves"
+  ],
+  "answer": 1,
+  "why": "The leaks 'enjoy enviable health' and are merely renamed, so the praise is ironic: only the vocabulary has changed.",
+  "topic": "irony",
+  "passage": "Conviene, antes de nada, felicitar a la institución: en apenas tres años ha conseguido que ningún documento interno contenga ya la palabra «problema». Hoy tenemos «retos», «oportunidades de mejora» y, en los casos más graves, «escenarios complejos». El avance es notable. Los problemas, que se sepa, siguen ahí —las goteras del pabellón B, por ejemplo, gozan de una salud envidiable—, pero ahora se describen con un léxico que invita al optimismo. Alguien dirá que esto es cosmético. No del todo. Un problema exige una solución; un reto, en cambio, solo exige actitud, y la actitud, a diferencia del presupuesto, es gratuita. Quizá el próximo plan estratégico logre lo que no consiguieron los anteriores: que las goteras, rebautizadas como «filtraciones de oportunidad», dejen de mojar. O que, al menos, mojen con más entusiasmo."
+ },
+ {
+  "id": "P-C2-14",
+  "level": "C2",
+  "skill": "reading",
+  "q": "Read the text. Según el autor, ¿por qué podría convenir a la institución hablar de «retos» y no de «problemas»?",
+  "options": [
+   "Porque «reto» es un término técnicamente más preciso",
+   "Porque así lo pidieron los empleados en una encuesta",
+   "Porque los problemas ya se han resuelto y solo quedan retos",
+   "Porque un reto no obliga a gastar en soluciones, solo a mostrar buena actitud"
+  ],
+  "answer": 3,
+  "why": "'No del todo' (not merely cosmetic) is explained ironically: a problem demands a solution, while a challenge only demands attitude, which unlike the budget is free.",
+  "topic": "inference (irony, ellipsis)",
+  "passage": "Conviene, antes de nada, felicitar a la institución: en apenas tres años ha conseguido que ningún documento interno contenga ya la palabra «problema». Hoy tenemos «retos», «oportunidades de mejora» y, en los casos más graves, «escenarios complejos». El avance es notable. Los problemas, que se sepa, siguen ahí —las goteras del pabellón B, por ejemplo, gozan de una salud envidiable—, pero ahora se describen con un léxico que invita al optimismo. Alguien dirá que esto es cosmético. No del todo. Un problema exige una solución; un reto, en cambio, solo exige actitud, y la actitud, a diferencia del presupuesto, es gratuita. Quizá el próximo plan estratégico logre lo que no consiguieron los anteriores: que las goteras, rebautizadas como «filtraciones de oportunidad», dejen de mojar. O que, al menos, mojen con más entusiasmo."
+ }
+]

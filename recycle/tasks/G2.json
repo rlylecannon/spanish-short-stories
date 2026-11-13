@@ -1,0 +1,1056 @@
+{
+ "patches": [
+  {
+   "file": "stories",
+   "id": "a1-06",
+   "find": "[\"Mi <b>cuñado</b> Ismael quiere la mesa al lado del <b>bizcocho</b>.\", \"My brother-in-law Ismael wants the table next to the cake.\"]",
+   "replace": "[\"Mi <b>cuñado</b> Ismael quiere la mesa al lado del <b>bizcocho</b> de fresa.\", \"My brother-in-law Ismael wants the table next to the strawberry cake.\"]",
+   "why": "line 8: recycles la fresa"
+  },
+  {
+   "file": "stories",
+   "id": "a1-06",
+   "find": "[\"— ¡Me gusta mucho el bizcocho!\", \"\\\"I really like cake!\\\"\"]",
+   "replace": "[\"— ¡Tengo hambre y me gusta mucho el bizcocho!\", \"\\\"I'm hungry, and I really like cake!\\\"\"]",
+   "why": "line 9: recycles el hambre"
+  },
+  {
+   "file": "stories",
+   "id": "a1-06",
+   "find": "[\"El <b>padrino</b> canta, y su mesa está cerca del micrófono.\", \"The best man sings, so his table is near the microphone.\"]",
+   "replace": "[\"El <b>padrino</b>, el jefe de Kiara, canta, y su mesa está cerca del micrófono.\", \"The best man, Kiara's boss, sings, so his table is near the microphone.\"]",
+   "why": "line 10: recycles el jefe"
+  },
+  {
+   "file": "stories",
+   "id": "a1-06",
+   "find": "[\"— <b>Mija</b>, una mesa para todos: <b>novios</b>, tíos, primos...\", \"\\\"Sweetheart, one table for everyone: the bride and groom, aunts and uncles, cousins...\\\"\"]",
+   "replace": "[\"— <b>Mija</b>, una mesa para todos: <b>novios</b>, tíos, primos... ¡y la cocinera!\", \"\\\"Sweetheart, one table for everyone: the bride and groom, aunts and uncles, cousins... and the cook!\\\"\"]",
+   "why": "line 13: recycles la cocinera"
+  },
+  {
+   "file": "stories",
+   "id": "a1-06",
+   "find": "[\"La suegra <b>prueba</b> el arroz: — Mmm... me gusta.\", \"The mother-in-law tries the rice: \\\"Mmm... I like it.\\\"\"]",
+   "replace": "[\"La suegra <b>prueba</b> el arroz y la ensalada: — Mmm... me gusta.\", \"The mother-in-law tries the rice and the salad: \\\"Mmm... I like it.\\\"\"]",
+   "why": "line 16: recycles la ensalada"
+  },
+  {
+   "file": "stories",
+   "id": "a1-06",
+   "find": "[\"reírse\", \"to laugh (se ríen)\"]",
+   "replace": "[\"reírse\", \"to laugh (se ríen)\"], [\"la fresa\", \"strawberry\"], [\"el hambre\", \"hunger (tengo hambre = I'm hungry)\"], [\"el jefe\", \"boss\"], [\"la cocinera\", \"cook (woman); el cocinero = cook (man)\"], [\"la ensalada\", \"salad\"]",
+   "why": "gloss entries for recycled/new words"
+  },
+  {
+   "file": "stories",
+   "id": "a1-06",
+   "find": "\"Imagine you are planning a family party. Who sits where, and who likes what? Write 4-5 sentences in the present tense using a reflexive verb, estar for location and me gusta (for example: Me llamo Ana. Mi tío se sienta con mi abuela. La mesa está cerca de la puerta. Me gusta el bizcocho.).\"",
+   "replace": "\"Imagine you are planning a family party. Who sits where, and who likes what? Write 4-5 sentences in the present tense using a reflexive verb, a yo-form verb and the possessives mi and su (for example: Me llamo Ana. Yo preparo la fiesta. Mi tío se sienta con su hermana. Mi prima quiere el bizcocho.).\"",
+   "why": "writing prompt no longer asks for dropped topics"
+  },
+  {
+   "file": "stories",
+   "id": "a1-06",
+   "find": "\"Reflexive verbs in the present (me llamo, se casa, se sienta, me levanto, se ríen); yo form of the present; estar for location (cerca de, al lado de, en el centro); me gusta.\"",
+   "replace": "\"Reflexive verbs in the present (me llamo, se casa, se sienta, me levanto, se ríen); yo form of the present (vivo, preparo, tengo); possessives mi and su (mi prima, su hermano, su mesa).\"",
+   "why": "concepts.grammar follows map2 topics"
+  },
+  {
+   "file": "stories",
+   "id": "a1-07",
+   "find": "[\"Marina y su papá están en el <b>tren</b> de Cusco.\", \"Marina and her dad are on the train from Cusco.\"]",
+   "replace": "[\"Marina y su papá están en el <b>tren</b> de Cusco. Marina tiene sueño.\", \"Marina and her dad are on the train from Cusco. Marina is sleepy.\"]",
+   "why": "line 0: recycles tener sueño"
+  },
+  {
+   "file": "stories",
+   "id": "a1-07",
+   "find": "[\"Papá lee un <b>libro</b> sobre Machu Picchu.\", \"Dad is reading a book about Machu Picchu.\"]",
+   "replace": "[\"Papá come una manzana y lee un <b>libro</b> sobre Machu Picchu.\", \"Dad eats an apple and reads a book about Machu Picchu.\"]",
+   "why": "line 1: recycles la manzana"
+  },
+  {
+   "file": "stories",
+   "id": "a1-07",
+   "find": "[\"—Esta es una ciudad <b>inca</b> del <b>siglo</b> quince —dice Killa.\", \"\\\"This is an Inca city from the fifteenth century,\\\" says Killa.\"]",
+   "replace": "[\"—Esta es una ciudad <b>inca</b> del <b>siglo</b> quince. ¡Es muy vieja! —dice Killa.\", \"\\\"This is an Inca city from the fifteenth century. It's very old!\\\" says Killa.\"]",
+   "why": "line 6: map2 grammar edit"
+  },
+  {
+   "file": "stories",
+   "id": "a1-07",
+   "find": "[\"Pero hoy hay muchas <b>nubes</b>. Marina está <b>triste</b>.\", \"But today there are lots of clouds. Marina is sad.\"]",
+   "replace": "[\"Pero hoy hay muchas <b>nubes</b>. Marina está muy <b>triste</b>.\", \"But today there are lots of clouds. Marina is very sad.\"]",
+   "why": "line 7: map2 grammar edit"
+  },
+  {
+   "file": "stories",
+   "id": "a1-07",
+   "find": "[\"A las once y media, hay una <b>llama</b> blanca en el <b>camino</b>.\", \"At half past eleven, there is a white llama on the path.\"]",
+   "replace": "[\"A las once y media, hay una <b>llama</b> blanca y muy seria en el <b>camino</b>.\", \"At half past eleven, there is a very serious white llama on the path.\"]",
+   "why": "line 9: recycles serio"
+  },
+  {
+   "file": "stories",
+   "id": "a1-07",
+   "find": "[\"Marina se sienta en una <b>piedra</b> y lee.\", \"Marina sits down on a stone and reads.\"]",
+   "replace": "[\"Marina tiene hambre. Se sienta en una <b>piedra</b>, come un bocadillo y lee.\", \"Marina is hungry. She sits down on a stone, eats a sandwich and reads.\"]",
+   "why": "line 12: recycles el hambre, el bocadillo"
+  },
+  {
+   "file": "stories",
+   "id": "a1-07",
+   "find": "[\"el sol\", \"sun (hay sol = it's sunny)\"]",
+   "replace": "[\"el sol\", \"sun (hay sol = it's sunny)\"], [\"tener sueño\", \"to be sleepy (tiene sueño)\"], [\"la manzana\", \"apple\"], [\"serio\", \"serious, stern (una llama seria)\"], [\"el hambre\", \"hunger (tiene hambre = she's hungry)\"], [\"el bocadillo\", \"sandwich\"], [\"viejo\", \"old (una ciudad muy vieja)\"]",
+   "why": "gloss entries for recycled/new words"
+  },
+  {
+   "file": "stories",
+   "id": "a1-07",
+   "find": "\"Imagine you are visiting a famous place. Where are you, what is there, and what is the weather like? Write 4-5 simple sentences in Spanish in the present tense with estoy / está and hay (for example: Estoy en Machu Picchu. Hay muchas nubes. La guía se llama...).\"",
+   "replace": "\"Imagine you are visiting a famous place. What is there, and what is the weather like? Write 4-5 simple sentences in Spanish in the present tense with hay, muy / mucho and a reflexive verb (for example: Estoy en Machu Picchu. Hay muchas nubes. Es muy bonito. La guía se llama...).\"",
+   "why": "writing prompt no longer asks for dropped topics"
+  },
+  {
+   "file": "stories",
+   "id": "a1-07",
+   "find": "\"estar + location and state (están en el tren, está triste, las nubes ya no están); hay (hay nubes, hay sol); reflexive se sienta, se llama, se levanta; present of vivir and leer (vives, vivo, vive; lee).\"",
+   "replace": "\"hay (hay nubes, hay sol); reflexive se sienta, se llama, se levanta; muy + adjective and mucho/a/os/as + noun (muy triste, muy vieja, muchas nubes).\"",
+   "why": "concepts.grammar follows map2 topics"
+  },
+  {
+   "file": "stories",
+   "id": "a1-08",
+   "find": "[\"En una <b>librería</b>, Lina abre un libro de <b>piratas</b>.\", \"In a bookshop, Lina opens a book about pirates.\"]",
+   "replace": "[\"En la <b>librería</b> de un señor muy serio, Lina abre un libro de <b>piratas</b>.\", \"In the bookshop of a very serious man, Lina opens a book about pirates.\"]",
+   "why": "line 2: recycles serio"
+  },
+  {
+   "file": "stories",
+   "id": "a1-08",
+   "find": "[\"Dentro hay un mapa con una X y un <b>coco</b>.\", \"Inside there is a map with an X and a coconut.\"]",
+   "replace": "[\"Dentro hay un mapa con una pista: una X y un <b>coco</b>.\", \"Inside there is a map with a clue: an X and a coconut.\"]",
+   "why": "line 3: recycles la pista"
+  },
+  {
+   "file": "stories",
+   "id": "a1-08",
+   "find": "[\"Van al <b>enorme</b> castillo de San Felipe.\", \"They go to the huge San Felipe castle.\"]",
+   "replace": "[\"Van al <b>enorme</b> castillo de San Felipe. ¡Hay que empezar allí!\", \"They go to the huge San Felipe castle. They have to start there!\"]",
+   "why": "line 6: map2 grammar edit"
+  },
+  {
+   "file": "stories",
+   "id": "a1-08",
+   "find": "[\"Al lado hay muchos <b>puestos</b> de dulces.\", \"Next to it there are lots of sweet stalls.\"]",
+   "replace": "[\"Al lado hay muchos <b>puestos</b> de fresas, manzanas y dulces. ¡Julián tiene hambre!\", \"Next to it there are lots of stalls with strawberries, apples and sweets. Julián is hungry!\"]",
+   "why": "line 10: recycles la fresa, la manzana, el hambre"
+  },
+  {
+   "file": "stories",
+   "id": "a1-08",
+   "find": "[\"buscar\", \"to look for\"]",
+   "replace": "[\"buscar\", \"to look for\"], [\"serio\", \"serious, stern\"], [\"la pista\", \"clue\"], [\"la fresa\", \"strawberry\"], [\"la manzana\", \"apple\"], [\"el hambre\", \"hunger (tiene hambre = he's hungry)\"], [\"hay que\", \"you have to, we have to (+ infinitive)\"]",
+   "why": "gloss entries for recycled/new words"
+  },
+  {
+   "file": "stories",
+   "id": "a1-08",
+   "find": "\"tener que + infinitive (tenemos que ir); comparisons with más … que, mejor que, tan … como; tener for age and having; ¿por qué? and porque.\"",
+   "replace": "\"tener que + infinitive (tenemos que ir) and hay que (¡hay que empezar allí!); comparisons with más … que, mejor que, tan … como; tener for age and having; ¿por qué? and porque.\"",
+   "why": "concepts.grammar follows map2 topics"
+  },
+  {
+   "file": "stories",
+   "id": "a1-09",
+   "find": "[\"Marta mira la <b>pantalla</b> y sonríe.\", \"Marta looks at the screen and smiles.\"]",
+   "replace": "[\"Marta come una manzana, mira la <b>pantalla</b> y sonríe.\", \"Marta eats an apple, looks at the screen and smiles.\"]",
+   "why": "line 1: recycles la manzana"
+  },
+  {
+   "file": "stories",
+   "id": "a1-09",
+   "find": "[\"Es su amigo Javier, de Madrid.\", \"It is her friend Javier, from Madrid.\"]",
+   "replace": "[\"Es su amigo Javier, un cocinero de Madrid.\", \"It is her friend Javier, a cook from Madrid.\"]",
+   "why": "line 2: recycles la cocinera / el cocinero"
+  },
+  {
+   "file": "stories",
+   "id": "a1-09",
+   "find": "[\"—Mi familia vive <b>lejos</b> y mis amigas trabajan.\", \"\\\"My family lives far away and my friends are working.\\\"\"]",
+   "replace": "[\"—Mi familia vive <b>lejos</b>, en las montañas, y mis amigas trabajan.\", \"\\\"My family lives far away, in the mountains, and my friends are working.\\\"\"]",
+   "why": "line 8: recycles la montaña"
+  },
+  {
+   "file": "stories",
+   "id": "a1-09",
+   "find": "[\"—Porque voy a comer contigo el sábado.\", \"\\\"Because I'm going to eat with you on Saturday.\\\"\"]",
+   "replace": "[\"—Porque voy a comer un bocadillo contigo el sábado.\", \"\\\"Because I'm going to eat a sandwich with you on Saturday.\\\"\"]",
+   "why": "line 15: recycles el bocadillo"
+  },
+  {
+   "file": "stories",
+   "id": "a1-09",
+   "find": "[\"—Sí, pero ahora estoy en Sevilla, <b>delante de</b> tu <b>edificio</b>.\", \"\\\"Yes, but right now I'm in Seville, in front of your building.\\\"\"]",
+   "replace": "[\"—Sí, pero ahora estoy en Sevilla, <b>delante de</b> tu <b>edificio</b>, ¡y tengo hambre!\", \"\\\"Yes, but right now I'm in Seville, in front of your building, and I'm hungry!\\\"\"]",
+   "why": "line 17: recycles el hambre"
+  },
+  {
+   "file": "stories",
+   "id": "a1-09",
+   "find": "[\"—¡Sorpresa! Voy a pasar el fin de semana aquí —dice.\", \"\\\"Surprise! I'm going to spend the weekend here,\\\" he says.\"]",
+   "replace": "[\"—¡Sorpresa! Estas flores son para ti. Voy a pasar el fin de semana aquí —dice.\", \"\\\"Surprise! These flowers are for you. I'm going to spend the weekend here,\\\" he says.\"]",
+   "why": "line 20: map2 grammar edit"
+  },
+  {
+   "file": "stories",
+   "id": "a1-09",
+   "find": "[\"El sábado no va a estar sola.\", \"On Saturday she is not going to be alone.\"]",
+   "replace": "[\"Este sábado no va a estar sola.\", \"This Saturday she is not going to be alone.\"]",
+   "why": "line 22: map2 grammar edit"
+  },
+  {
+   "file": "stories",
+   "id": "a1-09",
+   "find": "[\"delante de\", \"in front of\"]",
+   "replace": "[\"delante de\", \"in front of\"], [\"la manzana\", \"apple\"], [\"el cocinero\", \"cook (man); la cocinera = cook (woman)\"], [\"la montaña\", \"mountain\"], [\"el bocadillo\", \"sandwich\"], [\"el hambre\", \"hunger (tengo hambre = I'm hungry)\"], [\"este, esta, estas\", \"this, these (este sábado, estas flores)\"]",
+   "why": "gloss entries for recycled/new words"
+  },
+  {
+   "file": "stories",
+   "id": "a1-09",
+   "find": "\"Imagine you call a friend. Write a short dialogue in Spanish: ask what your friend is going to do on Saturday and answer with ir a + infinitive (the near future) (for example: —¿Qué vas a hacer el sábado? —Voy a ver una película. ¿Y tú?).\"",
+   "replace": "\"Imagine you call a friend. Write a short dialogue in Spanish: ask what your friend is going to do this weekend and answer with ir a + infinitive and este / esta (for example: —¿Qué vas a hacer este sábado? —Voy a ver una película. ¿Y tú?).\"",
+   "why": "writing prompt no longer asks for dropped topics"
+  },
+  {
+   "file": "stories",
+   "id": "a1-09",
+   "find": "\"ir a + infinitive for near plans (voy a cocinar, vas a hacer); time expressions: el sábado, ahora, este fin de semana.\"",
+   "replace": "\"ir a + infinitive for near plans (voy a cocinar, vas a hacer); question words (¿qué tal?, ¿por qué?, ¿qué?); demonstratives este, estas (este fin de semana, estas flores).\"",
+   "why": "concepts.grammar follows map2 topics"
+  },
+  {
+   "file": "stories",
+   "id": "a1-10",
+   "find": "[\"—¿Yo? ¿A la playa? ¡Claro que sí! —responde él.\", \"\\\"Me? To the beach? Of course!\\\" he answers.\"]",
+   "replace": "[\"—¿Yo? ¿A la playa? ¡Claro que sí! Mis días aquí son aburridos —responde él.\", \"\\\"Me? To the beach? Of course! My days here are boring,\\\" he answers.\"]",
+   "why": "line 8: recycles aburrido"
+  },
+  {
+   "file": "stories",
+   "id": "a1-10",
+   "find": "[\"—Vamos a comer <b>pescado</b> y a caminar por la <b>arena</b>.\", \"\\\"We are going to eat fish and walk on the sand.\\\"\"]",
+   "replace": "[\"—Vamos a comer <b>pescado</b>, a ver el castillo y a caminar por la <b>arena</b>.\", \"\\\"We are going to eat fish, see the castle and walk on the sand.\\\"\"]",
+   "why": "line 9: recycles el castillo"
+  },
+  {
+   "file": "stories",
+   "id": "a1-10",
+   "find": "[\"Elena pone agua, <b>fruta</b> y una <b>toalla</b> grande.\", \"Elena puts in water, fruit and a big towel.\"]",
+   "replace": "[\"Elena pone agua, bocadillos, <b>fruta</b> y una <b>toalla</b> grande.\", \"Elena puts in water, sandwiches, fruit and a big towel.\"]",
+   "why": "line 11: recycles el bocadillo"
+  },
+  {
+   "file": "stories",
+   "id": "a1-10",
+   "find": "[\"—¿Dónde están los billetes? —grita él.\", \"\\\"Where are the tickets?\\\" he shouts.\"]",
+   "replace": "[\"—¿Dónde están los billetes? —grita él, muy nervioso.\", \"\\\"Where are the tickets?\\\" he shouts, very nervous.\"]",
+   "why": "line 13: recycles nervioso"
+  },
+  {
+   "file": "stories",
+   "id": "a1-10",
+   "find": "[\"En el tren, el abuelo mira por la ventana.\", \"On the train, Grandpa looks out the window.\"]",
+   "replace": "[\"En el tren, el abuelo come una manzana y mira por la ventana.\", \"On the train, Grandpa eats an apple and looks out the window.\"]",
+   "why": "line 17: recycles la manzana"
+  },
+  {
+   "file": "stories",
+   "id": "a1-10",
+   "find": "[\"el recuerdo\", \"memory\"]",
+   "replace": "[\"el recuerdo\", \"memory\"], [\"aburrido\", \"boring\"], [\"el castillo\", \"castle, fort\"], [\"el bocadillo\", \"sandwich\"], [\"nervioso\", \"nervous\"], [\"la manzana\", \"apple\"]",
+   "why": "gloss entries for recycled/new words"
+  },
+  {
+   "file": "stories",
+   "id": "a1-10",
+   "find": "\"Where are you going to go on your next weekend trip, and who is going with you? Write 4-6 sentences in Spanish in the near future (ir a + infinitive: voy a..., vamos a...) (for example: El sábado voy a ir a la playa con mi hermana. Vamos a comer pescado.).\"",
+   "replace": "\"Where do you want to go on your next weekend trip, and when? Write 4-6 sentences in Spanish with a day and a time, a possessive (mi, tu, su) and quiero / quiere (for example: El sábado quiero ir a la playa con mi hermana. El tren sale a las ocho de la mañana. Mi abuelo quiere ver el mar.).\"",
+   "why": "writing prompt no longer asks for dropped topics"
+  },
+  {
+   "file": "stories",
+   "id": "a1-10",
+   "find": "\"ir a + infinitive for plans (vamos a ir, van a pasar); days and times of day (el sábado, el viernes por la noche); estar for location; possessives (mi, tu, su).\"",
+   "replace": "\"days and times of day (el sábado, el viernes por la noche, a las ocho de la mañana); possessives (mi, tu, su); stem-changing verbs querer and encontrar (quiere, quieres, encuentra).\"",
+   "why": "concepts.grammar follows map2 topics"
+  }
+ ],
+ "grammar_replace": {
+  "a1-06": [
+   {
+    "topic": "Reflexive verbs",
+    "explain": "Reflexive verbs use a pronoun that matches the subject: me levanto (I get up), te sientas (you sit), se sienta (he/she sits), se sientan (they sit). It goes before the verb: llamarse, sentarse, casarse, reírse. Watch out: English often has no 'myself' here, but Spanish needs the pronoun: 'Kiara se casa' = Kiara is getting married.",
+    "examples": [
+     [
+      "El tío Wilfredo no se sienta con su hermano Héctor.",
+      "Uncle Wilfredo won't sit with his brother Héctor."
+     ],
+     [
+      "¡Qué problema! Me levanto a las cinco para pensar.",
+      "What a problem! I get up at five to think about it."
+     ],
+     [
+      "El sábado, los hermanos pierden... y se ríen juntos.",
+      "On Saturday, the brothers lose... and laugh together."
+     ]
+    ]
+   },
+   {
+    "topic": "Present tense: yo form",
+    "explain": "For 'I', regular present verbs end in -o: preparar → preparo, vivir → vivo, levantarse → me levanto. Because the -o already shows 'I', Spanish usually leaves out 'yo' (use it for emphasis or contrast). Watch out: some very common verbs are irregular in the yo form: soy, estoy, voy, tengo.",
+    "examples": [
+     [
+      "Me llamo Yadira y vivo en San Juan.",
+      "My name is Yadira and I live in San Juan."
+     ],
+     [
+      "Yo preparo las mesas de la boda.",
+      "I'm doing the seating plan for the wedding."
+     ],
+     [
+      "— ¡Tengo hambre y me gusta mucho el bizcocho!",
+      "\"I'm hungry, and I really like cake!\""
+     ]
+    ]
+   },
+   {
+    "topic": "Possessives: mi, su",
+    "explain": "Possessives go before the noun: mi = my, su = his, her or their (also formal 'your'). Spanish has no apostrophe-s, so 'Kiara's mother-in-law' is la suegra de Kiara. Watch out: su can mean his, her or their, so the story tells you who; and before a plural noun add -s: mis primos, sus hermanos.",
+    "examples": [
+     [
+      "Mi prima Kiara se casa el sábado.",
+      "My cousin Kiara is getting married on Saturday."
+     ],
+     [
+      "El tío Wilfredo no se sienta con su hermano Héctor.",
+      "Uncle Wilfredo won't sit with his brother Héctor."
+     ],
+     [
+      "Mi cuñado Ismael quiere la mesa al lado del bizcocho de fresa.",
+      "My brother-in-law Ismael wants the table next to the strawberry cake."
+     ]
+    ]
+   }
+  ],
+  "a1-07": [
+   {
+    "topic": "Hay: there is / there are",
+    "explain": "'Hay' (there is / there are) says that something exists, often something new: hay una vista perfecta, hay muchas nubes. It never changes for plural. Watch out: for a specific thing we already know, use estar: Delante está la ciudad (not 'hay la ciudad'). 'Hay sol' means 'it's sunny'.",
+    "examples": [
+     [
+      "—Arriba hay una vista perfecta —lee él.",
+      "\"At the top there is a perfect view,\" he reads."
+     ],
+     [
+      "—Muchas mañanas hay nubes, pero al mediodía hay sol.",
+      "\"On a lot of mornings there are clouds, but at midday the sun comes out.\""
+     ],
+     [
+      "Delante está la ciudad, entre montañas verdes.",
+      "The city is right in front of them, among green mountains."
+     ]
+    ]
+   },
+   {
+    "topic": "Reflexive: se sienta, se llama",
+    "explain": "'Se' before a verb marks a reflexive verb in the he/she form: se sienta (sits down), se llama (is called), se levanta (gets up). With 'yo' it is 'me': me siento, me llamo. Watch out: 'la llama sienta' is wrong; you need 'se'. And enjoy the joke: la llama se llama Pelusa!",
+    "examples": [
+     [
+      "La llama se sienta en el centro y no se mueve.",
+      "The llama sits down in the middle and won't move."
+     ],
+     [
+      "—Se llama Pelusa y vive aquí —dice Killa.",
+      "\"Her name is Pelusa, and she lives here,\" says Killa."
+     ],
+     [
+      "A las doce, Pelusa se levanta.",
+      "At twelve o'clock, Pelusa gets up."
+     ]
+    ]
+   },
+   {
+    "topic": "Muy and mucho",
+    "explain": "'Muy' (very) goes before an adjective and never changes: muy vieja, muy triste. 'Mucho' (a lot of, many) goes before a noun and agrees with it: mucho sol, mucha agua, muchos libros, muchas nubes. Watch out: don't say 'mucho triste' for 'very sad'; with adjectives it is always muy.",
+    "examples": [
+     [
+      "Pero hoy hay muchas nubes. Marina está muy triste.",
+      "But today there are lots of clouds. Marina is very sad."
+     ],
+     [
+      "—Esta es una ciudad inca del siglo quince. ¡Es muy vieja! —dice Killa.",
+      "\"This is an Inca city from the fifteenth century. It's very old!\" says Killa."
+     ],
+     [
+      "—Muchas mañanas hay nubes, pero al mediodía hay sol.",
+      "\"On a lot of mornings there are clouds, but at midday the sun comes out.\""
+     ]
+    ]
+   }
+  ],
+  "a1-08": [
+   {
+    "topic": "Tener que + infinitive",
+    "explain": "'Tener que' + infinitive means 'have to': tenemos que ir (we have to go). Only tener changes: tengo que, tienes que, tiene que, tenemos que, tienen que. Watch out: don't drop 'que' ('tenemos ir' is wrong), and keep the second verb in the infinitive. 'Hay que' + infinitive is the impersonal form, for 'you/we have to' in general: ¡Hay que empezar allí! It never changes.",
+    "examples": [
+     [
+      "—¡Tenemos que ir! —dice Julián.",
+      "\"We have to go!\" says Julián."
+     ],
+     [
+      "Van al enorme castillo de San Felipe. ¡Hay que empezar allí!",
+      "They go to the huge San Felipe castle. They have to start there!"
+     ],
+     [
+      "Mañana tienen que buscar otro libro de piratas.",
+      "Tomorrow they have to look for another pirate book."
+     ]
+    ]
+   },
+   {
+    "topic": "Comparing with más … que",
+    "explain": "To compare, use 'más + adjective + que' = 'more … than' or '-er than': más dulce que (sweeter than), más pequeño que (smaller than). The adjective agrees with the noun. For 'better', say 'mejor que'; for 'as … as', say 'tan … como'. Watch out: use 'que', not 'de' or 'como', after más (only before a number is it 'más de': más de diez).",
+    "examples": [
+     [
+      "El mapa dice: «Castillo. Torre del Reloj. El tesoro es más dulce que el oro».",
+      "The map says: \"Castle. Clock Tower. The treasure is sweeter than gold.\""
+     ],
+     [
+      "Un puesto, más pequeño que los otros, tiene un dibujo: ¡una X y un coco!",
+      "One stall, smaller than the others, has a drawing: an X and a coconut!"
+     ],
+     [
+      "—¡Este tesoro es mejor que el oro! —dice Julián.",
+      "\"This treasure is better than gold!\" says Julián."
+     ],
+     [
+      "Les da dos cocadas tan grandes como sus manos.",
+      "She gives them two cocadas as big as their hands."
+     ]
+    ]
+   },
+   {
+    "topic": "Tener: age and having",
+    "explain": "Spanish uses 'tener' for age: Lina tiene once años = Lina is eleven (literally 'has eleven years'). Ask: ¿Cuántos años tienes? Tener also means to have or own: mi hermano tiene la librería. Watch out: never use ser or estar for age ('Lina es once años' is wrong).",
+    "examples": [
+     [
+      "Lina tiene once años y su primo Julián tiene nueve.",
+      "Lina is eleven and her cousin Julián is nine."
+     ],
+     [
+      "—Porque mi hermano tiene la librería y yo tengo el tesoro.",
+      "\"Because my brother has the bookshop and I have the treasure.\""
+     ],
+     [
+      "—¿Tienen el mapa? —pregunta la señora del puesto.",
+      "\"Do you have the map?\" asks the woman at the stall."
+     ]
+    ]
+   },
+   {
+    "topic": "¿Por qué? and porque",
+    "explain": "'¿Por qué?' (two words, with an accent) asks 'why?'. 'Porque' (one word, no accent) answers 'because'. Watch out: they sound almost the same, so the difference shows in writing: question = ¿por qué?, answer = porque.",
+    "examples": [
+     [
+      "—¿Por qué es tan grande? —pregunta Julián.",
+      "\"Why is it so big?\" asks Julián."
+     ],
+     [
+      "—Porque los piratas quieren oro, y el castillo es más fuerte que ellos.",
+      "\"Because pirates want gold, and the castle is stronger than they are.\""
+     ],
+     [
+      "—Sí. ¿Por qué? —pregunta Lina.",
+      "\"Yes. Why?\" asks Lina."
+     ]
+    ]
+   }
+  ],
+  "a1-09": [
+   {
+    "topic": "Ir a + infinitive: the near future",
+    "explain": "'Ir a' + infinitive talks about the future, like English 'going to': voy a cocinar, vas a hacer, va a estar. Pattern: voy/vas/va/vamos/van + a + infinitive. Watch out: don't drop the 'a' ('vas hacer' is wrong), and don't conjugate the second verb ('vas a haces' is wrong).",
+    "examples": [
+     [
+      "—Este fin de semana no tengo planes y voy a estar sola.",
+      "\"This weekend I have no plans and I'm going to be alone.\""
+     ],
+     [
+      "—Entonces, ¿qué vas a hacer el sábado?",
+      "\"So, what are you going to do on Saturday?\""
+     ],
+     [
+      "—Voy a cocinar una tortilla y ver una película.",
+      "\"I'm going to cook a tortilla and watch a movie.\""
+     ]
+    ]
+   },
+   {
+    "topic": "Question words",
+    "explain": "Question words carry a written accent: ¿qué? (what), ¿por qué? (why), ¿dónde? (where), ¿cómo? (how), ¿cuándo? (when), ¿quién? (who). Written questions open with ¿ and close with ?. '¿Qué tal estás?' = How are you? Watch out: '¿Qué dices?' literally asks 'What are you saying?', but often shows surprise, like 'What?!'",
+    "examples": [
+     [
+      "—¡Hola, Marta! ¿Qué tal estás?",
+      "\"Hi, Marta! How are you?\""
+     ],
+     [
+      "—¿Por qué estás triste? —pregunta él.",
+      "\"Why are you sad?\" he asks."
+     ],
+     [
+      "—¿Qué dices? ¡Tú vives en Madrid!",
+      "\"What are you saying? You live in Madrid!\""
+     ]
+    ]
+   },
+   {
+    "topic": "Demonstratives: este, esta, estas",
+    "explain": "'Este' and 'esta' mean 'this'; 'estos' and 'estas' mean 'these'. They agree with the noun: este sábado, esta tarde, estas flores. 'Este fin de semana' = this (coming) weekend. Watch out: 'esta' (this) has no accent, but 'está' (is) does: Esta flor está aquí.",
+    "examples": [
+     [
+      "—Este fin de semana no tengo planes y voy a estar sola.",
+      "\"This weekend I have no plans and I'm going to be alone.\""
+     ],
+     [
+      "—¡Sorpresa! Estas flores son para ti. Voy a pasar el fin de semana aquí —dice.",
+      "\"Surprise! These flowers are for you. I'm going to spend the weekend here,\" he says."
+     ],
+     [
+      "Este sábado no va a estar sola.",
+      "This Saturday she is not going to be alone."
+     ]
+    ]
+   }
+  ],
+  "a1-10": [
+   {
+    "topic": "Days and times of day",
+    "explain": "'El sábado' = on Saturday; 'a las ocho' = at eight. With a clock time, use 'de la mañana / de la tarde / de la noche': a las ocho de la mañana. Without a clock time, use 'por la mañana / por la tarde / por la noche': el viernes por la noche. Watch out: no 'en' before days.",
+    "examples": [
+     [
+      "—A Cádiz. El tren sale a las ocho de la mañana.",
+      "\"To Cádiz. The train leaves at eight in the morning.\""
+     ],
+     [
+      "El viernes por la noche, los hermanos preparan las mochilas.",
+      "On Friday night, the siblings pack their backpacks."
+     ],
+     [
+      "El sábado, los tres llegan a la estación temprano.",
+      "On Saturday, the three of them arrive at the station early."
+     ]
+    ]
+   },
+   {
+    "topic": "Possessives: mi, tu, su",
+    "explain": "Possessives go before the noun: mi (my), tu (your), su (his, her, their, or formal your). They agree with the thing owned, not the owner, so add -s before a plural noun: mis recuerdos (my memories). Watch out: su can mean his, her or their, so the context tells you who; tu (your) has no accent, tú (you) does.",
+    "examples": [
+     [
+      "Elena y su hermano Raúl están en la cocina.",
+      "Elena and her brother Raúl are in the kitchen."
+     ],
+     [
+      "Elena se ríe y abre su bolsa.",
+      "Elena laughs and opens her bag."
+     ],
+     [
+      "—Es más grande que en mis recuerdos —dice.",
+      "\"It's bigger than I remember (literally: than in my memories),\" he says."
+     ]
+    ]
+   },
+   {
+    "topic": "Stem-changing verbs: quiere, encuentra",
+    "explain": "Some verbs change the vowel in their stem when it is stressed: querer → quiero, quieres, quiere, quieren (e → ie); encontrar → encuentro, encuentras, encuentra, encuentran (o → ue). The endings stay regular. Watch out: with nosotros the stem does not change: queremos, encontramos.",
+    "examples": [
+     [
+      "—Perfecto. Él tiene ochenta años y quiere ver el mar.",
+      "\"Perfect. He is eighty years old and wants to see the sea.\""
+     ],
+     [
+      "—Abuelo, ¿quieres ir con nosotros? —pregunta Elena por teléfono.",
+      "\"Grandpa, do you want to come with us?\" Elena asks on the phone."
+     ],
+     [
+      "Raúl busca los billetes, pero no los encuentra.",
+      "Raúl looks for the tickets, but he cannot find them."
+     ]
+    ]
+   }
+  ]
+ },
+ "gq_replace": {
+  "a1-06": [
+   {
+    "topic": "Reflexive verbs",
+    "q": "Which sentence means 'Uncle Wilfredo doesn't sit with his brother'?",
+    "options": [
+     "El tío Wilfredo no sienta se con su hermano.",
+     "El tío Wilfredo se no sienta con su hermano.",
+     "El tío Wilfredo no se sienta con su hermano.",
+     "El tío Wilfredo no me sienta con su hermano."
+    ],
+    "answer": 2,
+    "why": "'No' comes first, then the pronoun, then the verb: no se sienta. With he/she the pronoun is 'se', not 'me'."
+   },
+   {
+    "topic": "Present tense: yo form",
+    "q": "Fill in the blank: Yo ___ las mesas de la boda.",
+    "options": [
+     "prepara",
+     "preparo",
+     "preparas",
+     "preparar"
+    ],
+    "answer": 1,
+    "why": "With 'yo', regular verbs end in -o: preparo. 'Prepara' is he/she, 'preparas' is you, and 'preparar' is the infinitive."
+   },
+   {
+    "topic": "Possessives: mi, su",
+    "q": "Complete: El tío Wilfredo no se sienta con ___ hermano Héctor. (his brother)",
+    "options": [
+     "su",
+     "mi",
+     "sus",
+     "tu"
+    ],
+    "answer": 0,
+    "why": "'Su' means his (also her or their). 'Hermano' is singular, so su, not sus. 'Mi' is my and 'tu' is your."
+   },
+   {
+    "topic": "Reflexive verbs",
+    "q": "Complete: Kiara y Joel ___ el sábado.",
+    "options": [
+     "se casa",
+     "me caso",
+     "se casan",
+     "casan se"
+    ],
+    "answer": 2,
+    "why": "Two people = they, so the verb ends in -an and the pronoun is 'se': se casan. The pronoun goes before the verb."
+   },
+   {
+    "topic": "Present tense: yo form",
+    "q": "How do you say 'I'm hungry'?",
+    "options": [
+     "Tengo hambre.",
+     "Teno hambre.",
+     "Tiene hambre.",
+     "Soy hambre."
+    ],
+    "answer": 0,
+    "why": "Spanish says 'I have hunger': tengo hambre. Tener is irregular in the yo form (tengo); 'tiene' is he/she, and ser is not used here.",
+    "x": true
+   },
+   {
+    "topic": "Possessives: mi, su",
+    "q": "What does 'Mi prima Kiara se casa el sábado' mean?",
+    "options": [
+     "My cousin Kiara is getting married on Saturday.",
+     "His cousin Kiara is getting married on Saturday.",
+     "Your cousin Kiara is getting married on Saturday.",
+     "Her cousin Kiara gets married every Saturday."
+    ],
+    "answer": 0,
+    "why": "'Mi' = my. 'His/her' would be 'su', and 'your' would be 'tu'.",
+    "x": true
+   },
+   {
+    "topic": "Possessives: mi, su",
+    "q": "Yadira talks about her two cousins. Complete: ___ primos se sientan juntos. (My cousins)",
+    "options": [
+     "Mis",
+     "Mi",
+     "Su",
+     "Sus"
+    ],
+    "answer": 0,
+    "why": "Possessives agree with the thing owned: 'primos' is plural, so mi becomes mis. 'Su/sus' would mean his, her or their.",
+    "x": true
+   },
+   {
+    "topic": "Reflexive verbs",
+    "q": "Complete: ¡Qué problema! ___ a las cinco para pensar. (I get up)",
+    "options": [
+     "Me levanto",
+     "Se levanta",
+     "Levanto",
+     "Me levanta"
+    ],
+    "answer": 0,
+    "why": "Levantarse is reflexive. With 'I' the pronoun is 'me' and the verb ends in -o: me levanto. 'Se levanta' is he/she; 'levanto' alone means 'I lift'.",
+    "x": true
+   }
+  ],
+  "a1-07": [
+   {
+    "topic": "Hay: there is / there are",
+    "q": "Which sentence means 'There are a lot of clouds'?",
+    "options": [
+     "Están muchas nubes.",
+     "Hay muchas nubes.",
+     "Hay mucha nubes.",
+     "Son muchas nubes."
+    ],
+    "answer": 1,
+    "why": "'Hay' introduces things that exist and never changes for plural. 'Mucha nubes' is wrong because 'muchas' must agree with 'nubes'."
+   },
+   {
+    "topic": "Reflexive: se sienta, se llama",
+    "q": "What does 'A las doce, Pelusa se levanta' mean?",
+    "options": [
+     "At twelve, Pelusa gets up.",
+     "At twelve, Pelusa sits down.",
+     "At twelve, Pelusa lifts Marina.",
+     "At twelve, Pelusa is called."
+    ],
+    "answer": 0,
+    "why": "'Levantarse' is reflexive: she lifts herself up, so she gets up. 'Se sienta' is 'sits down'; 'levantar' without 'se' means to lift something."
+   },
+   {
+    "topic": "Muy and mucho",
+    "q": "Complete: Marina está ___ triste. (very sad)",
+    "options": [
+     "muy",
+     "mucho",
+     "mucha",
+     "muchas"
+    ],
+    "answer": 0,
+    "why": "Before an adjective (triste) use 'muy', which never changes. 'Mucho/mucha' go before nouns."
+   },
+   {
+    "topic": "Muy and mucho",
+    "q": "Complete: ___ mañanas hay nubes.",
+    "options": [
+     "Muchas",
+     "Muy",
+     "Mucho",
+     "Muchos"
+    ],
+    "answer": 0,
+    "why": "Before a noun use mucho, and it agrees with the noun: 'mañanas' is feminine plural, so muchas."
+   },
+   {
+    "topic": "Hay: there is / there are",
+    "q": "Complete: Delante ___ la ciudad, entre montañas verdes.",
+    "options": [
+     "hay",
+     "está",
+     "es",
+     "tiene"
+    ],
+    "answer": 1,
+    "why": "'La ciudad' is a specific, known place, so use estar for its location. 'Hay' only introduces something new: hay una ciudad.",
+    "x": true
+   },
+   {
+    "topic": "Reflexive: se sienta, se llama",
+    "q": "Killa introduces herself. Complete: Hola, ___ Killa.",
+    "options": [
+     "me llamo",
+     "se llama",
+     "llamo",
+     "me llama"
+    ],
+    "answer": 0,
+    "why": "Llamarse is reflexive: me llamo (my name is). 'Se llama' is for he/she; 'llamo' alone means 'I call'.",
+    "x": true
+   },
+   {
+    "topic": "Muy and mucho",
+    "q": "What does Killa mean with '¡Es muy vieja!'?",
+    "options": [
+     "It's very old!",
+     "It's a lot of old!",
+     "It's too old!",
+     "It's an old woman!"
+    ],
+    "answer": 0,
+    "why": "'Muy' + adjective = very + adjective: muy vieja = very old. 'Vieja' agrees with 'la ciudad'.",
+    "x": true
+   },
+   {
+    "topic": "Hay: there is / there are",
+    "q": "How does the story say 'The sun is out!' (literally 'There is sun')?",
+    "options": [
+     "¡Hay sol!",
+     "¡Está sol!",
+     "¡Es sol!",
+     "¡Tiene sol!"
+    ],
+    "answer": 0,
+    "why": "'Hay sol' (there is sun) is the normal way to say it's sunny. 'Hay' never changes.",
+    "x": true
+   }
+  ],
+  "a1-09": [
+   {
+    "topic": "Ir a + infinitive: the near future",
+    "q": "Which sentence means 'What are you going to do on Saturday?'",
+    "options": [
+     "¿Qué vas hacer el sábado?",
+     "¿Qué vas a hacer el sábado?",
+     "¿Qué haces a el sábado?",
+     "¿Qué vas a haces el sábado?"
+    ],
+    "answer": 1,
+    "why": "Ir + a + infinitive: vas a hacer. Don't drop 'a', and don't conjugate the second verb."
+   },
+   {
+    "topic": "Question words",
+    "q": "Marta answers: 'Estoy bien, pero un poco triste.' What did Javier ask?",
+    "options": [
+     "¿Qué vas a hacer?",
+     "¿Quién eres?",
+     "¿Dónde estás?",
+     "¿Qué tal estás?"
+    ],
+    "answer": 3,
+    "why": "'¿Qué tal estás?' (How are you?) asks how someone is, so 'Estoy bien' answers it. ¿Dónde? asks where; ¿Quién? asks who."
+   },
+   {
+    "topic": "Demonstratives: este, esta, estas",
+    "q": "Complete: —¡Sorpresa! ___ flores son para ti. (These flowers)",
+    "options": [
+     "Estas",
+     "Este",
+     "Esta",
+     "Estos"
+    ],
+    "answer": 0,
+    "why": "'Flores' is feminine plural, so 'these' is estas. Este/esta are singular; estos is for masculine nouns."
+   },
+   {
+    "topic": "Demonstratives: este, esta, estas",
+    "q": "Which sentence means 'This weekend I have no plans'?",
+    "options": [
+     "Este fin de semana no tengo planes.",
+     "Esta fin de semana no tengo planes.",
+     "Estos fin de semana no tengo planes.",
+     "Esto fin de semana no tengo planes."
+    ],
+    "answer": 0,
+    "why": "'Fin de semana' is masculine singular (el fin de semana), so 'this' is este."
+   },
+   {
+    "topic": "Ir a + infinitive: the near future",
+    "q": "Complete: Mañana nosotros ___ cocinar una tortilla.",
+    "options": [
+     "vamos de",
+     "vamos",
+     "vamos a",
+     "van a"
+    ],
+    "answer": 2,
+    "why": "Near future = ir + a + infinitive; with nosotros: vamos a cocinar.",
+    "x": true
+   },
+   {
+    "topic": "Question words",
+    "q": "Complete: —¿___ vive tu familia? —Mi familia vive lejos.",
+    "options": [
+     "Dónde",
+     "Qué",
+     "Quién",
+     "Cuándo"
+    ],
+    "answer": 0,
+    "why": "The answer 'lejos' (far away) gives a place, so the question word is ¿Dónde? (where), with an accent.",
+    "x": true
+   },
+   {
+    "topic": "Demonstratives: este, esta, estas",
+    "q": "What does 'Este sábado no va a estar sola' mean?",
+    "options": [
+     "This Saturday she is not going to be alone.",
+     "Every Saturday she is alone.",
+     "Last Saturday she was not alone.",
+     "This Saturday she is alone."
+    ],
+    "answer": 0,
+    "why": "'Este sábado' = this Saturday, and 'no va a estar' = is not going to be.",
+    "x": true
+   },
+   {
+    "topic": "Ir a + infinitive: the near future",
+    "q": "Javier talks about his plan. Complete: ___ a pasar el fin de semana aquí.",
+    "options": [
+     "Voy",
+     "Va",
+     "Vas",
+     "Ir"
+    ],
+    "answer": 0,
+    "why": "For 'I am going to', use voy + a + infinitive: voy a pasar. 'Va' is he/she and 'vas' is you.",
+    "x": true
+   }
+  ],
+  "a1-10": [
+   {
+    "topic": "Days and times of day",
+    "q": "Complete: ___ viernes ___ noche, los hermanos preparan las mochilas.",
+    "options": [
+     "En el / por la",
+     "El / de la",
+     "Los / a la",
+     "El / por la"
+    ],
+    "answer": 3,
+    "why": "No word for 'on' before days: el viernes. Without a clock time, use 'por la noche'; 'de la noche' only follows a clock time (a las diez de la noche)."
+   },
+   {
+    "topic": "Possessives: mi, tu, su",
+    "q": "Complete: Elena se ríe y abre ___ bolsa. (her bag)",
+    "options": [
+     "su",
+     "sus",
+     "mi",
+     "tu"
+    ],
+    "answer": 0,
+    "why": "Su means 'her' (and also 'his' or 'their'). Bolsa is singular, so su, not sus. Mi is 'my' and tu is 'your'."
+   },
+   {
+    "topic": "Stem-changing verbs: quiere, encuentra",
+    "q": "Complete: Raúl busca los billetes, pero no los ___. (find)",
+    "options": [
+     "encuentra",
+     "encontra",
+     "encuentran",
+     "encontrar"
+    ],
+    "answer": 0,
+    "why": "Encontrar changes o → ue in the stressed stem: encuentra (he finds). 'Encontra' is not a form, 'encuentran' is they, and 'encontrar' is the infinitive."
+   },
+   {
+    "topic": "Stem-changing verbs: quiere, encuentra",
+    "q": "Elena asks Grandpa: '¿___ ir con nosotros?' (Do you want)",
+    "options": [
+     "Quieres",
+     "Queres",
+     "Quiere",
+     "Quiero"
+    ],
+    "answer": 0,
+    "why": "Querer changes e → ie: quieres (you want). 'Quiere' is he/she and 'quiero' is I."
+   },
+   {
+    "topic": "Days and times of day",
+    "q": "How do you say 'The train leaves at eight in the morning'?",
+    "options": [
+     "El tren sale a las ocho de la mañana.",
+     "El tren sale en las ocho de la mañana.",
+     "El tren sale las ocho de la mañana.",
+     "El tren sale a la ocho de la mañana."
+    ],
+    "answer": 0,
+    "why": "Clock time = 'a las + number', and after a clock time use 'de la mañana'.",
+    "x": true
+   },
+   {
+    "topic": "Possessives: mi, tu, su",
+    "q": "Grandpa says: «Es más grande que en ___ recuerdos.» (my memories)",
+    "options": [
+     "mi",
+     "mis",
+     "sus",
+     "mío"
+    ],
+    "answer": 1,
+    "why": "Recuerdos is plural, so mi becomes mis: possessives agree with the thing owned (many memories), not with the owner (one grandpa). Sus would mean his/their, and mío does not go before a noun.",
+    "x": true
+   },
+   {
+    "topic": "Stem-changing verbs: quiere, encuentra",
+    "q": "How do you say 'I want to see the sea'?",
+    "options": [
+     "Quiero ver el mar.",
+     "Quero ver el mar.",
+     "Quiere ver el mar.",
+     "Quieres ver el mar."
+    ],
+    "answer": 0,
+    "why": "With yo, querer becomes quiero (e → ie, ending -o). 'Quiere' is he/she, as in the story: el abuelo quiere ver el mar.",
+    "x": true
+   },
+   {
+    "topic": "Stem-changing verbs: quiere, encuentra",
+    "q": "Complete: Nosotros ___ ir a la playa. (want)",
+    "options": [
+     "queremos",
+     "quieremos",
+     "quieren",
+     "quiere"
+    ],
+    "answer": 0,
+    "why": "With nosotros the stem does not change: queremos. 'Quieren' is they and 'quiere' is he/she.",
+    "x": true
+   }
+  ]
+ },
+ "categories_add": {
+  "Possessives: mi, su": "Present tense & basics",
+  "Muy and mucho": "Present tense & basics",
+  "Demonstratives: este, esta, estas": "Present tense & basics",
+  "Stem-changing verbs: quiere, encuentra": "Present tense & basics"
+ },
+ "dict_add": {
+  "fresa": [
+   [
+    "la fresa",
+    "noun",
+    "strawberry"
+   ]
+  ],
+  "ensalada": [
+   [
+    "la ensalada",
+    "noun",
+    "salad"
+   ]
+  ],
+  "seria": [
+   [
+    "serio",
+    "adj",
+    "serious"
+   ]
+  ],
+  "estas": [
+   [
+    "este",
+    "det",
+    "these"
+   ]
+  ],
+  "aburridos": [
+   [
+    "aburrido",
+    "adj",
+    "boring"
+   ]
+  ],
+  "bocadillos": [
+   [
+    "el bocadillo",
+    "noun",
+    "sandwich"
+   ]
+  ]
+ },
+ "notes": "G2 (a1-06..a1-10). Grammar cards = map2 topics in map2 order; kept cards preserved, but non-verbatim examples in kept cards swapped for verbatim story lines (a1-06 reflexive/yo-form, a1-08 comparatives/tener/tener que); a1-08 tener-que card gains a hay que sentence + example (map2 note). All map2 edits applied (a1-07 l6,l7; a1-08 l6; a1-09 l20,l22). Story prompt and concepts.grammar patched to stop asking for dropped topics. Recycled words are NOT wrapped in <b> (convention: <b> marks the story's own new words; repeated words such as ventana/hermano appear unbolded but listed in vocab), so <b> counts unchanged; vocab entries appended for each recycled word. gq_replace for a1-06/07/09/10 (a1-08 quiz unchanged: all topics kept). New questions use 4 options to match all 322 existing items (brief said 3; switch if needed). Dialogues untouched: none depends on a dropped topic as a teaching point. No scene/colour objects changed. Recycled: a1-06: la fresa (l8), el hambre (l9), el jefe (l10), la cocinera (l13), la ensalada (l16); a1-07: tener sueño (l0), la manzana (l1), serio (l9), el hambre (l12), el bocadillo (l12); a1-08: serio (l2), la pista (l3), la fresa (l10), la manzana (l10), el hambre (l10); a1-09: la manzana (l1), la cocinera / el cocinero (l2), la montaña (l8), el bocadillo (l15), el hambre (l17); a1-10: aburrido (l8), el castillo (l9), el bocadillo (l11), nervioso (l13), la manzana (l17)"
+}

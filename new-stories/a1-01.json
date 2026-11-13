@@ -1,0 +1,594 @@
+{
+ "story": {
+  "id": "a1-01",
+  "level": "A1",
+  "title": "¿Dónde está el flan?",
+  "titleEn": "Where Is the Flan?",
+  "teaser": "At three o'clock there is a big flan in the kitchen; at four it is gone, and Itzel has only a spoon, some glasses and a sleepy dog to go on.",
+  "emoji": "🍮",
+  "lines": [
+   [
+    "Son las tres de la <b>tarde</b> en la Ciudad de México.",
+    "It is three in the afternoon in Mexico City."
+   ],
+   [
+    "En la <b>cocina</b> hay un <b>flan</b> grande.",
+    "There is a big flan in the kitchen."
+   ],
+   [
+    "Son las cuatro. ¡No hay flan!",
+    "It is four o'clock. There is no flan!"
+   ],
+   [
+    "— ¿Dónde está el flan? —pregunta Itzel.",
+    "\"Where is the flan?\" asks Itzel."
+   ],
+   [
+    "Itzel busca <b>pistas</b>.",
+    "Itzel looks for clues."
+   ],
+   [
+    "En la <b>mesa</b> hay una <b>cuchara</b> y unos <b>lentes</b>.",
+    "On the table there is a spoon and a pair of glasses."
+   ],
+   [
+    "Chispa, la <b>perra</b>, está en el <b>piso</b>.",
+    "Chispa, the dog, is on the floor."
+   ],
+   [
+    "Tiene <b>sueño</b>.",
+    "She is sleepy."
+   ],
+   [
+    "— Los perros no tienen cuchara.",
+    "\"Dogs don't have spoons.\""
+   ],
+   [
+    "El <b>abuelo</b> Fermín está en la <b>sala</b>.",
+    "Grandpa Fermín is in the living room."
+   ],
+   [
+    "No tiene lentes. Tiene <b>caramelo</b> en el <b>bigote</b>.",
+    "He doesn't have his glasses. He has caramel on his mustache."
+   ],
+   [
+    "— Buenas tardes, abuelo.",
+    "\"Good afternoon, Grandpa.\""
+   ],
+   [
+    "— ¿Flan? ¿Qué flan?",
+    "\"Flan? What flan?\""
+   ],
+   [
+    "Itzel <b>sonríe</b>.",
+    "Itzel smiles."
+   ],
+   [
+    "Son las cinco. Los dos <b>preparan</b> otro flan.",
+    "It is five o'clock. The two of them make another flan."
+   ]
+  ],
+  "vocab": [
+   [
+    "la tarde",
+    "afternoon"
+   ],
+   [
+    "la cocina",
+    "kitchen"
+   ],
+   [
+    "el flan",
+    "flan (caramel custard)"
+   ],
+   [
+    "la pista",
+    "clue"
+   ],
+   [
+    "la mesa",
+    "table"
+   ],
+   [
+    "la cuchara",
+    "spoon"
+   ],
+   [
+    "los lentes",
+    "glasses (Mexico)"
+   ],
+   [
+    "la perra",
+    "dog (female)"
+   ],
+   [
+    "el piso",
+    "floor"
+   ],
+   [
+    "tener sueño",
+    "to be sleepy"
+   ],
+   [
+    "el abuelo",
+    "grandpa"
+   ],
+   [
+    "la sala",
+    "living room"
+   ],
+   [
+    "el caramelo",
+    "caramel (sauce)"
+   ],
+   [
+    "el bigote",
+    "mustache"
+   ],
+   [
+    "sonreír",
+    "to smile (sonríe)"
+   ],
+   [
+    "preparar",
+    "to make, to prepare (preparan)"
+   ]
+  ],
+  "quiz": [
+   {
+    "q": "¿Qué hora es cuando no hay flan?",
+    "options": [
+     "Las tres",
+     "Las cuatro",
+     "Las cinco",
+     "La una"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "En la historia, ¿para qué son los lentes?",
+    "options": [
+     "Para comer",
+     "Para ver",
+     "Para dormir",
+     "Para caminar"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Según Itzel, ¿por qué Chispa no come el flan?",
+    "options": [
+     "Porque Chispa está en la sala",
+     "Porque Chispa no tiene sueño",
+     "Porque los perros no tienen cuchara",
+     "Porque Chispa no está en casa"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "¿Quién come el flan? ¿Cómo lo sabe Itzel?",
+    "options": [
+     "Chispa: está en el piso",
+     "El abuelo: tiene caramelo en el bigote",
+     "Mamá: está en la cocina",
+     "Itzel: tiene una cuchara"
+    ],
+    "answer": 1
+   }
+  ],
+  "prompt": "Be a detective in your house. Write 2-3 sentences in Spanish in the present tense with the time, hay and está (for example: Son las cuatro. Hay una cuchara en la mesa. Mi perro está en la sala.).",
+  "concepts": {
+   "grammar": "Telling time (Son las tres de la tarde); hay for what exists (hay un flan, no hay flan); estar for location (está en la sala, está en el piso); present tense and tener (busca, preparan, tiene sueño, no tienen cuchara); greetings (Buenas tardes).",
+   "vocabulary": "Rooms and things in the house, family, a Mexican dessert, clue words.",
+   "skills": "Following simple clues in a short mystery and saying where people and things are."
+  }
+ },
+ "grammar": [
+  {
+   "topic": "Telling time: Son las…",
+   "explain": "Ask '¿Qué hora es?' (What time is it?). Answer 'Son las + number' for two to twelve: Son las tres. One o'clock is singular: Es la una. Add 'de la mañana', 'de la tarde' or 'de la noche'. Watch out: never 'Son las una' or 'Es las dos'.",
+   "examples": [
+    [
+     "Son las tres de la tarde en la Ciudad de México.",
+     "It is three in the afternoon in Mexico City."
+    ],
+    [
+     "Son las cuatro. ¡No hay flan!",
+     "It is four o'clock. There is no flan!"
+    ],
+    [
+     "—¿Qué hora es? —Es la una.",
+     "\"What time is it?\" \"It's one o'clock.\""
+    ]
+   ]
+  },
+  {
+   "topic": "Hay: there is / there are",
+   "explain": "'Hay' means 'there is' and 'there are' and never changes: hay un flan, hay dos cucharas. 'No hay' means 'there isn't / there aren't'. Watch out: for where a specific, known thing is, use estar: Hay un flan en la cocina, but El flan está en la cocina.",
+   "examples": [
+    [
+     "En la cocina hay un flan grande.",
+     "There is a big flan in the kitchen."
+    ],
+    [
+     "Son las cuatro. ¡No hay flan!",
+     "It is four o'clock. There is no flan!"
+    ],
+    [
+     "En la mesa hay una cuchara y unos lentes.",
+     "On the table there is a spoon and a pair of glasses."
+    ]
+   ]
+  },
+  {
+   "topic": "Estar for location and feelings",
+   "explain": "'Estar' says where someone is and how they feel right now: El abuelo está en la sala. Itzel está contenta. Forms: estoy, estás, está, estamos, están. Watch out: English uses 'to be' for everything, but Spanish uses estar (not ser) for location and temporary states.",
+   "examples": [
+    [
+     "— ¿Dónde está el flan? —pregunta Itzel.",
+     "\"Where is the flan?\" asks Itzel."
+    ],
+    [
+     "Chispa, la perra, está en el piso.",
+     "Chispa, the dog, is on the floor."
+    ],
+    [
+     "El abuelo Fermín está en la sala.",
+     "Grandpa Fermín is in the living room."
+    ],
+    [
+     "—¿Cómo estás? —Estoy bien, gracias.",
+     "\"How are you?\" \"I'm fine, thanks.\""
+    ]
+   ]
+  },
+  {
+   "topic": "Present tense and tener",
+   "explain": "Present endings change with the subject: busco, buscas, busca; preparamos, preparan. 'Tener' (to have) is irregular: tengo, tienes, tiene, tienen. It also makes expressions: tener sueño (to be sleepy). Watch out: say 'Tiene sueño', not 'Es sueño' or 'Está sueño'.",
+   "examples": [
+    [
+     "Itzel busca pistas.",
+     "Itzel looks for clues."
+    ],
+    [
+     "Tiene sueño.",
+     "She is sleepy."
+    ],
+    [
+     "Los perros no tienen cuchara.",
+     "Dogs don't have spoons."
+    ],
+    [
+     "Los dos preparan otro flan.",
+     "The two of them make another flan."
+    ]
+   ]
+  }
+ ],
+ "gq": [
+  {
+   "topic": "Telling time: Son las…",
+   "q": "How do you say 'It is four o'clock' in Spanish?",
+   "options": [
+    "Es las cuatro.",
+    "Son la cuatro.",
+    "Son las cuatro.",
+    "Está las cuatro."
+   ],
+   "answer": 2,
+   "why": "Four is plural, so use 'Son las cuatro'. Only one o'clock is singular: 'Es la una'. Time never uses estar."
+  },
+  {
+   "topic": "Hay: there is / there are",
+   "q": "Fill in the blank: Son las cuatro. ¡No ___ flan!",
+   "options": [
+    "está",
+    "hay",
+    "es",
+    "tiene"
+   ],
+   "answer": 1,
+   "why": "'No hay' means 'there is no'. It says the flan does not exist there any more. 'Está' tells where a known thing is, and 'es' describes."
+  },
+  {
+   "topic": "Estar for location and feelings",
+   "q": "Which question asks where the flan is?",
+   "options": [
+    "¿Dónde es el flan?",
+    "¿Dónde hay el flan?",
+    "¿Dónde está el flan?",
+    "¿Dónde tiene el flan?"
+   ],
+   "answer": 2,
+   "why": "To ask where a specific thing is, use estar: ¿Dónde está el flan? 'Hay' does not go with 'el', and 'es' is not for location."
+  },
+  {
+   "topic": "Present tense and tener",
+   "q": "Choose the correct sentence for 'Chispa is very sleepy'.",
+   "options": [
+    "Chispa es mucho sueño.",
+    "Chispa tiene mucho sueño.",
+    "Chispa está mucho sueño.",
+    "Chispa tienes mucho sueño."
+   ],
+   "answer": 1,
+   "why": "Spanish says 'to have sleep': tener sueño. Chispa (she) takes 'tiene'; 'tienes' is the 'you' form."
+  },
+  {
+   "topic": "Telling time: Son las…",
+   "q": "Complete: —¿Qué hora es? —___ la una de la tarde.",
+   "options": [
+    "Son",
+    "Es",
+    "Está",
+    "Hay"
+   ],
+   "answer": 1,
+   "why": "One o'clock is singular: 'Es la una'. From two to twelve, use 'Son las…'.",
+   "x": true
+  },
+  {
+   "topic": "Hay: there is / there are",
+   "q": "Which sentence is correct?",
+   "options": [
+    "Hay una cuchara en la mesa.",
+    "Hay la cuchara en la mesa.",
+    "Está una cuchara en la mesa.",
+    "Una cuchara hay en la mesa."
+   ],
+   "answer": 0,
+   "why": "'Hay' introduces something new and goes with un/una, a number or no article, usually first: Hay una cuchara. For a known thing, say 'La cuchara está en la mesa'.",
+   "x": true
+  },
+  {
+   "topic": "Estar for location and feelings",
+   "q": "Put the words in order: sala / abuelo / está / el / en / la",
+   "options": [
+    "El abuelo está en la sala.",
+    "El abuelo en la sala está.",
+    "Está el abuelo la en sala.",
+    "En la sala el abuelo la está."
+   ],
+   "answer": 0,
+   "why": "The usual order is subject + estar + en + place: El abuelo está en la sala (Grandpa is in the living room).",
+   "x": true
+  },
+  {
+   "topic": "Present tense and tener",
+   "q": "Complete: Los perros no ___ cuchara, pero yo ___ una.",
+   "options": [
+    "tiene / tengo",
+    "tienen / tienes",
+    "tienen / tengo",
+    "tengo / tienen"
+   ],
+   "answer": 2,
+   "why": "Tener is irregular: yo tengo, tú tienes, él/ella tiene, ellos tienen. 'Los perros' is plural, so 'tienen'; 'yo' takes 'tengo'.",
+   "x": true
+  }
+ ],
+ "dialogue": {
+  "steps": [
+   {
+    "say": "¡Hola! Soy Itzel. Vivo en la Ciudad de México.",
+    "en": "Hi! I'm Itzel. I live in Mexico City.",
+    "r": [
+     [
+      "Hola, Itzel. ¿Cómo estás?",
+      "Hi, Itzel. How are you?",
+      1
+     ],
+     [
+      "Hola. ¿Dónde está el flan?",
+      "Hi. Where is the flan?",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "Estoy bien, gracias. Pero hay un problema. ¡No hay flan! ¿Te gusta el flan?",
+    "en": "I'm fine, thanks. But there is a problem. There is no flan! Do you like flan?",
+    "r": [
+     [
+      "Sí, me gusta mucho.",
+      "Yes, I like it a lot.",
+      2
+     ],
+     [
+      "No, no me gusta.",
+      "No, I don't like it.",
+      2
+     ]
+    ]
+   },
+   {
+    "say": "Son las cuatro. En la mesa hay una cuchara y unos lentes. ¿De quién son los lentes?",
+    "en": "It's four o'clock. On the table there is a spoon and some glasses. Whose glasses are they?",
+    "r": [
+     [
+      "Son del abuelo.",
+      "They're Grandpa's.",
+      3
+     ],
+     [
+      "¿Son de la perra?",
+      "Are they the dog's?",
+      4
+     ],
+     [
+      "No sé.",
+      "I don't know.",
+      3
+     ]
+    ]
+   },
+   {
+    "say": "¡Sí! El abuelo está en la sala. Tiene caramelo en el bigote.",
+    "en": "Yes! Grandpa is in the living room. He has caramel on his mustache.",
+    "r": [
+     [
+      "¡Ja, ja! El abuelo come el flan.",
+      "Ha ha! Grandpa eats the flan.",
+      5
+     ],
+     [
+      "¿Y la perra?",
+      "And the dog?",
+      4
+     ]
+    ]
+   },
+   {
+    "say": "Chispa está en el piso. Tiene sueño. ¡Los perros no tienen cuchara!",
+    "en": "Chispa is on the floor. She's sleepy. Dogs don't have spoons!",
+    "r": [
+     [
+      "Es verdad.",
+      "That's true.",
+      5
+     ],
+     [
+      "¡Pobre Chispa!",
+      "Poor Chispa!",
+      5
+     ]
+    ]
+   },
+   {
+    "say": "Ahora el abuelo y yo preparamos otro flan. ¡Hasta luego!",
+    "en": "Now Grandpa and I are making another flan. See you later!",
+    "end": true
+   }
+  ]
+ },
+ "scene": {
+  "items": [
+   {
+    "t": "person",
+    "x": 250,
+    "y": 250,
+    "s": 0.85,
+    "flip": true,
+    "skin": "c",
+    "hair": "short",
+    "hc": "g",
+    "outfit": "vest",
+    "pose": "sit",
+    "acc": [
+     "mustache"
+    ]
+   },
+   {
+    "t": "obj",
+    "n": "sofa",
+    "x": 250,
+    "y": 252,
+    "s": 1.0
+   },
+   {
+    "t": "person",
+    "x": 115,
+    "y": 250,
+    "s": 0.75,
+    "skin": "c",
+    "hair": "braids",
+    "outfit": "tee",
+    "pose": "point"
+   },
+   {
+    "t": "obj",
+    "n": "dog",
+    "x": 350,
+    "y": 250,
+    "s": 0.5,
+    "flip": true
+   }
+  ],
+  "vb": [
+   40,
+   60,
+   360,
+   240
+  ],
+  "country": "Mexico",
+  "ink": [
+   "#0e4a30",
+   "#d9382c"
+  ]
+ },
+ "culture": {
+  "country": "Mexico",
+  "city": "Mexico City",
+  "landmark": "Palacio de Bellas Artes",
+  "caption": "The Palacio de Bellas Artes, a white marble concert hall and museum with famous tiled domes, opened in 1934 in Mexico City's historic center.",
+  "culture": "Mexican",
+  "prompt": "Mexican setting. Location: Mexico City, Mexico. The famous landmark Palacio de Bellas Artes must be clearly visible and recognizable in the image. A warm Mexican family kitchen at 4 p.m. in an apartment in the Centro Histórico of Mexico City: a wooden table with an empty flan plate with a little caramel sauce left on it, one spoon and a pair of reading glasses beside it, a chair pulled out, blue-and-white Talavera tiles behind the counter, a clay pot, a dog bed on the floor. Golden afternoon light. Through the kitchen window, the white marble facade and the orange-and-gold tiled domes of the Palacio de Bellas Artes are visible, with the trees of the Alameda Central. No people. Keep the lower-left third of the frame open (clear floor, ground or table space) so a drawn character can be added. Photorealistic photograph, natural light, soft warm color grade, slightly muted colors, eye-level camera, shallow depth of field, 4:3 landscape, high resolution. No text, no logos, no watermarks. Landmark to show: Palacio de Bellas Artes.",
+  "use": "Hybrid (drawn characters added)"
+ },
+ "gen": "f",
+ "dict": {
+  "bigote": [
+   [
+    "el bigote",
+    "noun",
+    "mustache"
+   ]
+  ],
+  "caramelo": [
+   [
+    "el caramelo",
+    "noun",
+    "caramel; candy"
+   ]
+  ],
+  "chispa": [
+   [
+    "Chispa",
+    "name",
+    "dog's name (lit. 'spark')"
+   ]
+  ],
+  "fermín": [
+   [
+    "Fermín",
+    "name",
+    "man's name"
+   ]
+  ],
+  "flan": [
+   [
+    "el flan",
+    "noun",
+    "flan, caramel custard"
+   ]
+  ],
+  "itzel": [
+   [
+    "Itzel",
+    "name",
+    "girl's name"
+   ]
+  ],
+  "lentes": [
+   [
+    "los lentes",
+    "noun",
+    "glasses (Mexico)"
+   ]
+  ],
+  "perros": [
+   [
+    "el perro",
+    "noun",
+    "dog"
+   ]
+  ],
+  "pistas": [
+   [
+    "la pista",
+    "noun",
+    "clue"
+   ]
+  ]
+ }
+}
