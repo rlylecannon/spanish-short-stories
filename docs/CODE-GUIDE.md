@@ -36,6 +36,9 @@ cd free-spanish-stories && python3 -m http.server 8000   # then open http://loca
 - `tools/check_js.sh <built index.html>` syntax-checks every script block (needs Node).
 - `tools/validate_dialogues.py` and `tools/validate_gquiz.py` check data files. Read the caveat on `validate_gquiz.py` below before trusting it.
 
+## Voices and accents
+Each story is spoken in the Spanish of the country it is set in (`DATA.culture[id].country`). `accentPool()` in `app.js` picks ONE voice language for the open story: the story's own country if the device has it, else the closest Latin American voice (es-419, es-US or es-MX, then any other) for Latin American stories, and Spain for Spain. The story player, Read aloud, Role-play, Open role-play and tapped words all use voices from that pool, so the accent never changes inside a story. Role-play partners pick a voice of their gender from the same pool; if there is none, they keep the accent and shift pitch. A voice the learner picks in the audio settings overrides this on every story, and the "Automatic" option returns to per-story accents. Which accents a learner hears depends on the voices installed on their device.
+
 ## Conventions worth knowing
 - A story line is `[spanish, english]`. A quiz question is `{q, options[4], answer, ...}`; the build shuffles grammar-quiz options with a seed per question, so the order is stable between builds.
 - Level codes are `A1 A2 B1 B2 C1 C2`; story ids look like `a1-01`.

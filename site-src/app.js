@@ -170,12 +170,43 @@
     return (/natural|neural|online/i.test(n) ? 8 : 0) + (/premium|enhanced|siri/i.test(n) ? 6 : 0) + (/google/i.test(n) ? 4 : 0) +
       (/mónica|monica|paulina|jorge|diego|lucia|lucía|elena|sabina|dalia|natasha/i.test(n) ? 2 : 0) + (/^es[-_](ES|MX|US|419)/i.test(v.lang) ? 1 : 0) - (/compact|espeak/i.test(n) ? 5 : 0);
   };
+  // ---- Story accent ----
+  // Each story is spoken in the Spanish of the country it is set in (DATA.culture[id].country), and everything on the
+  // story page (the player, Read aloud, Role-play, Open role-play, tapped words) uses voices of that ONE accent.
+  // Devices offer different voices, so accentPool() ranks voice languages by tier and keeps only the best language:
+  // tier 0 = the story's own country; for Latin American stories 1 = es-419 / es-US / es-MX, 2 = any other Latin
+  // American variety; 3 = anything else (for Spain stories every non-Spain voice is tier 3). Ties go to voice quality.
+  // A voice the learner picked in the audio settings wins, and its accent is then used for every section.
+  const ACCENT = { 'Mexico': 'es-MX', 'Spain': 'es-ES', 'Argentina': 'es-AR', 'Colombia': 'es-CO', 'Chile': 'es-CL', 'Peru': 'es-PE', 'Puerto Rico': 'es-PR', 'Uruguay': 'es-UY', 'Ecuador': 'es-EC', 'Costa Rica': 'es-CR', 'Guatemala': 'es-GT', 'Cuba': 'es-CU', 'Panama': 'es-PA', 'Venezuela': 'es-VE', 'Honduras': 'es-HN', 'Bolivia': 'es-BO', 'Dominican Republic': 'es-DO', 'El Salvador': 'es-SV', 'Paraguay': 'es-PY' };
+  const ACCENT_NAME = { 'es-es': 'Spain', 'es-mx': 'Mexico', 'es-us': 'the United States', 'es-419': 'Latin America', 'es-ar': 'Argentina', 'es-co': 'Colombia', 'es-cl': 'Chile', 'es-pe': 'Peru', 'es-pr': 'Puerto Rico', 'es-uy': 'Uruguay', 'es-ec': 'Ecuador', 'es-cr': 'Costa Rica', 'es-gt': 'Guatemala', 'es-cu': 'Cuba', 'es-pa': 'Panama', 'es-ve': 'Venezuela', 'es-hn': 'Honduras', 'es-bo': 'Bolivia', 'es-do': 'the Dominican Republic', 'es-sv': 'El Salvador', 'es-py': 'Paraguay' };
+  const normLang = l => String(l || '').replace('_', '-').toLowerCase();
+  const accentName = l => ACCENT_NAME[normLang(l)] || String(l || 'Spanish');
+  // The story whose page is open (set by route()), or null on other pages.
+  let curStory = null;
+  const accentTier = (lang, want) => { const l = normLang(lang); if (l === want) return 0; if (want === 'es-es') return 3; if (/^es-(419|us|mx)$/.test(l)) return 1; if (/^es-/.test(l) && l !== 'es-es') return 2; return 3; };
+  // All voices of the story's accent, best first (a voice the learner chose comes first and sets the accent).
+  function accentPool(s) {
+    if (!voices.length || !s) return [];
+    const u = voices.find(v => v.name === userVoice);
+    let lang;
+    if (u) lang = normLang(u.lang);
+    else { const want = normLang(ACCENT[((DATA.culture || {})[s.id] || {}).country] || 'es-ES'); lang = normLang(voices.slice().sort((a, b) => accentTier(a.lang, want) - accentTier(b.lang, want) || scoreVoice(b) - scoreVoice(a))[0].lang); }
+    const pool = voices.filter(v => normLang(v.lang) === lang);
+    if (u) { pool.splice(pool.indexOf(u), 1); pool.unshift(u); }
+    return pool;
+  }
+  // The narrator voice: the learner's chosen voice, else the best voice of the open story's accent, else the best voice.
+  function pickVoice() {
+    const u = voices.find(v => v.name === userVoice); if (u) return u;
+    const p = curStory ? accentPool(curStory) : [];
+    return p[0] || voices[0] || null;
+  }
   // (Re)read the browser's voices, keep Spanish ones sorted best-first, and restore the user's saved choice.
   // Browsers populate the list asynchronously, hence the onvoiceschanged hook and timed retries below.
   function loadVoices() {
     if (!hasTTS) return;
     voices = speechSynthesis.getVoices().filter(v => /^es/i.test(v.lang)).sort((a, b) => scoreVoice(b) - scoreVoice(a));
-    voice = voices.find(v => v.name === userVoice) || voices[0] || null;
+    voice = pickVoice();
     const sel = document.getElementById('vsel');
     if (sel) fillVoiceSelect(sel);
   }
@@ -188,8 +219,10 @@
       return;
     }
     sel.style.display = ''; if (n) n.textContent = 'Use the player to play, pause and jump. Tap any sentence to start from there.';
-    sel.innerHTML = voices.map((v, i) => `<option value="${i}" ${v === voice ? 'selected' : ''}>${esc(v.name)} (${v.lang})</option>`).join('');
-    sel.onchange = () => { voice = voices[+sel.value]; userVoice = voice.name; store.set('sff-voice', userVoice); if (A && A.playing) A.speak(A.ci); };
+    // "Automatic" (no saved choice) follows each story's accent; picking a named voice overrides it on every story.
+    const auto = !voices.some(v => v.name === userVoice), ap = curStory ? accentPool(curStory) : [];
+    sel.innerHTML = `<option value="auto" ${auto ? 'selected' : ''}>Automatic${ap.length ? ': accent of ' + esc(accentName(ap[0].lang)) : ''}</option>` + voices.map((v, i) => `<option value="${i}" ${!auto && v === voice ? 'selected' : ''}>${esc(v.name)} (${v.lang})</option>`).join('');
+    sel.onchange = () => { if (sel.value === 'auto') { userVoice = null; store.set('sff-voice', null); } else { userVoice = voices[+sel.value].name; store.set('sff-voice', userVoice); } voice = pickVoice(); if (A && A.playing) A.speak(A.ci); };
   }
   if (hasTTS) { loadVoices(); speechSynthesis.onvoiceschanged = loadVoices; [400, 1200, 3000].forEach(t => setTimeout(loadVoices, t)); }
   // Turn display text into text for the voice: drop HTML tags and newlines, make dialogue dashes a comma pause,
@@ -864,6 +897,9 @@
     teardown.splice(0).forEach(f => { try { f(); } catch (e) {} });
     try { SP.stopListen(); } catch (e) {}
     const raw = location.hash.replace(/^#/, ''); let m;
+    // Remember the open story so every voice on its page uses that story's accent (see accentPool).
+    curStory = /^story-/.test(raw) && Object.prototype.hasOwnProperty.call(byId, raw.slice(6)) ? byId[raw.slice(6)] : null;
+    if (hasTTS) voice = pickVoice();
     const cur = /^story-/.test(raw) || /^stories/.test(raw) || !raw ? 'stories' : raw;
     document.querySelectorAll('nav .nl').forEach(a => a.classList.toggle('cur', a.getAttribute('href') === '#' + cur));
     let title = 'Stories first. Fluency follows. – Free Spanish short stories';

@@ -138,7 +138,8 @@ const SP = (() => {
   // gender; else a voice with no known gender, pitch-shifted (lower for 'm', higher for 'f'); else any voice not of the
   // other gender, or the first voice; pitch is shifted in both fallback cases.
   const voiceFor = g => {
-    const vs = voices || [], mine = g === 'm' ? MV : FV, other = g === 'm' ? FV : MV; voiceFallback = false;
+    // Search only the story's accent (accentPool, app.js) so the partner sounds like the narrator; fall back to all voices only when the pool is empty.
+    const pool = CURS ? accentPool(CURS) : [], vs = pool.length ? pool : (voices || []), mine = g === 'm' ? MV : FV, other = g === 'm' ? FV : MV; voiceFallback = false;
     const hit = vs.find(v => mine.test(v.name) && !other.test(v.name)); if (hit) return { v: hit };
     const neutral = vs.find(v => !MV.test(v.name) && !FV.test(v.name)); // unknown gender: better than a voice of the other gender
     voiceFallback = true;
@@ -148,6 +149,8 @@ const SP = (() => {
   };
   // CURG = gender of the current partner (set in mount), so talk() picks the matching voice.
   let CURG = 'f';
+  // CURS = the story whose Speaking tab is mounted, so voiceFor() can keep to that story's accent.
+  let CURS = null;
   // Leftover handle for a mouth-animation timer: only ever cleared in this file, never assigned an interval.
   let mouthT = null;
   // Speak text in the partner's voice and show the 'talking' CSS state on the avatar (.av inside root) until it ends;
@@ -197,7 +200,7 @@ const SP = (() => {
   const FREE_PROMPT = { A2: 'Tell what happened in the story in 2–3 simple sentences.', B1: 'Retell the story in your own words. Aim for 30–60 seconds.', C1: 'Retell the story and explain what it shows about its characters and setting. Aim for about a minute and a half.', C2: 'Retell the story, then give your reading of what it implies. Aim for two minutes.', B2: 'Summarize the story, then say what you think about it. Aim for about a minute.' };
   // Render the Speaking tab for story s into root and return { stop }. PC = the partner character, L = this level's config.
   // The mode functions read/free/role/chat below each draw into #spk-body and are looked up by name from the tab buttons.
-  function mount(root, s) { const PC = charFor(s); CURG = PC.g;
+  function mount(root, s) { const PC = charFor(s); CURG = PC.g; CURS = s;
     const hasSR = !!SRc, L = LVL[s.level] || LVL.A1;
     root.innerHTML = `
       <div class="spk-modes" role="tablist">${L.order.map((m, i) => `<button class="${i ? '' : 'on'}" data-m="${m}" role="tab" aria-selected="${i ? 'false' : 'true'}" ${m === 'chat' ? 'hidden' : ''}>${ic(MODE[m][0], 16)} ${MODE[m][1]}</button>`).join('')}</div>
@@ -207,8 +210,9 @@ const SP = (() => {
     const body = root.querySelector('#spk-body'), note = root.querySelector('#spk-note');
     // Status note under the tabs: warns when no voice of the partner's gender exists (voiceFor sets voiceFallback), and
     // says whether voice recognition is supported.
-    const setNote = () => { voiceFor(CURG);
-    note.textContent = (voiceFallback ? 'Note: this device has no ' + (CURG === 'm' ? 'male' : 'female') + ' Spanish voice, so the voice may sound slightly different. Install one in your system settings for a more natural voice. ' : '') + (hasSR ? 'Tip: use headphones, speak clearly, and allow the microphone when your browser asks.' : 'Your browser does not support voice recognition (try Chrome, Edge or Safari). You can still listen and tap replies.'); };
+    const setNote = () => { const vf = voiceFor(CURG), al = vf && vf.v ? accentName(vf.v.lang) : '';
+    const home = ((DATA.culture || {})[s.id] || {}).country, same = vf && vf.v && home && normLang(vf.v.lang) === normLang(ACCENT[home] || '');
+    note.textContent = (al ? (same || !home ? 'Voices use Spanish from ' + al + ', the same accent as the story. ' : 'This story is set in ' + home + '. This device has no voice with that accent, so every voice here uses the closest one it has: Spanish from ' + al + '. ') : '') + (voiceFallback ? 'This device has no ' + (CURG === 'm' ? 'male' : 'female') + ' voice with that accent, so ' + PC.name + ' keeps the accent with a ' + (CURG === 'm' ? 'lower' : 'higher') + ' pitch. ' : '') + (hasSR ? 'Tip: use headphones, speak clearly, and allow the microphone when your browser asks.' : 'Your browser does not support voice recognition (try Chrome, Edge or Safari). You can still listen and tap replies.'); };
     // Browsers load their voice list asynchronously, so re-check the note a few times (skipped once root has left the page).
     setNote(); [500, 1300, 3100].forEach(t => setTimeout(() => { if (root.isConnected) setNote(); }, t));
     // EN = show English translations. Saved choice in 'sff-spk-en' ('1'/'0'); if none, default on for A1/A2 and off above.
