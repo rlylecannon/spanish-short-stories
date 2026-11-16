@@ -72,6 +72,143 @@ async function syncPush() { if (!SYNC.on || !SYNC.doc) return; try { await SYNC.
 const schedulePush = () => { clearTimeout(SYNC.timer); SYNC.timer = setTimeout(syncPush, 1500); };
 // Wrap store.set (app-wide, since store is shared) so any write to a synced key schedules a push once sync is on.
 { const _set = store.set.bind(store); store.set = (k, v) => { const r = _set(k, v); if (SYNC.on && SYNC_KEYS.includes(k)) schedulePush(); return r; }; }
+// Merge one storage key's value from this device (l) with an incoming value (r), never losing progress.
+// Used by the Claude sync below and by "Move your progress" (import). Rules:
+//   sff-place: the newer result (larger .at) wins; sff-place-hist: union by .at, oldest first, last 10 kept;
+//   sff-place-seen: per-item max count; sff-cando: union (a goal ticked on either device stays ticked);
+//   name / last story: this device's value if set; sff-missed: this device's if it has entries;
+//   sff-gstats: per category, the side with more attempts (.a);
+//   sff-notebook: cards matched by id, keeping the one reviewed more often (then the more recent), newest added first;
+//   sff-draft-<story>: the longer draft; sff-posts-<story>: union by time and text, newest first;
+//   reading preferences (rate, English shown, text size): this device's choice if set;
+//   everything else: mergeVal (numbers max, objects merged key by key, longer array).
+const DEVICE_PREFS = ['sff-rate', 'sff-en', 'sff-spk-en', 'sff-fs'];
+function mergeKey(k, l, r) {
+  if (k === PLACE_K) return (l && r) ? ((l.at || 0) >= (r.at || 0) ? l : r) : (l || r);
+  if (k === HIST_K) return [...(Array.isArray(l) ? l : []), ...(Array.isArray(r) ? r : [])].filter((x, i, a) => x && a.findIndex(y => y && y.at === x.at) === i).sort((a, b) => a.at - b.at).slice(-10);
+  if (k === SEEN_K) { const m = { ...(r || {}) }; Object.keys(l || {}).forEach(id => { m[id] = Math.max(m[id] || 0, l[id]); }); return m; }
+  if (k === CANDO_K) return (l || r) ? { ...(r || {}), ...(l || {}) } : l;
+  if (k === NAME_K || k === 'sff-last') return l !== undefined && l !== '' ? l : r;
+  if (k === 'sff-missed') return (l && Object.keys(l).length) ? l : r;
+  if (k === 'sff-gstats') { const m = { ...(r || {}) }; Object.keys(l || {}).forEach(c => { if (!m[c] || (l[c].a || 0) >= (m[c].a || 0)) m[c] = l[c]; }); return m; }
+  if (k === 'sff-notebook') {
+    if (!Array.isArray(r)) return l; if (!Array.isArray(l)) return r;
+    const by = new Map();
+    [...r, ...l].forEach(x => { if (!x || !x.id) return; const o = by.get(x.id); if (!o || (x.reviews || 0) > (o.reviews || 0) || ((x.reviews || 0) === (o.reviews || 0) && (x.last || 0) >= (o.last || 0))) by.set(x.id, x); });
+    return [...by.values()].sort((a, b) => (b.added || 0) - (a.added || 0));
+  }
+  if (/^sff-draft-/.test(k)) return String(l || '').length >= String(r || '').length ? l : r;
+  if (/^sff-posts-/.test(k)) { const a = [...(Array.isArray(l) ? l : []), ...(Array.isArray(r) ? r : [])]; return a.filter((x, i) => x && a.findIndex(y => y && y.ts === x.ts && y.text === x.text) === i).sort((x, y) => (y.ts || 0) - (x.ts || 0)); }
+  if (DEVICE_PREFS.includes(k)) return l !== undefined ? l : r;
+  return mergeVal(l, r);
+}
+
+/* ---- move progress to another device (no account, nothing uploaded) ----
+   The learner saves a snapshot of their progress as a JSON file or a text code on one device, sends it to themselves
+   (email, message, AirDrop, cloud folder), and loads it on the other device, where it is combined with what is there
+   (mergeKey) or replaces it. Snapshot: { app: 'spanish-short-stories', v: 1, exported: ISO date, data: { key: value } }.
+   Text code: 'SSS1.' + base64(gzip(JSON)), or 'SSS0.' + base64(JSON) where the browser has no CompressionStream.
+   Which keys move: everything in SYNC_KEYS plus the notebook, review days, reading preferences, and each story's
+   writing draft and practice-board posts. Device-only keys (chosen voice, open panels, dismissed tips, recent lookups)
+   stay put, because voices and screens differ between devices. */
+const MOVE_APP = 'spanish-short-stories';
+const MOVE_KEYS = SYNC_KEYS.concat(['sff-notebook', 'sff-nb-days'], DEVICE_PREFS);
+const MOVE_RE = /^sff-(draft|posts)-[a-c][12]-\d\d$/;
+const movable = k => MOVE_KEYS.includes(k) || MOVE_RE.test(k);
+// Expected JSON type per key, so a damaged or hand-edited file cannot put the wrong kind of value into storage.
+const moveTypeOk = (k, v) => {
+  if (k === 'sff-notebook' || k === HIST_K || /^sff-posts-/.test(k)) return Array.isArray(v);
+  if (k === NAME_K || k === 'sff-last' || /^sff-draft-/.test(k)) return typeof v === 'string';
+  if (DEVICE_PREFS.includes(k)) return ['number', 'boolean', 'string'].includes(typeof v);
+  return !!v && typeof v === 'object' && !Array.isArray(v);
+};
+function progressSnapshot() {
+  const data = {};
+  try { for (let i = 0; i < localStorage.length; i++) { const k = localStorage.key(i); if (!movable(k)) continue; const v = store.get(k, undefined); if (v !== undefined && v !== null && v !== '') data[k] = v; } } catch (e) {}
+  return { app: MOVE_APP, v: 1, exported: new Date().toISOString(), data };
+}
+const toB64 = u8 => { let s = ''; for (let i = 0; i < u8.length; i += 0x8000) s += String.fromCharCode.apply(null, u8.subarray(i, i + 0x8000)); return btoa(s); };
+const fromB64 = s => Uint8Array.from(atob(s), c => c.charCodeAt(0));
+const viaStream = async (bytes, stream) => new Uint8Array(await new Response(new Blob([bytes]).stream().pipeThrough(stream)).arrayBuffer());
+async function packProgress(obj) {
+  const bytes = new TextEncoder().encode(JSON.stringify(obj));
+  if (typeof CompressionStream === 'function') { try { return 'SSS1.' + toB64(await viaStream(bytes, new CompressionStream('gzip'))); } catch (e) {} }
+  return 'SSS0.' + toB64(bytes);
+}
+// Read a progress file's text or a pasted code; throws Error('format') for anything that is not this site's snapshot.
+async function parseProgress(text) {
+  text = String(text || '').trim();
+  if (!text || text.length > 5e6) throw new Error('format');
+  let obj;
+  const code = text.replace(/\s+/g, '').match(/^SSS([01])\.([A-Za-z0-9+/=]+)$/);
+  try {
+    if (code) { let bytes = fromB64(code[2]); if (code[1] === '1') { if (typeof DecompressionStream !== 'function') throw new Error('old-browser'); bytes = await viaStream(bytes, new DecompressionStream('gzip')); } obj = JSON.parse(new TextDecoder().decode(bytes)); }
+    else obj = JSON.parse(text);
+  } catch (e) { throw new Error(e.message === 'old-browser' ? 'old-browser' : 'format'); }
+  if (!obj || obj.app !== MOVE_APP || obj.v !== 1 || !obj.data || typeof obj.data !== 'object' || Array.isArray(obj.data)) throw new Error('format');
+  return obj;
+}
+// Write a snapshot into this browser (combine by default, or replace), returning a short summary for the message.
+function applyProgress(obj, replace) {
+  const keys = Object.keys(obj.data).filter(k => movable(k) && moveTypeOk(k, obj.data[k]));
+  if (replace) { try { const old = []; for (let i = 0; i < localStorage.length; i++) { const k = localStorage.key(i); if (movable(k)) old.push(k); } old.forEach(k => localStorage.removeItem(k)); } catch (e) {} }
+  keys.forEach(k => { const m = mergeKey(k, store.get(k, undefined), obj.data[k]); if (m !== undefined) store.set(k, m); });
+  const d = obj.data, read = Object.values(d['sff-prog'] || {}).filter(p => p && p.read).length, cards = Array.isArray(d['sff-notebook']) ? d['sff-notebook'].length : 0, quizzes = Object.keys(d['sff-scores'] || {}).length;
+  return `${read} ${read === 1 ? 'story' : 'stories'} read, ${quizzes} ${quizzes === 1 ? 'quiz' : 'quizzes'}, ${cards} notebook ${cards === 1 ? 'card' : 'cards'}`;
+}
+// HTML for the "Move your progress" box on the My level page; wired by wireMove().
+function moveBox() {
+  return `<section class="pl-move" aria-labelledby="mv-h">
+    <h2 id="mv-h">Move your progress to another device</h2>
+    <p class="mute">Your progress is saved only in this browser. To carry on with your phone or another computer, copy it across. Nothing is uploaded anywhere.</p>
+    <div class="mv-cols">
+      <div class="mv-col"><h3>1. On this device</h3>
+        <p>Save your progress as a file or a code, then send it to yourself by email, a message, AirDrop or a cloud folder.</p>
+        <div class="mv-btns"><button type="button" class="btn sm" id="mv-dl">Download progress file</button><button type="button" class="btn sm ghost" id="mv-copy">Copy progress code</button></div>
+        <textarea id="mv-out" class="mv-code" rows="3" readonly hidden aria-label="Your progress code"></textarea>
+      </div>
+      <div class="mv-col"><h3>2. On the other device</h3>
+        <p>Open this page there, then load the file or paste the code.</p>
+        <label class="btn sm ghost mv-file">Load a progress file<input type="file" id="mv-file" accept=".json,application/json,text/plain"></label>
+        <label for="mv-in" class="mv-lab">Or paste a progress code</label>
+        <textarea id="mv-in" class="mv-code" rows="3" placeholder="SSS1.…" spellcheck="false" autocomplete="off"></textarea>
+        <label class="mv-rep"><input type="checkbox" id="mv-replace"> Replace this device's progress instead of combining</label>
+        <button type="button" class="btn sm" id="mv-load">Load code</button>
+      </div>
+    </div>
+    <p id="mv-msg" class="mv-msg" role="status" aria-live="polite"></p>
+  </section>`;
+}
+function wireMove() {
+  const g = id => document.getElementById(id), msg = g('mv-msg'); if (!msg) return;
+  const say = (t, bad) => { msg.textContent = t; msg.classList.toggle('bad', !!bad); };
+  const none = () => { const snap = progressSnapshot(); if (!Object.keys(snap.data).length) { say('There is no progress on this device yet. Read a story or take a quiz first.', true); return null; } return snap; };
+  g('mv-dl').onclick = () => {
+    const snap = none(); if (!snap) return;
+    const a = document.createElement('a'); a.href = URL.createObjectURL(new Blob([JSON.stringify(snap)], { type: 'application/json' }));
+    a.download = 'spanish-stories-progress-' + snap.exported.slice(0, 10) + '.json'; document.body.appendChild(a); a.click();
+    setTimeout(() => { URL.revokeObjectURL(a.href); a.remove(); }, 1000);
+    say('Saved a progress file. Send it to your other device, then load it there.');
+  };
+  g('mv-copy').onclick = async () => {
+    const snap = none(); if (!snap) return;
+    const code = await packProgress(snap), out = g('mv-out'); out.value = code; out.hidden = false; out.focus(); out.select();
+    let copied = false; try { await navigator.clipboard.writeText(code); copied = true; } catch (e) {}
+    say(copied ? `Copied your progress code (${Math.max(1, Math.round(code.length / 1024))} KB of text). Paste it into a message or email to yourself.` : 'Your progress code is selected in the box above. Copy it, then send it to yourself.');
+  };
+  const load = async text => {
+    let obj;
+    try { obj = await parseProgress(text); } catch (e) { say(e.message === 'old-browser' ? 'This browser is too old to read that code. Use a progress file instead.' : 'That does not look like a progress file or code from this site. Check that you copied all of it.', true); return; }
+    const replace = g('mv-replace').checked;
+    if (replace && !window.confirm('Replace all progress on this device with the loaded progress? Progress that exists only on this device will be lost.')) return;
+    const sum = applyProgress(obj, replace);
+    say(`Loaded progress from ${new Date(obj.exported).toLocaleDateString()}: ${sum}. Refreshing the page…`);
+    setTimeout(() => location.reload(), 1500);   // a full reload so every part of the app (notebook, progress, quizzes) reads the new data
+  };
+  g('mv-load').onclick = () => load(g('mv-in').value);
+  g('mv-file').onchange = e => { const f = e.target.files && e.target.files[0]; if (!f) return; if (f.size > 5e6) { say('That file is too large to be a progress file.', true); return; } f.text().then(load); e.target.value = ''; };
+}
+
 // Start-up sync (runs 600 ms after load; silently does nothing outside Claude or when signed out).
 // Needs claude.use('user') (id) and claude.use('db'); each wait is capped at 10 s by `race` so a slow runtime cannot hang start-up.
 // Remote doc: collection 'data/users/<id>', doc 'progress'. Remote and local values are merged key by key (rules below),
@@ -86,20 +223,13 @@ async function syncInit() {
     const doc = db.collection('data/users/' + id).doc('progress'); SYNC.doc = doc;
     let remote = null; try { const snap = await race(doc.get()); remote = snap && (typeof snap.data === 'function' ? snap.data() : (snap.data !== undefined ? snap.data : snap)); } catch (e) {}
     const rk = (remote && remote.keys) || {};
-    // Per-key merge, l = local, r = remote:
+    // Per-key merge of local (l) and remote (r) values: see mergeKey() above for the rules.
     //  sff-place: the newer result (larger .at) wins; sff-place-hist: union deduplicated by .at, oldest first, last 10 kept;
     //  sff-place-seen: per-item max count; name / last story / can-do ticks: local wins if set, else remote;
     //  sff-missed: local if it has entries, else remote; sff-gstats: per category keep the side with more attempts (.a);
     //  everything else: mergeVal (numbers max, objects merged, longer array).
     SYNC_KEYS.forEach(k => {
-      const l = store.get(k, undefined), r = rk[k]; let m;
-      if (k === PLACE_K) m = (l && r) ? ((l.at || 0) >= (r.at || 0) ? l : r) : (l || r);
-      else if (k === HIST_K) m = [...(Array.isArray(l) ? l : []), ...(Array.isArray(r) ? r : [])].filter((x, i, a) => x && a.findIndex(y => y && y.at === x.at) === i).sort((a, b) => a.at - b.at).slice(-10);
-      else if (k === SEEN_K) { m = { ...(r || {}) }; Object.keys(l || {}).forEach(id => { m[id] = Math.max(m[id] || 0, l[id]); }); }
-      else if (k === NAME_K || k === 'sff-last' || k === CANDO_K) m = l !== undefined ? l : r;
-      else if (k === 'sff-missed') m = (l && Object.keys(l).length) ? l : r;
-      else if (k === 'sff-gstats') { m = { ...(r || {}) }; Object.keys(l || {}).forEach(c => { if (!m[c] || (l[c].a || 0) >= (m[c].a || 0)) m[c] = l[c]; }); }
-      else m = mergeVal(l, r);
+      const l = store.get(k, undefined), r = rk[k], m = mergeKey(k, l, r);
       if (m !== undefined) try { localStorage.setItem(k, JSON.stringify(m)); } catch (e) {}
     });
     SYNC.on = true; SYNC.status = 'Synced to your Claude account'; await syncPush();
@@ -257,10 +387,11 @@ const plOpen = (lv, cur) => { const m = store.get('sff-pl-open', null); if (m &&
     <div class="pl-top">
       <div class="pl-box pla"><small>STARTING LEVEL</small><b>${cur ? esc(cur) + ` <em>${esc(place.conf || '')} confidence</em>` : 'Not set yet'}</b><a class="btn sm" href="#placement">${place ? 'Retake the level check' : 'Find your level'}</a></div>
       ${next ? `<div class="pl-box"><small>NEXT STORY</small><b>${esc(next.title)}</b><a class="btn sm" href="#story-${next.id}">Continue (${next.level})</a></div>` : ''}
-      <div class="pl-box"><small>YOUR PROGRESS</small><b id="plsync">${esc(SYNC.status)}</b><span class="mute" style="font-size:.78rem">${SYNC.on ? 'Follows you to any device where you are signed in to Claude.' : 'Stays in this browser. Signed-in Claude viewers also get sync.'}</span></div>
+      <div class="pl-box"><small>YOUR PROGRESS</small><b id="plsync">${esc(SYNC.status)}</b><span class="mute" style="font-size:.78rem">${SYNC.on ? 'Follows you to any device where you are signed in to Claude.' : 'Stays in this browser. To use another device, see "Move your progress" below.'}</span></div>
     </div>
     ${(() => { const h = placeHist(); return h.length > 1 ? `<div class="pl-hist"><small>YOUR LEVEL OVER TIME</small><div class="plh-row">${h.map((x, i) => `<span class="plh ${i === h.length - 1 ? 'now' : ''}"><b>${esc(x.level)}</b><em>${esc(new Date(x.at).toLocaleDateString(undefined, { month: 'short', day: 'numeric' }))}</em></span>`).join('<i class="plh-a">›</i>')}</div></div>` : ''; })()}
     ${nameBox()}
+    ${moveBox()}
     <div class="pl-tools"><button type="button" class="linkb" id="pl-open-all">Expand all</button> · <button type="button" class="linkb" id="pl-close-all">Collapse all</button></div>
     ${levels.map(v => `<details class="pl-lvl ${cur === v.L.level ? 'cur' : ''}" data-lv="${v.L.level}" ${plOpen(v.L.level, cur) ? 'open' : ''}><summary><div class="pl-lh"><i class="lv${v.L.level}">${v.L.level}</i><div><b>${M[v.L.level].name}</b><small>${esc(v.L.levelGoal)}</small></div></div><span class="pl-sc ${v.reached ? 'ok' : ''}">${v.reached ? '✓ ' : ''}${v.got}/${v.rows.length}<em>goals</em></span></summary>
       <div class="pl-cp"><span class="pgs"><i style="width:${Math.min(100, Math.round(v.read / v.cp.passStories * 100))}%"></i><span>${v.read} of ${v.cp.passStories} stories read${v.avg !== null ? ' · quiz average ' + Math.round(v.avg * 100) + '%' : ''}</span></span>
@@ -268,7 +399,7 @@ const plOpen = (lv, cur) => { const m = store.get('sff-pl-open', null); if (m &&
       <ul class="pl-cd">${v.rows.map(r => `<li class="${r.done ? 'done' : ''}"><label><input type="checkbox" data-cd="${r.s.id}" ${r.self ? 'checked' : ''}><span class="pl-t">${esc(r.s.text)}</span></label><span class="pl-m"><span class="pl-sk">${esc(r.s.skill)}</span>${r.ev.ok ? '<em class="ok">earned</em>' : r.self ? '<em class="ok">self-checked</em>' : `<span class="pgs mini"><i style="width:${Math.round(r.ev.frac * 100)}%"></i></span>`}</span></li>`).join('')}</ul>
       <div class="pl-sum">${v.got} of ${v.rows.length} can-do goals reached${v.reached && PLV[PLV.indexOf(v.L.level) + 1] ? ` · <a href="#stories-${PLV[PLV.indexOf(v.L.level) + 1].toLowerCase()}">Try ${PLV[PLV.indexOf(v.L.level) + 1]} stories</a>` : ''}</div></details>`).join('')}
     </div>`;
-  wireName(progressPage);
+  wireName(progressPage); wireMove();
   // Remember open/closed per level. Listens for clicks on the <summary> (a real user action) rather than the details
   // 'toggle' event, which also fires for programmatic changes and the initial default-open, which would then stick.
   // The setTimeout(0) lets the browser flip d.open first so the new state is read.
