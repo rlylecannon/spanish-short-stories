@@ -89,3 +89,4 @@ footer small,div.n,.pl-sc em{font-size:.75rem}
 /* "Quiz 3/5" and "Read" badges on library cards: fixed dark green / blue text on dark tints in the dark themes. */
 :root[data-theme="dark"] .gc .dn{color:#8fe38f}:root[data-theme="dark"] .gc .dn.rd{color:#9cc8ff}
 @media (prefers-color-scheme: dark){:root:not([data-theme="light"]) .gc .dn{color:#8fe38f}:root:not([data-theme="light"]) .gc .dn.rd{color:#9cc8ff}}
+footer .disc{display:block;margin:6px 0 4px;color:var(--ink2)}

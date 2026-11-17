@@ -863,6 +863,20 @@
       ${LV.map(lv => `<a class="dl" href="${pdf.reader(lv)}" target="_blank" rel="noopener"><span class="ico">PDF</span><span>${lv} Reader<small>Class set of ten stories</small></span></a>`).join('')}
       <p style="margin-top:14px"><a href="#resources" style="color:var(--blue)">See all free resources ›</a></p></div>`;
   }
+  function about() {
+    app.innerHTML = `<div class="wrap pg"><div class="crumbs">Home<span>›</span>About</div>
+      <h1>About <span class="or">this site</span></h1>
+      <p>Spanish Short Stories is a free reading site: 60 original stories from A1 to C2, each with audio, translation, vocabulary, quizzes, and speaking and writing practice. The idea is simple: stories first, and fluency follows.</p>
+      <h2>Who made it</h2>
+      <p>It’s an independent passion project by Ruthie D. Lyle, PhD, built as an “AI for Good” effort and made with the help of AI tools. It is a personal project, built independently. It is not affiliated with, endorsed by, or sponsored by any employer or organization.</p>
+      <h2>Our promise</h2>
+      <p>The site is free, with no sign-up, no ads and no purchases. Your quiz scores, drafts and progress stay on your device, and nothing is tracked. To switch devices, use <a href="#progress" style="color:var(--blue)">Move your progress</a>.</p>
+      <h2>Disclaimer</h2>
+      <div class="callout">This site is provided “as is,” without warranties of any kind. There is no guarantee of accuracy, performance, or availability. It may be slow, change, or go offline without notice, and your saved progress lives only in your browser, so it can be lost if you clear your browser data. Translations, vocabulary and grammar notes may contain mistakes. Please check anything important with a qualified teacher. Use it at your own risk.</div>
+      <h2>License and credits</h2>
+      <p>© 2026 Ruthie D. Lyle, PhD. Stories, illustrations and other content: all rights reserved, free for personal and classroom use. The source code is free software under the <a href="https://github.com/rlylecannon/spanish-short-stories" style="color:var(--blue)">GNU AGPL v3</a>, which also states that it comes with no warranty. The stories are fiction: the characters are invented, while the places and history are real.</p>
+      <p><a class="btn" href="#stories">Start reading</a></p></div>`;
+  }
   function learn() {
     app.innerHTML = `<div class="wrap pg"><div class="crumbs">Home<span>›</span>How to learn</div>
       <h1>How to learn Spanish <span class="or">with stories</span></h1>
@@ -907,6 +921,7 @@
     else if (raw === 'resources') resources();
     else if (raw === 'classroom') classroom();
     else if (raw === 'learn') learn();
+    else if (raw === 'about') { about(); title = 'About – Free Spanish Stories'; }
     else if (raw === 'warmup') { WU.page(); title = 'Warm up – Free Spanish Stories'; }
     else if (raw === 'placement') placementPage();
     else if (raw === 'progress') progressPage();

@@ -146,8 +146,9 @@ html = f'''<!doctype html>
 <a class="nl pdf d" href="#resources">{svg('download', 16)} Resources</a><button id="menu" aria-label="Menu" aria-expanded="false">{svg('menu', 22)}</button></nav>
 <main id="app" tabindex="-1"></main>
 <footer>Free for everyone: no sign-up, no ads, no purchases. PDFs are free to download and print for personal and classroom use.<br>
-<a href="#stories">Stories</a><a href="#learn">How to learn</a><a href="#classroom">Classroom</a><a href="#resources">Resources</a><br>
+<a href="#stories">Stories</a><a href="#learn">How to learn</a><a href="#classroom">Classroom</a><a href="#resources">Resources</a><a href="#about">About</a><br>
 <small class="copy">© 2026 Ruthie D. Lyle, PhD. Stories, illustrations and other content: all rights reserved, free for personal and classroom use. The source code is free software under the <a href="https://github.com/rlylecannon/spanish-short-stories">GNU AGPL v3</a>. These stories are fiction: the characters are invented, while the places and history are real.</small><br>
+<small class="disc">An independent personal project by Ruthie D. Lyle, PhD, not affiliated with or endorsed by any employer. Provided “as is,” with no guarantees of accuracy, performance or availability. <a href="#about">About and disclaimer</a>.</small><br>
 <small>Your quiz scores, drafts and progress are saved on your device. <a href="#progress">Move them to another device</a>.<span id="syncnote"></span></small></footer>
 <script>try{{if(window.claude&&claude.use)document.getElementById("syncnote").textContent=" If you are signed in to Claude, your progress also follows you across devices."}}catch(e){{}}</script>
 <button id="top" onclick="scrollTo(0,0)" aria-label="Back to top">↑</button>
